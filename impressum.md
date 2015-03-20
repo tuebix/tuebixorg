@@ -24,5 +24,5 @@ menu: main
 Christoph Prokop<br />
 Herrenberger Str. 37<br />
 72070 T&uuml;bingen<br />
-<a href="mailto:{{ site.email }}">{{ site.email }}</a><br />
+[{{ site.email }}](mailto:{{ site.email }})<br />
 07071 / 1471028<br />
