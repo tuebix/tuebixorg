@@ -17,9 +17,12 @@ menu: main
 * Matthias Reisenauer
 * Gunnar Schmidt
 
-Ansprechpartner für diese Webseite: Christoph Prokop<br />
-Postanschrift: Herrenberger Str. 37, 72070 T&uuml;bingen<br />
-Kontakt: <a href="mailto:{{ site.email }}">{{ site.email }}</a><br />
-Telefon: 07071 / 1471028 <br />
-Technische Umsetzung:
-[jekyll](http://jekyllrb.com/) und [github pages](https://pages.github.com/)
+# Technische Umsetzung dieser Webseite
+<a href="http://jekyllrb.com/" target="_blank">jekyll</a> und <a href="https://pages.github.com" target="_blank">github pages</a>
+
+# Ansprechpartner für diese Webseite<br />
+Christoph Prokop<br />
+Herrenberger Str. 37<br />
+72070 T&uuml;bingen<br />
+<a href="mailto:{{ site.email }}">{{ site.email }}</a><br />
+07071 / 1471028<br />

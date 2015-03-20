@@ -6,18 +6,18 @@ weight: 30
 menu: main
 ---
 
-* [LUGT / Linux User Group Tübingen](http://tuebingen.linux.de)
-* [Linux User Group Reutlingen](http://www.lug-reutlingen.de)
-* [LISTIG / Linux Stammtisch im Gäu (Herrenberg)](http://www.listig.org)
-* [LUGES / Linux User Group Esslingen](http://www.lisas.de)
-* [AK Cryptoparty auf dem Sand](https://www.fsi.uni-tuebingen.de/mailman/listinfo/crypto)
-* [Cryptoparty am Marktplatz](http://www.cryptoparty-tuebingen.de)
-* [cryptoparty.in/tuebingen](http://www.cryptoparty.in/tuebingen)
-* [FabLab Neckar-Alb e.V.](http://www.fablab-neckar-alb.org)
-* [Chaostreff "Chaos-Curry" Tübingen](http://www.chaostreff-tuebingen.de), [Forum](groups.google.com/forum/?hl=de&fromgroups#!forum/chaos-curry-tubingen)
-* [shack / Hackerspace Stuttgart](http://www.shackspace.de)
-* [linuxmuster.net e.V.](http://www.linuxmuster.net)
-* [FSI / Fachschaft Informatik Uni Tübingen](https://www.fsi.uni-tuebingen.de/)
+* <a href="http://tuebingen.linux.de" target="_blank">LUGT / Linux User Group Tübingen</a>
+* <a href="http://www.lug-reutlingen.de" target="_blank">Linux User Group Reutlingen</a>
+* <a href="http://www.listig.org" target="_blank">LISTIG / Linux Stammtisch im Gäu (Herrenberg)</a>
+* <a href="http://www.lisas.de" target="_blank">LUGES / Linux User Group Esslingen</a>
+* <a href="https://www.fsi.uni-tuebingen.de/mailman/listinfo/crypto" target="_blank">AK Cryptoparty auf dem Sand</a>
+* <a href="http://www.cryptoparty-tuebingen.de" target="_blank">Cryptoparty am Marktplatz</a>
+* <a href="http://www.cryptoparty.in/tuebingen" target="_blank">cryptoparty.in/tuebingen</a>
+* <a href="http://www.fablab-neckar-alb.org" target="_blank">FabLab Neckar-Alb e.V.</a>
+* <a href="http://www.chaostreff-tuebingen.de" target="_blank">Chaostreff "Chaos-Curry" Tübingen</a>
+* <a href="http://www.shackspace.de" target="_blank">shack / Hackerspace Stuttgart</a>
+* <a href="http://www.linuxmuster.net" target="_blank">linuxmuster.net e.V.</a>
+* <a href="https://www.fsi.uni-tuebingen.de" target="_blank">FSI / Fachschaft Informatik Uni Tübingen</a>
 
-Du weißt einen Link, der hier gut dazupasst oder du hast einen Fehler gefunden?
+Du weißt einen Link, der hier gut dazupasst oder du hast einen Fehler gefunden?<br />
 Dann schreib bitte an [{{ site.email }}](mailto:{{ site.email }})

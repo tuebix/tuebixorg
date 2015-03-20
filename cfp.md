@@ -71,4 +71,4 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 Lade dir die [Anmeldung](../anmeldung.tuebix.txt) herunter, f&uuml;lle sie aus und schicke sie an <a href="mailto:cfp@tuebix.org">cfp@tuebix.org</a> (spätestens bis zum 30. April).
 Wir haben viele kleine Räume und können somit einige Workshops anbieten, falls dein Vortrag auch als Workshop möglich wäre, schreib das bitte dazu!
 
-<p style="text-align: right;"><a href="http://www.flaticon.com">icons designed by Freepik</a></p>
+<p style="text-align: right;"><a href="http://www.flaticon.com" target="_blank">icons designed by Freepik</a></p>

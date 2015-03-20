@@ -6,10 +6,10 @@ weight: 20
 menu: main
 ---
 
-{{ site.title }} findet [auf dem Sand in Tübingen](http://www.openstreetmap.org/way/8044916#map=17/48.53476/9.07111) statt.
-In diesen Gebäuden ist das [Wilhelm-Schickard-Institut für Informatik](http://www.wsi.uni-tuebingen.de) untergebracht.
+{{ site.title }} findet <a href="http://www.openstreetmap.org/way/8044916#map=17/48.53476/9.07111" target="_blank">auf dem Sand in Tübingen</a> statt.
+In diesen Gebäuden ist das <a href="http://www.wsi.uni-tuebingen.de" target="_blank">Wilhelm-Schickard-Institut für Informatik</a> untergebracht.
 
-Mit der Buslinie 2 [ab Hauptbahnhof Tübingen](http://www.swtue.de/abfahrt/?halt=100005) in Richtung "Sand - Waldhäuser Ost" bis Haltestelle "Sand Drosselweg".
+Mit der Buslinie 2 <a href="http://www.swtue.de/abfahrt/?halt=100005" target="_blank">ab Hauptbahnhof Tübingen</a> in Richtung "Sand - Waldhäuser Ost" bis Haltestelle "Sand Drosselweg".
 
 Parkplätze gibt es in dem großen Hof hinter den Gebäuden.
 
