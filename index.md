@@ -17,3 +17,5 @@ Dieser Tag könnte etwas für dich sein, falls du:
 * ... nebenbei ein <a href="http://www.wsi.uni-tuebingen.de/fachbereich/wilhelm-schickard-institut-fuer-informatik/computermuseum.html" target="_blank">Computermuseum</a> besuchen möchtest
 * ... von anderen etwas dazulernen möchtest
 * ... anderen etwas zeigen oder beibringen möchtest (siehe "[Call for Papers](./callforpapers/)")
+
+<p style="text-align: right;"><a href="http://de.wikipedia.org/wiki/Tux_%28Maskottchen%29#/media/File:Tux.svg" target="_blank">Bildquelle: Wikipedia</a></p>
