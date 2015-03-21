@@ -18,6 +18,7 @@ menu: main
 * <a href="http://www.shackspace.de" target="_blank">shack / Hackerspace Stuttgart</a>
 * <a href="http://www.linuxmuster.net" target="_blank">linuxmuster.net e.V.</a>
 * <a href="https://www.fsi.uni-tuebingen.de" target="_blank">FSI / Fachschaft Informatik Uni Tübingen</a>
+* <a href="https://moodle02.zdv.uni-tuebingen.de/course/view.php?id=995" target="_blank">leider nur mit ZDV-Account erreichbar: Unix AG Uni Tübingen </a>
 
 Du weißt einen Link, der hier gut dazupasst oder du hast einen Fehler gefunden?<br />
 Dann schreib bitte an [{{ site.email }}](mailto:{{ site.email }})
