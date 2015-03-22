@@ -11,7 +11,7 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <!-- meta robots -->
-  {{ "{%" }} if page.noindex %}
+  {% if page.noindex %}
       <meta name="robots" content="noindex" />
-  {{ "{%" }} endif %}
+  {% endif %}
 </head>
