@@ -10,4 +10,8 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <!-- meta robots -->
+  {{ "{%" }} if page.noindex %}
+      <meta name="robots" content="noindex" />
+  {{ "{%" }} endif %}
 </head>

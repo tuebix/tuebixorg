@@ -4,6 +4,7 @@ title: Termine
 permalink: /termine/
 weight: 40
 menu: main
+noindex: true
 ---
 
 # Die nächsten "Linux-Termine" in und um Tübingen
