@@ -19,6 +19,7 @@ Bis zum 13. Juni ist es ja noch eine Weile hin...
 * 14.04. 18:00 <a href="http://lug-s.org" target="_blank">LUGS / Linux User Group Stuttgart</a>
 * 25.04. 15:00 <a href="https://www.cryptoparty-tuebingen.de" target="_blank">cryptoparty im Lamm am Marktplatz</a>
 * 30.04. 18:00 <a href="http://lug-s.org" target="_blank">LUGS / Linux User Group Stuttgart</a>
+* 23.05. 15:00 <a href="https://www.cryptoparty-tuebingen.de" target="_blank">cryptoparty im Lamm am Marktplatz</a>
 
 Du weißt einen Termin, der hier gut dazupasst oder du hast einen Fehler gefunden?<br />
 Dann schreib bitte an [{{ site.email }}](mailto:{{ site.email }})
