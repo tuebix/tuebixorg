@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<schedule>
+  <conference>
+    <title>TUEBIX 2015</title>
+    <city>T&#xFC;bingen</city>
+    <start>2015-06-12</start>
+    <end>2015-06-13</end>
+    <days>2</days>
+    <release>1.20150324.2100</release>
+    <timeslot_duration>00:30</timeslot_duration>
+  </conference>
+  <day date="2015-06-12" index="1">
+    <room name="Ort noch unbekannt, irgendein Restaurant in Tübingen">
+      <event id="auftakt">
+        <start>19:00</start>
+        <duration>5:00</duration>
+        <title>Auftakt</title>
+        <track>Rahmenprogramm</track>
+        <persons>alle TÜBIX-Teilnehmer, die schon am Abend davor starten wollen
+</persons>
+        <abstract>Willkommen in Tübingen! Ankommen, gemeinsam Essen und Austausch. Einstimmung für den folgenden Tag. Laptops mitbringen!</abstract>
+      </event>
+    </room>
+  </day>
+  <day date="2015-06-13" index="2">
+    <room name="Room1">
+      <event id="dummy-talk">
+        <start>09:30</start>
+        <duration>0:30</duration>
+        <title>I am so alone!</title>
+        <track>dummy</track>
+        <persons>
+</persons>
+        <abstract>This is just a dummy to test whether giggity shows it.</abstract>
+      </event>
+  </day>
+</schedule>
