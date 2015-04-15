@@ -10,14 +10,15 @@ menu: main
 
 Bis zum 13. Juni ist es ja noch eine Weile hin...
 
-* 09.04. 20:00 <a href="http://tuebingen.linux.de" target="_blank">LUGT / Linux User Group Tübingen</a>
 * 14.04. 18:00 <a href="http://lug-s.org" target="_blank">LUGS / Linux User Group Stuttgart</a>
 * 17.04. 20:00 <a href="http://www.lug-reutlingen.de/de-V.pl" target="_blank">LUG Reutlingen</a>
 * 25.04. 15:00 <a href="https://www.cryptoparty-tuebingen.de" target="_blank">cryptoparty im Lamm am Marktplatz</a>
 * 30.04. 18:00 <a href="http://lug-s.org" target="_blank">LUGS / Linux User Group Stuttgart</a>
 * 06.05. 20:00 <a href="http://www.lisas.de" target="_blank">LUGES / Linux User Group Esslingen</a>
+* 07.05. 20:00 <a href="http://tuebingen.linux.de" target="_blank">LUGT / Linux User Group Tübingen</a>
 * 23.05. 15:00 <a href="https://www.cryptoparty-tuebingen.de" target="_blank">cryptoparty im Lamm am Marktplatz</a>
 * 03.06. 20:00 <a href="http://www.lisas.de" target="_blank">LUGES / Linux User Group Esslingen</a>
+* 04.06. 20:00 <a href="http://tuebingen.linux.de" target="_blank">LUGT / Linux User Group Tübingen</a>
 * 12.06. 19:00 <a href="http://www.tuebix.org">TÜBIX: Auftakt</a>
 * 13.06. 09:00 <a href="http://www.tuebix.org">TÜBIX</a>
 * 13.06. 17:00 <a href="http://www.tuebix.org">TÜBIX: Ausklang</a>
@@ -35,3 +36,4 @@ Dann schreib bitte an [{{ site.email }}](mailto:{{ site.email }})
 * 31.03. 20:00 <a href="http://www.lugulm.de" target="_blank">LUGU / Linux User Group Ulm</a>
 * 01.04. 20:00 <a href="http://www.lisas.de" target="_blank">LUGES / Linux User Group Esslingen</a>
 * 03.04. 20:00 <a href="http://www.lug-reutlingen.de/de-V.pl" target="_blank">LUG Reutlingen</a>
+* 09.04. 20:00 <a href="http://tuebingen.linux.de" target="_blank">LUGT / Linux User Group Tübingen</a>
