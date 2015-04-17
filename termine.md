@@ -12,7 +12,7 @@ menu: main
 * 30.04. 18:00 <a href="http://lug-s.org" target="_blank">LUGS / Linux User Group Stuttgart</a>
 * 06.05. 20:00 <a href="http://www.lisas.de" target="_blank">LUGES / Linux User Group Esslingen</a>
 * 07.05. 20:00 <a href="http://tuebingen.linux.de" target="_blank">LUGT / Linux User Group Tübingen</a>
-* 14.-17.05. 20:00 <a href="https://www.lugcamp.de" target="_blank">LUG-Camp 2015 in Bergneustadt bei Köln</a>
+* 14. - 17.05. <a href="https://www.lugcamp.de" target="_blank">LUG-Camp 2015 in Bergneustadt bei Köln</a>
 * 23.05. 15:00 <a href="https://www.cryptoparty-tuebingen.de" target="_blank">cryptoparty im Lamm am Marktplatz</a>
 * 03.06. 20:00 <a href="http://www.lisas.de" target="_blank">LUGES / Linux User Group Esslingen</a>
 * 04.06. 20:00 <a href="http://tuebingen.linux.de" target="_blank">LUGT / Linux User Group Tübingen</a>
