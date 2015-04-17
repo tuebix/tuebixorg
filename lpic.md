@@ -34,5 +34,6 @@ Details zu den Prüfungsversionen und den Inhalten sind unter den folgenden URLs
 
  *  <a href="http://www.lpice.eu/de/lpi-zertifizierungsinhalte.html" target="_blank">www.lpice.eu/de/lpi-zertifizierungsinhalte.html</a>
  *  <a href="http://www.lpi.org/certification/" target="_blank">www.lpi.org/certification/</a>
+ *  [http://www.lpice.eu/de/lpi-zertifizierungsinhalte.html](http://www.lpice.eu/de/lpi-zertifizierungsinhalte.html){:target="_blank"}
 
 Für weitere Fragen zu den LPI Prüfungen bitte per E-Mail direkt an das LPI wenden: <a href="mailto:lpievent@lpice.eu">event@lpice.eu</a>
