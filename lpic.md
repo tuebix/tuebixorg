@@ -10,6 +10,7 @@ menu: main
 
 Zertifikate belegen Fachwissen - Sie dokumentieren Qualifikation und Know-how vor Arbeitgebern oder Kunden und verbessern die Ein- und Aufstiegschancen. Das <a href="http://www.lpice.eu/de/home.html" target="_blank">Linux Professional Institute (LPI)</a> ist Zertifizierungspartner des Tübinger Linuxtags. Die Besucher können deshalb LPI Prüfungen zu stark vergünstigten Konditionen ablegen.
 
+![LPI-Essentials](../images/linuxessentials.png "LPI-Essentials-Logo")
 ![LPIC-1-Logo](../images/lpic1.png "LPIC-1-Logo")
 ![LPIC-2-Logo](../images/lpic2.png "LPIC-2-Logo")
 ![LPIC-3-Logo](../images/lpic3.png "LPIC-3-Logo")
@@ -32,8 +33,7 @@ Die Prüfungen finden am Samstag, den 13.06. jeweils um 10:00 Uhr und 14:00 Uhr 
 
 Details zu den Prüfungsversionen und den Inhalten sind unter den folgenden URLs nachzulesen:
 
- *  <a href="http://www.lpice.eu/de/lpi-zertifizierungsinhalte.html" target="_blank">www.lpice.eu/de/lpi-zertifizierungsinhalte.html</a>
- *  <a href="http://www.lpi.org/certification/" target="_blank">www.lpi.org/certification/</a>
- *  [http://www.lpice.eu/de/lpi-zertifizierungsinhalte.html](http://www.lpice.eu/de/lpi-zertifizierungsinhalte.html){:target="_blank"}
+ *  <a href="http://www.lpice.eu/de/lpi-zertifizierungsinhalte.html" target="_blank">lpice.eu/de/lpi-zertifizierungsinhalte.html</a>
+ *  <a href="http://www.lpi.org/certification/" target="_blank">lpi.org/certification/</a>
 
 Für weitere Fragen zu den LPI Prüfungen bitte per E-Mail direkt an das LPI wenden: <a href="mailto:lpievent@lpice.eu">event@lpice.eu</a>
