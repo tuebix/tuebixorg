@@ -16,6 +16,7 @@ menu: main
 * 23.05. 15:00 <a href="https://www.cryptoparty-tuebingen.de" target="_blank">cryptoparty im Lamm am Marktplatz</a>
 * 03.06. 20:00 <a href="http://www.lisas.de" target="_blank">LUGES / Linux User Group Esslingen</a>
 * 04.06. 20:00 <a href="http://tuebingen.linux.de" target="_blank">LUGT / Linux User Group Tübingen</a>
+* 04. - 07.06.  <a href="https://entropia.de/Gulaschprogrammiernacht" target="_blank">Gulaschprogrammiernacht 15 des Entropia e.V. Karlsruhe</a>
 * 12.06. 19:00 <a href="http://www.tuebix.org">TÜBIX: Auftakt</a>
 * 13.06. 09:00 <a href="http://www.tuebix.org">TÜBIX</a>
 * 13.06. 17:00 <a href="http://www.tuebix.org">TÜBIX: Ausklang</a>
