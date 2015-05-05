@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Harald
-permalink: /programm/harald
+permalink: /harald/
 weight: 
 menu: 
 ---
