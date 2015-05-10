@@ -3,7 +3,7 @@ layout: page
 title: Programm
 permalink: /programm/
 weight: 5
-menu: main
+menu:
 ---
 <a href="../programm/">geordnet nach Uhrzeit</a><br />
 <a href="../programm_pro_raum/">geordnet nach Raum</a><br />
