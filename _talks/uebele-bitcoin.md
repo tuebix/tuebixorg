@@ -1,0 +1,27 @@
+---
+layout: talk
+title:
+permalink: /programm/uebele-bitcoin/
+weight: 
+menu:
+---
+## Bitcoin&nbsp;-&nbsp;Eine&nbsp;dezentrale&nbsp;Währung
+
+### <img height = "32" src="../../images/talk.svg"> 10:00 bis 10:30 in Raum V3
+
+### Peter&nbsp;Uebele
+
+### Schlagworte
+
+Bitcoin, Technische Funktionsweise, Gesellschaftliche Aspekte, Vor- und Nachteile gegenüber konventionellen Währungen
+
+### Inhalt
+
+Bitcoin ist eine dezentral organisierte und auf Kryptographie basierte Währung. Zu den Besonderheiten zählt beispielsweise, dass beim Bezahlen keine Zwischenhändler (wie z.B. Banken) nötig sind.
+In diesem Vortrag wird zunächst kurz die Geschichte und der technische Hintergrund des Bitcoins skizziert. Anschließend werde ich auf gesellschaftliche Aspekte eingehen. Dabei sollen sowohl die Vorteile gegenüber herkömmlichen Währungen als auch mögliche Gegenargumente thematisiert werden.
+Im Anschluss stehe ich gerne auch für praktische Fragen wie beispielsweise die Installation von Bitcoin-Apps auf dem Handy zur Verfügung.
+
+### Vorwissen
+
+keine Vorkenntnisse nötig
+
