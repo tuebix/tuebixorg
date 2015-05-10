@@ -48,15 +48,15 @@ menu:
 <td></td><td></td>
 <td></td><td></td>
 <td></td><td></td>
-<td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/hofman-lug_berlin">LUG Berlin</a></td>
+<td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/hofman-lug_berlin">LUG Berlin</a></td>
 <td></td><td></td>
 </tr>
 
 <tr><td>12:00</td>
 <td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/mundt_nachbauer-jessie_party">Jessie Party</a></td>
-<td></td><td>x2go</td>
+<td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/baur_graesing-x2go">x2go</a></td>
 <td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/waelde-emacs">emacs</a></td>
-<td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/schiebel-linuxmuster">linuxmuster.net</a></td>
+<td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiebel-linuxmuster">linuxmuster.net</a></td>
 <td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kockler-puppet1">Puppet I</a></td>
 <td></td><td></td>
 <td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/imme-latex_verein">LaTeX im Verein</a></td>
@@ -155,6 +155,7 @@ menu:
 
 
 <table>
+<tr><td colspan="2">Uhrzeiten der Lightning Talks in V3 noch unklar:</td></tr>
 <tr><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/stadelmeier_wannenmacher-tor_router">Tor Router</a></td></tr>
 <tr><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/blechschmidt-haskell">Haskell</a></td></tr>
 <tr><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/helmle-einfache_sprache">Einfache Sprache</a></td></tr>

@@ -22,12 +22,13 @@ menu:
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/yanar-lxc_docker2">Docker</a></td><td>Erkan&nbsp;Yanar</td></tr>
 <tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/guckes-muttgpg_vortrag">mutt+gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/genannt-sshkey_distribution">SSH&nbsp;Public&nbsp;Key&nbsp;Distribution&nbsp;-&nbsp;the&nbsp;smart&nbsp;way</a></td><td>Jonas&nbsp;Genannt</td></tr>
-<tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/hofman-lug_berlin">Unter&nbsp;einem&nbsp;Dach.&nbsp;Regionale&nbsp;Vernetzung&nbsp;der&nbsp;Berliner</a></td><td>Frank&nbsp;hofmann</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/hofman-lug_berlin">Unter&nbsp;einem&nbsp;Dach.&nbsp;Regionale&nbsp;Vernetzung&nbsp;der&nbsp;Berliner</a></td><td>Frank&nbsp;hofmann</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/engelmann-lyx">Mit&nbsp;Lyx&nbsp;Text&nbsp;verarbeiten</a></td><td>Wolfgang&nbsp;Engelmann</td></tr>
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">12:00</td></tr>
 <tr><td>W1</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/mundt_nachbauer-jessie_party">Debian&nbsp;GNU/Linux&nbsp;"Jessie"&nbsp;Install&nbsp;Party</a></td><td>Florian&nbsp;Nachbauer&nbsp;und&nbsp;Andreas&nbsp;Mundt</td></tr>
+<tr><td>W2</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/baur_graesing-x2go">x2go</a></td><td>Stefan Baur, Heinz Graesing</td></tr>
 <tr><td>W3</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/waelde-emacs">Anständiges&nbsp;Werkzeug:&nbsp;emacs</a></td><td>Erich&nbsp;Wälde</td></tr>
-<tr><td>V1</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/schiebel-linuxmuster">linuxmuster.net&nbsp;-&nbsp;die&nbsp;freie&nbsp;Linux-Musterlösung&nbsp;für&nbsp;schulische&nbsp;Netzwerke</a></td><td>Frank&nbsp;Schiebel</td></tr>
+<tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiebel-linuxmuster">linuxmuster.net&nbsp;-&nbsp;die&nbsp;freie&nbsp;Linux-Musterlösung&nbsp;für&nbsp;schulische&nbsp;Netzwerke</a></td><td>Frank&nbsp;Schiebel</td></tr>
 <tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kockler-puppet1">Puppet&nbsp;I:&nbsp;Zentrale&nbsp;Administration&nbsp;einer&nbsp;Server&nbsp;Infrastruktur</a></td><td>Torsten&nbsp;Kockler</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/imme-latex_verein">LaTeX&nbsp;für&nbsp;den&nbsp;Verein</a></td><td>Roland&nbsp;Imme</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kuestner_strohmaier-wueste_welle">OpenSource&nbsp;Software&nbsp;-&nbsp;So&nbsp;setzen&nbsp;wir&nbsp;sie&nbsp;im&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle&nbsp;ein.</a></td><td>Friedrich&nbsp;Strohmaier</td></tr>
@@ -64,7 +65,7 @@ menu:
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">18:00</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/koenig-bash">Haralds&nbsp;kleine&nbsp;Helferlein&nbsp;die&nbsp;SHELL</a></td><td>Harald&nbsp;König</td></tr>
 
-<tr><td>&nbsp;</td></tr><tr><td colspan="3">Uhrzeiten der Lightning Talks in V3 noch unklar</td></tr>
+<tr><td>&nbsp;</td></tr><tr><td colspan="3">Uhrzeiten der Lightning Talks in V3 noch unklar:</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/stadelmeier_wannenmacher-tor_router">Tor-Router</a></td><td>Fabian&nbsp;Wannenmacher</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/blechschmidt-haskell">Haskell,&nbsp;eine&nbsp;rein&nbsp;funktionale&nbsp;Programmiersprache</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/blechschmidt-sandstorm">Sandstorm,&nbsp;eine&nbsp;einfache&nbsp;Plattform&nbsp;für&nbsp;private&nbsp;Cloud-Server</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
