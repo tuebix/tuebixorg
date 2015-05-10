@@ -20,8 +20,15 @@ with open("programm.md", 'a') as programm,  open("programm2.md", 'a') as program
     programm3.write('<a href="../programm/">geordnet nach Uhrzeit</a><br />\n')
     programm3.write('<a href="../programm_pro_raum/">geordnet nach Raum</a><br />\n')
     programm3.write('<a href="../programm_auf_einen_blick">auf einen Blick</a><br />\n\n')
+
     programm.write("<table>\n")
+    for clock in range(10,19):
+        programm.write('<tr><td>&nbsp;</td></tr><tr><td colspan="3">' + str(clock) + ':00</td></tr><tr><td>&nbsp;</td></tr>\n')
+
     programm2.write("<table>\n")
+    for room in ["W1", "W2", "W3", "V1", "V2", "V3", "V4"]:
+        programm2.write('<tr><td>&nbsp;</td></tr><tr><td colspan="3">Raum ' + room + '</td></tr><tr><td>&nbsp;</td></tr>\n')
+
     programm3.write("<table>\n")
 
     for k,v in data.items():
