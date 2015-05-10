@@ -27,7 +27,7 @@ with open("programm.md", 'a') as programm,  open("programm2.md", 'a') as program
 
     programm2.write("<table>\n")
     for room in ["W1", "W2", "W3", "V1", "V2", "V3", "V4"]:
-        programm2.write('<tr><td>&nbsp;</td></tr><tr><td colspan="3">Raum ' + room + '</td></tr><tr><td>&nbsp;</td></tr>\n')
+        programm2.write('<tr><td>&nbsp;</td></tr><tr><td colspan="3">Raum ' + room + '</td></tr>\n')
 
     programm3.write("<table>\n")
 
