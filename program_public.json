@@ -1,0 +1,1932 @@
+{
+    "klaeren-computermuseum": {
+        "Sonstiges": [], 
+        "Name": [
+            "Herbert Klaeren"
+        ], 
+        "Zeit": {
+            "Begin": "16:00", 
+            "Ende": "16:30"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [], 
+        "Vorwissen": [], 
+        "Schlagworte": [], 
+        "Raum": "V3", 
+        "Ident": "klaeren-computermuseum", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Das Computermuseum auf dem Sand"
+        ]
+    }, 
+    "schiele-nixos": {
+        "Sonstiges": [], 
+        "Name": [
+            "Joachim Schiele"
+        ], 
+        "Zeit": {
+            "Begin": "10:00", 
+            "Ende": "11:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "eine einführung in die vorteile/nachteile von NixOS, einführung in die", 
+            "Nix programmiersprache"
+        ], 
+        "Vorwissen": [
+            "sichere verwendung der shell mit tools z.b. wie:", 
+            "- apt-get (analog yum usw...)", 
+            "- vim", 
+            "- grub", 
+            "- fdisk", 
+            "- mkfs.ext4", 
+            "- wissen was eine partition ist"
+        ], 
+        "Schlagworte": [
+            "vorteile von http://nixos.org/:", 
+            "- declarative", 
+            "- reliable", 
+            "- devops friendly"
+        ], 
+        "Raum": "V2", 
+        "Ident": "schiele-nixos", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Was ist NixOS?"
+        ]
+    }, 
+    "blechschmidt-wireshark": {
+        "Sonstiges": [], 
+        "Name": [
+            "Ingo Blechschmidt"
+        ], 
+        "Zeit": {
+            "Begin": "15:00", 
+            "Ende": "16:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Wireshark ist ein freies Werkzeug, mit dem man aus- und eingehenden", 
+            "Netzwerkverkehr mitschneiden und analysieren kann. Das ist allgemein", 
+            "nützlich, wenn man wissen möchte, wie Daten genau aussehen, die", 
+            "Programme, Webseiten, Smartphones und sonstige Geräte übers Netzwerk", 
+            "schicken und empfangen. Konkret kann man Verbindungsprobleme", 
+            "diagnostizieren, Netzwerkprotokolle verstehen, das eigene", 
+            "Sicherheitsbewusstsein schärfen und herausfinden, welche Informationen", 
+            "Programme beim nach Hause telefonieren übertragen.", 
+            "Der Vortrag wird in die Bedienung von Wireshark einführen und dann", 
+            "mehrere Beispiele vorführen."
+        ], 
+        "Vorwissen": [
+            "*Keines*. (Besucher, die schon mehr als einmal Wireshark selbst", 
+            "verwendet haben, werden sich langweilen!)"
+        ], 
+        "Schlagworte": [
+            "Mit Wireshark kann man aus- und eingehenden Netzwerkverkehr mitschneiden", 
+            "und analysieren.", 
+            "https://www.wireshark.org/"
+        ], 
+        "Raum": "V2", 
+        "Ident": "blechschmidt-wireshark", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Netzwerksniffing mit Wireshark"
+        ]
+    }, 
+    "schiebel-linuxmuster": {
+        "Sonstiges": [], 
+        "Name": [
+            "Frank Schiebel"
+        ], 
+        "Zeit": {
+            "Begin": "12:00", 
+            "Ende": "13:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "linuxmuster.net ist eine umfassende Komplettlösung für den Betrieb", 
+            "schulischer Netzwerke. Serverseitig kommt Ubuntu zum Einsatz, der", 
+            "Betrieb der Arbeitsplatzrechner ist unter verschiendenen Windows", 
+            "Versionen und Linux möglich.", 
+            "Softwareverteilung und störungsfreier Betrieb werden durch", 
+            "selbstheilende Arbeitsstationen (SheilA) ermöglicht, bei denen jeder", 
+            "Arbeitsplatzrechner in kurzer Zeit mit dem gewünschten Betriebssystem", 
+            "und der nötigen Software in einer Standardkonfiguration gestartet", 
+            "werden kann.", 
+            "Weiterentwicklung, Pflege und Support finden unter dem Dach des", 
+            "gemeinnützigen Vereins “linuxmuster.net e.V.” statt.", 
+            "Der Vortrag führt in die Besonderheiten schulischer Netzwerke ein und", 
+            "erläutert das Konzept der freien Musterlösung linuxmuster.net."
+        ], 
+        "Vorwissen": [], 
+        "Raum": "V1", 
+        "Ident": "schiebel-linuxmuster", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "linuxmuster.net - die freie Linux-Musterlösung für schulische Netzwerke", 
+            "http://www.linuxmuster.net/"
+        ]
+    }, 
+    "helmle-einfache_sprache": {
+        "Sonstiges": [], 
+        "Name": [
+            "Krishna-Sara Helmle"
+        ], 
+        "Zeit": {
+            "Begin": "", 
+            "Ende": ""
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Als Admin oder als Mitarbeiter im Support hast du oft das Problem, dass du", 
+            "– meist per Telefon – zuerst das Problem des Users verstehen und ihm dann", 
+            "erklären sollst, was er jetzt tun soll.", 
+            "Als Programmierer, grade im BtC-Bereich, geht es oft darum, sich dem Kunden", 
+            "verständlich mitzuteilen, um ihn optimal bedienen zu können.", 
+            "Das ist manchmal gar nicht so leicht.", 
+            "Leichte Sprache kann hier helfen, den eigenen Sprachgebrauch zu", 
+            "reflektieren; um User und Kunden noch besser dort abzuholen, wo sie sind.", 
+            "Ich stelle das Konzept Leichte Sprache anhand von einigen Beispielen vor."
+        ], 
+        "Vorwissen": [], 
+        "Schlagworte": [
+            "Leichte Sprache verbessert die Kommunikation zwischen Fachleuten und Laien.", 
+            "Leichte Sprache:", 
+            "https://de.wikipedia.org/wiki/Leichte_Sprache", 
+            "Mein Büro für Leichte Sprache: www.leicht-verstehen.de"
+        ], 
+        "Raum": "V3", 
+        "Ident": "helmle-einfache_sprache", 
+        "Typ": [
+            "Lightning Talk"
+        ], 
+        "Titel": [
+            "Leichte Sprache in der IT oder – wie sag ich’s dem User?"
+        ]
+    }, 
+    "zimmer-vim": {
+        "Sonstiges": [], 
+        "Name": [
+            "Toni Zimmer"
+        ], 
+        "Zeit": {
+            "Begin": "10:00", 
+            "Ende": "12:00"
+        }, 
+        "Vorbereitung": [
+            "vim", 
+            "7.x sollte zur Hand sein, nen Beamer waere praktisch"
+        ], 
+        "Inhalt": [
+            "- ggf. kurze Auffrischung des vimtutors", 
+            "- Erlaeuterung des Hilfesystems", 
+            "- Unterschiede zu vi", 
+            "- fortgeschrittenes \"Bewegen\" und Editieren in einer Datei", 
+            "- .vimrc und .viminfo", 
+            "- Arbeiten mit selbst definierten Shortcuts (Mappings,", 
+            "Abbreviations)", 
+            "- Makros", 
+            "- Arbeiten mit Tabs", 
+            "- Arbeiten im \"visual mode\"", 
+            "- Skeletons"
+        ], 
+        "Vorwissen": [
+            "vimtutor mal durchgespielt zu", 
+            "haben waere praktisch aber nicht zwingend"
+        ], 
+        "Schlagworte": [], 
+        "Raum": "W3", 
+        "Ident": "zimmer-vim", 
+        "Typ": [
+            "Workshop"
+        ], 
+        "Titel": [
+            "Vim für Nicht-Mehr-Beginner und", 
+            "Noch-Nicht-Fortgeschrittene"
+        ]
+    }, 
+    "weissensel-fish": {
+        "Sonstiges": [], 
+        "Name": [
+            "Jonas Weissensel"
+        ], 
+        "Zeit": {
+            "Begin": "10:30", 
+            "Ende": "11:00"
+        }, 
+        "Vorbereitung": [
+            "* Beamer benötigt für Live-Präsentation"
+        ], 
+        "Inhalt": [
+            "Ich bin begeisterter Nutzer der \"fish\", einer Kommandozeilen-Shell, die imho eine bessere", 
+            "Out-of-the-Box Nutzererfahrung bietet als die bash.", 
+            "Mein Vortrag beschreibt in Kürze die Motivation hinter dem Wechsel und beispielhaft einige Probleme,", 
+            "auf die ich im Laufe der Zeit gestoßen bin und wie ich diese (mehr oder weniger erfolgreich) bewältigt habe.", 
+            "Das Vortragsniveau bleibt auf Einsteigerlevel, es beginnt mit einer kurzen Einführung, was eine Shell überhaupt ist,", 
+            "und im weiteren Verlauf werde ich einfach einige Beispiele aus dem Alltag im Bash/Fish-Vergleich vorführen."
+        ], 
+        "Vorwissen": [
+            "* Grundlegende Kenntnisse über CLI", 
+            "* Interesse für Text-Anwendungen"
+        ], 
+        "Schlagworte": [
+            "Linux, OSX, Shell [http://fishshell.com/], Kommandozeile, out-of-the-box, scripting, Einsteigerniveau"
+        ], 
+        "Raum": "V3", 
+        "Ident": "weissensel-fish", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "fish - Die \"friendly interactive shell\""
+        ]
+    }, 
+    "kemmer-network_steganographic": {
+        "Sonstiges": [], 
+        "Name": [
+            "Florian Kemmer"
+        ], 
+        "Zeit": {
+            "Begin": "17:00", 
+            "Ende": "18:00"
+        }, 
+        "Inhalt": [
+            "Zensur und Überwachung, insbesondere im Internet, sind heutzutage allgegenwärtig. Nicht zuletzt durch die NSA wurde deutlich, dass Bedarf an privaten Kommunikationsmöglichkeiten besteht. Bedarf, der nicht immer durch Verschlüsselung gedeckt werden kann.", 
+            "Nach einer kurzen Einführung in die Grundidee der Steganographie werden verschiedene Ansätze zur Umsetzung dieser Idee auf Netzwerkebene gezeigt. Anschließend wird ein neuartiges Verfahren vorgestellt, bei dem geheime Botschaften in scheinbar normale FTP-Übertragungen eingebettet werden. Neben dem Design wird auch von Erfahrungen bei der Implementierung des Protoyps berichtet sowie Vor- und Nachteile gegenüber existierenden Methoden erläutert."
+        ], 
+        "Vorwissen": [
+            "Grundlegendes Verständnis der Netzwerkprotokolle IP, UDP und TCP von Vorteil.", 
+            "-- Mailingliste tuebix-cfp https://www.fsi.uni-tuebingen.de/mailman/listinfo/tuebix-cfp"
+        ], 
+        "Schlagworte": [], 
+        "Raum": "V2", 
+        "Ident": "kemmer-network_steganographic", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Steganographic Communication using TCP Inter Burst Delays"
+        ]
+    }, 
+    "hrenka-python": {
+        "Sonstiges": [], 
+        "Name": [
+            "Peter Hrenka"
+        ], 
+        "Zeit": {
+            "Begin": "16:00", 
+            "Ende": "18:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [], 
+        "Vorwissen": [], 
+        "Schlagworte": [], 
+        "Raum": "W1", 
+        "Ident": "hrenka-python", 
+        "Typ": [
+            "Workshop"
+        ], 
+        "Titel": [
+            "Python - Workshop"
+        ]
+    }, 
+    "pfeifle-pdfkungfoo": {
+        "Sonstiges": [], 
+        "Name": [
+            "Kurt Pfeifle (@pdfkungfoo)"
+        ], 
+        "Zeit": {
+            "Begin": "16:00", 
+            "Ende": "17:00"
+        }, 
+        "Vorbereitung": [
+            "Weder als Vortrag noch als Workshop ist das Thema als \"Mitmach\"-Thema", 
+            "konzipiert. Es ist vielmehr ein \"Aufpass\"-Thema!", 
+            "Denn dabei wird's nicht viele Folien geben, sondern fast ausschließlich", 
+            "Live-Vorführung.", 
+            "Im Nachhinein werden die Teilnehmer über die Tübix-Seite dann ein Archiv", 
+            "mit allen entsprechenden Dokumenten herunterladen können: verwendete", 
+            "Beispiel-Dateien sowie ein Transkript des Vortrags, das alle gezeigten", 
+            "Kommandos nochmals wiedergibt und kurz erläutert."
+        ], 
+        "Inhalt": [
+            "PDF ist das am weitesten verbreitete Dokumenten-Format.", 
+            "Allerdings ist man als PC-Benutzer häufig mit seinem Latein am Ende,", 
+            "wenn das PDF beim Ausdrucken plötzlich anders aussieht als auf dem", 
+            "Bildschirm. Oder wenn beim Kollegen der eigene Entwurf des gemeinsam", 
+            "zu erstellenden Dokuments nicht mehr lesbar ist. Oder wenn man aus", 
+            "einem PDF-Dokument einige Seiten entfernen und stattdessen ein paar", 
+            "weitere einfügen möchte.", 
+            "Bei diesem Workshop wird's nicht viele Folien zu sehen geben.", 
+            "Stattdessen werden alle Themen \"live\" am Beamer vorgeführt.", 
+            "Der Workshop ist geeignet für Windows, Linux, Mac OSX und BSD-Unix-", 
+            "Anwender.", 
+            "General-Thema", 
+            "-------------", 
+            "Der Workshop demonstriert einige der Top-10-Probleme (Reihung nach", 
+            "der subjektiven Erfahrung des Workshop-Leiters), die bei Verarbeitung", 
+            "oder Erstellung von PDF-Dateien in der Praxis auftreten können.", 
+            "Themen-Details", 
+            "--------------", 
+            "Zu den behandelten Problemkreisen gehören unter anderem:", 
+            "- Darstellung von Schriften auf dem Bildschirm oder im Druckbild", 
+            "- Darstellung von transparenten Grafik-Elementen im Druckbild", 
+            "- Extraktion von Text-Stellen oder ganzen Texten", 
+            "- Konvertierung von RGB- oder CMYK-Schwarz oder Grau nach \"echtem\"", 
+            "Schwarz/Grau", 
+            "- Extraktion von Bildern", 
+            "- Reduzierung der Dateigröße", 
+            "- Erkennung gescannter Seiten", 
+            "- Skalierung von PDF-Seiten", 
+            "- Ungewollte Änderungen bei eingebetteten Bildern (Farbraum, Auflösung)", 
+            "- Linearisierung (“Web-Optimierung”) von PDFs", 
+            "Der Workshop führt außerdem schrittweise in einige mehr und auch weniger", 
+            "bekannte Kommandozeilen-Tools ein, die man zum Analysieren und", 
+            "Reparieren dieser Problembereiche verwenden kann:", 
+            "- `qpdf`", 
+            "- `pdftk`", 
+            "- `pdfinfo`", 
+            "- `pdffonts`", 
+            "- `pdfimages`", 
+            "- `pdfunite`", 
+            "- `pdf-parser.py`", 
+            "- `pdfid.py`", 
+            "- `mutool`", 
+            "- Ghostscript (mit wenig bekannten, aber sehr nützlichen Kommandozeilen-", 
+            "Parametern)"
+        ], 
+        "Vorwissen": [
+            "* Interesse an PDF-Erzeugung", 
+            "* Interesse an PDF-Bearbeitung", 
+            "* Interesse an PDF-Debugging", 
+            "* keine Angst vor der Kommandozeile"
+        ], 
+        "Schlagworte": [
+            "PostScript, PDF, Farben/Graustufen, Bilder, Fonts,"
+        ], 
+        "Raum": "V4", 
+        "Ident": "pfeifle-pdfkungfoo", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "PDF-KungFoo mit Ghostscript & Co."
+        ]
+    }, 
+    "goetz-bigdata2": {
+        "Sonstiges": [], 
+        "Name": [
+            "Thomas Götz"
+        ], 
+        "Zeit": {
+            "Begin": "17:00", 
+            "Ende": "18:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [], 
+        "Vorwissen": [], 
+        "Schlagworte": [], 
+        "Raum": "V1", 
+        "Ident": "goetz-bigdata2", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Big Data mit Open Source Tools"
+        ]
+    }, 
+    "blechschmidt-sandstorm": {
+        "Sonstiges": [], 
+        "Name": [
+            "Ingo Blechschmidt"
+        ], 
+        "Zeit": {
+            "Begin": "", 
+            "Ende": ""
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [], 
+        "Vorwissen": [], 
+        "Schlagworte": [
+            "Die vier wesentlichen Freiheiten freier Software werden durch", 
+            "proprietäre Web-Dienste bedroht. Mit Sandstorm wird es einfach, freie", 
+            "Server-Software privat einzusetzen.", 
+            "https://sandstorm.io/"
+        ], 
+        "Raum": "V3", 
+        "Ident": "blechschmidt-sandstorm", 
+        "Typ": [
+            "Lightning Talk"
+        ], 
+        "Titel": [
+            "Sandstorm, eine einfache Plattform für private Cloud-Server"
+        ]
+    }, 
+    "krug-libreoffice": {
+        "Sonstiges": [], 
+        "Name": [
+            "Stefan Krug"
+        ], 
+        "Zeit": {
+            "Begin": "10:00", 
+            "Ende": "12:00"
+        }, 
+        "Vorbereitung": [
+            "- Laptop funktionstüchtig, Akku geladen", 
+            "- LibreOffice 4 installiert und mindestens einmal aufgerufen (um sicherzustellen, daß es läuft!)", 
+            "- Beispieldateien von www.iscait.com/tuebix – Paßwörter gibt es in der Veranstaltung"
+        ], 
+        "Inhalt": [
+            "Serienbriefe: Hier werden Dokumente effizient aus Tabellen befüllt. Wir kümmern uns um die Bereitstellung der Daten, Einbindung in den Text und berücksichtigen auch Extravaganzen wie die Anpassung von Textbausteinen an den Empfänger. Abschließend geben wir unsere Arbeit in eine Datei oder an einen Drucker aus.", 
+            "Automatische Formatierung: Moderne Textverarbeitung kann viel mehr als eine Schreibmaschine: Sie bietet Werkzeuge, um Überschriften und Abbildungen zu verwalten und daraus automatische Inhalts- und Abbildungsverzeichnisse zu erstellen. Sie kann Seitenvorlagen nutzen und zentrale Informationen wie Autor und Kapitel in Kopf- und Fußzeilen schreiben. Mithilfe ausgefuchster Navigationsfunktionen wird es möglich, sich blitzschnell an gesuchte Stellen zu klicken oder sogar die komplette Arbeit binnen Minuten neu zu strukturieren."
+        ], 
+        "Vorwissen": [
+            "Vorherige Nutzung von Textverarbeitung"
+        ], 
+        "Schlagworte": [
+            "Der Workshop bietet Dir zwei Themen zur Auswahl. Durch eine Abstimmung in der Veranstaltung wird bestimmt, welches Thema bearbeitet wird:", 
+            "- Serienbriefe mit Feldern", 
+            "- Automatische Formatierung großer Textdokumente", 
+            "Egal wie die Wahl ausfällt, Du lernst immer etwas dazu! Zwischen Theoriehäppchen wird das neue Wissen sofort praktisch am mitgelieferten Fallbeispiel eingeübt. Es besteht die Möglichkeit, im Workshop Fragen zu stellen und gemeinsam Lösungen zu entwickeln."
+        ], 
+        "Raum": "W2", 
+        "Ident": "krug-libreoffice", 
+        "Typ": [
+            "Workshop"
+        ], 
+        "Titel": [
+            "LibreOffice Overkill"
+        ]
+    }, 
+    "koelbel-privacyidea": {
+        "Sonstiges": [], 
+        "Name": [
+            "Cornelius Kölbel"
+        ], 
+        "Zeit": {
+            "Begin": "16:00", 
+            "Ende": "18:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "privacyIDEA ist eine Open Source Lösung zur Authentisierung mit zwei Faktoren.", 
+            "Zusätzlich zu einem Passwort ist der Besitz eines Hardware-Tokens, eines Telefons", 
+            "oder eines Smartphones notwendig, um sich sicher am System oder einer Applikation", 
+            "anzumelden. Mit privacyIDEA können diese", 
+            "Authentisierungsgeräte zentral verwaltet werden, wobei man selber das", 
+            "Schlüsselmaterial unter eigener Kontrolle behält.", 
+            "In diesem Vortrag wird das Prinzip der Authentisierung mit Einmal-Passwörtern", 
+            "erklärt. Es wird gezeigt, wie einfach die Bestitzfaktoren verwaltet werden können", 
+            "und wie beliebige Applikationen an privacyIDEA angebunden werden können.", 
+            "Am Beispiel einer Anmeldung an SSH wird die leichte Handhanbung des", 
+            "Besitzfaktors zur Anmeldung von vielen Benutzern an vielen verschiedenen Servern", 
+            "verdeutlicht."
+        ], 
+        "Vorwissen": [
+            "MySQL und Python wünschenswert"
+        ], 
+        "Schlagworte": [
+            "Zwei-Faktor-Authentisierung mit OTP (Einmalpasswörtern)", 
+            "[*] https://www.privacyidea.org"
+        ], 
+        "Raum": "W2", 
+        "Ident": "koelbel-privacyidea", 
+        "Typ": [
+            "Workshop"
+        ], 
+        "Titel": [
+            "\"privacyIDEA - Zwei-Faktor-Authentisierung selber machen\""
+        ]
+    }, 
+    "seidel-tcp_stealth": {
+        "Sonstiges": [], 
+        "Name": [
+            "Dr. Udo Seidel"
+        ], 
+        "Zeit": {
+            "Begin": "13:00", 
+            "Ende": "13:30"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Portscans als Werkzeug zum Aufspueren verwundbarer Rechner sind ein alter Hut. Ein Moeglichkeit den Boesewichten das Leben zu erschweren ist das sogenannte Port-Knocking. Die Diskussionen in der Vergangenheit ware meist kontrovers. \"Sicherheit durch Verschleiern\" ist fuer manche Experten ueberhaupt keine akzeptable Massnahme. Zudem hat das \"Anklopf-Verfahren\" ein paar Schwaechen. Medienberichte ueber Portscans ganzer Laender durch Geheimdienste haben die Diskussion ueber Abwehrmassnahmen neu belebt. Port-Knocking spielt dabei eine zentrale Rolle. Das hier vorgestellte Verfahren entstand zunaechst als Forschungsprojekt einer Vorlesung an der TU Muenchen. Ziel von TCP Stealth ist die Abwehr von Portscans bei gleichzeitiger Addressierung der Schwaechen alternativer Anklopf-Implementierungen. Der Vortrag stellt die Idee und Architektur hinter TCP Stealth vor und beinhaltet auch einen kleine Demo."
+        ], 
+        "Vorwissen": [
+            "- Grundlegende Netzwerk-Kenntnisse insbesondere TCP", 
+            "- Interesse (gerne auch Vorkenntnisse) zum Thema Sicherheit in der IT", 
+            "- ein bisschen Linux an sich wÃ¤re auch nicht schlecht"
+        ], 
+        "Schlagworte": [
+            "Port-Knocking", 
+            "TCP-Kopf-Erweiterung", 
+            "3 Wege Handschlag", 
+            "Projekt von der TU MÃ¼nchen", 
+            "http://gnunet.org/knock", 
+            "http://gnunet.org/sites/default/files/ma_kirsch_2014_0.pdf", 
+            "http://tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01", 
+            "Demo fÃ¼r SSH auf Linux mit TCP Stealth"
+        ], 
+        "Raum": "V1", 
+        "Ident": "seidel-tcp_stealth", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "TCP Stealth - Port Knocking neu aufgelegt"
+        ]
+    }, 
+    "brauner-lxc_docker1": {
+        "Sonstiges": [], 
+        "Name": [
+            "Christian Brauner"
+        ], 
+        "Zeit": {
+            "Begin": "10:00", 
+            "Ende": "11:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [], 
+        "Vorwissen": [], 
+        "Schlagworte": [], 
+        "Raum": "V1", 
+        "Ident": "brauner-lxc_docker1", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Kernelfeatures + LXC"
+        ]
+    }, 
+    "dinges-blender": {
+        "Sonstiges": [], 
+        "Name": [
+            "Thomas Dinges"
+        ], 
+        "Zeit": {
+            "Begin": "14:00", 
+            "Ende": "15:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Computer generierte Animationen und Effekte sind heute fast überall zu sehen. Egal ob im Kino, der Werbung oder im TV. Oft nehmen wir diese gar nicht mehr bewusst wahr,", 
+            "die Grenze zwischen CGI (computer generated imagery) und der Realität verschwimmen. In diesem Vortrag stelle ich das Open Source 3D Programm Blender vor, mit welchem ihr kostenlos aber dennoch professionell 3D Grafiken und Animationen erstellen könnt. Von der Geschichte des Programms, über die rasante Entwicklung in den letzten Jahren bis hin zu tollen animierten Filmen, welche mit Blender kreiert wurden, wird alles gezeigt."
+        ], 
+        "Vorwissen": [], 
+        "Schlagworte": [
+            "Einführung in das 3D Programm Blender: http://www.blender.org/", 
+            "Open Source Grafiksoftware, Animationsfilme, Spezialeffekte"
+        ], 
+        "Raum": "V4", 
+        "Ident": "dinges-blender", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Einführung in die 3D Software Blender"
+        ]
+    }, 
+    "hofman-surfen": {
+        "Sonstiges": [], 
+        "Name": [
+            "Frank hofmann"
+        ], 
+        "Zeit": {
+            "Begin": "16:30", 
+            "Ende": "17:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Baut sich eine Webseite in ihrem Webbrowser nur sehr langsam auf, ist es", 
+            "einfach, mit dem Finger nur auf die Bandbreite ihrer Netzwerkverbindung", 
+            "oder ihre Hardware zu zeigen. Zwischen dem Abrufen der Webseite und der", 
+            "Darstellung in ihrem Webbrowser läuft mittlerweile ein recht aufwendiger", 
+            "Prozess, in dem etliche Faktoren eine Rolle spielen.", 
+            "In unserem Vortrag gehen wir den folgenden Punkten nach:", 
+            "* Überblick zu den Ursachen von erhöhtem Datentransfer", 
+            "* Latenzverstärker identifizieren und ausschalten", 
+            "* Datenspuren minimieren oder vermeiden", 
+            "* Fokus auf die Nutzerseite – welche Einflußmöglichkeiten habe ich als", 
+            "Benutzer", 
+            "Im Anschluß diskutieren wir die vorgestellten Möglichkeiten und freuen", 
+            "uns auf einen regen Austausch hinsichtlich eigener Erfahrungen und Tips", 
+            "im Alltag."
+        ], 
+        "Vorwissen": [
+            "grundlegender Umgang mit dem Webbrowser, Einsteiger"
+        ], 
+        "Raum": "V2", 
+        "Ident": "hofman-surfen", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Schneller und sicherer Surfen im Internet"
+        ]
+    }, 
+    "hofman-lug_berlin": {
+        "Sonstiges": [], 
+        "Name": [
+            "Frank hofmann"
+        ], 
+        "Zeit": {
+            "Begin": "11:30", 
+            "Ende": "12:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "In der Metropolregion Berlin mit den Großstädten Berlin, Potsdam und", 
+            "Brandenburg existieren viele Linux User Groups (LUGs). Um eine bessere", 
+            "Vernetzung zwischen den LUGs zu erreichen, starteten 2008 regionale", 
+            "LUG-Treffen.", 
+            "Nachdem 2014 die ICANN .berlin-Domains einführte, entstand auf", 
+            "lug.berlin die gleichnamige Plattform. Über eine OSM-Karte sind alle", 
+            "Gruppen miteinander vernetzt und vereinfachen somit den", 
+            "Informationsaustausch untereinander. Interessierte ersehen in kürzerer", 
+            "Zeit, wer wo beheimatet ist.", 
+            "Der Vortrag beleuchtet den Entstehungsweg der Plattform und berichtet", 
+            "über die Ergebnisse der Vernetzung untereinander."
+        ], 
+        "Vorwissen": [
+            "grundlegender Umgang mit dem Webbrowser, Einsteiger"
+        ], 
+        "Raum": "V3", 
+        "Ident": "hofman-lug_berlin", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Unter einem Dach. Regionale Vernetzung der Berliner", 
+            "Linux User Groups über lug.berlin"
+        ]
+    }, 
+    "gantikow-verkehrte_welt": {
+        "Sonstiges": [], 
+        "Name": [
+            "Holger Gantikow"
+        ], 
+        "Zeit": {
+            "Begin": "15:00", 
+            "Ende": "16:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Auch wenn Linus Torvalds nach wie vor Linux auf dem Desktop den Durchbruch verschaffen will, konnte sich der Pinguin bislang dort nie wirklich ansiedeln und fristet auf dem Desktop somit eher ein Nischendasein. Dieser Markt wird heute nach wie vor von Microsoft Windows dominiert.", 
+            "Dass dies nicht für alle Bereiche gelten muss, zeigt der Markt der Supercomputer, die meist in den Rechenzentren von Forschungsinstituten und großen Firmen vor dem Auge der Öffentlichkeit verborgen bleiben.", 
+            "Supercomputer werden in vielfältigen Bereichen eingesetzt, immer dann, wenn es darum geht komplexe Systeme zu berechnen, zu simulieren oder zu modellieren wie dies beispielsweise beim Auffinden von Öl- und Gas-Vorkommen oder in der numerischen Strömungsmechanik nötig ist.", 
+            "Ihnen allen ist eines gemeinsam: sie werden fast ausschließlich durch Linux zum Fliegen gebracht - und das nicht erst seit gestern, wie ein Blick in die Historie der Top500 [1], der Liste der 500 schnellsten Supercomputer zeigt.", 
+            "Linux hält hier seit über zehn Jahren seine Poleposition inne und alle Zeichen sprechen dafür, dass dich daran die nächste Zeit nichts ändert.", 
+            "Wie sich diese \"fremde Welt\" entwickelt hat, wie Linux dort seine Dominanz erlangte, welchen Anteil an diesem Erfolg der Open Source Gedanke hat, was es mit dem frühmittelalterlichen epischen Heldengedicht \"Beowulf\" in diesem Umfeld auf sich hat und welche Themen und Werkzeuge aus dem Bereich des High Performance Computings (HPC) auch für die normale IT relevant sind, stehen im Fokus des Vortrags.", 
+            "So sollen hierbei nicht die neusten Queueing-Systeme oder das die Programmierschnittstelle MPI kurz vorgestellt werden, sondern Hilfsmittel, die auch in einer alltäglichen Unternehmens-IT genutzt werden können, um Herr der ständig wachsenden Datenmengen zu bleiben.", 
+            "Dazu zählen neben denen unter Linux vielfältigen, verteilten Dateisystemen beispielsweise Werkzeuge wie die Robin Hood Policy Engine [2], die sich bei mehreren TB großen Dateisystemen als effiziente Alternative zu den Klassikern \"find\" und \"du\" anbieten.", 
+            "Darüber hinaus wird kurz beleuchtet, ob sich ein Ausflug in die Cloud für solche Computing-Aufgaben \"rechnen\" kann.", 
+            "Für den Vortrag ist kein besonderes Vorwissen nötig, ein allgemeines Interesse an Linux, freier Software und daran, in eine Welt jenseits des Desktops und dem \"normalem IT-Alltag\" zu schnuppern, schadet sicher nicht ;)", 
+            "Beim Linux-Magazin online ist ein zusammenfassender Basis-Artikel zum Thema erschienen [5], sowie kurze Vorstellungen der Robin Hood Policy Engine [3] und ein Überblick über in diesem Umfeld anzutreffende Dateisysteme [4].", 
+            "Weiterführende Links, Zugriff 09.01.2015", 
+            "[1] Top 500 (Homepage)", 
+            "http://www.top500.org/", 
+            "[2] Robin Hood Policy Engine (Homepage) https://github.com/cea-hpc/robinhood/wiki", 
+            "[3] Effiziente Verwaltung großer Dateisysteme mit Robinhood (Artikel)", 
+            "http://www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood", 
+            "[4] Leistungsfähige parallele Dateisysteme unter Linux (Artikel)", 
+            "http://www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux", 
+            "[5] Linux im High Performance Computing (Artikel)", 
+            "http://www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC"
+        ], 
+        "Vorwissen": [
+            "Kein spezielles Vorwissen notwendig, generelles Interesse an Linux, freier Software und daran einen kleinen Einblick in die Welt des High Performance Computings zu gewinnen schadet aber sicher nicht ;)"
+        ], 
+        "Schlagworte": [
+            "Supercomputer, die für weit mehr als Wettersimulation eingesetzt werden, haben alle eines gemeinsam: sie werden fast ausschließlich durch Linux zum Fliegen gebracht.", 
+            "Wie sich diese \"fremde Welt\" entwickelt hat, wie Linux dort seine unangefochtene Pole-Position erlangte, welchen Stellenwert Open Source Software in diesem Umfeld genießt und welche Themen und Werkzeuge aus dem Bereich des High Performance Computings (HPC) auch für die normale IT relevant sind, stehen im Fokus des Vortrags."
+        ], 
+        "Raum": "V1", 
+        "Ident": "gantikow-verkehrte_welt", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Verkehrte Welt - Linux im High Performance Computing"
+        ]
+    }, 
+    "gantikow-elektroschrott": {
+        "Sonstiges": [], 
+        "Name": [
+            "Holger Gantikow"
+        ], 
+        "Zeit": {
+            "Begin": "17:00", 
+            "Ende": "18:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Die Nutzungsdauer von Mobilgeräten zeichnet sich heutzutage durch eine kurze Halbwertszeit aus, sodass immer mehr eigentlich noch funktionstüchtige Smartphones und Tablets der vorletzten Generation ungenutzt verstauben.", 
+            "Dies muss nicht sein, schließlich eignen sich diese üppig ausgestatteten Kleinstcomputer für eine Vielzahl von praktischen Einsatzzwecken, die der Hersteller beim Kauf so sicher nicht beworben hat.", 
+            "Wie und mit welchen teilweise freien Apps sich das Leben dieser Geräte verlängern lässt und ihnen in der Wohnung, im Auto, am Schreibtisch oder gar als Konkurrenz zu Raspberry Pi & Co ein komplett neues, zweites Leben einhauchen lässt, stellt dieser Vortrag vor."
+        ], 
+        "Vorwissen": [], 
+        "Schlagworte": [
+            "-> kann man imho weg lassen", 
+            "Vielen \"alten\" Smartphones und Tablets mit Android und iOS lässt sich, mit der passenden Software, ein zweites Leben einhauchen und somit verhindern dass diese Geräte auf dem Elektroschrott landen."
+        ], 
+        "Raum": "V4", 
+        "Ident": "gantikow-elektroschrott", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Phoenix statt Elektroschrott - Neues Leben für \"alte\" Mobilgeräte"
+        ]
+    }, 
+    "stadelmeier_wannenmacher-tor_router": {
+        "Sonstiges": [], 
+        "Name": [
+            "Fabian Wannenmacher", 
+            "Andreas Stadelmeier"
+        ], 
+        "Zeit": {
+            "Begin": "", 
+            "Ende": ""
+        }, 
+        "Vorbereitung": [
+            "Zuhörer können zum ausprobieren ein WLAN-Fähiges Gerät mitbringen."
+        ], 
+        "Inhalt": [
+            "Wir haben einen Heimrouter so präpariert, dass er automatisch ein WLAN-", 
+            "Netzwerk aufspannt, dass den Internetverkehr direkt über das", 
+            "Annonymisierungsnetzwerk Tor Leitet.", 
+            "Der Router ist innerhalb von Sekunden aufgestellt und betriebsbereit. Nötig", 
+            "ist lediglich ein LAN-Buxe und Strom.", 
+            "So kann man mit beliebigen Geräten und Anwendungen Tor nutzen.", 
+            "Nebenbei kann dem Inhaber des Internetanschlusses dank der Anonymisierung", 
+            "Störerhaftung und ähnliches ziemlich Egal sein."
+        ], 
+        "Vorwissen": [
+            "Keines. Grundsätzliche Linux und Netzwerkkenntnisse eventuell Vorteilhaft aber", 
+            "nicht nötig."
+        ], 
+        "Schlagworte": [
+            "OpenWRT <https://openwrt.org/>,", 
+            "Tor <https://torproject.org/>", 
+            "Anonymes Internet, (öffentliches) WLAN"
+        ], 
+        "Raum": "V3", 
+        "Ident": "stadelmeier_wannenmacher-tor_router", 
+        "Typ": [
+            "Lightning Talk"
+        ], 
+        "Titel": [
+            "Tor-Router"
+        ]
+    }, 
+    "mundt_nachbauer-jessie_party": {
+        "Sonstiges": [], 
+        "Name": [
+            "Florian Nachbauer und Andreas Mundt"
+        ], 
+        "Zeit": {
+            "Begin": "12:00", 
+            "Ende": "14:00"
+        }, 
+        "Vorbereitung": [
+            "Backup aller wichtigen Daten vorher anfertigen; mindestens 10GiB", 
+            "Plattenplatz sollten noch verfügbar sein."
+        ], 
+        "Inhalt": [
+            "Per PXE, CD oder USB installieren wir Debian über einen", 
+            "Paketproxy.  Verschiedene Desktops werden vorgestellt, das", 
+            "Vorgehen erläutert und anschließend das neue System ausprobiert", 
+            "und gegebenenfalls weiter eingerichtet."
+        ], 
+        "Vorwissen": [], 
+        "Schlagworte": [
+            "Debian GNU/Linux \"Jessie\" unter fachkundiger Anleitung", 
+            "installieren, gegebenenfalls neben bereits vorhandene", 
+            "Betriebssysteme.", 
+            "www.debian.org"
+        ], 
+        "Raum": "W1", 
+        "Ident": "mundt_nachbauer-jessie_party", 
+        "Typ": [
+            "Workshop"
+        ], 
+        "Titel": [
+            "Debian GNU/Linux \"Jessie\" Install Party"
+        ]
+    }, 
+    "reber-mirrorserver": {
+        "Sonstiges": [], 
+        "Name": [
+            "Adrian Reber"
+        ], 
+        "Zeit": {
+            "Begin": "13:30", 
+            "Ende": "14:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Dieser Vortrag soll Details zum Mirror Server (ftp-stud.hs-esslingen.de) in", 
+            "Esslingen liefern. Seit wann gibt es den Server?. Wie ist er entstanden?", 
+            "Wer steckt dahinter? Warum wird er betrieben? Wie wird er betrieben? Wie", 
+            "und was gespiegelt? Zweiter Teil des Vortrages wer eine kurze", 
+            "Vorstellung wie ein Mirror in ein Mirror Netzwerk eingebunden ist.", 
+            "Exemplarisch am Mirror Netzwerk von Fedora welches auf der Software", 
+            "MirrorManager basiert."
+        ], 
+        "Vorwissen": [], 
+        "Schlagworte": [
+            "Mirror Server, Esslingen, Fedora MirrorManager"
+        ], 
+        "Raum": "V1", 
+        "Ident": "reber-mirrorserver", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Mirror Server Verwaltung"
+        ]
+    }, 
+    "brauner_yanar-lxc_docker3": {
+        "Sonstiges": [], 
+        "Name": [
+            "Christian Brauner, Erkan Yanar"
+        ], 
+        "Zeit": {
+            "Begin": "14:00", 
+            "Ende": "16:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [], 
+        "Vorwissen": [], 
+        "Schlagworte": [], 
+        "Raum": "W2", 
+        "Ident": "brauner_yanar-lxc_docker3", 
+        "Typ": [
+            "Workshop"
+        ], 
+        "Titel": [
+            "LXC + Docker"
+        ]
+    }, 
+    "kockler-puppet2": {
+        "Sonstiges": [], 
+        "Name": [
+            "Torsten Kockler"
+        ], 
+        "Zeit": {
+            "Begin": "14:00", 
+            "Ende": "15:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Gezeigt wird die fortgeschrittene Administration einer Puppet-Umgebung. Der Vortrag baut auf dem Wissen auf das in dem Vortrag \"Puppet I: Zentrale Administration einer Server Infrastruktur\" vermittelt wurde und ergänzt dieses um Konzepte wie der Trennung von Konfigurationsscripten und Daten durch Hiera, Verschlüsselung geheimer Daten wie Passwörter durch das Hiera Backend eyaml, sowie der Einführung eines Rollenkonzepts für unterschiedliche Arten von Servern.", 
+            "Dies ist der zweite von zwei aufeinander aufbauenden Vorträgen über Puppet."
+        ], 
+        "Vorwissen": [
+            "Wissen aus dem Vortrag \"Puppet I: Zentrale Administration einer Server Infrastruktur\" oder Grundlegende Erfahrungen mit Puppet"
+        ], 
+        "Schlagworte": [
+            "Fortgeschrittene Puppet Administration mit Hiera, Hiera eyaml und Rollen"
+        ], 
+        "Raum": "V2", 
+        "Ident": "kockler-puppet2", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Puppet II: Strukturierte Puppet-Umgebung"
+        ]
+    }, 
+    "kockler-puppet1": {
+        "Sonstiges": [], 
+        "Name": [
+            "Torsten Kockler"
+        ], 
+        "Zeit": {
+            "Begin": "12:00", 
+            "Ende": "13:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Es wird das Configuration Management System Puppet vorgestellt, welches eine zentrale Administration von Servern ermöglicht. Der Vortrag richtet sich an Administratoren die bereits grundlegende Erfahrung mit der Administration einzelner Server unter Linux haben oder die zumindest Linux Grundlagenwissen haben.", 
+            "Erklärt werden der Aufbau und der Zweck einer mit Puppet administrierten Server Infrastruktur. Gezeigt werden dann die Installation von Puppet sowie grundlegende Konfigurationsschritte bis hin zu einer laufenden Konfiguration.", 
+            "Dies ist der erste von zwei aufeinander aufbauenden Vorträgen über Puppet."
+        ], 
+        "Vorwissen": [
+            "Erfahrung mit der Administration von Linux Servern oder zumindest Linux Grundlagenwissen"
+        ], 
+        "Schlagworte": [
+            "Installation und Grundlagen von Puppet zum zentralen Administrieren einer Server Infrastruktur"
+        ], 
+        "Raum": "V2", 
+        "Ident": "kockler-puppet1", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Puppet I: Zentrale Administration einer Server Infrastruktur"
+        ]
+    }, 
+    "uebele-bitcoin": {
+        "Sonstiges": [], 
+        "Name": [
+            "Peter Uebele"
+        ], 
+        "Zeit": {
+            "Begin": "10:00", 
+            "Ende": "10:30"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Bitcoin ist eine dezentral organisierte und auf Kryptographie basierte Währung. Zu den Besonderheiten zählt beispielsweise, dass beim Bezahlen keine Zwischenhändler (wie z.B. Banken) nötig sind.", 
+            "In diesem Vortrag wird zunächst kurz die Geschichte und der technische Hintergrund des Bitcoins skizziert. Anschließend werde ich auf gesellschaftliche Aspekte eingehen. Dabei sollen sowohl die Vorteile gegenüber herkömmlichen Währungen als auch mögliche Gegenargumente thematisiert werden.", 
+            "Im Anschluss stehe ich gerne auch für praktische Fragen wie beispielsweise die Installation von Bitcoin-Apps auf dem Handy zur Verfügung."
+        ], 
+        "Vorwissen": [
+            "keine Vorkenntnisse nötig"
+        ], 
+        "Schlagworte": [
+            "Bitcoin, Technische Funktionsweise, Gesellschaftliche Aspekte, Vor- und Nachteile gegenüber konventionellen Währungen"
+        ], 
+        "Raum": "V3", 
+        "Ident": "uebele-bitcoin", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Bitcoin - Eine dezentrale Währung"
+        ]
+    }, 
+    "blechschmidt-python_schueler": {
+        "Sonstiges": [], 
+        "Name": [
+            "Ingo Blechschmidt"
+        ], 
+        "Zeit": {
+            "Begin": "14:00", 
+            "Ende": "16:00"
+        }, 
+        "Vorbereitung": [
+            "Laptop mitbringen. Es ist keine Installation nötig, und wir werden das", 
+            "Laptopsystem auch nicht ändern. Wir werden den Laptop nur verwenden, um", 
+            "auf eine Webseite zu gehen."
+        ], 
+        "Inhalt": [
+            "Python ist eine moderne Programmiersprache, mit der man zum Beispiel", 
+            "eigene Spiele und Webseiten erstellen kann. In dem Workshop unternehmen", 
+            "wir gemeinsam erste Schritte in dieser Sprache."
+        ], 
+        "Vorwissen": [], 
+        "Schlagworte": [], 
+        "Raum": "W3", 
+        "Ident": "blechschmidt-python_schueler", 
+        "Typ": [
+            "Workshop"
+        ], 
+        "Titel": [
+            "Python-Programmierung für Schülerinnen und Schüler"
+        ]
+    }, 
+    "guckes-muttgpg_workshop": {
+        "Sonstiges": [], 
+        "Name": [
+            "Sven Guckes"
+        ], 
+        "Zeit": {
+            "Begin": "14:00", 
+            "Ende": "16:00"
+        }, 
+        "Vorbereitung": [
+            "== Server ==", 
+            "den mailer mutt (all mailers suck - but mutt sucks less).", 
+            "das \"OpenPGP encryption and signing tool\" GnuPG (gpg),", 
+            "die beiden Editoren (emacs+vim) (okay - evtl jed+nano),", 
+            "terminal multiplexer wie screen+tmux, sowie die shells bash+zsh.", 
+            "Dann verwenden alle auch denselben Server -", 
+            "und können sich auch lokal emailen, zB:", 
+            "$ echo dies ist ein test | mutt -s test otheruser", 
+            "== Netz+Raum ==", 
+            "* Ein Raum mit PCs und Linux (egal welcher geschmackrichtung).", 
+            "* Logins auf jedem Rechner - oder einem zentralen Server.", 
+            "* Ports offen für ssh (22) und mosh (60000-61000) - und", 
+            "zum Keyserver (11371).  Am besten gar kein Port Filtering.", 
+            "* Verbindungen per Kabel+WLAN für eigene Rechner (laptop+notebooks)."
+        ], 
+        "Inhalt": [
+            "Jeder Teilnehmer soll Mutt und GPG ausprobieren können.", 
+            "Am Anfang logt sich jeder erstmal auf der lokalen Maschine ein.", 
+            "Dann gehen alle per mosh/ssh auf die zentrale Kiste (Server),", 
+            "welche die notwendigen Programme anbietet.", 
+            "Jeder generiert sich ein neues Schlüsselpaar.", 
+            "Wir schauen uns den Schlüssel genauer an und", 
+            "laden ihn auf einen (lokalen) Testserver hoch.", 
+            "(Darüber können wir Schlüssel austauschen", 
+            "ohne die üblichen Keyserver zu verwenden.)", 
+            "Dann können wir das Auffinden von Schlüsseln", 
+            "ausprobieren, die Schlüssel der anderen", 
+            "herunterladen und diese anzeigen lassen.", 
+            "Dann geht es ans Versenden von Emails -", 
+            "mit Signatur und/oder auch verschlüsselt.", 
+            "Ein paar Anpassungen von gpg bzw mutt", 
+            "oder auch des Editors und der Shell", 
+            "können den Umgang sehr vereinfachen.", 
+            "Eventuell gibt es noch eine Key Signing Party.", 
+            "Diese kann über den lokalen Keyserver geschehen -", 
+            "oder auch bei einem eigenen Termin des Events."
+        ], 
+        "Vorwissen": [
+            "terminal:   Starten - mit einer Shell darin. (ctrl-alt-t oder so)", 
+            "shell:      Navigieren und Editieren (Löschen und Einsetzen).", 
+            "CTRL-A CTRL-E, ALT-B ALT-F, CTRL-D CTRL-H, CTRL-W;", 
+            "CTRL-U (clear line), CTRL-K (kill rest of line),", 
+            "CTRL-T (transpose), CTRL-L (clear).", 
+            "verwendung der history, zB über event designators", 
+            "oder per CTRL-R (reverse incremental search)", 
+            "editor:     Kenntnis einer der beiden Editoren (emacs bzw vim).", 
+            "Benutzer von anderen Editoren werden auch zugelassen -", 
+            "wenn sie keine dummen Fragen über Editoren stellen."
+        ], 
+        "Schlagworte": [
+            "(Digitale) Schlüssel (Cryptokeys)", 
+            "http://de.wikipedia.org/wiki/Schl%C3%BCssel_(Kryptologie)", 
+            "Digital Signatur", 
+            "http://de.wikipedia.org/wiki/Digitale_Signatur", 
+            "Verschlüsselung", 
+            "http://de.wikipedia.org/wiki/Verschl%C3%BCsselung", 
+            "Schlüsselverwaltung (key management)", 
+            "http://en.wikipedia.org/wiki/Key_management", 
+            "Key Server - Schlüsselserver", 
+            "http://de.wikipedia.org/wiki/Schl%C3%BCsselserver", 
+            "KeySigning Party", 
+            "http://de.wikipedia.org/wiki/Keysigning-Party", 
+            "Web of Trust", 
+            "http://de.wikipedia.org/wiki/Web_of_Trust"
+        ], 
+        "Raum": "W1", 
+        "Ident": "guckes-muttgpg_workshop", 
+        "Typ": [
+            "Workshop"
+        ], 
+        "Titel": [
+            "mutt+gpg - Sichere Email"
+        ]
+    }, 
+    "pfeifle-pandoc": {
+        "Sonstiges": [], 
+        "Name": [
+            "Kurt Pfeifle (@pdfkungfoo)"
+        ], 
+        "Zeit": {
+            "Begin": "13:00", 
+            "Ende": "14:00"
+        }, 
+        "Vorbereitung": [
+            "Weder als Vortrag noch als Workshop ist das Thema als \"Mitmach\"-Thema", 
+            "konzipiert. Es ist vielmehr ein \"Aufpass\"-Thema!", 
+            "Denn dabei wird's nicht viele Folien geben, sondern fast ausschließlich", 
+            "Live-Vorführung.", 
+            "Im Nachhinein werden die Teilnehmer über die Tübix-Seite dann ein Archiv", 
+            "mit allen entsprechenden Unterlagen herunterladen können: verwendete", 
+            "Beispiel-Dateien sowie ein Transkript des Vortrags, das alle gezeigten", 
+            "Kommandos nochmals wiedergibt und kurz erläutert.", 
+            "Als Bonus dann noch ein Makefile, mit welchem man die Dokumenten-Erzeugung", 
+            "weitgehend automatisieren kann"
+        ], 
+        "Inhalt": [
+            "Jeder Software-Entwickler sollte sich darum kümmern, dass seine", 
+            "Programme durch eine ordentliche Dokumentation abgedeckt sind. Aber viele", 
+            "Programmierer erledigen das äußerst ungern. Darum ist die Erstellung von", 
+            "Dokumentation häufig ein \"Stiefkind\" von Projekten.", 
+            "Viele Software-Benutzer würden gerne etwas zur Dokumentation beitragen", 
+            "und dadurch zu Committern werden -- und manche tun es schon, oft sogar im", 
+            "Zusammenhang mit mehreren Projekten. Aber dann verwenden unterschiedliche", 
+            "Projekt vielleicht jeweils andere Formate und Werkzeuge zum Schreiben:", 
+            "OpenDocument, HTML, LaTeX, DocBook, ...", 
+            "Wäre es nicht viel besser, alles in reinem Text zu schreiben? Und dann aus", 
+            "diesem Text automatisiert das End-Format zu erzeugen, welches man verwenden", 
+            "möchte? Oder gar alle möglichen Endformate?", 
+            "Mit der einfachen Text-Auszeichnungssprache `Markdown` ist es möglich.", 
+            "Zum Konvertieren in beliebige Zielformate verwendet man das Kommandozeilen-", 
+            "Tool `pandoc`. Zur Automatisierung ein `Makefile`...", 
+            "----", 
+            "Markdown ist ein dermaßen einfaches *Textauszeichnungsformat*, dass man bei", 
+            "Kenntnis von ca. 12 verschiedenen, einfachen, sehr intuitiv zu erlernenden", 
+            "Formatierungs-Regeln bereits sehr anspruchsvolle Dokumente zustande bringt", 
+            "-- und zwar in allen möglichen Formaten, und in sehr vielen anpaßbaren Stilen.", 
+            "1. Standard-Absätze", 
+            "2. Eingerückte Absätze (Zitat-Blöcke)", 
+            "3. Überschriften erster, zweiter, ... sechster Ordnung", 
+            "4. Nummerierte Aufzählungen (wie diese hier)", 
+            "* verschachtelte Aufzählungen (wie diese hier)", 
+            "* (ich bin mir nicht sicher, ob ich dies nicht besser als 14. Regel deklarieren sollte)", 
+            "5. Un-nummerierte Aufzählungen", 
+            "6. Code-Beispiele: `pandoc --to=html` erzeugt HTML-Ausgabe", 
+            "7. *kursiv hervorgehobene* Wörter", 
+            "8. **fett hervorgehobene** Wörter", 
+            "9. ***fett+kursiv hervorgehobene*** Wörter", 
+            "10. [Hyper-Links](http://en.wikipedia.org/wiki/Hyperlink)", 
+            "11. Bilder", 
+            "12. Code-Blöcke", 
+            "13. Tabellen", 
+            "Wer komplexere Formatierungen benötigt, kann innerhalb des Markdown-", 
+            "Quellcodes auch HTML-Schnipsel verwenden. `pandoc` gibt diese beim Übersetzen", 
+            "1:1 in das Zielformat weiter. *(Falls das Ziel-Format LaTeX oder PDF ist,", 
+            "kann man sogar LaTeX-Schnipsel einbetten.)*", 
+            "Die Konvertierung des Markdown-Quelltextes in das gewünschte Dokumenten-Format", 
+            "erfolgt durch das Kommandozeilen-Tool `pandoc`. Dabei stehen eine ganze Reihe", 
+            "unterschiedlicher Ziel-Formate zur Wahl: erwähnt seien hier nur Open/LibreOffice", 
+            "ODT, MS Word DOCX, LaTeX, DocBook, HTML, PDF, EPUB, EPUB3, ConTeXt und MediaWiki.", 
+            "Das endgültige Aussehen der Dokumente lässt sich dadurch beeinflussen, dass", 
+            "man eigene CSS-Dateien, Vorlagen- oder Referenz-Dokumente einbindet. Ansonsten", 
+            "erhält man schlichte Dokumente mit den jeweils vor-eingestellten Stilen. Beim", 
+            "Bau eigener CSS-Stile sind einem versierten Anwender so gut wie keine Grenzen", 
+            "gesetzt, bei der Erstellung eigener Vorlagen und Referenzen gibt es ebenfalls", 
+            "erstaunlich viele Möglichkeiten.", 
+            "Der Workshop gliedert sich in mehrere Teile:", 
+            "1. Einrichten der Erstell-Umgebung: Installation der neuesten Version von", 
+            "`pandoc` aus den entsprechenden Quellen", 
+            "2. Kurz-Vorstellung der `Markdown`-Syntax", 
+            "3. Kurz-Vorstellung von `pandoc`", 
+            "4. Besprechung des verwendeten `Makefile`", 
+            "5. Erstellung eigener Dokumente in mehreren Formaten aus demselben Markdown-", 
+            "Quellcode", 
+            "Teilnehmer erhalten Zugriff auf ein Zip-Archiv mit folgendem Inhalt:", 
+            "* Die im Vortrag / Workshop verwendeten Vortrags-Präsentationen.", 
+            "* Zwei (oder mehr) Papers, welche der Autor über das *Pandoc + Markdown*-Duo", 
+            "geschrieben hat.", 
+            "* Eine Reihe von Markdown-Dateien, die als Ausgangspunkt der Beispiel-", 
+            "Dokumente dienten.", 
+            "* Ein `Makefile` (funktionierend unter Mac OS X oder Linux) zum Generieren", 
+            "der fertigen Beispiel-Dokumente.", 
+            "* Die für die unterschiedlichen Dokumenten-Stile der Beispiele verwendeten", 
+            "CSS- und Referenz-Dateien.", 
+            "* Sonstige interessanten Dateien."
+        ], 
+        "Vorwissen": [
+            "* Bedarf an automatisierter Erzeugung von HTML aus einfachem Text", 
+            "* Bedarf an automatisierter Erzeugung von MS Word DOCX aus Text", 
+            "* Bedarf an automatisierter Erzeugung von Libre/OpenOffice ODT", 
+            "* Bedarf an automatisierter EPUB-Erzeugung aus einfachem Text", 
+            "* Wunsch nach LaTeX-Qualität bei PDF-Dokumenten ohne LaTeX lernen zu müssen", 
+            "* Wunsch nach Beamer-Folien ohne LaTeX lernen zu müssen", 
+            "* Wunsch nach einer Studien- oder Diplomarbeit ohne MS-Word", 
+            "* Falls man LaTeX schon \"kann\": Wunsch, das Gewünschte schneller schreiben", 
+            "zu können", 
+            "* Falls man LaTeX schon \"kann\": Wunsch, das Dokument leicht auch in anderen", 
+            "Formaten zur Verfügung stellen zu können", 
+            "* keine Angst vor der Kommandozeile", 
+            "* Bereitschaft, 12 einfache Formatierungen als \"Text-Markup\" zu lernen"
+        ], 
+        "Schlagworte": [
+            "Text, Markdown, reStrukturedText, ASCIIdoc, LaTeX, ConTeXt, ODT, DOCX,", 
+            "HTML, EPUB, EPUB3, DocBook, RTF, Beamer, Slidy, Slideous, S3, DZSlides,", 
+            "manpages, textile, texinfo, org-mode, Beamer, Reveal.js, Impress.js,..."
+        ], 
+        "Raum": "V4", 
+        "Ident": "pfeifle-pandoc", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Ein Text-Format schreiben -- viele Dokumenten-Formate generieren"
+        ]
+    }, 
+    "knopper-openscad": {
+        "Sonstiges": [], 
+        "Name": [
+            "Prof. Dipl.-Ing. Klaus Knopper"
+        ], 
+        "Zeit": {
+            "Begin": "16:00", 
+            "Ende": "18:00"
+        }, 
+        "Vorbereitung": [
+            "Nach Möglichkeit sollten sich die Teilnehmer zum Workshop-Beginn bereits", 
+            "eine aktuelle Version von OpenSCAD auf ihren Rechner installiert haben.", 
+            "Bootbare Knoppix-USB-Sticks mit installiertem OpenSCAD können in", 
+            "begrenztem Umfang für die Kursdauer zur Verfügung gestellt werden."
+        ], 
+        "Inhalt": [
+            "OpenSCAD ist freie Software unter der GNU PUBLIC LICENSE V2 und neben", 
+            "diversen Linux-Distributionen auch für Mac und Windows verfügbar.  Im", 
+            "Workshop wird die zu OpenSCAD gehörende Programmiersprache anhand", 
+            "einiger vorbereiteter Beispiele und Aufgaben so weit erlernt, dass mit", 
+            "Hilfe grundlegender Formen und Methoden das Design fast belibiger", 
+            "3D-Objekte möglich wird. Die Ergebnisse sind durch diverse", 
+            "3D-Druckprogramme leicht importierbar. Weiterhin werden Tipps für den", 
+            "erfolgreichen 3D-Druck gegeben, und Fragen zum Thema beantwortet."
+        ], 
+        "Vorwissen": [
+            "Kenntnis einer beliebigen prozeduralen Programmiersprache (z.B. C, Bash,", 
+            "Basic, PHP, ...) ist vorteilhaft, aber nicht zwingend erforderlich.", 
+            "Texteingaben über eine normale Tastatur sollten jedenfalls beherrscht", 
+            "werden."
+        ], 
+        "Schlagworte": [
+            "OpenSCAD (http://www.openscad.org/) ist ein \"wenig-interaktives\" 3D", 
+            "Design-Programm für druckbare 3D-Modelle, die dank einer einfach zu", 
+            "erlernende Programmiersprache selbst von zeichnerisch eher unbegabten", 
+            "Personen in kurzer Zeit selbstständig erfolgreich erstellt werden", 
+            "können."
+        ], 
+        "Raum": "W3", 
+        "Ident": "knopper-openscad", 
+        "Typ": [
+            "Workshop"
+        ], 
+        "Titel": [
+            "3D-Modelle erstellen mit OpenSCAD"
+        ]
+    }, 
+    "knopper-knoppix_raspi": {
+        "Sonstiges": [], 
+        "Name": [
+            "Prof. Dipl.-Ing. Klaus Knopper"
+        ], 
+        "Zeit": {
+            "Begin": "14:00", 
+            "Ende": "15:00"
+        }, 
+        "Vorbereitung": [
+            "Falls Workshop: Wer ein unter Rasbian laufendes Raspberry Pi besitzt,", 
+            "kann dies mit entsprechendem Equipment mitbringen (Stromversorgung,", 
+            "USB-Hub, kleiner Monitor, serielels USB-Kabel, Tastatur, Maus usw.) um", 
+            "einige der vorgeschlagenen Skripte und Änderungen auszuprobieren."
+        ], 
+        "Inhalt": [
+            "Knoppix (http://knopper.net/knoppix/) ist als Live-System mit", 
+            "automatischer Hardware-Erkennung für Desktop-Rechner und Notebooks", 
+            "konzipiert. ARM-basierte Minicomputer und Embedded Systeme stellen", 
+            "aufgrund der architekturbedingt mangelnden", 
+            "Hardware-Erkennungsmöglichkeit einerseits eine Herausforderung für", 
+            "Live-Systeme dar, andererseits ist Knoppix bereits für den Start und", 
+            "Betrieb von Flash-Speicher optimiert, und einige der Konzepte von", 
+            "Knoppix lassen sich teilweise performance-steigernd für das beliebte", 
+            "Raspberry Pi Board übertragen."
+        ], 
+        "Vorwissen": [
+            "Grundkenntnisse zu GNU/Linux auf Anwender- und Administratorebene (aber", 
+            "nicht notwendigerweise bezogen auf Raspberry Pi)."
+        ], 
+        "Schlagworte": [
+            "Wie baut man ein \"Live-System\" für Raspberry Pi", 
+            "(https://www.raspberrypi.org/) und andere Mini-Rechner, die keine", 
+            "Hardware-Erkennung unterstützen, kann das RasPi2 z.B. einen", 
+            "Desktop-Rechner ersetzen?  Experimente und Beispiele für ein", 
+            "\"knoppifiziertes\" Rasbian (http://www.raspbian.org/)."
+        ], 
+        "Raum": "V1", 
+        "Ident": "knopper-knoppix_raspi", 
+        "Typ": [
+            "Vortrag", 
+            "Workshop"
+        ], 
+        "Titel": [
+            "Knoppix auf dem Raspberry Pi"
+        ]
+    }, 
+    "genannt-sshkey_distribution": {
+        "Sonstiges": [], 
+        "Ident": "genannt-sshkey_distribution", 
+        "Name": [
+            "Jonas Genannt"
+        ], 
+        "Zeit": {
+            "Begin": "11:00", 
+            "Ende": "11:30"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "SSH Public Key Verwaltung ist immer ein spannendes Thema. Es gibt viele Möglichkeiten von", 
+            "ssh-copy-id, LDAP oder über eine eigene CA. Jedoch hat alles seine Probleme. Hier", 
+            "stelle ich ein relativ neues Projekt vor. Es wird versucht über eine Web Application eine", 
+            "Verwaltung von SSH Public Keys vorzunehmen. Um mit Gruppen von Keys und Servern die", 
+            "Verwaltung zu vereinfachen."
+        ], 
+        "Vorwissen": [
+            "Arbeiten mit SSH Public Keys", 
+            "Gruss,", 
+            "Jonas", 
+            "-- Mailingliste tuebix-cfp https://www.fsi.uni-tuebingen.de/mailman/listinfo/tuebix-cfp", 
+            "Attachments:", 
+            "signature.asc\t836 bytes"
+        ], 
+        "Schlagworte": [
+            "SSH public Key Verwaltung mit Cfg Management (Puppet) via Webappp:", 
+            "https://github.com/hggh/sshkeymanager-django"
+        ], 
+        "Raum": "V3", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "SSH Public Key Distribution - the smart way"
+        ]
+    }, 
+    "willbold-python_kinder_buch": {
+        "Sonstiges": [], 
+        "Name": [
+            "Carina Willbold"
+        ], 
+        "Zeit": {
+            "Begin": "", 
+            "Ende": ""
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [], 
+        "Vorwissen": [], 
+        "Schlagworte": [], 
+        "Raum": "V3", 
+        "Ident": "willbold-python_kinder_buch", 
+        "Typ": [
+            "Lightning Talk"
+        ], 
+        "Titel": [
+            "Ich würde gerne ein WIP-Projekt von mir vorstellen, um Feedback zum", 
+            "Konzept zu erhalten: Ich schreibe an einem Python-Buch für Kinder.", 
+            "Könnte ich den genauen Titel auch erst in einer Woche nachschicken?"
+        ]
+    }, 
+    "gietz-openldap": {
+        "Sonstiges": [], 
+        "Name": [
+            "Peter Gietz"
+        ], 
+        "Zeit": {
+            "Begin": "13:00", 
+            "Ende": "14:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Einführung in Verzeichnisdienste", 
+            "Unterschiede zu relationalen Datenbanken", 
+            "Einführung in das LDAP Datenmodell", 
+            "Einführung in das LDAP-Protokoll", 
+            "Einführung in OpenLDAP (http://openldap.org)", 
+            "Warum OpenLDAP?", 
+            "Implementierungsbeispiele"
+        ], 
+        "Vorwissen": [
+            "Teilnehmer sollten idealerweise ein wenig technisches Wissen zu", 
+            "Datenbanken und Internetprotokollen haben."
+        ], 
+        "Schlagworte": [
+            "LDAP (Lightweight Directory Access Protocol,", 
+            "https://tools.ietf.org/rfc/rfc4510.txt)", 
+            "OpenLDAP (http://www.openldap.org)"
+        ], 
+        "Raum": "V2", 
+        "Ident": "gietz-openldap", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "OpenLDAP, eine hochskalierbare und hochperformante standardkonforme", 
+            "Open-Source-Implementierung des IETF-Protokolls LDAP"
+        ]
+    }, 
+    "behrla-lpic": {
+        "Sonstiges": [], 
+        "Name": [
+            "Klaus Behrla"
+        ], 
+        "Zeit": {
+            "Begin": "16:00", 
+            "Ende": "16:30"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Das Linux Professional Institute (LPI) möchte dabei helfen und erreichen, daß Fachkräfte einen adäquaten Job im Bereich der Linux und Open Source Technologien bekommen und langfristig halten. Fachkräfte sollen mit den Kenntnissen ausgerüstet werden, die sie für ihren Job benötigen.", 
+            "In dem Vortrag wird das Zertifizierungsprogramm des LPI erklärt und deutlich gemacht, wie das LPI die heranwachsenden Fachkräfte mit den notwendigen Kenntnissen ausrüstet und wie die LPI Prüfungen ablaufen."
+        ], 
+        "Vorwissen": [], 
+        "Schlagworte": [
+            "Linux Professional Institute (LPI): http://www.lpice.eu/de/home.html und http://www.lpi.org", 
+            "Das Zertifizierungsprogramm des LPI: http://www.lpice.eu/de/lpi-zertifizierungsinhalte.html", 
+            "Jobs: http://www.lpice.eu/de/jobs.html"
+        ], 
+        "Raum": "V2", 
+        "Ident": "behrla-lpic", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Karrierechancen mit Open Source-Know-how und LPI-Zertifikat"
+        ]
+    }, 
+    "imme-latex_verein": {
+        "Sonstiges": [], 
+        "Name": [
+            "Roland Imme"
+        ], 
+        "Zeit": {
+            "Begin": "12:00", 
+            "Ende": "12:30"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Aktuell unterstütze ich unseren Verein als Schriftführer. In diesem Zusammenhang gibt es unterschiedliche Dokumente (Beitrittserklärung, Bankdatenänderung usw.), die zur Verfügung gestellt werden müssen. In dem geplanten Vortrag stelle ich Online-Formulare im PDF-Format vor. Diese können digital ausgefüllt und abgespeichert werden. Die Einladung zur Hauptversammlung (Serienbrief) wird beim Vortrag vorgestellt."
+        ], 
+        "Vorwissen": [], 
+        "Schlagworte": [
+            "Wie kann ich mit LaTeX Dokumente für den Verein erstellen und verwalten."
+        ], 
+        "Raum": "V4", 
+        "Ident": "imme-latex_verein", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "LaTeX für den Verein"
+        ]
+    }, 
+    "waelde-emacs": {
+        "Sonstiges": [], 
+        "Name": [
+            "Erich Wälde"
+        ], 
+        "Zeit": {
+            "Begin": "12:00", 
+            "Ende": "14:00"
+        }, 
+        "Vorbereitung": [
+            "Notebook mit installiertem emacs (Version 24 bevorzugt, NICHT", 
+            "Xemacs, das ist was anderes).", 
+            "Debian: apt-get install emacs24 emacs24-common-non-dfsg"
+        ], 
+        "Inhalt": [
+            "Workshop 120 Minuten:", 
+            "1. Teil", 
+            "emacs starten und ohne Flurschaden wieder verlassen.", 
+            "Eine Datei öffnen, ändern, speichern. Änderungen rückgängig", 
+            "machen.", 
+            "Tastaturkürzel? Menu? Hilfe? Wo geht's weiter.", 
+            "Wo sind meine Umlaute? Oder die anderen lustigen non-ascii Zeichen?", 
+            "Regionen, kopieren, ausschneiden, einfügen. Rechtecke bearbeiten.", 
+            "Major und minor modes. Am Beispiel von einem C-Progrämmchen,", 
+            "oder perl Skript.", 
+            "Emacs konfigurieren.", 
+            "Das Ganze soll eine lose Sammlung von Schritten werden, die", 
+            "aktive Gestaltung durch die Teilnehmer ist ausdrücklich erwünscht!", 
+            "2. Teil", 
+            "Ein Tour durch meine oft benutzten Werkzeuge:", 
+            "- org-mode", 
+            "- hierarchische Listen", 
+            "- Zeiten erfassen", 
+            "- spreadsheet", 
+            "- \"literate programming\"", 
+            "- calc", 
+            "- email mit mu4e oder vm", 
+            "- IRC Chat mit erc", 
+            "- Webseiten (eww)", 
+            "- Info/manpage reader", 
+            "- Spielzeug"
+        ], 
+        "Vorwissen": [], 
+        "Schlagworte": [
+            "Der Editor ist eines der wichtigsten Werkzeuge für alle, die", 
+            "Zeit am Rechner verbringen. Alte Hasen kennen \"emacs\". Emacs ist", 
+            "erweiterbar, man kann ihm neue Tricks beibringen. Daher kann", 
+            "emacs \"alles außer Kaffee kochen\", heißt es. Den Unwissenden", 
+            "möchte ich ein paar Fähigkeiten dieses Editors vorführen und zum", 
+            "mitmachen animieren.", 
+            "http://www.gnu.org/software/emacs/", 
+            "http://www.emacswiki.org/", 
+            "http://orgmode.org/"
+        ], 
+        "Raum": "W3", 
+        "Ident": "waelde-emacs", 
+        "Typ": [
+            "Workshop"
+        ], 
+        "Titel": [
+            "Anständiges Werkzeug: emacs"
+        ]
+    }, 
+    "schroeder-tex": {
+        "Sonstiges": [], 
+        "Name": [
+            "Martin Schröder"
+        ], 
+        "Zeit": {
+            "Begin": "10:00", 
+            "Ende": "11:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Wir feiern zwar im 2015 TeX's 37.~Geburtstag, aber trotzdem geht die", 
+            "Entwicklung rund um TeX weiter.", 
+            "Ich gebe einen Überblick der Entwicklung in der TeXnischen Welt der", 
+            "letzten Jahre und riskiere einen Blick in die Zukunft.", 
+            "Der Vortrag richtet sich an alle, die in den letzten Jahr(zehnt)en TeX", 
+            "genutzt haben und wissen wollen, was seitdem geschehen ist."
+        ], 
+        "Vorwissen": [
+            "Hat in den letzten Jahrzehnten mal intensiver mit TeX gearbeitet und", 
+            "möchte wissen, was es \"Neues\" gibt."
+        ], 
+        "Schlagworte": [
+            "TeX: Wo kommen wir her, so sind wir, wo geht's hin?"
+        ], 
+        "Raum": "V4", 
+        "Ident": "schroeder-tex", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "TeX im 3. Jahrtausend"
+        ]
+    }, 
+    "blechschmidt-haskell": {
+        "Sonstiges": [], 
+        "Name": [
+            "Ingo Blechschmidt"
+        ], 
+        "Zeit": {
+            "Begin": "", 
+            "Ende": ""
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Was ist schneller als C++, prägnanter als Perl, regelmäßiger als Python,", 
+            "flexibler als Ruby, typisierter als C#, robuster als Java und hat", 
+            "absolut nichts mit PHP gemeinsam? Es ist Haskell!", 
+            "Haskell ist eine moderne und innovative Programmiersprache, die sich von", 
+            "bekannten imperativen Sprachen in vielerlei Hinsicht deutlich", 
+            "unterscheidet: Ein Haskell-Programm besteht nicht etwa aus einer Abfolge", 
+            "von auszuführenden Anweisungen, sondern aus einer Ansammlung von", 
+            "Deklarationen, deren Reihenfolge keine Rolle spielt. Auch gibt es keine", 
+            "veränderlichen Variablen, und ausgewertet wird nur, was wirklich", 
+            "benötigt wird; unendliche Datenstrukturen sind möglich und sinnvoll.", 
+            "Dieses Denkparadigma mag anfangs sehr ungewohnt sein, zieht jedoch eine", 
+            "Reihe von Vorteilen mit sich: Da es keine Nebenwirkungen wie", 
+            "beispielsweise globale Variablen gibt, kann man Code rein lokal", 
+            "verstehen. Damit wird es einfacher, modular Komponenten zusammenzubauen,", 
+            "sich Datenflüsse klarzumachen und Code auf seine Korrektheit hin zu", 
+            "überprüfen. Insbesondere vereinfacht sich die Programmierung mit Threads", 
+            "enorm.", 
+            "Ferner ist Haskells starkes statisches Typsystem eine große Hilfe beim", 
+            "Programmieren und verhindert viel mehr Fehler schon während des Kompilierens,", 
+            "als man vielleicht aus anderen Sprachen gewohnt ist. Es gibt das Motto, dass,", 
+            "wenn Haskell-Code erst einmal erfolgreich durchkompiliert, er dann auch schon", 
+            "korrekt ist. Das ist sicherlich übertrieben, hat aber einen erstaunlich wahren", 
+            "Kern.", 
+            "Der Vortrag wird einen subjektiven Überblick über die Fähigkeiten und", 
+            "typischen Anwendungsgebiete von Haskell geben. Beim Erlernen von Haskell", 
+            "lernt man viele neue Herangehensweisen kennen, die auch in anderen", 
+            "Sprachen nützlich sind; das ist einer der Hauptvorteile an Haskell, der", 
+            "auch dann noch relevant ist, wenn man aus verschiedenen Gründen nicht in", 
+            "Haskell programmieren möchte.", 
+            "[ Ist das zu lang? Kann es gerne kürzen. ]"
+        ], 
+        "Vorwissen": [
+            "Erfahrung in irgendeiner Programmiersprache."
+        ], 
+        "Schlagworte": [
+            "Haskell ist eine moderne, \"rein funktionale\" Programmiersprache: keine", 
+            "Variablen, keine Abfolgen von Anweisungen, dafür jede Menge Denkanstöße!", 
+            "http://www.haskell.org/", 
+            "http://learnyouahaskell.com/"
+        ], 
+        "Raum": "V3", 
+        "Ident": "blechschmidt-haskell", 
+        "Typ": [
+            "Lightning Talk"
+        ], 
+        "Titel": [
+            "Haskell, eine rein funktionale Programmiersprache"
+        ]
+    }, 
+    "guckes-muttgpg_vortrag": {
+        "Sonstiges": [], 
+        "Name": [
+            "Sven Guckes"
+        ], 
+        "Zeit": {
+            "Begin": "11:00", 
+            "Ende": "12:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Ich zeige den mailer \"mutt\" und seine Schnittstelle zum signieren+verschlüsseln.", 
+            "Eine LIVE Vorführung des Mailprogramms  mutt* [www.mutt.org]", 
+            "im Zusammenspiel mit der Verschlüsselung GPG* [www.gnupg.org].", 
+            "* Ein Blick in meine INBOX - signierte bzw verschlüsselte Mails.", 
+            "* Wie sieht eigentlich so ein Schlüssel aus?  (Die reinen Daten.)", 
+            "* Ansicht einer signierten/verschlüsselten Email - body+header im editor.", 
+            "* Ansicht einer signierten/verschlüsselten Email - body+header in mutt.", 
+            "* Demo: Mails versenden mit Digitaler Signatur und/oder Verschlüsselung.", 
+            "* Demo: Mails versenden mitsamt Schlüssel als Anhang.", 
+            "* Ein bischen Terminologie.", 
+            "* Persönliche Bemerkungen.", 
+            "* Hinweis auf weitere Themen.", 
+            "* Unsere Zukunft mit Crypto.", 
+            "* Workshop, anyone?"
+        ], 
+        "Vorwissen": [], 
+        "Schlagworte": [
+            "(Digitale) Schlüssel (Cryptokeys)", 
+            "http://de.wikipedia.org/wiki/Schl%C3%BCssel_(Kryptologie)", 
+            "Digital Signatur", 
+            "http://de.wikipedia.org/wiki/Digitale_Signatur", 
+            "Verschlüsselung", 
+            "http://de.wikipedia.org/wiki/Verschl%C3%BCsselung", 
+            "Schlüsselverwaltung (key management)", 
+            "http://en.wikipedia.org/wiki/Key_management", 
+            "Key Server - Schlüsselserver", 
+            "http://de.wikipedia.org/wiki/Schl%C3%BCsselserver", 
+            "KeySigning Party", 
+            "http://de.wikipedia.org/wiki/Keysigning-Party", 
+            "Web of Trust", 
+            "http://de.wikipedia.org/wiki/Web_of_Trust"
+        ], 
+        "Raum": "V2", 
+        "Ident": "guckes-muttgpg_vortrag", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "mutt+gpg - Sichere Email"
+        ]
+    }, 
+    "koelbel-desktop_auth": {
+        "Sonstiges": [], 
+        "Name": [
+            "Cornelius Kölbel"
+        ], 
+        "Zeit": {
+            "Begin": "", 
+            "Ende": ""
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Hier soll ein Konzept vorgestellt werden, wie sowohl die Bequemlichkeit gewährleistet", 
+            "aber auch die Sicherheit umgesetzt werden kann.", 
+            "Der Desktop soll zuverlässig und automatisch gesperrt werden. Zugang zum Desktop", 
+            "erhält man nur mit Zweifaktor-Authentisierung. Aber auch diese soll leicht und", 
+            "bequem anwendbar sein."
+        ], 
+        "Vorwissen": [], 
+        "Schlagworte": [
+            "Automatisches Sperren des Desktops", 
+            "Zwei-Faktor-Authentisierung am Desktop"
+        ], 
+        "Raum": "V3", 
+        "Ident": "koelbel-desktop_auth", 
+        "Typ": [
+            "Lightning Talk"
+        ], 
+        "Titel": [
+            "Sicher und bequem."
+        ]
+    }, 
+    "yanar-lxc_docker2": {
+        "Sonstiges": [], 
+        "Name": [
+            "Erkan Yanar"
+        ], 
+        "Zeit": {
+            "Begin": "11:00", 
+            "Ende": "12:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [], 
+        "Vorwissen": [], 
+        "Schlagworte": [], 
+        "Raum": "V1", 
+        "Ident": "yanar-lxc_docker2", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Docker"
+        ]
+    }, 
+    "flebbe-bigdata1": {
+        "Sonstiges": [], 
+        "Name": [
+            "Olaf Flebbe"
+        ], 
+        "Zeit": {
+            "Begin": "16:00", 
+            "Ende": "17:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Wie funktioniert ein Big Data System?", 
+            "Es werden Software Projekte, Buildsysteme, Installation, Funktionsweise und Anwendung demonstriert."
+        ], 
+        "Vorwissen": [
+            "Linux Grundlagen"
+        ], 
+        "Schlagworte": [
+            "Hadoop, zookeeper, yarn, hive, hbase, hue, apache bigtop", 
+            "Webseite jeweils projekt.apache.org bis auf gethue.com"
+        ], 
+        "Raum": "V1", 
+        "Ident": "flebbe-bigdata1", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Big Data in a Nutshell"
+        ]
+    }, 
+    "engelmann-lyx": {
+        "Sonstiges": [], 
+        "Name": [
+            "Wolfgang Engelmann"
+        ], 
+        "Zeit": {
+            "Begin": "11:00", 
+            "Ende": "12:00"
+        }, 
+        "Vorbereitung": [
+            "Beamer, Lyx mit Texlive, Jabref, Pyxplot, xfig)"
+        ], 
+        "Inhalt": [
+            "Wie schreibe ich ein Buch: Demonstration am Rechner.", 
+            "Aufteilung in Kapitel, Abschnitte etc.", 
+            "Mathematische Gleichungen, chemische Formeln.", 
+            "Bilder und Tabellen einbinden als Gleitobjekte.", 
+            "Zitieren von Referenzen, Literaturverzeichnis und Index erstellen. Exportieren des Buches.", 
+            "Eine Aufgabe für solche, die mehr können als ich: Wie kann ich ein externes Programm so einbinden, dass ich es aus LyX heraus bedienen kann (z.B. TikZ oder Pyxplot)."
+        ], 
+        "Vorwissen": [], 
+        "Schlagworte": [
+            "Wie benutze ich LaTeX, ohne meinen Kopf mit Kommandos zu zu müllen? Was bietet Lyx? Wie binde ich Bilder ein? Und Referenzen? Mathematisches, chemische Formeln, Gleichungen? Wie bekomme ich Hilfe, wenns hackt (> lyx-users@lists.lyx.org)? Wie kann ich externe Programme einbinden (z.B. xfig). Und: Wünsche an die Lyx-User Group.", 
+            "http://www.lyx.org/WebDe.Home"
+        ], 
+        "Raum": "V4", 
+        "Ident": "engelmann-lyx", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Mit Lyx Text verarbeiten"
+        ]
+    }, 
+    "koenig-bash": {
+        "Sonstiges": [], 
+        "Name": [
+            "Harald König"
+        ], 
+        "Zeit": {
+            "Begin": "18:00", 
+            "Ende": "19:30"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "moegliche themen:", 
+            "- Spritpreise monitoren, auswerten/plotten und sich Gedanken machen (vgl. vortraege der letzten Jahre,", 
+            "z.b. http://chemnitzer.linux-tage.de/2014/de/vortraege/detail/277 )", 
+            "- Canon RAW Bilder von einer CFCARD retten/undeleten -- mit SHELL und dd", 
+            "- Zahlenspielereien mit dem Kalender: welcher Wandkalender passt dieses/naechstes Jahrt", 
+            "- andere Ideen ?"
+        ], 
+        "Vorwissen": [
+            "Auf der Kommando-Zeile tippen können ;-)"
+        ], 
+        "Schlagworte": [
+            "Im Vortrag wird «interaktiv» ganz langsam und in kleinen Schritten ein Shell-Skript entwickelt – um zu demonstrieren, wie einfach das mit ein wenig Übung sein kann (und wie nützlich zum Schluss!).", 
+            "Mit der Shell (bash) und einer kleinen Zahl hilfreicher Kommandozeilen-Tools kann man sehr schön Daten bearbeiten, umwandeln, verarbeiten und auswerten. Einmal erlernt und geübt ist dies ein praktisches und mächtiges Werkzeug in UNIX, welches durch die grafischen Oberflächen vielfach zu Unrecht immer mehr in Vergessenheit gerät."
+        ], 
+        "Raum": "V1", 
+        "Ident": "koenig-bash", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "Haralds kleine Helferlein die SHELL"
+        ]
+    }, 
+    "kuestner_strohmaier-wueste_welle": {
+        "Sonstiges": [], 
+        "Name": [
+            "Friedrich Strohmaier <frieder@wueste-welle.de>", 
+            "Andreas Küstner <andy@wueste-welle.de>"
+        ], 
+        "Zeit": {
+            "Begin": "12:30", 
+            "Ende": "13:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Kurzer Anriss über die verschiedenen Einsatzfelder von OpenSource Software bei", 
+            "der Wüsten Welle, Tübingen zu den Themen:", 
+            "- Netzwerk", 
+            "- Windows roaming profiles", 
+            "- VPN - Remotewartung - Liveübertragungen", 
+            "- Netzwerkstorage", 
+            "- Webservices", 
+            "- Mailservices", 
+            "- Collaboration", 
+            "- Büroarbeiten", 
+            "- Sendungsmanagement: Archivierung, Ausstrahlung nach Zeitplan", 
+            "- Digitale Audiosignalverarbeitung", 
+            "- Audiostreaming Client + Service", 
+            "- Audiodaten editieren", 
+            "- Archivierung optische Medien im Netz", 
+            "- Schließanlage"
+        ], 
+        "Vorwissen": [
+            "- Oberflächliches Wissen um die Existenz von OpenSource Software.", 
+            "- Grundsätzliches Interesse an Verwendungsmöglichkeiten von OpenSource Software", 
+            "innerhalb einer Organisation."
+        ], 
+        "Schlagworte": [
+            "Vernetzung, Audiotechnik, Produktivität"
+        ], 
+        "Raum": "V4", 
+        "Ident": "kuestner_strohmaier-wueste_welle", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "OpenSource Software - So setzen wir sie im Freien Radio Wüste Welle ein."
+        ]
+    }, 
+    "schiele-aktuelles": {
+        "Sonstiges": [], 
+        "Name": [
+            "Joachim Schiele"
+        ], 
+        "Zeit": {
+            "Begin": "16:00", 
+            "Ende": "17:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "- trend zum multicore, nur wer nutzt das eigentlich? wie nutzt man das", 
+            "eigentlich?", 
+            "- software entwicklung: weg von C/asm zu touch/webtechniken", 
+            "- entwicklung: PC out, mobile IN", 
+            "- krasse sachen:", 
+            "- persistent RAM: systeme welche man nicht mehr bootet", 
+            "- asm.js/webtechniken", 
+            "- biologische programmierung", 
+            "- was passiert mit open source? FLOSS in zukunft noch relevant?", 
+            "- hackerspaces und was man alles bauen & reparieren kann"
+        ], 
+        "Vorwissen": [
+            "- interesse an technik, insb. software/hardware von PC-artigen systemen"
+        ], 
+        "Schlagworte": [
+            "... wir machen einen streifzug durch die entwicklungen der letzten jahre", 
+            "und schauen an, was uns in nahre zukunft alles erwartet ..."
+        ], 
+        "Raum": "V3", 
+        "Ident": "schiele-aktuelles", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "aktuelle entwicklungen"
+        ]
+    }, 
+    "mundt-apt_install": {
+        "Sonstiges": [], 
+        "Name": [
+            "Andreas B. Mundt"
+        ], 
+        "Zeit": {
+            "Begin": "15:00", 
+            "Ende": "16:00"
+        }, 
+        "Vorbereitung": [], 
+        "Inhalt": [
+            "Der Vortrag zeigt, wie man die Installation von Debian GNU/Linux", 
+            "automatisieren kann.  Benutzt wird dazu eine sogenannte \"InstallBox\".", 
+            "Diese erlaubt (gegebenfalls virtualisiert), andere Rechner über PXE zu", 
+            "installieren und dient nebenbei als Paket-Cache.", 
+            "Wir beginnen mit kleineren Anpassungen mittels \"preseeding\" und enden", 
+            "mit dem Ausrollen einer kompletten Debian-LAN-Umgebung mittels FAI", 
+            "(Fully Automatic Installation)."
+        ], 
+        "Vorwissen": [
+            "Die gewöhnliche Installation eines GNU/Linux-Systems sollte bekannt", 
+            "sein."
+        ], 
+        "Schlagworte": [
+            "Installation, automatische Konfiguration und Deployment.", 
+            "https://packages.debian.org/jessie/di-netboot-assistant", 
+            "http://d-i.debian.org/manual/de.amd64/apb.html", 
+            "https://wiki.debian.org/DebianLAN"
+        ], 
+        "Raum": "V4", 
+        "Ident": "mundt-apt_install", 
+        "Typ": [
+            "Vortrag"
+        ], 
+        "Titel": [
+            "apt install YOUR-NEIGHBORHOOD"
+        ]
+    }
+}

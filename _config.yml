@@ -4,7 +4,6 @@ email: info@tuebix.org
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.tuebix.org" # the base hostname & protocol for your site
 
-# Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
+collections: 
+  talks:
+    output: true
