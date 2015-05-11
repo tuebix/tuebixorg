@@ -37,7 +37,7 @@ menu:
 <td></td><td></td>
 <td></td><td></td>
 <td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/yanar-lxc_docker2">Docker</a></td>
-<td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/guckes-muttgpg_vortrag">mutt+gpg</a></td>
+<td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/guckes-muttgpg_vortrag">mutt + gpg</a></td>
 <td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/genannt-sshkey_distribution">ssh-key-distribution</a></td>
 <td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/engelmann-lyx">lyx</a></td>
 </tr>
@@ -54,7 +54,7 @@ menu:
 
 <tr><td>12:00</td>
 <td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/mundt_nachbauer-jessie_party">Jessie Party</a></td>
-<td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/baur_graesing-x2go">x2go</a></td>
+<td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/baur_graesing-x2go">X2Go</a></td>
 <td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/waelde-emacs">emacs</a></td>
 <td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiebel-linuxmuster">linuxmuster.net</a></td>
 <td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kockler-puppet1">Puppet I</a></td>
@@ -93,9 +93,9 @@ menu:
 </tr>
 
 <tr><td>14:00</td>
-<td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/guckes-muttgpg_workshop">mutt+pgp</a></td>
+<td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/guckes-muttgpg_workshop">mutt + pgp</a></td>
 <td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/brauner_yanar-lxc_docker3">lxc+docker</a></td>
-<td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/blechschmidt-python_schueler">python f&uuml;r Schueler</a></td>
+<td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/blechschmidt-python_schueler">python f&uuml;r Sch&uuml;ler</a></td>
 <td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/knopper-knoppix_raspi">knoppix auf raspi</a></td>
 <td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kockler-puppet2">Puppet II</a></td>
 <td></td><td></td>
@@ -114,7 +114,7 @@ menu:
 
 <tr><td>16:00</td>
 <td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/hrenka-python">Python</a></td>
-<td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/koelbel-privacyidea">privacyidea</a></td>
+<td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/koelbel-privacyidea">privacyIDEA</a></td>
 <td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/knopper-openscad">OpenSCAD</a></td>
 <td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/flebbe-bigdata1">Big Data I</a></td>
 <td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/behrla-lpic">LPIC</a></td>

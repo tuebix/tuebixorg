@@ -11,16 +11,16 @@ menu:
 
 <table>
 <tr><td colspan="3">Raum W1</td></tr>
-<tr><td>12:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/mundt_nachbauer-jessie_party">Debian&nbsp;GNU/Linux&nbsp;"Jessie"&nbsp;Install&nbsp;Party</a></td><td>Florian&nbsp;Nachbauer&nbsp;und&nbsp;Andreas&nbsp;Mundt</td></tr>
-<tr><td>14:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/guckes-muttgpg_workshop">mutt+gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
+<tr><td>12:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/mundt_nachbauer-jessie_party">Debian&nbsp;GNU/Linux&nbsp;"Jessie"&nbsp;Install&nbsp;Party</a></td><td>Andreas&nbsp;Mundt,&nbsp;Florian&nbsp;Nachbauer</td></tr>
+<tr><td>14:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/guckes-muttgpg_workshop">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>16:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/hrenka-python">Python&nbsp;-&nbsp;Workshop</a></td><td>Peter&nbsp;Hrenka</td></tr>
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">Raum W2</td></tr>
 <tr><td>10:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/krug-libreoffice">LibreOffice&nbsp;Overkill</a></td><td>Stefan&nbsp;Krug</td></tr>
-<tr><td>12:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/baur_graesing-x2go">x2go</a></td><td>Stefan&nbsp;Baur,&nbsp;Heinz&nbsp;Graesing</td></tr>
+<tr><td>12:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/baur_graesing-x2go">X2Go</a></td><td>Stefan&nbsp;Baur,&nbsp;Heinz&nbsp;Graesing</td></tr>
 <tr><td>14:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/brauner_yanar-lxc_docker3">LXC&nbsp;+&nbsp;Docker</a></td><td>Christian&nbsp;Brauner,&nbsp;Erkan&nbsp;Yanar</td></tr>
-<tr><td>16:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/koelbel-privacyidea">"privacyIDEA&nbsp;-&nbsp;Zwei-Faktor-Authentisierung&nbsp;selber&nbsp;machen"</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
+<tr><td>16:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/koelbel-privacyidea">privacyIDEA&nbsp;-&nbsp;Zwei-Faktor-Authentisierung&nbsp;selber&nbsp;machen</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">Raum W3</td></tr>
-<tr><td>10:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/zimmer-vim">Vim&nbsp;für&nbsp;Nicht-Mehr-Beginner&nbsp;und</a></td><td>Toni&nbsp;Zimmer</td></tr>
+<tr><td>10:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/zimmer-vim">Vim&nbsp;für&nbsp;Nicht-Mehr-Beginner&nbsp;und&nbsp;Noch-Nicht-Fortgeschrittene</a></td><td>Toni&nbsp;Zimmer</td></tr>
 <tr><td>12:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/waelde-emacs">Anständiges&nbsp;Werkzeug:&nbsp;emacs</a></td><td>Erich&nbsp;Wälde</td></tr>
 <tr><td>14:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/blechschmidt-python_schueler">Python-Programmierung&nbsp;für&nbsp;Schülerinnen&nbsp;und&nbsp;Schüler</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>16:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/knopper-openscad">3D-Modelle&nbsp;erstellen&nbsp;mit&nbsp;OpenSCAD</a></td><td>Prof.&nbsp;Dipl.-Ing.&nbsp;Klaus&nbsp;Knopper</td></tr>
@@ -37,7 +37,7 @@ menu:
 <tr><td>18:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/koenig-bash">Haralds&nbsp;kleine&nbsp;Helferlein&nbsp;die&nbsp;SHELL</a></td><td>Harald&nbsp;König</td></tr>
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">Raum V2</td></tr>
 <tr><td>10:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiele-nixos">Was&nbsp;ist&nbsp;NixOS?</a></td><td>Joachim&nbsp;Schiele</td></tr>
-<tr><td>11:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/guckes-muttgpg_vortrag">mutt+gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
+<tr><td>11:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/guckes-muttgpg_vortrag">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>12:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kockler-puppet1">Puppet&nbsp;I:&nbsp;Zentrale&nbsp;Administration&nbsp;einer&nbsp;Server&nbsp;Infrastruktur</a></td><td>Torsten&nbsp;Kockler</td></tr>
 <tr><td>13:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/gietz-openldap">OpenLDAP,&nbsp;eine&nbsp;hochskalierbare&nbsp;und&nbsp;hochperformante&nbsp;standardkonforme</a></td><td>Peter&nbsp;Gietz</td></tr>
 <tr><td>14:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kockler-puppet2">Puppet&nbsp;II:&nbsp;Strukturierte&nbsp;Puppet-Umgebung</a></td><td>Torsten&nbsp;Kockler</td></tr>

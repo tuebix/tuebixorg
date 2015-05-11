@@ -11,15 +11,9 @@ menu:
 
 ### Ingo&nbsp;Blechschmidt
 
-### Inhalt
+Python ist eine moderne Programmiersprache, mit der man zum Beispiel eigene Spiele und Webseiten erstellen kann. Im Workshop unternehmen wir gemeinsam erste Schritte in dieser Sprache.
 
-Python ist eine moderne Programmiersprache, mit der man zum Beispiel
-eigene Spiele und Webseiten erstellen kann. In dem Workshop unternehmen
-wir gemeinsam erste Schritte in dieser Sprache.
+### Vorbereitung
 
-#### Vorbereitung
-
-Laptop mitbringen. Es ist keine Installation nötig, und wir werden das
-Laptopsystem auch nicht ändern. Wir werden den Laptop nur verwenden, um
-auf eine Webseite zu gehen.
-
+- Laptop mitbringen!
+- Es ist keine Installation nötig, und wir werden das Laptopsystem auch nicht ändern. Wir werden den Laptop nur verwenden, um auf eine Webseite zu gehen.
