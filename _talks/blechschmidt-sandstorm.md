@@ -7,14 +7,10 @@ menu:
 ---
 ## Sandstorm,&nbsp;eine&nbsp;einfache&nbsp;Plattform&nbsp;für&nbsp;private&nbsp;Cloud-Server
 
-### <img height = "32" src="../../images/lightning.svg">  in Raum V3
+### <img height = "32" src="../../images/lightning.svg"> 12:30 bis 12:40 in Raum V3
 
 ### Ingo&nbsp;Blechschmidt
 
-### Schlagworte
-
 Die vier wesentlichen Freiheiten freier Software werden durch
-proprietäre Web-Dienste bedroht. Mit Sandstorm wird es einfach, freie
+proprietäre Web-Dienste bedroht. Mit Sandstorm (<a href="https://sandstorm.io" target="_blank">sandstorm.io</a>) wird es einfach, freie
 Server-Software privat einzusetzen.
-https://sandstorm.io/
-

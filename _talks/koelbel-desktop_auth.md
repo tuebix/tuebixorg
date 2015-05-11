@@ -5,16 +5,14 @@ permalink: /programm/koelbel-desktop_auth/
 weight: 
 menu:
 ---
-## Sicher&nbsp;und&nbsp;bequem.
+## Sicher&nbsp;und&nbsp;bequem
 
-### <img height = "32" src="../../images/lightning.svg">  in Raum V3
+### <img height = "32" src="../../images/lightning.svg"> 12:50 bis 13:00 in Raum V3
 
 ### Cornelius&nbsp;Kölbel
 
-### Schlagworte
-
-Automatisches Sperren des Desktops
-Zwei-Faktor-Authentisierung am Desktop
+- Automatisches Sperren des Desktops
+- Zwei-Faktor-Authentisierung am Desktop
 
 ### Inhalt
 

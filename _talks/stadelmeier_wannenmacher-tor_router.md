@@ -7,15 +7,14 @@ menu:
 ---
 ## Tor-Router
 
-### <img height = "32" src="../../images/lightning.svg">  in Raum V3
+### <img height = "32" src="../../images/lightning.svg"> 12:20 bis 12:30 in Raum V3
 
-### Fabian&nbsp;Wannenmacher
+### Andreas&nbsp;Stadelmeier,&nbsp;Fabian&nbsp;Wannenmacher
 
-### Schlagworte
-
-OpenWRT <https://openwrt.org/>,
-Tor <https://torproject.org/>
-Anonymes Internet, (öffentliches) WLAN
+- <a href="https://openwrt.org" target="_blank">openwrt.org</a>
+- <a href="https://torproject.org" target="_blank">torproject.org</a>
+- Anonymes Internet
+- (öffentliches) WLAN
 
 ### Inhalt
 
@@ -30,10 +29,8 @@ Störerhaftung und ähnliches ziemlich Egal sein.
 
 ### Vorwissen
 
-Keines. Grundsätzliche Linux und Netzwerkkenntnisse eventuell Vorteilhaft aber
-nicht nötig.
+Keines. Grundsätzliche Linux und Netzwerkkenntnisse eventuell Vorteilhaft aber nicht nötig.
 
 #### Vorbereitung
 
-Zuhörer können zum ausprobieren ein WLAN-Fähiges Gerät mitbringen.
-
+Zuhörer können zum Ausprobieren ein WLAN-fähiges Gerät mitbringen.

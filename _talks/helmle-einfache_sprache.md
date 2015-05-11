@@ -7,16 +7,13 @@ menu:
 ---
 ## Leichte&nbsp;Sprache&nbsp;in&nbsp;der&nbsp;IT&nbsp;oder&nbsp;–&nbsp;wie&nbsp;sag&nbsp;ich’s&nbsp;dem&nbsp;User?
 
-### <img height = "32" src="../../images/lightning.svg">  in Raum V3
+### <img height = "32" src="../../images/lightning.svg"> 12:40 bis 12:50 in Raum V3
 
 ### Krishna-Sara&nbsp;Helmle
 
-### Schlagworte
-
-Leichte Sprache verbessert die Kommunikation zwischen Fachleuten und Laien.
-Leichte Sprache:
-https://de.wikipedia.org/wiki/Leichte_Sprache
-Mein Büro für Leichte Sprache: www.leicht-verstehen.de
+- Leichte Sprache verbessert die Kommunikation zwischen Fachleuten und Laien.
+- <a href="https://de.wikipedga.org/wiki/Leichte_Sprache" target="_blank">de.wikipedga.org/wiki/Leichte_Sprache</a>
+- Mein Büro für Leichte Sprache: <a href="http://www.leicht-verstehen.de" target="_blank">leicht-verstehen.de</a>
 
 ### Inhalt
 
@@ -25,8 +22,9 @@ Als Admin oder als Mitarbeiter im Support hast du oft das Problem, dass du
 erklären sollst, was er jetzt tun soll.
 Als Programmierer, grade im BtC-Bereich, geht es oft darum, sich dem Kunden
 verständlich mitzuteilen, um ihn optimal bedienen zu können.
+
 Das ist manchmal gar nicht so leicht.
+
 Leichte Sprache kann hier helfen, den eigenen Sprachgebrauch zu
 reflektieren; um User und Kunden noch besser dort abzuholen, wo sie sind.
 Ich stelle das Konzept Leichte Sprache anhand von einigen Beispielen vor.
-
