@@ -5,15 +5,17 @@ permalink: /programm/pfeifle-pdfkungfoo/
 weight: 
 menu:
 ---
-## PDF-KungFoo&nbsp;mit&nbsp;Ghostscript&nbsp;&&nbsp;Co.
+## PDF-KungFoo&nbsp;mit&nbsp;Ghostscript&nbsp;&&nbsp;Co
 
 ### <img height = "32" src="../../images/talk.svg"> 16:00 bis 17:00 in Raum V4
 
 ### Kurt&nbsp;Pfeifle&nbsp;(@pdfkungfoo)
 
-### Schlagworte
-
-PostScript, PDF, Farben/Graustufen, Bilder, Fonts,
+- PostScript
+- PDF
+- Farben/Graustufen
+- Bilder
+- Fonts
 
 ### Inhalt
 
@@ -28,28 +30,32 @@ Bei diesem Workshop wird's nicht viele Folien zu sehen geben.
 Stattdessen werden alle Themen "live" am Beamer vorgeführt.
 Der Workshop ist geeignet für Windows, Linux, Mac OSX und BSD-Unix-
 Anwender.
-General-Thema
--------------
+
+#### General-Thema
+
 Der Workshop demonstriert einige der Top-10-Probleme (Reihung nach
 der subjektiven Erfahrung des Workshop-Leiters), die bei Verarbeitung
 oder Erstellung von PDF-Dateien in der Praxis auftreten können.
-Themen-Details
---------------
+
+#### Themen-Details
+
 Zu den behandelten Problemkreisen gehören unter anderem:
+
 - Darstellung von Schriften auf dem Bildschirm oder im Druckbild
 - Darstellung von transparenten Grafik-Elementen im Druckbild
 - Extraktion von Text-Stellen oder ganzen Texten
-- Konvertierung von RGB- oder CMYK-Schwarz oder Grau nach "echtem"
-Schwarz/Grau
+- Konvertierung von RGB- oder CMYK-Schwarz oder Grau nach "echtem" Schwarz/Grau
 - Extraktion von Bildern
 - Reduzierung der Dateigröße
 - Erkennung gescannter Seiten
 - Skalierung von PDF-Seiten
 - Ungewollte Änderungen bei eingebetteten Bildern (Farbraum, Auflösung)
 - Linearisierung (“Web-Optimierung”) von PDFs
+
 Der Workshop führt außerdem schrittweise in einige mehr und auch weniger
 bekannte Kommandozeilen-Tools ein, die man zum Analysieren und
 Reparieren dieser Problembereiche verwenden kann:
+
 - `qpdf`
 - `pdftk`
 - `pdfinfo`
@@ -59,8 +65,7 @@ Reparieren dieser Problembereiche verwenden kann:
 - `pdf-parser.py`
 - `pdfid.py`
 - `mutool`
-- Ghostscript (mit wenig bekannten, aber sehr nützlichen Kommandozeilen-
-Parametern)
+- Ghostscript (mit wenig bekannten, aber sehr nützlichen Kommandozeilen- Parametern)
 
 ### Vorwissen
 
@@ -69,7 +74,7 @@ Parametern)
 * Interesse an PDF-Debugging
 * keine Angst vor der Kommandozeile
 
-#### Vorbereitung
+### Vorbereitung
 
 Weder als Vortrag noch als Workshop ist das Thema als "Mitmach"-Thema
 konzipiert. Es ist vielmehr ein "Aufpass"-Thema!
@@ -79,4 +84,3 @@ Im Nachhinein werden die Teilnehmer über die Tübix-Seite dann ein Archiv
 mit allen entsprechenden Dokumenten herunterladen können: verwendete
 Beispiel-Dateien sowie ein Transkript des Vortrags, das alle gezeigten
 Kommandos nochmals wiedergibt und kurz erläutert.
-

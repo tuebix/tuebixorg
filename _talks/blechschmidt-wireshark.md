@@ -11,11 +11,8 @@ menu:
 
 ### Ingo&nbsp;Blechschmidt
 
-### Schlagworte
-
-Mit Wireshark kann man aus- und eingehenden Netzwerkverkehr mitschneiden
+Mit Wireshark (<a href="https://www.wireshark.org" target="_blank">wireshark.org</a>) kann man aus- und eingehenden Netzwerkverkehr mitschneiden
 und analysieren.
-https://www.wireshark.org/
 
 ### Inhalt
 
@@ -32,6 +29,4 @@ mehrere Beispiele vorführen.
 
 ### Vorwissen
 
-*Keines*. (Besucher, die schon mehr als einmal Wireshark selbst
-verwendet haben, werden sich langweilen!)
-
+Keines. Besucher, die schon mehr als einmal Wireshark selbst verwendet haben, werden sich langweilen!

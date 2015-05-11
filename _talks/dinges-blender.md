@@ -11,13 +11,13 @@ menu:
 
 ### Thomas&nbsp;Dinges
 
-### Schlagworte
-
-Einführung in das 3D Programm Blender: http://www.blender.org/
-Open Source Grafiksoftware, Animationsfilme, Spezialeffekte
+- Einführung in das 3D Programm Blender
+- Open Source Grafiksoftware
+- Animationsfilme
+- Spezialeffekte
+- <a href="http://www.blender.org" target="_blank">blender.org</a>
 
 ### Inhalt
 
 Computer generierte Animationen und Effekte sind heute fast überall zu sehen. Egal ob im Kino, der Werbung oder im TV. Oft nehmen wir diese gar nicht mehr bewusst wahr,
 die Grenze zwischen CGI (computer generated imagery) und der Realität verschwimmen. In diesem Vortrag stelle ich das Open Source 3D Programm Blender vor, mit welchem ihr kostenlos aber dennoch professionell 3D Grafiken und Animationen erstellen könnt. Von der Geschichte des Programms, über die rasante Entwicklung in den letzten Jahren bis hin zu tollen animierten Filmen, welche mit Blender kreiert wurden, wird alles gezeigt.
-

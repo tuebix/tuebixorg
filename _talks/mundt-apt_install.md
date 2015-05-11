@@ -11,12 +11,12 @@ menu:
 
 ### Andreas&nbsp;B.&nbsp;Mundt
 
-### Schlagworte
-
-Installation, automatische Konfiguration und Deployment.
-https://packages.debian.org/jessie/di-netboot-assistant
-http://d-i.debian.org/manual/de.amd64/apb.html
-https://wiki.debian.org/DebianLAN
+- Installation
+- automatische Konfiguration
+- Deployment.
+- <a href="https://packages.debian.org/jessie/di-netboot-assistant" target="_blank">packages.debian.org/jessie/di-netboot-assistant</a>
+- <a href="http://d-i.debian.org/manual/de.amd64/apb.html" target="_blank">d-i.debian.org/manual/de.amd64/apb.html</a>
+- <a href="https://wiki.debian.org/DebianLAN" target="_blank">wiki.debian.org/DebianLAN</a>
 
 ### Inhalt
 
@@ -30,6 +30,4 @@ mit dem Ausrollen einer kompletten Debian-LAN-Umgebung mittels FAI
 
 ### Vorwissen
 
-Die gewöhnliche Installation eines GNU/Linux-Systems sollte bekannt
-sein.
-
+Die gewöhnliche Installation eines GNU/Linux-Systems sollte bekannt sein.

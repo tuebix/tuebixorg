@@ -11,24 +11,29 @@ menu:
 
 ### Dr.&nbsp;Udo&nbsp;Seidel
 
-### Schlagworte
-
-Port-Knocking
-TCP-Kopf-Erweiterung
-3 Wege Handschlag
-Projekt von der TU MÃ¼nchen
-http://gnunet.org/knock
-http://gnunet.org/sites/default/files/ma_kirsch_2014_0.pdf
-http://tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01
-Demo fÃ¼r SSH auf Linux mit TCP Stealth
+- Port-Knocking
+- TCP-Kopf-Erweiterung
+- 3 Wege Handschlag
+- Projekt von der TU München
+- <a href="http://gnunet.org/knock" target="_blank">gnunet.org/knock</a>
+- <a href="http://gnunet.org/sites/default/files/ma_kirsch_2014_0.pdf" target="_blank">gnunet.org/sites/default/files/ma_kirsch_2014_0.pdf</a>
+- <a href="http://tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01" target="_blank">tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01</a>
+- Demo für SSH auf Linux mit TCP Stealth
 
 ### Inhalt
 
-Portscans als Werkzeug zum Aufspueren verwundbarer Rechner sind ein alter Hut. Ein Moeglichkeit den Boesewichten das Leben zu erschweren ist das sogenannte Port-Knocking. Die Diskussionen in der Vergangenheit ware meist kontrovers. "Sicherheit durch Verschleiern" ist fuer manche Experten ueberhaupt keine akzeptable Massnahme. Zudem hat das "Anklopf-Verfahren" ein paar Schwaechen. Medienberichte ueber Portscans ganzer Laender durch Geheimdienste haben die Diskussion ueber Abwehrmassnahmen neu belebt. Port-Knocking spielt dabei eine zentrale Rolle. Das hier vorgestellte Verfahren entstand zunaechst als Forschungsprojekt einer Vorlesung an der TU Muenchen. Ziel von TCP Stealth ist die Abwehr von Portscans bei gleichzeitiger Addressierung der Schwaechen alternativer Anklopf-Implementierungen. Der Vortrag stellt die Idee und Architektur hinter TCP Stealth vor und beinhaltet auch einen kleine Demo.
+Portscans als Werkzeug zum Aufspüren verwundbarer Rechner sind ein alter Hut. Ein Möglichkeit den Bösewichten das Leben zu erschweren ist das sogenannte Port-Knocking. Die Diskussionen in der Vergangenheit ware meist kontrovers.
+"Sicherheit durch Verschleiern" ist fuer manche Experten ueberhaupt keine akzeptable Massnahme.
+Zudem hat das "Anklopf-Verfahren" ein paar Schwächen.
+Medienberichte über Portscans ganzer Länder durch Geheimdienste haben die Diskussion über Abwehrmassnahmen neu belebt.
+Port-Knocking spielt dabei eine zentrale Rolle.
+Das hier vorgestellte Verfahren entstand zunächst als Forschungsprojekt einer Vorlesung an der TU München.
+Ziel von TCP Stealth ist die Abwehr von Portscans bei gleichzeitiger Addressierung der Schwächen alternativer Anklopf-Implementierungen.
+
+Der Vortrag stellt die Idee und Architektur hinter TCP Stealth vor und beinhaltet auch einen kleine Demo.
 
 ### Vorwissen
 
 - Grundlegende Netzwerk-Kenntnisse insbesondere TCP
 - Interesse (gerne auch Vorkenntnisse) zum Thema Sicherheit in der IT
-- ein bisschen Linux an sich wÃ¤re auch nicht schlecht
-
+- ein bisschen Linux an sich wäre auch nicht schlecht

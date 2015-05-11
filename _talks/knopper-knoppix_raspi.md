@@ -11,17 +11,14 @@ menu:
 
 ### Prof.&nbsp;Dipl.-Ing.&nbsp;Klaus&nbsp;Knopper
 
-### Schlagworte
-
-Wie baut man ein "Live-System" für Raspberry Pi
-(https://www.raspberrypi.org/) und andere Mini-Rechner, die keine
-Hardware-Erkennung unterstützen, kann das RasPi2 z.B. einen
-Desktop-Rechner ersetzen?  Experimente und Beispiele für ein
-"knoppifiziertes" Rasbian (http://www.raspbian.org/).
+- Wie baut man ein "Live-System" für Raspberry Pi (<a href="https://www.raspberrypi.org/" target="_blank">raspberrypi.org</a>) und andere Mini-Rechner, die keine
+Hardware-Erkennung unterstützen?
+- Kann das RasPi2 z.B. einen Desktop-Rechner ersetzen?
+- Experimente und Beispiele für ein "knoppifiziertes" Rasbian (<a href="https://www.raspbian.org/" target="_blank">raspbian.org</a>)
 
 ### Inhalt
 
-Knoppix (http://knopper.net/knoppix/) ist als Live-System mit
+Knoppix (<a href="http://knopper.net/knoppix/" target="_blank">knopper.net/knoppix/</a>) ist als Live-System mit
 automatischer Hardware-Erkennung für Desktop-Rechner und Notebooks
 konzipiert. ARM-basierte Minicomputer und Embedded Systeme stellen
 aufgrund der architekturbedingt mangelnden
@@ -35,11 +32,3 @@ Raspberry Pi Board übertragen.
 
 Grundkenntnisse zu GNU/Linux auf Anwender- und Administratorebene (aber
 nicht notwendigerweise bezogen auf Raspberry Pi).
-
-#### Vorbereitung
-
-Falls Workshop: Wer ein unter Rasbian laufendes Raspberry Pi besitzt,
-kann dies mit entsprechendem Equipment mitbringen (Stromversorgung,
-USB-Hub, kleiner Monitor, serielels USB-Kabel, Tastatur, Maus usw.) um
-einige der vorgeschlagenen Skripte und Änderungen auszuprobieren.
-

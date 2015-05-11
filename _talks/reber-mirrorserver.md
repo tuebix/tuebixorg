@@ -11,17 +11,21 @@ menu:
 
 ### Adrian&nbsp;Reber
 
-### Schlagworte
-
-Mirror Server, Esslingen, Fedora MirrorManager
+- Mirror Server
+- Esslingen
+- Fedora MirrorManager
+- <a href="http://ftp-stud.hs-esslingen.de" target="_blank">ftp-stud.hs-esslingen.de</a>
 
 ### Inhalt
 
-Dieser Vortrag soll Details zum Mirror Server (ftp-stud.hs-esslingen.de) in
-Esslingen liefern. Seit wann gibt es den Server?. Wie ist er entstanden?
-Wer steckt dahinter? Warum wird er betrieben? Wie wird er betrieben? Wie
-und was gespiegelt? Zweiter Teil des Vortrages wer eine kurze
-Vorstellung wie ein Mirror in ein Mirror Netzwerk eingebunden ist.
-Exemplarisch am Mirror Netzwerk von Fedora welches auf der Software
-MirrorManager basiert.
+Dieser Vortrag soll Details zum Mirror Server (ftp-stud.hs-esslingen.de) in Esslingen liefern.
 
+- Seit wann gibt es den Server?
+- Wie ist er entstanden?
+- Wer steckt dahinter?
+- Warum wird er betrieben?
+- Wie wird er betrieben?
+- Wie und was wird gespiegelt?
+
+Zweiter Teil des Vortrags wird eine kurze Vorstellung, wie ein Mirror in ein Mirror Netzwerk eingebunden ist.
+Exemplarisch am Mirror Netzwerk von Fedora, welches auf der Software MirrorManager basiert.

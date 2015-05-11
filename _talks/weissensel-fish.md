@@ -11,25 +11,17 @@ menu:
 
 ### Jonas&nbsp;Weissensel
 
-### Schlagworte
-
-Linux, OSX, Shell [http://fishshell.com/], Kommandozeile, out-of-the-box, scripting, Einsteigerniveau
+- Linux, OSX, Shell, Kommandozeile, out-of-the-box, scripting, Einsteigerniveau
+- <a href="http://fishshell.com" target="_blank">fishshell.com</a>
 
 ### Inhalt
 
-Ich bin begeisterter Nutzer der "fish", einer Kommandozeilen-Shell, die imho eine bessere
-Out-of-the-Box Nutzererfahrung bietet als die bash.
-Mein Vortrag beschreibt in Kürze die Motivation hinter dem Wechsel und beispielhaft einige Probleme,
-auf die ich im Laufe der Zeit gestoßen bin und wie ich diese (mehr oder weniger erfolgreich) bewältigt habe.
-Das Vortragsniveau bleibt auf Einsteigerlevel, es beginnt mit einer kurzen Einführung, was eine Shell überhaupt ist,
-und im weiteren Verlauf werde ich einfach einige Beispiele aus dem Alltag im Bash/Fish-Vergleich vorführen.
+Ich bin begeisterter Nutzer der "fish", einer Kommandozeilen-Shell, die imho eine bessere out-of-the-box Nutzererfahrung bietet als die bash.
+
+Mein Vortrag beschreibt in Kürze die Motivation hinter dem Wechsel und beispielhaft einige Probleme, auf die ich im Laufe der Zeit gestoßen bin und wie ich diese (mehr oder weniger erfolgreich) bewältigt habe.
+Das Vortragsniveau bleibt auf Einsteigerlevel, es beginnt mit einer kurzen Einführung, was eine Shell überhaupt ist, und im weiteren Verlauf werde ich einfach einige Beispiele aus dem Alltag im Bash/Fish-Vergleich vorführen.
 
 ### Vorwissen
 
-* Grundlegende Kenntnisse über CLI
-* Interesse für Text-Anwendungen
-
-#### Vorbereitung
-
-* Beamer benötigt für Live-Präsentation
-
+- Grundlegende Kenntnisse über CLI
+- Interesse für Text-Anwendungen

@@ -19,5 +19,3 @@ Nach einer kurzen Einführung in die Grundidee der Steganographie werden verschi
 ### Vorwissen
 
 Grundlegendes Verständnis der Netzwerkprotokolle IP, UDP und TCP von Vorteil.
--- Mailingliste tuebix-cfp https://www.fsi.uni-tuebingen.de/mailman/listinfo/tuebix-cfp
-

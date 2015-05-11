@@ -5,31 +5,26 @@ permalink: /programm/schiele-aktuelles/
 weight: 
 menu:
 ---
-## aktuelle&nbsp;entwicklungen
+## Aktuelle&nbsp;Entwicklungen
 
 ### <img height = "32" src="../../images/talk.svg"> 16:00 bis 17:00 in Raum V3
 
 ### Joachim&nbsp;Schiele
 
-### Schlagworte
-
-... wir machen einen streifzug durch die entwicklungen der letzten jahre
-und schauen an, was uns in nahre zukunft alles erwartet ...
+Wir machen einen Streifzug durch die Entwicklungen der letzten Jahre und schauen an, was uns in naher Zukunft alles erwartet ...
 
 ### Inhalt
 
-- trend zum multicore, nur wer nutzt das eigentlich? wie nutzt man das
+- Trend zum Multicore, nur wer nutzt das eigentlich? Wie nutzt man das
 eigentlich?
-- software entwicklung: weg von C/asm zu touch/webtechniken
-- entwicklung: PC out, mobile IN
-- krasse sachen:
-- persistent RAM: systeme welche man nicht mehr bootet
-- asm.js/webtechniken
-- biologische programmierung
-- was passiert mit open source? FLOSS in zukunft noch relevant?
+- Softwareentwicklung: weg von C/ASM zu Touch/Webtechniken
+- Entwicklung: PC out, mobile IN
+- persistent RAM: Systeme, welche man nicht mehr bootet
+- asm.js / Webtechniken
+- biologische Programmierung
+- was passiert mit Open Source? FLOSS in Zukunft noch relevant?
 - hackerspaces und was man alles bauen & reparieren kann
 
 ### Vorwissen
 
-- interesse an technik, insb. software/hardware von PC-artigen systemen
-
+- Interesse an Technik, insbesondere Software/Hardware von PC-artigen systemen

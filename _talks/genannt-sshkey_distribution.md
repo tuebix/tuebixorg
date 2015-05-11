@@ -11,25 +11,13 @@ menu:
 
 ### Jonas&nbsp;Genannt
 
-### Schlagworte
-
-SSH public Key Verwaltung mit Cfg Management (Puppet) via Webappp:
-https://github.com/hggh/sshkeymanager-django
+- SSH public Key Verwaltung mit Cfg Management (Puppet) via Webapp:
+- <a href="https://github.com/hggh/sshkeymanager-django" target="_blank">https://github.com/hggh/sshkeymanager-django</a>
 
 ### Inhalt
 
-SSH Public Key Verwaltung ist immer ein spannendes Thema. Es gibt viele Möglichkeiten von
-ssh-copy-id, LDAP oder über eine eigene CA. Jedoch hat alles seine Probleme. Hier
-stelle ich ein relativ neues Projekt vor. Es wird versucht über eine Web Application eine
-Verwaltung von SSH Public Keys vorzunehmen. Um mit Gruppen von Keys und Servern die
-Verwaltung zu vereinfachen.
+SSH Public Key Verwaltung ist immer ein spannendes Thema. Es gibt viele Möglichkeiten von ssh-copy-id, LDAP oder über eine eigene CA. Jedoch hat alles seine Probleme. Hier stelle ich ein relativ neues Projekt vor. Es wird versucht über eine Web Application eine Verwaltung von SSH Public Keys vorzunehmen, um mit Gruppen von Keys und Servern die Verwaltung zu vereinfachen.
 
 ### Vorwissen
 
 Arbeiten mit SSH Public Keys
-Gruss,
-Jonas
--- Mailingliste tuebix-cfp https://www.fsi.uni-tuebingen.de/mailman/listinfo/tuebix-cfp
-Attachments:
-signature.asc	836 bytes
-

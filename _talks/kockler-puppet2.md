@@ -11,16 +11,15 @@ menu:
 
 ### Torsten&nbsp;Kockler
 
-### Schlagworte
-
 Fortgeschrittene Puppet Administration mit Hiera, Hiera eyaml und Rollen
 
 ### Inhalt
 
-Gezeigt wird die fortgeschrittene Administration einer Puppet-Umgebung. Der Vortrag baut auf dem Wissen auf das in dem Vortrag "Puppet I: Zentrale Administration einer Server Infrastruktur" vermittelt wurde und ergänzt dieses um Konzepte wie der Trennung von Konfigurationsscripten und Daten durch Hiera, Verschlüsselung geheimer Daten wie Passwörter durch das Hiera Backend eyaml, sowie der Einführung eines Rollenkonzepts für unterschiedliche Arten von Servern.
+Gezeigt wird die fortgeschrittene Administration einer Puppet-Umgebung.
+Der Vortrag baut auf dem Wissen auf das in dem Vortrag <a href="http://www.tuebix.org/programm/kockler-puppet1/">"Puppet I: Zentrale Administration einer Server Infrastruktur"</a> vermittelt wurde und ergänzt dieses um Konzepte wie der Trennung von Konfigurationsscripten und Daten durch Hiera, Verschlüsselung geheimer Daten wie Passwörter durch das Hiera Backend eyaml, sowie der Einführung eines Rollenkonzepts für unterschiedliche Arten von Servern.
+
 Dies ist der zweite von zwei aufeinander aufbauenden Vorträgen über Puppet.
 
 ### Vorwissen
 
-Wissen aus dem Vortrag "Puppet I: Zentrale Administration einer Server Infrastruktur" oder Grundlegende Erfahrungen mit Puppet
-
+Wissen aus dem Vortrag <a href="http://www.tuebix.org/programm/kockler-puppet1/">"Puppet I: Zentrale Administration einer Server Infrastruktur"</a>" oder Grundlegende Erfahrungen mit Puppet

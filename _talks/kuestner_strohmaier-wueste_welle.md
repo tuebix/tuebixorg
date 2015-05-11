@@ -9,16 +9,17 @@ menu:
 
 ### <img height = "32" src="../../images/talk.svg"> 12:30 bis 13:00 in Raum V4
 
-### Friedrich&nbsp;Strohmaier&nbsp;<frieder@wueste-welle.de>
+### Andreas&nbsp;Küstner,&nbsp;Friedrich&nbsp;Strohmaier
 
-### Schlagworte
-
-Vernetzung, Audiotechnik, Produktivität
+- Vernetzung
+- Audiotechnik
+- Produktivität
+- <a href="http://www.wueste-welle.de" target="_blank">wueste-welle.de</a>
 
 ### Inhalt
 
-Kurzer Anriss über die verschiedenen Einsatzfelder von OpenSource Software bei
-der Wüsten Welle, Tübingen zu den Themen:
+Kurzer Anriss über die verschiedenen Einsatzfelder von OpenSource Software, die bei der Wüsten Welle in Tübingen zu den Themen:
+
 - Netzwerk
 - Windows roaming profiles
 - VPN - Remotewartung - Liveübertragungen
@@ -36,7 +37,5 @@ der Wüsten Welle, Tübingen zu den Themen:
 
 ### Vorwissen
 
-- Oberflächliches Wissen um die Existenz von OpenSource Software.
-- Grundsätzliches Interesse an Verwendungsmöglichkeiten von OpenSource Software
-innerhalb einer Organisation.
-
+- Oberflächliches Wissen um die Existenz von OpenSource Software
+- Grundsätzliches Interesse an Verwendungsmöglichkeiten von OpenSource Software innerhalb einer Organisation
