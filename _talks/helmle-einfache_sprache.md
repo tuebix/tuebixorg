@@ -12,7 +12,7 @@ menu:
 ### Krishna-Sara&nbsp;Helmle
 
 - Leichte Sprache verbessert die Kommunikation zwischen Fachleuten und Laien.
-- <a href="https://de.wikipedga.org/wiki/Leichte_Sprache" target="_blank">de.wikipedga.org/wiki/Leichte_Sprache</a>
+- <a href="https://de.wikipedia.org/wiki/Leichte_Sprache" target="_blank">de.wikipedia.org/wiki/Leichte_Sprache</a>
 - Mein Büro für Leichte Sprache: <a href="http://www.leicht-verstehen.de" target="_blank">leicht-verstehen.de</a>
 
 ### Inhalt

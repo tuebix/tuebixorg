@@ -31,6 +31,6 @@ Störerhaftung und ähnliches ziemlich Egal sein.
 
 Keines. Grundsätzliche Linux und Netzwerkkenntnisse eventuell Vorteilhaft aber nicht nötig.
 
-#### Vorbereitung
+### Vorbereitung
 
 Zuhörer können zum Ausprobieren ein WLAN-fähiges Gerät mitbringen.
