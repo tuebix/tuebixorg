@@ -1,0 +1,18 @@
+---
+layout: talk
+title:
+permalink: /programm/giesen-seafile/
+weight: 
+menu:
+---
+## Seafile&nbsp;als&nbsp;Dropbox-Alternative
+
+### <img height = "32" src="../../images/lightning.svg"> 13:00 bis 13:10 in Raum V3
+
+### Gregor&nbsp;Giesen
+
+- Datei-Synchronisierung
+- Privates Wölkchen
+- <a href="http://www.seafile.com" target="_blank">seafile.com</a>
+
+Kurze Erläuterung der Architektur und Features + Kurzdemo

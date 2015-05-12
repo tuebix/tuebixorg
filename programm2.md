@@ -52,7 +52,7 @@ menu:
 <tr><td>14:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kockler-puppet2">Puppet&nbsp;II:&nbsp;Strukturierte&nbsp;Puppet-Umgebung</a></td><td>Torsten&nbsp;Kockler</td></tr>
 <tr><td>15:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/blechschmidt-wireshark">Netzwerksniffing&nbsp;mit&nbsp;Wireshark</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>16:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/behrla-lpic">Karrierechancen&nbsp;mit&nbsp;Open&nbsp;Source-Know-how&nbsp;und&nbsp;LPI-Zertifikat</a></td><td>Klaus&nbsp;Behrla</td></tr>
-<tr><td>16:30</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/hofman-surfen">Schneller&nbsp;und&nbsp;sicherer&nbsp;Surfen&nbsp;im&nbsp;Internet</a></td><td>Frank&nbsp;hofmann</td></tr>
+<tr><td>16:30</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/hofman-surfen">Schneller&nbsp;und&nbsp;sicherer&nbsp;Surfen&nbsp;im&nbsp;Internet</a></td><td>Frank&nbsp;Hofmann</td></tr>
 <tr><td>17:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kemmer-network_steganographic">Steganographic&nbsp;Communication&nbsp;using&nbsp;TCP&nbsp;Inter&nbsp;Burst&nbsp;Delays</a></td><td>Florian&nbsp;Kemmer</td></tr>
 
 
@@ -60,13 +60,15 @@ menu:
 <tr><td>10:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/uebele-bitcoin">Bitcoin&nbsp;-&nbsp;Eine&nbsp;dezentrale&nbsp;Währung</a></td><td>Peter&nbsp;Uebele</td></tr>
 <tr><td>10:30</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/weissensel-fish">fish&nbsp;-&nbsp;Die&nbsp;"friendly&nbsp;interactive&nbsp;shell"</a></td><td>Jonas&nbsp;Weissensel</td></tr>
 <tr><td>11:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/genannt-sshkey_distribution">SSH&nbsp;Public&nbsp;Key&nbsp;Distribution&nbsp;-&nbsp;the&nbsp;smart&nbsp;way</a></td><td>Jonas&nbsp;Genannt</td></tr>
-<tr><td>11:30</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/hofman-lug_berlin">Unter&nbsp;einem&nbsp;Dach.&nbsp;Regionale&nbsp;Vernetzung&nbsp;der&nbsp;Berliner&nbsp;Linux&nbsp;User&nbsp;Groups&nbsp;über&nbsp;lug.berlin</a></td><td>Frank&nbsp;hofmann</td></tr>
+<tr><td>11:30</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/hofman-lug_berlin">Unter&nbsp;einem&nbsp;Dach.&nbsp;Regionale&nbsp;Vernetzung&nbsp;der&nbsp;Berliner&nbsp;Linux&nbsp;User&nbsp;Groups&nbsp;über&nbsp;lug.berlin</a></td><td>Frank&nbsp;Hofmann</td></tr>
 <tr><td>12:00</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/blechschmidt-haskell">Haskell,&nbsp;eine&nbsp;rein&nbsp;funktionale&nbsp;Programmiersprache</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>12:10</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/willbold-python_kinder_buch">Python-Buch&nbsp;für&nbsp;Kinder</a></td><td>Carina&nbsp;Willbold</td></tr>
 <tr><td>12:20</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/stadelmeier_wannenmacher-tor_router">Tor-Router</a></td><td>Fabian&nbsp;Wannenmacher</td></tr>
 <tr><td>12:30</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/blechschmidt-sandstorm">Sandstorm,&nbsp;eine&nbsp;einfache&nbsp;Plattform&nbsp;für&nbsp;private&nbsp;Cloud-Server</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>12:40</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/helmle-einfache_sprache">Leichte&nbsp;Sprache&nbsp;in&nbsp;der&nbsp;IT&nbsp;oder&nbsp;–&nbsp;wie&nbsp;sag&nbsp;ich’s&nbsp;dem&nbsp;User?</a></td><td>Krishna-Sara&nbsp;Helmle</td></tr>
 <tr><td>12:50</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/koelbel-desktop_auth">Sicher&nbsp;und&nbsp;bequem.</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
+<tr><td>13:00</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/giesen-seafile">Seafile&nbsp;als&nbsp;Dropbox-Alternative</a></td><td>Gregor&nbsp;Giesen</td></tr>
+<tr><td>13:20</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/franke-ruby">Ruby&nbsp;als&nbsp;sed-&nbsp;und&nbsp;awk-Ersatz</a></td><td>Knut&nbsp;Franke</td></tr>
 <tr><td>15:30</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/klaeren-computermuseum">Das&nbsp;Computermuseum&nbsp;auf&nbsp;dem&nbsp;Sand</a></td><td>Herbert&nbsp;Klaeren</td></tr>
 <tr><td>16:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiele-aktuelles">aktuelle&nbsp;Entwicklungen</a></td><td>Joachim&nbsp;Schiele</td></tr>
 
@@ -85,5 +87,5 @@ menu:
 
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">Raum LPIC</td></tr>
 <tr><td>10:00</td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Klaus Behrla</td></tr>
-<tr><td>14:00</td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Klaus Behrla</td></tr>
+<tr><td>14:00</td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td>Klaus Behrla</td></tr>
 </table>
