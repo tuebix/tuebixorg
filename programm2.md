@@ -13,7 +13,7 @@ menu:
 
 <tr><td colspan="3">Raum W1</td></tr>
 <tr><td>12:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/mundt_nachbauer-jessie_party">Debian&nbsp;GNU/Linux&nbsp;"Jessie"&nbsp;Install&nbsp;Party</a></td><td>Andreas&nbsp;Mundt,&nbsp;Florian&nbsp;Nachbauer</td></tr>
-<tr><td>14:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/guckes-muttgpg_workshop">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
+<tr><td>14:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/guckes-muttgpg2">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>16:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/hrenka-python">Einführung&nbsp;in&nbsp;SciPy&nbsp;und&nbsp;SymPy&nbsp;mit&nbsp;IPython</a></td><td>Peter&nbsp;Hrenka</td></tr>
 
 
@@ -46,7 +46,7 @@ menu:
 
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">Raum V2</td></tr>
 <tr><td>10:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiele-nixos">Was&nbsp;ist&nbsp;NixOS?</a></td><td>Joachim&nbsp;Schiele</td></tr>
-<tr><td>11:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/guckes-muttgpg_vortrag">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
+<tr><td>11:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/guckes-muttgpg1">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>12:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kockler-puppet1">Puppet&nbsp;I:&nbsp;Zentrale&nbsp;Administration&nbsp;einer&nbsp;Server&nbsp;Infrastruktur</a></td><td>Torsten&nbsp;Kockler</td></tr>
 <tr><td>13:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/gietz-openldap">OpenLDAP,&nbsp;eine&nbsp;hochskalierbare&nbsp;und&nbsp;hochperformante&nbsp;standardkonforme&nbsp;Open-Source-Implementierung&nbsp;des&nbsp;IETF-Protokolls&nbsp;LDAP</a></td><td>Peter&nbsp;Gietz</td></tr>
 <tr><td>14:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kockler-puppet2">Puppet&nbsp;II:&nbsp;Strukturierte&nbsp;Puppet-Umgebung</a></td><td>Torsten&nbsp;Kockler</td></tr>

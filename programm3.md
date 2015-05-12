@@ -30,7 +30,7 @@ menu:
 
 <tr><td>11:00</td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/yanar-lxc_docker2">Docker</a></td>
-<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/guckes-muttgpg_vortrag">mutt&nbsp;+&nbsp;gpg</a></td>
+<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/guckes-muttgpg1">mutt&nbsp;+&nbsp;gpg</a></td>
 <td><img height = "18" src="../images/talk.svg"> <a href="../programm/genannt-sshkey_distribution">sshkeydistribution</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/engelmann-lyx">LyX</a></td>
 </tr>
@@ -64,7 +64,7 @@ menu:
 </tr>
 
 <tr><td>14:00</td>
-<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/guckes-muttgpg_workshop">mutt&nbsp;+&nbsp;gpg</a></td>
+<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/guckes-muttgpg2">mutt&nbsp;+&nbsp;gpg</a></td>
 <td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/brauner_yanar-lxc_docker3">lxc+docker</a></td>
 <td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/blechschmidt-python_schueler">python&nbsp;f&uuml;r&nbsp;Sch&uuml;ler</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/knopper-knoppix_raspi">Knoppix&nbsp;auf&nbsp;raspi</a></td>

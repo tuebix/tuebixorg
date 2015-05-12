@@ -22,7 +22,7 @@ menu:
 
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">11:00</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/yanar-lxc_docker2">Docker</a></td><td>Erkan&nbsp;Yanar</td></tr>
-<tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/guckes-muttgpg_vortrag">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
+<tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/guckes-muttgpg1">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/genannt-sshkey_distribution">SSH&nbsp;Public&nbsp;Key&nbsp;Distribution&nbsp;-&nbsp;the&nbsp;smart&nbsp;way</a></td><td>Jonas&nbsp;Genannt</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/hofmann-lug_berlin">Unter&nbsp;einem&nbsp;Dach.&nbsp;Regionale&nbsp;Vernetzung&nbsp;der&nbsp;Berliner&nbsp;Linux&nbsp;User&nbsp;Groups&nbsp;über&nbsp;lug.berlin</a></td><td>Frank&nbsp;Hofmann</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/engelmann-lyx">Mit&nbsp;LyX&nbsp;Text&nbsp;verarbeiten</a></td><td>Wolfgang&nbsp;Engelmann</td></tr>
@@ -54,7 +54,7 @@ menu:
 
 
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">14:00</td></tr>
-<tr><td>W1</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/guckes-muttgpg_workshop">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
+<tr><td>W1</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/guckes-muttgpg2">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>W2</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/brauner_yanar-lxc_docker3">LXC&nbsp;+&nbsp;Docker</a></td><td>Christian&nbsp;Brauner,&nbsp;Erkan&nbsp;Yanar</td></tr>
 <tr><td>W3</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/blechschmidt-python_schueler">Python-Programmierung&nbsp;für&nbsp;Schülerinnen&nbsp;und&nbsp;Schüler</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/knopper-knoppix_raspi">Knoppix&nbsp;auf&nbsp;dem&nbsp;Raspberry&nbsp;Pi</a></td><td>Prof.&nbsp;Dipl.-Ing.&nbsp;Klaus&nbsp;Knopper</td></tr>
