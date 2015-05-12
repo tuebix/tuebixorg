@@ -13,14 +13,14 @@ Gerne kannst Du auch mehrere Themen einreichen und Beitr&auml;ge k&ouml;nnen nat
 
 Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 
-<h2><span><img height = "36" src="../images/workshop.svg"></span> Workshop</h2>
+<h2><span><img height="36" width="36" src="../images/workshop.svg"></span> Workshop</h2>
 
   * Dauer: 120 min
   * kleinere Gruppe bis etwa 10 Teilnehmer
   * jeder Teilnehmer bringt eigenen Laptop mit
   * Mitmachen / geführtes Tutorial / "Learning by Doing" / "Hands-On" 
 
-<h2><span><img height = "36" src="../images/lightning.svg"></span> Lightning Talk</h2>
+<h2><span><img height="36" width="36" src="../images/lightning.svg"></span> Lightning Talk</h2>
 
   * Dauer: höchstens 10 min
   * ein Kurzvortrag in einem Block von 6 Kurzvorträgen
@@ -29,7 +29,7 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
   * Interesse wecken
   * Für Präsentationsfolien nur PDF möglich, diese vorher uns zukommen lassen, da Vorträge alle von einem Gerät aus (kein Umbau zwischen den Lightning Talks), eigener Laptop also NICHT möglich
 
-<h2><span><img height = "36" src="../images/talk.svg"></span> Vortrag</h2>
+<h2><span><img height="36" width="36" src="../images/talk.svg"></span> Vortrag</h2>
 
   Je nach gewähltem Inhalt braucht es etwas mehr oder weniger "Vorarbeit" oder Hinführung zum Thema, such dir die passende Dauer für dein Vortragsthema aus: 30 oder 60 Minuten:
 
