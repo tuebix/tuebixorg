@@ -24,7 +24,7 @@ menu:
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/yanar-lxc_docker2">Docker</a></td><td>Erkan&nbsp;Yanar</td></tr>
 <tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/guckes-muttgpg_vortrag">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/genannt-sshkey_distribution">SSH&nbsp;Public&nbsp;Key&nbsp;Distribution&nbsp;-&nbsp;the&nbsp;smart&nbsp;way</a></td><td>Jonas&nbsp;Genannt</td></tr>
-<tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/hofman-lug_berlin">Unter&nbsp;einem&nbsp;Dach.&nbsp;Regionale&nbsp;Vernetzung&nbsp;der&nbsp;Berliner&nbsp;Linux&nbsp;User&nbsp;Groups&nbsp;über&nbsp;lug.berlin</a></td><td>Frank&nbsp;Hofmann</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/hofmann-lug_berlin">Unter&nbsp;einem&nbsp;Dach.&nbsp;Regionale&nbsp;Vernetzung&nbsp;der&nbsp;Berliner&nbsp;Linux&nbsp;User&nbsp;Groups&nbsp;über&nbsp;lug.berlin</a></td><td>Frank&nbsp;Hofmann</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/engelmann-lyx">Mit&nbsp;LyX&nbsp;Text&nbsp;verarbeiten</a></td><td>Wolfgang&nbsp;Engelmann</td></tr>
 
 
@@ -75,7 +75,7 @@ menu:
 <tr><td>W3</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/knopper-openscad">3D-Modelle&nbsp;erstellen&nbsp;mit&nbsp;OpenSCAD</a></td><td>Prof.&nbsp;Dipl.-Ing.&nbsp;Klaus&nbsp;Knopper</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/flebbe-bigdata1">Big&nbsp;Data&nbsp;in&nbsp;a&nbsp;Nutshell</a></td><td>Olaf&nbsp;Flebbe</td></tr>
 <tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/behrla-lpic">Karrierechancen&nbsp;mit&nbsp;Open&nbsp;Source-Know-how&nbsp;und&nbsp;LPI-Zertifikat</a></td><td>Klaus&nbsp;Behrla</td></tr>
-<tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/hofman-surfen">Schneller&nbsp;und&nbsp;sicherer&nbsp;Surfen&nbsp;im&nbsp;Internet</a></td><td>Frank&nbsp;Hofmann</td></tr>
+<tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/hofmann-surfen">Schneller&nbsp;und&nbsp;sicherer&nbsp;Surfen&nbsp;im&nbsp;Internet</a></td><td>Frank&nbsp;Hofmann</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiele-aktuelles">aktuelle&nbsp;Entwicklungen</a></td><td>Joachim&nbsp;Schiele</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/pfeifle-pdfkungfoo">PDF-KungFoo&nbsp;mit&nbsp;Ghostscript&nbsp;&&nbsp;Co.</a></td><td>Kurt&nbsp;Pfeifle</td></tr>
 

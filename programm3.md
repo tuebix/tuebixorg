@@ -36,7 +36,7 @@ menu:
 </tr>
 
 <tr><td></td>
-<td><img height = "18" src="../images/talk.svg"> <a href="../programm/hofman-lug_berlin">lug.berlin</a></td>
+<td><img height = "18" src="../images/talk.svg"> <a href="../programm/hofmann-lug_berlin">lug.berlin</a></td>
 </tr>
 
 <tr><td>12:00</td>
@@ -96,7 +96,7 @@ menu:
 </tr>
 
 <tr><td>&nbsp;</td>
-<td><img height = "18" src="../images/talk.svg"> <a href="../programm/hofman-surfen">Sicher&nbsp;Surfen</a></td>
+<td><img height = "18" src="../images/talk.svg"> <a href="../programm/hofmann-surfen">Sicher&nbsp;Surfen</a></td>
 </tr>
 
 <tr><td>17:00</td>
