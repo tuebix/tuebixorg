@@ -11,9 +11,7 @@ menu:
 
 ### Joachim&nbsp;Schiele
 
-Wir machen einen Streifzug durch die Entwicklungen der letzten Jahre und schauen an, was uns in naher Zukunft alles erwartet ...
-
-### Inhalt
+Wir machen einen Streifzug durch die Entwicklungen der letzten Jahre und schauen an, was uns in naher Zukunft alles erwartet...
 
 - Trend zum Multicore, nur wer nutzt das eigentlich? Wie nutzt man das
 eigentlich?

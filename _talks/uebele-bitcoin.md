@@ -11,13 +11,6 @@ menu:
 
 ### Peter&nbsp;Uebele
 
-- Bitcoin
-- Technische Funktionsweise
-- Gesellschaftliche Aspekte
-- Vor- und Nachteile gegenüber konventionellen Währungen
-
-### Inhalt
-
 Bitcoin ist eine dezentral organisierte und auf Kryptographie basierte Währung. Zu den Besonderheiten zählt beispielsweise, dass beim Bezahlen keine Zwischenhändler (wie z.B. Banken) nötig sind.
 
 In diesem Vortrag wird zunächst kurz die Geschichte und der technische Hintergrund des Bitcoins skizziert. Anschließend werde ich auf gesellschaftliche Aspekte eingehen. Dabei sollen sowohl die Vorteile gegenüber herkömmlichen Währungen als auch mögliche Gegenargumente thematisiert werden.

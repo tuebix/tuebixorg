@@ -9,11 +9,7 @@ menu:
 
 ### <img height = "32" src="../../images/talk.svg"> 13:00 bis 14:00 in Raum V4
 
-### Kurt&nbsp;Pfeifle&nbsp;(@pdfkungfoo)
-
-Text, Markdown, reStrukturedText, ASCIIdoc, LaTeX, ConTeXt, ODT, DOCX, HTML, EPUB, EPUB3, DocBook, RTF, Beamer, Slidy, Slideous, S3, DZSlides, manpages, textile, texinfo, org-mode, Beamer, Reveal.js, Impress.js,...
-
-### Inhalt
+### Kurt&nbsp;Pfeifle&nbsp;
 
 Jeder Software-Entwickler sollte sich darum kümmern, dass seine
 Programme durch eine ordentliche Dokumentation abgedeckt sind. Aber viele

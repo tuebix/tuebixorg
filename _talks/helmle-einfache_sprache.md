@@ -11,12 +11,6 @@ menu:
 
 ### Krishna-Sara&nbsp;Helmle
 
-- Leichte Sprache verbessert die Kommunikation zwischen Fachleuten und Laien.
-- <a href="https://de.wikipedia.org/wiki/Leichte_Sprache" target="_blank">de.wikipedia.org/wiki/Leichte_Sprache</a>
-- Mein Büro für Leichte Sprache: <a href="http://www.leicht-verstehen.de" target="_blank">leicht-verstehen.de</a>
-
-### Inhalt
-
 Als Admin oder als Mitarbeiter im Support hast du oft das Problem, dass du
 – meist per Telefon – zuerst das Problem des Users verstehen und ihm dann
 erklären sollst, was er jetzt tun soll.
@@ -28,3 +22,8 @@ Das ist manchmal gar nicht so leicht.
 Leichte Sprache kann hier helfen, den eigenen Sprachgebrauch zu
 reflektieren; um User und Kunden noch besser dort abzuholen, wo sie sind.
 Ich stelle das Konzept Leichte Sprache anhand von einigen Beispielen vor.
+
+### Links
+
+- <a href="https://de.wikipedia.org/wiki/Leichte_Sprache" target="_blank">de.wikipedia.org/wiki/Leichte_Sprache</a>
+- Mein Büro für Leichte Sprache: <a href="http://www.leicht-verstehen.de" target="_blank">leicht-verstehen.de</a>

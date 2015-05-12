@@ -11,8 +11,6 @@ menu:
 
 ### Toni&nbsp;Zimmer
 
-### Inhalt
-
 - ggf. kurze Auffrischung des vimtutors
 - Erläuterung des Hilfesystems
 - Unterschiede zu vi

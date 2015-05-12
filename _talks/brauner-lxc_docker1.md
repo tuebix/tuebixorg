@@ -46,6 +46,8 @@ Hands-on Einführung in operating-system-level virtualization.
  code that you traditionally absolutely could not as root."
 Linus Torvalds, on namespaces and container security. (Linux Kernel Developer Panel)
 
+### Links
+
 - <a href="https://en.wikipedia.org/wiki/Operating-system-level_virtualization" target="_blank">en.wikipedia.org/wiki/Operating-system-level_virtualization</a>
 - <a href="https://en.wikipedia.org/wiki/LXC" target="_blank">en.wikipedia.org/wiki/LXC</a>
 - <a href="https://github.com/lxc/lxc" target="_blank">github.com/lxc/lxc</a>
@@ -53,4 +55,3 @@ Linus Torvalds, on namespaces and container security. (Linux Kernel Developer Pa
 - Namespace Isolation: MOUNT-, PID-, UTSNAME-, IPC-, NETWORK-, und USER-Namespaces: <a href="http://man7.org/linux/man-pages/man7/namespaces.7.html" target="_blank">man7.org/linux/man-pages/man7/namespaces.7.html</a>
 - <a href="https://en.wikipedia.org/wiki/Cgroups" target="_blank">en.wikipedia.org/wiki/Cgroups</a>
 - Linux capabilities: <a href="http://linux.die.net/man/7/capabilities" target="_blank">linux.die.net/man/7/capabilities</a>
-- Und natürlich escaping dependency hell!

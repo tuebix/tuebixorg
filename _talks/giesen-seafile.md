@@ -11,8 +11,9 @@ menu:
 
 ### Gregor&nbsp;Giesen
 
-- Datei-Synchronisierung
-- Privates Wölkchen
-- <a href="http://www.seafile.com" target="_blank">seafile.com</a>
+- Kurze Erläuterung der Architektur und Features
+- Kurzdemo
 
-Kurze Erläuterung der Architektur und Features + Kurzdemo
+### Links
+
+- <a href="http://www.seafile.com" target="_blank">seafile.com</a>

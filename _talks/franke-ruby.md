@@ -17,4 +17,6 @@ Wie man aus Quoting-Hölle und Regexp-Dschungel entkommt.
 
 Grundkenntnisse Shell-Scripting
 
-Ruby Einzeiler und passende Kommandozeilenoptionen: <a href="http://benoithamelin.tumblr.com/ruby1line" target="_blank">benoithamelin.tumblr.com/ruby1line</a>
+### Links
+
+- Ruby Einzeiler und passende Kommandozeilenoptionen: <a href="http://benoithamelin.tumblr.com/ruby1line" target="_blank">benoithamelin.tumblr.com/ruby1line</a>

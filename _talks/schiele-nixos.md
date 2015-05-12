@@ -11,16 +11,14 @@ menu:
 
 ### Joachim&nbsp;Schiele
 
-Vorteile von NixOS (<a href="http://nixos.org" target="_blank">nixos.org</a>):
+- Einführung in die Vorteile/Nachteile von NixOS
+- Einführung in die Nix Programmiersprache
+
+Vorteile von NixOS:
 
 - declarative
 - reliable
 - devops friendly
-
-### Inhalt
-
-- Einführung in die Vorteile/Nachteile von NixOS
-- Einführung in die Nix Programmiersprache
 
 ### Vorwissen
 
@@ -32,3 +30,7 @@ Sichere verwendung der Shell mit Tools wie z.B.:
 - fdisk
 - mkfs.ext4
 - wissen, was eine Partition ist
+
+### Links
+
+- <a href="http://nixos.org" target="_blank">nixos.org</a>

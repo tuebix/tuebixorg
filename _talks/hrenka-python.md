@@ -12,12 +12,6 @@ menu:
 
 ### Peter&nbsp;Hrenka
 
-- Numerische Methoden
-- SciPy (<a href="https://www.scipy.org" target="_blank">scipy.org</a>)
-- Computer Algebra
-- SymPy (<a href="http://www.sympy.org" target="_blank">sympy.org</a>)
-- IPython (<a href="https://ipython.org/" target="_blank">ipython.org</a>)
-
 Python erfreut sich im wissenschaftlichen Umfeld einer großen Beliebheit.
 Obwohl Python als solches nicht unbedingt durch hohe Geschwindigkeit glänzt, lassen sich über die C-Schittstelle speicher- und laufzeiteffiziente Algorithmen einbinden.
 
@@ -37,3 +31,9 @@ Im Workshop werden wir IPython interaktiv benutzen und die Teilnehmer können be
 
 - Webbrowser
 - Anaconda Python: <a href="http://continuum.io/downloads" target="_blank">continuum.io/downloads</a>
+
+### Links
+
+- SciPy (<a href="https://www.scipy.org" target="_blank">scipy.org</a>)
+- SymPy (<a href="http://www.sympy.org" target="_blank">sympy.org</a>)
+- IPython (<a href="https://ipython.org/" target="_blank">ipython.org</a>)

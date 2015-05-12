@@ -11,13 +11,6 @@ menu:
 
 ### Andreas&nbsp;Stadelmeier,&nbsp;Fabian&nbsp;Wannenmacher
 
-- <a href="https://openwrt.org" target="_blank">openwrt.org</a>
-- <a href="https://torproject.org" target="_blank">torproject.org</a>
-- Anonymes Internet
-- (öffentliches) WLAN
-
-### Inhalt
-
 Wir haben einen Heimrouter so präpariert, dass er automatisch ein WLAN-
 Netzwerk aufspannt, dass den Internetverkehr direkt über das
 Annonymisierungsnetzwerk Tor Leitet.
@@ -34,3 +27,8 @@ Keines. Grundsätzliche Linux und Netzwerkkenntnisse eventuell Vorteilhaft aber 
 ### Vorbereitung
 
 Zuhörer können zum Ausprobieren ein WLAN-fähiges Gerät mitbringen.
+
+### Links
+
+- <a href="https://openwrt.org" target="_blank">openwrt.org</a>
+- <a href="https://torproject.org" target="_blank">torproject.org</a>

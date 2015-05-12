@@ -9,15 +9,7 @@ menu:
 
 ### <img height = "32" src="../../images/talk.svg"> 16:00 bis 17:00 in Raum V4
 
-### Kurt&nbsp;Pfeifle&nbsp;(@pdfkungfoo)
-
-- PostScript
-- PDF
-- Farben/Graustufen
-- Bilder
-- Fonts
-
-### Inhalt
+### Kurt&nbsp;Pfeifle&nbsp;
 
 PDF ist das am weitesten verbreitete Dokumenten-Format.
 Allerdings ist man als PC-Benutzer häufig mit seinem Latein am Ende,
@@ -31,13 +23,13 @@ Stattdessen werden alle Themen "live" am Beamer vorgeführt.
 Der Workshop ist geeignet für Windows, Linux, Mac OSX und BSD-Unix-
 Anwender.
 
-#### General-Thema
+### General-Thema
 
 Der Workshop demonstriert einige der Top-10-Probleme (Reihung nach
 der subjektiven Erfahrung des Workshop-Leiters), die bei Verarbeitung
 oder Erstellung von PDF-Dateien in der Praxis auftreten können.
 
-#### Themen-Details
+### Themen-Details
 
 Zu den behandelten Problemkreisen gehören unter anderem:
 

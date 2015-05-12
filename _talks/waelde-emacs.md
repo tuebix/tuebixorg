@@ -13,16 +13,10 @@ menu:
 
 Der Editor ist eines der wichtigsten Werkzeuge für alle, die Zeit am Rechner verbringen. Alte Hasen kennen "emacs". Emacs ist erweiterbar, man kann ihm neue Tricks beibringen. Daher kann emacs "alles außer Kaffee kochen", heißt es. Den Unwissenden möchte ich ein paar Fähigkeiten dieses Editors vorführen und zum Mitmachen animieren.
 
-- <a href="http://www.gnu.org/software/emacs/" target="_blank">http://www.gnu.org/software/emacs/</a>
-- <a href="http://www.emacswiki.org/" target="_blank">http://www.emacswiki.org/</a>
-- <a href="http://orgmode.org/" target="_blank">http://orgmode.org/</a>
-
-### Inhalt
-
 1. Teil: Einführung
   - emacs starten und ohne Flurschaden wieder verlassen
   - Eine Datei öffnen, ändern, speichern. Änderungen rückgängig machen
-  - Tastaturkürzel? Menu? Hilfe? Wo geht's weiter?
+  - Tastaturkürzel? Menü? Hilfe? Wo geht's weiter?
   - Wo sind meine Umlaute? Oder die anderen lustigen non-ascii Zeichen?
   - Regionen, kopieren, ausschneiden, einfügen. Rechtecke bearbeiten
   - Major und minor modes am Beispiel von einem C-Progrämmchen oder perl Skript
@@ -47,3 +41,9 @@ Der Editor ist eines der wichtigsten Werkzeuge für alle, die Zeit am Rechner ve
 
 - Notebook mit installiertem emacs (Version 24 bevorzugt, NICHT Xemacs, das ist was anderes)
 - Debian: apt-get install emacs24 emacs24-common-non-dfsg
+
+### Links
+
+- <a href="http://www.gnu.org/software/emacs/" target="_blank">http://www.gnu.org/software/emacs/</a>
+- <a href="http://www.emacswiki.org/" target="_blank">http://www.emacswiki.org/</a>
+- <a href="http://orgmode.org/" target="_blank">http://orgmode.org/</a>

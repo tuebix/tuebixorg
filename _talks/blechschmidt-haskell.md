@@ -11,15 +11,6 @@ menu:
 
 ### Ingo&nbsp;Blechschmidt
 
-### Schlagworte
-
-- Haskell ist eine moderne, "rein funktionale" Programmiersprache: keine
-Variablen, keine Abfolgen von Anweisungen, dafür jede Menge Denkanstöße!
-- <a href="http://www.haskell.org" target="_blank">haskell.org</a>
-- <a href="http://learnyouahaskell.com" target="_blank">learnyouahaskell.com</a>
-
-### Inhalt
-
 Was ist schneller als C++, prägnanter als Perl, regelmäßiger als Python,
 flexibler als Ruby, typisierter als C#, robuster als Java und hat
 absolut nichts mit PHP gemeinsam? Es ist Haskell!
@@ -56,3 +47,8 @@ Haskell programmieren möchte.
 ### Vorwissen
 
 Erfahrung in irgendeiner Programmiersprache.
+
+### Links
+
+- <a href="http://www.haskell.org" target="_blank">haskell.org</a>
+- <a href="http://learnyouahaskell.com" target="_blank">learnyouahaskell.com</a>

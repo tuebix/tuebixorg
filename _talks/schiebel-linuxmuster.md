@@ -11,13 +11,13 @@ menu:
 
 ### Frank&nbsp;Schiebel
 
-<a href="http://www.linuxmuster.net" target="_blank">www.linuxmuster.net</a>
-
-### Inhalt
-
 linuxmuster.net ist eine umfassende Komplettlösung für den Betrieb schulischer Netzwerke.
 Serverseitig kommt Ubuntu zum Einsatz, der Betrieb der Arbeitsplatzrechner ist unter verschiendenen Windows Versionen und Linux möglich.
 Softwareverteilung und störungsfreier Betrieb werden durch selbstheilende Arbeitsstationen (SheilA) ermöglicht, bei denen jeder Arbeitsplatzrechner in kurzer Zeit mit dem gewünschten Betriebssystem und der nötigen Software in einer Standardkonfiguration gestartet werden kann.
 Weiterentwicklung, Pflege und Support finden unter dem Dach des gemeinnützigen Vereins “linuxmuster.net e.V.” statt.
 
 Der Vortrag führt in die Besonderheiten schulischer Netzwerke ein und erläutert das Konzept der freien Musterlösung linuxmuster.net.
+
+### Links
+
+<a href="http://www.linuxmuster.net" target="_blank">www.linuxmuster.net</a>

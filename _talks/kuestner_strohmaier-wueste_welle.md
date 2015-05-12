@@ -11,13 +11,6 @@ menu:
 
 ### Andreas&nbsp;Küstner,&nbsp;Friedrich&nbsp;Strohmaier
 
-- Vernetzung
-- Audiotechnik
-- Produktivität
-- <a href="http://www.wueste-welle.de" target="_blank">wueste-welle.de</a>
-
-### Inhalt
-
 Kurzer Anriss über die verschiedenen Einsatzfelder von OpenSource Software, die bei der Wüsten Welle in Tübingen zu den Themen:
 
 - Netzwerk
@@ -39,3 +32,7 @@ Kurzer Anriss über die verschiedenen Einsatzfelder von OpenSource Software, die
 
 - Oberflächliches Wissen um die Existenz von OpenSource Software
 - Grundsätzliches Interesse an Verwendungsmöglichkeiten von OpenSource Software innerhalb einer Organisation
+
+### Links
+
+- <a href="http://www.wueste-welle.de" target="_blank">wueste-welle.de</a>

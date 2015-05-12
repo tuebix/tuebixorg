@@ -11,15 +11,6 @@ menu:
 
 ### Andreas&nbsp;B.&nbsp;Mundt
 
-- Installation
-- automatische Konfiguration
-- Deployment.
-- <a href="https://packages.debian.org/jessie/di-netboot-assistant" target="_blank">packages.debian.org/jessie/di-netboot-assistant</a>
-- <a href="http://d-i.debian.org/manual/de.amd64/apb.html" target="_blank">d-i.debian.org/manual/de.amd64/apb.html</a>
-- <a href="https://wiki.debian.org/DebianLAN" target="_blank">wiki.debian.org/DebianLAN</a>
-
-### Inhalt
-
 Der Vortrag zeigt, wie man die Installation von Debian GNU/Linux
 automatisieren kann.  Benutzt wird dazu eine sogenannte "InstallBox".
 Diese erlaubt (gegebenfalls virtualisiert), andere Rechner über PXE zu
@@ -31,3 +22,9 @@ mit dem Ausrollen einer kompletten Debian-LAN-Umgebung mittels FAI
 ### Vorwissen
 
 Die gewöhnliche Installation eines GNU/Linux-Systems sollte bekannt sein.
+
+### Links 
+
+- <a href="https://packages.debian.org/jessie/di-netboot-assistant" target="_blank">packages.debian.org/jessie/di-netboot-assistant</a>
+- <a href="http://d-i.debian.org/manual/de.amd64/apb.html" target="_blank">d-i.debian.org/manual/de.amd64/apb.html</a>
+- <a href="https://wiki.debian.org/DebianLAN" target="_blank">wiki.debian.org/DebianLAN</a>

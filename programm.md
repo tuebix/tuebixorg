@@ -70,7 +70,7 @@ menu:
 
 
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">16:00</td></tr>
-<tr><td>W1</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/hrenka-python">Python&nbsp;-&nbsp;Workshop</a></td><td>Peter&nbsp;Hrenka</td></tr>
+<tr><td>W1</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/hrenka-python">Einführung&nbsp;in&nbsp;SciPy&nbsp;und&nbsp;SymPy&nbsp;mit&nbsp;IPython</a></td><td>Peter&nbsp;Hrenka</td></tr>
 <tr><td>W2</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/koelbel-privacyidea">privacyIDEA&nbsp;-&nbsp;Zwei-Faktor-Authentisierung&nbsp;selber&nbsp;machen</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>W3</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/knopper-openscad">3D-Modelle&nbsp;erstellen&nbsp;mit&nbsp;OpenSCAD</a></td><td>Prof.&nbsp;Dipl.-Ing.&nbsp;Klaus&nbsp;Knopper</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/flebbe-bigdata1">Big&nbsp;Data&nbsp;in&nbsp;a&nbsp;Nutshell</a></td><td>Olaf&nbsp;Flebbe</td></tr>

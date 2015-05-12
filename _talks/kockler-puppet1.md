@@ -13,8 +13,6 @@ menu:
 
 Installation und Grundlagen von Puppet zum zentralen Administrieren einer Server Infrastruktur
 
-### Inhalt
-
 Es wird das Configuration Management System Puppet vorgestellt, welches eine zentrale Administration von Servern ermöglicht.
 Der Vortrag richtet sich an Administratoren, die bereits grundlegende Erfahrung mit der Administration einzelner Server unter Linux haben oder die zumindest Linux Grundlagenwissen haben.
 Erklärt werden der Aufbau und der Zweck einer mit Puppet administrierten Server Infrastruktur.

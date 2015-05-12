@@ -11,17 +11,6 @@ menu:
 
 ### Dr.&nbsp;Udo&nbsp;Seidel
 
-- Port-Knocking
-- TCP-Kopf-Erweiterung
-- 3 Wege Handschlag
-- Projekt von der TU München
-- <a href="http://gnunet.org/knock" target="_blank">gnunet.org/knock</a>
-- <a href="http://gnunet.org/sites/default/files/ma_kirsch_2014_0.pdf" target="_blank">gnunet.org/sites/default/files/ma_kirsch_2014_0.pdf</a>
-- <a href="http://tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01" target="_blank">tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01</a>
-- Demo für SSH auf Linux mit TCP Stealth
-
-### Inhalt
-
 Portscans als Werkzeug zum Aufspüren verwundbarer Rechner sind ein alter Hut. Ein Möglichkeit den Bösewichten das Leben zu erschweren ist das sogenannte Port-Knocking. Die Diskussionen in der Vergangenheit ware meist kontrovers.
 "Sicherheit durch Verschleiern" ist fuer manche Experten ueberhaupt keine akzeptable Massnahme.
 Zudem hat das "Anklopf-Verfahren" ein paar Schwächen.
@@ -37,3 +26,9 @@ Der Vortrag stellt die Idee und Architektur hinter TCP Stealth vor und beinhalte
 - Grundlegende Netzwerk-Kenntnisse insbesondere TCP
 - Interesse (gerne auch Vorkenntnisse) zum Thema Sicherheit in der IT
 - ein bisschen Linux an sich wäre auch nicht schlecht
+
+### Links
+
+- <a href="http://gnunet.org/knock" target="_blank">gnunet.org/knock</a>
+- <a href="http://gnunet.org/sites/default/files/ma_kirsch_2014_0.pdf" target="_blank">gnunet.org/sites/default/files/ma_kirsch_2014_0.pdf</a>
+- <a href="http://tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01" target="_blank">tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01</a>

@@ -11,14 +11,7 @@ menu:
 
 ### Cornelius&nbsp;Kölbel
 
-- Automatisches Sperren des Desktops
-- Zwei-Faktor-Authentisierung am Desktop
-
-### Inhalt
-
-Hier soll ein Konzept vorgestellt werden, wie sowohl die Bequemlichkeit gewährleistet
-aber auch die Sicherheit umgesetzt werden kann.
-Der Desktop soll zuverlässig und automatisch gesperrt werden. Zugang zum Desktop
-erhält man nur mit Zweifaktor-Authentisierung. Aber auch diese soll leicht und
-bequem anwendbar sein.
-
+Hier soll ein Konzept vorgestellt werden, wie sowohl die Bequemlichkeit gewährleistet aber auch die Sicherheit umgesetzt werden kann.
+Der Desktop soll zuverlässig und automatisch gesperrt werden.
+Zugang zum Desktop erhält man nur mit Zweifaktor-Authentisierung.
+Aber auch diese soll leicht und bequem anwendbar sein.

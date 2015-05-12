@@ -11,11 +11,6 @@ menu:
 
 ### Cornelius&nbsp;Kölbel
 
-- Zwei-Faktor-Authentisierung mit OTP (Einmalpasswörtern)
-- <a href="https://www.privacyidea.org" target="_blank">https://www.privacyidea.org</a>
-
-### Inhalt
-
 privacyIDEA ist eine Open Source Lösung zur Authentisierung mit zwei Faktoren.
 
 Zusätzlich zu einem Passwort ist der Besitz eines Hardware-Tokens, eines Telefons oder eines Smartphones notwendig, um sich sicher am System oder einer Applikation anzumelden. Mit privacyIDEA können diese Authentisierungsgeräte zentral verwaltet werden, wobei man selber das Schlüsselmaterial unter eigener Kontrolle behält.
@@ -25,3 +20,7 @@ In diesem Vortrag wird das Prinzip der Authentisierung mit Einmal-Passwörtern e
 ### Vorwissen
 
 MySQL und Python wünschenswert
+
+### Links
+
+- <a href="https://www.privacyidea.org" target="_blank">privacyidea.org</a>

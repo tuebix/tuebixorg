@@ -11,6 +11,9 @@ menu:
 
 ### Ingo&nbsp;Blechschmidt
 
-Die vier wesentlichen Freiheiten freier Software werden durch
-proprietäre Web-Dienste bedroht. Mit Sandstorm (<a href="https://sandstorm.io" target="_blank">sandstorm.io</a>) wird es einfach, freie
-Server-Software privat einzusetzen.
+Die vier wesentlichen Freiheiten freier Software werden durch proprietäre Web-Dienste bedroht.
+Mit Sandstorm wird es einfach, freie Server-Software privat einzusetzen.
+
+### Links
+
+- <a href="https://sandstorm.io" target="_blank">sandstorm.io</a>

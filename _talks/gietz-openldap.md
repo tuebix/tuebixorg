@@ -11,20 +11,19 @@ menu:
 
 ### Peter&nbsp;Gietz
 
-- LDAP (Lightweight Directory Access Protocol)
-- <a href="https://tools.ietf.org/rfc/rfc4510.txt" target="_blank">tools.ietf.org/rfc/rfc4510.txt</a>
-- <a href="http://www.openldap.org" target="_blank">openldap.org</a>
-
-### Inhalt
-
 - Einführung in Verzeichnisdienste
 - Unterschiede zu relationalen Datenbanken
 - Einführung in das LDAP Datenmodell
 - Einführung in das LDAP-Protokoll
-- Einführung in OpenLDAP (<a href="http://www.openldap.org" target="_blank">openldap.org</a>)
+- Einführung in OpenLDAP
 - Warum OpenLDAP?
 - Implementierungsbeispiele
 
 ### Vorwissen
 
 Teilnehmer sollten idealerweise ein wenig technisches Wissen zu Datenbanken und Internetprotokollen haben.
+
+### Links
+
+- <a href="https://tools.ietf.org/rfc/rfc4510.txt" target="_blank">tools.ietf.org/rfc/rfc4510.txt</a>
+- <a href="http://www.openldap.org" target="_blank">openldap.org</a>

@@ -13,8 +13,6 @@ menu:
 
 Wie kann ich mit LaTeX Dokumente für den Verein erstellen und verwalten?
 
-### Inhalt
-
 Aktuell unterstütze ich unseren Verein als Schriftführer.
 In diesem Zusammenhang gibt es unterschiedliche Dokumente (Beitrittserklärung, Bankdatenänderung usw.), die zur Verfügung gestellt werden müssen.
 In dem geplanten Vortrag stelle ich Online-Formulare im PDF-Format vor.

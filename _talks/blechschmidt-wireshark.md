@@ -11,22 +11,17 @@ menu:
 
 ### Ingo&nbsp;Blechschmidt
 
-Mit Wireshark (<a href="https://www.wireshark.org" target="_blank">wireshark.org</a>) kann man aus- und eingehenden Netzwerkverkehr mitschneiden
-und analysieren.
+Wireshark ist ein freies Werkzeug, mit dem man aus- und eingehenden Netzwerkverkehr mitschneiden und analysieren kann.
 
-### Inhalt
+Das ist allgemein nützlich, wenn man wissen möchte, wie Daten genau aussehen, die Programme, Webseiten, Smartphones und sonstige Geräte übers Netzwerk schicken und empfangen.
+Konkret kann man Verbindungsprobleme diagnostizieren, Netzwerkprotokolle verstehen, das eigene Sicherheitsbewusstsein schärfen und herausfinden, welche Informationen Programme beim nach Hause telefonieren übertragen.
 
-Wireshark ist ein freies Werkzeug, mit dem man aus- und eingehenden
-Netzwerkverkehr mitschneiden und analysieren kann. Das ist allgemein
-nützlich, wenn man wissen möchte, wie Daten genau aussehen, die
-Programme, Webseiten, Smartphones und sonstige Geräte übers Netzwerk
-schicken und empfangen. Konkret kann man Verbindungsprobleme
-diagnostizieren, Netzwerkprotokolle verstehen, das eigene
-Sicherheitsbewusstsein schärfen und herausfinden, welche Informationen
-Programme beim nach Hause telefonieren übertragen.
-Der Vortrag wird in die Bedienung von Wireshark einführen und dann
-mehrere Beispiele vorführen.
+Der Vortrag wird in die Bedienung von Wireshark einführen und dann mehrere Beispiele vorführen.
 
 ### Vorwissen
 
 Keines. Besucher, die schon mehr als einmal Wireshark selbst verwendet haben, werden sich langweilen!
+
+### Links
+
+<a href="https://www.wireshark.org" target="_blank">wireshark.org</a>

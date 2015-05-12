@@ -11,13 +11,9 @@ menu:
 
 ### Holger&nbsp;Gantikow
 
-### Schlagworte
-
 Supercomputer, die für weit mehr als Wettersimulation eingesetzt werden, haben alle eines gemeinsam: sie werden fast ausschließlich durch Linux zum Fliegen gebracht.
 
 Wie sich diese "fremde Welt" entwickelt hat, wie Linux dort seine unangefochtene Pole-Position erlangte, welchen Stellenwert Open Source Software in diesem Umfeld genießt und welche Themen und Werkzeuge aus dem Bereich des High Performance Computings (HPC) auch für die normale IT relevant sind, stehen im Fokus des Vortrags.
-
-### Inhalt
 
 Auch wenn Linus Torvalds nach wie vor Linux auf dem Desktop den Durchbruch verschaffen will, konnte sich der Pinguin bislang dort nie wirklich ansiedeln und fristet auf dem Desktop somit eher ein Nischendasein. Dieser Markt wird heute nach wie vor von Microsoft Windows dominiert.
 
@@ -61,4 +57,3 @@ Weiterführende Links, Zugriff 09.01.2015
 ### Vorwissen
 
 Kein spezielles Vorwissen notwendig, generelles Interesse an Linux, freier Software und daran einen kleinen Einblick in die Welt des High Performance Computings zu gewinnen schadet aber sicher nicht ;)
-

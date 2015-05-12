@@ -11,16 +11,6 @@ menu:
 
 ### Sven&nbsp;Guckes
 
-- (Digitale) Schlüssel (Cryptokeys) <a href="http://de.wikipedia.org/wiki/Schl%C3%BCssel_(Kryptologie)" target="_blank">de.wikipedia.org/wiki/Schlüssel_(Kryptologie)</a>
-- Digital Signatur <a href="http://de.wikipedia.org/wiki/Digitale_Signatur" target="_blank">de.wikipedia.org/wiki/Digitale_Signatur</a>
-- Verschlüsselung <a href="http://de.wikipedia.org/wiki/Verschl%C3%BCsselung" target="_blank">de.wikipedia.org/wiki/Verschlüsselung</a>
-- Schlüsselverwaltung (key management) <a href="http://en.wikipedia.org/wiki/Key_management" target="_blank">en.wikipedia.org/wiki/Key_management</a>
-- Key Server - Schlüsselserver <a href="http://de.wikipedia.org/wiki/Schl%C3%BCsselserver" target="_blank">de.wikipedia.org/wiki/Schlüsselserver</a>
-- KeySigning Party <a href="http://de.wikipedia.org/wiki/Keysigning-Party" target="_blank">de.wikipedia.org/wiki/Keysigning-Party</a>
-- Web of Trust <a href="http://de.wikipedia.org/wiki/Web_of_Trust" target="_blank">de.wikipedia.org/wiki/Web_of_Trust</a>
-
-### Inhalt
-
 Jeder Teilnehmer soll Mutt und GPG ausprobieren können.
 Am Anfang logt sich jeder erstmal auf der lokalen Maschine ein.
 Dann gehen alle per mosh/ssh auf die zentrale Kiste (Server), welche die notwendigen Programme anbietet.
@@ -48,3 +38,13 @@ Diese kann über den lokalen Keyserver geschehen - oder auch bei einem eigenen T
 - terminal multiplexer wie screen+tmux, sowie die shells bash und zsh
 - Dann verwenden alle auch denselben Server - und können sich auch lokal emailen, z.B.:
   $ echo dies ist ein test | mutt -s test otheruser
+
+### Links
+
+- (Digitale) Schlüssel (Cryptokeys) <a href="http://de.wikipedia.org/wiki/Schl%C3%BCssel_(Kryptologie)" target="_blank">de.wikipedia.org/wiki/Schlüssel_(Kryptologie)</a>
+- Digital Signatur <a href="http://de.wikipedia.org/wiki/Digitale_Signatur" target="_blank">de.wikipedia.org/wiki/Digitale_Signatur</a>
+- Verschlüsselung <a href="http://de.wikipedia.org/wiki/Verschl%C3%BCsselung" target="_blank">de.wikipedia.org/wiki/Verschlüsselung</a>
+- Schlüsselverwaltung (key management) <a href="http://en.wikipedia.org/wiki/Key_management" target="_blank">en.wikipedia.org/wiki/Key_management</a>
+- Key Server - Schlüsselserver <a href="http://de.wikipedia.org/wiki/Schl%C3%BCsselserver" target="_blank">de.wikipedia.org/wiki/Schlüsselserver</a>
+- KeySigning Party <a href="http://de.wikipedia.org/wiki/Keysigning-Party" target="_blank">de.wikipedia.org/wiki/Keysigning-Party</a>
+- Web of Trust <a href="http://de.wikipedia.org/wiki/Web_of_Trust" target="_blank">de.wikipedia.org/wiki/Web_of_Trust</a>

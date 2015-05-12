@@ -13,13 +13,13 @@ menu:
 
 Debian GNU/Linux "Jessie" unter fachkundiger Anleitung installieren, gegebenenfalls neben bereits vorhandene Betriebssysteme.
 
-- <a href="https://www.debian.org" target="_blank">www.debian.org</a>
-
-### Inhalt
-
 Per PXE, CD oder USB installieren wir Debian über einen Paketproxy. Verschiedene Desktops werden vorgestellt, das Vorgehen erläutert und anschließend das neue System ausprobiert und gegebenenfalls weiter eingerichtet.
 
 ### Vorbereitung
 
 - Backup aller wichtigen Daten vorher anfertigen
 - mindestens 10GiB Plattenplatz sollten noch verfügbar sein
+
+### Links
+
+- <a href="https://www.debian.org" target="_blank">www.debian.org</a>
