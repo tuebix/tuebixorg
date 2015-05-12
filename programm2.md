@@ -33,7 +33,7 @@ menu:
 <tr><td>14:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/knopper-knoppix_raspi">Knoppix&nbsp;auf&nbsp;dem&nbsp;Raspberry&nbsp;Pi</a></td><td>Prof.&nbsp;Dipl.-Ing.&nbsp;Klaus&nbsp;Knopper</td></tr>
 <tr><td>15:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/gantikow-verkehrte_welt">Verkehrte&nbsp;Welt&nbsp;-&nbsp;Linux&nbsp;im&nbsp;High&nbsp;Performance&nbsp;Computing</a></td><td>Holger&nbsp;Gantikow</td></tr>
 <tr><td>16:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/flebbe-bigdata1">Big&nbsp;Data&nbsp;in&nbsp;a&nbsp;Nutshell</a></td><td>Olaf&nbsp;Flebbe</td></tr>
-<tr><td>17:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/goetz-bigdata2">Big&nbsp;Data&nbsp;mit&nbsp;Open&nbsp;Source&nbsp;Tools</a></td><td>Thomas&nbsp;Götz</td></tr>
+<tr><td>17:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/goetz-bigdata2">Big&nbsp;Data&nbsp;Analytics</a></td><td>Thomas&nbsp;Götz</td></tr>
 <tr><td>18:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/koenig-bash">Haralds&nbsp;kleine&nbsp;Helferlein&nbsp;die&nbsp;SHELL</a></td><td>Harald&nbsp;König</td></tr>
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">Raum V2</td></tr>
 <tr><td>10:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiele-nixos">Was&nbsp;ist&nbsp;NixOS?</a></td><td>Joachim&nbsp;Schiele</td></tr>

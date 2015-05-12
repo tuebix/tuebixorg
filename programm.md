@@ -65,7 +65,7 @@ menu:
 <tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiele-aktuelles">aktuelle&nbsp;Entwicklungen</a></td><td>Joachim&nbsp;Schiele</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/pfeifle-pdfkungfoo">PDF-KungFoo&nbsp;mit&nbsp;Ghostscript&nbsp;&&nbsp;Co.</a></td><td>Kurt&nbsp;Pfeifle</td></tr>
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">17:00</td></tr>
-<tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/goetz-bigdata2">Big&nbsp;Data&nbsp;mit&nbsp;Open&nbsp;Source&nbsp;Tools</a></td><td>Thomas&nbsp;Götz</td></tr>
+<tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/goetz-bigdata2">Big&nbsp;Data&nbsp;Analytics</a></td><td>Thomas&nbsp;Götz</td></tr>
 <tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kemmer-network_steganographic">Steganographic&nbsp;Communication&nbsp;using&nbsp;TCP&nbsp;Inter&nbsp;Burst&nbsp;Delays</a></td><td>Florian&nbsp;Kemmer</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/gantikow-elektroschrott">Phoenix&nbsp;statt&nbsp;Elektroschrott&nbsp;-&nbsp;Neues&nbsp;Leben&nbsp;für&nbsp;"alte"&nbsp;Mobilgeräte</a></td><td>Holger&nbsp;Gantikow</td></tr>
 
