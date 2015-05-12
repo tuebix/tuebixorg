@@ -1,13 +1,14 @@
 ---
 layout: page
-title: Programm geordnet nach Raum 
-permalink: /programm_pro_raum/
+title: Programm - Raumplan
+permalink: /programm_raumplan/
 weight: 
 menu: 
 ---
-<a href="../programm/">geordnet nach Uhrzeit</a><br />
-<a href="../programm_pro_raum/">geordnet nach Raum</a><br />
-<a href="../programm_auf_einen_blick">auf einen Blick</a><br />
+<a href="../programm/">Zeitplan</a>&nbsp;&nbsp;
+<a href="../programm_raumplan/">Raumplan</a>&nbsp;&nbsp;
+<a href="../programm_ueberblick">Überblick</a>&nbsp;&nbsp;
+<a href="../programm_lightning_talks">Lightning Talks</a>
 
 <table>
 

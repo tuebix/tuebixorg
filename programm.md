@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Programm
+title: Programm - Zeitplan
 permalink: /programm/
 weight: 5
 menu:
 ---
-<a href="../programm/">geordnet nach Uhrzeit</a><br />
-<a href="../programm_pro_raum/">geordnet nach Raum</a><br />
-<a href="../programm_auf_einen_blick">auf einen Blick</a><br />
-
+<a href="../programm/">Zeitplan</a>&nbsp;&nbsp;
+<a href="../programm_raumplan/">Raumplan</a>&nbsp;&nbsp;
+<a href="../programm_ueberblick">Überblick</a>&nbsp;&nbsp;
+<a href="../programm_lightning_talks">Lightning Talks</a>
 <table>
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">10:00</td></tr>
 <tr><td>W2</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/krug-libreoffice">LibreOffice&nbsp;Overkill</a></td><td>Stefan&nbsp;Krug</td></tr>
