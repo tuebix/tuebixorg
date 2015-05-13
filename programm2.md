@@ -69,6 +69,7 @@ menu:
 <tr><td>12:40</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/helmle-einfache_sprache">Leichte&nbsp;Sprache&nbsp;in&nbsp;der&nbsp;IT&nbsp;oder&nbsp;–&nbsp;wie&nbsp;sag&nbsp;ich’s&nbsp;dem&nbsp;User?</a></td><td>Krishna-Sara&nbsp;Helmle</td></tr>
 <tr><td>12:50</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/koelbel-desktop_auth">Sicher&nbsp;und&nbsp;bequem.</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>13:00</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/giesen-seafile">Seafile&nbsp;als&nbsp;Dropbox-Alternative</a></td><td>Gregor&nbsp;Giesen</td></tr>
+<tr><td>13:10</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/widmayer-nagerit">Nager&nbsp;IT&nbsp;-&nbsp;Die&nbsp;Faire&nbsp;Computermaus</a></td><td>Karin&nbsp;Widmayer</td></tr>
 <tr><td>13:20</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/franke-ruby">Ruby&nbsp;als&nbsp;sed-&nbsp;und&nbsp;awk-Ersatz</a></td><td>Knut&nbsp;Franke</td></tr>
 <tr><td>15:30</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/klaeren-computermuseum">Das&nbsp;Computermuseum&nbsp;auf&nbsp;dem&nbsp;Sand</a></td><td>Herbert&nbsp;Klaeren</td></tr>
 <tr><td>16:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiele-aktuelles">aktuelle&nbsp;Entwicklungen</a></td><td>Joachim&nbsp;Schiele</td></tr>
