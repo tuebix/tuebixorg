@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /programm/guckes-muttgpg_workshop/
+permalink: /programm/guckes-muttgpg2/
 weight: 
 menu:
 ---
