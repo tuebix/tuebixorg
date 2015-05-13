@@ -17,3 +17,7 @@ Nach einer kurzen Einführung in die Grundidee der Steganographie werden verschi
 ### Vorwissen
 
 Grundlegendes Verständnis der Netzwerkprotokolle IP, UDP und TCP von Vorteil.
+
+### Links
+
+<a href="http://fkemmer.de/files/talks/2014_unfuck_netSteg.pdf" target="_blank">fkemmer.de/files/talks/2014_unfuck_netSteg.pdf</a>
