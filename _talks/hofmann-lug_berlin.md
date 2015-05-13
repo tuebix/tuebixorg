@@ -22,4 +22,4 @@ grundlegender Umgang mit dem Webbrowser, Einsteiger
 
 ### Links
 
-- <a href="https://lug.berlin" target="_blank">lug.berlin</a>
+- <a href="http://lug.berlin" target="_blank">lug.berlin</a>
