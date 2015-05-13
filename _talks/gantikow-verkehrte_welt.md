@@ -44,8 +44,8 @@ Kein spezielles Vorwissen notwendig, generelles Interesse an Linux, freier Softw
 
 ### Links
 
-- [1] <a href="http://www.top500.org/" target="_blank">www.top500.org/</a>
-- [2] <a href="https://github.com/cea-hpc/robinhood/wiki" target="_blank">github.com/cea-hpc/robinhood/wiki</a>
-- [3] <a href="http://www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood" target="_blank">www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood</a>
-- [4] <a href="http://www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux" target="_blank">www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux</a>
-- [5] <a href="http://www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC" target="_blank">www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC</a>
+[1] <a href="http://www.top500.org/" target="_blank">www.top500.org/</a><br />
+[2] <a href="https://github.com/cea-hpc/robinhood/wiki" target="_blank">github.com/cea-hpc/robinhood/wiki</a><br />
+[3] <a href="http://www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood" target="_blank">www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood</a><br />
+[4] <a href="http://www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux" target="_blank">www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux</a><br />
+[5] <a href="http://www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC" target="_blank">www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC</a>
