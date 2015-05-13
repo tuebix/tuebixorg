@@ -1,11 +1,11 @@
 ---
 layout: talk
 title:
-permalink: /programm/hofman-lug_berlin/
+permalink: /programm/hofmann-lug_berlin/
 weight: 
 menu:
 ---
-## Unter&nbsp;einem&nbsp;Dach.&nbsp;Regionale&nbsp;Vernetzung&nbsp;der&nbsp;Berliner&nbsp;Linux&nbsp;User&nbsp;Groups&nbsp;über&nbsp;lug.berlin
+## Unter&nbsp;einem&nbsp;Dach:&nbsp;lug.berlin
 
 ### <img height = "32" src="../../images/talk.svg"> 11:30 bis 12:00 in Raum V3
 

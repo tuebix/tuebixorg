@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /programm/hofman-surfen/
+permalink: /programm/hofmann-surfen/
 weight: 
 menu:
 ---
