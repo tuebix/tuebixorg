@@ -66,7 +66,7 @@ menu:
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">15:00</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/gantikow-verkehrte_welt">Verkehrte&nbsp;Welt&nbsp;-&nbsp;Linux&nbsp;im&nbsp;High&nbsp;Performance&nbsp;Computing</a></td><td>Holger&nbsp;Gantikow</td></tr>
 <tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/blechschmidt-wireshark">Netzwerksniffing&nbsp;mit&nbsp;Wireshark</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
-<tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/klaeren-computermuseum">Das&nbsp;Computermuseum&nbsp;auf&nbsp;dem&nbsp;Sand</a></td><td>Herbert&nbsp;Klaeren</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/klaeren-computermuseum">Das&nbsp;Computermuseum&nbsp;auf&nbsp;dem&nbsp;Sand</a></td><td>Prof.&nbsp;Dr.&nbsp;Herbert&nbsp;Klaeren</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/mundt-apt_install">apt&nbsp;install&nbsp;YOUR-NEIGHBORHOOD</a></td><td>Andreas&nbsp;B.&nbsp;Mundt</td></tr>
 
 
