@@ -36,7 +36,7 @@ Hands-on Einführung in operating-system-level virtualization.
 
 ### Vorbereitung
 
-- Kernel-Version >= 3.13
+- Kernel-Version >= 3.13 (ausgenommen 4.0.2)
 - lxc >= 1.1.0
 - lxcfs 0.7
 - cgmanager 0.36
