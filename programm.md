@@ -47,7 +47,7 @@ menu:
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">13:00</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/seidel-tcp_stealth">TCP&nbsp;Stealth&nbsp;-&nbsp;Port&nbsp;Knocking&nbsp;neu&nbsp;aufgelegt</a></td><td>Dr.&nbsp;Udo&nbsp;Seidel</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/reber-mirrorserver">Mirror&nbsp;Server&nbsp;Verwaltung</a></td><td>Adrian&nbsp;Reber</td></tr>
-<tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/gietz-openldap">OpenLDAP,&nbsp;eine&nbsp;hochskalierbare&nbsp;und&nbsp;hochperformante&nbsp;standardkonforme&nbsp;Open-Source-Implementierung&nbsp;des&nbsp;IETF-Protokolls&nbsp;LDAP</a></td><td>Peter&nbsp;Gietz</td></tr>
+<tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/gietz-openldap">Einführung&nbsp;in&nbsp;OpenLDAP</a></td><td>Peter&nbsp;Gietz</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>13:00 <a href="../programm/giesen-seafile">Seafile&nbsp;als&nbsp;Dropbox-Alternative</a></td><td>Gregor&nbsp;Giesen</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>13:10 <a href="../programm/widmayer-nagerit">Nager&nbsp;IT&nbsp;-&nbsp;Die&nbsp;Faire&nbsp;Computermaus</a></td><td>Karin&nbsp;Widmayer</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>13:20 <a href="../programm/franke-ruby">Ruby&nbsp;als&nbsp;sed-&nbsp;und&nbsp;awk-Ersatz</a></td><td>Knut&nbsp;Franke</td></tr>

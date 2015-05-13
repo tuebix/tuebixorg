@@ -55,7 +55,7 @@ menu:
 
 <tr><td>13:00</td>
 <td><img height = "18" src="../images/talk.svg"> <a href="../programm/seidel-tcp_stealth">TCP&nbsp;Stealth</a></td>
-<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/gietz-openldap">openldap</a></td>
+<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/gietz-openldap">OpenLDAP</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/pfeifle-pandoc">pandoc</a></td>
 <td>13:00</td></tr>
 
