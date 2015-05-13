@@ -77,7 +77,7 @@ menu:
 
 <tr><td>15:00</td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/gantikow-verkehrte_welt">Linux&nbsp;im&nbsp;HPC</a></td>
-<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/blechschmidt-wireshark">wireshark</a></td>
+<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/kemmer-network_steganographic">steganography</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/mundt-apt_install">apt&nbsp;install</a></td>
 <td>15:00</td></tr>
 
@@ -101,7 +101,7 @@ menu:
 
 <tr><td>17:00</td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/goetz-bigdata2">Big&nbsp;Data&nbsp;II</a></td>
-<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/kemmer-network_steganographic">steganography</a></td>
+<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/blechschmidt-wireshark">wireshark</a></td>
 <td> </td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/gantikow-elektroschrott">Elektroschrott?</a></td>
 <td>17:00</td></tr>

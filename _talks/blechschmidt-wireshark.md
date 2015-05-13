@@ -7,7 +7,7 @@ menu:
 ---
 ## Netzwerksniffing&nbsp;mit&nbsp;Wireshark
 
-### <img height = "32" src="../../images/talk.svg"> 15:00 bis 16:00 in Raum V2
+### <img height = "32" src="../../images/talk.svg"> 17:00 bis 18:00 in Raum V2
 
 ### Ingo&nbsp;Blechschmidt
 

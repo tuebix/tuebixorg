@@ -7,7 +7,7 @@ menu:
 ---
 ## Steganographic&nbsp;Communication&nbsp;using&nbsp;TCP&nbsp;Inter&nbsp;Burst&nbsp;Delays
 
-### <img height = "32" src="../../images/talk.svg"> 17:00 bis 18:00 in Raum V2
+### <img height = "32" src="../../images/talk.svg"> 15:00 bis 16:00 in Raum V2
 
 ### Florian&nbsp;Kemmer
 
