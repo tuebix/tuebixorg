@@ -15,6 +15,7 @@ Supercomputer, die für weit mehr als Wettersimulation eingesetzt werden, haben 
 
 Wie sich diese "fremde Welt" entwickelt hat, wie Linux dort seine unangefochtene Pole-Position erlangte, welchen Stellenwert Open Source Software in diesem Umfeld genießt und welche Themen und Werkzeuge aus dem Bereich des High Performance Computings (HPC) auch für die normale IT relevant sind, stehen im Fokus des Vortrags.
 
+<br/>
 Auch wenn Linus Torvalds nach wie vor Linux auf dem Desktop den Durchbruch verschaffen will, konnte sich der Pinguin bislang dort nie wirklich ansiedeln und fristet auf dem Desktop somit eher ein Nischendasein. Dieser Markt wird heute nach wie vor von Microsoft Windows dominiert.
 
 Dass dies nicht für alle Bereiche gelten muss, zeigt der Markt der Supercomputer, die meist in den Rechenzentren von Forschungsinstituten und großen Firmen vor dem Auge der Öffentlichkeit verborgen bleiben.
@@ -37,23 +38,25 @@ Für den Vortrag ist kein besonderes Vorwissen nötig, ein allgemeines Interesse
 
 Beim Linux-Magazin online ist ein zusammenfassender Basis-Artikel zum Thema erschienen [5], sowie kurze Vorstellungen der Robin Hood Policy Engine [3] und ein Überblick über in diesem Umfeld anzutreffende Dateisysteme [4].
 
-Weiterführende Links, Zugriff 09.01.2015
-
-[1] Top 500 (Homepage)
-<a href="http://www.top500.org/" target="_blank">http://www.top500.org/</a>
-
-[2] Robin Hood Policy Engine (Homepage) 
-<a href="https://github.com/cea-hpc/robinhood/wiki" target="_blank">https://github.com/cea-hpc/robinhood/wiki</a>
-
-[3] Effiziente Verwaltung großer Dateisysteme mit Robinhood (Artikel)
-<a href="http://www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood" target="_blank">http://www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood</a>
-
-[4] Leistungsfähige parallele Dateisysteme unter Linux (Artikel)
-<a href="http://www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux" target="_blank">http://www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux</a>
-
-[5] Linux im High Performance Computing (Artikel)
-<a href="http://www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC" target="_blank">http://www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC</a>
-
 ### Vorwissen
 
 Kein spezielles Vorwissen notwendig, generelles Interesse an Linux, freier Software und daran einen kleinen Einblick in die Welt des High Performance Computings zu gewinnen schadet aber sicher nicht ;)
+
+### Links
+
+Zugriff 09.01.2015
+
+[1] Top 500 (Homepage)<br />
+<a href="http://www.top500.org/" target="_blank">http://www.top500.org/</a>
+
+[2] Robin Hood Policy Engine (Homepage)<br />
+<a href="https://github.com/cea-hpc/robinhood/wiki" target="_blank">https://github.com/cea-hpc/robinhood/wiki</a>
+
+[3] Effiziente Verwaltung großer Dateisysteme mit Robinhood (Artikel)<br />
+<a href="http://www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood" target="_blank">http://www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood</a>
+
+[4] Leistungsfähige parallele Dateisysteme unter Linux (Artikel)<br />
+<a href="http://www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux" target="_blank">http://www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux</a>
+
+[5] Linux im High Performance Computing (Artikel)<br />
+<a href="http://www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC" target="_blank">http://www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC</a>
