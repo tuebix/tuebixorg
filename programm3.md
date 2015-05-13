@@ -50,7 +50,7 @@ menu:
 <td>12:00</td></tr>
 
 <tr><td></td>
-<td><img height = "18" src="../images/talk.svg"> <a href="../programm/kuestner_strohmaier-wueste_welle">Wueste&nbsp;Welle</a></td>
+<td><img height = "18" src="../images/talk.svg"> <a href="../programm/kuestner_strohmaier-wueste_welle">Wüste&nbsp;Welle</a></td>
 <td></td></tr>
 
 <tr><td>13:00</td>

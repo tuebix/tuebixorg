@@ -41,7 +41,7 @@ menu:
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>12:40 <a href="../programm/helmle-einfache_sprache">Leichte&nbsp;Sprache&nbsp;in&nbsp;der&nbsp;IT&nbsp;oder&nbsp;–&nbsp;wie&nbsp;sag&nbsp;ich’s&nbsp;dem&nbsp;User?</a></td><td>Krishna-Sara&nbsp;Helmle</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>12:50 <a href="../programm/koelbel-desktop_auth">Sicher&nbsp;und&nbsp;bequem.</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/imme-latex_verein">LaTeX&nbsp;für&nbsp;den&nbsp;Verein</a></td><td>Roland&nbsp;Imme</td></tr>
-<tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kuestner_strohmaier-wueste_welle">OpenSource&nbsp;Software&nbsp;-&nbsp;So&nbsp;setzen&nbsp;wir&nbsp;sie&nbsp;im&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle&nbsp;ein.</a></td><td>Andreas&nbsp;Küstner,&nbsp;Friedrich&nbsp;Strohmaier</td></tr>
+<tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kuestner_strohmaier-wueste_welle">Open&nbsp;Source&nbsp;Software&nbsp;beim&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle</a></td><td>Andreas&nbsp;Küstner,&nbsp;Friedrich&nbsp;Strohmaier</td></tr>
 
 
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">13:00</td></tr>

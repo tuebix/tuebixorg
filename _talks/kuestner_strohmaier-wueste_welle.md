@@ -5,7 +5,7 @@ permalink: /programm/kuestner_strohmaier-wueste_welle/
 weight: 
 menu:
 ---
-## OpenSource&nbsp;Software&nbsp;-&nbsp;So&nbsp;setzen&nbsp;wir&nbsp;sie&nbsp;im&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle&nbsp;ein.
+## Open&nbsp;Source&nbsp;Software&nbsp;beim&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle
 
 ### <img height = "32" src="../../images/talk.svg"> 12:30 bis 13:00 in Raum V4
 
