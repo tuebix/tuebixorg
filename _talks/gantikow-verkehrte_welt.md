@@ -44,19 +44,8 @@ Kein spezielles Vorwissen notwendig, generelles Interesse an Linux, freier Softw
 
 ### Links
 
-Zugriff 09.01.2015
-
-[1] Top 500 (Homepage)<br />
-<a href="http://www.top500.org/" target="_blank">http://www.top500.org/</a>
-
-[2] Robin Hood Policy Engine (Homepage)<br />
-<a href="https://github.com/cea-hpc/robinhood/wiki" target="_blank">https://github.com/cea-hpc/robinhood/wiki</a>
-
-[3] Effiziente Verwaltung großer Dateisysteme mit Robinhood (Artikel)<br />
-<a href="http://www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood" target="_blank">http://www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood</a>
-
-[4] Leistungsfähige parallele Dateisysteme unter Linux (Artikel)<br />
-<a href="http://www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux" target="_blank">http://www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux</a>
-
-[5] Linux im High Performance Computing (Artikel)<br />
-<a href="http://www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC" target="_blank">http://www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC</a>
+- [1] <a href="http://www.top500.org/" target="_blank">www.top500.org/</a>
+- [2] <a href="https://github.com/cea-hpc/robinhood/wiki" target="_blank">github.com/cea-hpc/robinhood/wiki</a>
+- [3] <a href="http://www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood" target="_blank">www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood</a>
+- [4] <a href="http://www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux" target="_blank">www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux</a>
+- [5] <a href="http://www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC" target="_blank">www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC</a>
