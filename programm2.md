@@ -33,7 +33,7 @@ menu:
 
 
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">Raum V1</td></tr>
-<tr><td>10:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/brauner-lxc_docker1">Kernelfeatures&nbsp;+&nbsp;LXC</a></td><td>Christian&nbsp;Brauner</td></tr>
+<tr><td>10:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/brauner-lxc_docker1">Operating-system-level&nbsp;virtualization</a></td><td>Christian&nbsp;Brauner</td></tr>
 <tr><td>11:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/yanar-lxc_docker2">Docker</a></td><td>Erkan&nbsp;Yanar</td></tr>
 <tr><td>12:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiebel-linuxmuster">linuxmuster.net&nbsp;-&nbsp;die&nbsp;freie&nbsp;Linux-Musterlösung&nbsp;für&nbsp;schulische&nbsp;Netzwerke</a></td><td>Frank&nbsp;Schiebel</td></tr>
 <tr><td>13:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/seidel-tcp_stealth">TCP&nbsp;Stealth&nbsp;-&nbsp;Port&nbsp;Knocking&nbsp;neu&nbsp;aufgelegt</a></td><td>Dr.&nbsp;Udo&nbsp;Seidel</td></tr>
@@ -65,9 +65,9 @@ menu:
 <tr><td>12:00</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/blechschmidt-haskell">Haskell,&nbsp;eine&nbsp;rein&nbsp;funktionale&nbsp;Programmiersprache</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>12:10</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/willbold-python_kinder_buch">Python-Buch&nbsp;für&nbsp;Kinder</a></td><td>Carina&nbsp;Willbold</td></tr>
 <tr><td>12:20</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/stadelmeier_wannenmacher-tor_router">Tor-Router</a></td><td>Andreas&nbsp;Stadelmeier,&nbsp;Fabian&nbsp;Wannenmacher</td></tr>
-<tr><td>12:30</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/blechschmidt-sandstorm">Sandstorm,&nbsp;eine&nbsp;einfache&nbsp;Plattform&nbsp;für&nbsp;private&nbsp;Cloud-Server</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
+<tr><td>12:30</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/blechschmidt-sandstorm">Sandstorm</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>12:40</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/helmle-einfache_sprache">Leichte&nbsp;Sprache&nbsp;in&nbsp;der&nbsp;IT&nbsp;oder&nbsp;–&nbsp;wie&nbsp;sag&nbsp;ich’s&nbsp;dem&nbsp;User?</a></td><td>Krishna-Sara&nbsp;Helmle</td></tr>
-<tr><td>12:50</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/koelbel-desktop_auth">Sicher&nbsp;und&nbsp;bequem.</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
+<tr><td>12:50</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/koelbel-desktop_auth">Sicher&nbsp;und&nbsp;bequem</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>13:00</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/giesen-seafile">Seafile&nbsp;als&nbsp;Dropbox-Alternative</a></td><td>Gregor&nbsp;Giesen</td></tr>
 <tr><td>13:10</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/widmayer-nagerit">Nager&nbsp;IT&nbsp;-&nbsp;Die&nbsp;Faire&nbsp;Computermaus</a></td><td>Karin&nbsp;Widmayer</td></tr>
 <tr><td>13:20</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/franke-ruby">Ruby&nbsp;als&nbsp;sed-&nbsp;und&nbsp;awk-Ersatz</a></td><td>Knut&nbsp;Franke</td></tr>

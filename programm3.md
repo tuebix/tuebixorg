@@ -16,9 +16,9 @@ menu:
 
 <tr><td>10:00</td>
 <td rowspan="4"> </td>
-<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/krug-libreoffice">libreoffice</a></td>
-<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/zimmer-vim">vim</a></td>
-<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/brauner-lxc_docker1">lxc</a></td>
+<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/krug-libreoffice">LibreOffice</a></td>
+<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/zimmer-vim">Vim</a></td>
+<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/brauner-lxc_docker1">OS-level&nbsp;virt</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/schiele-nixos">NixOS</a></td>
 <td><img height = "18" src="../images/talk.svg"> <a href="../programm/uebele-bitcoin">Bitcoin</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/schroeder-tex">TeX</a></td>
@@ -42,7 +42,7 @@ menu:
 <tr><td>12:00</td>
 <td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/mundt_nachbauer-jessie_party">Jessie&nbsp;Party</a></td>
 <td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/baur_graesing-x2go">X2Go</a></td>
-<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/waelde-emacs">emacs</a></td>
+<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/waelde-emacs">Emacs</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/schiebel-linuxmuster">linuxmuster.net</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/kockler-puppet1">Puppet&nbsp;I</a></td>
 <td rowspan="7"><img height = "18" src="../images/lightning.svg"> <a href="../programm_lightning_talks">Lightning Talks</a></td>
@@ -65,9 +65,9 @@ menu:
 
 <tr><td>14:00</td>
 <td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/guckes-muttgpg2">mutt&nbsp;+&nbsp;gpg</a></td>
-<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/brauner_yanar-lxc_docker3">lxc+docker</a></td>
-<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/blechschmidt-python_schueler">python&nbsp;f&uuml;r&nbsp;Sch&uuml;ler</a></td>
-<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/knopper-knoppix_raspi">Knoppix&nbsp;auf&nbsp;raspi</a></td>
+<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/brauner_yanar-lxc_docker3">lxc&nbsp;+&nbsp;Docker</a></td>
+<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/blechschmidt-python_schueler">Python&nbsp;f&uuml;r&nbsp;Sch&uuml;ler</a></td>
+<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/knopper-knoppix_raspi">Knoppix&nbsp;auf&nbsp;RasPi</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/kockler-puppet2">Puppet&nbsp;II</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/dinges-blender">Blender</a></td>
 <td>14:00</td></tr>
@@ -91,7 +91,7 @@ menu:
 <td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/knopper-openscad">OpenSCAD</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/flebbe-bigdata1">Big&nbsp;Data&nbsp;I</a></td>
 <td><img height = "18" src="../images/talk.svg"> <a href="../programm/behrla-lpic">LPIC</a></td>
-<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/schiele-aktuelles">Aktuelles...</a></td>
+<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/schiele-aktuelles">Aktuelles</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/pfeifle-pdfkungfoo">PDFkungfoo</a></td>
 <td>16:00</td></tr>
 
@@ -101,9 +101,9 @@ menu:
 
 <tr><td>17:00</td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/goetz-bigdata2">Big&nbsp;Data&nbsp;II</a></td>
-<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/blechschmidt-wireshark">wireshark</a></td>
+<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/blechschmidt-wireshark">Wireshark</a></td>
 <td> </td>
-<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/gantikow-elektroschrott">Elektroschrott?</a></td>
+<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/gantikow-elektroschrott">Elektroschrott</a></td>
 <td>17:00</td></tr>
 
 <tr><td>&nbsp;</td>
@@ -114,7 +114,7 @@ menu:
 <td> </td>
 <td> </td>
 <td> </td>
-<td><img height = "18" src="../images/talk.svg"> <a href="../programm/koenig-bash">shell</a></td>
+<td><img height = "18" src="../images/talk.svg"> <a href="../programm/koenig-bash">Shell</a></td>
 <td> </td>
 <td> </td>
 <td> </td>

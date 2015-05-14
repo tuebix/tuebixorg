@@ -13,7 +13,7 @@ menu:
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">10:00</td></tr>
 <tr><td>W2</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/krug-libreoffice">LibreOffice&nbsp;Overkill</a></td><td>Stefan&nbsp;Krug</td></tr>
 <tr><td>W3</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/zimmer-vim">Vim&nbsp;für&nbsp;Nicht-Mehr-Beginner&nbsp;und&nbsp;Noch-Nicht-Fortgeschrittene</a></td><td>Toni&nbsp;Zimmer</td></tr>
-<tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/brauner-lxc_docker1">Kernelfeatures&nbsp;+&nbsp;LXC</a></td><td>Christian&nbsp;Brauner</td></tr>
+<tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/brauner-lxc_docker1">Operating-system-level&nbsp;virtualization</a></td><td>Christian&nbsp;Brauner</td></tr>
 <tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiele-nixos">Was&nbsp;ist&nbsp;NixOS?</a></td><td>Joachim&nbsp;Schiele</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/uebele-bitcoin">Bitcoin&nbsp;-&nbsp;Eine&nbsp;dezentrale&nbsp;Währung</a></td><td>Peter&nbsp;Uebele</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/weissensel-fish">fish&nbsp;-&nbsp;Die&nbsp;"friendly&nbsp;interactive&nbsp;shell"</a></td><td>Jonas&nbsp;Weissensel</td></tr>
@@ -37,9 +37,9 @@ menu:
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>12:00 <a href="../programm/blechschmidt-haskell">Haskell,&nbsp;eine&nbsp;rein&nbsp;funktionale&nbsp;Programmiersprache</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>12:10 <a href="../programm/willbold-python_kinder_buch">Python-Buch&nbsp;für&nbsp;Kinder</a></td><td>Carina&nbsp;Willbold</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>12:20 <a href="../programm/stadelmeier_wannenmacher-tor_router">Tor-Router</a></td><td>Andreas&nbsp;Stadelmeier,&nbsp;Fabian&nbsp;Wannenmacher</td></tr>
-<tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>12:30 <a href="../programm/blechschmidt-sandstorm">Sandstorm,&nbsp;eine&nbsp;einfache&nbsp;Plattform&nbsp;für&nbsp;private&nbsp;Cloud-Server</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>12:30 <a href="../programm/blechschmidt-sandstorm">Sandstorm</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>12:40 <a href="../programm/helmle-einfache_sprache">Leichte&nbsp;Sprache&nbsp;in&nbsp;der&nbsp;IT&nbsp;oder&nbsp;–&nbsp;wie&nbsp;sag&nbsp;ich’s&nbsp;dem&nbsp;User?</a></td><td>Krishna-Sara&nbsp;Helmle</td></tr>
-<tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>12:50 <a href="../programm/koelbel-desktop_auth">Sicher&nbsp;und&nbsp;bequem.</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>12:50 <a href="../programm/koelbel-desktop_auth">Sicher&nbsp;und&nbsp;bequem</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/imme-latex_verein">LaTeX&nbsp;für&nbsp;den&nbsp;Verein</a></td><td>Roland&nbsp;Imme</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kuestner_strohmaier-wueste_welle">Open&nbsp;Source&nbsp;Software&nbsp;beim&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle</a></td><td>Andreas&nbsp;Küstner,&nbsp;Friedrich&nbsp;Strohmaier</td></tr>
 
