@@ -5,9 +5,9 @@ permalink: /programm/
 weight: 5
 menu:
 ---
-<a href="../programm/">Zeitplan</a>&nbsp;&nbsp;
-<a href="../programm_raumplan/">Raumplan</a>&nbsp;&nbsp;
-<a href="../programm_ueberblick">Überblick</a>&nbsp;&nbsp;
+Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="../programm_raumplan/">Raumplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="../programm_ueberblick">Überblick</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm_lightning_talks">Lightning Talks</a>
 <table>
 <tr><td>&nbsp;</td></tr><tr><td colspan="3">10:00</td></tr>
