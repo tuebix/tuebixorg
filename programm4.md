@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Programm - Lightning Talks
+title: Programm
 permalink: /programm_lightning_talks/
 weight: 
 menu: 
@@ -9,6 +9,8 @@ menu:
 <a href="../programm_raumplan/">Raumplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm_ueberblick">Überblick</a>&nbsp;&nbsp;&nbsp;&nbsp;
 Lightning Talks
+
+<br />
 
 12:00 <img height = "18" src="../images/lightning.svg"> <a href="../programm/blechschmidt-haskell">Haskell</a><br />
 12:10 <img height = "18" src="../images/lightning.svg"> <a href="../programm/willbold-python_kinder_buch">Python-Buch&nbsp;für&nbsp;Kinder</a><br />

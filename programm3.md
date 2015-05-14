@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Programm - Überblick
+title: Programm
 permalink: /programm_ueberblick/
 weight: 
 menu: 
@@ -9,6 +9,8 @@ menu:
 <a href="../programm_raumplan/">Raumplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
 Überblick&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm_lightning_talks">Lightning Talks</a>
+
+<br />
 
 <table border="1" style="white-space: nowrap">
 
