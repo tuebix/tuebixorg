@@ -42,7 +42,6 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>12:40 <a href="../programm/helmle-einfache_sprache">Leichte&nbsp;Sprache&nbsp;in&nbsp;der&nbsp;IT&nbsp;oder&nbsp;–&nbsp;wie&nbsp;sag&nbsp;ich’s&nbsp;dem&nbsp;User?</a></td><td>Krishna-Sara&nbsp;Helmle</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>12:50 <a href="../programm/koelbel-desktop_auth">Sicher&nbsp;und&nbsp;bequem</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/imme-latex_verein">LaTeX&nbsp;für&nbsp;den&nbsp;Verein</a></td><td>Roland&nbsp;Imme</td></tr>
-<tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kuestner_strohmaier-wueste_welle">Open&nbsp;Source&nbsp;Software&nbsp;beim&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle</a></td><td>Andreas&nbsp;Küstner,&nbsp;Friedrich&nbsp;Strohmaier</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>13:00</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/seidel-tcp_stealth">TCP&nbsp;Stealth&nbsp;-&nbsp;Port&nbsp;Knocking&nbsp;neu&nbsp;aufgelegt</a></td><td>Dr.&nbsp;Udo&nbsp;Seidel</td></tr>
@@ -64,7 +63,8 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td></td><td></td><td>15:00</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/gantikow-verkehrte_welt">Verkehrte&nbsp;Welt&nbsp;-&nbsp;Linux&nbsp;im&nbsp;High&nbsp;Performance&nbsp;Computing</a></td><td>Holger&nbsp;Gantikow</td></tr>
 <tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kemmer-network_steganographic">Steganographic&nbsp;Communication&nbsp;using&nbsp;TCP&nbsp;Inter&nbsp;Burst&nbsp;Delays</a></td><td>Florian&nbsp;Kemmer</td></tr>
-<tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/klaeren-computermuseum">Das&nbsp;Computermuseum&nbsp;auf&nbsp;dem&nbsp;Sand</a></td><td>Prof.&nbsp;Dr.&nbsp;Herbert&nbsp;Klaeren</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/strohmaier-wueste_welle">Open&nbsp;Source&nbsp;Software&nbsp;beim&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle</a></td><td>Friedrich&nbsp;Strohmaier</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td>15:30 <a href="../programm/klaeren-computermuseum">Das&nbsp;Computermuseum&nbsp;auf&nbsp;dem&nbsp;Sand</a></td><td>Prof.&nbsp;Dr.&nbsp;Herbert&nbsp;Klaeren</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/mundt-apt_install">apt&nbsp;install&nbsp;YOUR-NEIGHBORHOOD</a></td><td>Andreas&nbsp;B.&nbsp;Mundt</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>16:00</td></tr>

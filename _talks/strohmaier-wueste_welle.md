@@ -1,15 +1,15 @@
 ---
 layout: talk
 title:
-permalink: /programm/kuestner_strohmaier-wueste_welle/
+permalink: /programm/strohmaier-wueste_welle/
 weight: 
 menu:
 ---
 ## Open&nbsp;Source&nbsp;Software&nbsp;beim&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle
 
-### <img height = "32" src="../../images/talk.svg"> 12:30 bis 13:00 in Raum V4
+### <img height = "32" src="../../images/talk.svg"> 15:00 bis 15:30 in Raum V3
 
-### Andreas&nbsp;Küstner,&nbsp;Friedrich&nbsp;Strohmaier
+### Friedrich&nbsp;Strohmaier
 
 Kurzer Anriss über die verschiedenen Einsatzfelder von OpenSource Software, die bei der Wüsten Welle in Tübingen zu den Themen:
 
