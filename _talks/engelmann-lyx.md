@@ -11,21 +11,17 @@ menu:
 
 ### Wolfgang&nbsp;Engelmann
 
-- Wie benutze ich LaTeX, ohne meinen Kopf mit Kommandos zuzumüllen?
 - Was bietet LyX?
-- Wie binde ich Bilder ein? Und Referenzen?
-- Mathematisches, chemische Formeln, Gleichungen?
-- Wie bekomme ich Hilfe, wenns hackt (lyx-users@lists.lyx.org)?
-- Wie kann ich externe Programme einbinden (z.B. xfig)
-- Und: Wünsche an die LyX-User Group
+- Wie benutze ich LaTeX, ohne meinen Kopf mit Kommandos zuzumüllen?
 - Wie schreibe ich ein Buch: Demonstration am Rechner
 - Aufteilung in Kapitel, Abschnitte etc.
-- Mathematische Gleichungen, chemische Formeln
-- Bilder und Tabellen einbinden als Gleitobjekte
-- Zitieren von Referenzen, Literaturverzeichnis und Index erstellen
+- Wie binde ich Bilder und Tabellen ein?
+- Wie zitiere ich und erstelle ein Literaturverzeichnis?
+- Und wie einen Index und Glossar?
+- Mathematisches, chemische Formeln
 - Exportieren des Buches
-
-Eine Aufgabe für solche, die mehr können als ich: Wie kann ich ein externes Programm so einbinden, dass ich es aus LyX heraus bedienen kann? (z.B. TikZ oder Pyxplot)
+- Wie kann ich externe Programme einbinden (z.B. Sweave, TikZ, xfig, Lilypond)
+- Wo bekomme ich Hilfe und kann Wünsche äußern? lyx-users@lists.lyx.org
 
 ### Links
 
