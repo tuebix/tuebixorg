@@ -63,17 +63,9 @@ Bau eigener CSS-Stile sind einem versierten Anwender so gut wie keine Grenzen
 gesetzt, bei der Erstellung eigener Vorlagen und Referenzen gibt es ebenfalls
 erstaunlich viele Möglichkeiten.
 
-Der Workshop gliedert sich in mehrere Teile:
-
-1. Einrichten der Erstell-Umgebung: Installation der neuesten Version von `pandoc` aus den entsprechenden Quellen
-2. Kurz-Vorstellung der `Markdown`-Syntax
-3. Kurz-Vorstellung von `pandoc`
-4. Besprechung des verwendeten `Makefile`
-5. Erstellung eigener Dokumente in mehreren Formaten aus demselben Markdown- Quellcode
-
 Teilnehmer erhalten Zugriff auf ein Zip-Archiv mit folgendem Inhalt:
 
-* Die im Vortrag / Workshop verwendeten Vortrags-Präsentationen.
+* Die im Vortrag verwendeten Vortrags-Präsentationen.
 * Zwei (oder mehr) Papers, welche der Autor über das *Pandoc + Markdown*-Duo geschrieben hat.
 * Eine Reihe von Markdown-Dateien, die als Ausgangspunkt der Beispiel- Dokumente dienten.
 * Ein `Makefile` (funktionierend unter Mac OS X oder Linux) zum Generieren der fertigen Beispiel-Dokumente.
@@ -96,8 +88,9 @@ Teilnehmer erhalten Zugriff auf ein Zip-Archiv mit folgendem Inhalt:
 
 ### Vorbereitung
 
-Weder als Vortrag noch als Workshop ist das Thema als "Mitmach"-Thema
-konzipiert. Es ist vielmehr ein "Aufpass"-Thema!
+
+"Das Thema ist NICHT als 'Mitmach'-Thema konzipiert."
+Es ist vielmehr ein "Aufpass"-Thema!
 Denn dabei wird's nicht viele Folien geben, sondern fast ausschließlich
 Live-Vorführung.
 Im Nachhinein werden die Teilnehmer über die Tübix-Seite dann ein Archiv
