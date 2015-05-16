@@ -96,7 +96,7 @@ menu:
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/flebbe-bigdata1">Big&nbsp;Data&nbsp;I</a></td>
 <td><img height = "18" src="../images/talk.svg"> <a href="../programm/behrla-lpic">LPIC</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/schiele-aktuelles">Aktuelles</a></td>
-<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/pfeifle-pdfkungfoo">PDFkungfoo</a></td>
+<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/pfeifle-pdfkungfoo">PDF-KungFoo</a></td>
 <td>16:00</td></tr>
 
 <tr><td>&nbsp;</td>
