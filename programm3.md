@@ -53,7 +53,6 @@ menu:
 
 <tr><td></td>
 <td>&nbsp;</td>
-<!-- <td><img height = "18" src="../images/talk.svg"> <a href="../programm/kuestner_strohmaier-wueste_welle">Wüste&nbsp;Welle</a></td> -->
 <td></td></tr>
 
 <tr><td>13:00</td>
@@ -81,7 +80,7 @@ menu:
 <tr><td>15:00</td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/gantikow-verkehrte_welt">Linux&nbsp;im&nbsp;HPC</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/kemmer-network_steganographic">steganography</a></td>
-<td><img height = "18" src="../images/talk.svg"> <a href="../programm/strohmaier-wueste_welle">Wüste&nbsp;Welle</a></td>
+<td><img height = "18" src="../images/talk.svg"> <a href="../programm/kuestner_strohmaier-wueste_welle">Wüste&nbsp;Welle</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/mundt-apt_install">apt&nbsp;install</a></td>
 <td>15:00</td></tr>
 
