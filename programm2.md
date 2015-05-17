@@ -73,6 +73,7 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>13:00</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/giesen-seafile">Seafile&nbsp;als&nbsp;Dropbox-Alternative</a></td><td>Gregor&nbsp;Giesen</td></tr>
 <tr><td>13:10</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/widmayer-nagerit">Nager&nbsp;IT&nbsp;-&nbsp;Die&nbsp;Faire&nbsp;Computermaus</a></td><td>Karin&nbsp;Widmayer</td></tr>
 <tr><td>13:20</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/franke-ruby">Ruby&nbsp;als&nbsp;sed-&nbsp;und&nbsp;awk-Ersatz</a></td><td>Knut&nbsp;Franke</td></tr>
+<tr><td>13:30</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/humm-wikipedia">Wikipedia&nbsp;visualisieren</a></td><td>Justin&nbsp;Humm</td></tr>
 <tr><td>15:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kuestner_strohmaier-wueste_welle">Open&nbsp;Source&nbsp;Software&nbsp;beim&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle</a></td><td>Andreas&nbsp;Küstner,&nbsp;Friedrich&nbsp;Strohmaier</td></tr>
 <tr><td>15:30</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/klaeren-computermuseum">Das&nbsp;Computermuseum&nbsp;auf&nbsp;dem&nbsp;Sand</a></td><td>Prof.&nbsp;Dr.&nbsp;Herbert&nbsp;Klaeren</td></tr>
 <tr><td>16:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiele-aktuelles">aktuelle&nbsp;Entwicklungen</a></td><td>Joachim&nbsp;Schiele</td></tr>

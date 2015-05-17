@@ -50,6 +50,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>13:00 <a href="../programm/giesen-seafile">Seafile&nbsp;als&nbsp;Dropbox-Alternative</a></td><td>Gregor&nbsp;Giesen</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>13:10 <a href="../programm/widmayer-nagerit">Nager&nbsp;IT&nbsp;-&nbsp;Die&nbsp;Faire&nbsp;Computermaus</a></td><td>Karin&nbsp;Widmayer</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>13:20 <a href="../programm/franke-ruby">Ruby&nbsp;als&nbsp;sed-&nbsp;und&nbsp;awk-Ersatz</a></td><td>Knut&nbsp;Franke</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>13:30 <a href="../programm/humm-wikipedia">Wikipedia&nbsp;visualisieren</a></td><td>Justin&nbsp;Humm</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/pfeifle-pandoc">Ein&nbsp;Text-Format&nbsp;schreiben&nbsp;--&nbsp;viele&nbsp;Dokumenten-Formate&nbsp;generieren</a></td><td>Kurt&nbsp;Pfeifle</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>14:00</td></tr>
