@@ -5,7 +5,7 @@ permalink: /programm/pfeifle-pdfkungfoo/
 weight: 
 menu:
 ---
-## PDF-KungFoo&nbsp;mit&nbsp;Ghostscript&nbsp;&&nbsp;Co
+## PDF-KungFoo&nbsp;mit&nbsp;Ghostscript&nbsp;&&nbsp;Co.
 
 ### <img height = "32" src="../../images/talk.svg"> 16:00 bis 17:00 in Raum V4
 
@@ -70,3 +70,7 @@ Im Nachhinein werden die Teilnehmer über die Tübix-Seite dann ein Archiv
 mit allen entsprechenden Dokumenten herunterladen können: verwendete
 Beispiel-Dateien sowie ein Transkript des Vortrags, das alle gezeigten
 Kommandos nochmals wiedergibt und kurz erläutert.
+
+### Links
+
+<a href="https://leanpub.com/pdfkungfoo" target="_blank">leanpub.com/pdfkungfoo</a>
