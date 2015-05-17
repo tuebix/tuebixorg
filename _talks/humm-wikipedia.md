@@ -13,7 +13,7 @@ menu:
 
 Es ist bei fast 2 Millionen deutschsprachigen Artikeln schwer, sich einen Überblick über die Wikipedia zu schaffen, es fehlt ein Relevanzkriterium und eine Metrik auf der Menge der Artikel.
 Ich hab welche gefunden!
-Wenn man, von einem zufälligen Artikel ausgehend, wiederholend den ersten Link im Artikeltext, der nicht in () Klammern steht anklickt, kommt man in den allermeisten Fällen bei "Philosophie" an.
+Wikipedia-Veteranen kennen das Phänomen: Wenn man, von einem zufälligen Artikel ausgehend, wiederholend den ersten Link im Artikeltext, der nicht in () Klammern steht anklickt, kommt man in den allermeisten Fällen bei "Philosophie" an.
 Fertig ist die Baumstruktur auf etwa 90% aller Artikel.
 Diese kann man visualisieren.
 Zu sehen gibt es ein Universum aus "reinem Wissen" und krasse organisch anmutende Strukturen.
@@ -24,7 +24,6 @@ Man sollte zur Vorbereitung mal <a href="https://de.wikipedia.org" target="_blan
 
 ### Links
 
-- Visualisierung aller deutschen Wikipediaartikel auf einem Poster:<br/>
-<a href="https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy" target="_blank">en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy</a>
+- <a href="https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy" target="_blank">en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy</a>
 - ein Preview:<br/>
 <a href="https://www.dropbox.com/s/weenj7uar9xkj5l/wikipedia.pdf?dl=0" target="_blank">dropbox.com/s/weenj7uar9xkj5l/wikipedia.pdf?dl=0</a>
