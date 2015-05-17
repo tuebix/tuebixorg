@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /programm/brauner-lxc_docker1/
+permalink: /programm/brauner-lxc/
 weight: 
 menu:
 ---

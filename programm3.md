@@ -17,10 +17,10 @@ menu:
 <tr><td></td><td>W1</td><td>W2</td><td>W3</td><td>V1</td><td>V2</td><td>V3</td><td>V4</td><td></td></tr>
 
 <tr><td>10:00</td>
-<td rowspan="4"> </td>
+<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/nn">N.&nbsp;N.</a></td>
 <td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/krug-libreoffice">LibreOffice</a></td>
 <td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/zimmer-vim">Vim</a></td>
-<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/brauner-lxc_docker1">OS-level&nbsp;virt</a></td>
+<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/brauner-lxc">LXC</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/schiele-nixos">NixOS</a></td>
 <td><img height = "18" src="../images/talk.svg"> <a href="../programm/uebele-bitcoin">Bitcoin</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/schroeder-tex">TeX</a></td>
@@ -31,7 +31,7 @@ menu:
 <td></td></tr>
 
 <tr><td>11:00</td>
-<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/yanar-lxc_docker2">Docker</a></td>
+<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/nn">N.&nbsp;N.</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/guckes-muttgpg1">mutt&nbsp;+&nbsp;gpg</a></td>
 <td><img height = "18" src="../images/talk.svg"> <a href="../programm/genannt-sshkey_distribution">sshkeydistribution</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/engelmann-lyx">LyX</a></td>
@@ -52,7 +52,7 @@ menu:
 <td>12:00</td></tr>
 
 <tr><td></td>
-<td>&nbsp;</td>
+<td><img height = "18" src="../images/talk.svg"> <a href="../programm/nn">N.&nbsp;N.</a></td>
 <td></td></tr>
 
 <tr><td>13:00</td>
@@ -67,7 +67,7 @@ menu:
 
 <tr><td>14:00</td>
 <td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/guckes-muttgpg2">mutt&nbsp;+&nbsp;gpg</a></td>
-<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/brauner_yanar-lxc_docker3">lxc&nbsp;+&nbsp;Docker</a></td>
+<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/nn">N.&nbsp;N.</a></td>
 <td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/blechschmidt-python_schueler">Python&nbsp;f&uuml;r&nbsp;Sch&uuml;ler</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/knopper-knoppix_raspi">Knoppix&nbsp;auf&nbsp;RasPi</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/kockler-puppet2">Puppet&nbsp;II</a></td>
@@ -105,12 +105,11 @@ menu:
 <tr><td>17:00</td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/goetz-bigdata2">Big&nbsp;Data&nbsp;II</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/blechschmidt-wireshark">Wireshark</a></td>
-<td> </td>
+<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/nn">N.&nbsp;N.</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/gantikow-elektroschrott">Elektroschrott</a></td>
 <td>17:00</td></tr>
 
 <tr><td>&nbsp;</td>
-<td> </td>
 <td></td></tr>
 
 <tr><td>18:00</td>

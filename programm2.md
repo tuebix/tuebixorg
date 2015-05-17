@@ -15,6 +15,7 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 <table>
 
 <tr><td></td><td></td><td>Raum W1</td></tr>
+<tr><td>10:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/nn">N.&nbsp;N.</a></td><td>N.&nbsp;N.</td></tr>
 <tr><td>12:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/mundt_nachbauer-jessie_party">Debian&nbsp;GNU/Linux&nbsp;"Jessie"&nbsp;Install&nbsp;Party</a></td><td>Andreas&nbsp;Mundt,&nbsp;Florian&nbsp;Nachbauer</td></tr>
 <tr><td>14:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/guckes-muttgpg2">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>16:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/hrenka-python">Einführung&nbsp;in&nbsp;SciPy&nbsp;und&nbsp;SymPy&nbsp;mit&nbsp;IPython</a></td><td>Peter&nbsp;Hrenka</td></tr>
@@ -23,7 +24,7 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td></td><td></td><td>Raum W2</td></tr>
 <tr><td>10:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/krug-libreoffice">LibreOffice&nbsp;Overkill</a></td><td>Stefan&nbsp;Krug</td></tr>
 <tr><td>12:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/baur_graesing-x2go">X2Go</a></td><td>Stefan&nbsp;Baur,&nbsp;Heinz&nbsp;Graesing</td></tr>
-<tr><td>14:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/brauner_yanar-lxc_docker3">LXC&nbsp;+&nbsp;Docker</a></td><td>Christian&nbsp;Brauner,&nbsp;Erkan&nbsp;Yanar</td></tr>
+<tr><td>14:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/nn">N.&nbsp;N.</a></td><td>N.&nbsp;N.</td></tr>
 <tr><td>16:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/koelbel-privacyidea">privacyIDEA&nbsp;-&nbsp;Zwei-Faktor-Authentisierung&nbsp;selber&nbsp;machen</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>&nbsp;</td></tr>
 
@@ -35,8 +36,8 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum V1</td></tr>
-<tr><td>10:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/brauner-lxc_docker1">Operating-system-level&nbsp;virtualization</a></td><td>Christian&nbsp;Brauner</td></tr>
-<tr><td>11:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/yanar-lxc_docker2">Docker</a></td><td>Erkan&nbsp;Yanar</td></tr>
+<tr><td>10:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/brauner-lxc">Operating-system-level&nbsp;virtualization</a></td><td>Christian&nbsp;Brauner</td></tr>
+<tr><td>11:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/nn">N.N.</a></td><td>N.&nbsp;N.</td></tr>
 <tr><td>12:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiebel-linuxmuster">linuxmuster.net&nbsp;-&nbsp;die&nbsp;freie&nbsp;Linux-Musterlösung&nbsp;für&nbsp;schulische&nbsp;Netzwerke</a></td><td>Frank&nbsp;Schiebel</td></tr>
 <tr><td>13:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/seidel-tcp_stealth">TCP&nbsp;Stealth&nbsp;-&nbsp;Port&nbsp;Knocking&nbsp;neu&nbsp;aufgelegt</a></td><td>Dr.&nbsp;Udo&nbsp;Seidel</td></tr>
 <tr><td>13:30</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/reber-mirrorserver">Mirror&nbsp;Server&nbsp;Verwaltung</a></td><td>Adrian&nbsp;Reber</td></tr>
@@ -77,12 +78,14 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>15:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kuestner_strohmaier-wueste_welle">Open&nbsp;Source&nbsp;Software&nbsp;beim&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle</a></td><td>Andreas&nbsp;Küstner,&nbsp;Friedrich&nbsp;Strohmaier</td></tr>
 <tr><td>15:30</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/klaeren-computermuseum">Das&nbsp;Computermuseum&nbsp;auf&nbsp;dem&nbsp;Sand</a></td><td>Prof.&nbsp;Dr.&nbsp;Herbert&nbsp;Klaeren</td></tr>
 <tr><td>16:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiele-aktuelles">aktuelle&nbsp;Entwicklungen</a></td><td>Joachim&nbsp;Schiele</td></tr>
+<tr><td>17:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/nn">N.N.</a></td><td>N.&nbsp;N.</td></tr>
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum V4</td></tr>
 <tr><td>10:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schroeder-tex">TeX&nbsp;im&nbsp;3.&nbsp;Jahrtausend</a></td><td>Martin&nbsp;Schröder</td></tr>
 <tr><td>11:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/engelmann-lyx">Mit&nbsp;LyX&nbsp;Text&nbsp;verarbeiten</a></td><td>Wolfgang&nbsp;Engelmann</td></tr>
 <tr><td>12:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/imme-latex_verein">LaTeX&nbsp;für&nbsp;den&nbsp;Verein</a></td><td>Roland&nbsp;Imme</td></tr>
+<tr><td>12:30</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/nn">N.&nbsp;N.</a></td><td>N.&nbsp;N.</td></tr>
 <tr><td>13:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/pfeifle-pandoc">Ein&nbsp;Text-Format&nbsp;schreiben&nbsp;--&nbsp;viele&nbsp;Dokumenten-Formate&nbsp;generieren</a></td><td>Kurt&nbsp;Pfeifle</td></tr>
 <tr><td>14:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/dinges-blender">Einführung&nbsp;in&nbsp;die&nbsp;3D&nbsp;Software&nbsp;Blender</a></td><td>Thomas&nbsp;Dinges</td></tr>
 <tr><td>15:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/mundt-apt_install">apt&nbsp;install&nbsp;YOUR-NEIGHBORHOOD</a></td><td>Andreas&nbsp;B.&nbsp;Mundt</td></tr>
