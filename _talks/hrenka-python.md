@@ -30,7 +30,8 @@ Im Workshop werden wir IPython interaktiv benutzen und die Teilnehmer können be
 ### Vorbereitung
 
 - Webbrowser
-- Anaconda Python: <a href="http://continuum.io/downloads" target="_blank">continuum.io/downloads</a>
+- Eine lokale Installation von IPython >= 2.0, Numpy 1.9 und matplotlib.
+Am einfachsten nimmt man das distributionsunabhängige Anaconda Python (<a href="http://continuum.io/downloads" target="_blank">continuum.io/downloads</a>)
 
 ### Links
 
