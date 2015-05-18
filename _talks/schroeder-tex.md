@@ -20,3 +20,8 @@ Der Vortrag richtet sich an alle, die in den letzten Jahr(zehnt)en TeX genutzt h
 ### Vorwissen
 
 Hat in den letzten Jahrzehnten mal intensiver mit TeX gearbeitet und möchte wissen, was es "Neues" gibt.
+
+### Links
+
+- <a href="http://www.oneiros.de/tex/papers/" target="_blank">oneiros.de/tex/papers/</a>
+
