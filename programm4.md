@@ -12,14 +12,16 @@ Lightning Talks
 
 <br />
 
-12:00 <img height = "18" src="../images/lightning.svg"> <a href="../programm/blechschmidt-haskell">Haskell</a><br />
-12:10 <img height = "18" src="../images/lightning.svg"> <a href="../programm/willbold-python_kinder_buch">Python-Buch&nbsp;für&nbsp;Kinder</a><br />
-12:20 <img height = "18" src="../images/lightning.svg"> <a href="../programm/stadelmeier_wannenmacher-tor_router">Tor-Router</a><br />
-12:30 <img height = "18" src="../images/lightning.svg"> <a href="../programm/blechschmidt-sandstorm">Sandstorm</a><br />
-12:40 <img height = "18" src="../images/lightning.svg"> <a href="../programm/helmle-einfache_sprache">Leichte&nbsp;Sprache</a><br />
-12:50 <img height = "18" src="../images/lightning.svg"> <a href="../programm/koelbel-desktop_auth">Sicher&nbsp;und&nbsp;bequem</a><br />
-13:00 <img height = "18" src="../images/lightning.svg"> <a href="../programm/giesen-seafile">Seafile</a><br />
-13:10 <img height = "18" src="../images/lightning.svg"> <a href="../programm/widmayer-nagerit">Faire&nbsp;Computermaus</a><br/>
-13:20 <img height = "18" src="../images/lightning.svg"> <a href="../programm/franke-ruby">Ruby&nbsp;als&nbsp;sed-&nbsp;und&nbsp;awk-Ersatz</a><br />
-13:30 <img height = "18" src="../images/lightning.svg"> <a href="../programm/humm-wikipedia">Wikipedia&nbsp;visualisieren</a><br />
-13:40&nbsp;bis&nbsp;15:00 <img height = "18" src="../images/lightning.svg"> <a href="http://www.tuebix.org/callforpapers/">noch Plätze frei, solange der Vorrat reicht</a>
+<table>
+<tr><td>12:00</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/blechschmidt-haskell">Haskell</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
+<tr><td>12:10</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/willbold-python_kinder_buch">Python-Buch&nbsp;für&nbsp;Kinder</a></td><td>Carina&nbsp;Willbold</td></tr>
+<tr><td>12:20</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/stadelmeier_wannenmacher-tor_router">Tor-Router</a></td><td>Andreas&nbsp;Stadelmeier,&nbsp;Fabian&nbsp;Wannenmacher</td></tr>
+<tr><td>12:30</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/blechschmidt-sandstorm">Sandstorm</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
+<tr><td>12:40</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/helmle-einfache_sprache">Leichte&nbsp;Sprache&nbsp;in&nbsp;der&nbsp;IT</a></td><td>Krishna-Sara&nbsp;Helmle</td></tr>
+<tr><td>12:50</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/koelbel-desktop_auth">Sicher&nbsp;und&nbsp;bequem</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
+<tr><td>13:00</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/giesen-seafile">Seafile&nbsp;als&nbsp;Dropbox-Alternative</a></td><td>Gregor&nbsp;Giesen</td></tr>
+<tr><td>13:10</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/widmayer-nagerit">Nager&nbsp;IT&nbsp;-&nbsp;Die&nbsp;Faire&nbsp;Computermaus</a></td><td>Karin&nbsp;Widmayer</td></tr>
+<tr><td>13:20</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/franke-ruby">Ruby&nbsp;als&nbsp;sed-&nbsp;und&nbsp;awk-Ersatz</a></td><td>Knut&nbsp;Franke</td></tr>
+<tr><td>13:30</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/humm-wikipedia">Wikipedia&nbsp;visualisieren</a></td><td>Justin&nbsp;Humm</td></tr>
+<tr><td>13:40 bis 15:00</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="http://www.tuebix.org/callforpapers/">noch Plätze frei</a></td><td>Du?&nbsp;;)</td></tr>
+</table>
