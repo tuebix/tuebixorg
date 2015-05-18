@@ -17,7 +17,7 @@ menu:
 <tr><td></td><td>W1</td><td>W2</td><td>W3</td><td>V1</td><td>V2</td><td>V3</td><td>V4</td><td></td></tr>
 
 <tr><td>10:00</td>
-<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/nn">N.&nbsp;N.</a></td>
+<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/schmidt_stockmayer-gentoo">Gentoo</a></td>
 <td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/krug-libreoffice">LibreOffice</a></td>
 <td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/zimmer-vim">Vim</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/brauner-lxc">LXC</a></td>

@@ -14,7 +14,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 
 <table>
 <tr><td></td><td></td><td>10:00</td></tr>
-<tr><td>W1</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/nn">N.&nbsp;N.</a></td><td>N.&nbsp;N.</td></tr>
+<tr><td>W1</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/schmidt_stockmayer-gentoo">Gentoo</a></td><td>Mark&nbsp;Schmidt,&nbsp;Andreas&nbsp;Stockmayer</td></tr>
 <tr><td>W2</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/krug-libreoffice">LibreOffice&nbsp;Overkill</a></td><td>Stefan&nbsp;Krug</td></tr>
 <tr><td>W3</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/zimmer-vim">Vim&nbsp;für&nbsp;Nicht-Mehr-Beginner&nbsp;und&nbsp;Noch-Nicht-Fortgeschrittene</a></td><td>Toni&nbsp;Zimmer</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/brauner-lxc">Operating-system-level&nbsp;virtualization</a></td><td>Christian&nbsp;Brauner</td></tr>
