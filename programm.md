@@ -22,6 +22,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/uebele-bitcoin">Bitcoin&nbsp;-&nbsp;Eine&nbsp;dezentrale&nbsp;Währung</a></td><td>Peter&nbsp;Uebele</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/weissensel-fish">fish&nbsp;-&nbsp;Die&nbsp;"friendly&nbsp;interactive&nbsp;shell"</a></td><td>Jonas&nbsp;Weissensel</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schroeder-tex">TeX&nbsp;im&nbsp;3.&nbsp;Jahrtausend</a></td><td>Martin&nbsp;Schröder</td></tr>
+<tr><td></td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Klaus Behrla</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>11:00</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/nn">N.N.</a></td><td>N.&nbsp;N.</td></tr>
@@ -62,6 +63,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/knopper-knoppix_raspi">Knoppix&nbsp;auf&nbsp;dem&nbsp;Raspberry&nbsp;Pi</a></td><td>Prof.&nbsp;Dipl.-Ing.&nbsp;Klaus&nbsp;Knopper</td></tr>
 <tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kockler-puppet2">Puppet&nbsp;II:&nbsp;Strukturierte&nbsp;Puppet-Umgebung</a></td><td>Torsten&nbsp;Kockler</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/dinges-blender">Einführung&nbsp;in&nbsp;die&nbsp;3D&nbsp;Software&nbsp;Blender</a></td><td>Thomas&nbsp;Dinges</td></tr>
+<tr><td></td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td>Klaus Behrla</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>15:00</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/gantikow-verkehrte_welt">Verkehrte&nbsp;Welt&nbsp;-&nbsp;Linux&nbsp;im&nbsp;High&nbsp;Performance&nbsp;Computing</a></td><td>Holger&nbsp;Gantikow</td></tr>
