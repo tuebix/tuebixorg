@@ -19,7 +19,9 @@ In diesem Workshop lernen wir das Prinzip und die Einsatzmöglichkeiten von Einm
 
 Wir sehen, wie einfach die Besitzfaktoren verwaltet und wie beliebige Applikationen an privacyIDEA angebunden werden können.
 Am Beispiel einer Anmeldung an SSH setzen wir dies konkret um und können erste Erfahrungen mit der Handhabung sammeln.
-Dabei erfahren wir, wie man die Authentisierung von vielen Benutzern an vielen Servern leicht verwalten kann.
+Dazu erhält jeder Teilnehmer einen eigenen Yubikey, zum Experimentieren und Mitnehmen (Solange Vorat reicht).
+
+Außerdem erfahren wir in dem Workshop, wie man die Authentisierung von vielen Benutzern an vielen Servern leicht verwalten kann.
 
 ### Vorwissen
 
