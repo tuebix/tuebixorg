@@ -38,7 +38,7 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td></td><td></td><td>Raum V1</td></tr>
 <tr><td>10:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/brauner-lxc">Operating-system-level&nbsp;virtualization</a></td><td>Christian&nbsp;Brauner</td></tr>
 <tr><td>11:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/nn">N.N.</a></td><td>N.&nbsp;N.</td></tr>
-<tr><td>12:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiebel-linuxmuster">linuxmuster.net&nbsp;-&nbsp;die&nbsp;freie&nbsp;Linux-Musterlösung&nbsp;für&nbsp;schulische&nbsp;Netzwerke</a></td><td>Frank&nbsp;Schiebel</td></tr>
+<tr><td>12:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiebel-linuxmuster">Schulnetz&nbsp;-&nbsp;linuxmuster.net</a></td><td>Frank&nbsp;Schiebel</td></tr>
 <tr><td>13:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/seidel-tcp_stealth">TCP&nbsp;Stealth&nbsp;-&nbsp;Port&nbsp;Knocking&nbsp;neu&nbsp;aufgelegt</a></td><td>Dr.&nbsp;Udo&nbsp;Seidel</td></tr>
 <tr><td>13:30</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/reber-mirrorserver">Mirror&nbsp;Server&nbsp;Verwaltung</a></td><td>Adrian&nbsp;Reber</td></tr>
 <tr><td>14:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/knopper-knoppix_raspi">Knoppix&nbsp;auf&nbsp;dem&nbsp;Raspberry&nbsp;Pi</a></td><td>Prof.&nbsp;Dipl.-Ing.&nbsp;Klaus&nbsp;Knopper</td></tr>
