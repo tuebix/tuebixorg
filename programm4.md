@@ -23,5 +23,6 @@ Lightning Talks
 <tr><td>13:10</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/widmayer-nagerit">Nager&nbsp;IT&nbsp;-&nbsp;Die&nbsp;Faire&nbsp;Computermaus</a></td><td>Karin&nbsp;Widmayer</td></tr>
 <tr><td>13:20</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/franke-ruby">Ruby&nbsp;als&nbsp;sed-&nbsp;und&nbsp;awk-Ersatz</a></td><td>Knut&nbsp;Franke</td></tr>
 <tr><td>13:30</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/humm-wikipedia">Wikipedia&nbsp;visualisieren</a></td><td>Justin&nbsp;Humm</td></tr>
-<tr><td>13:40 bis 15:00</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="http://www.tuebix.org/callforpapers/">noch Plätze frei</a></td><td>Du?&nbsp;;)</td></tr>
+<tr><td>13:40</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="../programm/schiebel-oss_schule">OSS&nbsp;und&nbsp;Linuxclients&nbsp;in&nbsp;der&nbsp;Schule</a></td><td>Frank&nbsp;Schiebel</td></tr>
+<tr><td>13:50 bis 15:00</td><td><img height = "18" src="../images/lightning.svg"></td><td><a href="http://www.tuebix.org/callforpapers/">noch Plätze frei</a></td><td>Du?&nbsp;;)</td></tr>
 </table>
