@@ -2,8 +2,8 @@
 layout: page
 title: Impressum
 permalink: /impressum/
-weight: 60
-menu: main
+weight:
+menu:
 ---
 
 # Organisationsteam T&Uuml;BIX 2015
