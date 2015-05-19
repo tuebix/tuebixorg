@@ -2,8 +2,8 @@
 layout: page
 title: Log
 permalink: /log/
-weight: 50
-menu: main
+weight:
+menu:
 ---
 
 <div class="home">
