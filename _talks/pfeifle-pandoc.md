@@ -5,7 +5,7 @@ permalink: /programm/pfeifle-pandoc/
 weight: 
 menu:
 ---
-## Ein&nbsp;Text-Format&nbsp;schreiben&nbsp;--&nbsp;viele&nbsp;Dokumenten-Formate&nbsp;generieren
+## Dokumenten-KungFoo mit&nbsp;Pandoc,&nbsp;Markdown&nbsp;&&nbsp;Co.
 
 ### <img height = "32" src="../../images/talk.svg"> 13:00 bis 14:00 in Raum V4
 

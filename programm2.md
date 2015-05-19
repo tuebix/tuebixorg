@@ -87,7 +87,7 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>11:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/engelmann-lyx">Mit&nbsp;LyX&nbsp;Text&nbsp;verarbeiten</a></td><td>Wolfgang&nbsp;Engelmann</td></tr>
 <tr><td>12:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/imme-latex_verein">LaTeX&nbsp;für&nbsp;den&nbsp;Verein</a></td><td>Roland&nbsp;Imme</td></tr>
 <tr><td>12:30</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/nn">N.&nbsp;N.</a></td><td>N.&nbsp;N.</td></tr>
-<tr><td>13:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/pfeifle-pandoc">Ein&nbsp;Text-Format&nbsp;schreiben&nbsp;--&nbsp;viele&nbsp;Dokumenten-Formate&nbsp;generieren</a></td><td>Kurt&nbsp;Pfeifle</td></tr>
+<tr><td>13:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/pfeifle-pandoc">Dokumenten-KungFoo&nbsp;mit&nbsp;Pandoc,&nbsp;Markdown&nbsp;&&nbsp;Co.</a></td><td>Kurt&nbsp;Pfeifle</td></tr>
 <tr><td>14:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/dinges-blender">Einführung&nbsp;in&nbsp;die&nbsp;3D&nbsp;Software&nbsp;Blender</a></td><td>Thomas&nbsp;Dinges</td></tr>
 <tr><td>15:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/mundt-apt_install">apt&nbsp;install&nbsp;YOUR-NEIGHBORHOOD</a></td><td>Andreas&nbsp;B.&nbsp;Mundt</td></tr>
 <tr><td>16:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/pfeifle-pdfkungfoo">PDF-KungFoo&nbsp;mit&nbsp;Ghostscript&nbsp;&&nbsp;Co.</a></td><td>Kurt&nbsp;Pfeifle</td></tr>
