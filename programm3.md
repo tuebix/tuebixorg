@@ -113,14 +113,14 @@ menu:
 <td></td></tr>
 
 <tr><td>18:00</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td><img height = "18" src="../images/talk.svg"> <a href="../programm/koenig-tagesabschluss">Tagesabschluss</a></td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td colspan="3" rowspan="2"> </td>
+<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/koenig-tagesabschluss">Tagesabschluss</a></td>
+<td colspan="3" rowspan="2"> </td>
 <td>18:00</td></tr>
+
+<tr><td>&nbsp;</td>
+<td></td></tr>
+
 
 <!-- for some reason the next tag (to close the table) won't show up in the end... wtf? -->
 </table>
