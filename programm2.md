@@ -37,7 +37,7 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 
 <tr><td></td><td></td><td>Raum V1</td></tr>
 <tr><td>10:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/brauner-lxc">Operating-system-level&nbsp;virtualization</a></td><td>Christian&nbsp;Brauner</td></tr>
-<tr><td>11:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/nn">N.N.</a></td><td>N.&nbsp;N.</td></tr>
+<tr><td>11:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/koenig-bash">Haralds&nbsp;kleine&nbsp;Helferlein&nbsp;die&nbsp;SHELL</a></td><td>Harald&nbsp;König</td></tr>
 <tr><td>12:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiebel-linuxmuster">Schulnetz&nbsp;-&nbsp;linuxmuster.net</a></td><td>Frank&nbsp;Schiebel</td></tr>
 <tr><td>13:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/seidel-tcp_stealth">TCP&nbsp;Stealth&nbsp;-&nbsp;Port&nbsp;Knocking&nbsp;neu&nbsp;aufgelegt</a></td><td>Dr.&nbsp;Udo&nbsp;Seidel</td></tr>
 <tr><td>13:30</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/reber-mirrorserver">Mirror&nbsp;Server&nbsp;Verwaltung</a></td><td>Adrian&nbsp;Reber</td></tr>
@@ -45,7 +45,7 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>15:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/gantikow-verkehrte_welt">Verkehrte&nbsp;Welt&nbsp;-&nbsp;Linux&nbsp;im&nbsp;High&nbsp;Performance&nbsp;Computing</a></td><td>Holger&nbsp;Gantikow</td></tr>
 <tr><td>16:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/flebbe-bigdata1">Big&nbsp;Data&nbsp;in&nbsp;a&nbsp;Nutshell</a></td><td>Olaf&nbsp;Flebbe</td></tr>
 <tr><td>17:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/goetz-bigdata2">Big&nbsp;Data&nbsp;Analytics</a></td><td>Thomas&nbsp;Götz</td></tr>
-<tr><td>18:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/koenig-bash">Haralds&nbsp;kleine&nbsp;Helferlein&nbsp;die&nbsp;SHELL</a></td><td>Harald&nbsp;König</td></tr>
+<tr><td>18:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/koenig-tagesabschluss">Haralds&nbsp;Tagesabschluss</a></td><td>Harald&nbsp;König</td></tr>
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum V2</td></tr>

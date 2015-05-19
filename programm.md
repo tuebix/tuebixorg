@@ -25,7 +25,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td></td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Klaus Behrla</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>11:00</td></tr>
-<tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/nn">N.N.</a></td><td>N.&nbsp;N.</td></tr>
+<tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/koenig-bash">Haralds&nbsp;kleine&nbsp;Helferlein:&nbsp;die&nbsp;Shell</a></td><td>Harald&nbsp;König</td></tr>
 <tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/guckes-muttgpg1">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/genannt-sshkey_distribution">SSH&nbsp;Public&nbsp;Key&nbsp;Distribution&nbsp;-&nbsp;the&nbsp;smart&nbsp;way</a></td><td>Jonas&nbsp;Genannt</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/hofmann-lug_berlin">Unter&nbsp;einem&nbsp;Dach:&nbsp;lug.berlin</a></td><td>Frank&nbsp;Hofmann</td></tr>
@@ -90,5 +90,5 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/gantikow-elektroschrott">Phoenix&nbsp;statt&nbsp;Elektroschrott&nbsp;-&nbsp;Neues&nbsp;Leben&nbsp;für&nbsp;"alte"&nbsp;Mobilgeräte</a></td><td>Holger&nbsp;Gantikow</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>18:00</td></tr>
-<tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/koenig-bash">Haralds&nbsp;kleine&nbsp;Helferlein&nbsp;die&nbsp;SHELL</a></td><td>Harald&nbsp;König</td></tr>
+<tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/koenig-tagesabschluss">Haralds&nbsp;Tagesabschluss</a></td><td>Harald&nbsp;König</td></tr>
 </table>

@@ -31,7 +31,7 @@ menu:
 <td></td></tr>
 
 <tr><td>11:00</td>
-<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/nn">N.&nbsp;N.</a></td>
+<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/koenig-bash">Shell</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/guckes-muttgpg1">mutt&nbsp;+&nbsp;gpg</a></td>
 <td><img height = "18" src="../images/talk.svg"> <a href="../programm/genannt-sshkey_distribution">sshkeydistribution</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/engelmann-lyx">LyX</a></td>
@@ -116,7 +116,7 @@ menu:
 <td> </td>
 <td> </td>
 <td> </td>
-<td><img height = "18" src="../images/talk.svg"> <a href="../programm/koenig-bash">Shell</a></td>
+<td><img height = "18" src="../images/talk.svg"> <a href="../programm/koenig-tagesabschluss">Tagesabschluss</a></td>
 <td> </td>
 <td> </td>
 <td> </td>
