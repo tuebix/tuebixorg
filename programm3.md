@@ -37,8 +37,8 @@ menu:
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/engelmann-lyx">LyX</a></td>
 <td>11:00</td></tr>
 
-<tr><td></td>
-<td><img height = "18" src="../images/talk.svg"> <a href="../programm/hofmann-lug_berlin">lug.berlin</a></td>
+<tr><td>&nbsp;</td>
+<td rowspan="7"><img height = "18" src="../images/lightning.svg"> <a href="../programm_lightning_talks">Lightning Talks</a></td>
 <td></td></tr>
 
 <tr><td>12:00</td>
@@ -47,12 +47,11 @@ menu:
 <td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/waelde-emacs">Emacs</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/schiebel-linuxmuster">linuxmuster.net</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/kockler-puppet1">Puppet&nbsp;I</a></td>
-<td rowspan="6"><img height = "18" src="../images/lightning.svg"> <a href="../programm_lightning_talks">Lightning Talks</a></td>
 <td><img height = "18" src="../images/talk.svg"> <a href="../programm/imme-latex_verein">LaTeX&nbsp;im&nbsp;Verein</a></td>
 <td>12:00</td></tr>
 
 <tr><td></td>
-<td><img height = "18" src="../images/talk.svg"> <a href="../programm/nn">N.&nbsp;N.</a></td>
+<td><img height = "18" src="../images/talk.svg"> <a href="../programm/hofmann-lug_berlin">lug.berlin</a></td>
 <td></td></tr>
 
 <tr><td>13:00</td>

@@ -28,7 +28,9 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/koenig-bash">Haralds&nbsp;kleine&nbsp;Helferlein:&nbsp;die&nbsp;Shell</a></td><td>Harald&nbsp;König</td></tr>
 <tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/guckes-muttgpg1">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/genannt-sshkey_distribution">SSH&nbsp;Public&nbsp;Key&nbsp;Distribution&nbsp;-&nbsp;the&nbsp;smart&nbsp;way</a></td><td>Jonas&nbsp;Genannt</td></tr>
-<tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/hofmann-lug_berlin">Unter&nbsp;einem&nbsp;Dach:&nbsp;lug.berlin</a></td><td>Frank&nbsp;Hofmann</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>11:30 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>11:40 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>11:50 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/engelmann-lyx">Mit&nbsp;LyX&nbsp;Text&nbsp;verarbeiten</a></td><td>Wolfgang&nbsp;Engelmann</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>12:00</td></tr>
@@ -44,7 +46,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>12:40 <a href="../programm/helmle-einfache_sprache">Leichte&nbsp;Sprache&nbsp;in&nbsp;der&nbsp;IT&nbsp;oder&nbsp;–&nbsp;wie&nbsp;sag&nbsp;ich’s&nbsp;dem&nbsp;User?</a></td><td>Krishna-Sara&nbsp;Helmle</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>12:50 <a href="../programm/koelbel-desktop_auth">Sicher&nbsp;und&nbsp;bequem</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/imme-latex_verein">LaTeX&nbsp;für&nbsp;den&nbsp;Verein</a></td><td>Roland&nbsp;Imme</td></tr>
-<tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td>12:30 <a href="../programm/nn">N.&nbsp;N.</a></td><td>N.&nbsp;N.</td></tr>
+<tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td>12:30 <a href="../programm/hofmann-lug_berlin">Unter&nbsp;einem&nbsp;Dach:&nbsp;lug.berlin</a></td><td>Frank&nbsp;Hofmann</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>13:00</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/seidel-tcp_stealth">TCP&nbsp;Stealth&nbsp;-&nbsp;Port&nbsp;Knocking&nbsp;neu&nbsp;aufgelegt</a></td><td>Dr.&nbsp;Udo&nbsp;Seidel</td></tr>
@@ -55,6 +57,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>13:20 <a href="../programm/franke-ruby">Ruby&nbsp;als&nbsp;sed-&nbsp;und&nbsp;awk-Ersatz</a></td><td>Knut&nbsp;Franke</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>13:30 <a href="../programm/humm-wikipedia">Wikipedia&nbsp;visualisieren</a></td><td>Justin&nbsp;Humm</td></tr>
 <tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>13:40 <a href="../programm/schiebel-oss_schule">OSS&nbsp;und&nbsp;Linuxclients&nbsp;in&nbsp;der&nbsp;Schule</a></td><td>Frank&nbsp;Schiebel</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>13:50 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/pfeifle-pandoc">Dokumenten-KungFoo&nbsp;mit&nbsp;Pandoc,&nbsp;Markdown&nbsp;&&nbsp;Co.</a></td><td>Kurt&nbsp;Pfeifle</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>14:00</td></tr>
@@ -63,6 +66,12 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>W3</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/blechschmidt-python_schueler">Python-Programmierung&nbsp;für&nbsp;Schülerinnen&nbsp;und&nbsp;Schüler</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/knopper-knoppix_raspi">Knoppix&nbsp;auf&nbsp;dem&nbsp;Raspberry&nbsp;Pi</a></td><td>Prof.&nbsp;Dipl.-Ing.&nbsp;Klaus&nbsp;Knopper</td></tr>
 <tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kockler-puppet2">Puppet&nbsp;II:&nbsp;Strukturierte&nbsp;Puppet-Umgebung</a></td><td>Torsten&nbsp;Kockler</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>14:00 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>14:10 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>14:20 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>14:30 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>14:40 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/lightning.svg"></td><td>14:50 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/dinges-blender">Einführung&nbsp;in&nbsp;die&nbsp;3D&nbsp;Software&nbsp;Blender</a></td><td>Thomas&nbsp;Dinges</td></tr>
 <tr><td></td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td>Klaus Behrla</td></tr>
 <tr><td>&nbsp;</td></tr>
