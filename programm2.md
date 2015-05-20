@@ -15,7 +15,7 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 <table>
 
 <tr><td></td><td></td><td>Raum W1</td></tr>
-<tr><td>10:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/schmidt_stockmayer-gentoo">Gentoo</a></td><td>Mark&nbsp;Schmidt,&nbsp;Andreas&nbsp;Stockmayer</td></tr>
+<tr><td>10:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/schmidt_stockmayer-gentoo">Gentoo-Einführung</a></td><td>Mark&nbsp;Schmidt,&nbsp;Andreas&nbsp;Stockmayer</td></tr>
 <tr><td>12:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/mundt_nachbauer-jessie_party">Debian&nbsp;GNU/Linux&nbsp;"Jessie"&nbsp;Install&nbsp;Party</a></td><td>Andreas&nbsp;Mundt,&nbsp;Florian&nbsp;Nachbauer</td></tr>
 <tr><td>14:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/guckes-muttgpg2">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>16:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/hrenka-python">Einführung&nbsp;in&nbsp;SciPy&nbsp;und&nbsp;SymPy&nbsp;mit&nbsp;IPython</a></td><td>Peter&nbsp;Hrenka</td></tr>
