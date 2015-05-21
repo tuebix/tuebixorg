@@ -24,7 +24,7 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td></td><td></td><td>Raum W2</td></tr>
 <tr><td>10:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/krug-libreoffice">LibreOffice&nbsp;Overkill</a></td><td>Stefan&nbsp;Krug</td></tr>
 <tr><td>12:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/baur_graesing-x2go">X2Go</a></td><td>Stefan&nbsp;Baur,&nbsp;Heinz&nbsp;Graesing</td></tr>
-<tr><td>14:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/nn">N.&nbsp;N.</a></td><td>N.&nbsp;N.</td></tr>
+<tr><td>14:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/nagel-latex">Einführung&nbsp;in&nbsp;Latex</a></td><td>Thorsten&nbsp;Nagel</td></tr>
 <tr><td>16:00</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/koelbel-privacyidea">privacyIDEA&nbsp;-&nbsp;Zwei-Faktor-Authentisierung&nbsp;selber&nbsp;machen</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>&nbsp;</td></tr>
 

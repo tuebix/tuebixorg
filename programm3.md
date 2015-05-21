@@ -66,7 +66,7 @@ menu:
 
 <tr><td>14:00</td>
 <td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/guckes-muttgpg2">mutt&nbsp;+&nbsp;gpg</a></td>
-<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/nn">N.&nbsp;N.</a></td>
+<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/nagel-latex">Latex</a></td>
 <td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/blechschmidt-python_schueler">Python&nbsp;f&uuml;r&nbsp;Sch&uuml;ler</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/knopper-knoppix_raspi">Knoppix&nbsp;auf&nbsp;RasPi</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/kockler-puppet2">Puppet&nbsp;II</a></td>

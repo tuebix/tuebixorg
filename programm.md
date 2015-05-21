@@ -62,7 +62,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>14:00</td></tr>
 <tr><td>W1</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/guckes-muttgpg2">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
-<tr><td>W2</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/nn">N.&nbsp;N.</a></td><td>N.&nbsp;N.</td></tr>
+<tr><td>W2</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/nagel-latex">Einführung&nbsp;in&nbsp;Latex</a></td><td>Thorsten&nbsp;Nagel</td></tr>
 <tr><td>W3</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/blechschmidt-python_schueler">Python-Programmierung&nbsp;für&nbsp;Schülerinnen&nbsp;und&nbsp;Schüler</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/knopper-knoppix_raspi">Knoppix&nbsp;auf&nbsp;dem&nbsp;Raspberry&nbsp;Pi</a></td><td>Prof.&nbsp;Dipl.-Ing.&nbsp;Klaus&nbsp;Knopper</td></tr>
 <tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kockler-puppet2">Puppet&nbsp;II:&nbsp;Strukturierte&nbsp;Puppet-Umgebung</a></td><td>Torsten&nbsp;Kockler</td></tr>
