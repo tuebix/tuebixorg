@@ -88,7 +88,7 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>15:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kuestner_strohmaier-wueste_welle">Open&nbsp;Source&nbsp;Software&nbsp;beim&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle</a></td><td>Andreas&nbsp;Küstner,&nbsp;Friedrich&nbsp;Strohmaier</td></tr>
 <tr><td>15:30</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/klaeren-computermuseum">Das&nbsp;Computermuseum&nbsp;auf&nbsp;dem&nbsp;Sand</a></td><td>Prof.&nbsp;Dr.&nbsp;Herbert&nbsp;Klaeren</td></tr>
 <tr><td>16:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiele-aktuelles">aktuelle&nbsp;Entwicklungen</a></td><td>Joachim&nbsp;Schiele</td></tr>
-<tr><td>17:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/nn">N.N.</a></td><td>N.&nbsp;N.</td></tr>
+<tr><td>17:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/wege-rtfl">Open&nbsp;Source&nbsp;und&nbsp;Urheberrecht&nbsp;-&nbsp;Read&nbsp;The&nbsp;F*cking&nbsp;License</a></td><td>Christian&nbsp;Wege</td></tr>
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum V4</td></tr>

@@ -104,7 +104,7 @@ menu:
 <tr><td>17:00</td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/goetz-bigdata2">Big&nbsp;Data&nbsp;II</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/blechschmidt-wireshark">Wireshark</a></td>
-<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/nn">N.&nbsp;N.</a></td>
+<td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/wege-rtfl">RTFL</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/gantikow-elektroschrott">Elektroschrott</a></td>
 <td>17:00</td></tr>
 

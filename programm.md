@@ -95,7 +95,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td></td><td></td><td>17:00</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/goetz-bigdata2">Big&nbsp;Data&nbsp;Analytics</a></td><td>Thomas&nbsp;Götz</td></tr>
 <tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/blechschmidt-wireshark">Netzwerksniffing&nbsp;mit&nbsp;Wireshark</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
-<tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/nn">N.&nbsp;N.</a></td><td>N.&nbsp;N.</td></tr>
+<tr><td>V3</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/wege-rtfl">Open&nbsp;Source&nbsp;und&nbsp;Urheberrecht&nbsp;-&nbsp;Read&nbsp;The&nbsp;F*cking&nbsp;License</a></td><td>Christian&nbsp;Wege</td></tr>
 <tr><td>V4</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/gantikow-elektroschrott">Phoenix&nbsp;statt&nbsp;Elektroschrott&nbsp;-&nbsp;Neues&nbsp;Leben&nbsp;für&nbsp;"alte"&nbsp;Mobilgeräte</a></td><td>Holger&nbsp;Gantikow</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>18:00</td></tr>
