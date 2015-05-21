@@ -106,4 +106,9 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td></td><td></td><td>Raum LPIC</td></tr>
 <tr><td>10:00</td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Klaus Behrla</td></tr>
 <tr><td>14:00</td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td>Klaus Behrla</td></tr>
+<tr><td>&nbsp;</td></tr>
+
+<tr><td></td><td></td><td>Observatorium</td></tr>
+<tr><td>18:00</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/gottschall-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Ruth&nbsp;Gottschall,&nbsp;Daniel&nbsp;Gottschall</td></tr>
+<tr><td>18:30</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/gottschall-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Ruth&nbsp;Gottschall,&nbsp;Daniel&nbsp;Gottschall</td></tr>
 </table>

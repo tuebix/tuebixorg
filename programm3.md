@@ -112,12 +112,13 @@ menu:
 <td></td></tr>
 
 <tr><td>18:00</td>
-<td colspan="3" rowspan="2"> </td>
+<td colspan="3">Observatorium: <img height = "18" src="../images/talk.svg"> <a href="../programm/gottschall-teleskop">Das&nbsp;80cm-Teleskop</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/koenig-tagesabschluss">Tagesabschluss</a></td>
 <td colspan="3" rowspan="2"> </td>
 <td>18:00</td></tr>
 
 <tr><td>&nbsp;</td>
+<td colspan="3">Observatorium: <img height = "18" src="../images/talk.svg"> <a href="../programm/gottschall-teleskop">Das&nbsp;80cm-Teleskop</a></td>
 <td></td></tr>
 
 

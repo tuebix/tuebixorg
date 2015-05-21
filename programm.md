@@ -100,4 +100,5 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>18:00</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/koenig-tagesabschluss">Haralds&nbsp;Tagesabschluss</a></td><td>Harald&nbsp;König</td></tr>
+<tr><td>Obs.</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/gottschall-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Ruth&nbsp;Gottschall,&nbsp;Daniel&nbsp;Gottschall</td></tr>
 </table>
