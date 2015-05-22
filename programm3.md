@@ -43,7 +43,7 @@ menu:
 
 <tr><td>12:00</td>
 <td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/mundt_nachbauer-jessie_party">Jessie&nbsp;Party</a></td>
-<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/baur_graesing-x2go">X2Go</a></td>
+<td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/graesing-x2go">X2Go</a></td>
 <td rowspan="4"><img height = "18" src="../images/workshop.svg"> <a href="../programm/waelde-emacs">Emacs</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/schiebel-linuxmuster">linuxmuster.net</a></td>
 <td rowspan="2"><img height = "18" src="../images/talk.svg"> <a href="../programm/kockler-puppet1">Puppet&nbsp;I</a></td>

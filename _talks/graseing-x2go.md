@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /programm/baur_graesing-x2go/
+permalink: /programm/graesing-x2go/
 weight: 
 menu:
 ---
@@ -9,7 +9,7 @@ menu:
 
 ### <img height = "32" src="../../images/workshop.svg"> 12:00 bis 14:00 in Raum W2 
 
-### Stefan Baur, Heinz Graesing
+### Heinz Graesing
 
 Der Workshop wird sich wie folgt gliedern:
 

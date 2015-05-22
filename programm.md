@@ -35,7 +35,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>12:00</td></tr>
 <tr><td>W1</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/mundt_nachbauer-jessie_party">Debian&nbsp;GNU/Linux&nbsp;"Jessie"&nbsp;Install&nbsp;Party</a></td><td>Andreas&nbsp;Mundt,&nbsp;Florian&nbsp;Nachbauer</td></tr>
-<tr><td>W2</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/baur_graesing-x2go">X2Go</a></td><td>Stefan Baur, Heinz Graesing</td></tr>
+<tr><td>W2</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/graesing-x2go">X2Go</a></td><td>Heinz Graesing</td></tr>
 <tr><td>W3</td><td><img height = "18" src="../images/workshop.svg"></td><td><a href="../programm/waelde-emacs">Anständiges&nbsp;Werkzeug:&nbsp;emacs</a></td><td>Erich&nbsp;Wälde</td></tr>
 <tr><td>V1</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/schiebel-linuxmuster">Schulnetz&nbsp;-&nbsp;linuxmuster.net</a></td><td>Frank&nbsp;Schiebel</td></tr>
 <tr><td>V2</td><td><img height = "18" src="../images/talk.svg"></td><td><a href="../programm/kockler-puppet1">Puppet&nbsp;I:&nbsp;Zentrale&nbsp;Administration&nbsp;einer&nbsp;Server&nbsp;Infrastruktur</a></td><td>Torsten&nbsp;Kockler</td></tr>
