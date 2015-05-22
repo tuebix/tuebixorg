@@ -2,7 +2,7 @@
 layout: page
 title: Links
 permalink: /links/
-weight: 30
+weight: 50
 menu: main
 ---
 

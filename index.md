@@ -6,9 +6,6 @@ layout: default
 
 ![Tux](./images/tux.png "Tux")
 
-Der Linuxtag dient dem fachlichen Austausch unter Linux-Nutzern.<br/>
-Der Eintritt ist frei. Damit wir besser planen können, bitte <a href="../anmeldung/">anmelden</a>.
-
 Dieser Tag könnte etwas für dich sein, falls du:
 
 * ... Lust auf Austausch mit anderen hast
@@ -17,3 +14,5 @@ Dieser Tag könnte etwas für dich sein, falls du:
 * ... nebenbei ein <a href="../programm/klaeren-computermuseum">Computermuseum</a> besuchen möchtest
 * ... von anderen etwas dazulernen möchtest
 * ... anderen etwas zeigen oder beibringen möchtest
+
+Der Eintritt ist frei. Damit wir besser planen können, bitte <a href="../anmeldung/">anmelden</a>.

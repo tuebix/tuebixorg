@@ -2,7 +2,7 @@
 layout: page
 title: LPIC
 permalink: /lpic/
-weight: 25
+weight: 30
 menu: main
 ---
 

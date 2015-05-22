@@ -2,7 +2,7 @@
 layout: page
 title: Anfahrt
 permalink: /anfahrt/
-weight: 20
+weight: 40
 menu: main
 ---
 
