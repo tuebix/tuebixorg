@@ -5,6 +5,7 @@ permalink: /programm_lightning_talks/
 weight: 
 menu: 
 ---
+<a href="../programm_legende">Legende</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm/">Zeitplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm_raumplan/">Raumplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm_ueberblick">Überblick</a>&nbsp;&nbsp;&nbsp;&nbsp;

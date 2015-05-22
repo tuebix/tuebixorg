@@ -2,9 +2,10 @@
 layout: page
 title: Programm
 permalink: /programm/
-weight: 5
-menu:
+weight: 10
+menu: main
 ---
+<a href="../programm_legende">Legende</a>&nbsp;&nbsp;&nbsp;&nbsp;
 Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm_raumplan/">Raumplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm_ueberblick">Überblick</a>&nbsp;&nbsp;&nbsp;&nbsp;
