@@ -10,7 +10,8 @@ Legende&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm_raumplan/">Raumplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm_zeitplan/">Zeitplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm_ueberblick">Überblick</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="../programm_lightning_talks">Lightning Talks</a>
+<a href="../programm_lightning_talks">Lightning Talks</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="../programm_rahmen">Rahmenprogramm</a>
 
 <br/>
 
