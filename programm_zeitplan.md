@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Programm
-permalink: /programm/
-weight: 10
-menu: main
+permalink: /programm_zeitplan/
+weight:
+menu:
 ---
 <a href="../programm_legende">Legende</a>&nbsp;&nbsp;&nbsp;&nbsp;
-Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm_raumplan/">Raumplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
+Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm_ueberblick">Überblick</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm_lightning_talks">Lightning Talks</a>
 
