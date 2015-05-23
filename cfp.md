@@ -7,6 +7,9 @@ weight:
 menu:
 ---
 
+<span style="font-weight: bold;">WICHTIG: Der Call for Papers ist schon seit dem 30. April vorbei!<br/>
+Wir haben aber noch ein bisschen Platz bei den <a href="../programm_lightning_talks">Lightning Talks</a>.</span>
+
 Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brauchen wir DICH!
 Hast Du Lust dein Wissen und deine Erfahrung zu teilen?
 Gerne kannst Du auch mehrere Themen einreichen und Beitr&auml;ge k&ouml;nnen natürlich auch als Team gehalten werden.
@@ -39,6 +42,9 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
   * bring vielleicht einen "Bonus-Teil" mit, falls nur wenige Fragen kommen sollten
 
 # Du möchtest einen Beitrag beisteuern?
+
+<span style="font-weight: bold;">WICHTIG: Der Call for Papers ist schon seit dem 30. April vorbei!<br/>
+Wir haben aber noch ein bisschen Platz bei den <a href="../programm_lightning_talks">Lightning Talks</a>.</span>
 
 Lade dir die [Anmeldung](../anmeldung.tuebix.txt) herunter, f&uuml;lle sie aus und schicke sie an [{{ page.emailcfp }}](mailto:{{ page.emailcfp }}) (spätestens bis zum 30. April).
 Wir haben viele kleine Räume und können somit einige Workshops anbieten, falls dein Vortrag auch als Workshop möglich wäre, schreib das bitte dazu!
