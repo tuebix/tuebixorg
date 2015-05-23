@@ -103,6 +103,26 @@ a {
 }
 
 
+a.talk {
+    background-image: url("../images/talk.svg");
+    background-repeat: no-repeat;
+    padding-left: 22px;
+    background-size: 18px 18px;
+}
+
+a.work {
+    background-image: url("../images/workshop.svg");
+    background-repeat: no-repeat;
+    padding-left: 22px;
+    background-size: 18px 18px;
+}
+
+a.light {
+    background-image: url("../images/lightning.svg");
+    background-repeat: no-repeat;
+    padding-left: 22px;
+    background-size: 18px 18px;
+}
 
 /**
  * Blockquotes
