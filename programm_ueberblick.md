@@ -5,6 +5,17 @@ permalink: /programm_ueberblick/
 weight: 
 menu: 
 ---
+<style type="text/css">
+table {
+border-collapse:collapse;
+}
+table td{
+border:1px solid #000000;
+padding-left:  8px;
+padding-right: 8px;
+}
+</style>
+
 <a href="../programm_legende">Legende</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm_raumplan/">Raumplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm_zeitplan/">Zeitplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,7 +25,7 @@ menu:
 
 <br />
 
-<table border="1" style="white-space: nowrap">
+<table>
 
 <tr><td></td><td>W1</td><td>W2</td><td>W3</td><td>V1</td><td>V2</td><td>V3</td><td>V4</td><td></td></tr>
 
