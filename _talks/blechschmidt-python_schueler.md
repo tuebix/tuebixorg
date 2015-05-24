@@ -15,5 +15,7 @@ Python ist eine moderne Programmiersprache, mit der man zum Beispiel eigene Spie
 
 ### Vorbereitung
 
+- Bitte per Mail bei Ingo anmelden: <a href="mailto:iblech@web.de">iblech@web.de</a>
+- Teilnahme bereits ab 5. Klasse möglich!
 - Laptop mitbringen!
 - Es ist keine Installation nötig, und wir werden das Laptopsystem auch nicht ändern. Wir werden den Laptop nur verwenden, um auf eine Webseite zu gehen.
