@@ -158,14 +158,16 @@
 <description>description</description>
 <persons>Peter Gietz</persons>
 </event>
-<event id="flebbe-bigdata1">Vortrag von Olaf Flebbe<">
+<event id="goetz-bigdata2">
 <start>17:00</start>
 <duration>00:30</duration>
 <room>V1</room>
 <title>Big Data Analytics</title>
 <type>talk</type>
 <description>description</description>
+</event>
 <event id="gottschall-teleskop">
+</event>
 <event id="graesing-x2go">
 <start>12:00</start>
 <duration>00:30</duration>
@@ -292,7 +294,7 @@
 <description>description</description>
 <persons>Torsten Kockler</persons>
 </event>
-<event id="kockler-puppet1/">"Puppet I: Zentrale Administration einer Server Infrastruktur"<">
+<event id="kockler-puppet2">
 <start>14:00</start>
 <duration>00:30</duration>
 <room>V2</room>
@@ -308,6 +310,7 @@
 <title>Sicher und bequem</title>
 <type>lightning</type>
 <description>description</description>
+</event>
 <event id="koelbel-privacyidea">
 <start>16:00</start>
 <duration>00:30</duration>
@@ -315,6 +318,7 @@
 <title>privacyIDEA - Zwei-Faktor-Authentisierung selber machen</title>
 <type>workshop</type>
 <description>description</description>
+</event>
 <event id="koenig-bash">
 <start>11:00</start>
 <duration>00:30</duration>
@@ -322,6 +326,7 @@
 <title>Haralds kleine Helferlein: die Shell</title>
 <type>talk</type>
 <description>description</description>
+</event>
 <event id="koenig-tagesabschluss">
 <start>18:00</start>
 <duration>00:30</duration>
@@ -329,6 +334,7 @@
 <title>Haralds Tagesabschluss</title>
 <type>talk</type>
 <description>description</description>
+</event>
 <event id="krug-libreoffice">
 <start>10:00</start>
 <duration>00:30</duration>
@@ -345,6 +351,7 @@
 <title>Open Source Software beim Freien Radio Wüste Welle</title>
 <type>talk</type>
 <description>description</description>
+</event>
 <event id="mundt-apt_install">
 <start>15:00</start>
 <duration>00:30</duration>
@@ -361,6 +368,7 @@
 <title>Debian GNU/Linux "Jessie" Install Party</title>
 <type>workshop</type>
 <description>description</description>
+</event>
 <event id="nagel-latex">
 <start>14:00</start>
 <duration>00:30</duration>
@@ -374,7 +382,7 @@
 <start>13:00</start>
 <duration>00:30</duration>
 <room>V4</room>
-<title>Dokumenten-KungFoo mit Pandoc, Markdown & Co.</title>
+<title>Dokumenten-KungFoo mit Pandoc, Markdown und Co.</title>
 <type>talk</type>
 <description>description</description>
 <persons>Kurt Pfeifle </persons>
@@ -383,7 +391,7 @@
 <start>16:00</start>
 <duration>00:30</duration>
 <room>V4</room>
-<title>PDF-KungFoo mit Ghostscript & Co.</title>
+<title>PDF-KungFoo mit Ghostscript und Co.</title>
 <type>talk</type>
 <description>description</description>
 <persons>Kurt Pfeifle </persons>
@@ -440,6 +448,7 @@
 <title>Gentoo-Einführung</title>
 <type>workshop</type>
 <description>description</description>
+</event>
 <event id="schroeder-tex">
 <start>10:00</start>
 <duration>00:30</duration>
@@ -447,6 +456,7 @@
 <title>TeX im 3. Jahrtausend</title>
 <type>talk</type>
 <description>description</description>
+</event>
 <event id="seidel-tcp_stealth">
 <start>13:00</start>
 <duration>00:30</duration>
@@ -463,6 +473,7 @@
 <title>Tor-Router</title>
 <type>lightning</type>
 <description>description</description>
+</event>
 <event id="uebele-bitcoin">
 <start>10:00</start>
 <duration>00:30</duration>
@@ -479,6 +490,7 @@
 <title>Anständiges Werkzeug: emacs</title>
 <type>workshop</type>
 <description>description</description>
+</event>
 <event id="wege-rtfl">
 <start>17:00</start>
 <duration>00:30</duration>
