@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /programm/kemmer-network_steganographic/
+permalink: /programm/kemmer-network_steganography/
 weight: 
 menu:
 ---

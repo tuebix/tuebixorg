@@ -91,10 +91,7 @@ padding-right: 8px;
 
 <tr><td>15:00</td>
 <td rowspan="2"><a class="talk" href="../programm/gantikow-verkehrte_welt">Linux&nbsp;im&nbsp;HPC</a></td>
-
-
-<td rowspan="2"><a class="talk" href="../programm/imme-latex_verein">steganography</a></td>
-
+<td rowspan="2"><a class="talk" href="../programm/kemmer-network_steganography">Network Steganography</a></td>
 <td>            <a class="talk" href="../programm/kuestner_strohmaier-wueste_welle">Wüste&nbsp;Welle</a></td>
 <td rowspan="2"><a class="talk" href="../programm/mundt-apt_install">apt&nbsp;install</a></td>
 <td>15:00</td></tr>

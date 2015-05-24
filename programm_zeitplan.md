@@ -79,7 +79,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>15:00</td></tr>
 <tr><td>V1</td><td><a class="talk"></a></td><td><a href="../programm/gantikow-verkehrte_welt">Verkehrte&nbsp;Welt&nbsp;-&nbsp;Linux&nbsp;im&nbsp;High&nbsp;Performance&nbsp;Computing</a></td><td>Holger&nbsp;Gantikow</td></tr>
-<tr><td>V2</td><td><a class="talk"></a></td><td><a href="../programm/kemmer-network_steganographic">Steganographic&nbsp;Communication&nbsp;using&nbsp;TCP&nbsp;Inter&nbsp;Burst&nbsp;Delays</a></td><td>Florian&nbsp;Kemmer</td></tr>
+<tr><td>V2</td><td><a class="talk"></a></td><td><a href="../programm/kemmer-network_steganography">Steganographic&nbsp;Communication&nbsp;using&nbsp;TCP&nbsp;Inter&nbsp;Burst&nbsp;Delays</a></td><td>Florian&nbsp;Kemmer</td></tr>
 <tr><td>V3</td><td><a class="talk"></a></td><td><a href="../programm/kuestner_strohmaier-wueste_welle">Open&nbsp;Source&nbsp;Software&nbsp;beim&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle</a></td><td>Andreas&nbsp;Küstner,&nbsp;Friedrich&nbsp;Strohmaier</td></tr>
 <tr><td>V3</td><td><a class="talk"></a></td><td>15:30 <a href="../programm/klaeren-computermuseum">Das&nbsp;Computermuseum&nbsp;auf&nbsp;dem&nbsp;Sand</a></td><td>Prof.&nbsp;Dr.&nbsp;Herbert&nbsp;Klaeren</td></tr>
 <tr><td>V4</td><td><a class="talk"></a></td><td><a href="../programm/mundt-apt_install">apt&nbsp;install&nbsp;YOUR-NEIGHBORHOOD</a></td><td>Andreas&nbsp;B.&nbsp;Mundt</td></tr>
