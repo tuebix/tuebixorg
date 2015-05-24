@@ -3,26 +3,13 @@
   <conference>
     <title>TUEBIX 2015</title>
     <city>T&#xFC;bingen</city>
-    <start>2015-06-12</start>
+    <start>2015-06-13</start>
     <end>2015-06-13</end>
-    <days>2</days>
-    <release>1.20150524.1420</release>
+    <days>1</days>
+    <release>1.20150524.2355</release>
     <timeslot_duration>00:30</timeslot_duration>
   </conference>
-  <day date="2015-06-12" index="1">
-    <room name="Ort noch unbekannt, irgendein Restaurant in Tübingen">
-      <event id="auftakt">
-        <start>19:00</start>
-        <duration>5:00</duration>
-        <title>Auftakt</title>
-        <track>Rahmenprogramm</track>
-        <persons>alle TÜBIX-Teilnehmer, die schon am Abend davor starten wollen
-</persons>
-        <abstract>Willkommen in Tübingen! Ankommen, gemeinsam Essen und Austausch. Einstimmung für den folgenden Tag. Laptops mitbringen!</abstract>
-      </event>
-    </room>
-  </day>
-  <day date="2015-06-13" index="2">
+  <day date="2015-06-13" index="1">
   <room name="V1">
 <event id="brauner-lxc">
 <start>10:00</start>
