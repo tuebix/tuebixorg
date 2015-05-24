@@ -161,7 +161,7 @@
 <description>description</description>
 <persons><person id="hofmann">Frank Hofmann</person></persons>
 </event>
-<event id="kemmer-network_steganographic">
+<event id="kemmer-network_steganography">
 <start>15:00</start>
 <duration>01:00</duration>
 <room>V2</room>
@@ -209,6 +209,7 @@
 </event>
 <event id="blechschmidt-sandstorm">
 <start>12:30</start>
+<duration>00:10</duration>
 <room>V3</room>
 <title>Sandstorm, eine einfache Plattform für private Cloud-Server</title>
 <type>lightning</type>
@@ -217,6 +218,7 @@
 </event>
 <event id="franke-ruby">
 <start>13:20</start>
+<duration>00:10</duration>
 <room>V3</room>
 <title>Ruby als Sed- und Awk-Ersatz</title>
 <type>lightning</type>
@@ -225,7 +227,7 @@
 </event>
 <event id="genannt-sshkey_distribution">
 <start>11:00</start>
-<duration>01:00</duration>
+<duration>00:30</duration>
 <room>V3</room>
 <title>SSH Public Key Distribution - the smart way</title>
 <type>talk</type>
@@ -234,6 +236,7 @@
 </event>
 <event id="giesen-seafile">
 <start>13:00</start>
+<duration>00:10</duration>
 <room>V3</room>
 <title>Seafile als Dropbox-Alternative</title>
 <type>lightning</type>
@@ -242,6 +245,7 @@
 </event>
 <event id="helmle-einfache_sprache">
 <start>12:40</start>
+<duration>00:10</duration>
 <room>V3</room>
 <title>Leichte Sprache in der IT oder – wie sag ich’s dem User?</title>
 <type>lightning</type>
@@ -250,7 +254,7 @@
 </event>
 <event id="humm-wikipedia">
 <start>13:30</start>
-<duration>01:00</duration>
+<duration>00:10</duration>
 <room>V3</room>
 <title>Wikipedia visualisieren</title>
 <type>talk</type>
@@ -268,6 +272,7 @@
 </event>
 <event id="koelbel-desktop_auth">
 <start>12:50</start>
+<duration>00:10</duration>
 <room>V3</room>
 <title>Sicher und bequem</title>
 <type>lightning</type>
@@ -285,7 +290,7 @@
 </event>
 <event id="schiebel-oss_schule">
 <start>13:40</start>
-<duration>01:00</duration>
+<duration>00:10</duration>
 <room>V3</room>
 <title>OSS und Linuxclients in der Schule</title>
 <type>talk</type>
@@ -303,6 +308,7 @@
 </event>
 <event id="stadelmeier_wannenmacher-tor_router">
 <start>12:20</start>
+<duration>00:10</duration>
 <room>V3</room>
 <title>Tor-Router</title>
 <type>lightning</type>
@@ -338,6 +344,7 @@
 </event>
 <event id="widmayer-nagerit">
 <start>13:10</start>
+<duration>00:10</duration>
 <room>V3</room>
 <title>Nager IT - Die Faire Computermaus</title>
 <type>lightning</type>
@@ -346,6 +353,7 @@
 </event>
 <event id="willbold-python_kinder_buch">
 <start>12:10</start>
+<duration>00:10</duration>
 <room>V3</room>
 <title>Python-Buch für Kinder</title>
 <type>lightning</type>
