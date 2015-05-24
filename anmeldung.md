@@ -8,6 +8,7 @@ menu: main
 
 TÜBIX kostet keinen Eintritt, dennoch bitten wir Euch darum, Euch anzumelden.
 Dies erleichtert uns die Planung und Kalkulation beim Einkauf von Pizzazutaten, Grillgut und Getränken.
+<br/>Ausnahme: Wer einen Vortrag/Workshop/Lightning Talk macht, braucht sich NICHT anzumelden.
 
 Es reicht eine leere(!) Mail an diese Mailingliste:
 <a href="mailto:anmeldung@tuebix.org">anmeldung@tuebix.org</a>
