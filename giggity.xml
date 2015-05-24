@@ -26,7 +26,7 @@
   <room name="V1">
 <event id="brauner-lxc">
 <start>10:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V1</room>
 <title>Operating-system-level virtualization</title>
 <type>talk</type>
@@ -35,7 +35,7 @@
 </event>
 <event id="flebbe-bigdata1">
 <start>16:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V1</room>
 <title>Big Data in a Nutshell</title>
 <type>talk</type>
@@ -44,7 +44,7 @@
 </event>
 <event id="gantikow-verkehrte_welt">
 <start>15:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V1</room>
 <title>Verkehrte Welt - Linux im High Performance Computing</title>
 <type>talk</type>
@@ -53,7 +53,7 @@
 </event>
 <event id="goetz-bigdata2">
 <start>17:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V1</room>
 <title>Big Data Analytics</title>
 <type>talk</type>
@@ -62,7 +62,7 @@
 </event>
 <event id="knopper-knoppix_raspi">
 <start>14:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V1</room>
 <title>Knoppix auf dem Raspberry Pi</title>
 <type>talk</type>
@@ -71,7 +71,7 @@
 </event>
 <event id="koenig-bash">
 <start>11:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V1</room>
 <title>Haralds kleine Helferlein: die Shell</title>
 <type>talk</type>
@@ -80,7 +80,7 @@
 </event>
 <event id="koenig-tagesabschluss">
 <start>18:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V1</room>
 <title>Haralds Tagesabschluss</title>
 <type>talk</type>
@@ -98,7 +98,7 @@
 </event>
 <event id="schiebel-linuxmuster">
 <start>12:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V1</room>
 <title>Schulnetz - linuxmuster.net</title>
 <type>talk</type>
@@ -127,7 +127,7 @@
 </event>
 <event id="blechschmidt-wireshark">
 <start>17:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V2</room>
 <title>Netzwerksniffing mit Wireshark</title>
 <type>talk</type>
@@ -136,7 +136,7 @@
 </event>
 <event id="gietz-openldap">
 <start>13:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V2</room>
 <title>Einführung in OpenLDAP</title>
 <type>talk</type>
@@ -145,7 +145,7 @@
 </event>
 <event id="guckes-muttgpg1">
 <start>11:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V2</room>
 <title>mutt + gpg - Sichere Email</title>
 <type>talk</type>
@@ -163,7 +163,7 @@
 </event>
 <event id="kemmer-network_steganographic">
 <start>15:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V2</room>
 <title>Steganographic Communication using TCP Inter Burst Delays</title>
 <type>talk</type>
@@ -172,7 +172,7 @@
 </event>
 <event id="kockler-puppet1">
 <start>12:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V2</room>
 <title>Puppet I: Zentrale Administration einer Server Infrastruktur</title>
 <type>talk</type>
@@ -181,7 +181,7 @@
 </event>
 <event id="kockler-puppet2">
 <start>14:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V2</room>
 <title>Puppet II: Strukturierte Puppet-Umgebung</title>
 <type>talk</type>
@@ -190,7 +190,7 @@
 </event>
 <event id="schiele-nixos">
 <start>10:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V2</room>
 <title>Was ist NixOS?</title>
 <type>talk</type>
@@ -201,7 +201,6 @@
 <room name="V3">
 <event id="blechschmidt-haskell">
 <start>12:00</start>
-<duration>00:30</duration>
 <room>V3</room>
 <title>Haskell, eine rein funktionale Programmiersprache</title>
 <type>lightning</type>
@@ -210,7 +209,6 @@
 </event>
 <event id="blechschmidt-sandstorm">
 <start>12:30</start>
-<duration>00:30</duration>
 <room>V3</room>
 <title>Sandstorm, eine einfache Plattform für private Cloud-Server</title>
 <type>lightning</type>
@@ -219,7 +217,6 @@
 </event>
 <event id="franke-ruby">
 <start>13:20</start>
-<duration>00:30</duration>
 <room>V3</room>
 <title>Ruby als Sed- und Awk-Ersatz</title>
 <type>lightning</type>
@@ -228,7 +225,7 @@
 </event>
 <event id="genannt-sshkey_distribution">
 <start>11:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V3</room>
 <title>SSH Public Key Distribution - the smart way</title>
 <type>talk</type>
@@ -237,7 +234,6 @@
 </event>
 <event id="giesen-seafile">
 <start>13:00</start>
-<duration>00:30</duration>
 <room>V3</room>
 <title>Seafile als Dropbox-Alternative</title>
 <type>lightning</type>
@@ -246,7 +242,6 @@
 </event>
 <event id="helmle-einfache_sprache">
 <start>12:40</start>
-<duration>00:30</duration>
 <room>V3</room>
 <title>Leichte Sprache in der IT oder – wie sag ich’s dem User?</title>
 <type>lightning</type>
@@ -255,7 +250,7 @@
 </event>
 <event id="humm-wikipedia">
 <start>13:30</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V3</room>
 <title>Wikipedia visualisieren</title>
 <type>talk</type>
@@ -273,7 +268,6 @@
 </event>
 <event id="koelbel-desktop_auth">
 <start>12:50</start>
-<duration>00:30</duration>
 <room>V3</room>
 <title>Sicher und bequem</title>
 <type>lightning</type>
@@ -282,7 +276,7 @@
 </event>
 <event id="kuestner_strohmaier-wueste_welle">
 <start>15:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V3</room>
 <title>Open Source Software beim Freien Radio Wüste Welle</title>
 <type>talk</type>
@@ -291,7 +285,7 @@
 </event>
 <event id="schiebel-oss_schule">
 <start>13:40</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V3</room>
 <title>OSS und Linuxclients in der Schule</title>
 <type>talk</type>
@@ -300,7 +294,7 @@
 </event>
 <event id="schiele-aktuelles">
 <start>16:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V3</room>
 <title>Aktuelle Entwicklungen</title>
 <type>talk</type>
@@ -309,7 +303,6 @@
 </event>
 <event id="stadelmeier_wannenmacher-tor_router">
 <start>12:20</start>
-<duration>00:30</duration>
 <room>V3</room>
 <title>Tor-Router</title>
 <type>lightning</type>
@@ -327,7 +320,7 @@
 </event>
 <event id="wege-rtfl">
 <start>17:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V3</room>
 <title>Open Source und Urheberrecht - Read The F*cking License</title>
 <type>talk</type>
@@ -345,7 +338,6 @@
 </event>
 <event id="widmayer-nagerit">
 <start>13:10</start>
-<duration>00:30</duration>
 <room>V3</room>
 <title>Nager IT - Die Faire Computermaus</title>
 <type>lightning</type>
@@ -354,7 +346,6 @@
 </event>
 <event id="willbold-python_kinder_buch">
 <start>12:10</start>
-<duration>00:30</duration>
 <room>V3</room>
 <title>Python-Buch für Kinder</title>
 <type>lightning</type>
@@ -365,7 +356,7 @@
 <room name="V4">
 <event id="dinges-blender">
 <start>14:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V4</room>
 <title>Einführung in die 3D Software Blender</title>
 <type>talk</type>
@@ -374,7 +365,7 @@
 </event>
 <event id="engelmann-lyx">
 <start>11:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V4</room>
 <title>Mit LyX Text verarbeiten</title>
 <type>talk</type>
@@ -383,7 +374,7 @@
 </event>
 <event id="gantikow-elektroschrott">
 <start>17:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V4</room>
 <title>Phoenix statt Elektroschrott - Neues Leben für "alte" Mobilgeräte</title>
 <type>talk</type>
@@ -410,7 +401,7 @@
 </event>
 <event id="mundt-apt_install">
 <start>15:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V4</room>
 <title>apt install YOUR-NEIGHBORHOOD</title>
 <type>talk</type>
@@ -419,7 +410,7 @@
 </event>
 <event id="pfeifle-pandoc">
 <start>13:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V4</room>
 <title>Dokumenten-KungFoo mit Pandoc, Markdown und Co.</title>
 <type>talk</type>
@@ -428,7 +419,7 @@
 </event>
 <event id="pfeifle-pdfkungfoo">
 <start>16:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V4</room>
 <title>PDF-KungFoo mit Ghostscript und Co.</title>
 <type>talk</type>
@@ -437,7 +428,7 @@
 </event>
 <event id="schroeder-tex">
 <start>10:00</start>
-<duration>00:30</duration>
+<duration>01:00</duration>
 <room>V4</room>
 <title>TeX im 3. Jahrtausend</title>
 <type>talk</type>
@@ -448,7 +439,7 @@
 <room name="W1">
 <event id="guckes-muttgpg2">
 <start>14:00</start>
-<duration>00:30</duration>
+<duration>02:00</duration>
 <room>W1</room>
 <title>mutt + gpg - Sichere Email</title>
 <type>workshop</type>
@@ -457,7 +448,7 @@
 </event>
 <event id="hrenka-python">
 <start>16:00</start>
-<duration>00:30</duration>
+<duration>02:00</duration>
 <room>W1</room>
 <title>Einführung in SciPy und SymPy mit IPython</title>
 <type>workshop</type>
@@ -466,7 +457,7 @@
 </event>
 <event id="mundt_nachbauer-jessie_party">
 <start>12:00</start>
-<duration>00:30</duration>
+<duration>02:00</duration>
 <room>W1</room>
 <title>Debian GNU/Linux "Jessie" Install Party</title>
 <type>workshop</type>
@@ -475,7 +466,7 @@
 </event>
 <event id="schmidt_stockmayer-gentoo">
 <start>10:00</start>
-<duration>00:30</duration>
+<duration>02:00</duration>
 <room>W1</room>
 <title>Gentoo-Einführung</title>
 <type>workshop</type>
@@ -486,7 +477,7 @@
 <room name="W2">
 <event id="graesing-x2go">
 <start>12:00</start>
-<duration>00:30</duration>
+<duration>02:00</duration>
 <room>W2</room>
 <title>X2Go</title>
 <type>workshop</type>
@@ -495,7 +486,7 @@
 </event>
 <event id="koelbel-privacyidea">
 <start>16:00</start>
-<duration>00:30</duration>
+<duration>02:00</duration>
 <room>W2</room>
 <title>privacyIDEA - Zwei-Faktor-Authentisierung selber machen</title>
 <type>workshop</type>
@@ -504,7 +495,7 @@
 </event>
 <event id="krug-libreoffice">
 <start>10:00</start>
-<duration>00:30</duration>
+<duration>02:00</duration>
 <room>W2</room>
 <title>LibreOffice Overkill</title>
 <type>workshop</type>
@@ -513,7 +504,7 @@
 </event>
 <event id="nagel-latex">
 <start>14:00</start>
-<duration>00:30</duration>
+<duration>02:00</duration>
 <room>W2</room>
 <title>Einführung in Latex</title>
 <type>workshop</type>
@@ -524,7 +515,7 @@
 <room name="W3">
 <event id="blechschmidt-python_schueler">
 <start>14:00</start>
-<duration>00:30</duration>
+<duration>02:00</duration>
 <room>W3</room>
 <title>Python-Programmierung für Schülerinnen und Schüler</title>
 <type>workshop</type>
@@ -533,7 +524,7 @@
 </event>
 <event id="knopper-openscad">
 <start>16:00</start>
-<duration>00:30</duration>
+<duration>02:00</duration>
 <room>W3</room>
 <title>3D-Modelle erstellen mit OpenSCAD</title>
 <type>workshop</type>
@@ -542,7 +533,7 @@
 </event>
 <event id="waelde-emacs">
 <start>12:00</start>
-<duration>00:30</duration>
+<duration>02:00</duration>
 <room>W3</room>
 <title>Anständiges Werkzeug: emacs</title>
 <type>workshop</type>
@@ -551,7 +542,7 @@
 </event>
 <event id="zimmer-vim">
 <start>10:00</start>
-<duration>00:30</duration>
+<duration>02:00</duration>
 <room>W3</room>
 <title>Vim für Nicht-Mehr-Beginner und Noch-Nicht-Fortgeschrittene</title>
 <type>workshop</type>
