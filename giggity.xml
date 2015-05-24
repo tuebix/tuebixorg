@@ -23,51 +23,7 @@
     </room>
   </day>
   <day date="2015-06-13" index="2">
-<event id="behrla-lpic">
-<start>16:00</start>
-<duration>00:30</duration>
-<room>V2</room>
-<title>Karrierechancen mit Open Source-Know-how und LPI-Zertifikat</title>
-<type>talk</type>
-<description>description</description>
-<persons>Klaus Behrla</persons>
-</event>
-<event id="blechschmidt-haskell">
-<start>12:00</start>
-<duration>00:30</duration>
-<room>V3</room>
-<title>Haskell, eine rein funktionale Programmiersprache</title>
-<type>lightning</type>
-<description>description</description>
-<persons>Ingo Blechschmidt</persons>
-</event>
-<event id="blechschmidt-python_schueler">
-<start>14:00</start>
-<duration>00:30</duration>
-<room>W3</room>
-<title>Python-Programmierung für Schülerinnen und Schüler</title>
-<type>workshop</type>
-<description>description</description>
-<persons>Ingo Blechschmidt</persons>
-</event>
-<event id="blechschmidt-sandstorm">
-<start>12:30</start>
-<duration>00:30</duration>
-<room>V3</room>
-<title>Sandstorm, eine einfache Plattform für private Cloud-Server</title>
-<type>lightning</type>
-<description>description</description>
-<persons>Ingo Blechschmidt</persons>
-</event>
-<event id="blechschmidt-wireshark">
-<start>17:00</start>
-<duration>00:30</duration>
-<room>V2</room>
-<title>Netzwerksniffing mit Wireshark</title>
-<type>talk</type>
-<description>description</description>
-<persons>Ingo Blechschmidt</persons>
-</event>
+  <room name="V1">
 <event id="brauner-lxc">
 <start>10:00</start>
 <duration>00:30</duration>
@@ -75,25 +31,7 @@
 <title>Operating-system-level virtualization</title>
 <type>talk</type>
 <description>description</description>
-<persons>Christian Brauner</persons>
-</event>
-<event id="dinges-blender">
-<start>14:00</start>
-<duration>00:30</duration>
-<room>V4</room>
-<title>Einführung in die 3D Software Blender</title>
-<type>talk</type>
-<description>description</description>
-<persons>Thomas Dinges</persons>
-</event>
-<event id="engelmann-lyx">
-<start>11:00</start>
-<duration>00:30</duration>
-<room>V4</room>
-<title>Mit LyX Text verarbeiten</title>
-<type>talk</type>
-<description>description</description>
-<persons>Wolfgang Engelmann</persons>
+<persons><person id="brauner">Christian Brauner</person></persons>
 </event>
 <event id="flebbe-bigdata1">
 <start>16:00</start>
@@ -102,25 +40,7 @@
 <title>Big Data in a Nutshell</title>
 <type>talk</type>
 <description>description</description>
-<persons>Olaf Flebbe</persons>
-</event>
-<event id="franke-ruby">
-<start>13:20</start>
-<duration>00:30</duration>
-<room>V3</room>
-<title>Ruby als Sed- und Awk-Ersatz</title>
-<type>lightning</type>
-<description>description</description>
-<persons>Knut Franke</persons>
-</event>
-<event id="gantikow-elektroschrott">
-<start>17:00</start>
-<duration>00:30</duration>
-<room>V4</room>
-<title>Phoenix statt Elektroschrott - Neues Leben für "alte" Mobilgeräte</title>
-<type>talk</type>
-<description>description</description>
-<persons>Holger Gantikow</persons>
+<persons><person id="flebbe">Olaf Flebbe</person></persons>
 </event>
 <event id="gantikow-verkehrte_welt">
 <start>15:00</start>
@@ -129,143 +49,16 @@
 <title>Verkehrte Welt - Linux im High Performance Computing</title>
 <type>talk</type>
 <description>description</description>
-<persons>Holger Gantikow</persons>
+<persons><person id="gantikow">Holger Gantikow</person></persons>
 </event>
-<event id="genannt-sshkey_distribution">
-<start>11:00</start>
-<duration>00:30</duration>
-<room>V3</room>
-<title>SSH Public Key Distribution - the smart way</title>
-<type>talk</type>
-<description>description</description>
-<persons>Jonas Genannt</persons>
-</event>
-<event id="giesen-seafile">
-<start>13:00</start>
-<duration>00:30</duration>
-<room>V3</room>
-<title>Seafile als Dropbox-Alternative</title>
-<type>lightning</type>
-<description>description</description>
-<persons>Gregor Giesen</persons>
-</event>
-<event id="gietz-openldap">
-<start>13:00</start>
-<duration>00:30</duration>
-<room>V2</room>
-<title>Einführung in OpenLDAP</title>
-<type>talk</type>
-<description>description</description>
-<persons>Peter Gietz</persons>
-</event>
-<event id="goetz-bigdata2">
+<event id="flebbe-bigdata1">Vortrag von Olaf Flebbe<">
 <start>17:00</start>
 <duration>00:30</duration>
 <room>V1</room>
 <title>Big Data Analytics</title>
 <type>talk</type>
 <description>description</description>
-</event>
-<event id="gottschall-teleskop">
-</event>
-<event id="graesing-x2go">
-<start>12:00</start>
-<duration>00:30</duration>
-<room>W2 </room>
-<title>X2Go</title>
-<type>workshop</type>
-<description>description</description>
-<persons>Heinz Graesing</persons>
-</event>
-<event id="guckes-muttgpg1">
-<start>11:00</start>
-<duration>00:30</duration>
-<room>V2</room>
-<title>mutt + gpg - Sichere Email</title>
-<type>talk</type>
-<description>description</description>
-<persons>Sven Guckes</persons>
-</event>
-<event id="guckes-muttgpg2">
-<start>14:00</start>
-<duration>00:30</duration>
-<room>W1</room>
-<title>mutt + gpg - Sichere Email</title>
-<type>workshop</type>
-<description>description</description>
-<persons>Sven Guckes</persons>
-</event>
-<event id="helmle-einfache_sprache">
-<start>12:40</start>
-<duration>00:30</duration>
-<room>V3</room>
-<title>Leichte Sprache in der IT oder – wie sag ich’s dem User?</title>
-<type>lightning</type>
-<description>description</description>
-<persons>Krishna-Sara Helmle</persons>
-</event>
-<event id="hofmann-lug_berlin">
-<start>12:30</start>
-<duration>00:30</duration>
-<room>V4</room>
-<title>Unter einem Dach: lug.berlin</title>
-<type>talk</type>
-<description>description</description>
-<persons>Frank Hofmann</persons>
-</event>
-<event id="hofmann-surfen">
-<start>16:30</start>
-<duration>00:30</duration>
-<room>V2</room>
-<title>Schneller und sicherer Surfen im Internet</title>
-<type>talk</type>
-<description>description</description>
-<persons>Frank Hofmann</persons>
-</event>
-<event id="hrenka-python">
-<start>16:00</start>
-<duration>00:30</duration>
-<room>W1</room>
-<title>Einführung in SciPy und SymPy mit IPython</title>
-<type>workshop</type>
-<description>description</description>
-<persons>Peter Hrenka</persons>
-</event>
-<event id="humm-wikipedia">
-<start>13:30</start>
-<duration>00:30</duration>
-<room>V3</room>
-<title>Wikipedia visualisieren</title>
-<type>talk</type>
-<description>description</description>
-<persons>Justin Humm</persons>
-</event>
-<event id="imme-latex_verein">
-<start>12:00</start>
-<duration>00:30</duration>
-<room>V4</room>
-<title>LaTeX für den Verein</title>
-<type>talk</type>
-<description>description</description>
-<persons>Roland Imme</persons>
-</event>
-<event id="kemmer-network_steganographic">
-<start>15:00</start>
-<duration>00:30</duration>
-<room>V2</room>
-<title>Steganographic Communication using TCP Inter Burst Delays</title>
-<type>talk</type>
-<description>description</description>
-<persons>Florian Kemmer</persons>
-</event>
-<event id="klaeren-computermuseum">
-<start>15:30</start>
-<duration>00:30</duration>
-<room>V3</room>
-<title>Das Computermuseum auf dem Sand</title>
-<type>talk</type>
-<description>description</description>
-<persons>Prof. Dr. Herbert Klaeren</persons>
+<persons><person id="flebbe">Thomas Götz</person></persons>
 </event>
 <event id="knopper-knoppix_raspi">
 <start>14:00</start>
@@ -274,50 +67,7 @@
 <title>Knoppix auf dem Raspberry Pi</title>
 <type>talk</type>
 <description>description</description>
-<persons>Prof. Dipl.-Ing. Klaus Knopper</persons>
-</event>
-<event id="knopper-openscad">
-<start>16:00</start>
-<duration>00:30</duration>
-<room>W3</room>
-<title>3D-Modelle erstellen mit OpenSCAD</title>
-<type>workshop</type>
-<description>description</description>
-<persons>Prof. Dipl.-Ing. Klaus Knopper</persons>
-</event>
-<event id="kockler-puppet1">
-<start>12:00</start>
-<duration>00:30</duration>
-<room>V2</room>
-<title>Puppet I: Zentrale Administration einer Server Infrastruktur</title>
-<type>talk</type>
-<description>description</description>
-<persons>Torsten Kockler</persons>
-</event>
-<event id="kockler-puppet2">
-<start>14:00</start>
-<duration>00:30</duration>
-<room>V2</room>
-<title>Puppet II: Strukturierte Puppet-Umgebung</title>
-<type>talk</type>
-<description>description</description>
-<persons>Torsten Kockler</persons>
-</event>
-<event id="koelbel-desktop_auth">
-<start>12:50</start>
-<duration>00:30</duration>
-<room>V3</room>
-<title>Sicher und bequem</title>
-<type>lightning</type>
-<description>description</description>
-</event>
-<event id="koelbel-privacyidea">
-<start>16:00</start>
-<duration>00:30</duration>
-<room>W2</room>
-<title>privacyIDEA - Zwei-Faktor-Authentisierung selber machen</title>
-<type>workshop</type>
-<description>description</description>
+<persons><person id="knopper">Prof. Dipl.-Ing. Klaus Knopper</person></persons>
 </event>
 <event id="koenig-bash">
 <start>11:00</start>
@@ -326,6 +76,7 @@
 <title>Haralds kleine Helferlein: die Shell</title>
 <type>talk</type>
 <description>description</description>
+<persons><person id="koenig">Harald König</person></persons>
 </event>
 <event id="koenig-tagesabschluss">
 <start>18:00</start>
@@ -334,67 +85,7 @@
 <title>Haralds Tagesabschluss</title>
 <type>talk</type>
 <description>description</description>
-</event>
-<event id="krug-libreoffice">
-<start>10:00</start>
-<duration>00:30</duration>
-<room>W2</room>
-<title>LibreOffice Overkill</title>
-<type>workshop</type>
-<description>description</description>
-<persons>Stefan Krug</persons>
-</event>
-<event id="kuestner_strohmaier-wueste_welle">
-<start>15:00</start>
-<duration>00:30</duration>
-<room>V3</room>
-<title>Open Source Software beim Freien Radio Wüste Welle</title>
-<type>talk</type>
-<description>description</description>
-</event>
-<event id="mundt-apt_install">
-<start>15:00</start>
-<duration>00:30</duration>
-<room>V4</room>
-<title>apt install YOUR-NEIGHBORHOOD</title>
-<type>talk</type>
-<description>description</description>
-<persons>Andreas B. Mundt</persons>
-</event>
-<event id="mundt_nachbauer-jessie_party">
-<start>12:00</start>
-<duration>00:30</duration>
-<room>W1</room>
-<title>Debian GNU/Linux "Jessie" Install Party</title>
-<type>workshop</type>
-<description>description</description>
-</event>
-<event id="nagel-latex">
-<start>14:00</start>
-<duration>00:30</duration>
-<room>W2</room>
-<title>Einführung in Latex</title>
-<type>workshop</type>
-<description>description</description>
-<persons>Thorsten Nagel</persons>
-</event>
-<event id="pfeifle-pandoc">
-<start>13:00</start>
-<duration>00:30</duration>
-<room>V4</room>
-<title>Dokumenten-KungFoo mit Pandoc, Markdown und Co.</title>
-<type>talk</type>
-<description>description</description>
-<persons>Kurt Pfeifle </persons>
-</event>
-<event id="pfeifle-pdfkungfoo">
-<start>16:00</start>
-<duration>00:30</duration>
-<room>V4</room>
-<title>PDF-KungFoo mit Ghostscript und Co.</title>
-<type>talk</type>
-<description>description</description>
-<persons>Kurt Pfeifle </persons>
+<persons><person id="koenig">Harald König</person></persons>
 </event>
 <event id="reber-mirrorserver">
 <start>13:30</start>
@@ -403,7 +94,7 @@
 <title>Mirror Server Verwaltung</title>
 <type>talk</type>
 <description>description</description>
-<persons>Adrian Reber</persons>
+<persons><person id="reber">Adrian Reber</person></persons>
 </event>
 <event id="schiebel-linuxmuster">
 <start>12:00</start>
@@ -412,50 +103,7 @@
 <title>Schulnetz - linuxmuster.net</title>
 <type>talk</type>
 <description>description</description>
-<persons>Frank Schiebel</persons>
-</event>
-<event id="schiebel-oss_schule">
-<start>13:40</start>
-<duration>00:30</duration>
-<room>V3</room>
-<title>OSS und Linuxclients in der Schule</title>
-<type>talk</type>
-<description>description</description>
-<persons>Frank Schiebel</persons>
-</event>
-<event id="schiele-aktuelles">
-<start>16:00</start>
-<duration>00:30</duration>
-<room>V3</room>
-<title>Aktuelle Entwicklungen</title>
-<type>talk</type>
-<description>description</description>
-<persons>Joachim Schiele</persons>
-</event>
-<event id="schiele-nixos">
-<start>10:00</start>
-<duration>00:30</duration>
-<room>V2</room>
-<title>Was ist NixOS?</title>
-<type>talk</type>
-<description>description</description>
-<persons>Joachim Schiele</persons>
-</event>
-<event id="schmidt_stockmayer-gentoo">
-<start>10:00</start>
-<duration>00:30</duration>
-<room>W1</room>
-<title>Gentoo-Einführung</title>
-<type>workshop</type>
-<description>description</description>
-</event>
-<event id="schroeder-tex">
-<start>10:00</start>
-<duration>00:30</duration>
-<room>V4</room>
-<title>TeX im 3. Jahrtausend</title>
-<type>talk</type>
-<description>description</description>
+<persons><person id="schiebel">Frank Schiebel</person></persons>
 </event>
 <event id="seidel-tcp_stealth">
 <start>13:00</start>
@@ -464,7 +112,200 @@
 <title>TCP Stealth - Port Knocking neu aufgelegt</title>
 <type>talk</type>
 <description>description</description>
-<persons>Dr. Udo Seidel</persons>
+<persons><person id="seidel">Dr. Udo Seidel</person></persons>
+</event>
+</room>
+<room name="V2">
+<event id="behrla-lpic">
+<start>16:00</start>
+<duration>00:30</duration>
+<room>V2</room>
+<title>Karrierechancen mit Open Source-Know-how und LPI-Zertifikat</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="behrla">Klaus Behrla</person></persons>
+</event>
+<event id="blechschmidt-wireshark">
+<start>17:00</start>
+<duration>00:30</duration>
+<room>V2</room>
+<title>Netzwerksniffing mit Wireshark</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="blechschmidt">Ingo Blechschmidt</person></persons>
+</event>
+<event id="gietz-openldap">
+<start>13:00</start>
+<duration>00:30</duration>
+<room>V2</room>
+<title>Einführung in OpenLDAP</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="gietz">Peter Gietz</person></persons>
+</event>
+<event id="guckes-muttgpg1">
+<start>11:00</start>
+<duration>00:30</duration>
+<room>V2</room>
+<title>mutt + gpg - Sichere Email</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="guckes">Sven Guckes</person></persons>
+</event>
+<event id="hofmann-surfen">
+<start>16:30</start>
+<duration>00:30</duration>
+<room>V2</room>
+<title>Schneller und sicherer Surfen im Internet</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="hofmann">Frank Hofmann</person></persons>
+</event>
+<event id="kemmer-network_steganographic">
+<start>15:00</start>
+<duration>00:30</duration>
+<room>V2</room>
+<title>Steganographic Communication using TCP Inter Burst Delays</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="kemmer">Florian Kemmer</person></persons>
+</event>
+<event id="kockler-puppet1">
+<start>12:00</start>
+<duration>00:30</duration>
+<room>V2</room>
+<title>Puppet I: Zentrale Administration einer Server Infrastruktur</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="kockler">Torsten Kockler</person></persons>
+</event>
+<event id="kockler-puppet1/">"Puppet I: Zentrale Administration einer Server Infrastruktur"<">
+<start>14:00</start>
+<duration>00:30</duration>
+<room>V2</room>
+<title>Puppet II: Strukturierte Puppet-Umgebung</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="kockler">Torsten Kockler</person></persons>
+</event>
+<event id="schiele-nixos">
+<start>10:00</start>
+<duration>00:30</duration>
+<room>V2</room>
+<title>Was ist NixOS?</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="schiele">Joachim Schiele</person></persons>
+</event>
+</room>
+<room name="V3">
+<event id="blechschmidt-haskell">
+<start>12:00</start>
+<duration>00:30</duration>
+<room>V3</room>
+<title>Haskell, eine rein funktionale Programmiersprache</title>
+<type>lightning</type>
+<description>description</description>
+<persons><person id="blechschmidt">Ingo Blechschmidt</person></persons>
+</event>
+<event id="blechschmidt-sandstorm">
+<start>12:30</start>
+<duration>00:30</duration>
+<room>V3</room>
+<title>Sandstorm, eine einfache Plattform für private Cloud-Server</title>
+<type>lightning</type>
+<description>description</description>
+<persons><person id="blechschmidt">Ingo Blechschmidt</person></persons>
+</event>
+<event id="franke-ruby">
+<start>13:20</start>
+<duration>00:30</duration>
+<room>V3</room>
+<title>Ruby als Sed- und Awk-Ersatz</title>
+<type>lightning</type>
+<description>description</description>
+<persons><person id="franke">Knut Franke</person></persons>
+</event>
+<event id="genannt-sshkey_distribution">
+<start>11:00</start>
+<duration>00:30</duration>
+<room>V3</room>
+<title>SSH Public Key Distribution - the smart way</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="genannt">Jonas Genannt</person></persons>
+</event>
+<event id="giesen-seafile">
+<start>13:00</start>
+<duration>00:30</duration>
+<room>V3</room>
+<title>Seafile als Dropbox-Alternative</title>
+<type>lightning</type>
+<description>description</description>
+<persons><person id="giesen">Gregor Giesen</person></persons>
+</event>
+<event id="helmle-einfache_sprache">
+<start>12:40</start>
+<duration>00:30</duration>
+<room>V3</room>
+<title>Leichte Sprache in der IT oder – wie sag ich’s dem User?</title>
+<type>lightning</type>
+<description>description</description>
+<persons><person id="helmle">Krishna-Sara Helmle</person></persons>
+</event>
+<event id="humm-wikipedia">
+<start>13:30</start>
+<duration>00:30</duration>
+<room>V3</room>
+<title>Wikipedia visualisieren</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="humm">Justin Humm</person></persons>
+</event>
+<event id="klaeren-computermuseum">
+<start>15:30</start>
+<duration>00:30</duration>
+<room>V3</room>
+<title>Das Computermuseum auf dem Sand</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="klaeren">Prof. Dr. Herbert Klaeren</person></persons>
+</event>
+<event id="koelbel-desktop_auth">
+<start>12:50</start>
+<duration>00:30</duration>
+<room>V3</room>
+<title>Sicher und bequem</title>
+<type>lightning</type>
+<description>description</description>
+<persons><person id="koelbel">Cornelius Kölbel</person></persons>
+</event>
+<event id="kuestner_strohmaier-wueste_welle">
+<start>15:00</start>
+<duration>00:30</duration>
+<room>V3</room>
+<title>Open Source Software beim Freien Radio Wüste Welle</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="kuestner_strohmaier">xxx</person></persons>
+</event>
+<event id="schiebel-oss_schule">
+<start>13:40</start>
+<duration>00:30</duration>
+<room>V3</room>
+<title>OSS und Linuxclients in der Schule</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="schiebel">Frank Schiebel</person></persons>
+</event>
+<event id="schiele-aktuelles">
+<start>16:00</start>
+<duration>00:30</duration>
+<room>V3</room>
+<title>Aktuelle Entwicklungen</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="schiele">Joachim Schiele</person></persons>
 </event>
 <event id="stadelmeier_wannenmacher-tor_router">
 <start>12:20</start>
@@ -473,6 +314,7 @@
 <title>Tor-Router</title>
 <type>lightning</type>
 <description>description</description>
+<persons><person id="stadelmeier_wannenmacher">xxx</person></persons>
 </event>
 <event id="uebele-bitcoin">
 <start>10:00</start>
@@ -481,15 +323,7 @@
 <title>Bitcoin - Eine dezentrale Währung</title>
 <type>talk</type>
 <description>description</description>
-<persons>Peter Uebele</persons>
-</event>
-<event id="waelde-emacs">
-<start>12:00</start>
-<duration>00:30</duration>
-<room>W3</room>
-<title>Anständiges Werkzeug: emacs</title>
-<type>workshop</type>
-<description>description</description>
+<persons><person id="uebele">Peter Uebele</person></persons>
 </event>
 <event id="wege-rtfl">
 <start>17:00</start>
@@ -498,7 +332,7 @@
 <title>Open Source und Urheberrecht - Read The F*cking License</title>
 <type>talk</type>
 <description>description</description>
-<persons>Christian Wege</persons>
+<persons><person id="wege">Christian Wege</person></persons>
 </event>
 <event id="weissensel-fish">
 <start>10:30</start>
@@ -507,7 +341,7 @@
 <title>fish - Die "friendly interactive shell"</title>
 <type>talk</type>
 <description>description</description>
-<persons>Jonas Weissensel</persons>
+<persons><person id="weissensel">Jonas Weissensel</person></persons>
 </event>
 <event id="widmayer-nagerit">
 <start>13:10</start>
@@ -516,7 +350,7 @@
 <title>Nager IT - Die Faire Computermaus</title>
 <type>lightning</type>
 <description>description</description>
-<persons>Karin Widmayer</persons>
+<persons><person id="widmayer">Karin Widmayer</person></persons>
 </event>
 <event id="willbold-python_kinder_buch">
 <start>12:10</start>
@@ -525,7 +359,195 @@
 <title>Python-Buch für Kinder</title>
 <type>lightning</type>
 <description>description</description>
-<persons>Carina Willbold</persons>
+<persons><person id="willbold">Carina Willbold</person></persons>
+</event>
+</room>
+<room name="V4">
+<event id="dinges-blender">
+<start>14:00</start>
+<duration>00:30</duration>
+<room>V4</room>
+<title>Einführung in die 3D Software Blender</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="dinges">Thomas Dinges</person></persons>
+</event>
+<event id="engelmann-lyx">
+<start>11:00</start>
+<duration>00:30</duration>
+<room>V4</room>
+<title>Mit LyX Text verarbeiten</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="engelmann">Wolfgang Engelmann</person></persons>
+</event>
+<event id="gantikow-elektroschrott">
+<start>17:00</start>
+<duration>00:30</duration>
+<room>V4</room>
+<title>Phoenix statt Elektroschrott - Neues Leben für "alte" Mobilgeräte</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="gantikow">Holger Gantikow</person></persons>
+</event>
+<event id="hofmann-lug_berlin">
+<start>12:30</start>
+<duration>00:30</duration>
+<room>V4</room>
+<title>Unter einem Dach: lug.berlin</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="hofmann">Frank Hofmann</person></persons>
+</event>
+<event id="imme-latex_verein">
+<start>12:00</start>
+<duration>00:30</duration>
+<room>V4</room>
+<title>LaTeX für den Verein</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="imme">Roland Imme</person></persons>
+</event>
+<event id="mundt-apt_install">
+<start>15:00</start>
+<duration>00:30</duration>
+<room>V4</room>
+<title>apt install YOUR-NEIGHBORHOOD</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="mundt">Andreas B. Mundt</person></persons>
+</event>
+<event id="pfeifle-pandoc">
+<start>13:00</start>
+<duration>00:30</duration>
+<room>V4</room>
+<title>Dokumenten-KungFoo mit Pandoc, Markdown & Co.</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="pfeifle">Kurt Pfeifle </person></persons>
+</event>
+<event id="pfeifle-pdfkungfoo">
+<start>16:00</start>
+<duration>00:30</duration>
+<room>V4</room>
+<title>PDF-KungFoo mit Ghostscript & Co.</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="pfeifle">Kurt Pfeifle </person></persons>
+</event>
+<event id="schroeder-tex">
+<start>10:00</start>
+<duration>00:30</duration>
+<room>V4</room>
+<title>TeX im 3. Jahrtausend</title>
+<type>talk</type>
+<description>description</description>
+<persons><person id="schroeder">Martin Schröder</person></persons>
+</event>
+</room>
+<room name="W1">
+<event id="guckes-muttgpg2">
+<start>14:00</start>
+<duration>00:30</duration>
+<room>W1</room>
+<title>mutt + gpg - Sichere Email</title>
+<type>workshop</type>
+<description>description</description>
+<persons><person id="guckes">Sven Guckes</person></persons>
+</event>
+<event id="hrenka-python">
+<start>16:00</start>
+<duration>00:30</duration>
+<room>W1</room>
+<title>Einführung in SciPy und SymPy mit IPython</title>
+<type>workshop</type>
+<description>description</description>
+<persons><person id="hrenka">Peter Hrenka</person></persons>
+</event>
+<event id="mundt_nachbauer-jessie_party">
+<start>12:00</start>
+<duration>00:30</duration>
+<room>W1</room>
+<title>Debian GNU/Linux "Jessie" Install Party</title>
+<type>workshop</type>
+<description>description</description>
+<persons><person id="mundt_nachbauer">xxx</person></persons>
+</event>
+<event id="schmidt_stockmayer-gentoo">
+<start>10:00</start>
+<duration>00:30</duration>
+<room>W1</room>
+<title>Gentoo-Einführung</title>
+<type>workshop</type>
+<description>description</description>
+<persons><person id="schmidt_stockmayer">xxx</person></persons>
+</event>
+</room>
+<room name="W2">
+<event id="graesing-x2go">
+<start>12:00</start>
+<duration>00:30</duration>
+<room>W2</room>
+<title>X2Go</title>
+<type>workshop</type>
+<description>description</description>
+<persons><person id="graesing">Heinz Graesing</person></persons>
+</event>
+<event id="koelbel-privacyidea">
+<start>16:00</start>
+<duration>00:30</duration>
+<room>W2</room>
+<title>privacyIDEA - Zwei-Faktor-Authentisierung selber machen</title>
+<type>workshop</type>
+<description>description</description>
+<persons><person id="koelbel">Cornelius Kölbel</person></persons>
+</event>
+<event id="krug-libreoffice">
+<start>10:00</start>
+<duration>00:30</duration>
+<room>W2</room>
+<title>LibreOffice Overkill</title>
+<type>workshop</type>
+<description>description</description>
+<persons><person id="krug">Stefan Krug</person></persons>
+</event>
+<event id="nagel-latex">
+<start>14:00</start>
+<duration>00:30</duration>
+<room>W2</room>
+<title>Einführung in Latex</title>
+<type>workshop</type>
+<description>description</description>
+<persons><person id="nagel">Thorsten Nagel</person></persons>
+</event>
+</room>
+<room name="W3">
+<event id="blechschmidt-python_schueler">
+<start>14:00</start>
+<duration>00:30</duration>
+<room>W3</room>
+<title>Python-Programmierung für Schülerinnen und Schüler</title>
+<type>workshop</type>
+<description>description</description>
+<persons><person id="blechschmidt">Ingo Blechschmidt</person></persons>
+</event>
+<event id="knopper-openscad">
+<start>16:00</start>
+<duration>00:30</duration>
+<room>W3</room>
+<title>3D-Modelle erstellen mit OpenSCAD</title>
+<type>workshop</type>
+<description>description</description>
+<persons><person id="knopper">Prof. Dipl.-Ing. Klaus Knopper</person></persons>
+</event>
+<event id="waelde-emacs">
+<start>12:00</start>
+<duration>00:30</duration>
+<room>W3</room>
+<title>Anständiges Werkzeug: emacs</title>
+<type>workshop</type>
+<description>description</description>
+<persons><person id="waelde">Erich Wälde</person></persons>
 </event>
 <event id="zimmer-vim">
 <start>10:00</start>
@@ -534,7 +556,8 @@
 <title>Vim für Nicht-Mehr-Beginner und Noch-Nicht-Fortgeschrittene</title>
 <type>workshop</type>
 <description>description</description>
-<persons>Toni Zimmer</persons>
+<persons><person id="zimmer">Toni Zimmer</person></persons>
 </event>
-</day>
+﻿</room>
+  </day>
 </schedule>
