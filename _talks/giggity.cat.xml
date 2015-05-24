@@ -1,0 +1,3 @@
+#!/bin/sh
+
+cat giggity.header v1 giggity.v2h v2 giggity.v3h v3 giggity.v4h v4 giggity.w1h w1 giggity.w2h w2 giggity.w3h w3 giggity.footer > giggity.xml
