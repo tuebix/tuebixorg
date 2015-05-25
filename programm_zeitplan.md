@@ -24,7 +24,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>V3</td><td><a class="talk"></a></td><td><a href="../programm/uebele-bitcoin">Bitcoin&nbsp;-&nbsp;Eine&nbsp;dezentrale&nbsp;Währung</a></td><td>Peter&nbsp;Uebele</td></tr>
 <tr><td>V3</td><td><a class="talk"></a></td><td><a href="../programm/weissensel-fish">fish&nbsp;-&nbsp;Die&nbsp;"friendly&nbsp;interactive&nbsp;shell"</a></td><td>Jonas&nbsp;Weissensel</td></tr>
 <tr><td>V4</td><td><a class="talk"></a></td><td><a href="../programm/schroeder-tex">TeX&nbsp;im&nbsp;3.&nbsp;Jahrtausend</a></td><td>Martin&nbsp;Schröder</td></tr>
-<tr><td></td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Klaus Behrla</td></tr>
+<tr><td>LPIC</td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Klaus Behrla</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>11:00</td></tr>
 <tr><td>V1</td><td><a class="talk"></a></td><td><a href="../programm/koenig-bash">Haralds&nbsp;kleine&nbsp;Helferlein:&nbsp;die&nbsp;Shell</a></td><td>Harald&nbsp;König</td></tr>
@@ -49,6 +49,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>V3</td><td><a class="light"></a></td><td>12:50 <a href="../programm/koelbel-desktop_auth">Sicher&nbsp;und&nbsp;bequem</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>V4</td><td><a class="talk"></a></td><td><a href="../programm/imme-latex_verein">LaTeX&nbsp;für&nbsp;den&nbsp;Verein</a></td><td>Roland&nbsp;Imme</td></tr>
 <tr><td>V4</td><td><a class="talk"></a></td><td>12:30 <a href="../programm/hofmann-lug_berlin">Unter&nbsp;einem&nbsp;Dach:&nbsp;lug.berlin</a></td><td>Frank&nbsp;Hofmann</td></tr>
+<tr><td>LPIC</td><td><a class="talk"></a></td><td><a href="../programm/grimm-cpp_funktional">Funktionale&nbsp;Programmierung&nbsp;in&nbsp;C++</a></td><td>Rainer&nbsp;Grimm</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>13:00</td></tr>
 <tr><td>V1</td><td><a class="talk"></a></td><td><a href="../programm/seidel-tcp_stealth">TCP&nbsp;Stealth&nbsp;-&nbsp;Port&nbsp;Knocking&nbsp;neu&nbsp;aufgelegt</a></td><td>Dr.&nbsp;Udo&nbsp;Seidel</td></tr>
@@ -75,7 +76,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>V3</td><td><a class="light"></a></td><td>14:40 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
 <tr><td>V3</td><td><a class="light"></a></td><td>14:50 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
 <tr><td>V4</td><td><a class="talk"></a></td><td><a href="../programm/dinges-blender">Einführung&nbsp;in&nbsp;die&nbsp;3D&nbsp;Software&nbsp;Blender</a></td><td>Thomas&nbsp;Dinges</td></tr>
-<tr><td></td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td>Klaus Behrla</td></tr>
+<tr><td>LPIC</td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td>Klaus Behrla</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>15:00</td></tr>
 <tr><td>V1</td><td><a class="talk"></a></td><td><a href="../programm/gantikow-verkehrte_welt">Verkehrte&nbsp;Welt&nbsp;-&nbsp;Linux&nbsp;im&nbsp;High&nbsp;Performance&nbsp;Computing</a></td><td>Holger&nbsp;Gantikow</td></tr>

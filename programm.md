@@ -107,6 +107,7 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 
 <tr><td></td><td></td><td>Raum LPIC</td></tr>
 <tr><td>10:00</td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Klaus Behrla</td></tr>
+<tr><td>12:00</td><td><a class="talk"></a></td><td><a href="../programm/grimm-cpp_funktional">Funktionale&nbsp;Programmierung&nbsp;in&nbsp;C++</a></td><td>Rainer&nbsp;Grimm</td></tr>
 <tr><td>14:00</td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td>Klaus Behrla</td></tr>
 <tr><td>&nbsp;</td></tr>
 
