@@ -26,18 +26,21 @@ Mein Beitrag ist ein:
 Titel des Beitrags:
 
 
-ein paar Schlagworte: (gerne jeweils mit passendem Webseiten-Link dazu)
-
-
-Inhalt: (etwas "ausfuehrlicher" was du vorhast)
+Inhalt:
 
 
 Gewuenschtes Vorwissen der Teilnehmer:
 
 
-Vorbereitung (bei Workshops, z.B. noetige Software-Installationen):
+Vorbereitung (nur bei Workshops, z.B. noetige Software-Installationen):
+
+
+
+Weblinks:
+
 
 
 Sonstiges:
+
 
 
