@@ -38,16 +38,3 @@ Dann schreib bitte an [{{ site.email }}](mailto:{{ site.email }})
 * <a href="http://www.einstieg-informatik.de/index.php?article_id=161&sid=778&hid=0" target="_blank">Einstieg Informatik</a>
 * <a href="http://www.lug-reutlingen.de/de-V.pl/Links" target="_blank">LUG Reutlingen</a>
 * <a href="http://www.lugv.at/tuebix-sucht-beitraege" target="_blank">LUG Voralberg</a>
-<!--
-
-* <a href="https://m.facebook.com/story.php?story_fbid=1127156400644331&id=116998584993456&refid=17&_ft_=top_level_post_id.1127156400644331&__tn__=*s" target="_blank">Uni Tübingen (FB)</a> 
-
-### Vortragsankündigungen
-
-** <a href="https://www.privacyidea.org/otp-workshop-at-tubix/" target="_blank">privacyidea.org</a>
-* <a href="http://www.iscait.com/tuebix" target="_blank">iscait.com</a>
-* <a href="http://guckes.net/" target="_blank">Sven Guckes</a>
-* <a href="" target="_blank"></a>
-* <a href="" target="_blank"></a>
-* <a href="" target="_blank"></a>
--->
