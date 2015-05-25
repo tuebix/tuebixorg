@@ -33,10 +33,14 @@ Dann schreib bitte an [{{ site.email }}](mailto:{{ site.email }})
 * <a href="http://www.wsi.uni-tuebingen.de/aktuelles.html" target="_blank">Fachbereich Informatik (Wilhelm-Schickard-Institut) - Aktuelles</a>
 * <a href="http://www.linux-magazin.de/NEWS/Tuebix-Linuxtag-in-Tuebingen" target="_blank">Linux Magazin - News</a>
 * <a href="http://www.pro-linux.de/kalender/2/3188/tuebix-linuxtag-in-tuebingen.html" target="_blank">pro-linux.de - Veranstaltungskalender</a>
+* <a href="http://www.heise.de/open/veranstaltungskalender/?monat=2015_6" target="_blank">heise.de - Veranstaltungskalender</a>
 * <a href="http://www.lpice.eu/de/home.html" target="_blank">LPI Central Europe</a>
+* <a href="http://www.einstieg-informatik.de/index.php?article_id=161&sid=778&hid=0" target="_blank">Einstieg Informatik</a>
+* <a href="http://www.lug-reutlingen.de/de-V.pl/Links" target="_blank">LUG Reutlingen</a>
+* <a href="http://www.lugv.at/tuebix-sucht-beitraege" target="_blank">LUG Voralberg</a>
+* <a href="" target="_blank"></a>
+* <a href="" target="_blank"></a>
 
 <!-- * <a href="https://m.facebook.com/story.php?story_fbid=1127156400644331&id=116998584993456&refid=17&_ft_=top_level_post_id.1127156400644331&__tn__=*s" target="_blank">Uni Tübingen (FB)</a> 
-* <a href="http://www.lug-reutlingen.de" target="_blank">Linux User Group Reutlingen</a>
-* <a href="" target="_blank"></a>
 * <a href="" target="_blank"></a>
 * <a href="" target="_blank"></a> -->
