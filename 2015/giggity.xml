@@ -188,6 +188,7 @@
 <room name="V3">
 <event id="blechschmidt-haskell">
 <start>12:00</start>
+<duration>00:10</duration>
 <room>V3</room>
 <title>Haskell, eine rein funktionale Programmiersprache</title>
 <type>lightning</type>
