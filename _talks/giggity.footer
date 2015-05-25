@@ -1,3 +1,27 @@
 ﻿</room>
+
+<room name="X">
+
+<event id="behrla-lpic_block1">
+<start>09:45</start>
+<duration>02:15</duration>
+<room>X</room>
+<title>LPIC Prüfungsblock 1 </title>
+<type>exam</type>
+<description>www.tuebix.org/lpic/</description>
+<persons><person id="behrla">Klaus Behrla</person></persons>
+</event>
+
+<event id="behrla-lpic_block2">
+<start>13:45</start>
+<duration>02:15</duration>
+<room>X</room>
+<title>LPIC Prüfungsblock 2 </title>
+<type>exam</type>
+<description>www.tuebix.org/lpic/</description>
+<persons><person id="behrla">Klaus Behrla</person></persons>
+</event>
+
+</room>
   </day>
 </schedule>
