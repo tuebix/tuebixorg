@@ -42,7 +42,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>V1</td><td><a class="talk"></a></td><td><a href="../programm/schiebel-linuxmuster">Schulnetz&nbsp;-&nbsp;linuxmuster.net</a></td><td>Frank&nbsp;Schiebel</td></tr>
 <tr><td>V2</td><td><a class="talk"></a></td><td><a href="../programm/kockler-puppet1">Puppet&nbsp;I:&nbsp;Zentrale&nbsp;Administration&nbsp;einer&nbsp;Server&nbsp;Infrastruktur</a></td><td>Torsten&nbsp;Kockler</td></tr>
 <tr><td>V3</td><td><a class="light"></a></td><td>12:00 <a href="../programm/blechschmidt-haskell">Haskell,&nbsp;eine&nbsp;rein&nbsp;funktionale&nbsp;Programmiersprache</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
-<tr><td>V3</td><td><a class="light"></a></td><td>12:10 <a href="../programm/willbold-python_kinder_buch">Python-Buch&nbsp;für&nbsp;Kinder</a></td><td>Carina&nbsp;Willbold</td></tr>
+<tr><td>V3</td><td><a class="light"></a></td><td>12:10 <a href="../programm/willbold-python_kinder_buch">Monty&nbsp;und&nbsp;Python&nbsp;werden&nbsp;Hacker</a></td><td>Carina&nbsp;Willbold</td></tr>
 <tr><td>V3</td><td><a class="light"></a></td><td>12:20 <a href="../programm/stadelmeier_wannenmacher-tor_router">Tor-Router</a></td><td>Andreas&nbsp;Stadelmeier,&nbsp;Fabian&nbsp;Wannenmacher</td></tr>
 <tr><td>V3</td><td><a class="light"></a></td><td>12:30 <a href="../programm/blechschmidt-sandstorm">Sandstorm</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>V3</td><td><a class="light"></a></td><td>12:40 <a href="../programm/helmle-einfache_sprache">Leichte&nbsp;Sprache&nbsp;in&nbsp;der&nbsp;IT&nbsp;oder&nbsp;–&nbsp;wie&nbsp;sag&nbsp;ich’s&nbsp;dem&nbsp;User?</a></td><td>Krishna-Sara&nbsp;Helmle</td></tr>

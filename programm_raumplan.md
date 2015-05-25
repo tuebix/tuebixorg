@@ -70,7 +70,7 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>11:40</td><td><a class="light"></a></td><td><a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
 <tr><td>11:50</td><td><a class="light"></a></td><td><a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
 <tr><td>12:00</td><td><a class="light"></a></td><td><a href="../programm/blechschmidt-haskell">Haskell,&nbsp;eine&nbsp;rein&nbsp;funktionale&nbsp;Programmiersprache</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
-<tr><td>12:10</td><td><a class="light"></a></td><td><a href="../programm/willbold-python_kinder_buch">Python-Buch&nbsp;für&nbsp;Kinder</a></td><td>Carina&nbsp;Willbold</td></tr>
+<tr><td>12:10</td><td><a class="light"></a></td><td><a href="../programm/willbold-python_kinder_buch">Monty&nbsp;und&nbsp;Python&nbsp;werden&nbsp;Hacker</a></td><td>Carina&nbsp;Willbold</td></tr>
 <tr><td>12:20</td><td><a class="light"></a></td><td><a href="../programm/stadelmeier_wannenmacher-tor_router">Tor-Router</a></td><td>Andreas&nbsp;Stadelmeier,&nbsp;Fabian&nbsp;Wannenmacher</td></tr>
 <tr><td>12:30</td><td><a class="light"></a></td><td><a href="../programm/blechschmidt-sandstorm">Sandstorm</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>12:40</td><td><a class="light"></a></td><td><a href="../programm/helmle-einfache_sprache">Leichte&nbsp;Sprache&nbsp;in&nbsp;der&nbsp;IT&nbsp;oder&nbsp;–&nbsp;wie&nbsp;sag&nbsp;ich’s&nbsp;dem&nbsp;User?</a></td><td>Krishna-Sara&nbsp;Helmle</td></tr>
