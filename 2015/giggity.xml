@@ -34,7 +34,36 @@ Hands-on Einführung in operating-system-level virtualization.
   - Operating-system-level virtualization zum sandboxing proprietärer software mit grafischen output, GPU-access (Hardware access auf dem Host im allgemeinen) (z.B. Google Chrome im Container)
   - Einführung in unpriviligierte Container, die user namespaces nutzen
 
+### Vorwissen 
+
+- Umgang mit dem Terminal und den grundlegenden Tools: chmod, chown, sed etc.
+- C-basics (wirklich wenig)
+- basic shell-scripting in sh und bash
+- git
+
+### Vorbereitung
+
+- Kernel-Version >= 3.13 (ausgenommen 4.0.2)
+- lxc >= 1.1.0
+- lxcfs 0.7
+- cgmanager 0.36
+- git
+
+ "We're trying to extend our interfaces to the point that you can safely run
+ code that you traditionally absolutely could not as root."
+Linus Torvalds, on namespaces and container security. (Linux Kernel Developer Panel)
+
 </description>
+<links>
+
+- <a href="https://en.wikipedia.org/wiki/Operating-system-level_virtualization" target="_blank">en.wikipedia.org/wiki/Operating-system-level_virtualization</a>
+- <a href="https://en.wikipedia.org/wiki/LXC" target="_blank">en.wikipedia.org/wiki/LXC</a>
+- <a href="https://github.com/lxc/lxc" target="_blank">github.com/lxc/lxc</a>
+- <a href="https://en.wikipedia.org/wiki/Sandbox_%28computer_security%29" target="_blank">en.wikipedia.org/wiki/Sandbox_(computer_security)</a>
+- Namespace Isolation: MOUNT-, PID-, UTSNAME-, IPC-, NETWORK-, und USER-Namespaces: <a href="http://man7.org/linux/man-pages/man7/namespaces.7.html" target="_blank">man7.org/linux/man-pages/man7/namespaces.7.html</a>
+- <a href="https://en.wikipedia.org/wiki/Cgroups" target="_blank">en.wikipedia.org/wiki/Cgroups</a>
+- Linux capabilities: <a href="http://linux.die.net/man/7/capabilities" target="_blank">linux.die.net/man/7/capabilities</a>
+</links>
 <persons><person id="brauner">Christian Brauner</person></persons>
 </event>
 <event id="flebbe-bigdata1">
@@ -47,7 +76,19 @@ Hands-on Einführung in operating-system-level virtualization.
 Wie funktioniert ein Big Data System?
 Es werden Software Projekte, Buildsysteme, Installation, Funktionsweise und Anwendung demonstriert.
 
+### Vorwissen
+Linux Grundlagen
+
 </description>
+<links>
+
+- <a href="http://hadoop.apache.org" target="_blank">hadoop.apache.org</a>
+- <a href="http://zookeeper.apache.org" target="_blank">zookeeper.apache.org</a>
+- <a href="http://hive.apache.org" target="_blank">hive.apache.org</a>
+- <a href="http://hbase.apache.org" target="_blank">hbase.apache.org</a>
+- <a href="http://bigtop.apache.org" target="_blank">bigtop.apache.org</a>
+- <a href="http://gethue.com" target="_blank">gethue.com</a>
+</links>
 <persons><person id="flebbe">Olaf Flebbe</person></persons>
 </event>
 <event id="gantikow-verkehrte_welt">
@@ -61,7 +102,8 @@ Supercomputer, die für weit mehr als Wettersimulation eingesetzt werden, haben 
 
 Wie sich diese "fremde Welt" entwickelt hat, wie Linux dort seine unangefochtene Pole-Position erlangte, welchen Stellenwert Open Source Software in diesem Umfeld genießt und welche Themen und Werkzeuge aus dem Bereich des High Performance Computings (HPC) auch für die normale IT relevant sind, stehen im Fokus des Vortrags.
 
-<br/>
+
+
 Auch wenn Linus Torvalds nach wie vor Linux auf dem Desktop den Durchbruch verschaffen will, konnte sich der Pinguin bislang dort nie wirklich ansiedeln und fristet auf dem Desktop somit eher ein Nischendasein. Dieser Markt wird heute nach wie vor von Microsoft Windows dominiert.
 
 Dass dies nicht für alle Bereiche gelten muss, zeigt der Markt der Supercomputer, die meist in den Rechenzentren von Forschungsinstituten und großen Firmen vor dem Auge der Öffentlichkeit verborgen bleiben.
@@ -84,7 +126,23 @@ Für den Vortrag ist kein besonderes Vorwissen nötig, ein allgemeines Interesse
 
 Beim Linux-Magazin online ist ein zusammenfassender Basis-Artikel zum Thema erschienen [5], sowie kurze Vorstellungen der Robin Hood Policy Engine [3] und ein Überblick über in diesem Umfeld anzutreffende Dateisysteme [4].
 
+### Vorwissen
+
+Kein spezielles Vorwissen notwendig, generelles Interesse an Linux, freier Software und daran einen kleinen Einblick in die Welt des High Performance Computings zu gewinnen schadet aber sicher nicht ;)
+
 </description>
+<links>
+
+[1] <a href="http://www.top500.org/" target="_blank">www.top500.org/</a>
+
+[2] <a href="https://github.com/cea-hpc/robinhood/wiki" target="_blank">github.com/cea-hpc/robinhood/wiki</a>
+
+[3] <a href="http://www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood" target="_blank">www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood</a>
+
+[4] <a href="http://www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux" target="_blank">www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux</a>
+
+[5] <a href="http://www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC" target="_blank">www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC</a>
+</links>
 <persons><person id="gantikow">Holger Gantikow</person></persons>
 </event>
 <event id="goetz-bigdata2">
@@ -98,6 +156,9 @@ Im Anschluss an den <a href="http://www.tuebix.org/programm/flebbe-bigdata1">Vor
 
 Zunächst führe ich sehr grob in die Thematik des Machine Learnings ein. Dabei stelle ich einige wichtige Verfahren vor, die dafür verwendet werden können. Dann gehe ich darauf ein, wie diese direkt in Hadoop genutzt werden können. Darüber hinaus zeige ich, welche Frontends es für die Auswertung darüber hinaus gibt. Besonders gehe ich dabei auf KNIME und R etwas tiefer ein.  Anhand einiger Praxisbeispiele zeige ich anschließend, wie diese genutzt werden können.
 
+### Vorwissen 
+
+<a href="http://www.tuebix.org/programm/flebbe-bigdata1">Vortrag von Olaf Flebbe</a> gehört.
 </description>
 <persons><person id="flebbe">Thomas Götz</person></persons>
 </event>
@@ -123,7 +184,17 @@ Hardware-Erkennung unterstützen?
 - Kann das RasPi2 z.B. einen Desktop-Rechner ersetzen?
 - Experimente und Beispiele für ein "knoppifiziertes" Rasbian
 
+### Vorwissen
+
+Grundkenntnisse zu GNU/Linux auf Anwender- und Administratorebene (aber
+nicht notwendigerweise bezogen auf Raspberry Pi).
+
 </description>
+<links>
+
+- <a href="https://www.raspberrypi.org/" target="_blank">raspberrypi.org</a>
+- <a href="https://www.raspbian.org/" target="_blank">raspbian.org</a>
+</links>
 <persons><person id="knopper">Prof. Dipl.-Ing. Klaus Knopper</person></persons>
 </event>
 <event id="koenig-bash">
@@ -143,6 +214,9 @@ mögliche Themen:
 - Zahlenspielereien mit dem Kalender: welcher Wandkalender passt dieses/nächstes Jahr?
 - andere Ideen ?
 
+### Vorwissen
+
+Auf der Kommandozeile tippen können ;-)
 </description>
 <persons><person id="koenig">Harald König</person></persons>
 </event>
@@ -152,7 +226,9 @@ mögliche Themen:
 <room>V1</room>
 <title>Haralds Tagesabschluss</title>
 <type>talk</type>
-<description>nodescription</description>
+<description>
+Überraschung...
+</description>
 <persons><person id="koenig">Harald König</person></persons>
 </event>
 <event id="reber-mirrorserver">
@@ -175,6 +251,10 @@ Zweiter Teil des Vortrags wird eine kurze Vorstellung, wie ein Mirror in ein Mir
 Exemplarisch am Mirror Netzwerk von Fedora, welches auf der Software MirrorManager basiert.
 
 </description>
+<links>
+
+- <a href="http://ftp-stud.hs-esslingen.de" target="_blank">ftp-stud.hs-esslingen.de</a>
+</links>
 <persons><person id="reber">Adrian Reber</person></persons>
 </event>
 <event id="schiebel-linuxmuster">
@@ -192,6 +272,10 @@ Weiterentwicklung, Pflege und Support finden unter dem Dach des gemeinnützigen 
 Der Vortrag führt in die Besonderheiten schulischer Netzwerke ein und erläutert das Konzept der freien Musterlösung linuxmuster.net.
 
 </description>
+<links>
+
+<a href="http://www.linuxmuster.net" target="_blank">www.linuxmuster.net</a>
+</links>
 <persons><person id="schiebel">Frank Schiebel</person></persons>
 </event>
 <event id="seidel-tcp_stealth">
@@ -211,7 +295,19 @@ Ziel von TCP Stealth ist die Abwehr von Portscans bei gleichzeitiger Addressieru
 
 Der Vortrag stellt die Idee und Architektur hinter TCP Stealth vor und beinhaltet auch einen kleine Demo.
 
+### Vorwissen
+
+- Grundlegende Netzwerk-Kenntnisse insbesondere TCP
+- Interesse (gerne auch Vorkenntnisse) zum Thema Sicherheit in der IT
+- ein bisschen Linux an sich wäre auch nicht schlecht
+
 </description>
+<links>
+
+- <a href="http://gnunet.org/knock" target="_blank">gnunet.org/knock</a>
+- <a href="http://gnunet.org/sites/default/files/ma_kirsch_2014_0.pdf" target="_blank">gnunet.org/sites/default/files/ma_kirsch_2014_0.pdf</a>
+- <a href="http://tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01" target="_blank">tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01</a>
+</links>
 <persons><person id="seidel">Dr. Udo Seidel</person></persons>
 </event>
 </room>
@@ -228,6 +324,12 @@ Das Linux Professional Institute (LPI) möchte dabei helfen und erreichen, daß 
 Im Vortrag wird das Zertifizierungsprogramm des LPI erklärt und deutlich gemacht, wie das LPI die heranwachsenden Fachkräfte mit den notwendigen Kenntnissen ausrüstet und wie die LPI Prüfungen ablaufen.
 
 </description>
+<links> 
+
+- Linux Professional Institute (LPI): <a href="http://www.lpice.eu/de/home.html" target="_blank">lpice.eu/de/home.html</a> und <a href="http://www.lpi.org" target="_blank">lpi.org</a>
+- Das Zertifizierungsprogramm des LPI: <a href="http://www.lpice.eu/de/lpi-zertifizierungsinhalte.html" target="_blank">lpice.eu/de/lpi-zertifizierungsinhalte.html</a>
+- Jobs: <a href="http://www.lpice.eu/de/jobs.html" target="_blank">lpice.eu/de/jobs.html</a>
+</links>
 <persons><person id="behrla">Klaus Behrla</person></persons>
 </event>
 <event id="blechschmidt-wireshark">
@@ -244,7 +346,15 @@ Konkret kann man Verbindungsprobleme diagnostizieren, Netzwerkprotokolle versteh
 
 Der Vortrag wird in die Bedienung von Wireshark einführen und dann mehrere Beispiele vorführen.
 
+### Vorwissen
+
+Keines. Besucher, die schon mehr als einmal Wireshark selbst verwendet haben, werden sich langweilen!
+
 </description>
+<links>
+
+<a href="https://www.wireshark.org" target="_blank">wireshark.org</a>
+</links>
 <persons><person id="blechschmidt">Ingo Blechschmidt</person></persons>
 </event>
 <event id="gietz-openldap">
@@ -264,7 +374,16 @@ OpenLDAP ist eine hochskalierbare und hochperformante standardkonforme Open-Sour
 - Warum OpenLDAP?
 - Implementierungsbeispiele
 
+### Vorwissen
+
+Teilnehmer sollten idealerweise ein wenig technisches Wissen zu Datenbanken und Internetprotokollen haben.
+
 </description>
+<links>
+
+- <a href="https://tools.ietf.org/rfc/rfc4510.txt" target="_blank">tools.ietf.org/rfc/rfc4510.txt</a>
+- <a href="http://www.openldap.org" target="_blank">openldap.org</a>
+</links>
 <persons><person id="gietz">Peter Gietz</person></persons>
 </event>
 <event id="guckes-muttgpg1">
@@ -291,6 +410,18 @@ Eine LIVE Vorführung des Mailprogramms  mutt im Zusammenspiel mit der Verschlü
 * Workshop, anyone?
 
 </description>
+<links>
+
+- <a href="http://www.mutt.org" target="_blank">mutt.org</a>
+- <a href="http://www.gnupg.org" target="_blank">gnupg.org</a>
+- (Digitale) Schlüssel (Cryptokeys) <a href="http://de.wikipedia.org/wiki/Schl%C3%BCssel_(Kryptologie)" target="_blank">de.wikipedia.org/wiki/Schlüssel_(Kryptologie)</a>
+- Digital Signatur <a href="http://de.wikipedia.org/wiki/Digitale_Signatur" target="_blank">de.wikipedia.org/wiki/Digitale_Signatur</a>
+- Verschlüsselung <a href="http://de.wikipedia.org/wiki/Verschl%C3%BCsselung" target="_blank">de.wikipedia.org/wiki/Verschlüsselung</a>
+- Schlüsselverwaltung (key management) <a href="http://en.wikipedia.org/wiki/Key_management" target="_blank">en.wikipedia.org/wiki/Key_management</a>
+- Key Server - Schlüsselserver <a href="http://de.wikipedia.org/wiki/Schl%C3%BCsselserver" target="_blank">de.wikipedia.org/wiki/Schlüsselserver</a>
+- KeySigning Party <a href="http://de.wikipedia.org/wiki/Keysigning-Party" target="_blank">de.wikipedia.org/wiki/Keysigning-Party</a>
+- Web of Trust <a href="http://de.wikipedia.org/wiki/Web_of_Trust" target="_blank">de.wikipedia.org/wiki/Web_of_Trust</a>
+</links>
 <persons><person id="guckes">Sven Guckes</person></persons>
 </event>
 <event id="hofmann-surfen">
@@ -299,7 +430,24 @@ Eine LIVE Vorführung des Mailprogramms  mutt im Zusammenspiel mit der Verschlü
 <room>V2</room>
 <title>Schneller und sicherer Surfen im Internet</title>
 <type>talk</type>
-<description>nodescription</description>
+<description>
+Baut sich eine Webseite in ihrem Webbrowser nur sehr langsam auf, ist es
+einfach, mit dem Finger nur auf die Bandbreite ihrer Netzwerkverbindung
+oder ihre Hardware zu zeigen. Zwischen dem Abrufen der Webseite und der
+Darstellung in ihrem Webbrowser läuft mittlerweile ein recht aufwendiger
+Prozess, in dem etliche Faktoren eine Rolle spielen.
+
+In unserem Vortrag gehen wir den folgenden Punkten nach:
+
+* Überblick zu den Ursachen von erhöhtem Datentransfer
+* Latenzverstärker identifizieren und ausschalten
+* Datenspuren minimieren oder vermeiden
+* Fokus auf die Nutzerseite – welche Einflußmöglichkeiten habe ich als Benutzer
+
+Im Anschluß diskutieren wir die vorgestellten Möglichkeiten und freuen
+uns auf einen regen Austausch hinsichtlich eigener Erfahrungen und Tips
+im Alltag.
+</description>
 <persons><person id="hofmann">Frank Hofmann</person></persons>
 </event>
 <event id="kemmer-network_steganography">
@@ -312,7 +460,15 @@ Eine LIVE Vorführung des Mailprogramms  mutt im Zusammenspiel mit der Verschlü
 Zensur und Überwachung, insbesondere im Internet, sind heutzutage allgegenwärtig. Nicht zuletzt durch die NSA wurde deutlich, dass Bedarf an privaten Kommunikationsmöglichkeiten besteht. Bedarf, der nicht immer durch Verschlüsselung gedeckt werden kann.
 Nach einer kurzen Einführung in die Grundidee der Steganographie werden verschiedene Ansätze zur Umsetzung dieser Idee auf Netzwerkebene gezeigt. Anschließend wird ein neuartiges Verfahren vorgestellt, bei dem geheime Botschaften in scheinbar normale FTP-Übertragungen eingebettet werden. Neben dem Design wird auch von Erfahrungen bei der Implementierung des Protoyps berichtet sowie Vor- und Nachteile gegenüber existierenden Methoden erläutert.
 
+### Vorwissen
+
+Grundlegendes Verständnis der Netzwerkprotokolle IP, UDP und TCP von Vorteil.
+
 </description>
+<links>
+
+<a href="http://fkemmer.de/files/talks/2014_unfuck_netSteg.pdf" target="_blank">fkemmer.de/files/talks/2014_unfuck_netSteg.pdf</a>
+</links>
 <persons><person id="kemmer">Florian Kemmer</person></persons>
 </event>
 <event id="kockler-puppet1">
@@ -331,6 +487,9 @@ Gezeigt werden dann die Installation von Puppet sowie grundlegende Konfiguration
 
 Dies ist der erste von zwei aufeinander aufbauenden Vorträgen über Puppet.
 
+### Vorwissen
+
+Erfahrung mit der Administration von Linux Servern oder zumindest Linux Grundlagenwissen
 </description>
 <persons><person id="kockler">Torsten Kockler</person></persons>
 </event>
@@ -348,6 +507,9 @@ Der Vortrag baut auf dem Wissen auf das in dem Vortrag <a href="http://www.tuebi
 
 Dies ist der zweite von zwei aufeinander aufbauenden Vorträgen über Puppet.
 
+### Vorwissen
+
+Wissen aus dem Vortrag <a href="http://www.tuebix.org/programm/kockler-puppet1/">"Puppet I: Zentrale Administration einer Server Infrastruktur"</a>" oder Grundlegende Erfahrungen mit Puppet
 </description>
 <persons><person id="kockler">Torsten Kockler</person></persons>
 </event>
@@ -367,7 +529,22 @@ Vorteile von NixOS:
 - reliable
 - devops friendly
 
+### Vorwissen
+
+Sichere verwendung der Shell mit Tools wie z.B.:
+
+- apt-get (analog yum usw...)
+- vim
+- grub
+- fdisk
+- mkfs.ext4
+- wissen, was eine Partition ist
+
 </description>
+<links>
+
+- <a href="http://nixos.org" target="_blank">nixos.org</a>
+</links>
 <persons><person id="schiele">Joachim Schiele</person></persons>
 </event>
 </room>
@@ -412,7 +589,16 @@ Sprachen nützlich sind; das ist einer der Hauptvorteile an Haskell, der
 auch dann noch relevant ist, wenn man aus verschiedenen Gründen nicht in
 Haskell programmieren möchte.
 
+### Vorwissen
+
+Erfahrung in irgendeiner Programmiersprache.
+
 </description>
+<links>
+
+- <a href="http://www.haskell.org" target="_blank">haskell.org</a>
+- <a href="http://learnyouahaskell.com" target="_blank">learnyouahaskell.com</a>
+</links>
 <persons><person id="blechschmidt">Ingo Blechschmidt</person></persons>
 </event>
 <event id="blechschmidt-sandstorm">
@@ -426,6 +612,10 @@ Die vier wesentlichen Freiheiten freier Software werden durch proprietäre Web-D
 Mit Sandstorm wird es einfach, freie Server-Software privat einzusetzen.
 
 </description>
+<links>
+
+- <a href="https://sandstorm.io" target="_blank">sandstorm.io</a>
+</links>
 <persons><person id="blechschmidt">Ingo Blechschmidt</person></persons>
 </event>
 <event id="franke-ruby">
@@ -437,7 +627,15 @@ Mit Sandstorm wird es einfach, freie Server-Software privat einzusetzen.
 <description>
 Wie man aus Quoting-Hölle und Regexp-Dschungel entkommt.
 
+### Vorwissen
+
+Grundkenntnisse Shell-Scripting
+
 </description>
+<links>
+
+- Ruby Einzeiler und passende Kommandozeilenoptionen: <a href="http://benoithamelin.tumblr.com/ruby1line" target="_blank">benoithamelin.tumblr.com/ruby1line</a>
+</links>
 <persons><person id="franke">Knut Franke</person></persons>
 </event>
 <event id="genannt-sshkey_distribution">
@@ -449,7 +647,15 @@ Wie man aus Quoting-Hölle und Regexp-Dschungel entkommt.
 <description>
 SSH Public Key Verwaltung ist immer ein spannendes Thema. Es gibt viele Möglichkeiten von ssh-copy-id, LDAP oder über eine eigene CA. Jedoch hat alles seine Probleme. Hier stelle ich ein relativ neues Projekt vor. Es wird versucht über eine Web Application eine Verwaltung von SSH Public Keys vorzunehmen, um mit Gruppen von Keys und Servern die Verwaltung zu vereinfachen.
 
+### Vorwissen
+
+Arbeiten mit SSH Public Keys
+
 </description>
+<links>
+
+- <a href="https://github.com/hggh/sshkeymanager-django" target="_blank">https://github.com/hggh/sshkeymanager-django</a>
+</links>
 <persons><person id="genannt">Jonas Genannt</person></persons>
 </event>
 <event id="giesen-seafile">
@@ -463,6 +669,10 @@ SSH Public Key Verwaltung ist immer ein spannendes Thema. Es gibt viele Möglich
 - Kurzdemo
 
 </description>
+<links>
+
+- <a href="http://www.seafile.com" target="_blank">seafile.com</a>
+</links>
 <persons><person id="giesen">Gregor Giesen</person></persons>
 </event>
 <event id="helmle-einfache_sprache">
@@ -485,6 +695,11 @@ reflektieren; um User und Kunden noch besser dort abzuholen, wo sie sind.
 Ich stelle das Konzept Leichte Sprache anhand von einigen Beispielen vor.
 
 </description>
+<links>
+
+- <a href="https://de.wikipedia.org/wiki/Leichte_Sprache" target="_blank">de.wikipedia.org/wiki/Leichte_Sprache</a>
+- Mein Büro für Leichte Sprache: <a href="http://www.leicht-verstehen.de" target="_blank">leicht-verstehen.de</a>
+</links>
 <persons><person id="helmle">Krishna-Sara Helmle</person></persons>
 </event>
 <event id="humm-wikipedia">
@@ -501,7 +716,18 @@ Fertig ist die Baumstruktur auf etwa 90% aller Artikel.
 Diese kann man visualisieren.
 Zu sehen gibt es ein Universum aus "reinem Wissen" und krasse organisch anmutende Strukturen.
 
+### Vorwissen
+
+Man sollte zur Vorbereitung mal <a href="https://de.wikipedia.org" target="_blank">de.wikipedia.org</a> aufgerufen haben.
+
 </description>
+<links>
+
+- <a href="https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy" target="_blank">en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy</a>
+- ein Preview:
+
+<a href="https://www.dropbox.com/s/weenj7uar9xkj5l/wikipedia.pdf?dl=0" target="_blank">dropbox.com/s/weenj7uar9xkj5l/wikipedia.pdf?dl=0</a>
+</links>
 <persons><person id="humm">Justin Humm</person></persons>
 </event>
 <event id="klaeren-computermuseum">
@@ -517,6 +743,10 @@ die seit den frühen 1960er Jahren vor allem von der Firma DEC vertriebenen Mini
 Wir sind stolz darauf, einige besonders wichtige und übrigens auch funktionsfähige Maschinen aus diesen beiden Generationen besitzen zu dürfen.
 
 </description>
+<links>
+
+- <a href="http://www.wsi.uni-tuebingen.de/fachbereich/wilhelm-schickard-institut-fuer-informatik/computermuseum.html" target="_blank">wsi.uni-tuebingen.de/fachbereich/wilhelm-schickard-institut-fuer-informatik/computermuseum.html</a>
+</links>
 <persons><person id="klaeren">Prof. Dr. Herbert Klaeren</person></persons>
 </event>
 <event id="koelbel-desktop_auth">
@@ -525,7 +755,12 @@ Wir sind stolz darauf, einige besonders wichtige und übrigens auch funktionsfä
 <room>V3</room>
 <title>Sicher und bequem</title>
 <type>lightning</type>
-<description>nodescription</description>
+<description>
+Hier soll ein Konzept vorgestellt werden, wie sowohl die Bequemlichkeit gewährleistet aber auch die Sicherheit umgesetzt werden kann.
+Der Desktop soll zuverlässig und automatisch gesperrt werden.
+Zugang zum Desktop erhält man nur mit Zweifaktor-Authentisierung.
+Aber auch diese soll leicht und bequem anwendbar sein.
+</description>
 <persons><person id="koelbel">Cornelius Kölbel</person></persons>
 </event>
 <event id="kuestner_strohmaier-wueste_welle">
@@ -552,7 +787,16 @@ Kurzer Anriss über die verschiedenen Einsatzfelder von OpenSource Software, die
 - Archivierung optische Medien im Netz
 - Schließanlage
 
+### Vorwissen
+
+- Oberflächliches Wissen um die Existenz von OpenSource Software
+- Grundsätzliches Interesse an Verwendungsmöglichkeiten von OpenSource Software innerhalb einer Organisation
+
 </description>
+<links>
+
+- <a href="http://www.wueste-welle.de" target="_blank">wueste-welle.de</a>
+</links>
 <persons><person id="kuestner_strohmaier">xxx</person></persons>
 </event>
 <event id="schiebel-oss_schule">
@@ -583,6 +827,9 @@ eigentlich?
 - was passiert mit Open Source? FLOSS in Zukunft noch relevant?
 - hackerspaces und was man alles bauen und reparieren kann
 
+### Vorwissen
+
+- Interesse an Technik, insbesondere Software/Hardware von PC-artigen systemen
 </description>
 <persons><person id="schiele">Joachim Schiele</person></persons>
 </event>
@@ -602,7 +849,20 @@ So kann man mit beliebigen Geräten und Anwendungen Tor nutzen.
 Nebenbei kann dem Inhaber des Internetanschlusses dank der Anonymisierung
 Störerhaftung und ähnliches ziemlich Egal sein.
 
+### Vorwissen
+
+Keines. Grundsätzliche Linux und Netzwerkkenntnisse eventuell Vorteilhaft aber nicht nötig.
+
+### Vorbereitung
+
+Zuhörer können zum Ausprobieren ein WLAN-fähiges Gerät mitbringen.
+
 </description>
+<links>
+
+- <a href="https://openwrt.org" target="_blank">openwrt.org</a>
+- <a href="https://torproject.org" target="_blank">torproject.org</a>
+</links>
 <persons><person id="stadelmeier_wannenmacher">xxx</person></persons>
 </event>
 <event id="uebele-bitcoin">
@@ -618,6 +878,9 @@ In diesem Vortrag wird zunächst kurz die Geschichte und der technische Hintergr
 
 Im Anschluss stehe ich gerne auch für praktische Fragen wie beispielsweise die Installation von Bitcoin-Apps auf dem Handy zur Verfügung.
 
+### Vorwissen
+
+keine Vorkenntnisse nötig
 </description>
 <persons><person id="uebele">Peter Uebele</person></persons>
 </event>
@@ -634,6 +897,20 @@ Lizenzbedingunge ist. Und weil inzwischen keine Software mehr ohne Open Source a
 ein Thema, das jeden Entwickler interessieren muss.
 
 </description>
+<links>
+
+- Open Source Software
+
+<a href="http://opensource.org/licenses" target="_blank">opensource.org/licenses</a>
+- Free Software
+
+<a href="http://www.gnu.org/licenses/license-list.html" target="_blank">gnu.org/licenses/license-list.html</a>
+- Rechtliche Aspekte von Open Source
+
+  - <a href="http://www.ifosslr.org/ifosslr" target="_blank">ifosslr.org/ifosslr</a>
+
+  - <a href="http://www.amazon.de/Open-Source-Software-Rechtliche-Rahmenbedingungen/dp/340660580X" target="_blank">amazon.de/Open-Source-Software-Rechtliche-Rahmenbedingungen/dp/340660580X</a>
+</links>
 <persons><person id="wege">Christian Wege</person></persons>
 </event>
 <event id="weissensel-fish">
@@ -648,7 +925,16 @@ Ich bin begeisterter Nutzer der "fish", einer Kommandozeilen-Shell, die imho ein
 Mein Vortrag beschreibt in Kürze die Motivation hinter dem Wechsel und beispielhaft einige Probleme, auf die ich im Laufe der Zeit gestoßen bin und wie ich diese (mehr oder weniger erfolgreich) bewältigt habe.
 Das Vortragsniveau bleibt auf Einsteigerlevel, es beginnt mit einer kurzen Einführung, was eine Shell überhaupt ist, und im weiteren Verlauf werde ich einfach einige Beispiele aus dem Alltag im Bash/Fish-Vergleich vorführen.
 
+### Vorwissen
+
+- Grundlegende Kenntnisse über CLI
+- Interesse für Text-Anwendungen
+
 </description>
+<links>
+
+- <a href="http://fishshell.com" target="_blank">fishshell.com</a>
+</links>
 <persons><person id="weissensel">Jonas Weissensel</person></persons>
 </event>
 <event id="widmayer-nagerit">
@@ -663,6 +949,12 @@ Was mich beeindruckt ist das Bemühen um eine faire Herstellung und dazu gehört
 Ich bringe eine Auswahl Mäuse zum Anfassen mit, ansonsten sind die zu bestellen. Verkauf wird es keinen geben.
 
 </description>
+<links>
+
+- <a href="https://www.nager-it.de" target="_blank">nager-it.de</a>
+- <a href="https://www.nager-it.de/static/pdf/lieferkette.pdf" target="_blank">nager-it.de/static/pdf/lieferkette.pdf</a>
+- <a href="https://www.nager-it.de/static/medienecho/enorm_0215.pdf" target="_blank">nager-it.de/static/medienecho/enorm_0215.pdf</a>
+</links>
 <persons><person id="widmayer">Karin Widmayer</person></persons>
 </event>
 <event id="willbold-python_kinder_buch">
@@ -671,7 +963,11 @@ Ich bringe eine Auswahl Mäuse zum Anfassen mit, ansonsten sind die zu bestellen
 <room>V3</room>
 <title>Monty und Python werden Hacker</title>
 <type>lightning</type>
-<description>nodescription</description>
+<description>
+Programmieren lernen kann schwer und mühsam sein – vor allem, wenn man erst die 5. oder 6. Klasse besucht.
+Viel zu oft sind Lehrbücher trocken und zu kompliziert geschrieben.
+Ich möchte daher ein Buchprojekt (CC BY-NC-SA) vorstellen, das sich an Kinder dieser Altersgruppe richtet und ihnen auf unterhaltsame Weise die Sprache Python näherbringt.
+</description>
 <persons><person id="willbold">Carina Willbold</person></persons>
 </event>
 </room>
@@ -689,6 +985,10 @@ die Grenze zwischen CGI (computer generated imagery) und der Realität verschwim
 In diesem Vortrag stelle ich das Open Source 3D Programm Blender vor, mit welchem ihr kostenlos aber dennoch professionell 3D Grafiken und Animationen erstellen könnt. Von der Geschichte des Programms, über die rasante Entwicklung in den letzten Jahren bis hin zu tollen animierten Filmen, welche mit Blender kreiert wurden, wird alles gezeigt.
 
 </description>
+<links>
+
+- <a href="http://www.blender.org" target="_blank">blender.org</a>
+</links>
 <persons><person id="dinges">Thomas Dinges</person></persons>
 </event>
 <event id="engelmann-lyx">
@@ -711,6 +1011,10 @@ In diesem Vortrag stelle ich das Open Source 3D Programm Blender vor, mit welche
 - Wo bekomme ich Hilfe und kann Wünsche äußern? lyx-users@lists.lyx.org
 
 </description>
+<links>
+
+- <a href="http://www.lyx.org/WebDe.Home" target="_blank">lyx.org/WebDe.Home</a>
+</links>
 <persons><person id="engelmann">Wolfgang Engelmann</person></persons>
 </event>
 <event id="gantikow-elektroschrott">
@@ -719,7 +1023,13 @@ In diesem Vortrag stelle ich das Open Source 3D Programm Blender vor, mit welche
 <room>V4</room>
 <title>Phoenix statt Elektroschrott - Neues Leben für "alte" Mobilgeräte</title>
 <type>talk</type>
-<description>nodescription</description>
+<description>
+Die Nutzungsdauer von Mobilgeräten zeichnet sich heutzutage durch eine kurze Halbwertszeit aus, sodass immer mehr eigentlich noch funktionstüchtige Smartphones und Tablets der vorletzten Generation ungenutzt verstauben.
+
+Dies muss nicht sein, schließlich eignen sich diese üppig ausgestatteten Kleinstcomputer für eine Vielzahl von praktischen Einsatzzwecken, die der Hersteller beim Kauf so sicher nicht beworben hat.
+
+Wie und mit welchen teilweise freien Apps sich das Leben dieser Geräte verlängern lässt und ihnen in der Wohnung, im Auto, am Schreibtisch oder gar als Konkurrenz zu Raspberry Pi & Co ein komplett neues, zweites Leben einhauchen lässt, stellt dieser Vortrag vor.
+</description>
 <persons><person id="gantikow">Holger Gantikow</person></persons>
 </event>
 <event id="hofmann-lug_berlin">
@@ -734,7 +1044,15 @@ LUG-Treffen.
 Nachdem 2014 die ICANN .berlin-Domains einführte, entstand auf lug.berlin die gleichnamige Plattform. Über eine OSM-Karte sind alle Gruppen miteinander vernetzt und vereinfachen somit den Informationsaustausch untereinander. Interessierte ersehen in kürzerer Zeit, wer wo beheimatet ist.
 Der Vortrag beleuchtet den Entstehungsweg der Plattform und berichtet über die Ergebnisse der Vernetzung untereinander.
 
+### Vorwissen
+
+grundlegender Umgang mit dem Webbrowser, Einsteiger
+
 </description>
+<links>
+
+- <a href="http://lug.berlin" target="_blank">lug.berlin</a>
+</links>
 <persons><person id="hofmann">Frank Hofmann</person></persons>
 </event>
 <event id="imme-latex_verein">
@@ -743,7 +1061,15 @@ Der Vortrag beleuchtet den Entstehungsweg der Plattform und berichtet über die 
 <room>V4</room>
 <title>LaTeX für den Verein</title>
 <type>talk</type>
-<description>nodescription</description>
+<description>
+Wie kann ich mit LaTeX Dokumente für den Verein erstellen und verwalten?
+
+Aktuell unterstütze ich unseren Verein als Schriftführer.
+In diesem Zusammenhang gibt es unterschiedliche Dokumente (Beitrittserklärung, Bankdatenänderung usw.), die zur Verfügung gestellt werden müssen.
+In dem geplanten Vortrag stelle ich Online-Formulare im PDF-Format vor.
+Diese können digital ausgefüllt und abgespeichert werden.
+Die Einladung zur Hauptversammlung (Serienbrief) wird beim Vortrag vorgestellt.
+</description>
 <persons><person id="imme">Roland Imme</person></persons>
 </event>
 <event id="mundt-apt_install">
@@ -761,7 +1087,17 @@ Wir beginnen mit kleineren Anpassungen mittels "preseeding" und enden
 mit dem Ausrollen einer kompletten Debian-LAN-Umgebung mittels FAI
 (Fully Automatic Installation).
 
+### Vorwissen
+
+Die gewöhnliche Installation eines GNU/Linux-Systems sollte bekannt sein.
+
 </description>
+<links> 
+
+- <a href="https://packages.debian.org/jessie/di-netboot-assistant" target="_blank">packages.debian.org/jessie/di-netboot-assistant</a>
+- <a href="http://d-i.debian.org/manual/de.amd64/apb.html" target="_blank">d-i.debian.org/manual/de.amd64/apb.html</a>
+- <a href="https://wiki.debian.org/DebianLAN" target="_blank">wiki.debian.org/DebianLAN</a>
+</links>
 <persons><person id="mundt">Andreas B. Mundt</person></persons>
 </event>
 <event id="pfeifle-pandoc">
@@ -832,6 +1168,33 @@ Teilnehmer erhalten Zugriff auf ein Zip-Archiv mit folgendem Inhalt:
 * Die für die unterschiedlichen Dokumenten-Stile der Beispiele verwendeten CSS- und Referenz-Dateien.
 * Sonstige interessanten Dateien.
 
+### Vorwissen
+
+* Bedarf an automatisierter Erzeugung von HTML aus einfachem Text
+* Bedarf an automatisierter Erzeugung von MS Word DOCX aus Text
+* Bedarf an automatisierter Erzeugung von Libre/OpenOffice ODT
+* Bedarf an automatisierter EPUB-Erzeugung aus einfachem Text
+* Wunsch nach LaTeX-Qualität bei PDF-Dokumenten ohne LaTeX lernen zu müssen
+* Wunsch nach Beamer-Folien ohne LaTeX lernen zu müssen
+* Wunsch nach einer Studien- oder Diplomarbeit ohne MS-Word
+* Falls man LaTeX schon "kann": Wunsch, das Gewünschte schneller schreiben zu können
+* Falls man LaTeX schon "kann": Wunsch, das Dokument leicht auch in anderen Formaten zur Verfügung stellen zu können
+* keine Angst vor der Kommandozeile
+* Bereitschaft, 12 einfache Formatierungen als "Text-Markup" zu lernen
+
+### Vorbereitung
+
+
+"Das Thema ist NICHT als 'Mitmach'-Thema konzipiert."
+Es ist vielmehr ein "Aufpass"-Thema!
+Denn dabei wird's nicht viele Folien geben, sondern fast ausschließlich
+Live-Vorführung.
+Im Nachhinein werden die Teilnehmer über die Tübix-Seite dann ein Archiv
+mit allen entsprechenden Unterlagen herunterladen können: verwendete
+Beispiel-Dateien sowie ein Transkript des Vortrags, das alle gezeigten
+Kommandos nochmals wiedergibt und kurz erläutert.
+Als Bonus dann noch ein Makefile, mit welchem man die Dokumenten-Erzeugung
+weitgehend automatisieren kann
 </description>
 <persons><person id="pfeifle">Kurt Pfeifle </person></persons>
 </event>
@@ -854,7 +1217,59 @@ Stattdessen werden alle Themen "live" am Beamer vorgeführt.
 Der Vortrag ist geeignet für Windows, Linux, Mac OSX und BSD-Unix-
 Anwender.
 
+### Themen-Details
+
+Zu den behandelten Problemkreisen gehören unter anderem:
+
+- Darstellung von Schriften auf dem Bildschirm oder im Druckbild
+- Darstellung von transparenten Grafik-Elementen im Druckbild
+- Extraktion von Text-Stellen oder ganzen Texten
+- Konvertierung von RGB- oder CMYK-Schwarz oder Grau nach "echtem" Schwarz/Grau
+- Extraktion von Bildern
+- Reduzierung der Dateigröße
+- Erkennung gescannter Seiten
+- Skalierung von PDF-Seiten
+- Ungewollte Änderungen bei eingebetteten Bildern (Farbraum, Auflösung)
+- Linearisierung (“Web-Optimierung”) von PDFs
+
+Der Vortrag führt außerdem schrittweise in einige mehr und auch weniger
+bekannte Kommandozeilen-Tools ein, die man zum Analysieren und
+Reparieren dieser Problembereiche verwenden kann:
+
+- `qpdf`
+- `pdftk`
+- `pdfinfo`
+- `pdffonts`
+- `pdfimages`
+- `pdfunite`
+- `pdf-parser.py`
+- `pdfid.py`
+- `mutool`
+- Ghostscript (mit wenig bekannten, aber sehr nützlichen Kommandozeilen- Parametern)
+
+### Vorwissen
+
+* Interesse an PDF-Erzeugung
+* Interesse an PDF-Bearbeitung
+* Interesse an PDF-Debugging
+* keine Angst vor der Kommandozeile
+
+### Vorbereitung
+
+Das Thema ist NICHT als 'Mitmach'-Thema konzipiert.
+Es ist vielmehr ein "Aufpass"-Thema!
+Denn dabei wird's nicht viele Folien geben, sondern fast ausschließlich
+Live-Vorführung.
+Im Nachhinein werden die Teilnehmer über die Tübix-Seite dann ein Archiv
+mit allen entsprechenden Dokumenten herunterladen können: verwendete
+Beispiel-Dateien sowie ein Transkript des Vortrags, das alle gezeigten
+Kommandos nochmals wiedergibt und kurz erläutert.
+
 </description>
+<links>
+
+<a href="https://leanpub.com/pdfkungfoo" target="_blank">leanpub.com/pdfkungfoo</a>
+</links>
 <persons><person id="pfeifle">Kurt Pfeifle </person></persons>
 </event>
 <event id="schroeder-tex">
@@ -870,7 +1285,16 @@ Wir feiern zwar im 2015 TeX's 37. Geburtstag, aber trotzdem geht die Entwicklung
 Ich gebe einen Überblick der Entwicklung in der TeXnischen Welt der letzten Jahre und riskiere einen Blick in die Zukunft.
 Der Vortrag richtet sich an alle, die in den letzten Jahr(zehnt)en TeX genutzt haben und wissen wollen, was seitdem geschehen ist.
 
+### Vorwissen
+
+Hat in den letzten Jahrzehnten mal intensiver mit TeX gearbeitet und möchte wissen, was es "Neues" gibt.
+
 </description>
+<links>
+
+- <a href="http://www.oneiros.de/tex/papers/" target="_blank">oneiros.de/tex/papers/</a>
+
+</links>
 <persons><person id="schroeder">Martin Schröder</person></persons>
 </event>
 </room>
@@ -894,7 +1318,33 @@ Ein paar Anpassungen von gpg bzw mutt oder auch des Editors und der Shell könne
 Eventuell gibt es noch eine Key Signing Party.
 Diese kann über den lokalen Keyserver geschehen - oder auch bei einem eigenen Termin des Events.
 
+### Vorwissen
+
+- Terminal: Starten - mit einer Shell darin. (CTRL-ALT-T oder so)
+- Shell: Navigieren und Editieren (Löschen und Einsetzen): CTRL-A, CTRL-E, ALT-B, ALT-F, CTRL-D CTRL-H, CTRL-W, CTRL-U (clear line), CTRL-K (kill rest of line), CTRL-T (transpose), CTRL-L (clear).
+- Verwendung der history, z.B. über event designators oder per CTRL-R (reverse incremental search)
+- Editor: Kenntnis einer der beiden Editoren (emacs bzw vim). Benutzer von anderen Editoren werden auch zugelassen - wenn sie keine dummen Fragen über Editoren stellen
+
+### Vorbereitung
+
+- den mailer mutt ("all mailers suck - but mutt sucks less")
+- das "OpenPGP encryption and signing tool" GnuPG (gpg)
+- die beiden Editoren (emacs+vim) (okay - evtl jed+nano)
+- terminal multiplexer wie screen+tmux, sowie die shells bash und zsh
+- Dann verwenden alle auch denselben Server - und können sich auch lokal emailen, z.B.:
+  $ echo dies ist ein test | mutt -s test otheruser
+
 </description>
+<links>
+
+- (Digitale) Schlüssel (Cryptokeys) <a href="http://de.wikipedia.org/wiki/Schl%C3%BCssel_(Kryptologie)" target="_blank">de.wikipedia.org/wiki/Schlüssel_(Kryptologie)</a>
+- Digital Signatur <a href="http://de.wikipedia.org/wiki/Digitale_Signatur" target="_blank">de.wikipedia.org/wiki/Digitale_Signatur</a>
+- Verschlüsselung <a href="http://de.wikipedia.org/wiki/Verschl%C3%BCsselung" target="_blank">de.wikipedia.org/wiki/Verschlüsselung</a>
+- Schlüsselverwaltung (key management) <a href="http://en.wikipedia.org/wiki/Key_management" target="_blank">en.wikipedia.org/wiki/Key_management</a>
+- Key Server - Schlüsselserver <a href="http://de.wikipedia.org/wiki/Schl%C3%BCsselserver" target="_blank">de.wikipedia.org/wiki/Schlüsselserver</a>
+- KeySigning Party <a href="http://de.wikipedia.org/wiki/Keysigning-Party" target="_blank">de.wikipedia.org/wiki/Keysigning-Party</a>
+- Web of Trust <a href="http://de.wikipedia.org/wiki/Web_of_Trust" target="_blank">de.wikipedia.org/wiki/Web_of_Trust</a>
+</links>
 <persons><person id="guckes">Sven Guckes</person></persons>
 </event>
 <event id="hrenka-python">
@@ -913,7 +1363,25 @@ IPython stellt eine komfortable interaktive Shell bereit, die Code, Formeln, Plo
 
 Im Workshop werden wir IPython interaktiv benutzen und die Teilnehmer können bei kleineren Übungen das Erlernte ausprobieren.
 
+### Vorwissen
+
+- Grundlagenwissen Python oder einer anderen Programmiersprache
+- Interesse an Mathematik, Zahlen oder griechischen Zeichen
+
+
+### Vorbereitung
+
+- Webbrowser
+- Eine lokale Installation von IPython >= 2.0, Numpy 1.9 und matplotlib.
+Am einfachsten nimmt man das distributionsunabhängige Anaconda Python (<a href="http://continuum.io/downloads" target="_blank">continuum.io/downloads</a>)
+
 </description>
+<links>
+
+- SciPy (<a href="https://www.scipy.org" target="_blank">scipy.org</a>)
+- SymPy (<a href="http://www.sympy.org" target="_blank">sympy.org</a>)
+- IPython (<a href="https://ipython.org/" target="_blank">ipython.org</a>)
+</links>
 <persons><person id="hrenka">Peter Hrenka</person></persons>
 </event>
 <event id="mundt_nachbauer-jessie_party">
@@ -927,7 +1395,16 @@ Debian GNU/Linux "Jessie" unter fachkundiger Anleitung installieren, gegebenenfa
 
 Per PXE, CD oder USB installieren wir Debian über einen Paketproxy. Verschiedene Desktops werden vorgestellt, das Vorgehen erläutert und anschließend das neue System ausprobiert und gegebenenfalls weiter eingerichtet.
 
+### Vorbereitung
+
+- Backup aller wichtigen Daten vorher anfertigen
+- mindestens 10GiB Plattenplatz sollten noch verfügbar sein
+
 </description>
+<links>
+
+- <a href="https://www.debian.org" target="_blank">www.debian.org</a>
+</links>
 <persons><person id="mundt_nachbauer">xxx</person></persons>
 </event>
 <event id="schmidt_stockmayer-gentoo">
@@ -944,6 +1421,13 @@ Um dies zu erreichen nutzt Gentoo ein spezielles Paketverwaltungssystem namens "
 In diesem Workshop wird kurz auf die Gentoo-Philosophie. die Benutzung von Portage und die Grundinstallation eingegangen.
 
 </description>
+<links>
+
+- Gentoo-Wiki:&nbsp;<a href="https://wiki.gentoo.org/wiki/Main_Page" target="_blank">wiki.gentoo.org/wiki/Main_Page</a>
+- Gentoo-Handbook:&nbsp;<a href="https://wiki.gentoo.org/wiki/Handbook:AMD64" target="_blank">wiki.gentoo.org/wiki/Handbook:AMD64</a>
+- Gentoo-Installation:&nbsp;<a href="https://wiki.gentoo.org/wiki/Handbook:AMD64" target="_blank">wiki.gentoo.org/wiki/Handbook:AMD64</a>
+- Portage:&nbsp;<a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage" target="_blank">wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage</a>
+</links>
 <persons><person id="schmidt_stockmayer">xxx</person></persons>
 </event>
 </room>
@@ -957,7 +1441,108 @@ In diesem Workshop wird kurz auf die Gentoo-Philosophie. die Benutzung von Porta
 <description>
 Der Workshop wird sich wie folgt gliedern:
 
-#</description>
+#### Was ist X2Go?
+
+- Was kann X2Go?
+- Was kann X2Go NICHT?
+- Wer steckt hinter X2Go?
+
+#### Woraus besteht X2Go?
+
+- Ein Blick in die Pakete
+- Abhängigkeiten
+- Dienste
+- Initiales Debugging
+
+#### Welche Probleme erzeugt ein Remote Desktop?
+
+- Umleitung Bildschirm (1,2,...;Auflösung,...)
+- Umleitung Eingabegeräte
+- Umleitung Datenträger
+- Umleitung Drucker
+- Umleitung "Warum nicht einfach ALLES"?
+
+#### Welche Probleme erzeugt die Remote Desktop Wiedergabe?
+
+- Darstellung
+- Protokoll- / Datenübertragung
+- Benutzerrechte
+- Systemressourcen
+- Codeverfügbarkeit
+- Ideologie
+
+#### Erste Installation X2Goserver
+
+- X2GoSessionsDB (sqlite)
+- X2Golistsessions
+- X2Goruncommand
+- Welche Rechte benötigt der Benutzer?
+
+#### Erste Installation X2GoClient
+
+- Wahl des Desktops
+- Wahl einer beliebigen Anwendung
+- Anhalten und Fortführen von Sitzungen
+  - Einschränkungen
+- "Automatische Anmeldung"
+
+#### Konfiguration X2GoClient
+
+- Display
+  - Packalgorithmen und Bildformate
+  - Vollbild vs. Fenstermodus
+- Eingabe
+  - Tastaturlayouts (Debugging)
+- Sound
+  - Architekturen
+  - Debugging
+- Drucker- & Dateifreigabe
+  - SSHFS
+  - FUSE
+
+#### Erweiterte X2GoServer Installation
+
+- Absicherung des Servers
+- Auswahl an freigegebenen Programmen
+- X2GoSessionsDB (postgres)
+- Mehrfachanmeldungen erlauben / Verhindern
+- Sessions aufräumen / IDLE-Time beschränken
+- Multiserver Konzepte
+
+#### Erweiterte X2GoClient Installation
+
+- Portable Mode
+- Hidden Mode (Desktop Symbol)
+- X2GoClient Commandline Optionen
+  - Vorauswahl Sitzungen
+  - Individualisierung
+  - Client vor Veränderungen schützen
+  - LDAP / Displaymanager Modus
+
+#### Falls genug Zeit bleibt:
+
+- Installation einer Thin Client Umgebung
+- Gedanken und Techniken einer MultiNODE Installation
+  - Load Balancing
+  - SSH-Proxying
+  - Protokollerweiterung (HTML5 Client,...)
+
+### Vorbereitung
+
+Für bis zu 14 Teilnehmern stehen Debian LXC Container zur Verfügung.
+Sollten mehr teilnehmen wollen, sollte eine Virtuelle Maschine/Container
+auf dem lokalen Rechner zur Verfügung stehen. Das Schulungsimage stellen
+wir zur Verfügung.
+
+Auf dem Client wird SSH und eine X2Goclient Installation benötigt.
+Linux auf dem Client ist sehr empfehlenswert!
+
+</description>
+<links>
+
+- <a href="http://wiki.x2go.org" target="_blank">wiki.x2go.org</a>
+- <a href="http://de.wikipedia.org/wiki/X2Go" target="_blank">de.wikipedia.org/wiki/X2Go</a>
+</links>
 <persons><person id="graesing">Heinz Graesing</person></persons>
 </event>
 <event id="koelbel-privacyidea">
@@ -979,7 +1564,19 @@ Dazu erhält jeder Teilnehmer einen eigenen Yubikey, zum Experimentieren und Mit
 
 Außerdem erfahren wir in dem Workshop, wie man die Authentisierung von vielen Benutzern an vielen Servern leicht verwalten kann.
 
+### Vorwissen
+
+MySQL, Webserver (Apache2 oder Nginx) wünschenswert
+
+### Vorbereitung
+
+Wer das System selber installieren will, bringt bitte eine virtuelle Maschine mit Ubuntu 14.04 LTS mit.
+
 </description>
+<links>
+
+- <a href="https://www.privacyidea.org" target="_blank">privacyidea.org</a>
+</links>
 <persons><person id="koelbel">Cornelius Kölbel</person></persons>
 </event>
 <event id="krug-libreoffice">
@@ -996,6 +1593,21 @@ Der Workshop bietet Dir zwei Themen zur Auswahl. Durch eine Abstimmung in der Ve
 
 Egal wie die Wahl ausfällt, Du lernst immer etwas dazu! Zwischen Theoriehäppchen wird das neue Wissen sofort praktisch am mitgelieferten Fallbeispiel eingeübt. Es besteht die Möglichkeit, im Workshop Fragen zu stellen und gemeinsam Lösungen zu entwickeln.
 
+### Inhalte zur Wahl
+
+- Serienbriefe: Hier werden Dokumente effizient aus Tabellen befüllt. Wir kümmern uns um die Bereitstellung der Daten, Einbindung in den Text und berücksichtigen auch Extravaganzen wie die Anpassung von Textbausteinen an den Empfänger. Abschließend geben wir unsere Arbeit in eine Datei oder an einen Drucker aus.
+
+- Automatische Formatierung: Moderne Textverarbeitung kann viel mehr als eine Schreibmaschine: Sie bietet Werkzeuge, um Überschriften und Abbildungen zu verwalten und daraus automatische Inhalts- und Abbildungsverzeichnisse zu erstellen. Sie kann Seitenvorlagen nutzen und zentrale Informationen wie Autor und Kapitel in Kopf- und Fußzeilen schreiben. Mithilfe ausgefuchster Navigationsfunktionen wird es möglich, sich blitzschnell an gesuchte Stellen zu klicken oder sogar die komplette Arbeit binnen Minuten neu zu strukturieren.
+
+### Vorwissen
+
+Vorherige Nutzung von Textverarbeitung
+
+### Vorbereitung
+
+- Laptop funktionstüchtig, Akku geladen
+- LibreOffice 4 installiert und mindestens einmal aufgerufen (um sicherzustellen, daß es läuft!)
+- Beispieldateien von <a href="http://www.iscait.com/tuebix" target="_blank">www.iscait.com/tuebix</a> – Paßwörter gibt es in der Veranstaltung
 </description>
 <persons><person id="krug">Stefan Krug</person></persons>
 </event>
@@ -1017,6 +1629,21 @@ Anhand eines praktischen Beispiels schauen wir uns an:
 - Formelsatz
 - Literaturverzeichnis mit Bibtex
 
+### Vorbereitung
+
+- Laptop funktionstüchtig, Akku geladen
+- vollständig installiertes Latex:
+  - Mac OSX: <a href="http://www.tug.org/mactex/" target="_blank">tug.org/mactex/</a>
+  - Windows: <a href="http://www.tug.org/protext/" target="_blank">tug.org/protext/</a>
+  - Linux: selber drum kuemmern, evtl. bereits installiert,
+
+möglichst aktuelles Texlive, zum Beispiel <a href="http://www.tug.org/texlive/" target="_blank">tug.org/texlive/</a>
+
+- ideal: installierter Editor Texstudio
+  - Windows: ist bei Protext dabei
+  - Mac und Linux-User holen es sich hier: <a href="http://texstudio.sourceforge.net" target="_blank">texstudio.sourceforge.net</a>
+
+- Beispieldateien (ab 8. Juni downloadbar) von <a href="http://astro.uni-tuebingen.de/~nagel/pub/tuebix" target="_blank">astro.uni-tuebingen.de/~nagel/pub/tuebix</a>
 </description>
 <persons><person id="nagel">Thorsten Nagel</person></persons>
 </event>
@@ -1034,6 +1661,12 @@ Es sind keinerlei Computer- oder Programmier-Vorkenntnisse nötig.
 
 Wenn du nicht genau weißt, was dich in dem Workshop erwartet, oder wenn du sonstige Fragen oder Wünsche hast, kannst du Ingo jederzeit informal und unverbindlich eine Mail (siehe unten) schreiben.
 
+### Vorbereitung
+
+- Bitte per Mail bei Ingo anmelden: <a href="mailto:iblech@web.de">iblech@web.de</a>
+- Teilnahme bereits ab 5. Klasse möglich!
+- Laptop mitbringen!
+- Es ist keine Installation nötig, und wir werden das Laptopsystem auch nicht ändern. Wir werden den Laptop nur verwenden, um auf eine Webseite zu gehen.
 </description>
 <persons><person id="blechschmidt">Ingo Blechschmidt</person></persons>
 </event>
@@ -1050,7 +1683,21 @@ OpenSCAD ist freie Software unter der GNU GENERAL PUBLIC LICENSE V2 und neben di
 
 Im Workshop wird die zu OpenSCAD gehörende Programmiersprache anhand einiger vorbereiteter Beispiele und Aufgaben so weit erlernt, dass mit Hilfe grundlegender Formen und Methoden das Design fast belibiger 3D-Objekte möglich wird. Die Ergebnisse sind durch diverse 3D-Druckprogramme leicht importierbar. Weiterhin werden Tipps für den erfolgreichen 3D-Druck gegeben, und Fragen zum Thema beantwortet.
 
+### Vorwissen
+
+- Kenntnis einer beliebigen prozeduralen Programmiersprache (z.B. C, Bash, Basic, PHP, ...) ist vorteilhaft, aber nicht zwingend erforderlich.
+- Texteingaben über eine normale Tastatur sollten jedenfalls beherrscht werden.
+
+### Vorbereitung
+
+- Nach Möglichkeit sollten sich die Teilnehmer zum Workshop-Beginn bereits eine aktuelle Version von OpenSCAD auf ihren Rechner installiert haben.
+- Bootbare Knoppix-USB-Sticks mit installiertem OpenSCAD können in begrenztem Umfang für die Kursdauer zur Verfügung gestellt werden.
+
 </description>
+<links>
+
+- <a href="http://www.openscad.org/" target="_blank">www.openscad.org</a> 
+</links>
 <persons><person id="knopper">Prof. Dipl.-Ing. Klaus Knopper</person></persons>
 </event>
 <event id="waelde-emacs">
@@ -1086,7 +1733,18 @@ Der Editor ist eines der wichtigsten Werkzeuge für alle, die Zeit am Rechner ve
   - Info/manpage reader
   - Spielzeug
 
+### Vorbereitung
+
+- Notebook mit installiertem emacs (Version 24 bevorzugt, NICHT Xemacs, das ist was anderes)
+- Debian: apt-get install emacs24 emacs24-common-non-dfsg
+
 </description>
+<links>
+
+- <a href="http://www.gnu.org/software/emacs/" target="_blank">http://www.gnu.org/software/emacs/</a>
+- <a href="http://www.emacswiki.org/" target="_blank">http://www.emacswiki.org/</a>
+- <a href="http://orgmode.org/" target="_blank">http://orgmode.org/</a>
+</links>
 <persons><person id="waelde">Erich Wälde</person></persons>
 </event>
 <event id="zimmer-vim">
@@ -1108,6 +1766,13 @@ Abbreviations)
 - Arbeiten im "visual mode"
 - Skeletons
 
+### Vorwissen
+
+vimtutor mal durchgespielt zu haben wäre praktisch aber nicht zwingend
+
+### Vorbereitung
+
+vim 7.x sollte zur Hand sein
 </description>
 <persons><person id="zimmer">Toni Zimmer</person></persons>
 </event>
