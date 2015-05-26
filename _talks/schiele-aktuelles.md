@@ -21,7 +21,7 @@ eigentlich?
 - asm.js / Webtechniken
 - biologische Programmierung
 - was passiert mit Open Source? FLOSS in Zukunft noch relevant?
-- hackerspaces und was man alles bauen & reparieren kann
+- hackerspaces und was man alles bauen und reparieren kann
 
 ### Vorwissen
 
