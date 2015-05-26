@@ -1028,7 +1028,7 @@ Die Nutzungsdauer von Mobilgeräten zeichnet sich heutzutage durch eine kurze Ha
 
 Dies muss nicht sein, schließlich eignen sich diese üppig ausgestatteten Kleinstcomputer für eine Vielzahl von praktischen Einsatzzwecken, die der Hersteller beim Kauf so sicher nicht beworben hat.
 
-Wie und mit welchen teilweise freien Apps sich das Leben dieser Geräte verlängern lässt und ihnen in der Wohnung, im Auto, am Schreibtisch oder gar als Konkurrenz zu Raspberry Pi & Co ein komplett neues, zweites Leben einhauchen lässt, stellt dieser Vortrag vor.
+Wie und mit welchen teilweise freien Apps sich das Leben dieser Geräte verlängern lässt und ihnen in der Wohnung, im Auto, am Schreibtisch oder gar als Konkurrenz zu Raspberry Pi und Co ein komplett neues, zweites Leben einhauchen lässt, stellt dieser Vortrag vor.
 </description>
 <persons><person id="gantikow">Holger Gantikow</person></persons>
 </event>
@@ -1423,10 +1423,10 @@ In diesem Workshop wird kurz auf die Gentoo-Philosophie. die Benutzung von Porta
 </description>
 <links>
 
-- Gentoo-Wiki:&nbsp;<a href="https://wiki.gentoo.org/wiki/Main_Page" target="_blank">wiki.gentoo.org/wiki/Main_Page</a>
-- Gentoo-Handbook:&nbsp;<a href="https://wiki.gentoo.org/wiki/Handbook:AMD64" target="_blank">wiki.gentoo.org/wiki/Handbook:AMD64</a>
-- Gentoo-Installation:&nbsp;<a href="https://wiki.gentoo.org/wiki/Handbook:AMD64" target="_blank">wiki.gentoo.org/wiki/Handbook:AMD64</a>
-- Portage:&nbsp;<a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage" target="_blank">wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage</a>
+- Gentoo-Wiki: <a href="https://wiki.gentoo.org/wiki/Main_Page" target="_blank">wiki.gentoo.org/wiki/Main_Page</a>
+- Gentoo-Handbook: <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64" target="_blank">wiki.gentoo.org/wiki/Handbook:AMD64</a>
+- Gentoo-Installation: <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64" target="_blank">wiki.gentoo.org/wiki/Handbook:AMD64</a>
+- Portage: <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage" target="_blank">wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage</a>
 </links>
 <persons><person id="schmidt_stockmayer">xxx</person></persons>
 </event>
@@ -1496,7 +1496,7 @@ Der Workshop wird sich wie folgt gliedern:
 - Sound
   - Architekturen
   - Debugging
-- Drucker- & Dateifreigabe
+- Drucker- und Dateifreigabe
   - SSHFS
   - FUSE
 
