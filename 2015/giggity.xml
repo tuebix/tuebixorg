@@ -17,7 +17,24 @@
 <room>V1</room>
 <title>Operating-system-level virtualization</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Hands-on Einführung in operating-system-level virtualization.
+
+1. Technische Grundlagen: Implementierung und Möglichkeiten im/des Kernels:
+  - Wie funktionieren cgroups?
+  - Was kann man mit ihnen machen?
+  - Was ist namespace isolation?
+  - Was sind linux capabilities?
+
+2. Use-case 1 (Workflow):
+  - Wie konfiguriere und nutze ich low-level container virtualization tools wie lxc, für software development?
+  - Was sind die Vorteile?
+
+3. Use-case 2 (Sandboxing-Security):
+  - Operating-system-level virtualization zum sandboxing proprietärer software mit grafischen output, GPU-access (Hardware access auf dem Host im allgemeinen) (z.B. Google Chrome im Container)
+  - Einführung in unpriviligierte Container, die user namespaces nutzen
+
+</description>
 <persons><person id="brauner">Christian Brauner</person></persons>
 </event>
 <event id="flebbe-bigdata1">
@@ -26,7 +43,11 @@
 <room>V1</room>
 <title>Big Data in a Nutshell</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Wie funktioniert ein Big Data System?
+Es werden Software Projekte, Buildsysteme, Installation, Funktionsweise und Anwendung demonstriert.
+
+</description>
 <persons><person id="flebbe">Olaf Flebbe</person></persons>
 </event>
 <event id="gantikow-verkehrte_welt">
@@ -35,7 +56,35 @@
 <room>V1</room>
 <title>Verkehrte Welt - Linux im High Performance Computing</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Supercomputer, die für weit mehr als Wettersimulation eingesetzt werden, haben alle eines gemeinsam: sie werden fast ausschließlich durch Linux zum Fliegen gebracht.
+
+Wie sich diese "fremde Welt" entwickelt hat, wie Linux dort seine unangefochtene Pole-Position erlangte, welchen Stellenwert Open Source Software in diesem Umfeld genießt und welche Themen und Werkzeuge aus dem Bereich des High Performance Computings (HPC) auch für die normale IT relevant sind, stehen im Fokus des Vortrags.
+
+<br/>
+Auch wenn Linus Torvalds nach wie vor Linux auf dem Desktop den Durchbruch verschaffen will, konnte sich der Pinguin bislang dort nie wirklich ansiedeln und fristet auf dem Desktop somit eher ein Nischendasein. Dieser Markt wird heute nach wie vor von Microsoft Windows dominiert.
+
+Dass dies nicht für alle Bereiche gelten muss, zeigt der Markt der Supercomputer, die meist in den Rechenzentren von Forschungsinstituten und großen Firmen vor dem Auge der Öffentlichkeit verborgen bleiben.
+
+Supercomputer werden in vielfältigen Bereichen eingesetzt, immer dann, wenn es darum geht komplexe Systeme zu berechnen, zu simulieren oder zu modellieren wie dies beispielsweise beim Auffinden von Öl- und Gas-Vorkommen oder in der numerischen Strömungsmechanik nötig ist.
+
+Ihnen allen ist eines gemeinsam: sie werden fast ausschließlich durch Linux zum Fliegen gebracht - und das nicht erst seit gestern, wie ein Blick in die Historie der Top500 [1], der Liste der 500 schnellsten Supercomputer zeigt.
+
+Linux hält hier seit über zehn Jahren seine Poleposition inne und alle Zeichen sprechen dafür, dass dich daran die nächste Zeit nichts ändert.
+
+Wie sich diese "fremde Welt" entwickelt hat, wie Linux dort seine Dominanz erlangte, welchen Anteil an diesem Erfolg der Open Source Gedanke hat, was es mit dem frühmittelalterlichen epischen Heldengedicht "Beowulf" in diesem Umfeld auf sich hat und welche Themen und Werkzeuge aus dem Bereich des High Performance Computings (HPC) auch für die normale IT relevant sind, stehen im Fokus des Vortrags.
+
+So sollen hierbei nicht die neusten Queueing-Systeme oder das die Programmierschnittstelle MPI kurz vorgestellt werden, sondern Hilfsmittel, die auch in einer alltäglichen Unternehmens-IT genutzt werden können, um Herr der ständig wachsenden Datenmengen zu bleiben.
+
+Dazu zählen neben denen unter Linux vielfältigen, verteilten Dateisystemen beispielsweise Werkzeuge wie die Robin Hood Policy Engine [2], die sich bei mehreren TB großen Dateisystemen als effiziente Alternative zu den Klassikern "find" und "du" anbieten.
+
+Darüber hinaus wird kurz beleuchtet, ob sich ein Ausflug in die Cloud für solche Computing-Aufgaben "rechnen" kann.
+
+Für den Vortrag ist kein besonderes Vorwissen nötig, ein allgemeines Interesse an Linux, freier Software und daran, in eine Welt jenseits des Desktops und dem "normalem IT-Alltag" zu schnuppern, schadet sicher nicht ;)
+
+Beim Linux-Magazin online ist ein zusammenfassender Basis-Artikel zum Thema erschienen [5], sowie kurze Vorstellungen der Robin Hood Policy Engine [3] und ein Überblick über in diesem Umfeld anzutreffende Dateisysteme [4].
+
+</description>
 <persons><person id="gantikow">Holger Gantikow</person></persons>
 </event>
 <event id="goetz-bigdata2">
@@ -44,7 +93,12 @@
 <room>V1</room>
 <title>Big Data Analytics</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Im Anschluss an den <a href="http://www.tuebix.org/programm/flebbe-bigdata1">Vortrag von Olaf Flebbe</a> stelle ich exemplarisch vor, welche Fragestellungen mit einer Big Data Umgebung wie angegangen werden. Neben der direkten Auswertung in Hadoop zeige ich Open Source Software, die einem Datenanalysten helfen, solche Auswertungen durchzuführen.
+
+Zunächst führe ich sehr grob in die Thematik des Machine Learnings ein. Dabei stelle ich einige wichtige Verfahren vor, die dafür verwendet werden können. Dann gehe ich darauf ein, wie diese direkt in Hadoop genutzt werden können. Darüber hinaus zeige ich, welche Frontends es für die Auswertung darüber hinaus gibt. Besonders gehe ich dabei auf KNIME und R etwas tiefer ein.  Anhand einiger Praxisbeispiele zeige ich anschließend, wie diese genutzt werden können.
+
+</description>
 <persons><person id="flebbe">Thomas Götz</person></persons>
 </event>
 <event id="knopper-knoppix_raspi">
@@ -53,7 +107,23 @@
 <room>V1</room>
 <title>Knoppix auf dem Raspberry Pi</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Knoppix (<a href="http://knopper.net/knoppix/" target="_blank">knopper.net/knoppix/</a>) ist als Live-System mit
+automatischer Hardware-Erkennung für Desktop-Rechner und Notebooks
+konzipiert. ARM-basierte Minicomputer und Embedded Systeme stellen
+aufgrund der architekturbedingt mangelnden
+Hardware-Erkennungsmöglichkeit einerseits eine Herausforderung für
+Live-Systeme dar, andererseits ist Knoppix bereits für den Start und
+Betrieb von Flash-Speicher optimiert, und einige der Konzepte von
+Knoppix lassen sich teilweise performance-steigernd für das beliebte
+Raspberry Pi Board übertragen.
+
+- Wie baut man ein "Live-System" für Raspberry Pi und andere Mini-Rechner, die keine
+Hardware-Erkennung unterstützen?
+- Kann das RasPi2 z.B. einen Desktop-Rechner ersetzen?
+- Experimente und Beispiele für ein "knoppifiziertes" Rasbian
+
+</description>
 <persons><person id="knopper">Prof. Dipl.-Ing. Klaus Knopper</person></persons>
 </event>
 <event id="koenig-bash">
@@ -62,7 +132,18 @@
 <room>V1</room>
 <title>Haralds kleine Helferlein: die Shell</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Im Vortrag wird «interaktiv» ganz langsam und in kleinen Schritten ein Shell-Skript entwickelt – um zu demonstrieren, wie einfach das mit ein wenig Übung sein kann (und wie nützlich zum Schluss!).
+Mit der Shell (bash) und einer kleinen Zahl hilfreicher Kommandozeilen-Tools kann man sehr schön Daten bearbeiten, umwandeln, verarbeiten und auswerten. Einmal erlernt und geübt ist dies ein praktisches und mächtiges Werkzeug in UNIX, welches durch die grafischen Oberflächen vielfach zu Unrecht immer mehr in Vergessenheit gerät.
+
+mögliche Themen:
+
+- Spritpreise monitoren, auswerten/plotten und sich Gedanken machen (vgl. vortraege der letzten Jahre, z.b. http://chemnitzer.linux-tage.de/2014/de/vortraege/detail/277 )
+- Canon RAW Bilder von einer CFCARD retten/undeleten -- mit SHELL und dd
+- Zahlenspielereien mit dem Kalender: welcher Wandkalender passt dieses/nächstes Jahr?
+- andere Ideen ?
+
+</description>
 <persons><person id="koenig">Harald König</person></persons>
 </event>
 <event id="koenig-tagesabschluss">
@@ -71,7 +152,7 @@
 <room>V1</room>
 <title>Haralds Tagesabschluss</title>
 <type>talk</type>
-<description>description</description>
+<description>nodescription</description>
 <persons><person id="koenig">Harald König</person></persons>
 </event>
 <event id="reber-mirrorserver">
@@ -80,7 +161,20 @@
 <room>V1</room>
 <title>Mirror Server Verwaltung</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Dieser Vortrag soll Details zum Mirror Server (ftp-stud.hs-esslingen.de) in Esslingen liefern.
+
+- Seit wann gibt es den Server?
+- Wie ist er entstanden?
+- Wer steckt dahinter?
+- Warum wird er betrieben?
+- Wie wird er betrieben?
+- Wie und was wird gespiegelt?
+
+Zweiter Teil des Vortrags wird eine kurze Vorstellung, wie ein Mirror in ein Mirror Netzwerk eingebunden ist.
+Exemplarisch am Mirror Netzwerk von Fedora, welches auf der Software MirrorManager basiert.
+
+</description>
 <persons><person id="reber">Adrian Reber</person></persons>
 </event>
 <event id="schiebel-linuxmuster">
@@ -89,7 +183,15 @@
 <room>V1</room>
 <title>Schulnetz - linuxmuster.net</title>
 <type>talk</type>
-<description>description</description>
+<description>
+linuxmuster.net ist eine umfassende Komplettlösung für den Betrieb schulischer Netzwerke.
+Serverseitig kommt Ubuntu zum Einsatz, der Betrieb der Arbeitsplatzrechner ist unter verschiendenen Windows Versionen und Linux möglich.
+Softwareverteilung und störungsfreier Betrieb werden durch selbstheilende Arbeitsstationen (SheilA) ermöglicht, bei denen jeder Arbeitsplatzrechner in kurzer Zeit mit dem gewünschten Betriebssystem und der nötigen Software in einer Standardkonfiguration gestartet werden kann.
+Weiterentwicklung, Pflege und Support finden unter dem Dach des gemeinnützigen Vereins “linuxmuster.net e.V.” statt.
+
+Der Vortrag führt in die Besonderheiten schulischer Netzwerke ein und erläutert das Konzept der freien Musterlösung linuxmuster.net.
+
+</description>
 <persons><person id="schiebel">Frank Schiebel</person></persons>
 </event>
 <event id="seidel-tcp_stealth">
@@ -98,7 +200,18 @@
 <room>V1</room>
 <title>TCP Stealth - Port Knocking neu aufgelegt</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Portscans als Werkzeug zum Aufspüren verwundbarer Rechner sind ein alter Hut. Ein Möglichkeit den Bösewichten das Leben zu erschweren ist das sogenannte Port-Knocking. Die Diskussionen in der Vergangenheit ware meist kontrovers.
+"Sicherheit durch Verschleiern" ist fuer manche Experten ueberhaupt keine akzeptable Massnahme.
+Zudem hat das "Anklopf-Verfahren" ein paar Schwächen.
+Medienberichte über Portscans ganzer Länder durch Geheimdienste haben die Diskussion über Abwehrmassnahmen neu belebt.
+Port-Knocking spielt dabei eine zentrale Rolle.
+Das hier vorgestellte Verfahren entstand zunächst als Forschungsprojekt einer Vorlesung an der TU München.
+Ziel von TCP Stealth ist die Abwehr von Portscans bei gleichzeitiger Addressierung der Schwächen alternativer Anklopf-Implementierungen.
+
+Der Vortrag stellt die Idee und Architektur hinter TCP Stealth vor und beinhaltet auch einen kleine Demo.
+
+</description>
 <persons><person id="seidel">Dr. Udo Seidel</person></persons>
 </event>
 </room>
@@ -109,7 +222,12 @@
 <room>V2</room>
 <title>Karrierechancen mit Open Source-Know-how und LPI-Zertifikat</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Das Linux Professional Institute (LPI) möchte dabei helfen und erreichen, daß Fachkräfte einen adäquaten Job im Bereich der Linux und Open Source Technologien bekommen und langfristig halten. Fachkräfte sollen mit den Kenntnissen ausgerüstet werden, die sie für ihren Job benötigen.
+
+Im Vortrag wird das Zertifizierungsprogramm des LPI erklärt und deutlich gemacht, wie das LPI die heranwachsenden Fachkräfte mit den notwendigen Kenntnissen ausrüstet und wie die LPI Prüfungen ablaufen.
+
+</description>
 <persons><person id="behrla">Klaus Behrla</person></persons>
 </event>
 <event id="blechschmidt-wireshark">
@@ -118,7 +236,15 @@
 <room>V2</room>
 <title>Netzwerksniffing mit Wireshark</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Wireshark ist ein freies Werkzeug, mit dem man aus- und eingehenden Netzwerkverkehr mitschneiden und analysieren kann.
+
+Das ist allgemein nützlich, wenn man wissen möchte, wie Daten genau aussehen, die Programme, Webseiten, Smartphones und sonstige Geräte übers Netzwerk schicken und empfangen.
+Konkret kann man Verbindungsprobleme diagnostizieren, Netzwerkprotokolle verstehen, das eigene Sicherheitsbewusstsein schärfen und herausfinden, welche Informationen Programme beim nach Hause telefonieren übertragen.
+
+Der Vortrag wird in die Bedienung von Wireshark einführen und dann mehrere Beispiele vorführen.
+
+</description>
 <persons><person id="blechschmidt">Ingo Blechschmidt</person></persons>
 </event>
 <event id="gietz-openldap">
@@ -127,7 +253,18 @@
 <room>V2</room>
 <title>Einführung in OpenLDAP</title>
 <type>talk</type>
-<description>description</description>
+<description>
+OpenLDAP ist eine hochskalierbare und hochperformante standardkonforme Open-Source-Implementierung des IETF-Protokolls LDAP.
+
+- Einführung in Verzeichnisdienste
+- Unterschiede zu relationalen Datenbanken
+- Einführung in das LDAP Datenmodell
+- Einführung in das LDAP-Protokoll
+- Einführung in OpenLDAP
+- Warum OpenLDAP?
+- Implementierungsbeispiele
+
+</description>
 <persons><person id="gietz">Peter Gietz</person></persons>
 </event>
 <event id="guckes-muttgpg1">
@@ -136,7 +273,24 @@
 <room>V2</room>
 <title>mutt + gpg - Sichere Email</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Ich zeige den mailer "mutt" und seine Schnittstelle zum Signieren + Verschlüsseln.
+
+Eine LIVE Vorführung des Mailprogramms  mutt im Zusammenspiel mit der Verschlüsselung GPG:
+
+* Ein Blick in meine INBOX - signierte bzw verschlüsselte Mails
+* Wie sieht eigentlich so ein Schlüssel aus?  (die reinen Daten)
+* Ansicht einer signierten/verschlüsselten Email - body + header im editor
+* Ansicht einer signierten/verschlüsselten Email - body + header in mutt
+* Demo: Mails versenden mit Digitaler Signatur und/oder Verschlüsselung
+* Demo: Mails versenden mitsamt Schlüssel als Anhang
+* Ein bisschen Terminologie
+* Persönliche Bemerkungen
+* Hinweis auf weitere Themen
+* Unsere Zukunft mit Crypto
+* Workshop, anyone?
+
+</description>
 <persons><person id="guckes">Sven Guckes</person></persons>
 </event>
 <event id="hofmann-surfen">
@@ -145,7 +299,7 @@
 <room>V2</room>
 <title>Schneller und sicherer Surfen im Internet</title>
 <type>talk</type>
-<description>description</description>
+<description>nodescription</description>
 <persons><person id="hofmann">Frank Hofmann</person></persons>
 </event>
 <event id="kemmer-network_steganography">
@@ -154,7 +308,11 @@
 <room>V2</room>
 <title>Steganographic Communication using TCP Inter Burst Delays</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Zensur und Überwachung, insbesondere im Internet, sind heutzutage allgegenwärtig. Nicht zuletzt durch die NSA wurde deutlich, dass Bedarf an privaten Kommunikationsmöglichkeiten besteht. Bedarf, der nicht immer durch Verschlüsselung gedeckt werden kann.
+Nach einer kurzen Einführung in die Grundidee der Steganographie werden verschiedene Ansätze zur Umsetzung dieser Idee auf Netzwerkebene gezeigt. Anschließend wird ein neuartiges Verfahren vorgestellt, bei dem geheime Botschaften in scheinbar normale FTP-Übertragungen eingebettet werden. Neben dem Design wird auch von Erfahrungen bei der Implementierung des Protoyps berichtet sowie Vor- und Nachteile gegenüber existierenden Methoden erläutert.
+
+</description>
 <persons><person id="kemmer">Florian Kemmer</person></persons>
 </event>
 <event id="kockler-puppet1">
@@ -163,7 +321,17 @@
 <room>V2</room>
 <title>Puppet I: Zentrale Administration einer Server Infrastruktur</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Installation und Grundlagen von Puppet zum zentralen Administrieren einer Server Infrastruktur
+
+Es wird das Configuration Management System Puppet vorgestellt, welches eine zentrale Administration von Servern ermöglicht.
+Der Vortrag richtet sich an Administratoren, die bereits grundlegende Erfahrung mit der Administration einzelner Server unter Linux haben oder die zumindest Linux Grundlagenwissen haben.
+Erklärt werden der Aufbau und der Zweck einer mit Puppet administrierten Server Infrastruktur.
+Gezeigt werden dann die Installation von Puppet sowie grundlegende Konfigurationsschritte bis hin zu einer laufenden Konfiguration.
+
+Dies ist der erste von zwei aufeinander aufbauenden Vorträgen über Puppet.
+
+</description>
 <persons><person id="kockler">Torsten Kockler</person></persons>
 </event>
 <event id="kockler-puppet2">
@@ -172,7 +340,15 @@
 <room>V2</room>
 <title>Puppet II: Strukturierte Puppet-Umgebung</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Fortgeschrittene Puppet Administration mit Hiera, Hiera eyaml und Rollen
+
+Gezeigt wird die fortgeschrittene Administration einer Puppet-Umgebung.
+Der Vortrag baut auf dem Wissen auf das in dem Vortrag <a href="http://www.tuebix.org/programm/kockler-puppet1/">"Puppet I: Zentrale Administration einer Server Infrastruktur"</a> vermittelt wurde und ergänzt dieses um Konzepte wie der Trennung von Konfigurationsscripten und Daten durch Hiera, Verschlüsselung geheimer Daten wie Passwörter durch das Hiera Backend eyaml, sowie der Einführung eines Rollenkonzepts für unterschiedliche Arten von Servern.
+
+Dies ist der zweite von zwei aufeinander aufbauenden Vorträgen über Puppet.
+
+</description>
 <persons><person id="kockler">Torsten Kockler</person></persons>
 </event>
 <event id="schiele-nixos">
@@ -181,7 +357,17 @@
 <room>V2</room>
 <title>Was ist NixOS?</title>
 <type>talk</type>
-<description>description</description>
+<description>
+- Einführung in die Vorteile/Nachteile von NixOS
+- Einführung in die Nix Programmiersprache
+
+Vorteile von NixOS:
+
+- declarative
+- reliable
+- devops friendly
+
+</description>
 <persons><person id="schiele">Joachim Schiele</person></persons>
 </event>
 </room>
@@ -192,7 +378,41 @@
 <room>V3</room>
 <title>Haskell, eine rein funktionale Programmiersprache</title>
 <type>lightning</type>
-<description>description</description>
+<description>
+Was ist schneller als C++, prägnanter als Perl, regelmäßiger als Python,
+flexibler als Ruby, typisierter als C#, robuster als Java und hat
+absolut nichts mit PHP gemeinsam? Es ist Haskell!
+
+Haskell ist eine moderne und innovative Programmiersprache, die sich von
+bekannten imperativen Sprachen in vielerlei Hinsicht deutlich
+unterscheidet: Ein Haskell-Programm besteht nicht etwa aus einer Abfolge
+von auszuführenden Anweisungen, sondern aus einer Ansammlung von
+Deklarationen, deren Reihenfolge keine Rolle spielt. Auch gibt es keine
+veränderlichen Variablen, und ausgewertet wird nur, was wirklich
+benötigt wird; unendliche Datenstrukturen sind möglich und sinnvoll.
+Dieses Denkparadigma mag anfangs sehr ungewohnt sein, zieht jedoch eine
+Reihe von Vorteilen mit sich: Da es keine Nebenwirkungen wie
+beispielsweise globale Variablen gibt, kann man Code rein lokal
+verstehen. Damit wird es einfacher, modular Komponenten zusammenzubauen,
+sich Datenflüsse klarzumachen und Code auf seine Korrektheit hin zu
+überprüfen. Insbesondere vereinfacht sich die Programmierung mit Threads
+enorm.
+
+Ferner ist Haskells starkes statisches Typsystem eine große Hilfe beim
+Programmieren und verhindert viel mehr Fehler schon während des Kompilierens,
+als man vielleicht aus anderen Sprachen gewohnt ist. Es gibt das Motto, dass,
+wenn Haskell-Code erst einmal erfolgreich durchkompiliert, er dann auch schon
+korrekt ist. Das ist sicherlich übertrieben, hat aber einen erstaunlich wahren
+Kern.
+
+Der Vortrag wird einen subjektiven Überblick über die Fähigkeiten und
+typischen Anwendungsgebiete von Haskell geben. Beim Erlernen von Haskell
+lernt man viele neue Herangehensweisen kennen, die auch in anderen
+Sprachen nützlich sind; das ist einer der Hauptvorteile an Haskell, der
+auch dann noch relevant ist, wenn man aus verschiedenen Gründen nicht in
+Haskell programmieren möchte.
+
+</description>
 <persons><person id="blechschmidt">Ingo Blechschmidt</person></persons>
 </event>
 <event id="blechschmidt-sandstorm">
@@ -201,7 +421,11 @@
 <room>V3</room>
 <title>Sandstorm, eine einfache Plattform für private Cloud-Server</title>
 <type>lightning</type>
-<description>description</description>
+<description>
+Die vier wesentlichen Freiheiten freier Software werden durch proprietäre Web-Dienste bedroht.
+Mit Sandstorm wird es einfach, freie Server-Software privat einzusetzen.
+
+</description>
 <persons><person id="blechschmidt">Ingo Blechschmidt</person></persons>
 </event>
 <event id="franke-ruby">
@@ -210,7 +434,10 @@
 <room>V3</room>
 <title>Ruby als Sed- und Awk-Ersatz</title>
 <type>lightning</type>
-<description>description</description>
+<description>
+Wie man aus Quoting-Hölle und Regexp-Dschungel entkommt.
+
+</description>
 <persons><person id="franke">Knut Franke</person></persons>
 </event>
 <event id="genannt-sshkey_distribution">
@@ -219,7 +446,10 @@
 <room>V3</room>
 <title>SSH Public Key Distribution - the smart way</title>
 <type>talk</type>
-<description>description</description>
+<description>
+SSH Public Key Verwaltung ist immer ein spannendes Thema. Es gibt viele Möglichkeiten von ssh-copy-id, LDAP oder über eine eigene CA. Jedoch hat alles seine Probleme. Hier stelle ich ein relativ neues Projekt vor. Es wird versucht über eine Web Application eine Verwaltung von SSH Public Keys vorzunehmen, um mit Gruppen von Keys und Servern die Verwaltung zu vereinfachen.
+
+</description>
 <persons><person id="genannt">Jonas Genannt</person></persons>
 </event>
 <event id="giesen-seafile">
@@ -228,7 +458,11 @@
 <room>V3</room>
 <title>Seafile als Dropbox-Alternative</title>
 <type>lightning</type>
-<description>description</description>
+<description>
+- Kurze Erläuterung der Architektur und Features
+- Kurzdemo
+
+</description>
 <persons><person id="giesen">Gregor Giesen</person></persons>
 </event>
 <event id="helmle-einfache_sprache">
@@ -237,7 +471,20 @@
 <room>V3</room>
 <title>Leichte Sprache in der IT oder – wie sag ich’s dem User?</title>
 <type>lightning</type>
-<description>description</description>
+<description>
+Als Admin oder als Mitarbeiter im Support hast du oft das Problem, dass du
+– meist per Telefon – zuerst das Problem des Users verstehen und ihm dann
+erklären sollst, was er jetzt tun soll.
+Als Programmierer, grade im BtC-Bereich, geht es oft darum, sich dem Kunden
+verständlich mitzuteilen, um ihn optimal bedienen zu können.
+
+Das ist manchmal gar nicht so leicht.
+
+Leichte Sprache kann hier helfen, den eigenen Sprachgebrauch zu
+reflektieren; um User und Kunden noch besser dort abzuholen, wo sie sind.
+Ich stelle das Konzept Leichte Sprache anhand von einigen Beispielen vor.
+
+</description>
 <persons><person id="helmle">Krishna-Sara Helmle</person></persons>
 </event>
 <event id="humm-wikipedia">
@@ -246,7 +493,15 @@
 <room>V3</room>
 <title>Wikipedia visualisieren</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Es ist bei fast 2 Millionen deutschsprachigen Artikeln schwer, sich einen Überblick über die Wikipedia zu schaffen, es fehlt ein Relevanzkriterium und eine Metrik auf der Menge der Artikel.
+Ich hab welche gefunden!
+Wikipedia-Veteranen kennen das Phänomen: Wenn man, von einem zufälligen Artikel ausgehend, wiederholend den ersten Link im Artikeltext, der nicht in () Klammern steht anklickt, kommt man in den allermeisten Fällen bei "Philosophie" an.
+Fertig ist die Baumstruktur auf etwa 90% aller Artikel.
+Diese kann man visualisieren.
+Zu sehen gibt es ein Universum aus "reinem Wissen" und krasse organisch anmutende Strukturen.
+
+</description>
 <persons><person id="humm">Justin Humm</person></persons>
 </event>
 <event id="klaeren-computermuseum">
@@ -255,7 +510,13 @@
 <room>V3</room>
 <title>Das Computermuseum auf dem Sand</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Das kleine Computermuseum des Wilhelm-Schickard-Instituts konzentriert sich auf zwei entscheidende Phasen in der Entwicklung der Computer:
+die seit den frühen 1960er Jahren vor allem von der Firma DEC vertriebenen Minirechner, die ohne aufwendige Klimaanlagen und spezielles Bedienungspersonal direkt im Labor und am Arbeitsplatz eingesetzt werden konnten und die ungefähr 10 Jahre später aufgekommenen „Heimcomputer” bzw. Personal Computer (PCs).
+
+Wir sind stolz darauf, einige besonders wichtige und übrigens auch funktionsfähige Maschinen aus diesen beiden Generationen besitzen zu dürfen.
+
+</description>
 <persons><person id="klaeren">Prof. Dr. Herbert Klaeren</person></persons>
 </event>
 <event id="koelbel-desktop_auth">
@@ -264,7 +525,7 @@
 <room>V3</room>
 <title>Sicher und bequem</title>
 <type>lightning</type>
-<description>description</description>
+<description>nodescription</description>
 <persons><person id="koelbel">Cornelius Kölbel</person></persons>
 </event>
 <event id="kuestner_strohmaier-wueste_welle">
@@ -273,7 +534,25 @@
 <room>V3</room>
 <title>Open Source Software beim Freien Radio Wüste Welle</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Kurzer Anriss über die verschiedenen Einsatzfelder von OpenSource Software, die bei der Wüsten Welle in Tübingen zu den Themen:
+
+- Netzwerk
+- Windows roaming profiles
+- VPN - Remotewartung - Liveübertragungen
+- Netzwerkstorage
+- Webservices
+- Mailservices
+- Collaboration
+- Büroarbeiten
+- Sendungsmanagement: Archivierung, Ausstrahlung nach Zeitplan
+- Digitale Audiosignalverarbeitung
+- Audiostreaming Client + Service
+- Audiodaten editieren
+- Archivierung optische Medien im Netz
+- Schließanlage
+
+</description>
 <persons><person id="kuestner_strohmaier">xxx</person></persons>
 </event>
 <event id="schiebel-oss_schule">
@@ -282,7 +561,7 @@
 <room>V3</room>
 <title>OSS und Linuxclients in der Schule</title>
 <type>talk</type>
-<description>description</description>
+<description>nodescription</description>
 <persons><person id="schiebel">Frank Schiebel</person></persons>
 </event>
 <event id="schiele-aktuelles">
@@ -291,7 +570,20 @@
 <room>V3</room>
 <title>Aktuelle Entwicklungen</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Wir machen einen Streifzug durch die Entwicklungen der letzten Jahre und schauen an, was uns in naher Zukunft alles erwartet...
+
+- Trend zum Multicore, nur wer nutzt das eigentlich? Wie nutzt man das
+eigentlich?
+- Softwareentwicklung: weg von C/ASM zu Touch/Webtechniken
+- Entwicklung: PC out, mobile IN
+- persistent RAM: Systeme, welche man nicht mehr bootet
+- asm.js / Webtechniken
+- biologische Programmierung
+- was passiert mit Open Source? FLOSS in Zukunft noch relevant?
+- hackerspaces und was man alles bauen und reparieren kann
+
+</description>
 <persons><person id="schiele">Joachim Schiele</person></persons>
 </event>
 <event id="stadelmeier_wannenmacher-tor_router">
@@ -300,7 +592,17 @@
 <room>V3</room>
 <title>Tor-Router</title>
 <type>lightning</type>
-<description>description</description>
+<description>
+Wir haben einen Heimrouter so präpariert, dass er automatisch ein WLAN-
+Netzwerk aufspannt, dass den Internetverkehr direkt über das
+Annonymisierungsnetzwerk Tor Leitet.
+Der Router ist innerhalb von Sekunden aufgestellt und betriebsbereit. Nötig
+ist lediglich ein LAN-Buxe und Strom.
+So kann man mit beliebigen Geräten und Anwendungen Tor nutzen.
+Nebenbei kann dem Inhaber des Internetanschlusses dank der Anonymisierung
+Störerhaftung und ähnliches ziemlich Egal sein.
+
+</description>
 <persons><person id="stadelmeier_wannenmacher">xxx</person></persons>
 </event>
 <event id="uebele-bitcoin">
@@ -309,7 +611,14 @@
 <room>V3</room>
 <title>Bitcoin - Eine dezentrale Währung</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Bitcoin ist eine dezentral organisierte und auf Kryptographie basierte Währung. Zu den Besonderheiten zählt beispielsweise, dass beim Bezahlen keine Zwischenhändler (wie z.B. Banken) nötig sind.
+
+In diesem Vortrag wird zunächst kurz die Geschichte und der technische Hintergrund des Bitcoins skizziert. Anschließend werde ich auf gesellschaftliche Aspekte eingehen. Dabei sollen sowohl die Vorteile gegenüber herkömmlichen Währungen als auch mögliche Gegenargumente thematisiert werden.
+
+Im Anschluss stehe ich gerne auch für praktische Fragen wie beispielsweise die Installation von Bitcoin-Apps auf dem Handy zur Verfügung.
+
+</description>
 <persons><person id="uebele">Peter Uebele</person></persons>
 </event>
 <event id="wege-rtfl">
@@ -318,7 +627,13 @@
 <room>V3</room>
 <title>Open Source und Urheberrecht - Read The F*cking License</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Neben der Technik spielen rechtliche Aspekte beim Einsatz von Open Source Software eine zunehmend wichtige Rolle. Essentiell ist dabei das Verständnis
+der auf dem Urheberrecht basierenden Open Source Lizenzen. Einige prominente Gerichtsurteile der letzten Zeit zeigen, wie wichtig die Einhaltung der
+Lizenzbedingunge ist. Und weil inzwischen keine Software mehr ohne Open Source auskommt oder gleich ganz als Open Source veröffentlicht wird, ist das
+ein Thema, das jeden Entwickler interessieren muss.
+
+</description>
 <persons><person id="wege">Christian Wege</person></persons>
 </event>
 <event id="weissensel-fish">
@@ -327,7 +642,13 @@
 <room>V3</room>
 <title>fish - Die "friendly interactive shell"</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Ich bin begeisterter Nutzer der "fish", einer Kommandozeilen-Shell, die imho eine bessere out-of-the-box Nutzererfahrung bietet als die bash.
+
+Mein Vortrag beschreibt in Kürze die Motivation hinter dem Wechsel und beispielhaft einige Probleme, auf die ich im Laufe der Zeit gestoßen bin und wie ich diese (mehr oder weniger erfolgreich) bewältigt habe.
+Das Vortragsniveau bleibt auf Einsteigerlevel, es beginnt mit einer kurzen Einführung, was eine Shell überhaupt ist, und im weiteren Verlauf werde ich einfach einige Beispiele aus dem Alltag im Bash/Fish-Vergleich vorführen.
+
+</description>
 <persons><person id="weissensel">Jonas Weissensel</person></persons>
 </event>
 <event id="widmayer-nagerit">
@@ -336,7 +657,12 @@
 <room>V3</room>
 <title>Nager IT - Die Faire Computermaus</title>
 <type>lightning</type>
-<description>description</description>
+<description>
+Ich bin ein Fan des Nager IT Projekts und nutze die Maus selber.
+Was mich beeindruckt ist das Bemühen um eine faire Herstellung und dazu gehört die konsequente Transparenz in der Lieferkette bis zu den Rohstoffen.
+Ich bringe eine Auswahl Mäuse zum Anfassen mit, ansonsten sind die zu bestellen. Verkauf wird es keinen geben.
+
+</description>
 <persons><person id="widmayer">Karin Widmayer</person></persons>
 </event>
 <event id="willbold-python_kinder_buch">
@@ -345,7 +671,7 @@
 <room>V3</room>
 <title>Monty und Python werden Hacker</title>
 <type>lightning</type>
-<description>description</description>
+<description>nodescription</description>
 <persons><person id="willbold">Carina Willbold</person></persons>
 </event>
 </room>
@@ -356,7 +682,13 @@
 <room>V4</room>
 <title>Einführung in die 3D Software Blender</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Computer generierte Animationen und Effekte sind heute fast überall zu sehen. Egal ob im Kino, der Werbung oder im TV. Oft nehmen wir diese gar nicht mehr bewusst wahr,
+die Grenze zwischen CGI (computer generated imagery) und der Realität verschwimmen.
+
+In diesem Vortrag stelle ich das Open Source 3D Programm Blender vor, mit welchem ihr kostenlos aber dennoch professionell 3D Grafiken und Animationen erstellen könnt. Von der Geschichte des Programms, über die rasante Entwicklung in den letzten Jahren bis hin zu tollen animierten Filmen, welche mit Blender kreiert wurden, wird alles gezeigt.
+
+</description>
 <persons><person id="dinges">Thomas Dinges</person></persons>
 </event>
 <event id="engelmann-lyx">
@@ -365,7 +697,20 @@
 <room>V4</room>
 <title>Mit LyX Text verarbeiten</title>
 <type>talk</type>
-<description>description</description>
+<description>
+- Was bietet LyX?
+- Wie benutze ich LaTeX, ohne meinen Kopf mit Kommandos zuzumüllen?
+- Wie schreibe ich ein Buch: Demonstration am Rechner
+- Aufteilung in Kapitel, Abschnitte etc.
+- Wie binde ich Bilder und Tabellen ein?
+- Wie zitiere ich und erstelle ein Literaturverzeichnis?
+- Und wie einen Index und Glossar?
+- Mathematisches, chemische Formeln
+- Exportieren des Buches
+- Wie kann ich externe Programme einbinden (z.B. Sweave, TikZ, xfig, Lilypond)
+- Wo bekomme ich Hilfe und kann Wünsche äußern? lyx-users@lists.lyx.org
+
+</description>
 <persons><person id="engelmann">Wolfgang Engelmann</person></persons>
 </event>
 <event id="gantikow-elektroschrott">
@@ -374,7 +719,7 @@
 <room>V4</room>
 <title>Phoenix statt Elektroschrott - Neues Leben für "alte" Mobilgeräte</title>
 <type>talk</type>
-<description>description</description>
+<description>nodescription</description>
 <persons><person id="gantikow">Holger Gantikow</person></persons>
 </event>
 <event id="hofmann-lug_berlin">
@@ -383,7 +728,13 @@
 <room>V4</room>
 <title>Unter einem Dach: lug.berlin</title>
 <type>talk</type>
-<description>description</description>
+<description>
+In der Metropolregion Berlin mit den Großstädten Berlin, Potsdam und Brandenburg existieren viele Linux User Groups (LUGs). Um eine bessere Vernetzung zwischen den LUGs zu erreichen, starteten 2008 regionale
+LUG-Treffen.
+Nachdem 2014 die ICANN .berlin-Domains einführte, entstand auf lug.berlin die gleichnamige Plattform. Über eine OSM-Karte sind alle Gruppen miteinander vernetzt und vereinfachen somit den Informationsaustausch untereinander. Interessierte ersehen in kürzerer Zeit, wer wo beheimatet ist.
+Der Vortrag beleuchtet den Entstehungsweg der Plattform und berichtet über die Ergebnisse der Vernetzung untereinander.
+
+</description>
 <persons><person id="hofmann">Frank Hofmann</person></persons>
 </event>
 <event id="imme-latex_verein">
@@ -392,7 +743,7 @@
 <room>V4</room>
 <title>LaTeX für den Verein</title>
 <type>talk</type>
-<description>description</description>
+<description>nodescription</description>
 <persons><person id="imme">Roland Imme</person></persons>
 </event>
 <event id="mundt-apt_install">
@@ -401,7 +752,16 @@
 <room>V4</room>
 <title>apt install YOUR-NEIGHBORHOOD</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Der Vortrag zeigt, wie man die Installation von Debian GNU/Linux
+automatisieren kann.  Benutzt wird dazu eine sogenannte "InstallBox".
+Diese erlaubt (gegebenfalls virtualisiert), andere Rechner über PXE zu
+installieren und dient nebenbei als Paket-Cache.
+Wir beginnen mit kleineren Anpassungen mittels "preseeding" und enden
+mit dem Ausrollen einer kompletten Debian-LAN-Umgebung mittels FAI
+(Fully Automatic Installation).
+
+</description>
 <persons><person id="mundt">Andreas B. Mundt</person></persons>
 </event>
 <event id="pfeifle-pandoc">
@@ -410,7 +770,69 @@
 <room>V4</room>
 <title>Dokumenten-KungFoo mit Pandoc, Markdown und Co.</title>
 <type>talk</type>
-<description>description</description>
+<description>
+Jeder Software-Entwickler sollte sich darum kümmern, dass seine
+Programme durch eine ordentliche Dokumentation abgedeckt sind. Aber viele
+Programmierer erledigen das äußerst ungern. Darum ist die Erstellung von
+Dokumentation häufig ein "Stiefkind" von Projekten.
+Viele Software-Benutzer würden gerne etwas zur Dokumentation beitragen
+und dadurch zu Committern werden -- und manche tun es schon, oft sogar im
+Zusammenhang mit mehreren Projekten. Aber dann verwenden unterschiedliche
+Projekt vielleicht jeweils andere Formate und Werkzeuge zum Schreiben:
+OpenDocument, HTML, LaTeX, DocBook, ...
+Wäre es nicht viel besser, alles in reinem Text zu schreiben? Und dann aus
+diesem Text automatisiert das End-Format zu erzeugen, welches man verwenden
+möchte? Oder gar alle möglichen Endformate?
+Mit der einfachen Text-Auszeichnungssprache `Markdown` ist es möglich.
+Zum Konvertieren in beliebige Zielformate verwendet man das Kommandozeilen-
+Tool `pandoc`. Zur Automatisierung ein `Makefile`...
+
+Markdown ist ein dermaßen einfaches *Textauszeichnungsformat*, dass man bei
+Kenntnis von ca. 12 verschiedenen, einfachen, sehr intuitiv zu erlernenden
+Formatierungs-Regeln bereits sehr anspruchsvolle Dokumente zustande bringt
+-- und zwar in allen möglichen Formaten, und in sehr vielen anpaßbaren Stilen.
+
+1. Standard-Absätze
+2. Eingerückte Absätze (Zitat-Blöcke)
+3. Überschriften erster, zweiter, ... sechster Ordnung
+4. Nummerierte Aufzählungen (wie diese hier)
+  * verschachtelte Aufzählungen (wie diese hier)
+  * (ich bin mir nicht sicher, ob ich dies nicht besser als 14. Regel deklarieren sollte)
+5. Un-nummerierte Aufzählungen
+6. Code-Beispiele: `pandoc --to=html` erzeugt HTML-Ausgabe
+7. *kursiv hervorgehobene* Wörter
+8. **fett hervorgehobene** Wörter
+9. ***fett+kursiv hervorgehobene*** Wörter
+10. <a href="http://en.wikipedia.org/wiki/Hyperlink" target="_blank">Hyper-Links</a>
+11. Bilder
+12. Code-Blöcke
+13. Tabellen
+
+Wer komplexere Formatierungen benötigt, kann innerhalb des Markdown-
+Quellcodes auch HTML-Schnipsel verwenden. `pandoc` gibt diese beim Übersetzen
+1:1 in das Zielformat weiter. *(Falls das Ziel-Format LaTeX oder PDF ist,
+kann man sogar LaTeX-Schnipsel einbetten.)*
+Die Konvertierung des Markdown-Quelltextes in das gewünschte Dokumenten-Format
+erfolgt durch das Kommandozeilen-Tool `pandoc`. Dabei stehen eine ganze Reihe
+unterschiedlicher Ziel-Formate zur Wahl: erwähnt seien hier nur Open/LibreOffice
+ODT, MS Word DOCX, LaTeX, DocBook, HTML, PDF, EPUB, EPUB3, ConTeXt und MediaWiki.
+Das endgültige Aussehen der Dokumente lässt sich dadurch beeinflussen, dass
+man eigene CSS-Dateien, Vorlagen- oder Referenz-Dokumente einbindet. Ansonsten
+erhält man schlichte Dokumente mit den jeweils vor-eingestellten Stilen. Beim
+Bau eigener CSS-Stile sind einem versierten Anwender so gut wie keine Grenzen
+gesetzt, bei der Erstellung eigener Vorlagen und Referenzen gibt es ebenfalls
+erstaunlich viele Möglichkeiten.
+
+Teilnehmer erhalten Zugriff auf ein Zip-Archiv mit folgendem Inhalt:
+
+* Die im Vortrag verwendeten Vortrags-Präsentationen.
+* Zwei (oder mehr) Papers, welche der Autor über das *Pandoc + Markdown*-Duo geschrieben hat.
+* Eine Reihe von Markdown-Dateien, die als Ausgangspunkt der Beispiel- Dokumente dienten.
+* Ein `Makefile` (funktionierend unter Mac OS X oder Linux) zum Generieren der fertigen Beispiel-Dokumente.
+* Die für die unterschiedlichen Dokumenten-Stile der Beispiele verwendeten CSS- und Referenz-Dateien.
+* Sonstige interessanten Dateien.
+
+</description>
 <persons><person id="pfeifle">Kurt Pfeifle </person></persons>
 </event>
 <event id="pfeifle-pdfkungfoo">
@@ -419,7 +841,20 @@
 <room>V4</room>
 <title>PDF-KungFoo mit Ghostscript und Co.</title>
 <type>talk</type>
-<description>description</description>
+<description>
+PDF ist das am weitesten verbreitete Dokumenten-Format.
+Allerdings ist man als PC-Benutzer häufig mit seinem Latein am Ende,
+wenn das PDF beim Ausdrucken plötzlich anders aussieht als auf dem
+Bildschirm. Oder wenn beim Kollegen der eigene Entwurf des gemeinsam
+zu erstellenden Dokuments nicht mehr lesbar ist. Oder wenn man aus
+einem PDF-Dokument einige Seiten entfernen und stattdessen ein paar
+weitere einfügen möchte.
+Bei diesem Vortrag wird's nicht viele Folien zu sehen geben.
+Stattdessen werden alle Themen "live" am Beamer vorgeführt.
+Der Vortrag ist geeignet für Windows, Linux, Mac OSX und BSD-Unix-
+Anwender.
+
+</description>
 <persons><person id="pfeifle">Kurt Pfeifle </person></persons>
 </event>
 <event id="schroeder-tex">
@@ -428,7 +863,14 @@
 <room>V4</room>
 <title>TeX im 3. Jahrtausend</title>
 <type>talk</type>
-<description>description</description>
+<description>
+TeX: Wo kommen wir her, so sind wir, wo geht's hin?
+
+Wir feiern zwar im 2015 TeX's 37. Geburtstag, aber trotzdem geht die Entwicklung rund um TeX weiter.
+Ich gebe einen Überblick der Entwicklung in der TeXnischen Welt der letzten Jahre und riskiere einen Blick in die Zukunft.
+Der Vortrag richtet sich an alle, die in den letzten Jahr(zehnt)en TeX genutzt haben und wissen wollen, was seitdem geschehen ist.
+
+</description>
 <persons><person id="schroeder">Martin Schröder</person></persons>
 </event>
 </room>
@@ -439,7 +881,20 @@
 <room>W1</room>
 <title>mutt + gpg - Sichere Email</title>
 <type>workshop</type>
-<description>description</description>
+<description>
+Jeder Teilnehmer soll Mutt und GPG ausprobieren können.
+Am Anfang logt sich jeder erstmal auf der lokalen Maschine ein.
+Dann gehen alle per mosh/ssh auf die zentrale Kiste (Server), welche die notwendigen Programme anbietet.
+Jeder generiert sich ein neues Schlüsselpaar.
+Wir schauen uns den Schlüssel genauer an und laden ihn auf einen (lokalen) Testserver hoch.
+(Darüber können wir Schlüssel austauschen ohne die üblichen Keyserver zu verwenden.)
+Dann können wir das Auffinden von Schlüsseln ausprobieren, die Schlüssel der anderen herunterladen und diese anzeigen lassen.
+Dann geht es ans Versenden von Emails - mit Signatur und/oder auch verschlüsselt.
+Ein paar Anpassungen von gpg bzw mutt oder auch des Editors und der Shell können den Umgang sehr vereinfachen.
+Eventuell gibt es noch eine Key Signing Party.
+Diese kann über den lokalen Keyserver geschehen - oder auch bei einem eigenen Termin des Events.
+
+</description>
 <persons><person id="guckes">Sven Guckes</person></persons>
 </event>
 <event id="hrenka-python">
@@ -448,7 +903,17 @@
 <room>W1</room>
 <title>Einführung in SciPy und SymPy mit IPython</title>
 <type>workshop</type>
-<description>description</description>
+<description>
+Python erfreut sich im wissenschaftlichen Umfeld einer großen Beliebheit.
+Obwohl Python als solches nicht unbedingt durch hohe Geschwindigkeit glänzt, lassen sich über die C-Schittstelle speicher- und laufzeiteffiziente Algorithmen einbinden.
+
+Mit SciPy steht eine umfangreiche Sammlung von Bibliotheken zur Verfügung.
+Für symbolische Berechnungen bietet SymPy umfangreiche Funktionalität eines Computer Algebra Systems.
+IPython stellt eine komfortable interaktive Shell bereit, die Code, Formeln, Plots und Videos einbetten kann.
+
+Im Workshop werden wir IPython interaktiv benutzen und die Teilnehmer können bei kleineren Übungen das Erlernte ausprobieren.
+
+</description>
 <persons><person id="hrenka">Peter Hrenka</person></persons>
 </event>
 <event id="mundt_nachbauer-jessie_party">
@@ -457,7 +922,12 @@
 <room>W1</room>
 <title>Debian GNU/Linux "Jessie" Install Party</title>
 <type>workshop</type>
-<description>description</description>
+<description>
+Debian GNU/Linux "Jessie" unter fachkundiger Anleitung installieren, gegebenenfalls neben bereits vorhandene Betriebssysteme.
+
+Per PXE, CD oder USB installieren wir Debian über einen Paketproxy. Verschiedene Desktops werden vorgestellt, das Vorgehen erläutert und anschließend das neue System ausprobiert und gegebenenfalls weiter eingerichtet.
+
+</description>
 <persons><person id="mundt_nachbauer">xxx</person></persons>
 </event>
 <event id="schmidt_stockmayer-gentoo">
@@ -466,7 +936,14 @@
 <room>W1</room>
 <title>Gentoo-Einführung</title>
 <type>workshop</type>
-<description>description</description>
+<description>
+Gentoo ist eine eine Linux-Distribution, die sich an erfahrenere Linux-Benutzer richtet und diesen sehr viele Freiheiten bietet.
+Dies beeginnt bei der verwendeten Software, Diensten und endet beim Init-System und einem eigenen Kernel.
+Um dies zu erreichen nutzt Gentoo ein spezielles Paketverwaltungssystem namens "portage", das die Pakete nach Benutzerwünschen auf dem jeweiligen System kompiliert.
+
+In diesem Workshop wird kurz auf die Gentoo-Philosophie. die Benutzung von Portage und die Grundinstallation eingegangen.
+
+</description>
 <persons><person id="schmidt_stockmayer">xxx</person></persons>
 </event>
 </room>
@@ -477,7 +954,10 @@
 <room>W2</room>
 <title>X2Go</title>
 <type>workshop</type>
-<description>description</description>
+<description>
+Der Workshop wird sich wie folgt gliedern:
+
+#</description>
 <persons><person id="graesing">Heinz Graesing</person></persons>
 </event>
 <event id="koelbel-privacyidea">
@@ -486,7 +966,20 @@
 <room>W2</room>
 <title>privacyIDEA - Zwei-Faktor-Authentisierung selber machen</title>
 <type>workshop</type>
-<description>description</description>
+<description>
+privacyIDEA ist eine Open Source Lösung zur Authentisierung mit zwei Faktoren.
+
+Zusätzlich zu einem Passwort ist der Besitz eines Hardware-Tokens, eines Telefons oder eines Smartphones notwendig, um sich sicher am System oder einer Applikation anzumelden. Mit privacyIDEA können diese Authentisierungsgeräte zentral verwaltet werden, wobei man selber das Schlüsselmaterial unter eigener Kontrolle behält.
+
+In diesem Workshop lernen wir das Prinzip und die Einsatzmöglichkeiten von Einmal-Passwörtern kennen.
+
+Wir sehen, wie einfach die Besitzfaktoren verwaltet und wie beliebige Applikationen an privacyIDEA angebunden werden können.
+Am Beispiel einer Anmeldung an SSH setzen wir dies konkret um und können erste Erfahrungen mit der Handhabung sammeln.
+Dazu erhält jeder Teilnehmer einen eigenen Yubikey, zum Experimentieren und Mitnehmen (Solange Vorrat reicht).
+
+Außerdem erfahren wir in dem Workshop, wie man die Authentisierung von vielen Benutzern an vielen Servern leicht verwalten kann.
+
+</description>
 <persons><person id="koelbel">Cornelius Kölbel</person></persons>
 </event>
 <event id="krug-libreoffice">
@@ -495,7 +988,15 @@
 <room>W2</room>
 <title>LibreOffice Overkill</title>
 <type>workshop</type>
-<description>description</description>
+<description>
+Der Workshop bietet Dir zwei Themen zur Auswahl. Durch eine Abstimmung in der Veranstaltung wird bestimmt, welches Thema bearbeitet wird:
+
+- Serienbriefe mit Feldern
+- Automatische Formatierung großer Textdokumente
+
+Egal wie die Wahl ausfällt, Du lernst immer etwas dazu! Zwischen Theoriehäppchen wird das neue Wissen sofort praktisch am mitgelieferten Fallbeispiel eingeübt. Es besteht die Möglichkeit, im Workshop Fragen zu stellen und gemeinsam Lösungen zu entwickeln.
+
+</description>
 <persons><person id="krug">Stefan Krug</person></persons>
 </event>
 <event id="nagel-latex">
@@ -504,7 +1005,19 @@
 <room>W2</room>
 <title>Einführung in Latex</title>
 <type>workshop</type>
-<description>description</description>
+<description>
+Was ist Latex? Was kann Latex? Wie funktioniert Latex?
+
+Anhand eines praktischen Beispiels schauen wir uns an:
+
+- Aufbau eines Latex-Dokuments
+- Strukturierung des Dokuments
+- Strukturierung des Textes
+- Grafiken und Tabellen
+- Formelsatz
+- Literaturverzeichnis mit Bibtex
+
+</description>
 <persons><person id="nagel">Thorsten Nagel</person></persons>
 </event>
 </room>
@@ -515,7 +1028,13 @@
 <room>W3</room>
 <title>Python-Programmierung für Schülerinnen und Schüler</title>
 <type>workshop</type>
-<description>description</description>
+<description>
+Python ist eine moderne Programmiersprache, mit der man zum Beispiel eigene Spiele und Webseiten erstellen kann. Im Workshop unternehmen wir gemeinsam erste Schritte in dieser Sprache.
+Es sind keinerlei Computer- oder Programmier-Vorkenntnisse nötig.
+
+Wenn du nicht genau weißt, was dich in dem Workshop erwartet, oder wenn du sonstige Fragen oder Wünsche hast, kannst du Ingo jederzeit informal und unverbindlich eine Mail (siehe unten) schreiben.
+
+</description>
 <persons><person id="blechschmidt">Ingo Blechschmidt</person></persons>
 </event>
 <event id="knopper-openscad">
@@ -524,7 +1043,14 @@
 <room>W3</room>
 <title>3D-Modelle erstellen mit OpenSCAD</title>
 <type>workshop</type>
-<description>description</description>
+<description>
+OpenSCAD ist ein "wenig-interaktives" 3D Design-Programm für druckbare 3D-Modelle, die dank einer einfach zu erlernende Programmiersprache selbst von zeichnerisch eher unbegabten Personen in kurzer Zeit selbstständig erfolgreich erstellt werden können.
+ 
+OpenSCAD ist freie Software unter der GNU GENERAL PUBLIC LICENSE V2 und neben diversen Linux-Distributionen auch für Mac und Windows verfügbar.
+
+Im Workshop wird die zu OpenSCAD gehörende Programmiersprache anhand einiger vorbereiteter Beispiele und Aufgaben so weit erlernt, dass mit Hilfe grundlegender Formen und Methoden das Design fast belibiger 3D-Objekte möglich wird. Die Ergebnisse sind durch diverse 3D-Druckprogramme leicht importierbar. Weiterhin werden Tipps für den erfolgreichen 3D-Druck gegeben, und Fragen zum Thema beantwortet.
+
+</description>
 <persons><person id="knopper">Prof. Dipl.-Ing. Klaus Knopper</person></persons>
 </event>
 <event id="waelde-emacs">
@@ -533,7 +1059,34 @@
 <room>W3</room>
 <title>Anständiges Werkzeug: emacs</title>
 <type>workshop</type>
-<description>description</description>
+<description>
+Der Editor ist eines der wichtigsten Werkzeuge für alle, die Zeit am Rechner verbringen. Alte Hasen kennen "emacs". Emacs ist erweiterbar, man kann ihm neue Tricks beibringen. Daher kann emacs "alles außer Kaffee kochen", heißt es. Den Unwissenden möchte ich ein paar Fähigkeiten dieses Editors vorführen und zum Mitmachen animieren.
+
+1. Teil: Einführung
+  - emacs starten und ohne Flurschaden wieder verlassen
+  - Eine Datei öffnen, ändern, speichern. Änderungen rückgängig machen
+  - Tastaturkürzel? Menü? Hilfe? Wo geht's weiter?
+  - Wo sind meine Umlaute? Oder die anderen lustigen non-ascii Zeichen?
+  - Regionen, kopieren, ausschneiden, einfügen. Rechtecke bearbeiten
+  - Major und minor modes am Beispiel von einem C-Progrämmchen oder perl Skript
+  - Emacs konfigurieren
+  - Das Ganze soll eine lose Sammlung von Schritten werden, die aktive Gestaltung durch die Teilnehmer ist ausdrücklich erwünscht!
+
+
+2. Teil: Eine Tour durch meine oft benutzten Werkzeuge
+  - org-mode
+  - hierarchische Listen
+  - Zeiten erfassen
+  - spreadsheet
+  - "literate programming"
+  - calc
+  - email mit mu4e oder vm
+  - IRC Chat mit erc
+  - Webseiten (eww)
+  - Info/manpage reader
+  - Spielzeug
+
+</description>
 <persons><person id="waelde">Erich Wälde</person></persons>
 </event>
 <event id="zimmer-vim">
@@ -542,7 +1095,20 @@
 <room>W3</room>
 <title>Vim für Nicht-Mehr-Beginner und Noch-Nicht-Fortgeschrittene</title>
 <type>workshop</type>
-<description>description</description>
+<description>
+- ggf. kurze Auffrischung des vimtutors
+- Erläuterung des Hilfesystems
+- Unterschiede zu vi
+- fortgeschrittenes "Bewegen" und Editieren in einer Datei
+- .vimrc und .viminfo
+- Arbeiten mit selbst definierten Shortcuts (Mappings,
+Abbreviations)
+- Makros
+- Arbeiten mit Tabs
+- Arbeiten im "visual mode"
+- Skeletons
+
+</description>
 <persons><person id="zimmer">Toni Zimmer</person></persons>
 </event>
 ﻿</room>
