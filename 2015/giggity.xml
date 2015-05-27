@@ -56,13 +56,13 @@ Linus Torvalds, on namespaces and container security. (Linux Kernel Developer Pa
 </description>
 <links>
 
-- <a href="https://en.wikipedia.org/wiki/Operating-system-level_virtualization" target="_blank">en.wikipedia.org/wiki/Operating-system-level_virtualization</a>
-- <a href="https://en.wikipedia.org/wiki/LXC" target="_blank">en.wikipedia.org/wiki/LXC</a>
-- <a href="https://github.com/lxc/lxc" target="_blank">github.com/lxc/lxc</a>
-- <a href="https://en.wikipedia.org/wiki/Sandbox_%28computer_security%29" target="_blank">en.wikipedia.org/wiki/Sandbox_(computer_security)</a>
-- Namespace Isolation: MOUNT-, PID-, UTSNAME-, IPC-, NETWORK-, und USER-Namespaces: <a href="http://man7.org/linux/man-pages/man7/namespaces.7.html" target="_blank">man7.org/linux/man-pages/man7/namespaces.7.html</a>
-- <a href="https://en.wikipedia.org/wiki/Cgroups" target="_blank">en.wikipedia.org/wiki/Cgroups</a>
-- Linux capabilities: <a href="http://linux.die.net/man/7/capabilities" target="_blank">linux.die.net/man/7/capabilities</a>
+- <link href="https://en.wikipedia.org/wiki/Operating-system-level_virtualization" >en.wikipedia.org/wiki/Operating-system-level_virtualization</link>
+- <link href="https://en.wikipedia.org/wiki/LXC" >en.wikipedia.org/wiki/LXC</link>
+- <link href="https://github.com/lxc/lxc" >github.com/lxc/lxc</link>
+- <link href="https://en.wikipedia.org/wiki/Sandbox_%28computer_security%29" >en.wikipedia.org/wiki/Sandbox_(computer_security)</link>
+- Namespace Isolation: MOUNT-, PID-, UTSNAME-, IPC-, NETWORK-, und USER-Namespaces: <link href="http://man7.org/linux/man-pages/man7/namespaces.7.html" >man7.org/linux/man-pages/man7/namespaces.7.html</link>
+- <link href="https://en.wikipedia.org/wiki/Cgroups" >en.wikipedia.org/wiki/Cgroups</link>
+- Linux capabilities: <link href="http://linux.die.net/man/7/capabilities" >linux.die.net/man/7/capabilities</link>
 </links>
 <persons><person id="brauner">Christian Brauner</person></persons>
 </event>
@@ -82,12 +82,12 @@ Linux Grundlagen
 </description>
 <links>
 
-- <a href="http://hadoop.apache.org" target="_blank">hadoop.apache.org</a>
-- <a href="http://zookeeper.apache.org" target="_blank">zookeeper.apache.org</a>
-- <a href="http://hive.apache.org" target="_blank">hive.apache.org</a>
-- <a href="http://hbase.apache.org" target="_blank">hbase.apache.org</a>
-- <a href="http://bigtop.apache.org" target="_blank">bigtop.apache.org</a>
-- <a href="http://gethue.com" target="_blank">gethue.com</a>
+- <link href="http://hadoop.apache.org" >hadoop.apache.org</link>
+- <link href="http://zookeeper.apache.org" >zookeeper.apache.org</link>
+- <link href="http://hive.apache.org" >hive.apache.org</link>
+- <link href="http://hbase.apache.org" >hbase.apache.org</link>
+- <link href="http://bigtop.apache.org" >bigtop.apache.org</link>
+- <link href="http://gethue.com" >gethue.com</link>
 </links>
 <persons><person id="flebbe">Olaf Flebbe</person></persons>
 </event>
@@ -133,15 +133,15 @@ Kein spezielles Vorwissen notwendig, generelles Interesse an Linux, freier Softw
 </description>
 <links>
 
-[1] <a href="http://www.top500.org/" target="_blank">www.top500.org/</a>
+[1] <link href="http://www.top500.org/" >www.top500.org/</link>
 
-[2] <a href="https://github.com/cea-hpc/robinhood/wiki" target="_blank">github.com/cea-hpc/robinhood/wiki</a>
+[2] <link href="https://github.com/cea-hpc/robinhood/wiki" >github.com/cea-hpc/robinhood/wiki</link>
 
-[3] <a href="http://www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood" target="_blank">www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood</a>
+[3] <link href="http://www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood" >www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood</link>
 
-[4] <a href="http://www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux" target="_blank">www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux</a>
+[4] <link href="http://www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux" >www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux</link>
 
-[5] <a href="http://www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC" target="_blank">www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC</a>
+[5] <link href="http://www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC" >www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC</link>
 </links>
 <persons><person id="gantikow">Holger Gantikow</person></persons>
 </event>
@@ -192,8 +192,8 @@ nicht notwendigerweise bezogen auf Raspberry Pi).
 </description>
 <links>
 
-- <a href="https://www.raspberrypi.org/" target="_blank">raspberrypi.org</a>
-- <a href="https://www.raspbian.org/" target="_blank">raspbian.org</a>
+- <link href="https://www.raspberrypi.org/" >raspberrypi.org</link>
+- <link href="https://www.raspbian.org/" >raspbian.org</link>
 </links>
 <persons><person id="knopper">Prof. Dipl.-Ing. Klaus Knopper</person></persons>
 </event>
@@ -253,7 +253,7 @@ Exemplarisch am Mirror Netzwerk von Fedora, welches auf der Software MirrorManag
 </description>
 <links>
 
-- <a href="http://ftp-stud.hs-esslingen.de" target="_blank">ftp-stud.hs-esslingen.de</a>
+- <link href="http://ftp-stud.hs-esslingen.de" >ftp-stud.hs-esslingen.de</link>
 </links>
 <persons><person id="reber">Adrian Reber</person></persons>
 </event>
@@ -274,7 +274,7 @@ Der Vortrag führt in die Besonderheiten schulischer Netzwerke ein und erläuter
 </description>
 <links>
 
-<a href="http://www.linuxmuster.net" target="_blank">www.linuxmuster.net</a>
+<link href="http://www.linuxmuster.net" >www.linuxmuster.net</link>
 </links>
 <persons><person id="schiebel">Frank Schiebel</person></persons>
 </event>
@@ -304,9 +304,9 @@ Der Vortrag stellt die Idee und Architektur hinter TCP Stealth vor und beinhalte
 </description>
 <links>
 
-- <a href="http://gnunet.org/knock" target="_blank">gnunet.org/knock</a>
-- <a href="http://gnunet.org/sites/default/files/ma_kirsch_2014_0.pdf" target="_blank">gnunet.org/sites/default/files/ma_kirsch_2014_0.pdf</a>
-- <a href="http://tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01" target="_blank">tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01</a>
+- <link href="http://gnunet.org/knock" >gnunet.org/knock</link>
+- <link href="http://gnunet.org/sites/default/files/ma_kirsch_2014_0.pdf" >gnunet.org/sites/default/files/ma_kirsch_2014_0.pdf</link>
+- <link href="http://tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01" >tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01</link>
 </links>
 <persons><person id="seidel">Dr. Udo Seidel</person></persons>
 </event>
@@ -326,9 +326,9 @@ Im Vortrag wird das Zertifizierungsprogramm des LPI erklärt und deutlich gemach
 </description>
 <links> 
 
-- Linux Professional Institute (LPI): <a href="http://www.lpice.eu/de/home.html" target="_blank">lpice.eu/de/home.html</a> und <a href="http://www.lpi.org" target="_blank">lpi.org</a>
-- Das Zertifizierungsprogramm des LPI: <a href="http://www.lpice.eu/de/lpi-zertifizierungsinhalte.html" target="_blank">lpice.eu/de/lpi-zertifizierungsinhalte.html</a>
-- Jobs: <a href="http://www.lpice.eu/de/jobs.html" target="_blank">lpice.eu/de/jobs.html</a>
+- Linux Professional Institute (LPI): <link href="http://www.lpice.eu/de/home.html" >lpice.eu/de/home.html</link><link href="http://www.lpi.org" >lpi.org</link>
+- Das Zertifizierungsprogramm des LPI: <link href="http://www.lpice.eu/de/lpi-zertifizierungsinhalte.html" >lpice.eu/de/lpi-zertifizierungsinhalte.html</link>
+- Jobs: <link href="http://www.lpice.eu/de/jobs.html" >lpice.eu/de/jobs.html</link>
 </links>
 <persons><person id="behrla">Klaus Behrla</person></persons>
 </event>
@@ -353,7 +353,7 @@ Keines. Besucher, die schon mehr als einmal Wireshark selbst verwendet haben, we
 </description>
 <links>
 
-<a href="https://www.wireshark.org" target="_blank">wireshark.org</a>
+<link href="https://www.wireshark.org" >wireshark.org</link>
 </links>
 <persons><person id="blechschmidt">Ingo Blechschmidt</person></persons>
 </event>
@@ -381,8 +381,8 @@ Teilnehmer sollten idealerweise ein wenig technisches Wissen zu Datenbanken und 
 </description>
 <links>
 
-- <a href="https://tools.ietf.org/rfc/rfc4510.txt" target="_blank">tools.ietf.org/rfc/rfc4510.txt</a>
-- <a href="http://www.openldap.org" target="_blank">openldap.org</a>
+- <link href="https://tools.ietf.org/rfc/rfc4510.txt" >tools.ietf.org/rfc/rfc4510.txt</link>
+- <link href="http://www.openldap.org" >openldap.org</link>
 </links>
 <persons><person id="gietz">Peter Gietz</person></persons>
 </event>
@@ -412,15 +412,15 @@ Eine LIVE Vorführung des Mailprogramms  mutt im Zusammenspiel mit der Verschlü
 </description>
 <links>
 
-- <a href="http://www.mutt.org" target="_blank">mutt.org</a>
-- <a href="http://www.gnupg.org" target="_blank">gnupg.org</a>
-- (Digitale) Schlüssel (Cryptokeys) <a href="http://de.wikipedia.org/wiki/Schl%C3%BCssel_(Kryptologie)" target="_blank">de.wikipedia.org/wiki/Schlüssel_(Kryptologie)</a>
-- Digital Signatur <a href="http://de.wikipedia.org/wiki/Digitale_Signatur" target="_blank">de.wikipedia.org/wiki/Digitale_Signatur</a>
-- Verschlüsselung <a href="http://de.wikipedia.org/wiki/Verschl%C3%BCsselung" target="_blank">de.wikipedia.org/wiki/Verschlüsselung</a>
-- Schlüsselverwaltung (key management) <a href="http://en.wikipedia.org/wiki/Key_management" target="_blank">en.wikipedia.org/wiki/Key_management</a>
-- Key Server - Schlüsselserver <a href="http://de.wikipedia.org/wiki/Schl%C3%BCsselserver" target="_blank">de.wikipedia.org/wiki/Schlüsselserver</a>
-- KeySigning Party <a href="http://de.wikipedia.org/wiki/Keysigning-Party" target="_blank">de.wikipedia.org/wiki/Keysigning-Party</a>
-- Web of Trust <a href="http://de.wikipedia.org/wiki/Web_of_Trust" target="_blank">de.wikipedia.org/wiki/Web_of_Trust</a>
+- <link href="http://www.mutt.org" >mutt.org</link>
+- <link href="http://www.gnupg.org" >gnupg.org</link>
+- (Digitale) Schlüssel (Cryptokeys) <link href="http://de.wikipedia.org/wiki/Schl%C3%BCssel_(Kryptologie)" >de.wikipedia.org/wiki/Schlüssel_(Kryptologie)</link>
+- Digital Signatur <link href="http://de.wikipedia.org/wiki/Digitale_Signatur" >de.wikipedia.org/wiki/Digitale_Signatur</link>
+- Verschlüsselung <link href="http://de.wikipedia.org/wiki/Verschl%C3%BCsselung" >de.wikipedia.org/wiki/Verschlüsselung</link>
+- Schlüsselverwaltung (key management) <link href="http://en.wikipedia.org/wiki/Key_management" >en.wikipedia.org/wiki/Key_management</link>
+- Key Server - Schlüsselserver <link href="http://de.wikipedia.org/wiki/Schl%C3%BCsselserver" >de.wikipedia.org/wiki/Schlüsselserver</link>
+- KeySigning Party <link href="http://de.wikipedia.org/wiki/Keysigning-Party" >de.wikipedia.org/wiki/Keysigning-Party</link>
+- Web of Trust <link href="http://de.wikipedia.org/wiki/Web_of_Trust" >de.wikipedia.org/wiki/Web_of_Trust</link>
 </links>
 <persons><person id="guckes">Sven Guckes</person></persons>
 </event>
@@ -467,7 +467,7 @@ Grundlegendes Verständnis der Netzwerkprotokolle IP, UDP und TCP von Vorteil.
 </description>
 <links>
 
-<a href="http://fkemmer.de/files/talks/2014_unfuck_netSteg.pdf" target="_blank">fkemmer.de/files/talks/2014_unfuck_netSteg.pdf</a>
+<link href="http://fkemmer.de/files/talks/2014_unfuck_netSteg.pdf" >fkemmer.de/files/talks/2014_unfuck_netSteg.pdf</link>
 </links>
 <persons><person id="kemmer">Florian Kemmer</person></persons>
 </event>
@@ -543,7 +543,7 @@ Sichere verwendung der Shell mit Tools wie z.B.:
 </description>
 <links>
 
-- <a href="http://nixos.org" target="_blank">nixos.org</a>
+- <link href="http://nixos.org" >nixos.org</link>
 </links>
 <persons><person id="schiele">Joachim Schiele</person></persons>
 </event>
@@ -596,8 +596,8 @@ Erfahrung in irgendeiner Programmiersprache.
 </description>
 <links>
 
-- <a href="http://www.haskell.org" target="_blank">haskell.org</a>
-- <a href="http://learnyouahaskell.com" target="_blank">learnyouahaskell.com</a>
+- <link href="http://www.haskell.org" >haskell.org</link>
+- <link href="http://learnyouahaskell.com" >learnyouahaskell.com</link>
 </links>
 <persons><person id="blechschmidt">Ingo Blechschmidt</person></persons>
 </event>
@@ -614,7 +614,7 @@ Mit Sandstorm wird es einfach, freie Server-Software privat einzusetzen.
 </description>
 <links>
 
-- <a href="https://sandstorm.io" target="_blank">sandstorm.io</a>
+- <link href="https://sandstorm.io" >sandstorm.io</link>
 </links>
 <persons><person id="blechschmidt">Ingo Blechschmidt</person></persons>
 </event>
@@ -634,7 +634,7 @@ Grundkenntnisse Shell-Scripting
 </description>
 <links>
 
-- Ruby Einzeiler und passende Kommandozeilenoptionen: <a href="http://benoithamelin.tumblr.com/ruby1line" target="_blank">benoithamelin.tumblr.com/ruby1line</a>
+- Ruby Einzeiler und passende Kommandozeilenoptionen: <link href="http://benoithamelin.tumblr.com/ruby1line" >benoithamelin.tumblr.com/ruby1line</link>
 </links>
 <persons><person id="franke">Knut Franke</person></persons>
 </event>
@@ -654,7 +654,7 @@ Arbeiten mit SSH Public Keys
 </description>
 <links>
 
-- <a href="https://github.com/hggh/sshkeymanager-django" target="_blank">https://github.com/hggh/sshkeymanager-django</a>
+- <link href="https://github.com/hggh/sshkeymanager-django" >https://github.com/hggh/sshkeymanager-django</link>
 </links>
 <persons><person id="genannt">Jonas Genannt</person></persons>
 </event>
@@ -671,7 +671,7 @@ Arbeiten mit SSH Public Keys
 </description>
 <links>
 
-- <a href="http://www.seafile.com" target="_blank">seafile.com</a>
+- <link href="http://www.seafile.com" >seafile.com</link>
 </links>
 <persons><person id="giesen">Gregor Giesen</person></persons>
 </event>
@@ -697,8 +697,8 @@ Ich stelle das Konzept Leichte Sprache anhand von einigen Beispielen vor.
 </description>
 <links>
 
-- <a href="https://de.wikipedia.org/wiki/Leichte_Sprache" target="_blank">de.wikipedia.org/wiki/Leichte_Sprache</a>
-- Mein Büro für Leichte Sprache: <a href="http://www.leicht-verstehen.de" target="_blank">leicht-verstehen.de</a>
+- <link href="https://de.wikipedia.org/wiki/Leichte_Sprache" >de.wikipedia.org/wiki/Leichte_Sprache</link>
+- Mein Büro für Leichte Sprache: <link href="http://www.leicht-verstehen.de" >leicht-verstehen.de</link>
 </links>
 <persons><person id="helmle">Krishna-Sara Helmle</person></persons>
 </event>
@@ -723,10 +723,10 @@ Man sollte zur Vorbereitung mal <a href="https://de.wikipedia.org" target="_blan
 </description>
 <links>
 
-- <a href="https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy" target="_blank">en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy</a>
+- <link href="https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy" >en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy</link>
 - ein Preview:
 
-<a href="https://www.dropbox.com/s/weenj7uar9xkj5l/wikipedia.pdf?dl=0" target="_blank">dropbox.com/s/weenj7uar9xkj5l/wikipedia.pdf?dl=0</a>
+<link href="https://www.dropbox.com/s/weenj7uar9xkj5l/wikipedia.pdf?dl=0" >dropbox.com/s/weenj7uar9xkj5l/wikipedia.pdf?dl=0</link>
 </links>
 <persons><person id="humm">Justin Humm</person></persons>
 </event>
@@ -745,7 +745,7 @@ Wir sind stolz darauf, einige besonders wichtige und übrigens auch funktionsfä
 </description>
 <links>
 
-- <a href="http://www.wsi.uni-tuebingen.de/fachbereich/wilhelm-schickard-institut-fuer-informatik/computermuseum.html" target="_blank">wsi.uni-tuebingen.de/fachbereich/wilhelm-schickard-institut-fuer-informatik/computermuseum.html</a>
+- <link href="http://www.wsi.uni-tuebingen.de/fachbereich/wilhelm-schickard-institut-fuer-informatik/computermuseum.html" >wsi.uni-tuebingen.de/fachbereich/wilhelm-schickard-institut-fuer-informatik/computermuseum.html</link>
 </links>
 <persons><person id="klaeren">Prof. Dr. Herbert Klaeren</person></persons>
 </event>
@@ -795,9 +795,9 @@ Kurzer Anriss über die verschiedenen Einsatzfelder von OpenSource Software, die
 </description>
 <links>
 
-- <a href="http://www.wueste-welle.de" target="_blank">wueste-welle.de</a>
+- <link href="http://www.wueste-welle.de" >wueste-welle.de</link>
 </links>
-<persons><person id="kuestner_strohmaier">xxx</person></persons>
+<persons><person id="kuestner_strohmaier">Andreas Küstner und Friedrich Strohmaier</person></persons>
 </event>
 <event id="schiebel-oss_schule">
 <start>13:40</start>
@@ -860,10 +860,10 @@ Zuhörer können zum Ausprobieren ein WLAN-fähiges Gerät mitbringen.
 </description>
 <links>
 
-- <a href="https://openwrt.org" target="_blank">openwrt.org</a>
-- <a href="https://torproject.org" target="_blank">torproject.org</a>
+- <link href="https://openwrt.org" >openwrt.org</link>
+- <link href="https://torproject.org" >torproject.org</link>
 </links>
-<persons><person id="stadelmeier_wannenmacher">xxx</person></persons>
+<persons><person id="stadelmeier_wannenmacher">Andreas Stadelmeier und Fabian Wannenmacher</person></persons>
 </event>
 <event id="uebele-bitcoin">
 <start>10:00</start>
@@ -901,15 +901,15 @@ ein Thema, das jeden Entwickler interessieren muss.
 
 - Open Source Software
 
-<a href="http://opensource.org/licenses" target="_blank">opensource.org/licenses</a>
+<link href="http://opensource.org/licenses" >opensource.org/licenses</link>
 - Free Software
 
-<a href="http://www.gnu.org/licenses/license-list.html" target="_blank">gnu.org/licenses/license-list.html</a>
+<link href="http://www.gnu.org/licenses/license-list.html" >gnu.org/licenses/license-list.html</link>
 - Rechtliche Aspekte von Open Source
 
-  - <a href="http://www.ifosslr.org/ifosslr" target="_blank">ifosslr.org/ifosslr</a>
+  - <link href="http://www.ifosslr.org/ifosslr" >ifosslr.org/ifosslr</link>
 
-  - <a href="http://www.amazon.de/Open-Source-Software-Rechtliche-Rahmenbedingungen/dp/340660580X" target="_blank">amazon.de/Open-Source-Software-Rechtliche-Rahmenbedingungen/dp/340660580X</a>
+  - <link href="http://www.amazon.de/Open-Source-Software-Rechtliche-Rahmenbedingungen/dp/340660580X" >amazon.de/Open-Source-Software-Rechtliche-Rahmenbedingungen/dp/340660580X</link>
 </links>
 <persons><person id="wege">Christian Wege</person></persons>
 </event>
@@ -933,7 +933,7 @@ Das Vortragsniveau bleibt auf Einsteigerlevel, es beginnt mit einer kurzen Einf�
 </description>
 <links>
 
-- <a href="http://fishshell.com" target="_blank">fishshell.com</a>
+- <link href="http://fishshell.com" >fishshell.com</link>
 </links>
 <persons><person id="weissensel">Jonas Weissensel</person></persons>
 </event>
@@ -951,9 +951,9 @@ Ich bringe eine Auswahl Mäuse zum Anfassen mit, ansonsten sind die zu bestellen
 </description>
 <links>
 
-- <a href="https://www.nager-it.de" target="_blank">nager-it.de</a>
-- <a href="https://www.nager-it.de/static/pdf/lieferkette.pdf" target="_blank">nager-it.de/static/pdf/lieferkette.pdf</a>
-- <a href="https://www.nager-it.de/static/medienecho/enorm_0215.pdf" target="_blank">nager-it.de/static/medienecho/enorm_0215.pdf</a>
+- <link href="https://www.nager-it.de" >nager-it.de</link>
+- <link href="https://www.nager-it.de/static/pdf/lieferkette.pdf" >nager-it.de/static/pdf/lieferkette.pdf</link>
+- <link href="https://www.nager-it.de/static/medienecho/enorm_0215.pdf" >nager-it.de/static/medienecho/enorm_0215.pdf</link>
 </links>
 <persons><person id="widmayer">Karin Widmayer</person></persons>
 </event>
@@ -987,7 +987,7 @@ In diesem Vortrag stelle ich das Open Source 3D Programm Blender vor, mit welche
 </description>
 <links>
 
-- <a href="http://www.blender.org" target="_blank">blender.org</a>
+- <link href="http://www.blender.org" >blender.org</link>
 </links>
 <persons><person id="dinges">Thomas Dinges</person></persons>
 </event>
@@ -1013,7 +1013,7 @@ In diesem Vortrag stelle ich das Open Source 3D Programm Blender vor, mit welche
 </description>
 <links>
 
-- <a href="http://www.lyx.org/WebDe.Home" target="_blank">lyx.org/WebDe.Home</a>
+- <link href="http://www.lyx.org/WebDe.Home" >lyx.org/WebDe.Home</link>
 </links>
 <persons><person id="engelmann">Wolfgang Engelmann</person></persons>
 </event>
@@ -1051,7 +1051,7 @@ grundlegender Umgang mit dem Webbrowser, Einsteiger
 </description>
 <links>
 
-- <a href="http://lug.berlin" target="_blank">lug.berlin</a>
+- <link href="http://lug.berlin" >lug.berlin</link>
 </links>
 <persons><person id="hofmann">Frank Hofmann</person></persons>
 </event>
@@ -1094,9 +1094,9 @@ Die gewöhnliche Installation eines GNU/Linux-Systems sollte bekannt sein.
 </description>
 <links> 
 
-- <a href="https://packages.debian.org/jessie/di-netboot-assistant" target="_blank">packages.debian.org/jessie/di-netboot-assistant</a>
-- <a href="http://d-i.debian.org/manual/de.amd64/apb.html" target="_blank">d-i.debian.org/manual/de.amd64/apb.html</a>
-- <a href="https://wiki.debian.org/DebianLAN" target="_blank">wiki.debian.org/DebianLAN</a>
+- <link href="https://packages.debian.org/jessie/di-netboot-assistant" >packages.debian.org/jessie/di-netboot-assistant</link>
+- <link href="http://d-i.debian.org/manual/de.amd64/apb.html" >d-i.debian.org/manual/de.amd64/apb.html</link>
+- <link href="https://wiki.debian.org/DebianLAN" >wiki.debian.org/DebianLAN</link>
 </links>
 <persons><person id="mundt">Andreas B. Mundt</person></persons>
 </event>
@@ -1268,7 +1268,7 @@ Kommandos nochmals wiedergibt und kurz erläutert.
 </description>
 <links>
 
-<a href="https://leanpub.com/pdfkungfoo" target="_blank">leanpub.com/pdfkungfoo</a>
+<link href="https://leanpub.com/pdfkungfoo" >leanpub.com/pdfkungfoo</link>
 </links>
 <persons><person id="pfeifle">Kurt Pfeifle </person></persons>
 </event>
@@ -1292,7 +1292,7 @@ Hat in den letzten Jahrzehnten mal intensiver mit TeX gearbeitet und möchte wis
 </description>
 <links>
 
-- <a href="http://www.oneiros.de/tex/papers/" target="_blank">oneiros.de/tex/papers/</a>
+- <link href="http://www.oneiros.de/tex/papers/" >oneiros.de/tex/papers/</link>
 
 </links>
 <persons><person id="schroeder">Martin Schröder</person></persons>
@@ -1337,13 +1337,13 @@ Diese kann über den lokalen Keyserver geschehen - oder auch bei einem eigenen T
 </description>
 <links>
 
-- (Digitale) Schlüssel (Cryptokeys) <a href="http://de.wikipedia.org/wiki/Schl%C3%BCssel_(Kryptologie)" target="_blank">de.wikipedia.org/wiki/Schlüssel_(Kryptologie)</a>
-- Digital Signatur <a href="http://de.wikipedia.org/wiki/Digitale_Signatur" target="_blank">de.wikipedia.org/wiki/Digitale_Signatur</a>
-- Verschlüsselung <a href="http://de.wikipedia.org/wiki/Verschl%C3%BCsselung" target="_blank">de.wikipedia.org/wiki/Verschlüsselung</a>
-- Schlüsselverwaltung (key management) <a href="http://en.wikipedia.org/wiki/Key_management" target="_blank">en.wikipedia.org/wiki/Key_management</a>
-- Key Server - Schlüsselserver <a href="http://de.wikipedia.org/wiki/Schl%C3%BCsselserver" target="_blank">de.wikipedia.org/wiki/Schlüsselserver</a>
-- KeySigning Party <a href="http://de.wikipedia.org/wiki/Keysigning-Party" target="_blank">de.wikipedia.org/wiki/Keysigning-Party</a>
-- Web of Trust <a href="http://de.wikipedia.org/wiki/Web_of_Trust" target="_blank">de.wikipedia.org/wiki/Web_of_Trust</a>
+- (Digitale) Schlüssel (Cryptokeys) <link href="http://de.wikipedia.org/wiki/Schl%C3%BCssel_(Kryptologie)" >de.wikipedia.org/wiki/Schlüssel_(Kryptologie)</link>
+- Digital Signatur <link href="http://de.wikipedia.org/wiki/Digitale_Signatur" >de.wikipedia.org/wiki/Digitale_Signatur</link>
+- Verschlüsselung <link href="http://de.wikipedia.org/wiki/Verschl%C3%BCsselung" >de.wikipedia.org/wiki/Verschlüsselung</link>
+- Schlüsselverwaltung (key management) <link href="http://en.wikipedia.org/wiki/Key_management" >en.wikipedia.org/wiki/Key_management</link>
+- Key Server - Schlüsselserver <link href="http://de.wikipedia.org/wiki/Schl%C3%BCsselserver" >de.wikipedia.org/wiki/Schlüsselserver</link>
+- KeySigning Party <link href="http://de.wikipedia.org/wiki/Keysigning-Party" >de.wikipedia.org/wiki/Keysigning-Party</link>
+- Web of Trust <link href="http://de.wikipedia.org/wiki/Web_of_Trust" >de.wikipedia.org/wiki/Web_of_Trust</link>
 </links>
 <persons><person id="guckes">Sven Guckes</person></persons>
 </event>
@@ -1378,9 +1378,9 @@ Am einfachsten nimmt man das distributionsunabhängige Anaconda Python (<a href=
 </description>
 <links>
 
-- SciPy (<a href="https://www.scipy.org" target="_blank">scipy.org</a>)
-- SymPy (<a href="http://www.sympy.org" target="_blank">sympy.org</a>)
-- IPython (<a href="https://ipython.org/" target="_blank">ipython.org</a>)
+- SciPy (<link href="https://www.scipy.org" >scipy.org</link>)
+- SymPy (<link href="http://www.sympy.org" >sympy.org</link>)
+- IPython (<link href="https://ipython.org/" >ipython.org</link>)
 </links>
 <persons><person id="hrenka">Peter Hrenka</person></persons>
 </event>
@@ -1403,9 +1403,9 @@ Per PXE, CD oder USB installieren wir Debian über einen Paketproxy. Verschieden
 </description>
 <links>
 
-- <a href="https://www.debian.org" target="_blank">www.debian.org</a>
+- <link href="https://www.debian.org" >www.debian.org</link>
 </links>
-<persons><person id="mundt_nachbauer">xxx</person></persons>
+<persons><person id="mundt_nachbauer">Florian Nachbauer und Andreas Mundt</person></persons>
 </event>
 <event id="schmidt_stockmayer-gentoo">
 <start>10:00</start>
@@ -1423,12 +1423,12 @@ In diesem Workshop wird kurz auf die Gentoo-Philosophie. die Benutzung von Porta
 </description>
 <links>
 
-- Gentoo-Wiki: <a href="https://wiki.gentoo.org/wiki/Main_Page" target="_blank">wiki.gentoo.org/wiki/Main_Page</a>
-- Gentoo-Handbook: <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64" target="_blank">wiki.gentoo.org/wiki/Handbook:AMD64</a>
-- Gentoo-Installation: <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64" target="_blank">wiki.gentoo.org/wiki/Handbook:AMD64</a>
-- Portage: <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage" target="_blank">wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage</a>
+- Gentoo-Wiki: <link href="https://wiki.gentoo.org/wiki/Main_Page" >wiki.gentoo.org/wiki/Main_Page</link>
+- Gentoo-Handbook: <link href="https://wiki.gentoo.org/wiki/Handbook:AMD64" >wiki.gentoo.org/wiki/Handbook:AMD64</link>
+- Gentoo-Installation: <link href="https://wiki.gentoo.org/wiki/Handbook:AMD64" >wiki.gentoo.org/wiki/Handbook:AMD64</link>
+- Portage: <link href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage" >wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage</link>
 </links>
-<persons><person id="schmidt_stockmayer">xxx</person></persons>
+<persons><person id="schmidt_stockmayer">Mark Schmidt und Andreas Stockmayer</person></persons>
 </event>
 </room>
 <room name="W2">
@@ -1540,8 +1540,8 @@ Linux auf dem Client ist sehr empfehlenswert!
 </description>
 <links>
 
-- <a href="http://wiki.x2go.org" target="_blank">wiki.x2go.org</a>
-- <a href="http://de.wikipedia.org/wiki/X2Go" target="_blank">de.wikipedia.org/wiki/X2Go</a>
+- <link href="http://wiki.x2go.org" >wiki.x2go.org</link>
+- <link href="http://de.wikipedia.org/wiki/X2Go" >de.wikipedia.org/wiki/X2Go</link>
 </links>
 <persons><person id="graesing">Heinz Graesing</person></persons>
 </event>
@@ -1575,7 +1575,7 @@ Wer das System selber installieren will, bringt bitte eine virtuelle Maschine mi
 </description>
 <links>
 
-- <a href="https://www.privacyidea.org" target="_blank">privacyidea.org</a>
+- <link href="https://www.privacyidea.org" >privacyidea.org</link>
 </links>
 <persons><person id="koelbel">Cornelius Kölbel</person></persons>
 </event>
@@ -1696,7 +1696,7 @@ Im Workshop wird die zu OpenSCAD gehörende Programmiersprache anhand einiger vo
 </description>
 <links>
 
-- <a href="http://www.openscad.org/" target="_blank">www.openscad.org</a> 
+- <link href="http://www.openscad.org/" >www.openscad.org</link> 
 </links>
 <persons><person id="knopper">Prof. Dipl.-Ing. Klaus Knopper</person></persons>
 </event>
@@ -1741,9 +1741,9 @@ Der Editor ist eines der wichtigsten Werkzeuge für alle, die Zeit am Rechner ve
 </description>
 <links>
 
-- <a href="http://www.gnu.org/software/emacs/" target="_blank">http://www.gnu.org/software/emacs/</a>
-- <a href="http://www.emacswiki.org/" target="_blank">http://www.emacswiki.org/</a>
-- <a href="http://orgmode.org/" target="_blank">http://orgmode.org/</a>
+- <link href="http://www.gnu.org/software/emacs/" >http://www.gnu.org/software/emacs/</link>
+- <link href="http://www.emacswiki.org/" >http://www.emacswiki.org/</link>
+- <link href="http://orgmode.org/" >http://orgmode.org/</link>
 </links>
 <persons><person id="waelde">Erich Wälde</person></persons>
 </event>

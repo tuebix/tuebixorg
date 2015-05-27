@@ -1,16 +1,18 @@
 #!/usr/bin/env python3
 
 from sys import argv
+from sys import exit
 import re
 from pprint import pprint
 
 p1 = re.compile('.*/programm/(.*)-(.*)/')
 p2 = re.compile('^##\s+(.*)')
 p3 = re.compile('^###\s+<img.+?src="../../images/(.+?).svg"> (\d\d:\d\d) bis (\d\d:\d\d) in (.+)')
-p4 = re.compile('^###\s+(.*)')
+p4 = re.compile('^###\s+(.+)$')
 
 h = {}
 
+p5 = re.compile('.*?svg"> \d\d:\d\d bis \d\d:\d\d in .*?###\s+.*?\n(.+)', re.DOTALL)
 idspeaker = ""
 idtitle   = ""
 type = ""
@@ -18,6 +20,25 @@ title = ""
 start = ""
 room = ""
 persons = ""
+description = ""
+links = ""
+
+
+with open (argv[1], "r") as wholefile:
+    all = ""
+    for i in wholefile:
+        all = all + i
+    #print(all)
+    m5 = p5.match(all)
+    if m5:
+        description = m5.group(1).replace("<br/>","\n").replace("<br />","\n").replace("&nbsp;"," ")
+        if '### Links' in description:
+            splitted = description.split('### Links')    
+            h["description"] = splitted[0]
+            links = splitted[1].replace("a href","link href").replace("</a>","</link>").replace('target="_blank"','')
+            h["links"] = re.sub('</link>.*?<link href','</link><link href',links, re.DOTALL)
+        else:
+            h["description"] = description
 
 with open (argv[1], "r") as talkfile:
     for line in talkfile:
@@ -50,8 +71,8 @@ with open (argv[1], "r") as talkfile:
         m4 = p4.match(line)
         if m4:
             persons  = m4.group(1) 
-            if idspeaker in persons.lower().replace("ä",'ae').replace("ö",'oe').replace("ü",'ue'):
-                h["persons"] = persons.replace("&nbsp;", " ").replace(",","und")
+            if idspeaker.split("_")[0] in persons.lower().replace("ä",'ae').replace("ö",'oe').replace("ü",'ue'):
+                h["persons"] = persons.replace("&nbsp;", " ").replace(", "," und ")
             else:
                 pass
         
@@ -76,7 +97,15 @@ with open (roomname, "a") as outfile:
     outfile.write('<room>' + h['room'] + '</room>\n')
     outfile.write('<title>' + h['title'] + '</title>\n')
     outfile.write('<type>' + h['type'] + '</type>\n')
-    outfile.write('<description>' + "description" + '</description>\n')
+    try:
+        outfile.write('<description>' + h["description"] + '</description>\n')
+    except KeyError:
+        outfile.write('<description>' + "nodescription" + '</description>\n')
+    try:
+        outfile.write('<links>' + h["links"] + '</links>\n')
+        print(h["links"])
+    except KeyError:
+        pass
     try:
         outfile.write('<persons><person id="' + idspeaker + '">' + h['persons'] + '</person></persons>\n')
     except KeyError:
