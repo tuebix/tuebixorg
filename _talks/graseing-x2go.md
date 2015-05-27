@@ -68,7 +68,7 @@ Der Workshop wird sich wie folgt gliedern:
 - Sound
   - Architekturen
   - Debugging
-- Drucker- & Dateifreigabe
+- Drucker- und Dateifreigabe
   - SSHFS
   - FUSE
 
