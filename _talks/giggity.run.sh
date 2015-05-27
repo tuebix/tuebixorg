@@ -8,6 +8,11 @@
 ./giggity.cat.xml
 
 # bigdata1/2 puppet1/2
-patch giggity.xml < giggity.crossref.ampersand.pch 
+# ampersand
+# <a href> in descriptions
+patch giggity.xml < giggity.the.sad.rest.pch
+
+# clean
+./giggity.cleanup.sh
 
 # cp giggity.xml ../2015/giggity.xml 

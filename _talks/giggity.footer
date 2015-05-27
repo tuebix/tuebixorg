@@ -3,20 +3,20 @@
 <room name="X">
 
 <event id="behrla-lpic_block1">
-<start>09:45</start>
-<duration>02:15</duration>
+<start>10:00</start>
+<duration>02:00</duration>
 <room>X</room>
-<title>LPIC Prüfungsblock 1 </title>
+<title>LPIC Prüfungsblock 1</title>
 <type>exam</type>
 <description>www.tuebix.org/lpic/</description>
 <persons><person id="behrla">Klaus Behrla</person></persons>
 </event>
 
 <event id="behrla-lpic_block2">
-<start>13:45</start>
-<duration>02:15</duration>
+<start>14:00</start>
+<duration>02:00</duration>
 <room>X</room>
-<title>LPIC Prüfungsblock 2 </title>
+<title>LPIC Prüfungsblock 2</title>
 <type>exam</type>
 <description>www.tuebix.org/lpic/</description>
 <persons><person id="behrla">Klaus Behrla</person></persons>

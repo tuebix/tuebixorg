@@ -6,7 +6,7 @@
     <start>2015-06-13</start>
     <end>2015-06-13</end>
     <days>1</days>
-    <release>1.20150524.2355</release>
+    <release>1.20150527.2330</release>
     <timeslot_duration>00:30</timeslot_duration>
   </conference>
   <day date="2015-06-13" index="1">
@@ -77,6 +77,7 @@ Wie funktioniert ein Big Data System?
 Es werden Software Projekte, Buildsysteme, Installation, Funktionsweise und Anwendung demonstriert.
 
 ### Vorwissen
+
 Linux Grundlagen
 
 </description>
@@ -152,14 +153,18 @@ Kein spezielles Vorwissen notwendig, generelles Interesse an Linux, freier Softw
 <title>Big Data Analytics</title>
 <type>talk</type>
 <description>
-Im Anschluss an den <a href="http://www.tuebix.org/programm/flebbe-bigdata1">Vortrag von Olaf Flebbe</a> stelle ich exemplarisch vor, welche Fragestellungen mit einer Big Data Umgebung wie angegangen werden. Neben der direkten Auswertung in Hadoop zeige ich Open Source Software, die einem Datenanalysten helfen, solche Auswertungen durchzuführen.
+Im Anschluss an den Vortrag von Olaf Flebbe stelle ich exemplarisch vor, welche Fragestellungen mit einer Big Data Umgebung wie angegangen werden. Neben der direkten Auswertung in Hadoop zeige ich Open Source Software, die einem Datenanalysten helfen, solche Auswertungen durchzuführen.
 
 Zunächst führe ich sehr grob in die Thematik des Machine Learnings ein. Dabei stelle ich einige wichtige Verfahren vor, die dafür verwendet werden können. Dann gehe ich darauf ein, wie diese direkt in Hadoop genutzt werden können. Darüber hinaus zeige ich, welche Frontends es für die Auswertung darüber hinaus gibt. Besonders gehe ich dabei auf KNIME und R etwas tiefer ein.  Anhand einiger Praxisbeispiele zeige ich anschließend, wie diese genutzt werden können.
 
 ### Vorwissen 
 
-<a href="http://www.tuebix.org/programm/flebbe-bigdata1">Vortrag von Olaf Flebbe</a> gehört.
+Vortrag von Olaf Flebbe gehört.
+
 </description>
+<links>
+<link href="http://www.tuebix.org/programm/flebbe-bigdata1">Vortrag von Olaf Flebbe</link>
+</links>
 <persons><person id="flebbe">Thomas Götz</person></persons>
 </event>
 <event id="knopper-knoppix_raspi">
@@ -169,7 +174,7 @@ Zunächst führe ich sehr grob in die Thematik des Machine Learnings ein. Dabei 
 <title>Knoppix auf dem Raspberry Pi</title>
 <type>talk</type>
 <description>
-Knoppix (<a href="http://knopper.net/knoppix/" target="_blank">knopper.net/knoppix/</a>) ist als Live-System mit
+Knoppix ist als Live-System mit
 automatischer Hardware-Erkennung für Desktop-Rechner und Notebooks
 konzipiert. ARM-basierte Minicomputer und Embedded Systeme stellen
 aufgrund der architekturbedingt mangelnden
@@ -191,7 +196,7 @@ nicht notwendigerweise bezogen auf Raspberry Pi).
 
 </description>
 <links>
-
+- <link href="http://knopper.net/knoppix/">knopper.net/knoppix/</link>
 - <link href="https://www.raspberrypi.org/" >raspberrypi.org</link>
 - <link href="https://www.raspbian.org/" >raspbian.org</link>
 </links>
@@ -503,13 +508,13 @@ Erfahrung mit der Administration von Linux Servern oder zumindest Linux Grundlag
 Fortgeschrittene Puppet Administration mit Hiera, Hiera eyaml und Rollen
 
 Gezeigt wird die fortgeschrittene Administration einer Puppet-Umgebung.
-Der Vortrag baut auf dem Wissen auf das in dem Vortrag <a href="http://www.tuebix.org/programm/kockler-puppet1/">"Puppet I: Zentrale Administration einer Server Infrastruktur"</a> vermittelt wurde und ergänzt dieses um Konzepte wie der Trennung von Konfigurationsscripten und Daten durch Hiera, Verschlüsselung geheimer Daten wie Passwörter durch das Hiera Backend eyaml, sowie der Einführung eines Rollenkonzepts für unterschiedliche Arten von Servern.
+Der Vortrag baut auf dem Wissen auf das in dem Vortrag "Puppet I: Zentrale Administration einer Server Infrastruktur" vermittelt wurde und ergänzt dieses um Konzepte wie der Trennung von Konfigurationsscripten und Daten durch Hiera, Verschlüsselung geheimer Daten wie Passwörter durch das Hiera Backend eyaml, sowie der Einführung eines Rollenkonzepts für unterschiedliche Arten von Servern.
 
 Dies ist der zweite von zwei aufeinander aufbauenden Vorträgen über Puppet.
 
 ### Vorwissen
 
-Wissen aus dem Vortrag <a href="http://www.tuebix.org/programm/kockler-puppet1/">"Puppet I: Zentrale Administration einer Server Infrastruktur"</a>" oder Grundlegende Erfahrungen mit Puppet
+Wissen aus dem Vortrag "Puppet I: Zentrale Administration einer Server Infrastruktur" oder Grundlegende Erfahrungen mit Puppet
 </description>
 <persons><person id="kockler">Torsten Kockler</person></persons>
 </event>
@@ -718,7 +723,7 @@ Zu sehen gibt es ein Universum aus "reinem Wissen" und krasse organisch anmutend
 
 ### Vorwissen
 
-Man sollte zur Vorbereitung mal <a href="https://de.wikipedia.org" target="_blank">de.wikipedia.org</a> aufgerufen haben.
+Man sollte zur Vorbereitung mal de.wikipedia.org aufgerufen haben.
 
 </description>
 <links>
@@ -1104,7 +1109,7 @@ Die gewöhnliche Installation eines GNU/Linux-Systems sollte bekannt sein.
 <start>13:00</start>
 <duration>01:00</duration>
 <room>V4</room>
-<title>Dokumenten-KungFoo mit Pandoc, Markdown und Co.</title>
+<title>Dokumenten-KungFoo mit Pandoc, Markdown &#x26; Co.</title>
 <type>talk</type>
 <description>
 Jeder Software-Entwickler sollte sich darum kümmern, dass seine
@@ -1139,7 +1144,7 @@ Formatierungs-Regeln bereits sehr anspruchsvolle Dokumente zustande bringt
 7. *kursiv hervorgehobene* Wörter
 8. **fett hervorgehobene** Wörter
 9. ***fett+kursiv hervorgehobene*** Wörter
-10. <a href="http://en.wikipedia.org/wiki/Hyperlink" target="_blank">Hyper-Links</a>
+10. Hyper-Links
 11. Bilder
 12. Code-Blöcke
 13. Tabellen
@@ -1202,7 +1207,7 @@ weitgehend automatisieren kann
 <start>16:00</start>
 <duration>01:00</duration>
 <room>V4</room>
-<title>PDF-KungFoo mit Ghostscript und Co.</title>
+<title>PDF-KungFoo mit Ghostscript &#x26; Co.</title>
 <type>talk</type>
 <description>
 PDF ist das am weitesten verbreitete Dokumenten-Format.
@@ -1373,7 +1378,7 @@ Im Workshop werden wir IPython interaktiv benutzen und die Teilnehmer können be
 
 - Webbrowser
 - Eine lokale Installation von IPython >= 2.0, Numpy 1.9 und matplotlib.
-Am einfachsten nimmt man das distributionsunabhängige Anaconda Python (<a href="http://continuum.io/downloads" target="_blank">continuum.io/downloads</a>)
+Am einfachsten nimmt man das distributionsunabhängige Anaconda Python. 
 
 </description>
 <links>
@@ -1381,6 +1386,7 @@ Am einfachsten nimmt man das distributionsunabhängige Anaconda Python (<a href=
 - SciPy (<link href="https://www.scipy.org" >scipy.org</link>)
 - SymPy (<link href="http://www.sympy.org" >sympy.org</link>)
 - IPython (<link href="https://ipython.org/" >ipython.org</link>)
+- Anaconda Python (<link href="http://continuum.io/downloads" >scipy.org</link>)
 </links>
 <persons><person id="hrenka">Peter Hrenka</person></persons>
 </event>
@@ -1607,8 +1613,11 @@ Vorherige Nutzung von Textverarbeitung
 
 - Laptop funktionstüchtig, Akku geladen
 - LibreOffice 4 installiert und mindestens einmal aufgerufen (um sicherzustellen, daß es läuft!)
-- Beispieldateien von <a href="http://www.iscait.com/tuebix" target="_blank">www.iscait.com/tuebix</a> – Paßwörter gibt es in der Veranstaltung
+- Beispieldateien von www.iscait.com/tuebix - Paßwörter gibt es in der Veranstaltung
 </description>
+<links>
+- <link href="http://www.iscait.com/tuebix" >iscait.com/tuebix</link> 
+</links>
 <persons><person id="krug">Stefan Krug</person></persons>
 </event>
 <event id="nagel-latex">
@@ -1633,18 +1642,25 @@ Anhand eines praktischen Beispiels schauen wir uns an:
 
 - Laptop funktionstüchtig, Akku geladen
 - vollständig installiertes Latex:
-  - Mac OSX: <a href="http://www.tug.org/mactex/" target="_blank">tug.org/mactex/</a>
-  - Windows: <a href="http://www.tug.org/protext/" target="_blank">tug.org/protext/</a>
+  - Mac OSX: tug.org/mactex/
+  - Windows: tug.org/protext/
   - Linux: selber drum kuemmern, evtl. bereits installiert,
 
-möglichst aktuelles Texlive, zum Beispiel <a href="http://www.tug.org/texlive/" target="_blank">tug.org/texlive/</a>
+möglichst aktuelles Texlive, zum Beispiel tug.org/texlive/
 
 - ideal: installierter Editor Texstudio
   - Windows: ist bei Protext dabei
-  - Mac und Linux-User holen es sich hier: <a href="http://texstudio.sourceforge.net" target="_blank">texstudio.sourceforge.net</a>
+  - Mac und Linux-User holen es sich hier: texstudio.sourceforge.net
 
-- Beispieldateien (ab 8. Juni downloadbar) von <a href="http://astro.uni-tuebingen.de/~nagel/pub/tuebix" target="_blank">astro.uni-tuebingen.de/~nagel/pub/tuebix</a>
+- Beispieldateien (ab 8. Juni downloadbar) von astro.uni-tuebingen.de/~nagel/pub/tuebix
 </description>
+<links>
+- Mac OSX: <link href="http://www.tug.org/mactex/">tug.org/mactex/</link>
+- Windows: <link href="http://www.tug.org/protext/">tug.org/protext/</link>
+- TeXLive: <link href="http://www.tug.org/texlive/">tug.org/texlive/</link>
+- Mac und Linux-User holen es sich hier: <link href="http://texstudio.sourceforge.net">texstudio.sourceforge.net</link>
+- Beispieldateien (ab 8. Juni downloadbar) von <link href="http://astro.uni-tuebingen.de/~nagel/pub/tuebix">astro.uni-tuebingen.de/~nagel/pub/tuebix</link>
+</links>
 <persons><person id="nagel">Thorsten Nagel</person></persons>
 </event>
 </room>
@@ -1663,7 +1679,7 @@ Wenn du nicht genau weißt, was dich in dem Workshop erwartet, oder wenn du sons
 
 ### Vorbereitung
 
-- Bitte per Mail bei Ingo anmelden: <a href="mailto:iblech@web.de">iblech@web.de</a>
+- Bitte per Mail bei Ingo anmelden: iblech@web.de
 - Teilnahme bereits ab 5. Klasse möglich!
 - Laptop mitbringen!
 - Es ist keine Installation nötig, und wir werden das Laptopsystem auch nicht ändern. Wir werden den Laptop nur verwenden, um auf eine Webseite zu gehen.
@@ -1781,20 +1797,20 @@ vim 7.x sollte zur Hand sein
 <room name="X">
 
 <event id="behrla-lpic_block1">
-<start>09:45</start>
-<duration>02:15</duration>
+<start>10:00</start>
+<duration>02:00</duration>
 <room>X</room>
-<title>LPIC Prüfungsblock 1 </title>
+<title>LPIC Prüfungsblock 1</title>
 <type>exam</type>
 <description>www.tuebix.org/lpic/</description>
 <persons><person id="behrla">Klaus Behrla</person></persons>
 </event>
 
 <event id="behrla-lpic_block2">
-<start>13:45</start>
-<duration>02:15</duration>
+<start>14:00</start>
+<duration>02:00</duration>
 <room>X</room>
-<title>LPIC Prüfungsblock 2 </title>
+<title>LPIC Prüfungsblock 2</title>
 <type>exam</type>
 <description>www.tuebix.org/lpic/</description>
 <persons><person id="behrla">Klaus Behrla</person></persons>
