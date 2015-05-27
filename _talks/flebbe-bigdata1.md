@@ -15,6 +15,7 @@ Wie funktioniert ein Big Data System?
 Es werden Software Projekte, Buildsysteme, Installation, Funktionsweise und Anwendung demonstriert.
 
 ### Vorwissen
+
 Linux Grundlagen
 
 ### Links
