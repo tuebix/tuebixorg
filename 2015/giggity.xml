@@ -680,6 +680,33 @@ Arbeiten mit SSH Public Keys
 </links>
 <persons><person id="giesen">Gregor Giesen</person></persons>
 </event>
+<event id="grimm-cpp_funktional">
+<start>17:00</start>
+<duration>01:00</duration>
+<room>V3</room>
+<title>Funktionale Programmierung mit C++</title>
+<type>talk</type>
+<description>
+C++ ist eine Multiparadigmen-Programmiersprache.
+Bei der Wahl seiner Mittel steht es dem Programmierer frei, strukturierte, prozedurale, objektorientierte, generische, generative oder auch funktionale Techniken einzusetzen.
+Insbesondere das funktionale Programmierparadigma wird mit Lambda-Funktionen und Templates in modernem C++ immer wichtiger.
+
+Diese Vortrag will zum einen in die funktionale Denkweise einführen und will zum anderen zeigen, wie sich funktionale Techniken effizient anwenden lassen.
+
+### Vorwissen
+
+Grundkenntnisse in Mainstream-Sprachen wie Python, Perl, C, C++ oder Java.
+
+</description>
+<links>
+
+- <link href="http://www.grimm-jaud.de" >grimm-jaud.de</link>
+- <link href="http://www.linux-magazin.de/Online-Artikel/Funktionale-Programmierung-1-Grundzuege" >linux-magazin.de/Online-Artikel/Funktionale-Programmierung-1-Grundzuege</link>
+- <link href="http://www.linux-magazin.de/Online-Artikel/Funktionale-Programmierung-2-Python-funktional" >linux-magazin.de/Online-Artikel/Funktionale-Programmierung-2-Python-funktional</link>
+- <link href="http://www.linux-magazin.de/Online-Artikel/Funktionale-Programmierung-3-Das-MapReduce-Framework" >linux-magazin.de/Online-Artikel/Funktionale-Programmierung-3-Das-MapReduce-Framework</link>
+</links>
+<persons><person id="grimm">Rainer Grimm</person></persons>
+</event>
 <event id="helmle-einfache_sprache">
 <start>12:40</start>
 <duration>00:10</duration>
