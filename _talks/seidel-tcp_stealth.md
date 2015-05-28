@@ -11,8 +11,8 @@ menu:
 
 ### Dr.&nbsp;Udo&nbsp;Seidel
 
-Portscans als Werkzeug zum Aufspüren verwundbarer Rechner sind ein alter Hut. Ein Möglichkeit den Bösewichten das Leben zu erschweren ist das sogenannte Port-Knocking. Die Diskussionen in der Vergangenheit ware meist kontrovers.
-"Sicherheit durch Verschleiern" ist fuer manche Experten ueberhaupt keine akzeptable Massnahme.
+Portscans als Werkzeug zum Aufspüren verwundbarer Rechner sind ein alter Hut. Eine Möglichkeit den Bösewichten das Leben zu erschweren ist das sogenannte Port-Knocking. Die Diskussionen in der Vergangenheit waren meist kontrovers.
+"Sicherheit durch Verschleiern" ist für manche Experten überhaupt keine akzeptable Massnahme.
 Zudem hat das "Anklopf-Verfahren" ein paar Schwächen.
 Medienberichte über Portscans ganzer Länder durch Geheimdienste haben die Diskussion über Abwehrmassnahmen neu belebt.
 Port-Knocking spielt dabei eine zentrale Rolle.
@@ -23,7 +23,7 @@ Der Vortrag stellt die Idee und Architektur hinter TCP Stealth vor und beinhalte
 
 ### Vorwissen
 
-- Grundlegende Netzwerk-Kenntnisse insbesondere TCP
+- Grundlegende Netzwerk-Kenntnisse, insbesondere TCP
 - Interesse (gerne auch Vorkenntnisse) zum Thema Sicherheit in der IT
 - ein bisschen Linux an sich wäre auch nicht schlecht
 

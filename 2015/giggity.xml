@@ -290,8 +290,8 @@ Der Vortrag führt in die Besonderheiten schulischer Netzwerke ein und erläuter
 <title>TCP Stealth - Port Knocking neu aufgelegt</title>
 <type>talk</type>
 <description>
-Portscans als Werkzeug zum Aufspüren verwundbarer Rechner sind ein alter Hut. Ein Möglichkeit den Bösewichten das Leben zu erschweren ist das sogenannte Port-Knocking. Die Diskussionen in der Vergangenheit ware meist kontrovers.
-"Sicherheit durch Verschleiern" ist fuer manche Experten ueberhaupt keine akzeptable Massnahme.
+Portscans als Werkzeug zum Aufspüren verwundbarer Rechner sind ein alter Hut. Eine Möglichkeit den Bösewichten das Leben zu erschweren ist das sogenannte Port-Knocking. Die Diskussionen in der Vergangenheit waren meist kontrovers.
+"Sicherheit durch Verschleiern" ist für manche Experten überhaupt keine akzeptable Massnahme.
 Zudem hat das "Anklopf-Verfahren" ein paar Schwächen.
 Medienberichte über Portscans ganzer Länder durch Geheimdienste haben die Diskussion über Abwehrmassnahmen neu belebt.
 Port-Knocking spielt dabei eine zentrale Rolle.
@@ -302,7 +302,7 @@ Der Vortrag stellt die Idee und Architektur hinter TCP Stealth vor und beinhalte
 
 ### Vorwissen
 
-- Grundlegende Netzwerk-Kenntnisse insbesondere TCP
+- Grundlegende Netzwerk-Kenntnisse, insbesondere TCP
 - Interesse (gerne auch Vorkenntnisse) zum Thema Sicherheit in der IT
 - ein bisschen Linux an sich wäre auch nicht schlecht
 
@@ -849,14 +849,14 @@ Wir haben einen Heimrouter so präpariert, dass er automatisch ein WLAN-
 Netzwerk aufspannt, dass den Internetverkehr direkt über das
 Annonymisierungsnetzwerk Tor Leitet.
 Der Router ist innerhalb von Sekunden aufgestellt und betriebsbereit. Nötig
-ist lediglich ein LAN-Buxe und Strom.
+ist lediglich ein LAN-Buchse und Strom.
 So kann man mit beliebigen Geräten und Anwendungen Tor nutzen.
 Nebenbei kann dem Inhaber des Internetanschlusses dank der Anonymisierung
 Störerhaftung und ähnliches ziemlich Egal sein.
 
 ### Vorwissen
 
-Keines. Grundsätzliche Linux und Netzwerkkenntnisse eventuell Vorteilhaft aber nicht nötig.
+Keines. Grundsätzliche Linux und Netzwerkkenntnisse eventuell vorteilhaft aber nicht nötig.
 
 ### Vorbereitung
 
