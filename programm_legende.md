@@ -13,6 +13,8 @@ Legende&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm_lightning_talks">Lightning Talks</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="../programm_rahmen">Rahmenprogramm</a>
 
+<a href="https://f-droid.org/repository/browse/?fdid=net.gaast.giggity" target="_blank">Android: giggity</a> über <a href="https://f-droid.org/" target="_blank">F-Droid</a>
+
 <br/>
 
 Die Beiträge des Programms gibt es in drei Geschmacksrichtungen:
