@@ -916,35 +916,6 @@ keine Vorkenntnisse nötig
 </description>
 <persons><person id="uebele">Peter Uebele</person></persons>
 </event>
-<event id="wege-rtfl">
-<start>17:00</start>
-<duration>01:00</duration>
-<room>V3</room>
-<title>Open Source und Urheberrecht - Read The F*cking License</title>
-<type>talk</type>
-<description>
-Neben der Technik spielen rechtliche Aspekte beim Einsatz von Open Source Software eine zunehmend wichtige Rolle. Essentiell ist dabei das Verständnis
-der auf dem Urheberrecht basierenden Open Source Lizenzen. Einige prominente Gerichtsurteile der letzten Zeit zeigen, wie wichtig die Einhaltung der
-Lizenzbedingunge ist. Und weil inzwischen keine Software mehr ohne Open Source auskommt oder gleich ganz als Open Source veröffentlicht wird, ist das
-ein Thema, das jeden Entwickler interessieren muss.
-
-</description>
-<links>
-
-- Open Source Software
-
-<link href="http://opensource.org/licenses" >opensource.org/licenses</link>
-- Free Software
-
-<link href="http://www.gnu.org/licenses/license-list.html" >gnu.org/licenses/license-list.html</link>
-- Rechtliche Aspekte von Open Source
-
-  - <link href="http://www.ifosslr.org/ifosslr" >ifosslr.org/ifosslr</link>
-
-  - <link href="http://www.amazon.de/Open-Source-Software-Rechtliche-Rahmenbedingungen/dp/340660580X" >amazon.de/Open-Source-Software-Rechtliche-Rahmenbedingungen/dp/340660580X</link>
-</links>
-<persons><person id="wege">Christian Wege</person></persons>
-</event>
 <event id="weissensel-fish">
 <start>10:30</start>
 <duration>00:30</duration>
