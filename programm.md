@@ -90,7 +90,7 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>15:00</td><td><a class="talk"></a></td><td><a href="../programm/kuestner_strohmaier-wueste_welle">Open&nbsp;Source&nbsp;Software&nbsp;beim&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle</a></td><td>Andreas&nbsp;Küstner,&nbsp;Friedrich&nbsp;Strohmaier</td></tr>
 <tr><td>15:30</td><td><a class="talk"></a></td><td><a href="../programm/klaeren-computermuseum">Das&nbsp;Computermuseum&nbsp;auf&nbsp;dem&nbsp;Sand</a></td><td>Prof.&nbsp;Dr.&nbsp;Herbert&nbsp;Klaeren</td></tr>
 <tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/schiele-aktuelles">aktuelle&nbsp;Entwicklungen</a></td><td>Joachim&nbsp;Schiele</td></tr>
-<tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/wege-rtfl">Open&nbsp;Source&nbsp;und&nbsp;Urheberrecht&nbsp;-&nbsp;Read&nbsp;The&nbsp;F*cking&nbsp;License</a></td><td>Christian&nbsp;Wege</td></tr>
+<tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/grimm-cpp_funktional">Funktionale&nbsp;Programmierung&nbsp;mit&nbsp;C++</a></td><td>Rainer&nbsp;Grimm</td></tr>
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum V4</td></tr>
@@ -107,7 +107,6 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 
 <tr><td></td><td></td><td>Raum LPIC</td></tr>
 <tr><td>10:00</td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Klaus Behrla</td></tr>
-<tr><td>12:00</td><td><a class="talk"></a></td><td><a href="../programm/grimm-cpp_funktional">Funktionale&nbsp;Programmierung&nbsp;mit&nbsp;C++</a></td><td>Rainer&nbsp;Grimm</td></tr>
 <tr><td>14:00</td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td>Klaus Behrla</td></tr>
 <tr><td>&nbsp;</td></tr>
 

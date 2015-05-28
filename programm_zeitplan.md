@@ -49,7 +49,6 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>V3</td><td><a class="light"></a></td><td>12:50 <a href="../programm/koelbel-desktop_auth">Sicher&nbsp;und&nbsp;bequem</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>V4</td><td><a class="talk"></a></td><td><a href="../programm/imme-latex_verein">LaTeX&nbsp;für&nbsp;den&nbsp;Verein</a></td><td>Roland&nbsp;Imme</td></tr>
 <tr><td>V4</td><td><a class="talk"></a></td><td>12:30 <a href="../programm/hofmann-lug_berlin">Unter&nbsp;einem&nbsp;Dach:&nbsp;lug.berlin</a></td><td>Frank&nbsp;Hofmann</td></tr>
-<tr><td>LPIC</td><td><a class="talk"></a></td><td><a href="../programm/grimm-cpp_funktional">Funktionale&nbsp;Programmierung&nbsp;mit&nbsp;C++</a></td><td>Rainer&nbsp;Grimm</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>13:00</td></tr>
 <tr><td>V1</td><td><a class="talk"></a></td><td><a href="../programm/seidel-tcp_stealth">TCP&nbsp;Stealth&nbsp;-&nbsp;Port&nbsp;Knocking&nbsp;neu&nbsp;aufgelegt</a></td><td>Dr.&nbsp;Udo&nbsp;Seidel</td></tr>
@@ -98,7 +97,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td></td><td></td><td>17:00</td></tr>
 <tr><td>V1</td><td><a class="talk"></a></td><td><a href="../programm/goetz-bigdata2">Big&nbsp;Data&nbsp;Analytics</a></td><td>Thomas&nbsp;Götz</td></tr>
 <tr><td>V2</td><td><a class="talk"></a></td><td><a href="../programm/blechschmidt-wireshark">Netzwerksniffing&nbsp;mit&nbsp;Wireshark</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
-<tr><td>V3</td><td><a class="talk"></a></td><td><a href="../programm/wege-rtfl">Open&nbsp;Source&nbsp;und&nbsp;Urheberrecht&nbsp;-&nbsp;Read&nbsp;The&nbsp;F*cking&nbsp;License</a></td><td>Christian&nbsp;Wege</td></tr>
+<tr><td>V3</td><td><a class="talk"></a></td><td><a href="../programm/grimm-cpp_funktional">Funktionale&nbsp;Programmierung&nbsp;mit&nbsp;C++</a></td><td>Rainer&nbsp;Grimm</td></tr>
 <tr><td>V4</td><td><a class="talk"></a></td><td><a href="../programm/gantikow-elektroschrott">Phoenix&nbsp;statt&nbsp;Elektroschrott&nbsp;-&nbsp;Neues&nbsp;Leben&nbsp;für&nbsp;"alte"&nbsp;Mobilgeräte</a></td><td>Holger&nbsp;Gantikow</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>18:00</td></tr>
