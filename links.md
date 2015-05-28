@@ -29,9 +29,10 @@ Dann schreib bitte an [{{ site.email }}](mailto:{{ site.email }})
 
 ### Backlinks
 
+* <a href="http://www.linux-magazin.de/NEWS/Tuebix-Programm-fuer-Linuxtag-in-Tuebingen-steht" target="_blank">Linux Magazin - News: Programm steht</a>
 * <a href="http://www.uni-tuebingen.de/aktuelles/veranstaltungskalender/kongresse-und-tagungen.html" target="_blank">Uni Tübingen - Veranstaltungskalender</a>
 * <a href="http://www.wsi.uni-tuebingen.de/aktuelles.html" target="_blank">Fachbereich Informatik (Wilhelm-Schickard-Institut) - Aktuelles</a>
-* <a href="http://www.linux-magazin.de/NEWS/Tuebix-Linuxtag-in-Tuebingen" target="_blank">Linux Magazin - News</a>
+* <a href="http://www.linux-magazin.de/NEWS/Tuebix-Linuxtag-in-Tuebingen" target="_blank">Linux Magazin - News: Call for Papers</a>
 * <a href="http://www.pro-linux.de/kalender/2/3188/tuebix-linuxtag-in-tuebingen.html" target="_blank">pro-linux.de - Veranstaltungskalender</a>
 * <a href="http://www.heise.de/open/veranstaltungskalender/?monat=2015_6" target="_blank">heise.de - Veranstaltungskalender</a>
 * <a href="http://www.lpice.eu/de/home.html" target="_blank">LPI Central Europe</a>
