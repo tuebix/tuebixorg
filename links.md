@@ -12,6 +12,7 @@ menu: main
 * <a href="http://www.lisas.de" target="_blank">LUGES / Linux User Group Esslingen</a>
 * <a href="http://www.lug-s.org" target="_blank">LUGS / Linux User Group Stuttgart</a>
 * <a href="http://www.lugulm.de" target="_blank">LUGU / Linux User Group Ulm</a>
+* <a href="http://www.lug-vs.org" target="_blank">LUG-VS / Linux User Group Villingen-Schwenningen</a>
 * <a href="https://www.fsi.uni-tuebingen.de/mailman/listinfo/crypto" target="_blank">AK Cryptoparty (auf dem Sand)</a>
 * <a href="http://www.cryptoparty-tuebingen.de" target="_blank">Cryptoparty Tübingen</a>
 * <a href="http://www.cryptoparty.in/tuebingen" target="_blank">cryptoparty.in/tuebingen</a>
