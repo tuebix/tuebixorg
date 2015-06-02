@@ -36,6 +36,9 @@ Dann schreib bitte an [{{ site.email }}](mailto:{{ site.email }})
 * <a href="http://www.linux-magazin.de/NEWS/Tuebix-Linuxtag-in-Tuebingen" target="_blank">Linux Magazin - News: Call for Papers</a>
 * <a href="http://www.pro-linux.de/kalender/2/3188/tuebix-linuxtag-in-tuebingen.html" target="_blank">pro-linux.de - Veranstaltungskalender</a>
 * <a href="http://www.heise.de/open/veranstaltungskalender/?monat=2015_6" target="_blank">heise.de - Veranstaltungskalender</a>
+* <a href="http://foss.events/events/" target="_blank">foss.events</a>
+* <a href="http://community.oreilly.de/blog/2015/05/27/die-oreilly-veranstaltungstipps-im-juni-3/" target="_blank">O'Reilly Blog - Veranstaltungstipps</a>
+* <a href="http://www.opensourcepress.de/de/veranstaltungen/" target="_blank">Open Source Press - Veranstaltungen</a>
 * <a href="http://www.lpice.eu/de/home.html" target="_blank">LPI Central Europe</a>
 * <a href="http://www.einstieg-informatik.de/index.php?article_id=161&sid=778&hid=0" target="_blank">Einstieg Informatik</a>
 * <a href="http://www.lug-reutlingen.de/de-V.pl/Links" target="_blank">LUG Reutlingen</a>
