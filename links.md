@@ -43,3 +43,4 @@ Dann schreib bitte an [{{ site.email }}](mailto:{{ site.email }})
 * <a href="http://www.einstieg-informatik.de/index.php?article_id=161&sid=778&hid=0" target="_blank">Einstieg Informatik</a>
 * <a href="http://www.lug-reutlingen.de/de-V.pl/Links" target="_blank">LUG Reutlingen</a>
 * <a href="http://www.lugv.at/tuebix-sucht-beitraege" target="_blank">LUG Voralberg</a>
+* <a href="http://tuebingen.linux.de/" target="_blank">LUG Tübingen</a>
