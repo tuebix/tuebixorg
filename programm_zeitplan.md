@@ -71,12 +71,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>W3</td><td><a class="work"></a></td><td><a href="../programm/blechschmidt-python_schueler">Python-Programmierung&nbsp;für&nbsp;Schülerinnen&nbsp;und&nbsp;Schüler</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>V1</td><td><a class="talk"></a></td><td><a href="../programm/knopper-knoppix_raspi">Knoppix&nbsp;auf&nbsp;dem&nbsp;Raspberry&nbsp;Pi</a></td><td>Prof.&nbsp;Dipl.-Ing.&nbsp;Klaus&nbsp;Knopper</td></tr>
 <tr><td>V2</td><td><a class="talk"></a></td><td><a href="../programm/kockler-puppet2">Puppet&nbsp;II:&nbsp;Strukturierte&nbsp;Puppet-Umgebung</a></td><td>Torsten&nbsp;Kockler</td></tr>
-<tr><td>V3</td><td><a class="light"></a></td><td>14:00 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
-<tr><td>V3</td><td><a class="light"></a></td><td>14:10 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
-<tr><td>V3</td><td><a class="light"></a></td><td>14:20 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
-<tr><td>V3</td><td><a class="light"></a></td><td>14:30 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
-<tr><td>V3</td><td><a class="light"></a></td><td>14:40 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
-<tr><td>V3</td><td><a class="light"></a></td><td>14:50 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
+<tr><td>V3</td><td><a class="light"></a></td><td><a href="../programm/lugs-kurzvorstellungen">Linux&nbsp;User&nbsp;Groups&nbsp;und&nbsp;Co&nbsp;stellen&nbsp;sich&nbsp;vor</a></td><td>Linux User Groups und Co</td></tr>
 <tr><td>V4</td><td><a class="talk"></a></td><td><a href="../programm/dinges-blender">Einführung&nbsp;in&nbsp;die&nbsp;3D&nbsp;Software&nbsp;Blender</a></td><td>Thomas&nbsp;Dinges</td></tr>
 <tr><td>LPIC</td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td>Klaus Behrla</td></tr>
 <tr><td>&nbsp;</td></tr>

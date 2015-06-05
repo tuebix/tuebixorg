@@ -831,6 +831,29 @@ Kurzer Anriss über die verschiedenen Einsatzfelder von OpenSource Software, die
 </links>
 <persons><person id="kuestner_strohmaier">Andreas Küstner und Friedrich Strohmaier</person></persons>
 </event>
+<event id="lugs-kurzvorstellungen">
+<start>14:00</start>
+<room>V3</room>
+<title>Linux User Groups und Co stellen sich vor</title>
+<type>lightning</type>
+<description>
+* <a href="http://tuebingen.linux.de" target="_blank">LUGT / Linux User Group Tübingen</a>
+* <a href="http://www.lug-reutlingen.de" target="_blank">Linux User Group Reutlingen</a>
+* <a href="http://www.listig.org" target="_blank">LISTIG / Linux Stammtisch im Gäu (Herrenberg)</a>
+* <a href="http://www.lisas.de" target="_blank">LUGES / Linux User Group Esslingen</a>
+* <a href="http://www.lug-s.org" target="_blank">LUGS / Linux User Group Stuttgart</a>
+* <a href="http://www.lugulm.de" target="_blank">LUGU / Linux User Group Ulm</a>
+* <a href="http://www.lug-vs.org" target="_blank">LUG-VS / Linux User Group Villingen-Schwenningen</a>
+* <a href="https://www.fsi.uni-tuebingen.de/mailman/listinfo/crypto" target="_blank">AK Cryptoparty (auf dem Sand)</a>
+* <a href="http://www.cryptoparty-tuebingen.de" target="_blank">Cryptoparty Tübingen</a>
+* <a href="http://www.cryptoparty.in/tuebingen" target="_blank">cryptoparty.in/tuebingen</a>
+* <a href="http://www.fablab-neckar-alb.org" target="_blank">FabLab Neckar-Alb e.V.</a>
+* <a href="http://www.chaostreff-tuebingen.de" target="_blank">Chaostreff "Chaos-Curry" Tübingen</a>
+* <a href="http://www.shackspace.de" target="_blank">shack / Hackerspace Stuttgart</a>
+* <a href="http://www.linuxmuster.net" target="_blank">linuxmuster.net e.V.</a>
+</description>
+<persons><person id="lugs">xxx</person></persons>
+</event>
 <event id="schiebel-oss_schule">
 <start>13:40</start>
 <duration>00:10</duration>

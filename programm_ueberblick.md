@@ -53,7 +53,7 @@ padding-right: 8px;
 <td>11:00</td></tr>
 
 <tr><td>&nbsp;</td>
-<td rowspan="7"><a class="light" href="../programm_lightning_talks">Lightning Talks</a></td>
+<td rowspan="5"><a class="light" href="../programm_lightning_talks">Lightning Talks</a></td>
 <td></td></tr>
 
 <tr><td>12:00</td>
@@ -87,6 +87,7 @@ padding-right: 8px;
 <td rowspan="4"><a class="work" href="../programm/blechschmidt-python_schueler">Python&nbsp;f&uuml;r&nbsp;Sch&uuml;ler</a></td>
 <td rowspan="2"><a class="talk" href="../programm/knopper-knoppix_raspi">Knoppix&nbsp;auf&nbsp;RasPi</a></td>
 <td rowspan="2"><a class="talk" href="../programm/kockler-puppet2">Puppet&nbsp;II</a></td>
+<td rowspan="2"><a class="light" href="../programm/lugs-kurzvorstellungen">LUGS und Co</a></td>
 <td rowspan="2"><a class="talk" href="../programm/dinges-blender">Blender</a></td>
 <td rowspan="4"><a              href="../lpic">LPIC</a></td>
 <td>14:00</td></tr>
