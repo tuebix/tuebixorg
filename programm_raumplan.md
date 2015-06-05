@@ -109,6 +109,7 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 
 <tr><td></td><td></td><td>Raum LPIC</td></tr>
 <tr><td>10:00</td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Klaus Behrla</td></tr>
+<tr><td>12:00</td><td><a class="talk"></a></td><td><a href="../programm/koelbel-tails">Anonym&nbsp;im&nbsp;Internet&nbsp;bewegen&nbsp;mit&nbsp;Tails</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>14:00</td><td></td><td><a href="../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td>Klaus Behrla</td></tr>
 <tr><td>&nbsp;</td></tr>
 

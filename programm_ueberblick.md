@@ -63,7 +63,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/schiebel-linuxmuster">linuxmuster.net</a></td>
 <td rowspan="2"><a class="talk" href="../programm/kockler-puppet1">Puppet&nbsp;I</a></td>
 <td>            <a class="talk" href="../programm/imme-latex_verein">LaTeX&nbsp;im&nbsp;Verein</a></td>
-<td rowspan="4"></td>
+<td rowspan="2"><a class="talk" href="../programm/koelbel-tails">Tails</a></td>
 <td>12:00</td></tr>
 
 <tr><td></td>
@@ -74,6 +74,7 @@ padding-right: 8px;
 <td>            <a class="talk" href="../programm/seidel-tcp_stealth">TCP&nbsp;Stealth</a></td>
 <td rowspan="2"><a class="talk" href="../programm/gietz-openldap">OpenLDAP</a></td>
 <td rowspan="2"><a class="talk" href="../programm/pfeifle-pandoc">Dokumenten-KungFoo</a></td>
+<td rowspan="2"></td>
 <td>13:00</td></tr>
 
 <tr><td></td>

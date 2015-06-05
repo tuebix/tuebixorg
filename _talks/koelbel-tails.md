@@ -1,34 +1,17 @@
-﻿</room>
+---
+layout: talk
+title:
+permalink: /programm/koelbel-tails/
+weight: 
+menu:
+---
 
-<room name="X">
+## "Watt&nbsp;-&nbsp;wer&nbsp;bist&nbsp;Du&nbsp;denn?" Anonym&nbsp;im&nbsp;Internet&nbsp;bewegen&nbsp;mit&nbsp;Tails
 
-<event id="behrla-lpic_block1">
-<start>10:00</start>
-<duration>02:00</duration>
-<room>X</room>
-<title>LPIC Prüfungsblock 1</title>
-<type>exam</type>
-<description>www.tuebix.org/lpic/</description>
-<persons><person id="behrla">Klaus Behrla</person></persons>
-</event>
+### <img height = "32" src="../../images/talk.svg"> 12:00 bis 13:00 in Raum LPIC 
 
-<event id="behrla-lpic_block2">
-<start>14:00</start>
-<duration>02:00</duration>
-<room>X</room>
-<title>LPIC Prüfungsblock 2</title>
-<type>exam</type>
-<description>www.tuebix.org/lpic/</description>
-<persons><person id="behrla">Klaus Behrla</person></persons>
-</event>
+### Cornelius&nbsp;Kölbel
 
-<event id="koelbel-tails">
-<start>12:00</start>
-<duration>01:00</duration>
-<room>X</room>
-<title>"Watt - wer bist Du denn?" Anonym im Internet bewegen mit Tails</title>
-<type>talk</type>
-<description>
 NSA, GCHQ, BND, Telekom, Bargeldverbot.
 Schon wieder wird lauthals nach der Vorratsdatenspeicherung geschrien.
 Wir werden auf Schritt und Tritt überwacht. Der Datenhunger der Regierungen und Geheimdienste scheint unstillbar zu sein.
@@ -46,13 +29,6 @@ Zum Ende soll noch Zeit für eine offene Diskussion bleiben.
 
 Kriminelles Tagesgeschehen der Weltgeschichte
 
-</description>
-<links>
+### Links
 
-- <link href="https://tails.boum.org" >tails.boum.org</link>
-</links>
-<persons><person id="koelbel">Cornelius Kölbel</person></persons>
-</event>
-</room>
-  </day>
-</schedule>
+- <a href="https://tails.boum.org" target="_blank">tails.boum.org</a>
