@@ -62,7 +62,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>V3</td><td><a class="light"></a></td><td>13:20 <a href="../programm/franke-ruby">Ruby&nbsp;als&nbsp;sed-&nbsp;und&nbsp;awk-Ersatz</a></td><td>Knut&nbsp;Franke</td></tr>
 <tr><td>V3</td><td><a class="light"></a></td><td>13:30 <a href="../programm/humm-wikipedia">Wikipedia&nbsp;visualisieren</a></td><td>Justin&nbsp;Humm</td></tr>
 <tr><td>V3</td><td><a class="light"></a></td><td>13:40 <a href="../programm/schiebel-oss_schule">OSS&nbsp;und&nbsp;Linuxclients&nbsp;in&nbsp;der&nbsp;Schule</a></td><td>Frank&nbsp;Schiebel</td></tr>
-<tr><td>V3</td><td><a class="light"></a></td><td>13:50 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
+<tr><td>V3</td><td><a class="light"></a></td><td>13:50 <a href="../programm/george-software_unter_freunden">Open&nbsp;Source&nbsp;ist&nbsp;Software&nbsp;unter&nbsp;Freunden</a></td><td>Dominik&nbsp;George</td></tr>
 <tr><td>V4</td><td><a class="talk"></a></td><td><a href="../programm/pfeifle-pandoc">Dokumenten-KungFoo&nbsp;mit&nbsp;Pandoc,&nbsp;Markdown&nbsp;&&nbsp;Co.</a></td><td>Kurt&nbsp;Pfeifle</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>14:00</td></tr>

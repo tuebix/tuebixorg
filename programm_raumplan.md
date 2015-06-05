@@ -82,7 +82,7 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>13:20</td><td><a class="light"></a></td><td><a href="../programm/franke-ruby">Ruby&nbsp;als&nbsp;sed-&nbsp;und&nbsp;awk-Ersatz</a></td><td>Knut&nbsp;Franke</td></tr>
 <tr><td>13:30</td><td><a class="light"></a></td><td><a href="../programm/humm-wikipedia">Wikipedia&nbsp;visualisieren</a></td><td>Justin&nbsp;Humm</td></tr>
 <tr><td>13:40</td><td><a class="light"></a></td><td><a href="../programm/schiebel-oss_schule">OSS&nbsp;und&nbsp;Linuxclients&nbsp;in&nbsp;der&nbsp;Schule</a></td><td>Frank&nbsp;Schiebel</td></tr>
-<tr><td>13:50</td><td><a class="light"></a></td><td><a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
+<tr><td>13:50</td><td><a class="light"></a></td><td><a href="../programm/george-software_unter_freunden">Open&nbsp;Source&nbsp;ist&nbsp;Software&nbsp;unter&nbsp;Freunden</a></td><td>Dominik&nbsp;George</td></tr>
 <tr><td>14:00</td><td><a class="light"></a></td><td><a href="../programm/lugs-kurzvorstellungen">Linux&nbsp;User&nbsp;Groups&nbsp;und&nbsp;Co&nbsp;stellen&nbsp;sich&nbsp;vor</a></td><td>Linux User Groups und Co</td></tr>
 <tr><td>15:00</td><td><a class="talk"></a></td><td><a href="../programm/kuestner_strohmaier-wueste_welle">Open&nbsp;Source&nbsp;Software&nbsp;beim&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle</a></td><td>Andreas&nbsp;Küstner,&nbsp;Friedrich&nbsp;Strohmaier</td></tr>
 <tr><td>15:30</td><td><a class="talk"></a></td><td><a href="../programm/klaeren-computermuseum">Das&nbsp;Computermuseum&nbsp;auf&nbsp;dem&nbsp;Sand</a></td><td>Prof.&nbsp;Dr.&nbsp;Herbert&nbsp;Klaeren</td></tr>
