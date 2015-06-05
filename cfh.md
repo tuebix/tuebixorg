@@ -40,6 +40,12 @@ O O 16:00 - 17:00 Grillen<br/>
 O O 17:00 - 18:00 Grillen<br/>
 O O 18:00 - 19:00 Grillen<br/>
 
+## Kuchen mitbringen
+
+Bring einen Kuchen mit, der dann kostenfrei gegen 14:00 allen zur Verfügung steht ;)
+
+X X O O O O O O O O
+
 ## Getränkeausgabe (je 1h 2 Personen )
 
 O O 10:00 - 11:00 Getränkeausgabe <br/>
@@ -77,4 +83,4 @@ X O Raumsupport W3<br/>
   <br/><a href="http://nnc3.com/LJ2013/LJ/208/11077.html#N0x20df9f0.0x21cdcd8" target="_blank">nnc3.com/LJ2013/LJ/208/11077.html#N0x20df9f0.0x21cdcd8</a>
 - Bitte bringt nicht nur 20er-Scheine mit, damit wir nicht ins Wechselgeld-Dilemma kommen: je mehr Euro-Münzen und je weniger Scheine Du dabei hast, desto besser.
 - Sei präsent: wenn es an irgendeiner Stelle Handlungsbedarf gibt, dann handle im Sinne der Veranstaltung!
-- Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Gi uns Bescheid <a href="mailto:info@tuebix.org?subject=Helfer%20Tuebix">info@tuebix.org</a>
+- Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Gib uns Bescheid <a href="mailto:info@tuebix.org?subject=Helfer%20Tuebix">info@tuebix.org</a>
