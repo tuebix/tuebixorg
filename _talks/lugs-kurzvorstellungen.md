@@ -9,6 +9,8 @@ menu:
 
 ### <img height = "32" src="../../images/lightning.svg"> 14:00 bis 15:00 in Raum V3
 
+### Verschiedene LUG-Mitglieder
+
 Verschiedene Linux User Groups und andere Gruppen stellen sich kurz vor.
 
 Reihenfolge und Dauer wird noch hier an dieser Stelle bekannt gegeben...

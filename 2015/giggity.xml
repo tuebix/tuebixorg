@@ -838,21 +838,28 @@ Kurzer Anriss über die verschiedenen Einsatzfelder von OpenSource Software, die
 <title>Linux User Groups und Co stellen sich vor</title>
 <type>lightning</type>
 <description>
-* <a href="http://tuebingen.linux.de" target="_blank">LUGT / Linux User Group Tübingen</a>
-* <a href="http://www.lug-reutlingen.de" target="_blank">Linux User Group Reutlingen</a>
-* <a href="http://www.listig.org" target="_blank">LISTIG / Linux Stammtisch im Gäu (Herrenberg)</a>
-* <a href="http://www.lisas.de" target="_blank">LUGES / Linux User Group Esslingen</a>
-* <a href="http://www.lug-s.org" target="_blank">LUGS / Linux User Group Stuttgart</a>
-* <a href="http://www.lugulm.de" target="_blank">LUGU / Linux User Group Ulm</a>
-* <a href="http://www.lug-vs.org" target="_blank">LUG-VS / Linux User Group Villingen-Schwenningen</a>
-* <a href="https://www.fsi.uni-tuebingen.de/mailman/listinfo/crypto" target="_blank">AK Cryptoparty (auf dem Sand)</a>
-* <a href="http://www.cryptoparty-tuebingen.de" target="_blank">Cryptoparty Tübingen</a>
-* <a href="http://www.cryptoparty.in/tuebingen" target="_blank">cryptoparty.in/tuebingen</a>
-* <a href="http://www.fablab-neckar-alb.org" target="_blank">FabLab Neckar-Alb e.V.</a>
-* <a href="http://www.chaostreff-tuebingen.de" target="_blank">Chaostreff "Chaos-Curry" Tübingen</a>
-* <a href="http://www.shackspace.de" target="_blank">shack / Hackerspace Stuttgart</a>
-* <a href="http://www.linuxmuster.net" target="_blank">linuxmuster.net e.V.</a>
+Verschiedene Linux User Groups und andere Gruppen stellen sich kurz vor.
+
+Reihenfolge und Dauer wird noch hier an dieser Stelle bekannt gegeben...
+
 </description>
+<links>
+
+* <link href="http://tuebingen.linux.de" >LUGT / Linux User Group Tübingen</link>
+* <link href="http://www.lug-reutlingen.de" >Linux User Group Reutlingen</link>
+* <link href="http://www.listig.org" >LISTIG / Linux Stammtisch im Gäu (Herrenberg)</link>
+* <link href="http://www.lisas.de" >LUGES / Linux User Group Esslingen</link>
+* <link href="http://www.lug-s.org" >LUGS / Linux User Group Stuttgart</link>
+* <link href="http://www.lugulm.de" >LUGU / Linux User Group Ulm</link>
+* <link href="http://www.lug-vs.org" >LUG-VS / Linux User Group Villingen-Schwenningen</link>
+* <link href="https://www.fsi.uni-tuebingen.de/mailman/listinfo/crypto" >AK Cryptoparty (auf dem Sand)</link>
+* <link href="http://www.cryptoparty-tuebingen.de" >Cryptoparty Tübingen</link>
+* <link href="http://www.cryptoparty.in/tuebingen" >cryptoparty.in/tuebingen</link>
+* <link href="http://www.fablab-neckar-alb.org" >FabLab Neckar-Alb e.V.</link>
+* <link href="http://www.chaostreff-tuebingen.de" >Chaostreff "Chaos-Curry" Tübingen</link>
+* <link href="http://www.shackspace.de" >shack / Hackerspace Stuttgart</link>
+* <link href="http://www.linuxmuster.net" >linuxmuster.net e.V.</link>
+</links>
 <persons><person id="lugs">xxx</person></persons>
 </event>
 <event id="schiebel-oss_schule">
