@@ -16,14 +16,14 @@ O heißt "es besteht noch Bedarf - noch zu besetzen" <br/>
 
 ## Fotos
 
-O O Fotografen, die den Tag nebenbei etwas dokumentieren<br/>
+X O O Fotografen, die den Tag nebenbei etwas dokumentieren<br/>
 
 ## Pizza (je 2h, 5 Personen)
 
 benötigt etwas "Einarbeitung" daher 1h-Schichten nicht sinnvoll
 
 X X X X X 10:00-12:00 Pizza (Aufbau)<br/>
-X X O O O 12:00-14:00 Pizza<br/>
+X X X O O 12:00-14:00 Pizza<br/>
 X O O O O 14:00-16:00 Pizza<br/>
 
 ## Kasse (je 2h, 1 Person)
@@ -35,7 +35,7 @@ X 16:00 - 18:00 Kasse<br/>
 
 ## Grill (je 1h, 2 Personen)
 
-O O 15:00 - 16:00 Grillen<br/>
+X O 15:00 - 16:00 Grillen<br/>
 O O 16:00 - 17:00 Grillen<br/>
 O O 17:00 - 18:00 Grillen<br/>
 O O 18:00 - 19:00 Grillen<br/>
@@ -83,4 +83,4 @@ X O Raumsupport W3<br/>
   <br/><a href="http://nnc3.com/LJ2013/LJ/208/11077.html#N0x20df9f0.0x21cdcd8" target="_blank">nnc3.com/LJ2013/LJ/208/11077.html#N0x20df9f0.0x21cdcd8</a>
 - Bitte bringt nicht nur 20er-Scheine mit, damit wir nicht ins Wechselgeld-Dilemma kommen: je mehr Euro-Münzen und je weniger Scheine Du dabei hast, desto besser.
 - Sei präsent: wenn es an irgendeiner Stelle Handlungsbedarf gibt, dann handle im Sinne der Veranstaltung!
-- Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Gib uns Bescheid <a href="mailto:info@tuebix.org?subject=Helfer%20Tuebix">info@tuebix.org</a>
+- Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Gib uns Bescheid <a href="mailto:info@tuebix.org?subject=Helfer%20Tuebix">info@tuebix.org</a> derzeitiger Stand: 7 Betten für 5 Nicht-Tübinger, also 2 Betten verfügbar (einfach melden bei Bedarf!)
