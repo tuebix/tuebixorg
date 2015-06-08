@@ -53,7 +53,7 @@ Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum V2</td></tr>
-<tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/schiele-nixos">Was&nbsp;ist&nbsp;NixOS?</a></td><td>Joachim&nbsp;Schiele</td></tr>
+<tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/seitz-nixos">Was&nbsp;ist&nbsp;NixOS?</a></td><td>Paul&nbsp;Seitz</td></tr>
 <tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/guckes-muttgpg1">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>12:00</td><td><a class="talk"></a></td><td><a href="../programm/kockler-puppet1">Puppet&nbsp;I:&nbsp;Zentrale&nbsp;Administration&nbsp;einer&nbsp;Server&nbsp;Infrastruktur</a></td><td>Torsten&nbsp;Kockler</td></tr>
 <tr><td>13:00</td><td><a class="talk"></a></td><td><a href="../programm/gietz-openldap">Einführung&nbsp;in&nbsp;OpenLDAP</a></td><td>Peter&nbsp;Gietz</td></tr>

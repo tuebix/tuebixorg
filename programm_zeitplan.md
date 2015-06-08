@@ -22,7 +22,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>W2</td><td><a class="work"></a></td><td><a href="../programm/krug-libreoffice">LibreOffice&nbsp;Overkill</a></td><td>Stefan&nbsp;Krug</td></tr>
 <tr><td>W3</td><td><a class="work"></a></td><td><a href="../programm/zimmer-vim">Vim&nbsp;für&nbsp;Nicht-Mehr-Beginner&nbsp;und&nbsp;Noch-Nicht-Fortgeschrittene</a></td><td>Toni&nbsp;Zimmer</td></tr>
 <tr><td>V1</td><td><a class="talk"></a></td><td><a href="../programm/brauner-lxc">Operating-system-level&nbsp;virtualization</a></td><td>Christian&nbsp;Brauner</td></tr>
-<tr><td>V2</td><td><a class="talk"></a></td><td><a href="../programm/schiele-nixos">Was&nbsp;ist&nbsp;NixOS?</a></td><td>Joachim&nbsp;Schiele</td></tr>
+<tr><td>V2</td><td><a class="talk"></a></td><td><a href="../programm/seitz-nixos">Was&nbsp;ist&nbsp;NixOS?</a></td><td>Paul&nbsp;Seitz</td></tr>
 <tr><td>V3</td><td><a class="talk"></a></td><td><a href="../programm/uebele-bitcoin">Bitcoin&nbsp;-&nbsp;Eine&nbsp;dezentrale&nbsp;Währung</a></td><td>Peter&nbsp;Uebele</td></tr>
 <tr><td>V3</td><td><a class="talk"></a></td><td><a href="../programm/weissensel-fish">fish&nbsp;-&nbsp;Die&nbsp;"friendly&nbsp;interactive&nbsp;shell"</a></td><td>Jonas&nbsp;Weissensel</td></tr>
 <tr><td>V4</td><td><a class="talk"></a></td><td><a href="../programm/schroeder-tex">TeX&nbsp;im&nbsp;3.&nbsp;Jahrtausend</a></td><td>Martin&nbsp;Schröder</td></tr>

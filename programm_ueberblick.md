@@ -35,7 +35,7 @@ padding-right: 8px;
 <td rowspan="4"><a class="work" href="../programm/krug-libreoffice">LibreOffice</a></td>
 <td rowspan="4"><a class="work" href="../programm/zimmer-vim">Vim</a></td>
 <td rowspan="2"><a class="talk" href="../programm/brauner-lxc">LXC</a></td>
-<td rowspan="2"><a class="talk" href="../programm/schiele-nixos">NixOS</a></td>
+<td rowspan="2"><a class="talk" href="../programm/seitz-nixos">NixOS</a></td>
 <td>            <a class="talk" href="../programm/uebele-bitcoin">Bitcoin</a></td>
 <td rowspan="2"><a class="talk" href="../programm/schroeder-tex">TeX</a></td>
 <td rowspan="4"><a              href="../lpic">LPIC</a></td>

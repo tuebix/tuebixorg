@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /programm/schiele-nixos/
+permalink: /programm/seitz-nixos/
 weight: 
 menu:
 ---
@@ -9,7 +9,7 @@ menu:
 
 ### <img height = "32" src="../../images/talk.svg"> 10:00 bis 11:00 in Raum V2
 
-### Joachim&nbsp;Schiele
+### Paul&nbsp;Seitz
 
 - Einführung in die Vorteile/Nachteile von NixOS
 - Einführung in die Nix Programmiersprache
