@@ -6,9 +6,9 @@ weight:
 menu: 
 ---
 
-Die Anmeldeliste wird stündlich länger. Das ist sehr schöne ABER
-für ein gutes Gelingen des Tages benötigen wir deshalb noch etwas Unterstützung.<br/>
-Melden kann man sich als Helfer über: <a href="mailto:info@tuebix.org?subject=Helfer%20Tuebix">info@tuebix.org</a>
+Die Anmeldeliste wird täglich länger und übertrifft längst die Besucheranzahl mit der wir ursprünglich mal geplant hatten.
+Das ist sehr schöne ABER für ein gutes Gelingen des Tages benötigen wir deshalb noch etwas Unterstützung.<br/>
+Melden kann man sich als Helfer (bitte schnellstmöglich) über: <a href="mailto:info@tuebix.org?subject=Helfer%20Tuebix">info@tuebix.org</a>
 
 Wir werden den aktuellen Stand (Bedarf und bereits besetzte Posten) hier ohne Namen aufführen:<br/>
 O heißt "es besteht noch Bedarf - noch zu besetzen" <br/>
@@ -18,7 +18,7 @@ X heißt "es hat sich bereits jemand gemeldet - besetzt"<br/>
 
 O O Fotografen, die den Tag nebenbei etwas dokumentieren<br/>
 
-## Pizza (je 2h 5 Personen)
+## Pizza (je 2h, 5 Personen)
 
 benötigt etwas "Einarbeitung" daher 1h-Schichten nicht sinnvoll
 
@@ -26,14 +26,14 @@ X X X X X 10:00-12:00 Pizza (Aufbau)<br/>
 X X O O O 12:00-14:00 Pizza<br/>
 X O O O O 14:00-16:00 Pizza<br/>
 
-## Kasse (je 2h 1 Person)
+## Kasse (je 2h, 1 Person)
 
 X 10:00 - 12:00 Kasse<br/>
 X 12:00 - 14:00 Kasse<br/>
 X 14:00 - 16:00 Kasse<br/>
 X 16:00 - 18:00 Kasse<br/>
 
-## Grill (je 1h 2 Personen)
+## Grill (je 1h, 2 Personen)
 
 O O 15:00 - 16:00 Grillen<br/>
 O O 16:00 - 17:00 Grillen<br/>
@@ -46,7 +46,7 @@ Bring einen Kuchen mit, der dann kostenfrei gegen 14:00 allen zur Verfügung ste
 
 X X O O O O O O O O
 
-## Getränkeausgabe (je 1h 2 Personen )
+## Getränkeausgabe (je 1h, 2 Personen)
 
 O O 10:00 - 11:00 Getränkeausgabe <br/>
 O O 11:00 - 12:00 Getränkeausgabe <br/>
@@ -59,7 +59,7 @@ O O 17:00 - 18:00 Getränkeausgabe <br/>
 O O 18:00 - 19:00 Getränkeausgabe <br/>
 O O 19:00 - 20:00 Getränkeausgabe <br/>
 
-## Programmunterstützung (ganzer Tag 2 Personen)
+## Programmunterstützung (ganzer Tag, 2 Personen als Team)
 
 Wir suchen pro Raum (V1-4, W1-3) zwei Leute, die bereit sind, den Ablauf innerhalb eines Raums über den Tag hinweg zu unterstützen.
 Dies beinhaltet vor allem Unterstützung der Redner während der Wechsel zwischen den Vorträgen, Beamer an Laptop anschließen, Sitzplatzdefragmentierung anregen, regelmäßiges Lüften...
