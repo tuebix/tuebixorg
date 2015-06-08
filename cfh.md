@@ -11,8 +11,8 @@ Das ist sehr schöne ABER für ein gutes Gelingen des Tages benötigen wir desha
 Melden kann man sich als Helfer (bitte schnellstmöglich) über: <a href="mailto:info@tuebix.org?subject=Helfer%20Tuebix">info@tuebix.org</a>
 
 Wir werden den aktuellen Stand (Bedarf und bereits besetzte Posten) hier ohne Namen aufführen:<br/>
-O heißt "es besteht noch Bedarf - noch zu besetzen" <br/>
 X heißt "es hat sich bereits jemand gemeldet - besetzt"<br/>
+O heißt "es besteht noch Bedarf - noch zu besetzen" <br/>
 
 ## Fotos
 

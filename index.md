@@ -4,6 +4,8 @@ layout: default
 
 {{ site.title }} ist ein <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a> und findet am Samstag, den 13. Juni 2015 in <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a> statt.
 
+## <a style="color:#FF0000;" href="../callforhelpers/">Wir suchen dringend hilfsbereite TÜBIX-Besucher!</a>
+
 ![Tux](./images/tux.png "Tux")
 
 Dieser Tag könnte etwas für dich sein, falls du:
