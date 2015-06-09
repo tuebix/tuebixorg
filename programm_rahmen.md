@@ -26,6 +26,8 @@ Treffpunkt: um 18:00 VOR der Eingangstür bei den Fahrrädern.<br/>
 Wer später nachkommt, muss uns eben suchen.<br/>
 Vielleicht bringen die Reutlinger ja ihren Stammtisch-TUX mit ;-)
 
+Bitte im Pad eintragen, wenn du vorhast zu kommen: <a href="https://tuebix2015.titanpad.com/auftakt" target="_blank">Auftakt-Pad</a>
+
 ### Ausklang
 
 direkt im Anschluss an die Vorträge und Workshops ab 17:30 auf dem Sand
