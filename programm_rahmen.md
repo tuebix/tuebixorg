@@ -18,12 +18,13 @@ Rahmenprogramm
 
 ### Auftakt
 
-am Vorabend: Fr, 12. Juni ab 18:00 in der Tübinger Altstadt
+am Vorabend: Fr, 12. Juni
 
-Der Auftakt findet am Freitag Abend statt.
-Wir werden gegen 18:00 irgendwo essen und dann (abhängig vom Wetter) z.B. in den Neckarmüller-Biergarten oder eine andere geeignete Bleibe ziehen.
-Welcher Ort es genau sein wird, kann dann (sobald wir uns entschieden haben) hier erfahren werden.
-Details folgen...
+Wir werden den Auftakt im <a href="http://www.neckarmueller.de/cms/anfahrt" target="_blank">Neckarmüller</a> machen und sitzen bei <a href="http://wetterstationen.meteomedia.de/?station=108290&wahl=vorhersage" target="_blank">hoffentlich gutem Wetter</a> im Biergarten oder andernfalls eben Drinnen. 
+
+Treffpunkt: um 18:00 VOR der Eingangstür bei den Fahrrädern.<br/>
+Wer später nachkommt, muss uns eben suchen.<br/>
+Vielleicht bringen die Reutlinger ja ihren Stammtisch-TUX mit ;-)
 
 ### Ausklang
 
@@ -38,9 +39,9 @@ Damit nicht alle gleichzeitig den Grill stürmen, können alle, die noch nicht a
 
 ### Pizza zum Mittag
 
-Während der Mittagszeit (etwa 11:30 bis 14:00) wird der fsi-eigene Pizzaofen angeworfen.
+Während der Mittagszeit (etwa 11:30 bis 15:30) wird der fsi-eigene Pizzaofen angeworfen.
 Damit wir besser kalkulieren können wie viel Teig und Zutaten wir (wenigstens so in etwa) vorbereiten sollten, bitte <a href="../anmeldung/">anmelden</a>.
 
 ### Getränke
 
-Die Fachschaft Informatik (fsi) wird den ganzen Tag über Getränke verkaufen.
+Die Fachschaft Informatik (fsi) <a href="../callforhelpers">(und zeitweise Du?)</a> werden den ganzen Tag über Getränke verkaufen.
