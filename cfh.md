@@ -23,33 +23,27 @@ X O O Fotografen, die den Tag nebenbei etwas dokumentieren<br/>
 benötigt etwas "Einarbeitung" daher 1h-Schichten nicht sinnvoll
 
 X X X X X 10:00-12:00 Pizza (Aufbau)<br/>
-X X X O O 12:00-14:00 Pizza<br/>
-X O O O O 14:00-16:00 Pizza<br/>
-
-## Kasse (je 2h, 1 Person)
-
-X 10:00 - 12:00 Kasse<br/>
-X 12:00 - 14:00 Kasse<br/>
-X 14:00 - 16:00 Kasse<br/>
-X 16:00 - 18:00 Kasse<br/>
+X X X X X 12:00-14:00 Pizza<br/>
+X X O O O 14:00-16:00 Pizza<br/>
 
 ## Grill (je 1h, 2 Personen)
 
-X O 15:00 - 16:00 Grillen<br/>
-O O 16:00 - 17:00 Grillen<br/>
-O O 17:00 - 18:00 Grillen<br/>
+X X 15:00 - 16:00 Grillen<br/>
+X O 16:00 - 17:00 Grillen<br/>
+X O 17:00 - 18:00 Grillen<br/>
 O O 18:00 - 19:00 Grillen<br/>
 
 ## Kuchen mitbringen
 
-Bring einen Kuchen mit, der dann kostenfrei gegen 14:00 allen zur Verfügung steht ;)
+Bring einen Kuchen mit, der dann kostenfrei gegen 14:00 allen zur Verfügung steht:
+damit jeder ein Stück abbekommt, wären 16 Kuchen (mit je 12 Stück) gut ;)
 
-X X O O O O O O O O
+X X X X X O O O O O O O O O O O
 
 ## Getränkeausgabe (je 1h, 2 Personen)
 
 O O 10:00 - 11:00 Getränkeausgabe <br/>
-O O 11:00 - 12:00 Getränkeausgabe <br/>
+X O 11:00 - 12:00 Getränkeausgabe <br/>
 O O 12:00 - 13:00 Getränkeausgabe <br/>
 O O 13:00 - 14:00 Getränkeausgabe <br/>
 O O 14:00 - 15:00 Getränkeausgabe <br/>
@@ -58,6 +52,7 @@ O O 16:00 - 17:00 Getränkeausgabe <br/>
 O O 17:00 - 18:00 Getränkeausgabe <br/>
 O O 18:00 - 19:00 Getränkeausgabe <br/>
 O O 19:00 - 20:00 Getränkeausgabe <br/>
+O O 20:00 - 21:00 Getränkeausgabe <br/>
 
 ## Programmunterstützung (ganzer Tag, 2 Personen als Team)
 
@@ -69,12 +64,19 @@ Sehr gerne kann man sich auch direkt als Gruppe für einen Raum anmelden und sic
 
 X O Raumsupport V1<br/>
 X O Raumsupport V2<br/>
-X O Raumsupport V3<br/>
+X X Raumsupport V3<br/>
 O O Raumsupport V4<br/>
 <br/>
 O O Raumsupport W1<br/>
 X O Raumsupport W2<br/>
 X O Raumsupport W3<br/>
+
+## Kasse (je 2h, 1 Person)
+
+X 10:00 - 12:00 Kasse<br/>
+X 12:00 - 14:00 Kasse<br/>
+X 14:00 - 16:00 Kasse<br/>
+X 16:00 - 18:00 Kasse<br/>
 
 ## So kann jeder helfen
 
