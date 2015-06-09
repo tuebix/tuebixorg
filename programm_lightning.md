@@ -17,7 +17,7 @@ Lightning Talks&nbsp;&nbsp;&nbsp;&nbsp;
 <br />
 
 <table>
-<tr><td>11:30</td><td><a class="light"></a></td><td><a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;)</td></tr>
+<tr><td>11:30</td><td><a class="light"></a></td><td><a href="../programm/rosendahl-warum_enterprise">Warum&nbsp;Enterprise&nbsp;Linux?</a></td><td>Frank&nbsp;Rosendahl</td></tr>
 <tr><td>11:40</td><td><a class="light"></a></td><td><a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;)</td></tr>
 <tr><td>11:50</td><td><a class="light"></a></td><td><a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;)</td></tr>
 <tr><td>12:00</td><td><a class="light"></a></td><td><a href="../programm/blechschmidt-haskell">Haskell</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>

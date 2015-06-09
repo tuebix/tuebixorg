@@ -32,7 +32,7 @@ Zeitplan&nbsp;&nbsp;&nbsp;&nbsp;
 <tr><td>V1</td><td><a class="talk"></a></td><td><a href="../programm/koenig-bash">Haralds&nbsp;kleine&nbsp;Helferlein:&nbsp;die&nbsp;Shell</a></td><td>Harald&nbsp;König</td></tr>
 <tr><td>V2</td><td><a class="talk"></a></td><td><a href="../programm/guckes-muttgpg1">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>V3</td><td><a class="talk"></a></td><td><a href="../programm/genannt-sshkey_distribution">SSH&nbsp;Public&nbsp;Key&nbsp;Distribution&nbsp;-&nbsp;the&nbsp;smart&nbsp;way</a></td><td>Jonas&nbsp;Genannt</td></tr>
-<tr><td>V3</td><td><a class="light"></a></td><td>11:30 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
+<tr><td>V3</td><td><a class="light"></a></td><td><a href="../programm/rosendahl-warum_enterprise">Warum&nbsp;Enterprise&nbsp;Linux?</a></td><td>Frank&nbsp;Rosendahl</td></tr>
 <tr><td>V3</td><td><a class="light"></a></td><td>11:40 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
 <tr><td>V3</td><td><a class="light"></a></td><td>11:50 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
 <tr><td>V4</td><td><a class="talk"></a></td><td><a href="../programm/engelmann-lyx">Mit&nbsp;LyX&nbsp;Text&nbsp;verarbeiten</a></td><td>Wolfgang&nbsp;Engelmann</td></tr>
