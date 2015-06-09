@@ -888,6 +888,7 @@ Reihenfolge und Dauer wird noch hier an dieser Stelle bekannt gegeben...
 </event>
 <event id="rosendahl-warum_enterprise">
 <start>11:30</start>
+<duration>00:10</duration>
 <room>V3</room>
 <title>Warum Enterprise Linux?</title>
 <type>lightning</type>
