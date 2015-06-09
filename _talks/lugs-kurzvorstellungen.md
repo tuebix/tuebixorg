@@ -11,9 +11,19 @@ menu:
 
 ### Verschiedene LUG-Mitglieder
 
-Verschiedene Linux User Groups und andere Gruppen stellen sich kurz vor.
+Verschiedene Linux User Groups und andere Gruppen stellen sich kurz vor.<br/>
+Genaue Uhrzeiten werden noch eingetragen, wenn wir von allen Gruppen Rückmeldung haben.
 
-Reihenfolge und Dauer wird noch hier an dieser Stelle bekannt gegeben...
+<table>
+<tr><td>14:00</td><td><a class="light"></a></td><td> Unix AG Uni Tübingen</td><td>Jan-Peter Hohloch</td></tr>
+<tr><td>14:XX</td><td><a class="light"></a></td><td> shackspace</td><td>Moritz 'momo' Frenzel</td></tr>
+<tr><td>14:XX</td><td><a class="light"></a></td><td> LISTIG</td><td>Matthias Müller</td></tr>
+<tr><td>14:XX</td><td><a class="light"></a></td><td> LUGES</td><td>Jonas Genannt</td></tr>
+<tr><td>14:XX</td><td><a class="light"></a></td><td> LUG-VS</td><td>Uwe Stippekohl, Bernd Doerr</td></tr>
+<tr><td>14:XX</td><td><a class="light"></a></td><td> LUGT</td><td>Carsten Geckeler, Erich Wälde, Harald König</td></tr>
+</table>
+
+<br/>
 
 ### Links
 
