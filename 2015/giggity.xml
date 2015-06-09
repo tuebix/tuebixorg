@@ -518,7 +518,7 @@ Wissen aus dem Vortrag "Puppet I: Zentrale Administration einer Server Infrastru
 </description>
 <persons><person id="kockler">Torsten Kockler</person></persons>
 </event>
-<event id="schiele-nixos">
+<event id="seitz-nixos">
 <start>10:00</start>
 <duration>01:00</duration>
 <room>V2</room>
@@ -550,7 +550,7 @@ Sichere verwendung der Shell mit Tools wie z.B.:
 
 - <link href="http://nixos.org" >nixos.org</link>
 </links>
-<persons><person id="schiele">Joachim Schiele</person></persons>
+<persons><person id="seitz">Paul Seitz</person></persons>
 </event>
 </room>
 <room name="V3">
@@ -886,13 +886,33 @@ Reihenfolge und Dauer wird noch hier an dieser Stelle bekannt gegeben...
 </links>
 <persons><person id="lugs">xxx</person></persons>
 </event>
+<event id="rosendahl-warum_enterprise">
+<start>11:30</start>
+<room>V3</room>
+<title>Warum Enterprise Linux?</title>
+<type>lightning</type>
+<description>
+Der Einsatz von Linux im professionellen Umfeld anhand des Beispiels Red Hat.
+
+Linux erobert die Welt. Im privaten Umfeld leise durch den Einsatz in embedded Devices und im Business Umfeld von Banken, Versicherungen und Grossunternehmen durch die Ablösung mehr und mehr der Operation Systems Marktführer.
+
+Hier treten die Enterprise Distributionen ihren Siegeszug an. Grosse Distributoren bieten Linux und dazugehörige Dienstleistungen kostenpflichtig an.
+
+Aber: Linux ist doch kostenlos? Warum soll ich für eine Linux Distribution zahlen? Was bezahle ich bei den Enterprise Distributionen?
+
+Anhand des Beispiels Red Hat Enterprise Linux wollen wir einen Blick auf den Einsatzzweck von Enterprise Distributionen werfen und kurz die Vorteile für die Weiterentwicklung und fortschreitende Verbreitung von Linux betrachten.
+</description>
+<persons><person id="rosendahl">Frank Rosendahl</person></persons>
+</event>
 <event id="schiebel-oss_schule">
 <start>13:40</start>
 <duration>00:10</duration>
 <room>V3</room>
 <title>OSS und Linuxclients in der Schule</title>
 <type>talk</type>
-<description>nodescription</description>
+<description>
+Was man erleben kann, wenn man einem Lehrerkollegium und 1000 Schülern erklärt, dass Windows 7 an der Schule ausfällt - und stattdessen Ubuntu in die Computerräume einzieht.
+</description>
 <persons><person id="schiebel">Frank Schiebel</person></persons>
 </event>
 <event id="schiele-aktuelles">
