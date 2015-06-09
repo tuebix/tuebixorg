@@ -17,3 +17,5 @@ Die Mailadresse, mit der die Anmeldung abgewickelt wird, wird nicht an Dritte we
 Diese Mailingliste dient nicht zur Diskussion, sondern ausschließlich (zweckentfremdet) der Anmeldung.
 
 Die Mailingliste wird nach der Veranstaltung gelöscht.
+
+Falls du auch zum Auftakt kommst, trag Dich bitte ins <a href="../programm_rahmen">Auftakt-Pad</a> ein.
