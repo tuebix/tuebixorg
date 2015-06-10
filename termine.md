@@ -2,8 +2,8 @@
 layout: page
 title: Termine
 permalink: /termine/
-weight: 60
-menu: main
+weight:
+menu:
 ---
 
 # Bis zum 13. Juni ist es ja noch eine Weile hin...
