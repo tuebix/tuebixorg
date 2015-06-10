@@ -42,7 +42,7 @@ X X X X X O O O O O O O O O O O
 
 ## Getränkeausgabe (je 1h, 2 Personen)
 
-O O 10:00 - 11:00 Getränkeausgabe <br/>
+X O 10:00 - 11:00 Getränkeausgabe <br/>
 X O 11:00 - 12:00 Getränkeausgabe <br/>
 O O 12:00 - 13:00 Getränkeausgabe <br/>
 O O 13:00 - 14:00 Getränkeausgabe <br/>
@@ -85,4 +85,4 @@ X 16:00 - 18:00 Kasse<br/>
   <br/><a href="http://nnc3.com/LJ2013/LJ/208/11077.html#N0x20df9f0.0x21cdcd8" target="_blank">nnc3.com/LJ2013/LJ/208/11077.html#N0x20df9f0.0x21cdcd8</a>
 - Bitte bringt nicht nur 20er-Scheine mit, damit wir nicht ins Wechselgeld-Dilemma kommen: je mehr Euro-Münzen und je weniger Scheine Du dabei hast, desto besser.
 - Sei präsent: wenn es an irgendeiner Stelle Handlungsbedarf gibt, dann handle im Sinne der Veranstaltung!
-- Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Gib uns Bescheid <a href="mailto:info@tuebix.org?subject=Helfer%20Tuebix">info@tuebix.org</a> derzeitiger Stand: 7 Betten für 5 Nicht-Tübinger, also 2 Betten verfügbar (einfach melden bei Bedarf!)
+- Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Gib uns Bescheid <a href="mailto:info@tuebix.org?subject=Helfer%20Tuebix">info@tuebix.org</a> derzeitiger Stand: 7 Betten für 7 Nicht-Tübinger, also 0 Betten verfügbar (einfach melden bei Bedarf oder Angebot!)
