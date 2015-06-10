@@ -226,7 +226,7 @@ Auf der Kommandozeile tippen können ;-)
 <persons><person id="koenig">Harald König</person></persons>
 </event>
 <event id="koenig-tagesabschluss">
-<start>18:00</start>
+<start>18:30</start>
 <duration>01:00</duration>
 <room>V1</room>
 <title>Haralds Tagesabschluss</title>
@@ -314,6 +314,33 @@ Der Vortrag stellt die Idee und Architektur hinter TCP Stealth vor und beinhalte
 - <link href="http://tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01" >tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01</link>
 </links>
 <persons><person id="seidel">Dr. Udo Seidel</person></persons>
+</event>
+<event id="tuebix-exit">
+<start>18:00</start>
+<duration>00:15</duration>
+<room>V1</room>
+<title>TÜBIX: exit</title>
+<type>talk2</type>
+<description>
+* Abschluss
+* Verlosung!
+* Aublick TüBIX 2016
+</description>
+<persons><person id="tuebix">TÜBIX Orga-Team</person></persons>
+</event>
+<event id="tuebix-init">
+<start>09:30</start>
+<duration>00:15</duration>
+<room>V1</room>
+<title>TÜBIX: init</title>
+<type>talk2</type>
+<description>
+* Begrüßung
+* Infos zum Ablauf des Tages
+* Änderungen in letzter Minute
+* Fragen?
+</description>
+<persons><person id="tuebix">TÜBIX Orga-Team</person></persons>
 </event>
 </room>
 <room name="V2">
@@ -871,6 +898,7 @@ Genaue Uhrzeiten werden noch eingetragen, wenn wir von allen Gruppen Rückmeldun
 <tr><td>14:XX</td><td><a class="light"></a></td><td>shackspace</td><td>Moritz 'momo' Frenzel</td></tr>
 <tr><td>14:XX</td><td><a class="light"></a></td><td>LISTIG</td><td>Matthias Müller</td></tr>
 <tr><td>14:XX</td><td><a class="light"></a></td><td>LUGES</td><td>Jonas Genannt</td></tr>
+<tr><td>14:XX</td><td><a class="light"></a></td><td>FabLab Neckar-Alb</td><td>Jonas Weissensel</td></tr>
 <tr><td>14:XX</td><td><a class="light"></a></td><td>LUG-VS</td><td>Uwe Stippekohl, Bernd Doerr</td></tr>
 <tr><td>14:XX</td><td><a class="light"></a></td><td>LUG RT</td><td>Thomas Eber</td></tr>
 <tr><td>14:XX</td><td><a class="light"></a></td><td>LUGT</td><td>Carsten Geckeler, Erich Wälde, Harald König</td></tr>
@@ -901,7 +929,6 @@ Genaue Uhrzeiten werden noch eingetragen, wenn wir von allen Gruppen Rückmeldun
 </event>
 <event id="rosendahl-warum_enterprise">
 <start>11:30</start>
-<duration>00:10</duration>
 <room>V3</room>
 <title>Warum Enterprise Linux?</title>
 <type>lightning</type>
@@ -1085,7 +1112,7 @@ In diesem Vortrag stelle ich das Open Source 3D Programm Blender vor, mit welche
 </event>
 <event id="engelmann-lyx">
 <start>11:00</start>
-<duration>01:00</duration>
+<duration>00:30</duration>
 <room>V4</room>
 <title>Mit LyX Text verarbeiten</title>
 <type>talk</type>
@@ -1388,6 +1415,35 @@ Hat in den letzten Jahrzehnten mal intensiver mit TeX gearbeitet und möchte wis
 
 </links>
 <persons><person id="schroeder">Martin Schröder</person></persons>
+</event>
+<event id="witte-scilab_xcos">
+<start>11:30</start>
+<duration>00:30</duration>
+<room>V4</room>
+<title>Modellbildung mit Scilab/Xcos mit Beispielen aus der Biorhythmik</title>
+<type>talk</type>
+<description>
+* Einführung
+* Konstruktion eines einfachen Tiefpasses mit
+    - Festlegung der Simulationsparameter
+    - Ergebnisdarstellung in einem Oszilloskop
+    - Diagrammbearbeitung mit dem Grafikeditor
+    - Ausgabeexport
+* Erstellung eines Funktionsschaltbildes anhand von Diffeerentialgleichungen
+    - beim Räuber-Beute-Modell
+    - beim Van-der-Pol-Oszillator
+* Weitere Anwendungen bei Simulationen zur Biorhythmik
+    - Modell von Johnsson Karlsson zur Simulation von Kalanchoe-Blattbewegungen
+    - Moden von R.D. Lewis zur Rhythmik von Langfühlerschrecken
+    - Zwei unterschiedliche Realisierungen eines EKG-Oszillators von Gari D. Clifford mit Scilab-Vorberechnung von Parametern(Kontext-Menüeintrag)
+      * Realisierung mit Hilfe von Superblöcke
+      * Realisierung mit Hilfe von Funktions- und Formelblöcken
+
+### Vorwissen
+
+Hilfreiche Vorkenntnisse: mathematische, physikalische und etwas biologische Grundlagen
+</description>
+<persons><person id="witte">Karl-Heinz Witte</person></persons>
 </event>
 </room>
 <room name="W1">

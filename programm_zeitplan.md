@@ -20,6 +20,8 @@ menu:
 <br/>
 
 <table>
+<tr><td>V1</td><td><a class="talk2"></a></td><td>09:30 <a href="../programm/tuebix-init">TÜBIX: init</a></td><td>TÜBIX&nbsp;Orga-Team</td></tr>
+<tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>10:00</td></tr>
 <tr><td>W1</td><td><a class="work"></a></td><td><a href="../programm/schmidt_stockmayer-gentoo">Gentoo-Einführung</a></td><td>Mark&nbsp;Schmidt,&nbsp;Andreas&nbsp;Stockmayer</td></tr>
 <tr><td>W2</td><td><a class="work"></a></td><td><a href="../programm/krug-libreoffice">LibreOffice&nbsp;Overkill</a></td><td>Stefan&nbsp;Krug</td></tr>
@@ -103,6 +105,7 @@ menu:
 <tr><td>V4</td><td><a class="talk"></a></td><td><a href="../programm/gantikow-elektroschrott">Phoenix&nbsp;statt&nbsp;Elektroschrott&nbsp;-&nbsp;Neues&nbsp;Leben&nbsp;für&nbsp;"alte"&nbsp;Mobilgeräte</a></td><td>Holger&nbsp;Gantikow</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>18:00</td></tr>
-<tr><td>V1</td><td><a class="talk"></a></td><td><a href="../programm/koenig-tagesabschluss">Haralds&nbsp;Tagesabschluss</a></td><td>Harald&nbsp;König</td></tr>
+<tr><td>V1</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-exit">TÜBIX: exit</a></td><td>TÜBIX&nbsp;Orga-Team</td></tr>
+<tr><td>V1</td><td><a class="talk"></a></td><td>18:15 <a href="../programm/koenig-tagesabschluss">Haralds&nbsp;Tagesabschluss</a></td><td>Harald&nbsp;König</td></tr>
 <tr><td>Obs</td><td><a class="talk"></a></td><td><a href="../programm/gottschall-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Ruth&nbsp;Gottschall,&nbsp;Daniel&nbsp;Gottschall</td></tr>
 </table>

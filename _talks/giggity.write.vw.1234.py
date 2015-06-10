@@ -85,10 +85,12 @@ with open (roomname, "a") as outfile:
     except KeyError:
         print("keyerror: " + h["id"])
 
-    if h["id"] in ["gottschall-teleskop", "seidel-tcp_stealth", "reber-mirrorserver", "behrla-lpic", "hofmann-surfen", "uebele-bitcoin", "weissensel-fish", "genannt-sshkey_distribution", "kuestner-strohmaier-wueste_welle", "klaeren-computermuseum", "imme-latex_verein", "hofmann-lug_berlin"]:
+    if h["id"] in ["gottschall-teleskop", "seidel-tcp_stealth", "reber-mirrorserver", "behrla-lpic", "hofmann-surfen", "uebele-bitcoin", "weissensel-fish", "genannt-sshkey_distribution", "kuestner-strohmaier-wueste_welle", "klaeren-computermuseum", "imme-latex_verein", "hofmann-lug_berlin", "engelmann-lyx", "witte-scilab_xcos"]:
         outfile.write('<duration>' + '00:30' + '</duration>\n')
     elif h["id"] in ["blechschmidt-haskell","willbold-python_kinder_buch","stadelmeier_wannenmacher-tor_router","blechschmidt-sandstorm","helmle-einfache_sprache","koelbel-desktop_auth","giesen-seafile","widmayer-nagerit","franke-ruby","humm-wikipedia","schiebel-oss_schule","willbold-python_kinder_buch","stadelmeier_wannenmacher-tor_router","blechschmidt-sandstorm","helmle-einfache_sprache","koelbel-desktop_auth","giesen-seafile","widmayer-nagerit","franke-ruby","humm-wikipedia","schiebel-oss_schule", "george-software_unter_freunden"]:
         outfile.write('<duration>' + '00:10' + '</duration>\n')
+    elif h["id"] in ["tuebix-init", "tuebix-exit"]:
+        outfile.write('<duration>' + '00:15' + '</duration>\n')
     elif h["id"] in ["lugs-kurzvorstellungen"]:
         outfile.write('<duration>' + '01:00' + '</duration>\n')
     elif type == "workshop":

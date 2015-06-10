@@ -37,8 +37,8 @@ Hinter den Gebäuden auf dem Sand gibt es eine schöne Terasse mit Garten, wo wi
 Die Fachschaft wird den Grill anwerfen.
 Damit wir besser kalkulieren können wie viel Grillgut wir (wenigstens so in etwa) vorbereiten sollten, bitte <a href="../anmeldung/">anmelden</a>.
 Damit nicht alle gleichzeitig den Grill stürmen, können alle, die noch nicht allzu hungrig sind:<br/>
-<img height = "18" src="../images/talk.svg">&nbsp;<a href="../programm/koenig-tagesabschluss">Haralds Tagesabschluss</a> hören oder<br/>
-<img height = "18" src="../images/talk.svg">&nbsp;<a href="../programm/gottschall-teleskop">das Tübinger 80cm-Teleskop</a> bestaunen.<br/>
+<a class="talk" href="../programm/koenig-tagesabschluss">Haralds Tagesabschluss</a> hören oder<br/>
+<a class="talk" href="../programm/gottschall-teleskop">das Tübinger 80cm-Teleskop</a> bestaunen.<br/>
 
 ### Pizza zum Mittag
 

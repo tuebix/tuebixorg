@@ -32,6 +32,13 @@ padding-right: 8px;
 <table>
 
 <tr><td></td><td>W1</td><td>W2</td><td>W3</td><td>V1</td><td>V2</td><td>V3</td><td>V4</td><td>LPIC</td><td></td></tr>
+
+<tr><td>09:30</td>
+<td colspan="3"></td>
+<td>            <a class="talk2" href="../programm/tuebix-init">init</a></td>
+<td colspan="4"></td>
+<td>09:30</td></tr>
+
 <tr><td>10:00</td>
 <td rowspan="4"><a class="work" href="../programm/schmidt_stockmayer-gentoo">Gentoo</a></td>
 <td rowspan="4"><a class="work" href="../programm/krug-libreoffice">LibreOffice</a></td>
@@ -135,10 +142,16 @@ padding-right: 8px;
 <td></td></tr>
 
 <tr><td>18:00</td>
+<td colspan="3"></td>
+<td>            <a class="talk2" href="../programm/tuebix-exit">exit</a></td>
+<td colspan="4"></td>
+<td>18:00</td></tr>
+
+<tr><td>18:30</td>
 <td colspan="3">Observatorium: <a class="talk" href="../programm/gottschall-teleskop">Das&nbsp;80cm-Teleskop</a></td>
 <td rowspan="2"><a class="talk" href="../programm/koenig-tagesabschluss">Tagesabschluss</a></td>
 <td colspan="4" rowspan="2"> </td>
-<td>18:00</td></tr>
+<td>18:30</td></tr>
 
 <tr><td>&nbsp;</td>
 <td colspan="3">Observatorium: <a class="talk" href="../programm/gottschall-teleskop">Das&nbsp;80cm-Teleskop</a></td>
