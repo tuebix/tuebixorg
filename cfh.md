@@ -16,15 +16,7 @@ O heißt "es besteht noch Bedarf - noch zu besetzen" <br/>
 
 ## Fotos
 
-X O O Fotografen, die den Tag nebenbei etwas dokumentieren<br/>
-
-## Pizza (je 2h, 5 Personen)
-
-benötigt etwas "Einarbeitung" daher 1h-Schichten nicht sinnvoll
-
-X X X X X 10:00-12:00 Pizza (Aufbau)<br/>
-X X X X X 12:00-14:00 Pizza<br/>
-X X O O O 14:00-16:00 Pizza<br/>
+X X O O Fotografen, die den Tag nebenbei etwas dokumentieren<br/>
 
 ## Grill (je 1h, 2 Personen)
 
@@ -32,21 +24,22 @@ X X 15:00 - 16:00 Grillen<br/>
 X O 16:00 - 17:00 Grillen<br/>
 X O 17:00 - 18:00 Grillen<br/>
 X O 18:00 - 19:00 Grillen<br/>
+O O 19:00 - 20:00 Grillen<br/>
 
 ## Kuchen mitbringen
 
 Bring einen Kuchen mit, der dann kostenfrei gegen 14:00 allen zur Verfügung steht:
 damit jeder ein Stück abbekommt, wären 16 Kuchen (mit je 12 Stück) gut ;)
 
-X X X X X O O O O O O O O O O O
+X X X X X X X O O O O O O O O O
 
 ## Getränkeausgabe (je 1h, 2 Personen)
 
-X O 10:00 - 11:00 Getränkeausgabe <br/>
+X X 10:00 - 11:00 Getränkeausgabe <br/>
 X O 11:00 - 12:00 Getränkeausgabe <br/>
-O O 12:00 - 13:00 Getränkeausgabe <br/>
+X X 12:00 - 13:00 Getränkeausgabe <br/>
 O O 13:00 - 14:00 Getränkeausgabe <br/>
-O O 14:00 - 15:00 Getränkeausgabe <br/>
+X X 14:00 - 15:00 Getränkeausgabe <br/>
 X X 15:00 - 16:00 Getränkeausgabe <br/>
 O O 16:00 - 17:00 Getränkeausgabe <br/>
 O O 17:00 - 18:00 Getränkeausgabe <br/>
@@ -71,7 +64,15 @@ O O Raumsupport W1<br/>
 X O Raumsupport W2<br/>
 X O Raumsupport W3<br/>
 
-## Kasse (je 2h, 1 Person)
+## Pizza (je 2h, 5 Personen) - alles belegt:  Danke!
+
+benötigt etwas "Einarbeitung" daher 1h-Schichten nicht sinnvoll
+
+X X X X X 10:00-12:00 Pizza (Aufbau)<br/>
+X X X X X 12:00-14:00 Pizza<br/>
+X X X X X 14:00-16:00 Pizza<br/>
+
+## Kasse (je 2h, 1 Person) - alles belegt:  Danke!
 
 X 10:00 - 12:00 Kasse<br/>
 X 12:00 - 14:00 Kasse<br/>
@@ -84,5 +85,6 @@ X 16:00 - 18:00 Kasse<br/>
 - Beachte die "Tips for Attending a Linux Event":
   <br/><a href="http://nnc3.com/LJ2013/LJ/208/11077.html#N0x20df9f0.0x21cdcd8" target="_blank">nnc3.com/LJ2013/LJ/208/11077.html#N0x20df9f0.0x21cdcd8</a>
 - Bitte bringt nicht nur 20er-Scheine mit, damit wir nicht ins Wechselgeld-Dilemma kommen: je mehr Euro-Münzen und je weniger Scheine Du dabei hast, desto besser.
+- Hilf Müll zu vermeiden bzw. gleich wegzuräumen, damit wir die Räumlichkeiten vielleicht 2016 wieder nutzen können.
 - Sei präsent: wenn es an irgendeiner Stelle Handlungsbedarf gibt, dann handle im Sinne der Veranstaltung!
 - Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Gib uns Bescheid <a href="mailto:info@tuebix.org?subject=Helfer%20Tuebix">info@tuebix.org</a> derzeitiger Stand: 7 Betten für 7 Nicht-Tübinger, also 0 Betten verfügbar (einfach melden bei Bedarf oder Angebot!)
