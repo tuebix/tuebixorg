@@ -17,6 +17,8 @@ Zertifikate belegen Fachwissen - Sie dokumentieren Qualifikation und Know-how vo
 
 # LPI-Prüfungen
 
+<span style="font-weight: bold; color:#FF0000;">WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 9:40 bzw. 13:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.</span>
+
 Folgende LPI-Prüfungen werden angeboten:
 
 * LPI Linux Essentials - auf Deutsch und Englisch
@@ -30,6 +32,7 @@ Die Teilnehmer müssen vor Beginn der Prüfung einen gültigen Lichtbildausweis 
 Aufgrund der begrenzten Anzahl verfügbarer Plätze für die LPI-Prüfungen empfehlen wir, sich vorher dafür anzumelden. Das Anmeldeformular des LPI befindet sich unter <a href="https://lpievent.lpice.eu" target="_blank">lpievent.lpice.eu</a> .
 
 Die Prüfungen finden am Samstag, den 13.06. jeweils um 10:00 Uhr und 14:00 Uhr statt. Treffpunkt für alle Teilnehmer ist jeweils 15 Minuten vor dem Starttermin im Prüfungsraum.
+<span style="font-weight: bold; color:#FF0000;">WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 9:40 bzw. 13:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.<br/>
 
 Details zu den Prüfungsversionen und den Inhalten sind unter den folgenden URLs nachzulesen:
 

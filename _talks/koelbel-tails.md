@@ -12,6 +12,8 @@ menu:
 
 ### Cornelius&nbsp;Kölbel
 
+<span style="font-weight: bold; color:#FF0000;">WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte um 12:00 an den Info-Stand kommen, dann werden die Tails-Hörer zum Raum begleitet.</span>
+
 NSA, GCHQ, BND, Telekom, Bargeldverbot.
 Schon wieder wird lauthals nach der Vorratsdatenspeicherung geschrien.
 Wir werden auf Schritt und Tritt überwacht. Der Datenhunger der Regierungen und Geheimdienste scheint unstillbar zu sein.

@@ -867,12 +867,13 @@ Verschiedene Linux User Groups und andere Gruppen stellen sich kurz vor.
 Genaue Uhrzeiten werden noch eingetragen, wenn wir von allen Gruppen Rückmeldung haben.
 
 <table>
-<tr><td>14:00</td><td><a class="light"></a></td><td> Unix AG Uni Tübingen</td><td>Jan-Peter Hohloch</td></tr>
-<tr><td>14:XX</td><td><a class="light"></a></td><td> shackspace</td><td>Moritz 'momo' Frenzel</td></tr>
-<tr><td>14:XX</td><td><a class="light"></a></td><td> LISTIG</td><td>Matthias Müller</td></tr>
-<tr><td>14:XX</td><td><a class="light"></a></td><td> LUGES</td><td>Jonas Genannt</td></tr>
-<tr><td>14:XX</td><td><a class="light"></a></td><td> LUG-VS</td><td>Uwe Stippekohl, Bernd Doerr</td></tr>
-<tr><td>14:XX</td><td><a class="light"></a></td><td> LUGT</td><td>Carsten Geckeler, Erich Wälde, Harald König</td></tr>
+<tr><td>14:00</td><td><a class="light"></a></td><td>Unix AG Uni Tübingen</td><td>Jan-Peter Hohloch, Michael Kuhn</td></tr>
+<tr><td>14:XX</td><td><a class="light"></a></td><td>shackspace</td><td>Moritz 'momo' Frenzel</td></tr>
+<tr><td>14:XX</td><td><a class="light"></a></td><td>LISTIG</td><td>Matthias Müller</td></tr>
+<tr><td>14:XX</td><td><a class="light"></a></td><td>LUGES</td><td>Jonas Genannt</td></tr>
+<tr><td>14:XX</td><td><a class="light"></a></td><td>LUG-VS</td><td>Uwe Stippekohl, Bernd Doerr</td></tr>
+<tr><td>14:XX</td><td><a class="light"></a></td><td>LUG RT</td><td>Thomas Eber</td></tr>
+<tr><td>14:XX</td><td><a class="light"></a></td><td>LUGT</td><td>Carsten Geckeler, Erich Wälde, Harald König</td></tr>
 </table>
 
 
@@ -1888,8 +1889,13 @@ vim 7.x sollte zur Hand sein
 <room>X</room>
 <title>LPIC Prüfungsblock 1</title>
 <type>exam</type>
-<description>www.tuebix.org/lpic/</description>
+<description>
+WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 9:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.
+</description>
 <persons><person id="behrla">Klaus Behrla</person></persons>
+<links>
+<link href="http://www.tuebix.org/lpic">www.tuebix.org/lpic</link>
+</links>
 </event>
 
 <event id="behrla-lpic_block2">
@@ -1898,8 +1904,13 @@ vim 7.x sollte zur Hand sein
 <room>X</room>
 <title>LPIC Prüfungsblock 2</title>
 <type>exam</type>
-<description>www.tuebix.org/lpic/</description>
+<description>
+WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 13:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.
+</description>
 <persons><person id="behrla">Klaus Behrla</person></persons>
+<links>
+<link href="http://www.tuebix.org/lpic">www.tuebix.org/lpic</link>
+</links>
 </event>
 
 <event id="koelbel-tails">
@@ -1909,6 +1920,8 @@ vim 7.x sollte zur Hand sein
 <title>"Watt - wer bist Du denn?" Anonym im Internet bewegen mit Tails</title>
 <type>talk</type>
 <description>
+WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte um 12:00 an den Info-Stand kommen, dann werden die Tails-Hörer zum Raum begleitet.
+
 NSA, GCHQ, BND, Telekom, Bargeldverbot.
 Schon wieder wird lauthals nach der Vorratsdatenspeicherung geschrien.
 Wir werden auf Schritt und Tritt überwacht. Der Datenhunger der Regierungen und Geheimdienste scheint unstillbar zu sein.

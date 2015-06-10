@@ -15,4 +15,11 @@ patch giggity.xml < giggity.the.sad.rest.pch
 # clean
 ./giggity.cleanup.sh
 
+# show the changes
+vimdiff ../2015/giggity.xml giggity.xml
+
+echo
+echo lightning talks in ./giggity.write.vw.1234.wrapper.py ??
+echo
+
 # cp giggity.xml ../2015/giggity.xml 

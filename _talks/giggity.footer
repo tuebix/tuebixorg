@@ -8,8 +8,13 @@
 <room>X</room>
 <title>LPIC Prüfungsblock 1</title>
 <type>exam</type>
-<description>www.tuebix.org/lpic/</description>
+<description>
+WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 9:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.
+</description>
 <persons><person id="behrla">Klaus Behrla</person></persons>
+<links>
+<link href="http://www.tuebix.org/lpic">www.tuebix.org/lpic</link>
+</links>
 </event>
 
 <event id="behrla-lpic_block2">
@@ -18,8 +23,13 @@
 <room>X</room>
 <title>LPIC Prüfungsblock 2</title>
 <type>exam</type>
-<description>www.tuebix.org/lpic/</description>
+<description>
+WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 13:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.
+</description>
 <persons><person id="behrla">Klaus Behrla</person></persons>
+<links>
+<link href="http://www.tuebix.org/lpic">www.tuebix.org/lpic</link>
+</links>
 </event>
 
 <event id="koelbel-tails">
@@ -29,6 +39,8 @@
 <title>"Watt - wer bist Du denn?" Anonym im Internet bewegen mit Tails</title>
 <type>talk</type>
 <description>
+WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte um 12:00 an den Info-Stand kommen, dann werden die Tails-Hörer zum Raum begleitet.
+
 NSA, GCHQ, BND, Telekom, Bargeldverbot.
 Schon wieder wird lauthals nach der Vorratsdatenspeicherung geschrien.
 Wir werden auf Schritt und Tritt überwacht. Der Datenhunger der Regierungen und Geheimdienste scheint unstillbar zu sein.
