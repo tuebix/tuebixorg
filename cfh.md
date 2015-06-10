@@ -24,7 +24,7 @@ benötigt etwas "Einarbeitung" daher 1h-Schichten nicht sinnvoll
 
 X X X X X 10:00-12:00 Pizza (Aufbau)<br/>
 X X X X X 12:00-14:00 Pizza<br/>
-X X O O O 14:00-16:00 Pizza<br/>
+X X X X X 14:00-16:00 Pizza<br/>
 
 ## Grill (je 1h, 2 Personen)
 
