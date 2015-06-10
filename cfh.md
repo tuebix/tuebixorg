@@ -18,14 +18,6 @@ O heißt "es besteht noch Bedarf - noch zu besetzen" <br/>
 
 X X O O Fotografen, die den Tag nebenbei etwas dokumentieren<br/>
 
-## Pizza (je 2h, 5 Personen)
-
-benötigt etwas "Einarbeitung" daher 1h-Schichten nicht sinnvoll
-
-X X X X X 10:00-12:00 Pizza (Aufbau)<br/>
-X X X X X 12:00-14:00 Pizza<br/>
-X X X X X 14:00-16:00 Pizza<br/>
-
 ## Grill (je 1h, 2 Personen)
 
 X X 15:00 - 16:00 Grillen<br/>
@@ -72,7 +64,7 @@ O O Raumsupport W1<br/>
 X O Raumsupport W2<br/>
 X O Raumsupport W3<br/>
 
-## Pizza (je 2h, 5 Personen) - alles belegt:  Danke!
+## Pizza (je 2h, 5 Personen) 
 
 benötigt etwas "Einarbeitung" daher 1h-Schichten nicht sinnvoll
 
@@ -80,7 +72,7 @@ X X X X X 10:00-12:00 Pizza (Aufbau)<br/>
 X X X X X 12:00-14:00 Pizza<br/>
 X X X X X 14:00-16:00 Pizza<br/>
 
-## Kasse (je 2h, 1 Person) - alles belegt:  Danke!
+## Kasse (je 2h, 1 Person)
 
 X 10:00 - 12:00 Kasse<br/>
 X 12:00 - 14:00 Kasse<br/>
