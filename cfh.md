@@ -29,7 +29,8 @@ O O 19:00 - 20:00 Grillen<br/>
 ## Kuchen mitbringen
 
 Bring einen Kuchen mit, der dann kostenfrei gegen 14:00 allen zur Verfügung steht:
-damit jeder ein Stück abbekommt, wären 16 Kuchen (mit je 12 Stück) gut ;)
+damit jeder ein Stück abbekommt, wären 16 Kuchen (mit je 12 Stück) gut ;)<br/>
+Wir können den Kuchen im Kühlwagen aufbewahren, dann am besten eine Tortenhaube mitbringen.
 
 X X X X X X X O O O O O O O O O
 
