@@ -7,7 +7,7 @@ menu:
 ---
 ## Mit&nbsp;LyX&nbsp;Text&nbsp;verarbeiten
 
-### <img height = "32" src="../../images/talk.svg"> 11:00 bis 12:00 in Raum V4
+### <img height = "32" src="../../images/talk.svg"> 11:00 bis 11:30 in Raum V4
 
 ### Wolfgang&nbsp;Engelmann
 

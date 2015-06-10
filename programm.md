@@ -95,6 +95,7 @@ menu:
 <tr><td></td><td></td><td>Raum V4</td></tr>
 <tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/schroeder-tex">TeX&nbsp;im&nbsp;3.&nbsp;Jahrtausend</a></td><td>Martin&nbsp;Schröder</td></tr>
 <tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/engelmann-lyx">Mit&nbsp;LyX&nbsp;Text&nbsp;verarbeiten</a></td><td>Wolfgang&nbsp;Engelmann</td></tr>
+<tr><td>11:30</td><td><a class="talk"></a></td><td><a href="../programm/witte-scilab_xcos">Modellbildung&nbsp;mit&nbsp;Scilab/Xcos&nbsp;mit&nbsp;Beispielen&nbsp;aus&nbsp;der&nbsp;Biorhythmik</a></td><td>Karl-Heinz&nbsp;Witte</td></tr>
 <tr><td>12:00</td><td><a class="talk"></a></td><td><a href="../programm/imme-latex_verein">LaTeX&nbsp;für&nbsp;den&nbsp;Verein</a></td><td>Roland&nbsp;Imme</td></tr>
 <tr><td>12:30</td><td><a class="talk"></a></td><td><a href="../programm/hofmann-lug_berlin">Unter&nbsp;einem&nbsp;Dach:&nbsp;lug.berlin</a></td><td>Frank&nbsp;Hofmann</td></tr>
 <tr><td>13:00</td><td><a class="talk"></a></td><td><a href="../programm/pfeifle-pandoc">Dokumenten-KungFoo&nbsp;mit&nbsp;Pandoc,&nbsp;Markdown&nbsp;&&nbsp;Co.</a></td><td>Kurt&nbsp;Pfeifle</td></tr>

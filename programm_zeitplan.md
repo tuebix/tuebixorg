@@ -39,6 +39,7 @@ menu:
 <tr><td>V3</td><td><a class="light"></a></td><td>11:40 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
 <tr><td>V3</td><td><a class="light"></a></td><td>11:50 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
 <tr><td>V4</td><td><a class="talk"></a></td><td><a href="../programm/engelmann-lyx">Mit&nbsp;LyX&nbsp;Text&nbsp;verarbeiten</a></td><td>Wolfgang&nbsp;Engelmann</td></tr>
+<tr><td>V4</td><td><a class="talk"></a></td><td>11:30&nbsp;<a href="../programm/witte-scilab_xcos">Modellbildung&nbsp;mit&nbsp;Scilab/Xcos&nbsp;mit&nbsp;Bsp.&nbsp;aus&nbsp;der&nbsp;Biorhythmik</a></td><td>Karl-Heinz&nbsp;Witte</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>12:00</td></tr>
 <tr><td>W1</td><td><a class="work"></a></td><td><a href="../programm/mundt_nachbauer-jessie_party">Debian&nbsp;GNU/Linux&nbsp;"Jessie"&nbsp;Install&nbsp;Party</a></td><td>Andreas&nbsp;Mundt,&nbsp;Florian&nbsp;Nachbauer</td></tr>

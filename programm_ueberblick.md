@@ -51,11 +51,12 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/koenig-bash">Shell</a></td>
 <td rowspan="2"><a class="talk" href="../programm/guckes-muttgpg1">mutt&nbsp;+&nbsp;gpg</a></td>
 <td>            <a class="talk" href="../programm/genannt-sshkey_distribution">sshkeydistribution</a></td>
-<td rowspan="2"><a class="talk" href="../programm/engelmann-lyx">LyX</a></td>
+<td>            <a class="talk" href="../programm/engelmann-lyx">LyX</a></td>
 <td>11:00</td></tr>
 
 <tr><td>&nbsp;</td>
 <td rowspan="5"><a class="light" href="../programm_lightning_talks">Lightning Talks</a></td>
+<td>            <a class="talk" href="../programm/witte-scilab_xcos">Scilab/Xcos</a></td>
 <td></td></tr>
 
 <tr><td>12:00</td>
