@@ -18,7 +18,7 @@ menu:
 
 <br/>
 
-### Auftakt
+### Freitag Abend: Auftakt
 
 am Vorabend: Fr, 12. Juni
 
@@ -26,11 +26,10 @@ Wir werden den Auftakt im <a href="http://www.neckarmueller.de/cms/anfahrt" targ
 
 Treffpunkt: um 18:00 VOR der Eingangstür bei den Fahrrädern.<br/>
 Wer später nachkommt, muss uns eben suchen.<br/>
-Vielleicht bringen die Reutlinger ja ihren Stammtisch-TUX mit ;-)
 
 Bitte im Pad eintragen, wenn du vorhast zu kommen: <a href="https://tuebix2015.titanpad.com/auftakt" target="_blank">Auftakt-Pad</a>
 
-### Ausklang
+### Samstag Abend: Ausklang
 
 direkt im Anschluss an die Vorträge und Workshops ab 17:30 auf dem Sand
 
