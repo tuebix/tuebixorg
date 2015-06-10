@@ -20,6 +20,7 @@ Genaue Uhrzeiten werden noch eingetragen, wenn wir von allen Gruppen Rückmeldun
 <tr><td>14:XX</td><td><a class="light"></a></td><td> LISTIG</td><td>Matthias Müller</td></tr>
 <tr><td>14:XX</td><td><a class="light"></a></td><td> LUGES</td><td>Jonas Genannt</td></tr>
 <tr><td>14:XX</td><td><a class="light"></a></td><td> LUG-VS</td><td>Uwe Stippekohl, Bernd Doerr</td></tr>
+<tr><td>14:XX</td><td><a class="light"></a></td><td> LUG RT</td><td>Thomas Eber</td></tr>
 <tr><td>14:XX</td><td><a class="light"></a></td><td> LUGT</td><td>Carsten Geckeler, Erich Wälde, Harald König</td></tr>
 </table>
 
