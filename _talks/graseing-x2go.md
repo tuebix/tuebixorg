@@ -100,6 +100,7 @@ Der Workshop wird sich wie folgt gliedern:
   - Protokollerweiterung (HTML5 Client,...)
 
 #### Was wird benötigt?
+
 - Eine vom Client aus erreichbare Virtuelle Masschine
   * Debian Jessie (Basisystem, ohne SystemD)
   * alternativ: LXC Container auf der Trainer Maschine
