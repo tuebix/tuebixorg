@@ -119,3 +119,4 @@ Der Workshop wird sich wie folgt gliedern:
 
 - <a href="http://wiki.x2go.org" target="_blank">wiki.x2go.org</a>
 - <a href="http://de.wikipedia.org/wiki/X2Go" target="_blank">de.wikipedia.org/wiki/X2Go</a>
+- pad: <a href="https://tuebix2015.titanpad.com/graseing-x2go" target="_blank">tuebix2015.titanpad.com/graseing-x2go</a>

@@ -25,3 +25,7 @@ Ebenso verhält es sich mit der Akzeptanz von freier Software in Bildungseinrich
 
 Den Wert freier Software und Standards in das Bewusstsein der jungen Leute zu rücken, gestaltet sich angesichts der Marketingmacht der kommerziellen Anbieter äußerst schwierig.
 Es bedarf engagierter Jugendlicher, die freie Software für ihre Altersgenossen attraktiv machen.
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/george-software_unter_freunden" target="_blank">tuebix2015.titanpad.com/george-software_unter_freunden</a>

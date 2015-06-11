@@ -20,3 +20,7 @@ Hier treten die Enterprise Distributionen ihren Siegeszug an. Grosse Distributor
 Aber: Linux ist doch kostenlos? Warum soll ich für eine Linux Distribution zahlen? Was bezahle ich bei den Enterprise Distributionen?
 
 Anhand des Beispiels Red Hat Enterprise Linux wollen wir einen Blick auf den Einsatzzweck von Enterprise Distributionen werfen und kurz die Vorteile für die Weiterentwicklung und fortschreitende Verbreitung von Linux betrachten.
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/rosendahl-warum_enterprise" target="_blank">tuebix2015.titanpad.com/rosendahl-warum_enterprise</a>

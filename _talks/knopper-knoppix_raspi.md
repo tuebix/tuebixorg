@@ -35,3 +35,4 @@ nicht notwendigerweise bezogen auf Raspberry Pi).
 
 - <a href="https://www.raspberrypi.org/" target="_blank">raspberrypi.org</a>
 - <a href="https://www.raspbian.org/" target="_blank">raspbian.org</a>
+- pad: <a href="https://tuebix2015.titanpad.com/knopper-knoppix_raspi" target="_blank">tuebix2015.titanpad.com/knopper-knoppix_raspi</a>

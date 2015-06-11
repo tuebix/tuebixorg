@@ -30,3 +30,7 @@ vimtutor mal durchgespielt zu haben wäre praktisch aber nicht zwingend
 ### Vorbereitung
 
 vim 7.x sollte zur Hand sein
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/zimmer-vim" target="_blank">tuebix2015.titanpad.com/zimmer-vim</a>

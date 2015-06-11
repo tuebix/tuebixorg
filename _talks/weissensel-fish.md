@@ -24,3 +24,4 @@ Das Vortragsniveau bleibt auf Einsteigerlevel, es beginnt mit einer kurzen EinfÃ
 ### Links
 
 - <a href="http://fishshell.com" target="_blank">fishshell.com</a>
+- pad: <a href="https://tuebix2015.titanpad.com/weissensel-fish" target="_blank">tuebix2015.titanpad.com/weissensel-fish</a>

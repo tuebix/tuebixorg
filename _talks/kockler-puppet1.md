@@ -23,3 +23,7 @@ Dies ist der erste von zwei aufeinander aufbauenden Vorträgen über Puppet.
 ### Vorwissen
 
 Erfahrung mit der Administration von Linux Servern oder zumindest Linux Grundlagenwissen
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/kockler-puppet1" target="_blank">tuebix2015.titanpad.com/kockler-puppet1</a>

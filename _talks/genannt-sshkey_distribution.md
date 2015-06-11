@@ -20,3 +20,4 @@ Arbeiten mit SSH Public Keys
 ### Links
 
 - <a href="https://github.com/hggh/sshkeymanager-django" target="_blank">https://github.com/hggh/sshkeymanager-django</a>
+- pad: <a href="https://tuebix2015.titanpad.com/genannt-sshkey_distribution" target="_blank">tuebix2015.titanpad.com/genannt-sshkey_distribution</a>

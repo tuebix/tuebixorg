@@ -19,3 +19,4 @@ Wir sind stolz darauf, einige besonders wichtige und übrigens auch funktionsfä
 ### Links
 
 - <a href="http://www.wsi.uni-tuebingen.de/fachbereich/wilhelm-schickard-institut-fuer-informatik/computermuseum.html" target="_blank">wsi.uni-tuebingen.de/fachbereich/wilhelm-schickard-institut-fuer-informatik/computermuseum.html</a>
+- pad: <a href="https://tuebix2015.titanpad.com/klaeren-computermuseum" target="_blank">tuebix2015.titanpad.com/klaeren-computermuseum</a>

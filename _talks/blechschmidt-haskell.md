@@ -52,3 +52,4 @@ Erfahrung in irgendeiner Programmiersprache.
 
 - <a href="http://www.haskell.org" target="_blank">haskell.org</a>
 - <a href="http://learnyouahaskell.com" target="_blank">learnyouahaskell.com</a>
+- pad: <a href="https://tuebix2015.titanpad.com/blechschmidt-haskell" target="_blank">tuebix2015.titanpad.com/blechschmidt-haskell</a>

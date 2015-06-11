@@ -14,3 +14,7 @@ menu:
 * Abschluss
 * Verlosung!
 * Aublick TüBIX 2016
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/tuebix-exit" target="_blank">tuebix2015.titanpad.com/tuebix-exit</a>

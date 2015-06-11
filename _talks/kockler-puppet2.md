@@ -21,3 +21,7 @@ Dies ist der zweite von zwei aufeinander aufbauenden Vorträgen über Puppet.
 ### Vorwissen
 
 Wissen aus dem Vortrag <a href="http://www.tuebix.org/programm/kockler-puppet1/">"Puppet I: Zentrale Administration einer Server Infrastruktur"</a>" oder Grundlegende Erfahrungen mit Puppet
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/kockler-puppet2" target="_blank">tuebix2015.titanpad.com/kockler-puppet2</a>

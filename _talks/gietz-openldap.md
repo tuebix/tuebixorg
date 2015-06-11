@@ -30,3 +30,4 @@ Teilnehmer sollten idealerweise ein wenig technisches Wissen zu Datenbanken und 
 
 - <a href="https://tools.ietf.org/rfc/rfc4510.txt" target="_blank">tools.ietf.org/rfc/rfc4510.txt</a>
 - <a href="http://www.openldap.org" target="_blank">openldap.org</a>
+- pad: <a href="https://tuebix2015.titanpad.com/gietz-openldap" target="_blank">tuebix2015.titanpad.com/gietz-openldap</a>

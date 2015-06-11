@@ -26,3 +26,7 @@ eigentlich?
 ### Vorwissen
 
 - Interesse an Technik, insbesondere Software/Hardware von PC-artigen systemen
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/schiele-aktuelles" target="_blank">tuebix2015.titanpad.com/schiele-aktuelles</a>

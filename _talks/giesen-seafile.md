@@ -17,3 +17,4 @@ menu:
 ### Links
 
 - <a href="http://www.seafile.com" target="_blank">seafile.com</a>
+- pad: <a href="https://tuebix2015.titanpad.com/giesen-seafile" target="_blank">tuebix2015.titanpad.com/giesen-seafile</a>

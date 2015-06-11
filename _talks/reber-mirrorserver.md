@@ -26,3 +26,4 @@ Exemplarisch am Mirror Netzwerk von Fedora, welches auf der Software MirrorManag
 ### Links
 
 - <a href="http://ftp-stud.hs-esslingen.de" target="_blank">ftp-stud.hs-esslingen.de</a>
+- pad: <a href="https://tuebix2015.titanpad.com/reber-mirrorserver" target="_blank">tuebix2015.titanpad.com/reber-mirrorserver</a>

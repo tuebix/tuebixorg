@@ -15,3 +15,7 @@ menu:
 * Infos zum Ablauf des Tages
 * Änderungen in letzter Minute
 * Fragen?
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/tuebix-init" target="_blank">tuebix2015.titanpad.com/tuebix-init</a>

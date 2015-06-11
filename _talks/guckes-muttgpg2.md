@@ -48,3 +48,4 @@ Diese kann über den lokalen Keyserver geschehen - oder auch bei einem eigenen T
 - Key Server - Schlüsselserver <a href="http://de.wikipedia.org/wiki/Schl%C3%BCsselserver" target="_blank">de.wikipedia.org/wiki/Schlüsselserver</a>
 - KeySigning Party <a href="http://de.wikipedia.org/wiki/Keysigning-Party" target="_blank">de.wikipedia.org/wiki/Keysigning-Party</a>
 - Web of Trust <a href="http://de.wikipedia.org/wiki/Web_of_Trust" target="_blank">de.wikipedia.org/wiki/Web_of_Trust</a>
+- pad: <a href="https://tuebix2015.titanpad.com/guckes-muttgpg2" target="_blank">tuebix2015.titanpad.com/guckes-muttgpg2</a>

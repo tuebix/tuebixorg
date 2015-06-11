@@ -27,3 +27,7 @@ In unserem Vortrag gehen wir den folgenden Punkten nach:
 Im Anschluß diskutieren wir die vorgestellten Möglichkeiten und freuen
 uns auf einen regen Austausch hinsichtlich eigener Erfahrungen und Tips
 im Alltag.
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/hofmann-surfen" target="_blank">tuebix2015.titanpad.com/hofmann-surfen</a>

@@ -99,3 +99,7 @@ Beispiel-Dateien sowie ein Transkript des Vortrags, das alle gezeigten
 Kommandos nochmals wiedergibt und kurz erläutert.
 Als Bonus dann noch ein Makefile, mit welchem man die Dokumenten-Erzeugung
 weitgehend automatisieren kann
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/pfeifle-pandoc" target="_blank">tuebix2015.titanpad.com/pfeifle-pandoc</a>

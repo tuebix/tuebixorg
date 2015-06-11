@@ -33,3 +33,7 @@ Vorherige Nutzung von Textverarbeitung
 - Laptop funktionstüchtig, Akku geladen
 - LibreOffice 4 installiert und mindestens einmal aufgerufen (um sicherzustellen, daß es läuft!)
 - Beispieldateien von <a href="http://www.iscait.com/tuebix" target="_blank">www.iscait.com/tuebix</a> – Paßwörter gibt es in der Veranstaltung
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/krug-libreoffice" target="_blank">tuebix2015.titanpad.com/krug-libreoffice</a>

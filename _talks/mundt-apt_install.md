@@ -28,3 +28,4 @@ Die gewöhnliche Installation eines GNU/Linux-Systems sollte bekannt sein.
 - <a href="https://packages.debian.org/jessie/di-netboot-assistant" target="_blank">packages.debian.org/jessie/di-netboot-assistant</a>
 - <a href="http://d-i.debian.org/manual/de.amd64/apb.html" target="_blank">d-i.debian.org/manual/de.amd64/apb.html</a>
 - <a href="https://wiki.debian.org/DebianLAN" target="_blank">wiki.debian.org/DebianLAN</a>
+- pad: <a href="https://tuebix2015.titanpad.com/mundt-apt_install" target="_blank">tuebix2015.titanpad.com/mundt-apt_install</a>

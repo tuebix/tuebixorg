@@ -12,3 +12,7 @@ menu:
 ### Frank&nbsp;Schiebel
 
 Was man erleben kann, wenn man einem Lehrerkollegium und 1000 Schülern erklärt, dass Windows 7 an der Schule ausfällt - und stattdessen Ubuntu in die Computerräume einzieht.
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/schiebel-oss_schule" target="_blank">tuebix2015.titanpad.com/schiebel-oss_schule</a>

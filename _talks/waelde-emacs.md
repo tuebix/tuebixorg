@@ -47,3 +47,4 @@ Der Editor ist eines der wichtigsten Werkzeuge für alle, die Zeit am Rechner ve
 - <a href="http://www.gnu.org/software/emacs/" target="_blank">http://www.gnu.org/software/emacs/</a>
 - <a href="http://www.emacswiki.org/" target="_blank">http://www.emacswiki.org/</a>
 - <a href="http://orgmode.org/" target="_blank">http://orgmode.org/</a>
+- pad: <a href="https://tuebix2015.titanpad.com/waelde-emacs" target="_blank">tuebix2015.titanpad.com/waelde-emacs</a>

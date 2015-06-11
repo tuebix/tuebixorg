@@ -18,3 +18,7 @@ Zunächst führe ich sehr grob in die Thematik des Machine Learnings ein. Dabei 
 ### Vorwissen 
 
 <a href="http://www.tuebix.org/programm/flebbe-bigdata1">Vortrag von Olaf Flebbe</a> gehört.
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/goetz-bigdata2" target="_blank">tuebix2015.titanpad.com/goetz-bigdata2</a>

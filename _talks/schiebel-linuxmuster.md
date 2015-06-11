@@ -21,3 +21,4 @@ Der Vortrag führt in die Besonderheiten schulischer Netzwerke ein und erläuter
 ### Links
 
 <a href="http://www.linuxmuster.net" target="_blank">www.linuxmuster.net</a>
+- pad: <a href="https://tuebix2015.titanpad.com/schiebel-linuxmuster" target="_blank">tuebix2015.titanpad.com/schiebel-linuxmuster</a>

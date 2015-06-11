@@ -34,3 +34,4 @@ Sichere verwendung der Shell mit Tools wie z.B.:
 ### Links
 
 - <a href="http://nixos.org" target="_blank">nixos.org</a>
+- pad: <a href="https://tuebix2015.titanpad.com/seitz-nixos" target="_blank">tuebix2015.titanpad.com/seitz-nixos</a>

@@ -43,3 +43,4 @@ Genaue Uhrzeiten werden noch eingetragen, wenn wir von allen Gruppen Rückmeldun
 * <a href="http://www.chaostreff-tuebingen.de" target="_blank">Chaostreff "Chaos-Curry" Tübingen</a>
 * <a href="http://www.shackspace.de" target="_blank">shack / Hackerspace Stuttgart</a>
 * <a href="http://www.linuxmuster.net" target="_blank">linuxmuster.net e.V.</a>
+- pad: <a href="https://tuebix2015.titanpad.com/lugs-kurzvorstellungen" target="_blank">tuebix2015.titanpad.com/lugs-kurzvorstellungen</a>

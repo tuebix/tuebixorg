@@ -26,3 +26,4 @@ menu:
 ### Links
 
 - <a href="http://www.lyx.org/WebDe.Home" target="_blank">lyx.org/WebDe.Home</a>
+- pad: <a href="https://tuebix2015.titanpad.com/engelmann-lyx" target="_blank">tuebix2015.titanpad.com/engelmann-lyx</a>

@@ -15,3 +15,7 @@ Hier soll ein Konzept vorgestellt werden, wie sowohl die Bequemlichkeit gewährl
 Der Desktop soll zuverlässig und automatisch gesperrt werden.
 Zugang zum Desktop erhält man nur mit Zweifaktor-Authentisierung.
 Aber auch diese soll leicht und bequem anwendbar sein.
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/koelbel-desktop_auth" target="_blank">tuebix2015.titanpad.com/koelbel-desktop_auth</a>

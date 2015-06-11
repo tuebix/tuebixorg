@@ -27,3 +27,4 @@ Man sollte zur Vorbereitung mal <a href="https://de.wikipedia.org" target="_blan
 - <a href="https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy" target="_blank">en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy</a>
 - ein Preview:<br/>
 <a href="https://www.dropbox.com/s/weenj7uar9xkj5l/wikipedia.pdf?dl=0" target="_blank">dropbox.com/s/weenj7uar9xkj5l/wikipedia.pdf?dl=0</a>
+- pad: <a href="https://tuebix2015.titanpad.com/humm-wikipedia" target="_blank">tuebix2015.titanpad.com/humm-wikipedia</a>

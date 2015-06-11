@@ -24,3 +24,7 @@ mögliche Themen:
 ### Vorwissen
 
 Auf der Kommandozeile tippen können ;-)
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/koenig-bash" target="_blank">tuebix2015.titanpad.com/koenig-bash</a>

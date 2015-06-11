@@ -74,3 +74,4 @@ Kommandos nochmals wiedergibt und kurz erläutert.
 ### Links
 
 <a href="https://leanpub.com/pdfkungfoo" target="_blank">leanpub.com/pdfkungfoo</a>
+- pad: <a href="https://tuebix2015.titanpad.com/pfeifle-pdfkungfoo" target="_blank">tuebix2015.titanpad.com/pfeifle-pdfkungfoo</a>

@@ -22,3 +22,7 @@ Wenn du nicht genau weißt, was dich in dem Workshop erwartet, oder wenn du sons
 - Teilnahme bereits ab 5. Klasse möglich!
 - Laptop mitbringen!
 - Es ist keine Installation nötig, und wir werden das Laptopsystem auch nicht ändern. Wir werden den Laptop nur verwenden, um auf eine Webseite zu gehen.
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/blechschmidt-python_schueler" target="_blank">tuebix2015.titanpad.com/blechschmidt-python_schueler</a>

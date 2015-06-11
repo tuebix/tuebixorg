@@ -12,3 +12,7 @@ menu:
 ### Harald&nbsp;König
 
 Überraschung...
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/koenig-tagesabschluss" target="_blank">tuebix2015.titanpad.com/koenig-tagesabschluss</a>

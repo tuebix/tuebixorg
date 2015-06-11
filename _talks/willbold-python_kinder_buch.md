@@ -14,3 +14,7 @@ menu:
 Programmieren lernen kann schwer und mühsam sein – vor allem, wenn man erst die 5. oder 6. Klasse besucht.
 Viel zu oft sind Lehrbücher trocken und zu kompliziert geschrieben.
 Ich möchte daher ein Buchprojekt (CC BY-NC-SA) vorstellen, das sich an Kinder dieser Altersgruppe richtet und ihnen auf unterhaltsame Weise die Sprache Python näherbringt.
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/willbold-python_kinder_buch" target="_blank">tuebix2015.titanpad.com/willbold-python_kinder_buch</a>

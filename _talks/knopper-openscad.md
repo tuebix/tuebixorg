@@ -30,3 +30,4 @@ Im Workshop wird die zu OpenSCAD gehörende Programmiersprache anhand einiger vo
 ### Links
 
 - <a href="http://www.openscad.org/" target="_blank">www.openscad.org</a> 
+- pad: <a href="https://tuebix2015.titanpad.com/knopper-openscad" target="_blank">tuebix2015.titanpad.com/knopper-openscad</a>

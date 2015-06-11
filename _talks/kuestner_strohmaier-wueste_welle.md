@@ -36,3 +36,4 @@ Kurzer Anriss über die verschiedenen Einsatzfelder von OpenSource Software, die
 ### Links
 
 - <a href="http://www.wueste-welle.de" target="_blank">wueste-welle.de</a>
+- pad: <a href="https://tuebix2015.titanpad.com/kuestner_strohmaier-wueste_welle" target="_blank">tuebix2015.titanpad.com/kuestner_strohmaier-wueste_welle</a>

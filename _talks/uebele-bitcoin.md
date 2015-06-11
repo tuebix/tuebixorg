@@ -20,3 +20,7 @@ Im Anschluss stehe ich gerne auch für praktische Fragen wie beispielsweise die 
 ### Vorwissen
 
 keine Vorkenntnisse nötig
+
+### Links
+
+- pad: <a href="https://tuebix2015.titanpad.com/uebele-bitcoin" target="_blank">tuebix2015.titanpad.com/uebele-bitcoin</a>
