@@ -99,15 +99,20 @@ Der Workshop wird sich wie folgt gliedern:
   - SSH-Proxying
   - Protokollerweiterung (HTML5 Client,...)
 
-### Vorbereitung
-
-Für bis zu 14 Teilnehmern stehen Debian LXC Container zur Verfügung.
-Sollten mehr teilnehmen wollen, sollte eine Virtuelle Maschine/Container
-auf dem lokalen Rechner zur Verfügung stehen. Das Schulungsimage stellen
-wir zur Verfügung.
-
-Auf dem Client wird SSH und eine X2Goclient Installation benötigt.
-Linux auf dem Client ist sehr empfehlenswert!
+#### Was wird benötigt?
+- Eine vom Client aus erreichbare Virtuelle Masschine
+  * Debian Jessie (Basisystem, ohne SystemD)
+  * alternativ: LXC Container auf der Trainer Maschine
+  * LXC Container kann per USB-Stick "herumgreicht" werden
+- Eine von X2GoClient unterstütztes Clientbetriebsystem
+  * Trainer verwenden Debian Jessie
+- Internetzugang (Uni Tübingen, Daten folgen)
+- Kennnisse
+- Container/Virtualiserung (als Servermaschine)
+  * ssh
+  * vim
+  * Xorg
+  * Geduld
 
 ### Links
 
