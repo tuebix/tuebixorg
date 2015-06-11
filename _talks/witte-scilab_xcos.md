@@ -17,12 +17,12 @@ menu:
     - Ergebnisdarstellung in einem Oszilloskop
     - Diagrammbearbeitung mit dem Grafikeditor
     - Ausgabeexport
-* Erstellung eines Funktionsschaltbildes anhand von Diffeerentialgleichungen
+* Erstellung eines Funktionsschaltbildes anhand von Differentialgleichungen
     - beim Räuber-Beute-Modell
     - beim Van-der-Pol-Oszillator
 * Weitere Anwendungen bei Simulationen zur Biorhythmik
     - Modell von Johnsson Karlsson zur Simulation von Kalanchoe-Blattbewegungen
-    - Moden von R.D. Lewis zur Rhythmik von Langfühlerschrecken
+    - Modell von R.D. Lewis zur Rhythmik von Langfühlerschrecken
     - Zwei unterschiedliche Realisierungen eines EKG-Oszillators von Gari D. Clifford mit Scilab-Vorberechnung von Parametern(Kontext-Menüeintrag)
       * Realisierung mit Hilfe von Superblöcke
       * Realisierung mit Hilfe von Funktions- und Formelblöcken
