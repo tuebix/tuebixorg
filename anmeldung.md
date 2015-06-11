@@ -18,4 +18,4 @@ Diese Mailingliste dient nicht zur Diskussion, sondern ausschließlich (zweckent
 
 Die Mailingliste wird nach der Veranstaltung gelöscht.
 
-Falls du auch zum Auftakt kommst, trag Dich bitte ins <a href="../programm_rahmen">Auftakt-Pad</a> ein.
+Falls du auch zum <a href="../programm_rahmen">Auftakt</a> kommst, trag Dich bitte ins <a href="https://tuebix2015.titanpad.com/auftakt" target="_blank">Auftakt-Pad</a> ein.
