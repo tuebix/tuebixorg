@@ -6,6 +6,4 @@ weight:
 menu: 
 ---
 
-<p>This is some text.</p>
-<script type="text/javascript" src="https://asciinema.org/a/14.js" id="asciicast-14" async></script>
-<p>This is some other text.</p>
+<script type="text/javascript" src="https://asciinema.org/a/17654.js" id="asciicast-17654" async></script>
