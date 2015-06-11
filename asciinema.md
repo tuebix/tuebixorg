@@ -23,7 +23,12 @@ Am besten schonmal zu Hause vorher testen...<br/>
 asciinema will standardmäßig die Aufnahme hochladen auf asciinema.org. <br/>
 Um das zu verhindern kann als Argument einen Dateiname übergeben werden,<br/>
 in den die Aufnahme abgespeichert wird: <br/>
-./asciinema rec meine.aufnahme.01 <br/>
+```
+./asciinema rec meine.aufnahme.01
+```
+ <br/>
  <br/>
 Wiedergabe mit: <br/>
+```
 ./asciinema play meine.aufnahme.01
+```
