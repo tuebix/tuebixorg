@@ -107,5 +107,5 @@ menu:
 <tr><td></td><td></td><td>18:00</td></tr>
 <tr><td>V1</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-exit">TÜBIX: exit</a></td><td>TÜBIX&nbsp;Orga-Team</td></tr>
 <tr><td>V1</td><td><a class="talk"></a></td><td>18:15 <a href="../programm/koenig-tagesabschluss">Haralds&nbsp;Tagesabschluss</a></td><td>Harald&nbsp;König</td></tr>
-<tr><td>Obs</td><td><a class="talk"></a></td><td><a href="../programm/gottschall-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Ruth&nbsp;Gottschall,&nbsp;Daniel&nbsp;Gottschall</td></tr>
+<tr><td>Obs</td><td><a class="talk"></a></td><td>18:30 und 19:00<a href="../programm/gottschall-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Ruth&nbsp;Gottschall,&nbsp;Daniel&nbsp;Gottschall</td></tr>
 </table>

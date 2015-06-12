@@ -114,6 +114,6 @@ menu: main
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Observatorium</td></tr>
-<tr><td>18:00</td><td><a class="talk"></a></td><td><a href="../programm/gottschall-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Ruth&nbsp;Gottschall,&nbsp;Daniel&nbsp;Gottschall</td></tr>
 <tr><td>18:30</td><td><a class="talk"></a></td><td><a href="../programm/gottschall-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Ruth&nbsp;Gottschall,&nbsp;Daniel&nbsp;Gottschall</td></tr>
+<tr><td>19:00</td><td><a class="talk"></a></td><td><a href="../programm/gottschall-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Ruth&nbsp;Gottschall,&nbsp;Daniel&nbsp;Gottschall</td></tr>
 </table>
