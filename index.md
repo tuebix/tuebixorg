@@ -2,21 +2,17 @@
 layout: default
 ---
 
-{{ site.title }} ist ein <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a> und findet am Samstag, den 13. Juni 2015 in <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a> statt.
+{{ site.title }} ist ein <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a> und fand am Samstag, den 13. Juni 2015 in <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a> statt.<br/>
+Herzlichen Dank an alle, die dabei waren!<br/>
+M�glicherweise wird es ein T�BIX 2016 geben...
 
-## Letzte Infos:
-
-* <a style="color:#FF0000;" href="../callforhelpers/">Wir suchen dringend hilfsbereite TÜBIX-Besucher!<br/>
-  (vor allem beim Getraenkeausschank)</a>
-* Wir haben überraschend nochmal 2 Schlafplätze (von Samstag auf Sonntag) zu vergeben<br/>
-  Stand: 9 Betten für 7 Nicht-Tübinger
-* WLAN auf dem Sand scheint einigermaßen zu funktionieren - erwartet nichts allzu Tolles!
+<a style="color:#FF0000;" href="https://tuebix2015.titanpad.com/tuebix-exit">Feedback zum Tag und Ideen f�r ein eventuelles T�BIX 2016 bitte ins Pad!<br/>
 
 <br/> 
 ![Tux](./images/tux.png "Tux")
 <br/> 
 
-Dieser Tag könnte etwas für dich sein, falls du:
+T�BIX könnte etwas für dich sein, falls du:
 
 * ... Lust auf Austausch mit anderen hast
 * ... Experte / Profi / Veteran / Meister bist
