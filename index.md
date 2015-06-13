@@ -7,7 +7,7 @@ layout: default
 ## Letzte Infos:
 
 * <a style="color:#FF0000;" href="../callforhelpers/">Wir suchen dringend hilfsbereite TÜBIX-Besucher!<br/>
-  (vor allem Kuchenbäckerei und Raumunterstützung)</a>
+  (vor allem beim Getraenkeausschank)</a>
 * Wir haben überraschend nochmal 2 Schlafplätze (von Samstag auf Sonntag) zu vergeben<br/>
   Stand: 9 Betten für 7 Nicht-Tübinger
 * WLAN auf dem Sand scheint einigermaßen zu funktionieren - erwartet nichts allzu Tolles!
