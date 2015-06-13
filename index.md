@@ -4,7 +4,6 @@ layout: default
 
 {{ site.title }} ist ein <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a> und fand am Samstag, den 13. Juni 2015 in <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">T√ºbingen</a> statt.<br/>
 Herzlichen Dank an alle, die dabei waren!<br/>
-M√glicherweise wird es ein T√bix 2016 geben...
 
 <a style="color:#FF0000;" href="https://tuebix2015.titanpad.com/tuebix-exit">Bitte Rueckmeldung und Ideen fuer Tuebix 2016 ins Pad schreiben.<a/>
 
@@ -12,7 +11,7 @@ M√glicherweise wird es ein T√bix 2016 geben...
 ![Tux](./images/tux.png "Tux")
 <br/> 
 
-Dieser Tag k√∂nnte etwas f√ºr dich sein, falls du:
+Tuebix k√∂nnte etwas f√ºr dich sein, falls du:
 
 * ... Lust auf Austausch mit anderen hast
 * ... Experte / Profi / Veteran / Meister bist
