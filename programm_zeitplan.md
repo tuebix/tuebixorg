@@ -39,7 +39,7 @@ menu:
 <tr><td>V3</td><td><a class="talk"></a></td><td><a href="../programm/genannt-sshkey_distribution">SSH&nbsp;Public&nbsp;Key&nbsp;Distribution&nbsp;-&nbsp;the&nbsp;smart&nbsp;way</a></td><td>Jonas&nbsp;Genannt</td></tr>
 <tr><td>V3</td><td><a class="light"></a></td><td>11:30 <a href="../programm/rosendahl-warum_enterprise">Warum&nbsp;Enterprise&nbsp;Linux?</a></td><td>Frank&nbsp;Rosendahl</td></tr>
 <tr><td>V3</td><td><a class="light"></a></td><td>11:40 <a href="../programm/thiele-prisirah">Prisirah&nbsp;-&nbsp;digitaler&nbsp;Bilderrahmen&nbsp;für&nbsp;Familie&nbsp;und&nbsp;Freunde</a></td><td>Jens&nbsp;Thiele</td></tr>
-<tr><td>V3</td><td><a class="light"></a></td><td>11:50 <a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;-)</td></tr>
+<tr><td>V3</td><td><a class="light"></a></td><td>11:50 <a href="../programm/siegl-hardwarehacks">Hardware&nbsp;hacken</a></td><td>Marcus&nbsp;Siegl</td></tr>
 <tr><td>V4</td><td><a class="talk"></a></td><td><a href="../programm/engelmann-lyx">Mit&nbsp;LyX&nbsp;Text&nbsp;verarbeiten</a></td><td>Wolfgang&nbsp;Engelmann</td></tr>
 <tr><td>V4</td><td><a class="talk"></a></td><td>11:30&nbsp;<a href="../programm/witte-scilab_xcos">Modellbildung&nbsp;mit&nbsp;Scilab/Xcos&nbsp;mit&nbsp;Bsp.&nbsp;aus&nbsp;der&nbsp;Biorhythmik</a></td><td>Karl-Heinz&nbsp;Witte</td></tr>
 <tr><td>&nbsp;</td></tr>

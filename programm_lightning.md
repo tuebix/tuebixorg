@@ -23,7 +23,7 @@ menu:
 <table>
 <tr><td>11:30</td><td><a class="light"></a></td><td><a href="../programm/rosendahl-warum_enterprise">Warum&nbsp;Enterprise&nbsp;Linux?</a></td><td>Frank&nbsp;Rosendahl</td></tr>
 <tr><td>11:40</td><td><a class="light"></a></td><td><a href="../programm/thiele-prisirah">Prisirah&nbsp;-&nbsp;digitaler&nbsp;Bilderrahmen</a></td><td>Jens&nbsp;Thiele</td></tr>
-<tr><td>11:50</td><td><a class="light"></a></td><td><a href="../callforpapers/">noch&nbsp;frei</a></td><td>Du?&nbsp;;)</td></tr>
+<tr><td>11:50</td><td><a class="light"></a></td><td><a href="../programm/siegl-hardwarehacks">Hardware&nbsp;hacken</a></td><td>Marcus&nbsp;Siegl</td></tr>
 <tr><td>12:00</td><td><a class="light"></a></td><td><a href="../programm/blechschmidt-haskell">Haskell</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>12:10</td><td><a class="light"></a></td><td><a href="../programm/willbold-python_kinder_buch">Monty&nbsp;und&nbsp;Python&nbsp;werden&nbsp;Hacker</a></td><td>Carina&nbsp;Willbold</td></tr>
 <tr><td>12:20</td><td><a class="light"></a></td><td><a href="../programm/stadelmeier_wannenmacher-tor_router">Tor-Router</a></td><td>Andreas&nbsp;Stadelmeier,&nbsp;Fabian&nbsp;Wannenmacher</td></tr>
