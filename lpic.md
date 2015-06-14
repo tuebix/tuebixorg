@@ -2,8 +2,8 @@
 layout: page
 title: LPIC
 permalink: /lpic/
-weight: 30
-menu: main
+weight: 
+menu: 
 ---
 
 # Zertifiziertes Wissen

@@ -2,8 +2,8 @@
 layout: page
 title: Call for Helpers
 permalink: /callforhelpers/
-weight: 25
-menu: main
+weight:
+menu:
 ---
 
 Die Anmeldeliste wird täglich länger und übertrifft längst die Besucheranzahl mit der wir ursprünglich mal geplant hatten.

@@ -2,8 +2,8 @@
 layout: page
 title: Anmeldung
 permalink: /anmeldung/
-weight: 20
-menu: main
+weight:
+menu: 
 ---
 
 TÜBIX kostet keinen Eintritt, dennoch bitten wir Euch darum, Euch anzumelden.
