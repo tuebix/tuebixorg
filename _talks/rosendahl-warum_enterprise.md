@@ -23,4 +23,4 @@ Anhand des Beispiels Red Hat Enterprise Linux wollen wir einen Blick auf den Ein
 
 ### Links
 
-- pad: <a href="https://tuebix2015.titanpad.com/rosendahl-warum_enterprise" target="_blank">tuebix2015.titanpad.com/rosendahl-warum_enterprise</a>
+- pad: <a href="https://tuebix2015.titanpad.com/rosendahl-warum-enterprise" target="_blank">tuebix2015.titanpad.com/rosendahl-warum-enterprise</a>

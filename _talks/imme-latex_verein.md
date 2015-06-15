@@ -21,4 +21,4 @@ Die Einladung zur Hauptversammlung (Serienbrief) wird beim Vortrag vorgestellt.
 
 ### Links
 
-- pad: <a href="https://tuebix2015.titanpad.com/imme-latex_verein" target="_blank">tuebix2015.titanpad.com/imme-latex_verein</a>
+- pad: <a href="https://tuebix2015.titanpad.com/imme-latex-verein" target="_blank">tuebix2015.titanpad.com/imme-latex-verein</a>

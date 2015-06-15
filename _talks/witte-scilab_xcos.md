@@ -33,4 +33,4 @@ Hilfreiche Vorkenntnisse: mathematische, physikalische und etwas biologische Gru
 
 ### Links
 
-- pad: <a href="https://tuebix2015.titanpad.com/witte-scilab_xcos" target="_blank">tuebix2015.titanpad.com/witte-scilab_xcos</a>
+- pad: <a href="https://tuebix2015.titanpad.com/witte-scilab-xcos" target="_blank">tuebix2015.titanpad.com/witte-scilab-xcos</a>

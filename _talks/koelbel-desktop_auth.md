@@ -18,4 +18,4 @@ Aber auch diese soll leicht und bequem anwendbar sein.
 
 ### Links
 
-- pad: <a href="https://tuebix2015.titanpad.com/koelbel-desktop_auth" target="_blank">tuebix2015.titanpad.com/koelbel-desktop_auth</a>
+- pad: <a href="https://tuebix2015.titanpad.com/koelbel-desktop-auth" target="_blank">tuebix2015.titanpad.com/koelbel-desktop-auth</a>

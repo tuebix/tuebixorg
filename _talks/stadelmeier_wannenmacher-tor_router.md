@@ -32,4 +32,4 @@ Zuhörer können zum Ausprobieren ein WLAN-fähiges Gerät mitbringen.
 
 - <a href="https://openwrt.org" target="_blank">openwrt.org</a>
 - <a href="https://torproject.org" target="_blank">torproject.org</a>
-- pad: <a href="https://tuebix2015.titanpad.com/stadelmeier_wannenmacher-tor_router" target="_blank">tuebix2015.titanpad.com/stadelmeier_wannenmacher-tor_router</a>
+- pad: <a href="https://tuebix2015.titanpad.com/stadelmeier-wannenmacher-tor-router" target="_blank">tuebix2015.titanpad.com/stadelmeier-wannenmacher-tor-router</a>

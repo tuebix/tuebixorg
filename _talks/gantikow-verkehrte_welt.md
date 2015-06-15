@@ -49,4 +49,4 @@ Kein spezielles Vorwissen notwendig, generelles Interesse an Linux, freier Softw
 [3] <a href="http://www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood" target="_blank">www.linux-magazin.de/Online-Artikel/Effiziente-Verwaltung-grosser-Dateisysteme-mit-Robinhood</a><br />
 [4] <a href="http://www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux" target="_blank">www.linux-magazin.de/Online-Artikel/Leistungsfaehige-parallele-Dateisysteme-unter-Linux</a><br />
 [5] <a href="http://www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC" target="_blank">www.linux-magazin.de/Online-Artikel/Linux-im-High-Performance-Computing-HPC</a><br/>
-pad: <a href="https://tuebix2015.titanpad.com/gantikow-verkehrte_welt" target="_blank">tuebix2015.titanpad.com/gantikow-verkehrte_welt</a>
+pad: <a href="https://tuebix2015.titanpad.com/gantikow-verkehrte-welt" target="_blank">tuebix2015.titanpad.com/gantikow-verkehrte-welt</a>

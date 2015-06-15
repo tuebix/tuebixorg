@@ -23,4 +23,4 @@ grundlegender Umgang mit dem Webbrowser, Einsteiger
 ### Links
 
 - <a href="http://lug.berlin" target="_blank">lug.berlin</a>
-- pad: <a href="https://tuebix2015.titanpad.com/hofmann-lug_berlin" target="_blank">tuebix2015.titanpad.com/hofmann-lug_berlin</a>
+- pad: <a href="https://tuebix2015.titanpad.com/hofmann-lug-berlin" target="_blank">tuebix2015.titanpad.com/hofmann-lug-berlin</a>

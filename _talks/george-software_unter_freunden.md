@@ -28,4 +28,4 @@ Es bedarf engagierter Jugendlicher, die freie Software für ihre Altersgenossen 
 
 ### Links
 
-- pad: <a href="https://tuebix2015.titanpad.com/george-software_unter_freunden" target="_blank">tuebix2015.titanpad.com/george-software_unter_freunden</a>
+- pad: <a href="https://tuebix2015.titanpad.com/george-software-unter-freunden" target="_blank">tuebix2015.titanpad.com/george-software-unter-freunden</a>
