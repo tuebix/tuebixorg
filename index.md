@@ -6,11 +6,12 @@ layout: default
 
 ## Rückmeldung bitte!
 
-* <a href="https://tuebix2015.titanpad.com/tuebix-exit">Bitte Rueckmeldung zu Tuebix 2015 und Ideen fuer Tuebix 2016 ins Pad schreiben.</a>
+<a href="https://tuebix2015.titanpad.com/tuebix-exit">Bitte Rueckmeldung zu Tuebix 2015 und Ideen fuer Tuebix 2016 ins Pad schreiben.</a>
 
 ## Pads
 
-  * die Pads, die in jeder Unterseite als letzten unter "Links" aufgeführt sind, sind jetzt alle erreichbar. (<a href="http://help.titanpad.com/discussions/questions/48084-public-pads-not-accessible" target="_blank">Grund hier)</a><br/>
+Die Pads, die in jeder Unterseite als letzten unter "Links" aufgeführt sind, sind jetzt alle erreichbar.<br/>
+(<a href="http://help.titanpad.com/discussions/questions/48084-public-pads-not-accessible" target="_blank">Grund des bisherigen Fehlers hier</a>)<br/>
 
 ## TODO
 
@@ -19,7 +20,12 @@ wird hoffentlich in den nächsten N Tagen umgesetzt:
 * Folien der Programmbeiträge online stellen<br/>
   (bitte Folien an cfp@tuebix.org senden, wo sie noch fehlen: <a href="../downloads/">Downloads</a>
 * Tonspuren der Programmbeiträge schneiden und online stellen<br/>
-  (ggf. später auch "remastered"/entrauschte Version, zunächst aber Rohmaterial)
+  (später dann eventuell auch "remastered"/entrauschte Version, zunächst aber Rohmaterial)
+
+## Richtigstellung
+
+Tübix ist keineswegs der "1. Tübinger Linuxtag"!<br/>
+Mehr dazu unter  <a href="http://tuebingen.linux.de/old/" target="_blank">tuebingen.linux.de/old/</a>
 
 <br/> 
 
