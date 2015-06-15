@@ -8,10 +8,11 @@ layout: default
 
 <a href="https://tuebix2015.titanpad.com/tuebix-exit">Bitte Rueckmeldung zu Tuebix 2015 und Ideen fuer Tuebix 2016 ins Pad schreiben.</a>
 
-## Pads
+## Pads / Rückmeldung an Vortragende / Ergänzungen
 
 Die Pads, die in jeder Unterseite als letzten unter "Links" aufgeführt sind, sind jetzt alle erreichbar.<br/>
 (<a href="http://help.titanpad.com/discussions/questions/48084-public-pads-not-accessible" target="_blank">Grund des bisherigen Fehlers hier</a>)<br/>
+Die Pads können für Rückmeldung zum jeweils entsprechenden Vortrag/Workshop oder für Ergänzungen von allen genutzt werden.
 
 ## TODO
 
