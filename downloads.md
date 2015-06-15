@@ -33,16 +33,15 @@ Der Titel des Beitrags ist genau wie im Programm auf die jeweilige Unterseite de
 <tr><td></td><td><a class="talk"></a></td><td><a href="../programm/weissensel-fish">fish&nbsp;-&nbsp;Die&nbsp;"friendly&nbsp;interactive&nbsp;shell"</a></td><td>Jonas&nbsp;Weissensel</td></tr>
 <tr><td></td><td><a class="talk"></a></td><td><a href="../programm/genannt-sshkey_distribution">SSH&nbsp;Public&nbsp;Key&nbsp;Distribution&nbsp;-&nbsp;the&nbsp;smart&nbsp;way</a></td><td>Jonas&nbsp;Genannt</td></tr>
 <tr><td></td><td><a class="talk"></a></td><td><a href="../programm/kuestner_strohmaier-wueste_welle">Open&nbsp;Source&nbsp;Software&nbsp;beim&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle</a></td><td>Andreas&nbsp;Küstner,&nbsp;Friedrich&nbsp;Strohmaier</td></tr>
-<tr><td></td><td><a class="talk"></a></td><td><a href="../programm/klaeren-computermuseum">Das&nbsp;Computermuseum&nbsp;auf&nbsp;dem&nbsp;Sand</a></td><td>Prof.&nbsp;Dr.&nbsp;Herbert&nbsp;Klaeren</td></tr>
+<tr><td><a href="../downloads/tuebix.2015.klaeren-computermuseum.pdf">pdf</a></td><td><a class="talk"></a></td><td><a href="../programm/klaeren-computermuseum">Das&nbsp;Computermuseum&nbsp;auf&nbsp;dem&nbsp;Sand</a></td><td>Prof.&nbsp;Dr.&nbsp;Herbert&nbsp;Klaeren</td></tr>
 <tr><td></td><td><a class="talk"></a></td><td><a href="../programm/grimm-cpp_funktional">Funktionale&nbsp;Programmierung&nbsp;mit&nbsp;C++</a></td><td>Rainer&nbsp;Grimm</td></tr>
 <tr><td></td><td><a class="talk"></a></td><td><a href="../programm/schroeder-tex">TeX&nbsp;im&nbsp;3.&nbsp;Jahrtausend</a></td><td>Martin&nbsp;Schröder</td></tr>
-<tr><td></td><td><a class="talk"></a></td><td><a href="../programm/engelmann-lyx">Mit&nbsp;LyX&nbsp;Text&nbsp;verarbeiten</a></td><td>Wolfgang&nbsp;Engelmann</td></tr>
 <tr><td></td><td><a class="talk"></a></td><td><a href="../programm/witte-scilab_xcos">Modellbildung&nbsp;mit&nbsp;Scilab/Xcos&nbsp;mit&nbsp;Beispielen&nbsp;aus&nbsp;der&nbsp;Biorhythmik</a></td><td>Karl-Heinz&nbsp;Witte</td></tr>
 <tr><td><a href="../downloads/tuebix.2015.imme-latex_verein.pdf">pdf</a></td><td><a class="talk"></a></td><td><a href="../programm/imme-latex_verein">LaTeX&nbsp;für&nbsp;den&nbsp;Verein</a></td><td>Roland&nbsp;Imme</td></tr>
 <tr><td></td><td><a class="talk"></a></td><td><a href="../programm/hofmann-lug_berlin">Unter&nbsp;einem&nbsp;Dach:&nbsp;lug.berlin</a></td><td>Frank&nbsp;Hofmann</td></tr>
 <tr><td></td><td><a class="talk"></a></td><td><a href="../programm/pfeifle-pandoc">Dokumenten-KungFoo&nbsp;mit&nbsp;Pandoc,&nbsp;Markdown&nbsp;&&nbsp;Co.</a></td><td>Kurt&nbsp;Pfeifle</td></tr>
 <tr><td></td><td><a class="talk"></a></td><td><a href="../programm/dinges-blender">Einführung&nbsp;in&nbsp;die&nbsp;3D&nbsp;Software&nbsp;Blender</a></td><td>Thomas&nbsp;Dinges</td></tr>
-<tr><td></td><td><a class="talk"></a></td><td><a href="../programm/mundt-apt_install">apt&nbsp;install&nbsp;YOUR-NEIGHBORHOOD</a></td><td>Andreas&nbsp;B.&nbsp;Mundt</td></tr>
+<tr><td><a href="../downloads/tuebix.2015.mundt-apt_install.pdf">pdf</a></td><td><a class="talk"></a></td><td><a href="../programm/mundt-apt_install">apt&nbsp;install&nbsp;YOUR-NEIGHBORHOOD</a></td><td>Andreas&nbsp;B.&nbsp;Mundt</td></tr>
 <tr><td></td><td><a class="talk"></a></td><td><a href="../programm/pfeifle-pdfkungfoo">PDF-KungFoo&nbsp;mit&nbsp;Ghostscript&nbsp;&&nbsp;Co.</a></td><td>Kurt&nbsp;Pfeifle</td></tr>
 <tr><td><a href="../downloads/tuebix.2015.gantikow-elektroschrott.pdf">pdf</a></td><td><a class="talk"></a></td><td><a href="../programm/gantikow-elektroschrott">Phoenix&nbsp;statt&nbsp;Elektroschrott&nbsp;-&nbsp;Neues&nbsp;Leben&nbsp;für&nbsp;"alte"&nbsp;Mobilgeräte</a></td><td>Holger&nbsp;Gantikow</td></tr>
 <tr><td></td><td><a class="talk"></a></td><td><a href="../programm/koelbel-tails">Anonym&nbsp;im&nbsp;Internet&nbsp;bewegen&nbsp;mit&nbsp;Tails</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
@@ -71,6 +70,5 @@ Der Titel des Beitrags ist genau wie im Programm auf die jeweilige Unterseite de
 <tr><td></td><td><a class="work"></a></td><td><a href="../programm/koelbel-privacyidea">privacyIDEA&nbsp;-&nbsp;Zwei-Faktor-Authentisierung&nbsp;selber&nbsp;machen</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td></td><td><a class="work"></a></td><td><a href="../programm/zimmer-vim">Vim&nbsp;für&nbsp;Nicht-Mehr-Beginner&nbsp;und&nbsp;Noch-Nicht-Fortgeschrittene</a></td><td>Toni&nbsp;Zimmer</td></tr>
 <tr><td></td><td><a class="work"></a></td><td><a href="../programm/waelde-emacs">Anständiges&nbsp;Werkzeug:&nbsp;emacs</a></td><td>Erich&nbsp;Wälde</td></tr>
-<tr><td></td><td><a class="work"></a></td><td><a href="../programm/blechschmidt-python_schueler">Python-Programmierung&nbsp;für&nbsp;Schülerinnen&nbsp;und&nbsp;Schüler</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td><a href="../downloads/tuebix.2015.knopper-openscad.pdf">pdf</a></td><td><a class="work"></a></td><td><a href="../programm/knopper-openscad">3D-Modelle&nbsp;erstellen&nbsp;mit&nbsp;OpenSCAD</a></td><td>Prof.&nbsp;Dipl.-Ing.&nbsp;Klaus&nbsp;Knopper</td></tr>
 </table>
