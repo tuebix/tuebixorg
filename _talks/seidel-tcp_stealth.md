@@ -32,4 +32,4 @@ Der Vortrag stellt die Idee und Architektur hinter TCP Stealth vor und beinhalte
 - <a href="http://gnunet.org/knock" target="_blank">gnunet.org/knock</a>
 - <a href="http://gnunet.org/sites/default/files/ma_kirsch_2014_0.pdf" target="_blank">gnunet.org/sites/default/files/ma_kirsch_2014_0.pdf</a>
 - <a href="http://tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01" target="_blank">tools.ietf.org/html/draft-kirsch-ietf-tcp-stealth-01</a>
-- pad: <a href="https://tuebix2015.titanpad.com/seidel-tcp_stealth" target="_blank">tuebix2015.titanpad.com/seidel-tcp_stealth</a>
+- pad: <a href="https://tuebix2015.titanpad.com/seidel-tcp-stealth" target="_blank">tuebix2015.titanpad.com/seidel-tcp-stealth</a>

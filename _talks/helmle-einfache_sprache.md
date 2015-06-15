@@ -27,4 +27,4 @@ Ich stelle das Konzept Leichte Sprache anhand von einigen Beispielen vor.
 
 - <a href="https://de.wikipedia.org/wiki/Leichte_Sprache" target="_blank">de.wikipedia.org/wiki/Leichte_Sprache</a>
 - Mein Büro für Leichte Sprache: <a href="http://www.leicht-verstehen.de" target="_blank">leicht-verstehen.de</a>
-- pad: <a href="https://tuebix2015.titanpad.com/helmle-einfache_sprache" target="_blank">tuebix2015.titanpad.com/helmle-einfache_sprache</a>
+- pad: <a href="https://tuebix2015.titanpad.com/helmle-einfache-sprache" target="_blank">tuebix2015.titanpad.com/helmle-einfache-sprache</a>

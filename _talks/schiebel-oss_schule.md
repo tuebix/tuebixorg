@@ -15,4 +15,4 @@ Was man erleben kann, wenn man einem Lehrerkollegium und 1000 Schülern erklärt
 
 ### Links
 
-- pad: <a href="https://tuebix2015.titanpad.com/schiebel-oss_schule" target="_blank">tuebix2015.titanpad.com/schiebel-oss_schule</a>
+- pad: <a href="https://tuebix2015.titanpad.com/schiebel-oss-schule" target="_blank">tuebix2015.titanpad.com/schiebel-oss-schule</a>

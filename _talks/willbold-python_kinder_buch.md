@@ -17,4 +17,4 @@ Ich möchte daher ein Buchprojekt (CC BY-NC-SA) vorstellen, das sich an Kinder d
 
 ### Links
 
-- pad: <a href="https://tuebix2015.titanpad.com/willbold-python_kinder_buch" target="_blank">tuebix2015.titanpad.com/willbold-python_kinder_buch</a>
+- pad: <a href="https://tuebix2015.titanpad.com/willbold-python-kinder-buch" target="_blank">tuebix2015.titanpad.com/willbold-python-kinder-buch</a>

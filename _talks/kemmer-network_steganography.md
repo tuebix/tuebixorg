@@ -21,4 +21,4 @@ Grundlegendes Verständnis der Netzwerkprotokolle IP, UDP und TCP von Vorteil.
 ### Links
 
 - <a href="http://fkemmer.de/files/talks/2014_unfuck_netSteg.pdf" target="_blank">fkemmer.de/files/talks/2014_unfuck_netSteg.pdf</a>
-- pad: <a href="https://tuebix2015.titanpad.com/kemmer-network_steganography" target="_blank">tuebix2015.titanpad.com/kemmer-network_steganography</a>
+- pad: <a href="https://tuebix2015.titanpad.com/kemmer-network-steganography" target="_blank">tuebix2015.titanpad.com/kemmer-network-steganography</a>

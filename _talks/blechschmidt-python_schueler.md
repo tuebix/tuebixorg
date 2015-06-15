@@ -25,4 +25,4 @@ Wenn du nicht genau weißt, was dich in dem Workshop erwartet, oder wenn du sons
 
 ### Links
 
-- pad: <a href="https://tuebix2015.titanpad.com/blechschmidt-python_schueler" target="_blank">tuebix2015.titanpad.com/blechschmidt-python_schueler</a>
+- pad: <a href="https://tuebix2015.titanpad.com/blechschmidt-python-schueler" target="_blank">tuebix2015.titanpad.com/blechschmidt-python-schueler</a>

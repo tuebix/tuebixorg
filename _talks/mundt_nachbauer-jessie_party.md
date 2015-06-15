@@ -23,4 +23,4 @@ Per PXE, CD oder USB installieren wir Debian über einen Paketproxy. Verschieden
 ### Links
 
 - <a href="https://www.debian.org" target="_blank">www.debian.org</a>
-- pad: <a href="https://tuebix2015.titanpad.com/mundt_nachbauer-jessie_party" target="_blank">tuebix2015.titanpad.com/mundt_nachbauer-jessie_party</a>
+- pad: <a href="https://tuebix2015.titanpad.com/mundt-nachbauer-jessie-party" target="_blank">tuebix2015.titanpad.com/mundt-nachbauer-jessie-party</a>
