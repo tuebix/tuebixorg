@@ -26,7 +26,7 @@ Der Titel des Beitrags ist genau wie im Programm auf die jeweilige Unterseite de
 <tr><td></td><td><a class="talk"></a></td><td><a href="../programm/gietz-openldap">Einführung&nbsp;in&nbsp;OpenLDAP</a></td><td>Peter&nbsp;Gietz</td></tr>
 <tr><td></td><td><a class="talk"></a></td><td><a href="../programm/kockler-puppet2">Puppet&nbsp;II:&nbsp;Strukturierte&nbsp;Puppet-Umgebung</a></td><td>Torsten&nbsp;Kockler</td></tr>
 <tr><td></td><td><a class="talk"></a></td><td><a href="../programm/kemmer-network_steganography">Steganographic&nbsp;Communication&nbsp;using&nbsp;TCP&nbsp;Inter&nbsp;Burst&nbsp;Delays</a></td><td>Florian&nbsp;Kemmer</td></tr>
-<tr><td></td><td><a class="talk"></a></td><td><a href="../programm/behrla-lpic">Karrierechancen&nbsp;mit&nbsp;Open&nbsp;Source-Know-how&nbsp;und&nbsp;LPI-Zertifikat</a></td><td>Klaus&nbsp;Behrla</td></tr>
+<tr><td><a href="../downloads/tuebix.2015.behrla-lpic.pdf">pdf</a></td><td><a class="talk"></a></td><td><a href="../programm/behrla-lpic">Karrierechancen&nbsp;mit&nbsp;Open&nbsp;Source-Know-how&nbsp;und&nbsp;LPI-Zertifikat</a></td><td>Klaus&nbsp;Behrla</td></tr>
 <tr><td></td><td><a class="talk"></a></td><td><a href="../programm/hofmann-surfen">Schneller&nbsp;und&nbsp;sicherer&nbsp;Surfen&nbsp;im&nbsp;Internet</a></td><td>Frank&nbsp;Hofmann</td></tr>
 <tr><td><a href="../downloads/tuebix.2015.blechschmidt-wireshark.pdf">pdf</a></td><td><a class="talk"></a></td><td><a href="../programm/blechschmidt-wireshark">Netzwerksniffing&nbsp;mit&nbsp;Wireshark</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td></td><td><a class="talk"></a></td><td><a href="../programm/uebele-bitcoin">Bitcoin&nbsp;-&nbsp;Eine&nbsp;dezentrale&nbsp;Währung</a></td><td>Peter&nbsp;Uebele</td></tr>
