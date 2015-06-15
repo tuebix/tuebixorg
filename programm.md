@@ -2,7 +2,7 @@
 layout: page
 title: Programm
 permalink: /programm/
-weight: 
+weight: 30
 menu: 
 ---
 * <a href="../programm_legende">Legende</a>&nbsp;&nbsp;&nbsp;&nbsp;
