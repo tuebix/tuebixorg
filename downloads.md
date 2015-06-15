@@ -2,8 +2,8 @@
 layout: page
 title: Downloads
 permalink: /downloads/
-weight: 
-menu: 
+weight: 20
+menu: main
 ---
 
 Die Downloads sind (falls vorhanden) NUR auf dieser Seite hier in 1. Spalte verlinkt (z.B. "pdf")<br/>
