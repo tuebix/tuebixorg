@@ -67,7 +67,7 @@ Der Titel des Beitrags ist genau wie im Programm auf die jeweilige Unterseite de
 <tr><td></td><td><a class="work"></a></td><td><a href="../programm/krug-libreoffice">LibreOffice&nbsp;Overkill</a></td><td>Stefan&nbsp;Krug</td></tr>
 <tr><td></td><td><a class="work"></a></td><td><a href="../programm/graesing-x2go">X2Go</a></td><td>Heinz&nbsp;Graesing</td></tr>
 <tr><td></td><td><a class="work"></a></td><td><a href="../programm/nagel-latex">Einführung&nbsp;in&nbsp;Latex</a></td><td>Thorsten&nbsp;Nagel</td></tr>
-<tr><td></td><td><a class="work"></a></td><td><a href="../programm/koelbel-privacyidea">privacyIDEA&nbsp;-&nbsp;Zwei-Faktor-Authentisierung&nbsp;selber&nbsp;machen</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
+<tr><td><a href="../downloads/tuebix.2015.koelbel-privacyidea.pdf">pdf</a></td><td><a class="work"></a></td><td><a href="../programm/koelbel-privacyidea">privacyIDEA&nbsp;-&nbsp;Zwei-Faktor-Authentisierung&nbsp;selber&nbsp;machen</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td></td><td><a class="work"></a></td><td><a href="../programm/zimmer-vim">Vim&nbsp;für&nbsp;Nicht-Mehr-Beginner&nbsp;und&nbsp;Noch-Nicht-Fortgeschrittene</a></td><td>Toni&nbsp;Zimmer</td></tr>
 <tr><td></td><td><a class="work"></a></td><td><a href="../programm/waelde-emacs">Anständiges&nbsp;Werkzeug:&nbsp;emacs</a></td><td>Erich&nbsp;Wälde</td></tr>
 <tr><td><a href="../downloads/tuebix.2015.knopper-openscad.pdf">pdf</a></td><td><a class="work"></a></td><td><a href="../programm/knopper-openscad">3D-Modelle&nbsp;erstellen&nbsp;mit&nbsp;OpenSCAD</a></td><td>Prof.&nbsp;Dipl.-Ing.&nbsp;Klaus&nbsp;Knopper</td></tr>
