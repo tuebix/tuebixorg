@@ -61,7 +61,6 @@ Der Titel des Beitrags ist genau wie im Programm auf die jeweilige Unterseite de
 <tr><td><a href="../downloads/tuebix.2015.george-software_unter_freunden.pdf">pdf</a></td><td><a class="light"></a></td><td><a href="../programm/george-software_unter_freunden">Open&nbsp;Source&nbsp;ist&nbsp;Software&nbsp;unter&nbsp;Freunden</a></td><td>Dominik&nbsp;George</td></tr>
 <tr><td></td><td><a class="light"></a></td><td><a href="../programm/lugs-kurzvorstellungen">Linux&nbsp;User&nbsp;Groups&nbsp;und&nbsp;Co&nbsp;stellen&nbsp;sich&nbsp;vor</a></td><td>Linux User Groups und Co</td></tr>
 <tr><td></td><td><a class="work"></a></td><td><a href="../programm/schmidt_stockmayer-gentoo">Gentoo-Einführung</a></td><td>Mark&nbsp;Schmidt,&nbsp;Andreas&nbsp;Stockmayer</td></tr>
-<tr><td></td><td><a class="work"></a></td><td><a href="../programm/mundt_nachbauer-jessie_party">Debian&nbsp;GNU/Linux&nbsp;"Jessie"&nbsp;Install&nbsp;Party</a></td><td>Andreas&nbsp;Mundt,&nbsp;Florian&nbsp;Nachbauer</td></tr>
 <tr><td></td><td><a class="work"></a></td><td><a href="../programm/guckes-muttgpg2">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td></td><td><a class="work"></a></td><td><a href="../programm/hrenka-python">Einführung&nbsp;in&nbsp;SciPy&nbsp;und&nbsp;SymPy&nbsp;mit&nbsp;IPython</a></td><td>Peter&nbsp;Hrenka</td></tr>
 <tr><td><a href="../downloads/tuebix.2015.krug-libreoffice.pdf">pdf</a></td><td><a class="work"></a></td><td><a href="../programm/krug-libreoffice">LibreOffice&nbsp;Overkill</a></td><td>Stefan&nbsp;Krug</td></tr>
