@@ -15,7 +15,7 @@ Der Titel des Beitrags ist genau wie im Programm auf die jeweilige Unterseite de
 <tr><td></td><td><a class="talk"></a></td><td><a href="../programm/koenig-bash">Haralds&nbsp;kleine&nbsp;Helferlein&nbsp;die&nbsp;SHELL</a></td><td>Harald&nbsp;König</td></tr>
 <tr><td><a href="../downloads/tuebix.2015.schiebel-linuxmuster.pdf">pdf</a></td><td><a class="talk"></a></td><td><a href="../programm/schiebel-linuxmuster">Schulnetz&nbsp;-&nbsp;linuxmuster.net</a></td><td>Frank&nbsp;Schiebel</td></tr>
 <tr><td><a href="../downloads/tuebix.2015.seidel-tcp_stealth.pdf">pdf</a></td><td><a class="talk"></a></td><td><a href="../programm/seidel-tcp_stealth">TCP&nbsp;Stealth&nbsp;-&nbsp;Port&nbsp;Knocking&nbsp;neu&nbsp;aufgelegt</a></td><td>Dr.&nbsp;Udo&nbsp;Seidel</td></tr>
-<tr><td></td><td><a class="talk"></a></td><td><a href="../programm/reber-mirrorserver">Mirror&nbsp;Server&nbsp;Verwaltung</a></td><td>Adrian&nbsp;Reber</td></tr>
+<tr><td><a href="../downloads/tuebix.2015.reber-mirrorserver.pdf">pdf</a></td><td><a class="talk"></a></td><td><a href="../programm/reber-mirrorserver">Mirror&nbsp;Server&nbsp;Verwaltung</a></td><td>Adrian&nbsp;Reber</td></tr>
 <tr><td><a href="../downloads/tuebix.2015.knopper-knoppix_raspi.pdf">pdf</a></td><td><a class="talk"></a></td><td><a href="../programm/knopper-knoppix_raspi">Knoppix&nbsp;auf&nbsp;dem&nbsp;Raspberry&nbsp;Pi</a></td><td>Prof.&nbsp;Dipl.-Ing.&nbsp;Klaus&nbsp;Knopper</td></tr>
 <tr><td><a href="../downloads/tuebix.2015.gantikow-verkehrte_welt.pdf">pdf</a></td><td><a class="talk"></a></td><td><a href="../programm/gantikow-verkehrte_welt">Verkehrte&nbsp;Welt&nbsp;-&nbsp;Linux&nbsp;im&nbsp;High&nbsp;Performance&nbsp;Computing</a></td><td>Holger&nbsp;Gantikow</td></tr>
 <tr><td><a href="../downloads/tuebix.2015.flebbe-bigdata1.pdf">pdf</a></td><td><a class="talk"></a></td><td><a href="../programm/flebbe-bigdata1">Big&nbsp;Data&nbsp;in&nbsp;a&nbsp;Nutshell</a></td><td>Olaf&nbsp;Flebbe</td></tr>
@@ -64,7 +64,7 @@ Der Titel des Beitrags ist genau wie im Programm auf die jeweilige Unterseite de
 <tr><td></td><td><a class="work"></a></td><td><a href="../programm/mundt_nachbauer-jessie_party">Debian&nbsp;GNU/Linux&nbsp;"Jessie"&nbsp;Install&nbsp;Party</a></td><td>Andreas&nbsp;Mundt,&nbsp;Florian&nbsp;Nachbauer</td></tr>
 <tr><td></td><td><a class="work"></a></td><td><a href="../programm/guckes-muttgpg2">mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td></td><td><a class="work"></a></td><td><a href="../programm/hrenka-python">Einführung&nbsp;in&nbsp;SciPy&nbsp;und&nbsp;SymPy&nbsp;mit&nbsp;IPython</a></td><td>Peter&nbsp;Hrenka</td></tr>
-<tr><td></td><td><a class="work"></a></td><td><a href="../programm/krug-libreoffice">LibreOffice&nbsp;Overkill</a></td><td>Stefan&nbsp;Krug</td></tr>
+<tr><td><a href="../downloads/tuebix.2015.krug-libreoffice.pdf">pdf</a></td><td><a class="work"></a></td><td><a href="../programm/krug-libreoffice">LibreOffice&nbsp;Overkill</a></td><td>Stefan&nbsp;Krug</td></tr>
 <tr><td></td><td><a class="work"></a></td><td><a href="../programm/graesing-x2go">X2Go</a></td><td>Heinz&nbsp;Graesing</td></tr>
 <tr><td></td><td><a class="work"></a></td><td><a href="../programm/nagel-latex">Einführung&nbsp;in&nbsp;Latex</a></td><td>Thorsten&nbsp;Nagel</td></tr>
 <tr><td><a href="../downloads/tuebix.2015.koelbel-privacyidea.pdf">pdf</a></td><td><a class="work"></a></td><td><a href="../programm/koelbel-privacyidea">privacyIDEA&nbsp;-&nbsp;Zwei-Faktor-Authentisierung&nbsp;selber&nbsp;machen</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
