@@ -12,6 +12,20 @@ Der Titel des Beitrags ist genau wie im Programm auf die jeweilige Unterseite de
 
 Die Pads können für Rückmeldungen und Ergänzungen (von Vortragenden UND Besuchern) genutzt werden.
 
+Wer alles (inkl. git repository 1.5GB) herunterladen möchte:
+
+```
+git clone https://github.com/tuebix/tuebixorg.git
+```
+
+oder falls kein git vorhanden ist per HTTP-Download:<br/>
+<a href="https://github.com/tuebix/tuebixorg/archive/gh-pages.zip">github.com/tuebix/tuebixorg/archive/gh-pages.zip (ca. 750 MB)</a><br/>
+(dann gibt's aber keine Updates per "git pull")<br/>
+
+Die PDFs und Audiodateien (ogg) finden sich dann unter downloads/.
+
+<br/>
+
 <table>
 <tr><td><a href="http://tuebix2015.titanpad.com/brauner-lxc" target="_blank">pad</a></td><td><a href="../downloads/tuebix.2015.brauner-lxc.ogg">ogg</a></td><td></td><td><a class="talk"></a></td><td><a href="../programm/brauner-lxc">Operating-system-level&nbsp;virtualization</a></td><td>Christian&nbsp;Brauner</td></tr>
 <tr><td><a href="http://tuebix2015.titanpad.com/koenig-bash" target="_blank">pad</a></td><td><a href="../downloads/tuebix.2015.koenig-bash.ogg">ogg</a></td><td></td><td><a class="talk"></a></td><td><a href="../programm/koenig-bash">Haralds&nbsp;kleine&nbsp;Helferlein&nbsp;die&nbsp;SHELL</a></td><td>Harald&nbsp;König</td></tr>
