@@ -28,3 +28,7 @@ Auf der Kommandozeile tippen können ;-)
 ### Links
 
 - pad: <a href="https://tuebix2015.titanpad.com/koenig-bash" target="_blank">tuebix2015.titanpad.com/koenig-bash</a>
+
+### asciinema
+
+<script type="text/javascript" src="https://asciinema.org/a/22405.js" id="asciicast-22405" async></script>
