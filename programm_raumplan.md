@@ -3,7 +3,7 @@ layout: page
 title: Programm
 permalink: /programm_raumplan/
 weight: 10
-menu: main
+menu: 
 ---
 * <a href="../programm_legende">Legende</a>&nbsp;&nbsp;&nbsp;&nbsp;
 * <span style="font-weight: bold;">Raumplan&nbsp;&nbsp;&nbsp;&nbsp;</span>
