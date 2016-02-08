@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Downloads
+title: Downloads(2015)
 permalink: /downloads/
 weight: 20
 menu: main
@@ -20,7 +20,6 @@ git clone https://github.com/tuebix/tuebixorg.git
 
 oder falls kein git vorhanden ist per HTTP-Download:<br/>
 <a href="https://github.com/tuebix/tuebixorg/archive/gh-pages.zip">github.com/tuebix/tuebixorg/archive/gh-pages.zip (ca. 750 MB)</a><br/>
-(dann gibt's aber keine Updates per "git pull")<br/>
 
 Die PDFs und Audiodateien (ogg) finden sich dann unter downloads/.
 
