@@ -8,13 +8,15 @@ menu:
 
 # Organisationsteam T&Uuml;BIX 2015
 
-* Felix Bauer
 * Jonas Benn
-* Knut Franke
+* Christian Brauner
 * Holger Gantikow
 * Jan-Peter Hohloch
+* Justin Humm
+* Eva Mayer
 * Christoph Prokop
 * Matthias Reisenauer
+* Joachim Schiele
 * Gunnar Schmidt
 
 # Technische Umsetzung dieser Webseite
