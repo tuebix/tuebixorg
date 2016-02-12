@@ -6,7 +6,7 @@ weight:
 menu:
 ---
 
-# Organisationsteam T&Uuml;BIX 2015
+# Organisationsteam T&Uuml;BIX 2016
 
 * Jonas Benn
 * Christian Brauner
