@@ -2,8 +2,8 @@
 layout: page
 title: LPIC
 permalink: /lpic/
-weight: 
-menu: 
+weight: 47
+menu: main
 ---
 
 <!--
@@ -14,7 +14,7 @@ Zertifikate belegen Fachwissen - Sie dokumentieren Qualifikation und Know-how vo
 
 # LPIC-Prüfungen noch nicht bestätigt
 
-Bisher haben wir keine Bestätigung vom LPI, dass auch dieses Jahr wieder Prüfungen in Tübingen möglich sind.
+Bisher haben wir noch keine Bestätigung vom LPI, dass auch dieses Jahr wieder Prüfungen in Tübingen möglich sein werden.
 Sobald es hierzu Neuigkeiten gibt, werden diese hier bekannt gegeben.
 
 ![LPI-Essentials](../images/linuxessentials.png "LPI-Essentials-Logo")
