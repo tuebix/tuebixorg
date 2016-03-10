@@ -6,15 +6,23 @@ weight:
 menu: 
 ---
 
+<!--
 # Zertifiziertes Wissen
 
 Zertifikate belegen Fachwissen - Sie dokumentieren Qualifikation und Know-how vor Arbeitgebern oder Kunden und verbessern die Ein- und Aufstiegschancen. Das <a href="http://www.lpice.eu/de/home.html" target="_blank">Linux Professional Institute (LPI)</a> ist Zertifizierungspartner des Tübinger Linuxtags. Die Besucher können deshalb LPI Prüfungen zu stark vergünstigten Konditionen ablegen.
+-->
+
+# LPIC-Prüfungen noch nicht bestätigt
+
+Bisher haben wir keine Bestätigung vom LPI, dass auch dieses Jahr wieder Prüfungen in Tübingen möglich sind.
+Sobald es hierzu Neuigkeiten gibt, werden diese hier bekannt gegeben.
 
 ![LPI-Essentials](../images/linuxessentials.png "LPI-Essentials-Logo")
 ![LPIC-1-Logo](../images/lpic1.png "LPIC-1-Logo")
 ![LPIC-2-Logo](../images/lpic2.png "LPIC-2-Logo")
 ![LPIC-3-Logo](../images/lpic3.png "LPIC-3-Logo")
 
+<!--
 # LPI-Prüfungen
 
 <span style="font-weight: bold; color:#FF0000;">WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 9:40 bzw. 13:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.</span>
@@ -40,3 +48,4 @@ Details zu den Prüfungsversionen und den Inhalten sind unter den folgenden URLs
  *  <a href="http://www.lpi.org/certification/" target="_blank">lpi.org/certification/</a>
 
 Für weitere Fragen zu den LPI Prüfungen bitte per E-Mail direkt an das LPI wenden: <a href="mailto:lpievent@lpice.eu">event@lpice.eu</a>
+-->
