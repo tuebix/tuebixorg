@@ -2,7 +2,7 @@
 layout: page
 title: Kinder
 permalink: /kinder/
-weight: 35
+weight: 48
 menu: main
 ---
 
