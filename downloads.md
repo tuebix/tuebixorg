@@ -2,7 +2,7 @@
 layout: page
 title: Downloads(2015)
 permalink: /downloads/
-weight: 20
+weight: 70
 menu: main
 ---
 
