@@ -2,8 +2,7 @@
 layout: default
 ---
 
-{{ site.title }} ist ein <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a> und findet am Samstag, den 11. Juni 2016 in <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a> statt.<br/>
-Sobald es nähere Infos gibt (Call for Papers etc.) werden wir das hier bekannt geben. Vermutlich Anfang März...
+{{ site.title }} ist ein <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a> und findet am Samstag, den 11. Juni 2016 in <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a> statt.
 
 <br/> 
 ![Tux](./images/tux.png "Tux")
