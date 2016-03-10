@@ -22,7 +22,7 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 
 <h2><span><img height="36" width="36" src="../images/lightning.svg"></span> Lightning Talk</h2>
 
-  * Dauer: 5 min oder 10 min
+  * Dauer: 5 min
   * ein Kurzvortrag in einem Block von mehreren Kurzvorträgen
   * Themen, auf die du nur kurz aufmerksam machen möchtest
   * Kurzvorstellung von Tools/Konzepten/Projekten
