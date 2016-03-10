@@ -26,8 +26,10 @@ menu: main
 Du weißt einen Link, der hier gut dazupasst oder du hast einen Fehler gefunden?<br />
 Dann schreib bitte an [{{ site.email }}](mailto:{{ site.email }})
 
-<br/>
 <!--
+<br/>
+
+
 ### Backlinks
 
 * <a href="http://www.linux-magazin.de/NEWS/Tuebix-Programm-fuer-Linuxtag-in-Tuebingen-steht" target="_blank">Linux Magazin - News: Programm steht</a>
@@ -44,4 +46,5 @@ Dann schreib bitte an [{{ site.email }}](mailto:{{ site.email }})
 * <a href="http://www.lug-reutlingen.de/de-V.pl/Links" target="_blank">LUG Reutlingen</a>
 * <a href="http://www.lugv.at/tuebix-sucht-beitraege" target="_blank">LUG Voralberg</a>
 * <a href="http://tuebingen.linux.de/" target="_blank">LUG Tübingen</a>
+
 -->
