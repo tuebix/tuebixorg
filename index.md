@@ -11,12 +11,11 @@ Sobald es nähere Infos gibt (Call for Papers etc.) werden wir das hier bekannt 
 
 Tübix könnte etwas für dich sein, falls du:
 
-* ... Lust auf Austausch mit anderen hast
+* ... von anderen etwas dazulernen möchtest
+* ... anderen etwas zeigen oder beibringen möchtest
 * ... Experte / Profi / Veteran / Meister bist
 * ... Neuling / Einsteiger / Umsteiger / Interessent bist
 * ... nebenbei ein <a href="../programm/klaeren-computermuseum">Computermuseum</a> besuchen möchtest
-* ... von anderen etwas dazulernen möchtest
-* ... anderen etwas zeigen oder beibringen möchtest
 
 Der Eintritt ist frei. 
 
