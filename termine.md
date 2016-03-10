@@ -2,7 +2,7 @@
 layout: page
 title: Termine
 permalink: /termine/
-weight: 45
+weight: 60
 menu: main
 ---
 
