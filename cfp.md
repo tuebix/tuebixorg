@@ -41,7 +41,7 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 
 # Du möchtest einen Beitrag beisteuern?
 
-Toll! Dann füll rasch die [Anmeldung unter https://nixcloud.io/cfp](https://nixcloud.io/cfp) aus! 
+Toll! Dann füll rasch die Anmeldung unter <a href="https://nixcloud.io/cfp" target="_blank">https://nixcloud.io/cfp/</a> aus! 
 Wir haben viele kleine Räume und können somit einige Workshops anbieten. Falls dein Vortrag auch als Workshop möglich wäre, markiere das bitte entsprechend!
 
 <p style="text-align: right;"><a href="http://www.flaticon.com" target="_blank">Bildquelle: flaticon.com</a></p>
