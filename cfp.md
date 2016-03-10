@@ -3,8 +3,8 @@ layout: page
 title: Call for Papers
 permalink: /callforpapers/
 emailcfp: cfp@tuebix.org
-weight:
-menu:
+weight: 10
+menu: main
 ---
 
 Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brauchen wir DICH!
