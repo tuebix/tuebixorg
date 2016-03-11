@@ -33,8 +33,8 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 
   Je nach gewähltem Inhalt braucht es etwas mehr oder weniger "Vorarbeit" oder Hinführung zum Thema, such dir die passende Dauer für dein Vortragsthema aus: 30 oder 60 Minuten:
 
-  * 30 min Block (25 min Vortrag inkl. 5-10 min Fragen/Diskussion)
-  * 60 min Block (55 min Vortrag inkl. 10-20 min Fragen/Diskussion)
+  * 25 min Vortrag inkl. Fragen/Diskussion
+  * 55 min Vortrag inkl. Fragen/Diskussion
   * zwischen den Vorträgen ist 5 min Pause OHNE Programm um ggf. den Raum zu wechseln
   * ein Vortrag muss nicht zwingend (ausschließlich) mit Folien sein, gerne auch "Demos"
   * bring einen "Bonus-Teil" mit, falls nur wenige Fragen kommen sollten
