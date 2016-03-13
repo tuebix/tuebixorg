@@ -11,6 +11,8 @@ Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brau
 Hast Du Lust dein Wissen und deine Erfahrung zu teilen?
 Gerne kannst Du auch mehrere Themen einreichen und Beitr&auml;ge k&ouml;nnen natürlich auch als Team gehalten werden.
 
+<span style="font-weight: bold;">Der Call for Papers endet am 30. April!<br/></span>  
+
 Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 
 <h2><span><img height="36" width="36" src="../images/workshop.svg"></span> Workshop</h2>
