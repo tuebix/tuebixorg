@@ -6,13 +6,12 @@ weight:
 menu:
 ---
 
-Die Anmeldeliste wird täglich länger und übertrifft längst die Besucheranzahl mit der wir ursprünglich mal geplant hatten.
-Das ist sehr schöne ABER für ein gutes Gelingen des Tages benötigen wir deshalb noch etwas Unterstützung.<br/>
-Melden kann man sich als Helfer (bitte schnellstmöglich) über: <a href="mailto:info@tuebix.org?subject=Helfer%20Tuebix">info@tuebix.org</a>
+Pinguine sind Herdentiere und helfen einander. Das heißt: Ohne Dich geht es nicht! Aber zum Glück hast Du viele Möglichkeiten den TÜBIX mitzugestalten. Wenn Du Lust hast mit ein paar anderen netten Helfern ein paar Stunden anzupacken, übernimm doch eine Schicht im Catering. Bist du ein Organisationstalent? Dann können wir dich in der Programmunterstützung gebrauchen. Und falls du an deinen TÜBIX keine Lücke für eine Helferschicht hast, kannst du zum gute Gelingen des Tages vielleicht dadurch beisteuern, dass du einem Besucher von außerhalb ein Bett zur Verfügung stellst.
 
-Wir werden den aktuellen Stand (Bedarf und bereits besetzte Posten) hier ohne Namen aufführen:<br/>
+
+Melden kann man sich als Helfer (bitte schnellstmöglich) über: <a href="mailto:info@tuebix.org?subject=Helfer%20Tuebix">info@tuebix.org</a> (ÄNDERN!) Wir werden den aktuellen Stand (Bedarf und bereits besetzte Posten) hier ohne Namen aufführen:<br/>
 X heißt "es hat sich bereits jemand gemeldet - besetzt"<br/>
-O heißt "es besteht noch Bedarf - noch zu besetzen" <br/>
+O heißt "es besteht noch Bedarf - zu besetzen" <br/>
 
 ## Fotos
 
@@ -80,6 +79,10 @@ X 12:00 - 14:00 Kasse<br/>
 X 14:00 - 16:00 Kasse<br/>
 X 16:00 - 18:00 Kasse<br/>
 
+## Gästebett (Fr/Sa und Sa/So)
+Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Dann trag hier ein, wieviele Übernachtungen du ermöglichen könntest:
+--> jeh nach Bedarf reintun und vll 5 gleich am Anfang?
+
 ## So kann jeder helfen
 
 - Damit wir besser kalkulieren können, bitte <a href="../anmeldung/">anmelden</a>.
@@ -88,4 +91,3 @@ X 16:00 - 18:00 Kasse<br/>
 - Bitte bringt nicht nur 20er-Scheine mit, damit wir nicht ins Wechselgeld-Dilemma kommen: je mehr Euro-Münzen und je weniger Scheine Du dabei hast, desto besser.
 - Hilf Müll zu vermeiden bzw. gleich wegzuräumen, damit wir die Räumlichkeiten vielleicht 2016 wieder nutzen können.
 - Sei präsent: wenn es an irgendeiner Stelle Handlungsbedarf gibt, dann handle im Sinne der Veranstaltung!
-- Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Gib uns Bescheid <a href="mailto:info@tuebix.org?subject=Helfer%20Tuebix">info@tuebix.org</a> derzeitiger Stand: 7 Betten für 7 Nicht-Tübinger, also 0 Betten verfügbar (einfach melden bei Bedarf oder Angebot!)
