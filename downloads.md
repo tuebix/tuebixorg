@@ -12,13 +12,6 @@ Der Titel des Beitrags ist genau wie im Programm auf die jeweilige Unterseite de
 
 Die Pads können für Rückmeldungen und Ergänzungen (von Vortragenden UND Besuchern) genutzt werden.
 
-Wer alles (inkl. git repository 1.5GB) herunterladen möchte:
-
-```
-git clone https://github.com/tuebix/tuebixorg.git
-```
-
-oder falls kein git vorhanden ist per HTTP-Download:<br/>
 <a href="https://github.com/tuebix/tuebixorg/archive/gh-pages.zip">github.com/tuebix/tuebixorg/archive/gh-pages.zip (ca. 750 MB)</a><br/>
 
 Die PDFs und Audiodateien (ogg) finden sich dann unter downloads/.
