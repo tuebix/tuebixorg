@@ -6,28 +6,41 @@
     <start>2016-06-11</start>
     <end>2016-06-11</end>
     <days>1</days>
-    <release>1.20160412.1925</release>
+    <release>1.20160403.1040</release>
     <timeslot_duration>00:30</timeslot_duration>
   </conference>
-  <day date="2015-06-11" index="1">
+  <day date="2016-06-11" index="1">
   <room name="V1">
-<event id="brauner-lxc">
-<start>10:00</start>
-<duration>01:00</duration>
+
+<event id="tuebix-init">
+<start>09:30</start>
+<duration>00:15</duration>
 <room>V1</room>
-<title>Test</title>
-<type>talk</type>
+<title>TÜBIX: init</title>
+<type>talk2</type>
 <description>
-
-Test
-
+* Begrüßung
+* Infos zum Ablauf des Tages
+* Änderungen in letzter Minute
+* Fragen?
 </description>
-<links>
-
-- <link href="https://en.wikipedia.org/wiki/Operating-system-level_virtualization" >en.wikipedia.org/wiki/Operating-system-level_virtualization</link>
-</links>
-<persons><person id="brauner">Christian Brauner</person></persons>
+<persons><person id="tuebix">TÜBIX Orga-Team</person></persons>
 </event>
+
+<event id="tuebix-exit">
+<start>18:00</start>
+<duration>00:15</duration>
+<room>V1</room>
+<title>TÜBIX: exit</title>
+<type>talk2</type>
+<description>
+* Abschluss
+* Verlosung!
+* Aublick TüBIX 2017
+</description>
+<persons><person id="tuebix">TÜBIX Orga-Team</person></persons>
+</event>
+
 </room>
-</day>
+  </day>
 </schedule>
