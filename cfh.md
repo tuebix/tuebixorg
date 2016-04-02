@@ -89,5 +89,5 @@ Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Dann trag hier ein
 - Beachte die "Tips for Attending a Linux Event":
   <br/><a href="http://nnc3.com/LJ2013/LJ/208/11077.html#N0x20df9f0.0x21cdcd8" target="_blank">nnc3.com/LJ2013/LJ/208/11077.html#N0x20df9f0.0x21cdcd8</a>
 - Bitte bringt nicht nur 20er-Scheine mit, damit wir nicht ins Wechselgeld-Dilemma kommen: je mehr Euro-Münzen und je weniger Scheine Du dabei hast, desto besser.
-- Hilf Müll zu vermeiden bzw. gleich wegzuräumen, damit wir die Räumlichkeiten vielleicht 2016 wieder nutzen können.
+- Hilf Müll zu vermeiden bzw. gleich wegzuräumen, damit wir die Räumlichkeiten vielleicht 2017 wieder nutzen können.
 - Sei präsent: wenn es an irgendeiner Stelle Handlungsbedarf gibt, dann handle im Sinne der Veranstaltung!
