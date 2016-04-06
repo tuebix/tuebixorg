@@ -6,7 +6,7 @@ weight:
 menu:
 ---
 
-Pinguine sind Herdentiere und helfen einander. Das heißt: Ohne Dich geht es nicht! Aber zum Glück hast Du viele Möglichkeiten den TÜBIX mitzugestalten. Wenn Du Lust hast mit ein paar anderen netten Helfern ein paar Stunden anzupacken, übernimm doch eine Schicht im Catering. Bist du ein Organisationstalent? Dann können wir dich in der Programmunterstützung gebrauchen. Und falls du an deinen TÜBIX keine Lücke für eine Helferschicht hast, kannst du zum gute Gelingen des Tages vielleicht dadurch beisteuern, dass du einem Besucher von außerhalb ein Bett zur Verfügung stellst.
+Pinguine sind Herdentiere und helfen einander. Das heißt: Ohne Dich geht es nicht! Aber zum Glück hast Du viele Möglichkeiten den TÜBIX mitzugestalten. Wenn Du Lust hast mit ein paar anderen netten Helfern ein paar Stunden anzupacken, übernimm doch eine Schicht im Catering. Bist du ein Organisationstalent? Dann können wir dich in der Programmunterstützung gebrauchen. Und falls du an deinem TÜBIX keine Lücke für eine Helferschicht hast, kannst du zum guten Gelingen des Tages vielleicht dadurch beisteuern, dass du einem Besucher von außerhalb ein Bett zur Verfügung stellst.
 
 
 Melden kann man sich als Helfer (bitte schnellstmöglich) über: <a href="mailto:info@tuebix.org?subject=Helfer%20Tuebix">info@tuebix.org</a> (ÄNDERN!) Wir werden den aktuellen Stand (Bedarf und bereits besetzte Posten) hier ohne Namen aufführen:<br/>
@@ -23,7 +23,7 @@ O O 19:00 - 20:00 Grillen<br/>
 
 ## Pizza (je 1h, 5 Personen) 
 
-benötigt etwas "Einarbeitung" daher wäre es toll, wenn Du dich gleich für zwei Schichten bereit erklären könntest
+benötigt etwas "Einarbeitung"; daher wäre es toll, wenn Du dich gleich für zwei Schichten bereit erklären könntest
 
 O O O O O 10:00-11:00 Pizza (Aufbau)<br/>
 O O O O O 11:00-12:00 Pizza<br/>
@@ -34,10 +34,10 @@ O O O O O 15:00-16:00 Pizza<br/>
 
 ## Programmunterstützung (ganzer Tag, 2 Personen als Team)
 
-Wir suchen pro Raum (V1-4, W1-3) zwei Leute, die bereit sind, den Ablauf innerhalb eines Raums über den Tag hinweg zu unterstützen.
-Dies beinhaltet vor allem Unterstützung der Redner während der Wechsel zwischen den Vorträgen, Beamer an Laptop anschließen, Sitzplatzdefragmentierung anregen, regelmäßiges Lüften...
+Wir suchen pro Raum (V1-4, W1-3) zwei Leute, die bereit sind, den Ablauf innerhalb eines Raums über den Tag hinweg zu betreuen.
+Dies beinhaltet vor allem Unterstützung der Redner während der Wechsel zwischen den Vorträgen, Beamer und Laptop zu verbinden, Sitzplatzdefragmentierung anzuregen, regelmäßiges Lüften...
 Dies soll keineswegs bedeuten, dass man jeden Vortrag in diesem Raum hören muss!
-Wir nehmen pro Raum 2 Personen in die Liste und diese können sich dann untereinander absprechen, damit nicht jeder bei jedem Wechsel "vor Ort" sein muss.
+Wir nehmen pro Raum 2 Personen in die Liste und diese können sich dann absprechen, damit nicht jeder bei jedem Wechsel "vor Ort" sein muss.
 Sehr gerne kann man sich auch direkt als Gruppe für einen Raum anmelden und sich dann untereinander organisieren.
 
 O O Raumsupport V1<br/>
@@ -65,9 +65,8 @@ O O 20:00 - 21:00 Getränkeausgabe <br/>
 
 ## Kuchen mitbringen
 
-Bring einen Kuchen mit, der dann kostenfrei gegen 14:00 allen zur Verfügung steht:
-damit jeder ein Stück abbekommt, wären 16 Kuchen (mit je 12 Stück) gut ;)<br/>
-Wir können den Kuchen im Kühlwagen aufbewahren, dann am besten eine Tortenhaube mitbringen.
+Bring einen Kuchen mit, der dann kostenfrei gegen 14:00 allen zur Verfügung steht.<br/>
+Wir können den Kuchen im Kühlwagen aufbewahren, bring dafür am besten eine Tortenhaube mit.
 
 O O O O O O O O O O O O O O O O
 
@@ -84,8 +83,9 @@ Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Dann melde dich be
 O O O O O
 
 ## Fotos
+Fotografen, die den Tag nebenbei etwas dokumentieren
 
-O O O O Fotografen, die den Tag nebenbei etwas dokumentieren<br/>
+O O O O 
 
 ## So kann jeder helfen
 
