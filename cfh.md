@@ -83,7 +83,7 @@ Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Dann melde dich be
 O O O O O
 
 ## Fotos
-Fotografen, die den Tag nebenbei etwas dokumentieren
+Du willst den Tag für die Nachwelt festhalten? Die Chance bekommst du als Fotograf
 
 O O O O 
 
