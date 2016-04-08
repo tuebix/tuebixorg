@@ -29,8 +29,8 @@ Die Prüfungen dauern ca. zwei Stunden inklusive Vorbereitung. Die aktuellen ver
 Die Teilnehmer müssen vor Beginn der Prüfung einen gültigen Lichtbildausweis und eine gültige LPI-Identifikationsnummer vorlegen. Die LPI-Identifikationsnummer wird online unter der folgenden URL beantragt: <a href="https://cs.lpi.org/caf/Xamman/register" target="_blank">cs.lpi.org/caf/Xamman/register </a>.
 Aufgrund der begrenzten Anzahl verfügbarer Plätze für die LPI-Prüfungen empfehlen wir, sich vorher dafür anzumelden. Das Anmeldeformular des LPI befindet sich unter <a href="https://lpievent.lpice.eu" target="_blank">lpievent.lpice.eu</a> .
 
-Die Prüfungen finden am Samstag, den 11.06.16 jeweils um 12:00 Uhr und 14:00 Uhr statt. Treffpunkt für alle Teilnehmer ist jeweils 15 Minuten vor dem Starttermin im Prüfungsraum.
-<span style="font-weight: bold; color:#FF0000;">WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 11:40 bzw. 13:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.<br/>
+Die Prüfungen finden am Samstag, den 11.06.16 jeweils um 12:00 Uhr und 14:00 Uhr statt.
+<br/><span style="font-weight: bold; color:#FF0000;">WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 11:40 bzw. 13:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.<br/>
 
 Details zu den Prüfungsversionen und den Inhalten sind unter den folgenden URLs nachzulesen:
 
