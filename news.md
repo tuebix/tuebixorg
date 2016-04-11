@@ -18,5 +18,5 @@ Wir werden nicht mehr als 6 Mails im Jahr schreiben:
 5. Mail: Downloads von Folien und Tonspuren sind online
 6. Mail: "reserved for future use", damit wir unser Versprechen nicht brechen müssen ;)
 
-Die Anmeldung beim mailman ist hier zu finden:
+Die Anmeldung beim mailman ist hier zu finden:<br/>
 <a href="https://www.fsi.uni-tuebingen.de/mailman/listinfo/tuebix-news" target="_blank">https://www.fsi.uni-tuebingen.de/mailman/listinfo/tuebix-news</a>
