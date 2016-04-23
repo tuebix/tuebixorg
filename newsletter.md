@@ -1,7 +1,7 @@
 ---
 layout: page
-title: News
-permalink: /news/
+title: Newsletter
+permalink: /newsletter/
 weight: 46
 menu: 
 ---
