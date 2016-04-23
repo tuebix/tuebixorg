@@ -11,7 +11,7 @@ Um auf dem Laufenden zu bleiben (ohne tuebix.org aufrufen zu müssen) gibt es ei
 Abonennten der Liste können NICHT posten, d.h. signal-to-noise ratio sollte recht gut sein.<br/>
 Wir werden nicht mehr als 6 Mails im Jahr schreiben:
 
-1. Mail: Terminbekanntgabe sobald der nächste Termin steht
+1. Mail: Der nächste TüBIX-Termin steht
 2. Mail: Call for Papers ist eröffnet
 3. Mail: Programm steht fest und Call for Helpers ist eröffnet
 4. Mail: Infos kurz vor knapp (1-2 Tage vor TüBIX)
