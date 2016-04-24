@@ -3,7 +3,7 @@ layout: page
 title: Termine
 permalink: /termine/
 weight: 60
-menu: main
+menu: 
 ---
 
 # einmalige "Spezial"-Termine
