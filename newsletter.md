@@ -2,7 +2,7 @@
 layout: page
 title: Newsletter
 permalink: /newsletter/
-weight: 46
+weight: 20
 menu: main
 ---
 
