@@ -7,17 +7,22 @@ weight: 10
 menu: 
 ---
 
+
+<!--
 Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brauchen wir DICH!
 Hast Du Lust dein Wissen und deine Erfahrung zu teilen?
 Gerne kannst Du auch mehrere Themen einreichen und Beitr&auml;ge k&ouml;nnen natürlich auch als Team gehalten werden.
-
+-->
 <span style="font-weight: bold;">Der Call for Papers ist vorbei seit dem 30. April!<br/></span>  
 
 Danke für die zahlreichen Einreichungen!<br/>
 Wir sind jetzt dabei ein schönes Programm zusammezustellen.<br/>
 Sobald es fertig ist geben wir das über den <a href="http://www.tuebix.org/newsletter">Newsletter</a> bekannt.
-Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
+
+
 <!--
+Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
+
 <h2><span><img height="36" width="36" src="../images/workshop.svg"></span> Workshop</h2>
 
   * Dauer: 120 min
