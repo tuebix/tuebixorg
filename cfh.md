@@ -9,13 +9,13 @@ menu:
 Pinguine sind Herdentiere und helfen einander. Das heißt: Ohne Dich geht es nicht! Aber zum Glück hast Du viele Möglichkeiten den TÜBIX mitzugestalten. Wenn Du Lust hast mit ein paar anderen netten Helfern ein paar Stunden anzupacken, übernimm doch eine Schicht im Catering. Bist du ein Organisationstalent? Dann können wir dich in der Programmunterstützung gebrauchen. Und falls du an deinem TÜBIX keine Lücke für eine Helferschicht hast, kannst du zum guten Gelingen des Tages vielleicht dadurch beisteuern, dass du einem Besucher von außerhalb ein Bett zur Verfügung stellst.
 
 
-Melden kann man sich als Helfer (bitte schnellstmöglich mit Angabe der gewünschten Position) über: <a href="mailto:cfh@tuebix.org?subject=Helfer%20Tuebix">cfh@tuebix.org</a>. Wir werden den aktuellen Stand (Bedarf und bereits besetzte Posten) hier ohne Namen aufführen:<br/>
+Melden kann man sich als Helfer (bitte schnellstmöglich mit Angabe der gewünschten Position) über: <a href="mailto:helfer2016@tuebix.org?subject=Helfer%20Tuebix">helfer2016@tuebix.org</a>. Wir werden den aktuellen Stand (Bedarf und bereits besetzte Posten) hier ohne Namen aufführen:<br/>
 X heißt "es hat sich bereits jemand gemeldet - besetzt"<br/>
 O heißt "es besteht noch Bedarf - zu besetzen" <br/>
 
 ## Grill (je 1h, 2 Personen)
 
-O O 15:00 - 16:00 Grillen<br/>
+O O 15:00 - 16:00 Grillen<br/>f
 O O 16:00 - 17:00 Grillen<br/>
 O O 17:00 - 18:00 Grillen<br/>
 O O 18:00 - 19:00 Grillen<br/>
@@ -89,7 +89,7 @@ O O O O
 
 ## So kann jeder helfen
 
-- Damit wir besser kalkulieren können, bitte <a href="../anmeldung/">anmelden</a>.
+- Damit wir besser kalkulieren können, bitte <a href="mailto:anmeldung2016@tuebix.org?subject=Anmeldung%20Tuebix">anmelden</a>.
 - Bitte bringt nicht nur 20er-Scheine mit, damit wir nicht ins Wechselgeld-Dilemma kommen: je mehr Euro-Münzen und je weniger Scheine Du dabei hast, desto besser.
 - Hilf Müll zu vermeiden bzw. gleich wegzuräumen, damit wir die Räumlichkeiten vielleicht 2017 wieder nutzen können.
 - Sei präsent: wenn es an irgendeiner Stelle Handlungsbedarf gibt, dann handle im Sinne der Veranstaltung!
