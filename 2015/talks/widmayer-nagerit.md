@@ -7,7 +7,7 @@ menu:
 ---
 ## Nager&nbsp;IT&nbsp;-&nbsp;Die&nbsp;Faire&nbsp;Computermaus
 
-### <img height = "32" src="../../images/lightning.svg"> 13:10 bis 13:20 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:10 bis 13:20 in Raum V3
 
 ### Karin&nbsp;Widmayer
 

@@ -7,7 +7,7 @@ menu:
 ---
 ## Bitcoin&nbsp;-&nbsp;Eine&nbsp;dezentrale&nbsp;Währung
 
-### <img height = "32" src="../../images/talk.svg"> 10:00 bis 10:30 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:30 in Raum V3
 
 ### Peter&nbsp;Uebele
 

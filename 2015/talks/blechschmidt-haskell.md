@@ -7,7 +7,7 @@ menu:
 ---
 ## Haskell,&nbsp;eine&nbsp;rein&nbsp;funktionale&nbsp;Programmiersprache
 
-### <img height = "32" src="../../images/lightning.svg"> 12:00 bis 12:10 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:00 bis 12:10 in Raum V3
 
 ### Ingo&nbsp;Blechschmidt
 

@@ -7,7 +7,7 @@ menu:
 ---
 ## Knoppix&nbsp;auf&nbsp;dem&nbsp;Raspberry&nbsp;Pi
 
-### <img height = "32" src="../../images/talk.svg"> 14:00 bis 15:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V1
 
 ### Prof.&nbsp;Dipl.-Ing.&nbsp;Klaus&nbsp;Knopper
 

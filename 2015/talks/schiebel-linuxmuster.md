@@ -7,7 +7,7 @@ menu:
 ---
 ## Schulnetz&nbsp;-&nbsp;linuxmuster.net
 
-### <img height = "32" src="../../images/talk.svg"> 12:00 bis 13:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V1
 
 ### Frank&nbsp;Schiebel
 

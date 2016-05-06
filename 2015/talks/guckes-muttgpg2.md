@@ -7,7 +7,7 @@ menu:
 ---
 ## mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email
 
-### <img height = "32" src="../../images/workshop.svg"> 14:00 bis 16:00 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W1
 
 ### Sven&nbsp;Guckes
 

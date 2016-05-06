@@ -7,7 +7,7 @@ menu:
 ---
 ## Ruby&nbsp;als&nbsp;Sed-&nbsp;und&nbsp;Awk-Ersatz
 
-### <img height = "32" src="../../images/lightning.svg"> 13:20 bis 13:30 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:20 bis 13:30 in Raum V3
 
 ### Knut&nbsp;Franke
 

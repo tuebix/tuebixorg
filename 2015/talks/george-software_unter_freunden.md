@@ -7,7 +7,7 @@ menu:
 ---
 ## Open&nbsp;Source&nbsp;ist&nbsp;Software&nbsp;unter&nbsp;Freunden
 
-### <img height = "32" src="../../images/lightning.svg"> 13:50 bis 14:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:50 bis 14:00 in Raum V3
 
 ### Dominik&nbsp;George
 

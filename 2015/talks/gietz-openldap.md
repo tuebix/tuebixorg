@@ -8,7 +8,7 @@ menu:
 
 ## Einführung&nbsp;in&nbsp;LDAP&nbsp;und&nbsp;OpenLDAP
 
-### <img height = "32" src="../../images/talk.svg"> 13:00 bis 14:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 14:00 in Raum V2
 
 ### Peter&nbsp;Gietz
 

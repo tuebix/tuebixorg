@@ -7,7 +7,7 @@ menu:
 ---
 ## TCP&nbsp;Stealth&nbsp;-&nbsp;Port&nbsp;Knocking&nbsp;neu&nbsp;aufgelegt
 
-### <img height = "32" src="../../images/talk.svg"> 13:00 bis 13:30 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 in Raum V1
 
 ### Dr.&nbsp;Udo&nbsp;Seidel
 

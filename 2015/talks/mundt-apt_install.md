@@ -7,7 +7,7 @@ menu:
 ---
 ## apt&nbsp;install&nbsp;YOUR-NEIGHBORHOOD
 
-### <img height = "32" src="../../images/talk.svg"> 15:00 bis 16:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V4
 
 ### Andreas&nbsp;B.&nbsp;Mundt
 

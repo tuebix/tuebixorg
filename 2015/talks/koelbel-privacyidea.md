@@ -7,7 +7,7 @@ menu:
 ---
 ## privacyIDEA&nbsp;-&nbsp;Zwei-Faktor-Authentisierung&nbsp;selber&nbsp;machen
 
-### <img height = "32" src="../../images/workshop.svg"> 16:00 bis 18:00 in Raum W2
+### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W2
 
 ### Cornelius&nbsp;Kölbel
 

@@ -7,7 +7,7 @@ menu:
 ---
 ## Funktionale&nbsp;Programmierung&nbsp;mit&nbsp;C++
 
-### <img height = "32" src="../../images/talk.svg"> 17:00 bis 18:00 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V3
 
 ### Rainer&nbsp;Grimm
 

@@ -7,7 +7,7 @@ menu:
 ---
 ## Was&nbsp;ist&nbsp;NixOS?
 
-### <img height = "32" src="../../images/talk.svg"> 10:00 bis 11:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V2
 
 ### Paul&nbsp;Seitz
 

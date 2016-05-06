@@ -7,7 +7,7 @@ menu:
 ---
 ## Prisirah&nbsp;-&nbsp;digitaler&nbsp;Bilderrahmen&nbsp;für&nbsp;Familie&nbsp;und&nbsp;Freunde
 
-### <img height = "32" src="../../images/lightning.svg"> 11:40 bis 11:50 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 11:40 bis 11:50 in Raum V3
 
 ### Jens&nbsp;Thiele
 

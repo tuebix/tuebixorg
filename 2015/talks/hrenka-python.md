@@ -8,7 +8,7 @@ menu:
 
 ## Einführung&nbsp;in&nbsp;SciPy&nbsp;und&nbsp;SymPy&nbsp;mit&nbsp;IPython
 
-### <img height = "32" src="../../images/workshop.svg"> 16:00 bis 18:00 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W1
 
 ### Peter&nbsp;Hrenka
 

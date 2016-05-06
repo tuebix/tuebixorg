@@ -7,7 +7,7 @@ menu:
 ---
 ## Wikipedia&nbsp;visualisieren
 
-### <img height = "32" src="../../images/talk.svg"> 13:30 bis 13:40 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 13:40 in Raum V3
 
 ### Justin&nbsp;Humm
 

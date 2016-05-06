@@ -7,7 +7,7 @@ menu:
 ---
 ## Verkehrte&nbsp;Welt&nbsp;-&nbsp;Linux&nbsp;im&nbsp;High&nbsp;Performance&nbsp;Computing
 
-### <img height = "32" src="../../images/talk.svg"> 15:00 bis 16:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V1
 
 ### Holger&nbsp;Gantikow
 

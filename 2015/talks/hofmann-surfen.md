@@ -7,7 +7,7 @@ menu:
 ---
 ## Schneller&nbsp;und&nbsp;sicherer&nbsp;Surfen&nbsp;im&nbsp;Internet
 
-### <img height = "32" src="../../images/talk.svg"> 16:30 bis 17:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 17:00 in Raum V2
 
 ### Frank&nbsp;Hofmann
 

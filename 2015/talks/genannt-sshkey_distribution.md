@@ -7,7 +7,7 @@ menu:
 ---
 ## SSH&nbsp;Public&nbsp;Key&nbsp;Distribution&nbsp;-&nbsp;the&nbsp;smart&nbsp;way
 
-### <img height = "32" src="../../images/talk.svg"> 11:00 bis 11:30 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:30 in Raum V3
 
 ### Jonas&nbsp;Genannt
 

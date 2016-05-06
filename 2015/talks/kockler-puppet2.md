@@ -7,7 +7,7 @@ menu:
 ---
 ## Puppet&nbsp;II:&nbsp;Strukturierte&nbsp;Puppet-Umgebung
 
-### <img height = "32" src="../../images/talk.svg"> 14:00 bis 15:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V2
 
 ### Torsten&nbsp;Kockler
 

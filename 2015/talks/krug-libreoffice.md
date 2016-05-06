@@ -7,7 +7,7 @@ menu:
 ---
 ## LibreOffice&nbsp;Overkill
 
-### <img height = "32" src="../../images/workshop.svg"> 10:00 bis 12:00 in Raum W2
+### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W2
 
 ### Stefan&nbsp;Krug
 

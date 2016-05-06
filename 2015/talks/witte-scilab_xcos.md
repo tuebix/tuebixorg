@@ -7,7 +7,7 @@ menu:
 ---
 ## Modellbildung&nbsp;mit&nbsp;Scilab/Xcos&nbsp;mit&nbsp;Beispielen&nbsp;aus&nbsp;der&nbsp;Biorhythmik
 
-### <img height = "32" src="../../images/talk.svg"> 11:30 bis 12:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 11:30 bis 12:00 in Raum V4
 
 ### Karl-Heinz&nbsp;Witte
 

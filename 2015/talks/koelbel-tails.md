@@ -8,7 +8,7 @@ menu:
 
 ## "Watt&nbsp;-&nbsp;wer&nbsp;bist&nbsp;Du&nbsp;denn?" Anonym&nbsp;im&nbsp;Internet&nbsp;bewegen&nbsp;mit&nbsp;Tails
 
-### <img height = "32" src="../../images/talk.svg"> 12:00 bis 13:00 in Raum LPIC 
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum LPIC 
 
 ### Cornelius&nbsp;Kölbel
 
