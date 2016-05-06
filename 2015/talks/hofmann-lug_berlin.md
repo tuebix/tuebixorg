@@ -7,7 +7,7 @@ menu:
 ---
 ## Unter&nbsp;einem&nbsp;Dach:&nbsp;lug.berlin
 
-### <img height = "32" src="../../images/talk.svg"> 12:30 bis 13:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:00 in Raum V4
 
 ### Frank&nbsp;Hofmann
 

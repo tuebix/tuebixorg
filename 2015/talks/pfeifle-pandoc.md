@@ -7,7 +7,7 @@ menu:
 ---
 ## Dokumenten-KungFoo mit&nbsp;Pandoc,&nbsp;Markdown&nbsp;&&nbsp;Co.
 
-### <img height = "32" src="../../images/talk.svg"> 13:00 bis 14:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 14:00 in Raum V4
 
 ### Kurt&nbsp;Pfeifle&nbsp;
 

@@ -7,7 +7,7 @@ menu:
 ---
 ## Sandstorm,&nbsp;eine&nbsp;einfache&nbsp;Plattform&nbsp;für&nbsp;private&nbsp;Cloud-Server
 
-### <img height = "32" src="../../images/lightning.svg"> 12:30 bis 12:40 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:30 bis 12:40 in Raum V3
 
 ### Ingo&nbsp;Blechschmidt
 

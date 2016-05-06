@@ -7,7 +7,7 @@ menu:
 ---
 ## Einführung&nbsp;in&nbsp;die&nbsp;3D&nbsp;Software&nbsp;Blender
 
-### <img height = "32" src="../../images/talk.svg"> 14:00 bis 15:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V4
 
 ### Thomas&nbsp;Dinges
 

@@ -7,7 +7,7 @@ menu:
 ---
 ## Haralds&nbsp;kleine&nbsp;Helferlein:&nbsp;die&nbsp;Shell
 
-### <img height = "32" src="../../images/talk.svg"> 11:00 bis 12:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V1
 
 ### Harald&nbsp;König
 

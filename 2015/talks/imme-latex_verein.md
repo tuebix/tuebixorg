@@ -7,7 +7,7 @@ menu:
 ---
 ## LaTeX&nbsp;für&nbsp;den&nbsp;Verein
 
-### <img height = "32" src="../../images/talk.svg"> 12:00 bis 12:30 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:30 in Raum V4
 
 ### Roland&nbsp;Imme
 

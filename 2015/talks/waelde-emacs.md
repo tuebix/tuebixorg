@@ -7,7 +7,7 @@ menu:
 ---
 ## Anständiges&nbsp;Werkzeug:&nbsp;emacs
 
-### <img height = "32" src="../../images/workshop.svg"> 12:00 bis 14:00 in Raum W3
+### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 14:00 in Raum W3
 
 ### Erich&nbsp;Wälde
 

@@ -7,11 +7,11 @@ menu:
 ---
 ## Das&nbsp;Tübinger&nbsp;80cm-Teleskop
 
-### <img height = "32" src="../../images/talk.svg"> 18:30 bis 19:00 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 18:30 bis 19:00 im Observatorium
 
 und direkt im Anschluss nochmal:
 
-### <img height = "32" src="../../images/talk.svg"> 19:00 bis 19:30 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 19:00 bis 19:30 im Observatorium
 
 ### Ruth&nbsp;Gottschall&nbsp;und&nbsp;Daniel&nbsp;Gottschall
 

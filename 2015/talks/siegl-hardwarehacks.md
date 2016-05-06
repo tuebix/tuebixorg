@@ -7,7 +7,7 @@ menu:
 ---
 ## Hardware&nbsp;hacken
 
-### <img height = "32" src="../../images/lightning.svg"> 12:50 bis 13:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:50 bis 13:00 in Raum V3
 
 ### Marcus&nbsp;Siegl
 

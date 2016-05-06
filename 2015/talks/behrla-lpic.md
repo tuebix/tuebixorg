@@ -7,7 +7,7 @@ menu:
 ---
 ## Karrierechancen&nbsp;mit&nbsp;Open&nbsp;Source-Know-how&nbsp;und&nbsp;LPI-Zertifikat
 
-### <img height = "32" src="../../images/talk.svg"> 16:00 bis 16:30 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:30 in Raum V2
 
 ### Klaus&nbsp;Behrla
 

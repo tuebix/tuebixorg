@@ -7,7 +7,7 @@ menu:
 ---
 ## Mirror&nbsp;Server&nbsp;Verwaltung
 
-### <img height = "32" src="../../images/talk.svg"> 13:30 bis 14:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 14:00 in Raum V1
 
 ### Adrian&nbsp;Reber
 

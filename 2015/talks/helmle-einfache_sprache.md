@@ -7,7 +7,7 @@ menu:
 ---
 ## Leichte&nbsp;Sprache&nbsp;in&nbsp;der&nbsp;IT&nbsp;oder&nbsp;–&nbsp;wie&nbsp;sag&nbsp;ich’s&nbsp;dem&nbsp;User?
 
-### <img height = "32" src="../../images/lightning.svg"> 12:40 bis 12:50 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:40 bis 12:50 in Raum V3
 
 ### Krishna-Sara&nbsp;Helmle
 

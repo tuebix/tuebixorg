@@ -7,7 +7,7 @@ menu:
 ---
 ## Open&nbsp;Source&nbsp;Software&nbsp;beim&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle
 
-### <img height = "32" src="../../images/talk.svg"> 15:00 bis 15:30 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:30 in Raum V3
 
 ### Andreas&nbsp;Küstner,&nbsp;Friedrich&nbsp;Strohmaier
 

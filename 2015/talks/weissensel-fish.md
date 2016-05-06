@@ -7,7 +7,7 @@ menu:
 ---
 ## fish&nbsp;-&nbsp;Die&nbsp;"friendly&nbsp;interactive&nbsp;shell"
 
-### <img height = "32" src="../../images/talk.svg"> 10:30 bis 11:00 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 10:30 bis 11:00 in Raum V3
 
 ### Jonas&nbsp;Weissensel
 

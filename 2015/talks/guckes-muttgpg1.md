@@ -7,7 +7,7 @@ menu:
 ---
 ## mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email
 
-### <img height = "32" src="../../images/talk.svg"> 11:00 bis 12:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V2
 
 ### Sven&nbsp;Guckes
 

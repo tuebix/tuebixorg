@@ -7,7 +7,7 @@ menu:
 ---
 ## TÜBIX: init
 
-### <img height = "32" src="../../images/talk2.svg"> 09:30 bis 09:45 in Raum V1
+### <img height = "32" src="../../../images/talk2.svg"> 09:30 bis 09:45 in Raum V1
 
 ### TÜBIX Orga-Team
 

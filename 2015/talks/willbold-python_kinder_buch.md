@@ -7,7 +7,7 @@ menu:
 ---
 ## Monty&nbsp;und&nbsp;Python&nbsp;werden&nbsp;Hacker
 
-### <img height = "32" src="../../images/lightning.svg"> 12:10 bis 12:20 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:10 bis 12:20 in Raum V3
 
 ### Carina&nbsp;Willbold
 

@@ -7,7 +7,7 @@ menu:
 ---
 ## Phoenix&nbsp;statt&nbsp;Elektroschrott&nbsp;-&nbsp;Neues&nbsp;Leben&nbsp;für&nbsp;"alte"&nbsp;Mobilgeräte
 
-### <img height = "32" src="../../images/talk.svg"> 17:00 bis 18:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V4
 
 ### Holger&nbsp;Gantikow
 

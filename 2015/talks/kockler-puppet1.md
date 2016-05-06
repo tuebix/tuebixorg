@@ -7,7 +7,7 @@ menu:
 ---
 ## Puppet&nbsp;I:&nbsp;Zentrale&nbsp;Administration&nbsp;einer&nbsp;Server&nbsp;Infrastruktur
 
-### <img height = "32" src="../../images/talk.svg"> 12:00 bis 13:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V2
 
 ### Torsten&nbsp;Kockler
 

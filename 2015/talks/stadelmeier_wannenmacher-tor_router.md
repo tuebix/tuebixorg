@@ -7,7 +7,7 @@ menu:
 ---
 ## Tor-Router
 
-### <img height = "32" src="../../images/lightning.svg"> 12:20 bis 12:30 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:20 bis 12:30 in Raum V3
 
 ### Andreas&nbsp;Stadelmeier,&nbsp;Fabian&nbsp;Wannenmacher
 

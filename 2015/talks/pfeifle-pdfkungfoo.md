@@ -7,7 +7,7 @@ menu:
 ---
 ## PDF-KungFoo&nbsp;mit&nbsp;Ghostscript&nbsp;&&nbsp;Co.
 
-### <img height = "32" src="../../images/talk.svg"> 16:00 bis 17:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 17:00 in Raum V4
 
 ### Kurt&nbsp;Pfeifle&nbsp;
 

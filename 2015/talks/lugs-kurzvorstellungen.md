@@ -7,7 +7,7 @@ menu:
 ---
 ## Linux&nbsp;User&nbsp;Groups&nbsp;und&nbsp;Co&nbsp;stellen&nbsp;sich&nbsp;vor
 
-### <img height = "32" src="../../images/lightning.svg"> 14:00 bis 15:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:00 bis 15:00 in Raum V3
 
 ### Verschiedene LUG-Mitglieder
 

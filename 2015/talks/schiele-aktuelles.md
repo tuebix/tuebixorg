@@ -7,7 +7,7 @@ menu:
 ---
 ## Aktuelle&nbsp;Entwicklungen
 
-### <img height = "32" src="../../images/talk.svg"> 16:00 bis 17:00 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 17:00 in Raum V3
 
 ### Joachim&nbsp;Schiele
 

@@ -7,7 +7,7 @@ menu:
 ---
 ## Debian&nbsp;GNU/Linux&nbsp;"Jessie"&nbsp;Install&nbsp;Party
 
-### <img height = "32" src="../../images/workshop.svg"> 12:00 bis 14:00 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 14:00 in Raum W1
 
 ### Florian&nbsp;Nachbauer&nbsp;und&nbsp;Andreas&nbsp;Mundt
 
