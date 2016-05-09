@@ -19,4 +19,5 @@ vimtutor 7.x sollte bekannt/durchgespielt worden sein
 
 ### Links
 
-http://www.tuebix.org/programm/zimmer-vim/ :)
+- <a href="http://www.tuebix.org/programm/zimmer-vim/" target="_blank">http://www.tuebix.org/programm/zimmer-vim/</a>
+- <a href=":)" target="_blank">:)</a>
