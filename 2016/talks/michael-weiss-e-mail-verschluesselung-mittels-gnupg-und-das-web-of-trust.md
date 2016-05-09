@@ -1,0 +1,30 @@
+---
+layout: talk
+title:
+permalink: /2016/programm/michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust/
+weight:
+menu:
+---
+## E-Mail-Verschlüsselung mittels GnuPG und das Web of Trust
+
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W3
+
+### Michael Weiss
+
+Jeder Teilnehmer soll lernen, wie man E-Mails mittels GnuPG verschlüsselt und signiert. Wir werden dazu einfach ein paar Mails hin und her schicken und die grundlegenden Konzepte vermitteln. Auch das Web of Trust wird ein zentrales Thema sein (was das ist wird noch erklärt). Je nach Interessen und Vorwissen der Teilnehmer können wir uns auch noch weitere Themen wie die Verschlüsselung von Dateien anschauen.
+
+### Vorwissen
+
+- Interesse am Thema ;) - GNU/Linux (andere Betriebssysteme sind auch möglich solange dann schon die notwendigen Tools installiert sind) - Keine Angst vor dem Terminal (sollte man am besten schon mal benutzt haben) - Ein funktionierendes E-Mail-Setup das GnuPG unterstützt (z. B. Thunderbird, Mutt, Kmail, etc.) - kein Webmail!
+
+### Links
+
+- <a href="GnuPG" target="_blank">GnuPG</a>
+- <a href="-" target="_blank">-</a>
+- <a href="https://www.gnupg.org/" target="_blank">https://www.gnupg.org/</a>
+- <a href="OpenPGP" target="_blank">OpenPGP</a>
+- <a href="-" target="_blank">-</a>
+- <a href="https://tools.ietf.org/html/rfc4880" target="_blank">https://tools.ietf.org/html/rfc4880</a>
+- <a href="Enigmail" target="_blank">Enigmail</a>
+- <a href="-" target="_blank">-</a>
+- <a href="https://www.enigmail.net/index.php/en/" target="_blank">https://www.enigmail.net/index.php/en/</a>
