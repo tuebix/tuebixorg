@@ -102,7 +102,7 @@ padding-right: 8px;
 <tr><td>16:00</td>
 <td rowspan="4"><a class="work"><a href="../programm/paul-seitz-webdienste-unter-nixos">Webdienste&nbsp;unter&nbsp;NixOS</a></td>
 <td rowspan="4"><a class="work"><a href="../programm/mark-schmidt-gentoo-installparty">Gentoo</a></td>
-<td rowspan="2"><a class="work"><a href="../programm/tbd">tbd</a></td>
+<td rowspan="4"><a class="work"><a href="../programm/tbd">tbd</a></td>
 <td            ><a class="talk"><a href="../programm/felix-bauer-hard-disk-heart-attack">HD&nbsp;Heart&nbsp;Attack</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/olaf-flebbe-hadoop-distribution-selber-machen">Hadoop&nbsp;Distribution</a></td>
 <td rowspan="2"><a class="work">keysigning party</td>
