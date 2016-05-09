@@ -37,9 +37,10 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk"><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">X2Go</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/janko-dietzsch-statistik-mit-r">R</a></td>
 <td rowspan="4">&nbsp;</td>
+<td></td>
 <td>10:00</td></tr>
 
-<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td>.</td></tr>
 
 <tr><td>11:00</td>
 <td rowspan="2"><a class="talk"><a href="../programm/arnd-bergmann-maintaining-a-large-linux-kernel-subsystem">kernel&nbsp;subsystem</a></td>
@@ -93,7 +94,7 @@ padding-right: 8px;
 <tr><td>15:00</td>
 <td rowspan="2"><a class="talk"><a href="../programm/robert-scheck-selinux-bitte-nicht-deaktivieren">SELinux</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/reiner-schlotte-hadoops-secure-mode-fluch-oder-segen">Hadoops&nbsp;'secure&nbsp;mode'</a></td>
-<td rowspan="2"><a class="talk"><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">Lightning&nbsp;Talks</a></td>
+<td rowspan="2"><a class="light"><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">Lightning&nbsp;Talks</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons">Computerzeitbegrenzung</a></td>
 <td>15:00</td></tr>
 
@@ -122,7 +123,7 @@ padding-right: 8px;
 <td>17:00</td></tr>
 
 <tr><td>&nbsp;</td>
-<td rowspan="4"><a class="talk"><a href="../programm/robert-scheck-mein-eigener-jabber-server-mit-prosody">Jabber-Server</a></td>
+<td            ><a class="talk"><a href="../programm/robert-scheck-mein-eigener-jabber-server-mit-prosody">Jabber-Server</a></td>
 <td></td></tr>
 
 
@@ -134,7 +135,7 @@ padding-right: 8px;
 
 <tr><td>18:30</td>
 <td colspan="3">Observatorium: <a class="talk" href="../programm/gottschall-teleskop">Das&nbsp;80cm-Teleskop</a></td>
-<td rowspan="2"><a class="talk" href="../programm/koenig-tagesabschluss">Tagesabschluss</a></td>
+<td rowspan="2"><a class="talk" href="../programm/ingo-blechschmidt-tagesabschluss">Tagesabschluss</a></td>
 <td colspan="4" rowspan="2"> </td>
 <td>18:30</td></tr>
 
