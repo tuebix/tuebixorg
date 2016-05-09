@@ -36,6 +36,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk"><a href="../programm/olaf-flebbe-docker-docker-docker">Docker</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">X2Go</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/janko-dietzsch-statistik-mit-r">R</a></td>
+<td rowspan="4">&nbsp;</td>
 <td>10:00</td></tr>
 
 <tr><td>&nbsp;</td></tr>
@@ -123,9 +124,22 @@ padding-right: 8px;
 <td rowspan="4"><a class="talk"><a href="../programm/robert-scheck-mein-eigener-jabber-server-mit-prosody">Jabber-Server</a></td>
 <td></td></tr>
 
+
 <tr><td>18:00</td>
+<td colspan="3"></td>
+<td>            <a class="talk2" href="../programm/tuebix-exit">exit</a></td>
+<td colspan="4"></td>
 <td>18:00</td></tr>
 
+<tr><td>18:30</td>
+<td colspan="3">Observatorium: <a class="talk" href="../programm/gottschall-teleskop">Das&nbsp;80cm-Teleskop</a></td>
+<td rowspan="2"><a class="talk" href="../programm/koenig-tagesabschluss">Tagesabschluss</a></td>
+<td colspan="4" rowspan="2"> </td>
+<td>18:30</td></tr>
+
+<tr><td>&nbsp;</td>
+<td colspan="3">Observatorium: <a class="talk" href="../programm/gottschall-teleskop">Das&nbsp;80cm-Teleskop</a></td>
+<td></td></tr>
 
 <!-- for some reason the next tag (to close the table) won't show up in the end... wtf?  -->
 <!--
