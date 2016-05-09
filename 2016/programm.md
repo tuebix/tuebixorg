@@ -29,8 +29,6 @@ padding-right: 8px;
 <td>09:30</td></tr>
 
 <tr><td>10:00</td>
-<td rowspan="4"><a              href="../lpic">LPIC</a></td>
-<td>10:00</td></tr>
 <td rowspan="4"><a class="work"><a href="../programm/toni-zimmer-vim-fuer-nicht-mehr-beginner-und-noch-nicht-fortgeschrittene">Vim&nbsp;für&nbsp;Nicht-Mehr-Beginner&nbsp;und&nbsp;Noch-Nicht-Fortgeschrittene</a></td>
 <td rowspan="4"><a class="work"><a href="../programm/david-elias-kuenstle-emacs-101-lerne-den-editor-deines-lebens-kennen">emacs&nbsp;101&nbsp;-&nbsp;Lerne&nbsp;den&nbsp;Editor&nbsp;deines&nbsp;Lebens&nbsp;kennen!</a></td>
 <td rowspan="4"><a class="work"><a href="../programm/cornelius-koelbel-serverfarm-mit-zentral-verwaltetem-zweiten-faktor-absichern">Serverfarm&nbsp;mit&nbsp;zentral&nbsp;verwaltetem&nbsp;zweiten&nbsp;Faktor&nbsp;absichern</a></td>
@@ -59,7 +57,7 @@ padding-right: 8px;
 <td            ><a class="talk"><a href="../programm/wolfgang-engelmann-mit-lyx-master-doktorarbeit-schreiben">Mit&nbsp;LyX&nbsp;Master/Doktorarbeit&nbsp;schreiben</a></td>
 <td>12:00</td></tr>
 
-<tr><td>12:30</td>
+<tr><td></td>
 <td            ><a class="talk"><a href="../programm/frederik-milkau-das-php-framework-typo3-flow">Das&nbsp;PHP-Framework&nbsp;(TYPO3)&nbsp;Flow&nbsp;</a></td>
 <td></td></tr>
 
