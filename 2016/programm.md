@@ -96,6 +96,8 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk"><a href="../programm/anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons">Computerzeitbegrenzung</a></td>
 <td>15:00</td></tr>
 
+<tr><td>&nbsp;</td></tr>
+
 <tr><td>16:00</td>
 <td rowspan="4"><a class="work"><a href="../programm/paul-seitz-webdienste-unter-nixos">Webdienste&nbsp;unter&nbsp;NixOS</a></td>
 <td rowspan="4"><a class="work"><a href="../programm/mark-schmidt-gentoo-installparty">Gentoo</a></td>
