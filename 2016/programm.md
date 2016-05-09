@@ -56,6 +56,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk"><a href="../programm/sebastian-klingberg-high-performance-computing-mit-docker">HPC mit Docker</a></td>
 <td rowspan="4"><a class="light">Lightning Talks</a></td>
 <td            ><a class="talk"><a href="../programm/wolfgang-engelmann-mit-lyx-master-doktorarbeit-schreiben">LyX</a></td>
+<td rowspan="4"><a class="work"><a href="../../lpic/">LPIC Block 1</a></td>
 <td>12:00</td></tr>
 
 <tr><td></td>
@@ -81,6 +82,7 @@ padding-right: 8px;
 <td            ><a class="talk"><a href="../programm/joachim-schiele-nixos-als-guest-in-lxc-systemd-nspawn-docker-verwenden">NixOS</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/lugs-und-co-var-log-lug">/var/log/LUG</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/frank-schiebel-wlan-an-der-schule">WLan&nbsp;an&nbsp;der&nbsp;Schule</a></td>
+<td rowspan="4"><a class="work"><a href="../../lpic/">LPIC Block 1</a></td>
 <td>14:00</td></tr>
 
 <tr><td></td>
