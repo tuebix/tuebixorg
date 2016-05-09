@@ -7,7 +7,7 @@ menu:
 ---
 ## Vim für Nicht-Mehr-Beginner und Noch-Nicht-Fortgeschrittene
 
-### <img height = "32" src="../../../images/workshop.svgtalk.svg"> 23:00 bis 24:00 in V555
+### <img height = "32" src="../../../images/workshop.svg"> 23:00 bis 24:00 in Raum V555
 
 ### Toni Zimmer
 
