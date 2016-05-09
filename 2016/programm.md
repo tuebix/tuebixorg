@@ -37,10 +37,9 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk"><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">X2Go</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/janko-dietzsch-statistik-mit-r">R</a></td>
 <td rowspan="4">&nbsp;</td>
-<td></td>
 <td>10:00</td></tr>
 
-<tr><td>&nbsp;</td><td>.</td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
 
 <tr><td>11:00</td>
 <td rowspan="2"><a class="talk"><a href="../programm/arnd-bergmann-maintaining-a-large-linux-kernel-subsystem">kernel&nbsp;subsystem</a></td>
@@ -49,7 +48,8 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk"><a href="../programm/roland-imme-xelatex-fuer-praesentationen">XeLaTeX</a></td>
 <td>11:00</td></tr>
 
-<tr><td></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+
 <tr><td>12:00</td>
 <td rowspan="4"><a class="work"><a href="../programm/knut-franke-fit-for-git">git</a></td>
 <td rowspan="4"><a class="work"><a href="../programm/klaus-knopper-3d-konstruktion-und-3d-druck-mit-openscad-und-slic3r">openscad</a></td>
@@ -98,7 +98,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk"><a href="../programm/anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons">Computerzeitbegrenzung</a></td>
 <td>15:00</td></tr>
 
-<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
 
 <tr><td>16:00</td>
 <td rowspan="4"><a class="work"><a href="../programm/paul-seitz-webdienste-unter-nixos">NixOS</a></td>
