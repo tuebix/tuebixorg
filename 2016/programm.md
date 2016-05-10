@@ -16,6 +16,10 @@ padding-right: 8px;
 }
 </style>
 
+* <a href="../programmentwurf_raumplan/">Raumplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
+* <a href="../programmentwurf_zeitplan/">Zeitplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
+* <span style="font-weight: bold;">Überblick&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
 <br/>
 
 <table>
@@ -36,6 +40,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk"><a href="../programm/olaf-flebbe-docker-docker-docker">Docker</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">X2Go</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/janko-dietzsch-statistik-mit-r">R</a></td>
+<td rowspan="4">&nbsp;</td>
 <td rowspan="4">&nbsp;</td>
 <td>10:00</td></tr>
 
@@ -82,8 +87,8 @@ padding-right: 8px;
 <td rowspan="4"><a class="work"><a href="../programm/michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust">Mail-Verschlüsselung</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/jonas-genannt-systemd-fuer-admins">systemd</a></td>
 <td            ><a class="talk"><a href="../programm/joachim-schiele-nixos-als-guest-in-lxc-systemd-nspawn-docker-verwenden">NixOS</a></td>
-<td rowspan="2"><a class="talk"><a href="../programm/lugs-und-co-var-log-lug">/var/log/LUG</a></td>
-<td rowspan="2"><a class="talk"><a href="../programm/frank-schiebel-wlan-an-der-schule">WLan&nbsp;an&nbsp;der&nbsp;Schule</a></td>
+<td rowspan="2"><a class="light"><a href="../programm/lugs-und-co-var-log-lug">/var/log/LUG</a></td>
+<td rowspan="2"><a class="talk"><a href="../programm/frank-schiebel-wlan-an-der-schule">WLAN&nbsp;an&nbsp;der&nbsp;Schule</a></td>
 <td rowspan="4"><a class="work"><a href="../../lpic/">LPIC</a></td>
 <td>14:00</td></tr>
 
@@ -135,7 +140,7 @@ padding-right: 8px;
 
 <tr><td>18:30</td>
 <td colspan="3">Observatorium: <a class="talk" href="../programm/gottschall-teleskop">Das&nbsp;80cm-Teleskop</a></td>
-<td rowspan="2"><a class="talk" href="../programm/ingo-blechschmidt-tagesabschluss">Tagesabschluss</a></td>
+<td rowspan="2"><a class="talk" href="../programm/ingo-blechschmidt-das-geheimnis-der-zahl-5/">Tagesabschluss</a></td>
 <td colspan="4" rowspan="2"> </td>
 <td>18:30</td></tr>
 
@@ -144,7 +149,4 @@ padding-right: 8px;
 <td></td></tr>
 
 <!-- for some reason the next tag (to close the table) won't show up in the end... wtf?  -->
-<!--
-<td rowspan="4"><a class="talk"><a href="../programm/ingo-blechschmidt-das-geheimnis-der-zahl-5:-die-ananas-aus-spongebob-schwammkopf-ist-eine-luege">Das&nbsp;Geheimnis&nbsp;der&nbsp;Zahl&nbsp;5:&nbsp;Die&nbsp;Ananas&nbsp;aus&nbsp;SpongeBob&nbsp;Schwammkopf&nbsp;ist&nbsp;eine&nbsp;Lüge</a></td>
--->
 </table>

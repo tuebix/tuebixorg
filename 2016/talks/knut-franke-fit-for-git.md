@@ -11,13 +11,14 @@ menu:
 
 ### Knut Franke
 
-Anwendungsgebiete: Mitarbeit an OpenSource-Projekten die Git verwenden, berufliche Perspektive im Softwareentwicklungs-Umfeld, eigene Webseiten erstellen auf [GitHub Pages](https://pages.github.com/), Versionschaos-Beschwerden bei der Verwaltung von Abschlussarbeiten oder persönlichen Projekten.  Risiken und Nebenwirkungen: Vereinzelt kann es zu plötzlicher Commit-Euphorie kommen, die jedoch in der Regel nach ein paar Tagen von selbst wieder zurückgeht. Frage im Zweifelsfall bitte deinen Prof oder Psychiater.
+Anwendungsgebiete: Mitarbeit an OpenSource-Projekten die Git verwenden, berufliche Perspektive im Softwareentwicklungs-Umfeld, eigene Webseiten erstellen auf [GitHub Pages](https://pages.github.com/), Versionschaos-Beschwerden bei der Verwaltung von Abschlussarbeiten oder persönlichen Projekten. 
+Risiken und Nebenwirkungen: Vereinzelt kann es zu plötzlicher Commit-Euphorie kommen, die jedoch in der Regel nach ein paar Tagen von selbst wieder zurückgeht. Frage im Zweifelsfall bitte deinen Prof oder Psychiater.
 
 ### Vorwissen
 
 Gegenanzeigen: Bekannte Unverträglichkeit mit der Kommandozeile.
 
-Anwendungshinweise: Für eine optimale Wirkung sollte *Fit for Git* in Kombination mit einem Notebook mit Git (>= 2.0), zugehöriger Dokumentation (man-pages) sowie gitk eingenommen werden. (bei älteren Git-Version kann es vereinzelt zu Komplikationen kommen)
+Anwendungshinweise: Für eine optimale Wirkung sollte *Fit for Git* in Kombination mit einem Notebook mit Git (>= 2.0), zugehöriger Dokumentation (man-pages) sowie gitk eingenommen werden. Bei älteren Git-Versionen kann es vereinzelt zu Komplikationen kommen.
 
 - Ubuntu/Debian: `sudo apt-get install git git-man gitk`
 - Fedora/RedHat: `sudo yum install git-all`

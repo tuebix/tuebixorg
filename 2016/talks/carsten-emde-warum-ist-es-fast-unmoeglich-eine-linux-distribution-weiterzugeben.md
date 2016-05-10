@@ -7,7 +7,7 @@ menu:
 ---
 ## Warum ist es (fast) unmöglich, eine Linux-Distribution weiterzugeben?
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 10:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V1
 
 ### Carsten Emde
 
