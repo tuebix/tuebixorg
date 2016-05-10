@@ -30,4 +30,3 @@ Treffpunkt ist ebenfalls der Infostand.
 ### Links
 
 - <a href="http://www.physik.uni-tuebingen.de/institute/astronomie-astrophysik/institut/astronomie/observatorium.html" target="_blank">www.physik.uni-tuebingen.de/institute/astronomie-astrophysik/institut/astronomie/observatorium.html</a>
-- pad: <a href="https://tuebix2015.titanpad.com/gottschall-teleskop" target="_blank">tuebix2015.titanpad.com/gottschall-teleskop</a>
