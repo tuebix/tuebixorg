@@ -1,11 +1,11 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/ingo-blechschmidt-das-geheimnis-der-zahl-5:-die-ananas-aus-spongebob-schwammkopf-ist-eine-luege/
+permalink: /2016/programm/ingo-blechschmidt-das-geheimnis-der-zahl-5/
 weight:
 menu:
 ---
-## Das Geheimnis der Zahl 5: Die Ananas aus SpongeBob Schwammkopf ist eine Lüge
+## Das Geheimnis der Zahl 5
 
 ### <img height = "32" src="../../../images/talk.svg"> 18:15 bis 19:30 in Raum V1
 
