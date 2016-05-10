@@ -5,13 +5,13 @@ permalink: /2016/programm/matthias-windrich-tiddlywiki-das-wiki-fuer-die-hosenta
 weight:
 menu:
 ---
-## TiddlyWiki, das Wiki für die Hosentasche
+## TiddlyWiki - das Wiki für die Hosentasche
 
 ### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W2
 
 ### Matthias Windrich
 
-Nach einer kurzen Vorstellung, legt sich jeder sein eigenes TiddlyWiki an und lernt spielerisch die Funktionsweise kennen.
+Nach einer kurzen Vorstellung legt sich jeder sein eigenes TiddlyWiki an und lernt spielerisch die Funktionsweise kennen.
 
 ### Vorwissen
 
@@ -19,5 +19,5 @@ Bitte einen Laptop, vorzugsweise mit Firefox als Browser, mitbringen. Optional n
 
 ### Links
 
-- <a href="tiddlywiki.org" target="_blank">tiddlywiki.org</a>
-- <a href="nodejs.org" target="_blank">nodejs.org</a>
+- <a href="http://tiddlywiki.org" target="_blank">http://tiddlywiki.org</a>
+- <a href="http://nodejs.org" target="_blank">http://nodejs.org</a>

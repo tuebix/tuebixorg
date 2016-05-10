@@ -11,7 +11,7 @@ menu:
 
 ### Klaus Knopper
 
-Auch wenn man selbst noch keinen 3D-Drucker besitzt, kann es für kreative Menschen sehr interessant sein, Dinge am Computer selbst zu entwerfen. Leider reichen die eigenen Zeichenkünste oft nicht aus, um maßgenaue Modelle zu erstellen. OpenSCAD (http:/openscad.org/) ist ein "wenig-interaktives" 3D Konstruktions-Programm für druckbare 3D-Modelle, das dank einer einfach zu erlernende Programmiersprache selbst von zeichnerisch eher unbegabten Personen in kurzer Zeit gemeistert werden kann. Mit Slic3r (http://slic3r.org/) können die Ergebnisse dann in Gcode für verschiedene Drucker übersetzt werden. 
+Auch wenn man selbst noch keinen 3D-Drucker besitzt, kann es für kreative Menschen sehr interessant sein, Dinge am Computer selbst zu entwerfen. Leider reichen die eigenen Zeichenkünste oft nicht aus, um maßgenaue Modelle zu erstellen. OpenSCAD (<a href="http:/openscad.org" target="_blank">http:/openscad.org/</a>) ist ein "wenig-interaktives" 3D Konstruktions-Programm für druckbare 3D-Modelle, das dank einer einfach zu erlernende Programmiersprache selbst von zeichnerisch eher unbegabten Personen in kurzer Zeit gemeistert werden kann. Mit Slic3r (<a href="http://slic3r.org/" target="_blank">http://slic3r.org/</a>) können die Ergebnisse dann in Gcode für verschiedene Drucker übersetzt werden. 
 
 ### Vorwissen
 
