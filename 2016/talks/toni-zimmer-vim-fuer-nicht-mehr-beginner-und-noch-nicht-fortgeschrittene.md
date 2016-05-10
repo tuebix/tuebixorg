@@ -11,7 +11,17 @@ menu:
 
 ### Toni Zimmer
 
-Unterschiede zu vi ggf. kurze Auffrischung des vimtutors vim starten und beenden Erläuterung des Hilfesystems fortgeschrittenes “Bewegen” und Editieren in einer Datei .vimrc und .viminfo Arbeiten mit selbst definierten Shortcuts (Mappings, Abbreviations) Makros Arbeiten mit Tabs Arbeiten im “visual mode” Skeletons
+- Unterschiede zu vi
+- ggf. kurze Auffrischung des vimtutors
+- vim starten und beenden
+- Erläuterung des Hilfesystems
+- fortgeschrittenes “Bewegen” und Editieren in einer Datei
+- .vimrc und .viminfo
+- Arbeiten mit selbst definierten Shortcuts (Mappings, Abbreviations)
+- Makros
+- Arbeiten mit Tabs
+- Arbeiten im “visual mode”
+- Skeletons
 
 ### Vorwissen
 
@@ -19,5 +29,4 @@ vimtutor 7.x sollte bekannt/durchgespielt worden sein
 
 ### Links
 
-- <a href="http://www.tuebix.org/programm/zimmer-vim/" target="_blank">http://www.tuebix.org/programm/zimmer-vim/</a>
-- <a href=":)" target="_blank">:)</a>
+- <a href="http://www.tuebix.org/2015/programm/zimmer-vim/" target="_blank">http://www.tuebix.org/2015/programm/zimmer-vim/</a>
