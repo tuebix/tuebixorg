@@ -11,7 +11,7 @@ menu:
 
 ### Sascha Kaupp
 
-Spiele unter Linux sind seit einigen Jahren ein Randthema, welches oft belächelt wird. Doch seit einiger Zeit ist Steam für Linux und OS X verfügbar, sodass der Zugang zu vielen Spielen, die plattformübergreifend veröffentlicht werden, gewährleistet ist. Der Workshop gibt eine Übersicht der Anforderungen an einen Linux-basierten Spielerechner und beleuchtet die Probleme, die beim Installieren auftreten.
+Spiele unter Linux sind seit einigen Jahren ein Randthema, welches oft belächelt wird. Doch seit einiger Zeit ist Steam für Linux und OS X verfügbar, sodass der Zugang zu vielen Spielen, die plattformübergreifend veröffentlicht werden, gewährleistet ist. Der Vortrag gibt eine Übersicht der Anforderungen an einen Linux-basierten Spielerechner und beleuchtet die Probleme, die beim Installieren auftreten.
 
 ### Vorwissen
 

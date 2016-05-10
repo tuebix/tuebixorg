@@ -9,7 +9,7 @@
         "urlid": "sascha-kaupp-zocken-unter-linux",
         "timebegin": "16:00",
         "name": "Sascha Kaupp",
-        "inhalt": "Spiele unter Linux sind seit einigen Jahren ein Randthema, welches oft belächelt wird. Doch seit einiger Zeit ist Steam für Linux und OS X verfügbar, sodass der Zugang zu vielen Spielen, die plattformübergreifend veröffentlicht werden, gewährleistet ist. Der Workshop gibt eine Übersicht der Anforderungen an einen Linux-basierten Spielerechner und beleuchtet die Probleme, die beim Installieren auftreten.",
+        "inhalt": "Spiele unter Linux sind seit einigen Jahren ein Randthema, welches oft belächelt wird. Doch seit einiger Zeit ist Steam für Linux und OS X verfügbar, sodass der Zugang zu vielen Spielen, die plattformübergreifend veröffentlicht werden, gewährleistet ist. Der Vortrag gibt eine Übersicht der Anforderungen an einen Linux-basierten Spielerechner und beleuchtet die Probleme, die beim Installieren auftreten.",
         "room": "V4"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
         "titel": "WLAN an der Schule - Ein Konzept mit Freifunk, Unifi und linuxmuster.net",
-        "weblinks": "http://www.linuxmuster.net/ https://www.linuxmuster.net/wiki/dokumentation:handbuch:addons:chillispot http://freifuk-stuttgart.de/",
+        "weblinks": "http://www.linuxmuster.net/ https://www.linuxmuster.net/wiki/dokumentation:handbuch:addons:chillispot http://freifunk-stuttgart.de/",
         "vorwissen": "",
         "timeend": "15:00",
         "buzzword": "Freifunk, Schule, Wlan ",
@@ -35,7 +35,7 @@
         "urlid": "frank-schiebel-wlan-an-der-schule",
         "timebegin": "14:00",
         "name": "Frank Schiebel",
-        "inhalt": "Am Quenstedt-Gymnasium in Mössingen gibt es seit etwa einem Jahr Freifunk an der Schule, seit etwa 2 Monaten fast flächendeckend. Umgesetzt wird das Konzept mit Ubiquiti Unifi APs, die zwei SSIDs ausstrahlen: Aus Datenschutzgründen muss man für Lehrer ein getrenntes, abgesichertes Netz anbieten. In diesem Netz kommt eine Hot-Spot Lösung auf Basis von Coova-Chilli zum Einsatz, die in der Schulserverlöung linuxmuster.net als Erweiterung verfügbar ist.  Das WLan Konzept ist die Grundlage für BYOD Szenarien im unterrichtlichen Einsatz. Der Vortrag beschreibt die Entstehung der Idee und die erste Umsetzung unter Einbindung der schulischen Gremien wie Gesamtlehrerkonferenz und Schulkonferenz.  Welche Probleme treten auf, wenn man Freifunk an einer Schule anbieten möchte?  Außerdem wird die technische Umsetzung im Rahmen der FOSS Schulserverlösung linuxmuster.net erläutert.",
+        "inhalt": "Am Quenstedt-Gymnasium in Mössingen gibt es seit etwa einem Jahr Freifunk an der Schule, seit etwa 2 Monaten fast flächendeckend. Umgesetzt wird das Konzept mit Ubiquiti Unifi APs, die zwei SSIDs ausstrahlen: Aus Datenschutzgründen muss man für Lehrer ein getrenntes, abgesichertes Netz anbieten. In diesem Netz kommt eine Hot-Spot Lösung auf Basis von Coova-Chilli zum Einsatz, die in der Schulserverlöung linuxmuster.net als Erweiterung verfügbar ist.  Das WLAN Konzept ist die Grundlage für BYOD Szenarien im unterrichtlichen Einsatz. Der Vortrag beschreibt die Entstehung der Idee und die erste Umsetzung unter Einbindung der schulischen Gremien wie Gesamtlehrerkonferenz und Schulkonferenz.  Welche Probleme treten auf, wenn man Freifunk an einer Schule anbieten möchte?  Außerdem wird die technische Umsetzung im Rahmen der FOSS Schulserverlösung linuxmuster.net erläutert.",
         "room": "V4"
     },
     {
@@ -515,8 +515,8 @@
         "duration": 25,
         "urlid": "friedrich-strohmaier-andy-kuestner-open-source-software-beim-freien-radio-wueste-welle",
         "timebegin": "13:00",
-        "name": "Friedrich Strohmaier, Andy Küstner et al..",
-        "inhalt": "Der Radioalltag will Lösungen für die verschiedensten Anwendungsbereiche: Sowohl Audiotechnik mit digitaler Studio und Mischtechnik, als auch Verwaltung verschiedenster Dateien (archivierte Aufnahmen, Vor- und nachbereitete Audiodateien, Videos, Fotos, Schriftliche Dokumente). Dafür gebraucht wird eine Leistungsfähige Vernetzung mit Client- und Serversystemen. Automatisierung und Archivierung von Austrahlungen, Übertragungstechnik zum Sender und in's Web, aber auch z.B. der Aufbau einer Schließanlage sind Bereiche die die Technik auf Trab halten. Auch der Bürobetrieb und die Organisation der Arbeit von ca. 160 Leuten wollen mit Anwendungen verschiedenster Art unterstützt sein. ",
+        "name": "Friedrich Strohmaier, Andy Küstner",
+        "inhalt": "Der Radioalltag will Lösungen für die verschiedensten Anwendungsbereiche: Sowohl Audiotechnik mit digitaler Studio und Mischtechnik, als auch Verwaltung verschiedenster Dateien (archivierte Aufnahmen, Vor- und nachbereitete Audiodateien, Videos, Fotos, Schriftliche Dokumente). Dafür gebraucht wird eine Leistungsfähige Vernetzung mit Client- und Serversystemen. Automatisierung und Archivierung von Ausstrahlungen, Übertragungstechnik zum Sender und in's Web, aber auch z.B. der Aufbau einer Schließanlage sind Bereiche, die die Technik auf Trab halten. Auch der Bürobetrieb und die Organisation der Arbeit von ca. 160 Leuten wollen mit Anwendungen verschiedenster Art unterstützt sein. ",
         "room": "V4"
     },
     {
@@ -546,7 +546,7 @@
         "room": "V4"
     },
     {
-        "titel": "Was ist ownCloud? und wieso?",
+        "titel": "Was ist ownCloud? Und wieso?",
         "weblinks": "",
         "vorwissen": "",
         "timeend": "17:30",
@@ -555,7 +555,7 @@
         "urlid": "vinzenz-rosenkranz-was-ist-owncloud-und-wieso",
         "timebegin": "17:00",
         "name": "Vinzenz Rosenkranz",
-        "inhalt": "Kurzer Überblick über die Funktionen und Möglichkeiten von ownCloud. Für Neugierige und alle die mit dem Begriff nichts anfangen können.",
+        "inhalt": "Kurzer Überblick über die Funktionen und Möglichkeiten von ownCloud. Für Neugierige und alle, die mit dem Begriff nichts anfangen können.",
         "room": "V4"
     },
     {
@@ -782,15 +782,15 @@
     {
         "titel": "Mein eigener Jabber-Server mit Prosody",
         "weblinks": "https://de.wikipedia.org/wiki/XMPP https://prosody.im/",
-        "vorwissen": "Installation von Software-Paketen und Verständnis zum grundsätzlicher Umgang mit Daemons unter Linux sollte gegeben sein, Kenntnisse zu DNS sind hilfreich.",
+        "vorwissen": "Installation von Software-Paketen und Verständnis zum grundsätzlichen Umgang mit Daemons unter Linux sollte gegeben sein, Kenntnisse zu DNS sind hilfreich.",
         "timeend": "18:00",
         "buzzword": "XMPP, Jabber, Prosody, Instant Messaging, Instant Messenger",
         "duration": 55,
         "urlid": "robert-scheck-mein-eigener-jabber-server-mit-prosody",
         "timebegin": "17:30",
         "name": "Robert Scheck",
-        "inhalt": "Instant Messenger gibt es wie Sand am Meer: ICQ, Skype, WhatsApp, Threema, Telegram, Facebook-Chat, Yahoo! Messenger – und viele mehr. Aber warum nicht mal Jabber (XMPP) benutzen? Wo liegen die Vorteile von XMPP? Ja, man müsste sich auch wieder einen Anbieter suchen…oder man setzt seinen eigenen Jabber-Server auf. Und dieser Vortrag erklärt am Beispiel von Prosody wie das relativ einfach und schnell, aber vor allem sicher, unter Linux geht!",
-        "room": "V555"
+        "inhalt": "Instant Messenger gibt es wie Sand am Meer: ICQ, Skype, WhatsApp, Threema, Telegram, Facebook-Chat, Yahoo! Messenger – und viele mehr. Aber warum nicht mal Jabber (XMPP) benutzen? Wo liegen die Vorteile von XMPP? Ja, man müsste sich auch wieder einen Anbieter suchen... oder man setzt seinen eigenen Jabber-Server auf. Und dieser Vortrag erklärt am Beispiel von Prosody wie das relativ einfach und schnell, aber vor allem sicher, unter Linux geht!",
+        "room": "V4"
     },
     {
         "titel": "Matheschülerzirkel",
