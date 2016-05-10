@@ -63,7 +63,7 @@ menu:
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum V3</td></tr>
-<tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">Linux&nbsp;und&nbsp;X2Go:&nbsp;ein&nbsp;&nbsp;effektiver&nbsp;&&nbsp;günstiger&nbsp;Schutz&nbsp;vor&nbsp;Ransomware&nbsp;auf&nbsp;Windows-Systemen</a></td><td>Stefan&nbsp;Baur</td></tr>
+<tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">Linux&nbsp;und&nbsp;X2Go:&nbsp;ein&nbsp;&nbsp;effektiver&nbsp;&&nbsp;günstiger&nbsp;Schutz vor&nbsp;Ransomware&nbsp;auf&nbsp;Windows-Systemen</a></td><td>Stefan&nbsp;Baur</td></tr>
 <tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/robert-scheck-mein-erstes-selbstgebautes-rpm-paket">Mein&nbsp;erstes&nbsp;selbstgebautes&nbsp;RPM-Paket!</a></td><td>Robert&nbsp;Scheck</td></tr>
 <tr><td>12:00</td><td><a class="light"></a></td><td><a href="../programm/lightningtalks">Lightning&nbsp;Talks</td></tr>
 <tr><td>23:00</td><td><a class="light"></a></td><td><a href="../programm/arnd-bergmann-2038-alles-ist-kaputt">2038&nbsp;--&nbsp;alles&nbsp;ist&nbsp;kaputt</a></td><td>Arnd&nbsp;Bergmann</td></tr>
@@ -94,7 +94,7 @@ menu:
 <tr><td>12:00</td><td><a class="talk"></a></td><td><a href="../programm/wolfgang-engelmann-mit-lyx-master-doktorarbeit-schreiben">Mit&nbsp;LyX&nbsp;Master/Doktorarbeit&nbsp;schreiben</a></td><td>Wolfgang&nbsp;Engelmann</td></tr>
 <tr><td>12:30</td><td><a class="talk"></a></td><td><a href="../programm/frederik-milkau-das-php-framework-typo3-flow">Das&nbsp;PHP-Framework&nbsp;(TYPO3)&nbsp;Flow&nbsp;</a></td><td>Frederik&nbsp;Milkau</td></tr>
 <tr><td>13:00</td><td><a class="talk"></a></td><td><a href="../programm/friedrich-strohmaier-andy-kuestner-open-source-software-beim-freien-radio-wueste-welle">Open&nbsp;Source&nbsp;Software&nbsp;beim&nbsp;Freien&nbsp;Radio&nbsp;Wüste&nbsp;Welle</a></td><td>Friedrich&nbsp;Strohmaier,&nbsp;Andy&nbsp;Küstner&nbsp;et&nbsp;al..</td></tr>
-<tr><td>13:30</td><td><a class="talk"></a></td><td><a href="../programm/justin-humm-freifunk">freifunk</a></td><td>Justin&nbsp;Humm</td></tr>
+<tr><td>13:30</td><td><a class="talk"></a></td><td><a href="../programm/justin-humm-freifunk">Freifunk</a></td><td>Justin&nbsp;Humm</td></tr>
 <tr><td>14:00</td><td><a class="talk"></a></td><td><a href="../programm/frank-schiebel-wlan-an-der-schule">WLAN&nbsp;an&nbsp;der&nbsp;Schule&nbsp;-&nbsp;Ein&nbsp;Konzept&nbsp;mit&nbsp;Freifunk,&nbsp;Unifi&nbsp;und&nbsp;linuxmuster.net</a></td><td>Frank&nbsp;Schiebel</td></tr>
 <tr><td>15:00</td><td><a class="talk"></a></td><td><a href="../programm/anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons">Kinder,&nbsp;Computerzeitbegrenzung&nbsp;und&nbsp;New-Style-Daemons</a></td><td>Anselm&nbsp;Kruis</td></tr>
 <tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/sascha-kaupp-zocken-unter-linux">Zocken&nbsp;unter&nbsp;Linux?&nbsp;Zocken&nbsp;unter&nbsp;Linux!</a></td><td>Sascha&nbsp;Kaupp</td></tr>
@@ -108,7 +108,7 @@ menu:
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum Teckids FrogLabs</td></tr>
-<tr><td>10:00</td><td></td><td><a href="../../kinder">Kinderprogramm FrogLabs</a></td><td>Teckids.org</td></tr>
+<tr><td>10:00</td><td></td><td><a class="work" href="../../kinder">Kinderprogramm FrogLabs</a></td><td>Teckids.org</td></tr>
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Observatorium</td></tr>

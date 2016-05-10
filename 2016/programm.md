@@ -36,7 +36,7 @@ padding-right: 8px;
 <td rowspan="4"><a class="work"><a href="../programm/toni-zimmer-vim-fuer-nicht-mehr-beginner-und-noch-nicht-fortgeschrittene">vim</a></td>
 <td rowspan="4"><a class="work"><a href="../programm/david-elias-kuenstle-emacs-101-lerne-den-editor-deines-lebens-kennen">emacs</a></td>
 <td rowspan="4"><a class="work"><a href="../programm/cornelius-koelbel-serverfarm-mit-zentral-verwaltetem-zweiten-faktor-absichern">privacyIDEA</a></td>
-<td rowspan="2"><a class="talk"><a href="../programm/carsten-emde-warum-ist-es-fast-unmoeglich-eine-linux-distribution-weiterzugeben">Linux-Distribution weitergeben</a></td>
+<td rowspan="2"><a class="talk"><a href="../programm/carsten-emde-warum-ist-es-fast-unmoeglich-eine-linux-distribution-weiterzugeben">Distro Copyright</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/olaf-flebbe-docker-docker-docker">Docker</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">X2Go</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/janko-dietzsch-statistik-mit-r">R</a></td>
