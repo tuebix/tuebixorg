@@ -41,7 +41,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk"><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">X2Go</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/janko-dietzsch-statistik-mit-r">R</a></td>
 <td rowspan="4">&nbsp;</td>
-<td rowspan="16">Teckids</td>
+<td rowspan="16"><a class="work"><a href="../../kinder/">Teckids</a></td>
 <td>10:00</td></tr>
 
 <tr><td>&nbsp;</td><td></td></tr>
@@ -135,13 +135,13 @@ padding-right: 8px;
 <tr><td>18:00</td>
 <td colspan="3"></td>
 <td>            <a class="talk2" href="../programm/tuebix-exit">exit</a></td>
-<td colspan="4"></td>
+<td colspan="5"></td>
 <td>18:00</td></tr>
 
 <tr><td>18:30</td>
 <td colspan="3">Observatorium: <a class="talk" href="../programm/ruth-und-daniel-gottschall-das-tuebinger-80cm-teleskop/">Das&nbsp;80cm-Teleskop</a></td>
 <td rowspan="2"><a class="talk" href="../programm/ingo-blechschmidt-das-geheimnis-der-zahl-5/">Tagesabschluss</a></td>
-<td colspan="4" rowspan="2"> </td>
+<td colspan="5" rowspan="2"> </td>
 <td>18:30</td></tr>
 
 <tr><td>&nbsp;</td>
