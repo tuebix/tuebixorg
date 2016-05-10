@@ -11,7 +11,7 @@ menu:
 
 ### Cornelius Kölbel
 
-In diesem Workshop installieren wir ein privacyIDEA-System, mit dem man auch für größere Benutzergruppen Authentifizierungsdevices verwalten kann. Somit lässt sich eine Mehr-Faktor-Authentifizierung zentral verwalten. Benutzer können sich mich Smartphones, OTP-Token, Yubikeys und vielen anderen, zusätzlichen Objekten anmelden. Wir konfigurieren exemplarisch einen SSH-Server, um die Anmeldung an diesem System um einen zweiten Faktor zu erweitern. 
+In diesem Workshop installieren wir ein privacyIDEA-System, mit dem man auch für größere Benutzergruppen Authentifizierungsdevices verwalten kann. Somit lässt sich eine Mehr-Faktor-Authentifizierung zentral verwalten. Benutzer können sich mit Smartphones, OTP-Token, Yubikeys und vielen anderen, zusätzlichen Objekten anmelden. Wir konfigurieren exemplarisch einen SSH-Server, um die Anmeldung an diesem System um einen zweiten Faktor zu erweitern. 
 
 ### Vorwissen
 

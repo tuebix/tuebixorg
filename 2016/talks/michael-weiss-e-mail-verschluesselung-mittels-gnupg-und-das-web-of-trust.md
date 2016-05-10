@@ -15,16 +15,13 @@ Jeder Teilnehmer soll lernen, wie man E-Mails mittels GnuPG verschlüsselt und s
 
 ### Vorwissen
 
-- Interesse am Thema ;) - GNU/Linux (andere Betriebssysteme sind auch möglich solange dann schon die notwendigen Tools installiert sind) - Keine Angst vor dem Terminal (sollte man am besten schon mal benutzt haben) - Ein funktionierendes E-Mail-Setup das GnuPG unterstützt (z. B. Thunderbird, Mutt, Kmail, etc.) - kein Webmail!
+- Interesse am Thema ;)
+- GNU/Linux (andere Betriebssysteme sind auch möglich solange dann schon die notwendigen Tools installiert sind)
+- Keine Angst vor dem Terminal (sollte man am besten schon mal benutzt haben)
+- Ein funktionierendes E-Mail-Setup das GnuPG unterstützt (z. B. Thunderbird, Mutt, Kmail, etc.) - kein Webmail!
 
 ### Links
 
-- <a href="GnuPG" target="_blank">GnuPG</a>
-- <a href="-" target="_blank">-</a>
-- <a href="https://www.gnupg.org/" target="_blank">https://www.gnupg.org/</a>
-- <a href="OpenPGP" target="_blank">OpenPGP</a>
-- <a href="-" target="_blank">-</a>
-- <a href="https://tools.ietf.org/html/rfc4880" target="_blank">https://tools.ietf.org/html/rfc4880</a>
-- <a href="Enigmail" target="_blank">Enigmail</a>
-- <a href="-" target="_blank">-</a>
-- <a href="https://www.enigmail.net/index.php/en/" target="_blank">https://www.enigmail.net/index.php/en/</a>
+- GnuPG: <a href="https://www.gnupg.org/" target="_blank">https://www.gnupg.org/</a>
+- OpenPGP: <a href="https://tools.ietf.org/html/rfc4880" target="_blank">https://tools.ietf.org/html/rfc4880</a>
+- Enigmail: <a href="https://www.enigmail.net/index.php/en/" target="_blank">https://www.enigmail.net/index.php/en/</a>
