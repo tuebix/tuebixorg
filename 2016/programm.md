@@ -24,12 +24,12 @@ padding-right: 8px;
 
 <table>
 
-<tr><td></td><td>W1</td><td>W2</td><td>W3</td><td>V1</td><td>V2</td><td>V3</td><td>V4</td><td>LPIC</td><td></td></tr>
+<tr><td></td><td>W1</td><td>W2</td><td>W3</td><td>V1</td><td>V2</td><td>V3</td><td>V4</td><td>LPIC</td><td>Teckids</td><td></td></tr>
 
 <tr><td>09:30</td>
 <td colspan="3"></td>
 <td>            <a class="talk2" href="../programm/tuebix-init">init</a></td>
-<td colspan="4"></td>
+<td colspan="5"></td>
 <td>09:30</td></tr>
 
 <tr><td>10:00</td>
@@ -41,7 +41,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk"><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">X2Go</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/janko-dietzsch-statistik-mit-r">R</a></td>
 <td rowspan="4">&nbsp;</td>
-<td rowspan="4">&nbsp;</td>
+<td rowspan="16">Teckids</td>
 <td>10:00</td></tr>
 
 <tr><td>&nbsp;</td><td></td></tr>
@@ -100,7 +100,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk"><a href="../programm/robert-scheck-selinux-bitte-nicht-deaktivieren">SELinux</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/reiner-schlotte-hadoops-secure-mode-fluch-oder-segen">Hadoops&nbsp;'secure&nbsp;mode'</a></td>
 <td rowspan="2"><a class="light"><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">Lightning&nbsp;Talks</a></td>
-<td rowspan="2"><a class="talk"><a href="../programm/anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons">Computerzeitbegrenzung</a></td>
+<td rowspan="2"><a class="talk"><a href="../programm/anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons">PC-Zeitbegrenzung</a></td>
 <td>15:00</td></tr>
 
 <tr><td>&nbsp;</td><td></td></tr>
