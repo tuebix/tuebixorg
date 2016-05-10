@@ -5,7 +5,7 @@ permalink: /2016/programm/harald-koenig-gnuplot-ein-bild-sagt-mehr-als-1000-zahl
 weight:
 menu:
 ---
-## gnuplot – Ein Bild sagt mehr als 1000 Zahlen ...
+## gnuplot - Ein Bild sagt mehr als 1000 Zahlen...
 
 ### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W1
 
@@ -15,7 +15,7 @@ gnuplot in meiner UNIX-Werkzeugkiste seit mehr als einem Jahrzehnt nicht wegzude
 
 ### Vorwissen
 
-keine (naja, tippen können, und nicht zu viel Angst vor Tastatur nud Kommandozeile ;-)
+keine - naja, tippen können, und nicht zu viel Angst vor Tastatur nud Kommandozeile ;-)
 
 ### Links
 

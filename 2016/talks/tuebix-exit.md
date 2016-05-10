@@ -5,11 +5,11 @@ permalink: /2016/programm/tuebix-exit/
 weight: 
 menu:
 ---
-## TÜBIX: exit
+## TüBIX: exit
 
 ### <img height = "32" src="../../../images/talk2.svg"> 18:00 bis 18:15 in Raum V1
 
-### TÜBIX Orga-Team
+### TüBIX Orga-Team
 
-* Abschluss
-* Aublick TüBIX 2017
+* gemeinsamer Abschluss
+* Aublick auf TüBIX 2017

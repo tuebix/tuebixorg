@@ -35,7 +35,7 @@ padding-right: 8px;
 <tr><td>10:00</td>
 <td rowspan="4"><a class="work"><a href="../programm/toni-zimmer-vim-fuer-nicht-mehr-beginner-und-noch-nicht-fortgeschrittene">vim</a></td>
 <td rowspan="4"><a class="work"><a href="../programm/david-elias-kuenstle-emacs-101-lerne-den-editor-deines-lebens-kennen">emacs</a></td>
-<td rowspan="4"><a class="work"><a href="../programm/cornelius-koelbel-serverfarm-mit-zentral-verwaltetem-zweiten-faktor-absichern">Serverfarm absichern</a></td>
+<td rowspan="4"><a class="work"><a href="../programm/cornelius-koelbel-serverfarm-mit-zentral-verwaltetem-zweiten-faktor-absichern">privacyIDEA</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/carsten-emde-warum-ist-es-fast-unmoeglich-eine-linux-distribution-weiterzugeben">Linux-Distribution weitergeben</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/olaf-flebbe-docker-docker-docker">Docker</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">X2Go</a></td>
@@ -84,7 +84,7 @@ padding-right: 8px;
 <tr><td>14:00</td>
 <td rowspan="4"><a class="work"><a href="../programm/harald-koenig-gnuplot-ein-bild-sagt-mehr-als-1000-zahlen">gnuplot</a></td>
 <td rowspan="4"><a class="work"><a href="../programm/matthias-windrich-tiddlywiki-das-wiki-fuer-die-hosentasche">TiddlyWiki</a></td>
-<td rowspan="4"><a class="work"><a href="../programm/michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust">Mail-Verschlüsselung</a></td>
+<td rowspan="4"><a class="work"><a href="../programm/michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust">GnuPG</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/jonas-genannt-systemd-fuer-admins">systemd</a></td>
 <td            ><a class="talk"><a href="../programm/joachim-schiele-nixos-als-guest-in-lxc-systemd-nspawn-docker-verwenden">NixOS</a></td>
 <td rowspan="2"><a class="light"><a href="../programm/lugs-und-co-var-log-lug">/var/log/LUG</a></td>

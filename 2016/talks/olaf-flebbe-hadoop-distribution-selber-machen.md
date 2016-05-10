@@ -5,7 +5,7 @@ permalink: /2016/programm/olaf-flebbe-hadoop-distribution-selber-machen/
 weight:
 menu:
 ---
-## Hadoop Distribution Selber Machen
+## Hadoop Distribution selber machen
 
 ### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 17:00 in Raum V2
 
@@ -15,7 +15,7 @@ Ich stelle die Apache Bigtop Distribution vor: Was ist das überhaupt ? Warum ma
 
 ### Vorwissen
 
-Ich versuche auf den Vortrag "Big Data in a Nutshell" vom letzten LDP aufzubauen: http://www.tuebix.org/downloads/ 
+Ich versuche auf den Vortrag "Big Data in a Nutshell" vom letzten TüBIX aufzubauen: <a href="http://www.tuebix.org/2015/programm/flebbe-bigdata1/">http://www.tuebix.org/2015/programm/flebbe-bigdata1/</a>
 
 ### Links
 

@@ -19,4 +19,4 @@ Keine Angst vor der Kommandozeile und Vorwissen über Netzwerke und Filesysteme 
 
 ### Links
 
-- <a href="www.docker.com" target="_blank">www.docker.com</a>
+- <a href="http://www.docker.com" target="_blank">www.docker.com</a>

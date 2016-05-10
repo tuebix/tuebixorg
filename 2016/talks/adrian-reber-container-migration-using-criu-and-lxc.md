@@ -11,5 +11,5 @@ menu:
 
 ### Adrian Reber
 
-Mit der Hilfe von CRIU ist es möglich Container live von einem System zum einem anderen System zu migrieren. Dieser Vortrag zeigt verschiedene Optimierung der Live Migration, welche hilfreich sind um die Downtime zu minimieren. Im Rahmen des Vortrages wird auf Optimierung basierend auf pre-copy (dirty memory tracking) und post-copy (userfaultfd basiert) eingegangen.
+Mit der Hilfe von CRIU ist es möglich Container live von einem System zu einem anderen System zu migrieren. Dieser Vortrag zeigt verschiedene Optimierungen der Live Migration, welche hilfreich sind um die Downtime zu minimieren. Im Rahmen des Vortrages wird auf Optimierung basierend auf pre-copy (dirty memory tracking) und post-copy (userfaultfd basiert) eingegangen.
 

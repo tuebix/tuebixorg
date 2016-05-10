@@ -19,11 +19,7 @@ Programmiererfahrung
 
 ### Links
 
-- <a href="Coq:" target="_blank">Coq:</a>
-- <a href="https://coq.inria.fr/" target="_blank">https://coq.inria.fr/</a>
-- <a href="Compiler:" target="_blank">Compiler:</a>
-- <a href="http://compcert.inria.fr/" target="_blank">http://compcert.inria.fr/</a>
-- <a href="Dateisystem:" target="_blank">Dateisystem:</a>
-- <a href="http://css.csail.mit.edu/fscq/" target="_blank">http://css.csail.mit.edu/fscq/</a>
-- <a href="Betriessystem:" target="_blank">Betriessystem:</a>
-- <a href="http://sel4.systems/" target="_blank">http://sel4.systems/</a>
+- Coq: <a href="https://coq.inria.fr/" target="_blank">https://coq.inria.fr/</a>
+- Compiler: <a href="http://compcert.inria.fr/" target="_blank">http://compcert.inria.fr/</a>
+- Dateisystem: <a href="http://css.csail.mit.edu/fscq/" target="_blank">http://css.csail.mit.edu/fscq/</a>
+- Betriebssystem: <a href="http://sel4.systems/" target="_blank">http://sel4.systems/</a>

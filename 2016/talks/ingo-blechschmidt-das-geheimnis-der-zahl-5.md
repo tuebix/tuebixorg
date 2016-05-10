@@ -5,7 +5,7 @@ permalink: /2016/programm/ingo-blechschmidt-das-geheimnis-der-zahl-5/
 weight:
 menu:
 ---
-## Das Geheimnis der Zahl 5
+## Tagesabschluss: Das Geheimnis der Zahl 5
 
 ### <img height = "32" src="../../../images/talk.svg"> 18:15 bis 19:30 in Raum V1
 
