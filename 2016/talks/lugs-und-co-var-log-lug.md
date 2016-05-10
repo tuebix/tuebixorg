@@ -7,11 +7,11 @@ menu:
 ---
 ## /var/log/LUG
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:00 bis 15:00 in Raum V3
 
 ### LUGs + Co
 
-im Prinzip wie letztes Jahr (http://www.tuebix.org/programm/lugs-kurzvorstellungen) ein Austausch zwischen den User Groups und ähnlichen Gruppen. Diesmal evlt. zusätzlich mit kleinem Austausch/Rückblick auf die beiden vergangenen Linux Presentation Days.
+Aufgrund der vielen guten Rückmeldungen vom letzten Jahr (<a href="http://www.tuebix.org/2015/programm/lugs-kurzvorstellungen/">http://www.tuebix.org/2015/programm/lugs-kurzvorstellungen/</a>) abermals die Gelegenheit zum Austausch zwischen den User Groups und ähnlichen Gruppen. Diesmal zusätzlich mit kleinem Austausch/Rückblick auf die beiden vergangenen Linux Presentation Days.
 
 ### Links
 
