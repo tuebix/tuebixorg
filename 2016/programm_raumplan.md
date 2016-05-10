@@ -8,7 +8,7 @@ menu:
 
 * <span style="font-weight: bold;">Raumplan&nbsp;&nbsp;&nbsp;&nbsp;</span>
 * <a href="../programmentwurf_zeitplan/">Zeitplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
-* <a href="../programmentwurf">Überblick</a>&nbsp;&nbsp;&nbsp;&nbsp;
+* <a href="../programmentwurf/">Überblick</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br/>
 
@@ -38,7 +38,6 @@ menu:
 <tr><td>09:30</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-init">TÜBIX: init</a></td><td>TÜBIX&nbsp;Orga-Team</td></tr>
 <tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/carsten-emde-warum-ist-es-fast-unmoeglich-eine-linux-distribution-weiterzugeben">Warum&nbsp;ist&nbsp;es&nbsp;(fast)&nbsp;unmöglich,&nbsp;eine&nbsp;Linux-Distribution&nbsp;weiterzugeben?</a></td><td>Carsten&nbsp;Emde</td></tr>
 <tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/arnd-bergmann-maintaining-a-large-linux-kernel-subsystem">Maintaining&nbsp;a&nbsp;large&nbsp;Linux&nbsp;kernel&nbsp;subsystem</a></td><td>Arnd&nbsp;Bergmann</td></tr>
-<tr><td>&nbsp;</td></tr>
 <tr><td>12:00</td><td><a class="talk"></a></td><td><a href="../programm/rainer-grimm-15-tipps-fuer-besseres-cplusplus-oder-warum-es-nur-10-wurden">15&nbsp;Tipps&nbsp;für&nbsp;besseres&nbsp;C++&nbsp;oder&nbsp;warum&nbsp;es&nbsp;nur&nbsp;10&nbsp;wurden.</a></td><td>Rainer&nbsp;Grimm</td></tr>
 <tr><td>13:00</td><td><a class="talk"></a></td><td><a href="../programm/andreas-mundt-debian-fuer-ein-und-umsteiger">Debian&nbsp;für&nbsp;Ein-&nbsp;und&nbsp;Umsteiger</a></td><td>Andreas&nbsp;Mundt</td></tr>
 <tr><td>14:00</td><td><a class="talk"></a></td><td><a href="../programm/jonas-genannt-systemd-fuer-admins">systemd&nbsp;für&nbsp;Admins</a></td><td>Jonas&nbsp;Genannt</td></tr>
@@ -48,6 +47,7 @@ menu:
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/thomas-dinges-blender-inside-out">Blender&nbsp;Inside&nbsp;Out</a></td><td>Thomas&nbsp;Dinges</td></tr>
 <tr><td>18:00</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-exit">TÜBIX: exit</a></td><td>TÜBIX&nbsp;Orga-Team</td></tr>
 <tr><td>18:15</td><td><a class="talk"></a></td><td><a href="../programm/ingo-blechschmidt-das-geheimnis-der-zahl-5:-die-ananas-aus-spongebob-schwammkopf-ist-eine-luege">Das&nbsp;Geheimnis&nbsp;der&nbsp;Zahl&nbsp;5:&nbsp;Die&nbsp;Ananas&nbsp;aus&nbsp;SpongeBob&nbsp;Schwammkopf&nbsp;ist&nbsp;eine&nbsp;Lüge</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum V2</td></tr>
 <tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/olaf-flebbe-docker-docker-docker">Docker&nbsp;!&nbsp;Docker&nbsp;!&nbsp;Docker&nbsp;!</a></td><td>Olaf&nbsp;Flebbe</td></tr>
@@ -57,10 +57,10 @@ menu:
 <tr><td>13:30</td><td><a class="talk"></a></td><td><a href="../programm/udo-seidel-quo-vadis-linux">Quo&nbsp;vadis&nbsp;Linux?!?</a></td><td>Udo&nbsp;Seidel</td></tr>
 <tr><td>14:00</td><td><a class="talk"></a></td><td><a href="../programm/joachim-schiele-nixos-als-guest-in-lxc-systemd-nspawn-docker-verwenden">NixOS&nbsp;als&nbsp;guest&nbsp;in&nbsp;LXC,&nbsp;systemd-nspawn&nbsp;&&nbsp;docker&nbsp;verwenden</a></td><td>Joachim&nbsp;Schiele</td></tr>
 <tr><td>14:30</td><td><a class="talk"></a></td><td><a href="../programm/matthias-beyer-nixos-als-desktop-os-ein-erfahrungsbericht">NixOS&nbsp;als&nbsp;Desktop-OS&nbsp;-&nbsp;Ein&nbsp;Erfahrungsbericht</a></td><td>Matthias&nbsp;Beyer</td></tr>
-<tr><td>&nbsp;</td></tr>
 <tr><td>15:00</td><td><a class="talk"></a></td><td><a href="../programm/reiner-schlotte-hadoops-secure-mode-fluch-oder-segen">Hadoops&nbsp;'secure&nbsp;mode'&nbsp;-&nbsp;Fluch&nbsp;oder&nbsp;Segen?&nbsp;</a></td><td>Reiner&nbsp;Schlotte</td></tr>
 <tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/olaf-flebbe-hadoop-distribution-selber-machen">Hadoop&nbsp;Distribution&nbsp;Selber&nbsp;Machen</a></td><td>Olaf&nbsp;Flebbe</td></tr>
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/peter-hrenka-korrektheit-von-programmen-beweisen-mit-coq">Korrektheit&nbsp;von&nbsp;Programmen&nbsp;beweisen&nbsp;mit&nbsp;Coq</a></td><td>Peter&nbsp;Hrenka</td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum V3</td></tr>
 <tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">Linux&nbsp;und&nbsp;X2Go:&nbsp;ein&nbsp;&nbsp;effektiver&nbsp;&&nbsp;günstiger&nbsp;Schutz&nbsp;vor&nbsp;Ransomware&nbsp;auf&nbsp;Windows-Systemen</a></td><td>Stefan&nbsp;Baur</td></tr>
@@ -83,7 +83,7 @@ menu:
 <tr><td>23:00</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-die-parabel-der-polygone">Die&nbsp;Parabel&nbsp;der&nbsp;Polygone</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>23:00</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-matheschuelerzirkel">Matheschülerzirkel</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>23:00</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-einmal-stratosphaere-und-zurueck">Einmal&nbsp;Stratosphäre&nbsp;und&nbsp;zurück</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
-<tr><td>14:00</td><td><a class="talk"></a></td><td><a href="../programm/lugs-und-co-var-log-lug">/var/log/LUG</a></td><td>LUGs&nbsp;+&nbsp;Co</td></tr>
+<tr><td>14:00</td><td><a class="light"></a></td><td><a href="../programm/lugs-und-co-var-log-lug">/var/log/LUG</a></td><td>LUGs&nbsp;+&nbsp;Co</td></tr>
 <tr><td>15:00</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">Lightning&nbsp;Talks&nbsp;für&nbsp;Kurzentschlossene</a></td><td>Nachzügler&nbsp;und&nbsp;Kurzentschlossene</td></tr>
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/cornelius-koelbel-open-source-mehr-faktor-authentifizierung-mit-privacyidea">Open&nbsp;Source&nbsp;Mehr-Faktor-Authentifizierung&nbsp;mit&nbsp;privacyIDEA</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>&nbsp;</td></tr>
@@ -97,10 +97,10 @@ menu:
 <tr><td>13:30</td><td><a class="talk"></a></td><td><a href="../programm/justin-humm-freifunk">freifunk</a></td><td>Justin&nbsp;Humm</td></tr>
 <tr><td>14:00</td><td><a class="talk"></a></td><td><a href="../programm/frank-schiebel-wlan-an-der-schule">WLAN&nbsp;an&nbsp;der&nbsp;Schule&nbsp;-&nbsp;Ein&nbsp;Konzept&nbsp;mit&nbsp;Freifunk,&nbsp;Unifi&nbsp;und&nbsp;linuxmuster.net</a></td><td>Frank&nbsp;Schiebel</td></tr>
 <tr><td>15:00</td><td><a class="talk"></a></td><td><a href="../programm/anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons">Kinder,&nbsp;Computerzeitbegrenzung&nbsp;und&nbsp;New-Style-Daemons</a></td><td>Anselm&nbsp;Kruis</td></tr>
-<tr><td>&nbsp;</td></tr>
 <tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/sascha-kaupp-zocken-unter-linux">Zocken&nbsp;unter&nbsp;Linux?&nbsp;Zocken&nbsp;unter&nbsp;Linux!</a></td><td>Sascha&nbsp;Kaupp</td></tr>
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/vinzenz-rosenkranz-was-ist-owncloud-und-wieso">Was&nbsp;ist&nbsp;ownCloud?&nbsp;und&nbsp;wieso?</a></td><td>Vinzenz&nbsp;Rosenkranz</td></tr>
 <tr><td>17:30</td><td><a class="talk"></a></td><td><a href="../programm/robert-scheck-mein-eigener-jabber-server-mit-prosody">Mein&nbsp;eigener&nbsp;Jabber-Server&nbsp;mit&nbsp;Prosody</a></td><td>Robert&nbsp;Scheck</td></tr>
+<tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum LPIC</td></tr>
 <tr><td>12:00</td><td></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Dimitrios Bogiatzoules</td></tr>
