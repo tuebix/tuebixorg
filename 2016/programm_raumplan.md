@@ -112,7 +112,7 @@ menu:
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Observatorium</td></tr>
-<tr><td>??:??</td><td><a class="talk"></a></td><td><a href="../programm/gottschall-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Ruth&nbsp;Gottschall,&nbsp;Daniel&nbsp;Gottschall</td></tr>
-<tr><td>??:??</td><td><a class="talk"></a></td><td><a href="../programm/gottschall-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Ruth&nbsp;Gottschall,&nbsp;Daniel&nbsp;Gottschall</td></tr>
+<tr><td>??:??</td><td><a class="talk"></a></td><td><a href="../programm/ruth-und-daniel-gottschall-das-tuebinger-80cm-teleskop/">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Ruth&nbsp;Gottschall,&nbsp;Daniel&nbsp;Gottschall</td></tr>
+<tr><td>??:??</td><td><a class="talk"></a></td><td><a href="../programm/ruth-und-daniel-gottschall-das-tuebinger-80cm-teleskop/">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Ruth&nbsp;Gottschall,&nbsp;Daniel&nbsp;Gottschall</td></tr>
 
 </table>
