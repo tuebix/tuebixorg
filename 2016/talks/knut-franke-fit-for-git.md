@@ -22,8 +22,8 @@ Anwendungshinweise: Für eine optimale Wirkung sollte *Fit for Git* in Kombinati
 
 - Ubuntu/Debian: `sudo apt-get install git git-man gitk`
 - Fedora/RedHat: `sudo yum install git-all`
-- Windows: https://git-for-windows.github.io/
-- Mac: https://git-scm.com/download/mac
+- Windows: <a href="https://git-for-windows.github.io/" target="_blank">https://git-for-windows.github.io/</a>
+- Mac: <a href="https://git-scm.com/download/mac" target="_blank">https://git-scm.com/download/mac</a>
 
 ### Links
 

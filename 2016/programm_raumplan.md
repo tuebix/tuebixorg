@@ -46,7 +46,7 @@ menu:
 <tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/ingo">Ingo</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/thomas-dinges-blender-inside-out">Blender&nbsp;Inside&nbsp;Out</a></td><td>Thomas&nbsp;Dinges</td></tr>
 <tr><td>18:00</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-exit">TÜBIX: exit</a></td><td>TÜBIX&nbsp;Orga-Team</td></tr>
-<tr><td>18:15</td><td><a class="talk"></a></td><td><a href="../programm/ingo-blechschmidt-das-geheimnis-der-zahl-5:-die-ananas-aus-spongebob-schwammkopf-ist-eine-luege">Das&nbsp;Geheimnis&nbsp;der&nbsp;Zahl&nbsp;5:&nbsp;Die&nbsp;Ananas&nbsp;aus&nbsp;SpongeBob&nbsp;Schwammkopf&nbsp;ist&nbsp;eine&nbsp;Lüge</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
+<tr><td>18:15</td><td><a class="talk"></a></td><td><a href="../programm/ingo-blechschmidt-das-geheimnis-der-zahl-5/">Tagesabschluss:&nbsp;Das&nbsp;Geheimnis&nbsp;der&nbsp;Zahl&nbsp;5</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum V2</td></tr>

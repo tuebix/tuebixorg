@@ -15,5 +15,5 @@ In diesem Vortrag bekommt ihr eine Einführung in das Open Source 3D Programm Bl
 
 ### Links
 
-- Meine Webseite: <a href="www.dingto.org" target="_blank">www.dingto.org</a>
-- Blender: <a href="www.blender.org" target="_blank">www.blender.org</a>
+- Meine Webseite: <a href="http://www.dingto.org" target="_blank">www.dingto.org</a>
+- Blender: <a href="http://www.blender.org" target="_blank">www.blender.org</a>

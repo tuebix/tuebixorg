@@ -15,7 +15,9 @@ Die IT-Welt hat sich in den letzten 3-5 Jahren stark verändert. Cloud und Conta
 
 ### Vorwissen
 
-Aufbau und Funktion klassischer Linux-Distributionen, insbesondere Enterprise (RHEL, SLES, ...) Erfahrung beim Betrieb von Anwendungen auf Openstack, AWS, GCP oder sogar Azure Offenheit für neue Konzepte/Ansätze/Ideen
+- Aufbau und Funktion klassischer Linux-Distributionen, insbesondere Enterprise (RHEL, SLES, ...)
+- Erfahrung beim Betrieb von Anwendungen auf Openstack, AWS, GCP oder sogar Azure
+- Offenheit für neue Konzepte/Ansätze/Ideen
 
 ### Links
 
