@@ -11,7 +11,11 @@ menu:
 
 ### Paul Seitz
 
-In diesem Workshop lernen die Teilnehmer: 1. NixOS zu konfigurieren. 2. Mit Hilfe von NixOS einen Webservice aufzusetzen. 3. Einen Webservice für NixOS zu packetieren.
+In diesem Workshop lernen die Teilnehmer:
+
+1. NixOS zu konfigurieren
+2. Mit Hilfe von NixOS einen Webservice aufzusetzen
+3. Einen Webservice für NixOS zu paketieren
 
 ### Links
 

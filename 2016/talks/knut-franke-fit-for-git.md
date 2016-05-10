@@ -15,7 +15,14 @@ Anwendungsgebiete: Mitarbeit an OpenSource-Projekten die Git verwenden, beruflic
 
 ### Vorwissen
 
-Gegenanzeigen: Bekannte Unverträglichkeit mit der Kommandozeile.  Anwendungshinweise: Für eine optimale Wirkung sollte *Fit for Git* in Kombination mit einem Notebook mit Git (>= 2.0), zugehöriger Dokumentation (man-pages) sowie gitk eingenommen werden. (bei älteren Git-Version kann es vereinzelt zu Komplikationen kommen)  Ubuntu/Debian: `sudo apt-get install git git-man gitk`  Fedora/RedHat: `sudo yum install git-all`  Windows: https://git-for-windows.github.io/  Mac: https://git-scm.com/download/mac
+Gegenanzeigen: Bekannte Unverträglichkeit mit der Kommandozeile.
+
+Anwendungshinweise: Für eine optimale Wirkung sollte *Fit for Git* in Kombination mit einem Notebook mit Git (>= 2.0), zugehöriger Dokumentation (man-pages) sowie gitk eingenommen werden. (bei älteren Git-Version kann es vereinzelt zu Komplikationen kommen)
+
+- Ubuntu/Debian: `sudo apt-get install git git-man gitk`
+- Fedora/RedHat: `sudo yum install git-all`
+- Windows: https://git-for-windows.github.io/
+- Mac: https://git-scm.com/download/mac
 
 ### Links
 

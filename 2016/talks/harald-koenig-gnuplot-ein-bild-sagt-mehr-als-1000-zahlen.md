@@ -15,7 +15,7 @@ gnuplot in meiner UNIX-Werkzeugkiste seit mehr als einem Jahrzehnt nicht wegzude
 
 ### Vorwissen
 
-keine (naja, tippen können, und nicht zu viel Angst vor Tastatur nud Kommandozeile;-)
+keine (naja, tippen können, und nicht zu viel Angst vor Tastatur nud Kommandozeile ;-)
 
 ### Links
 
