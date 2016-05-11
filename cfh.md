@@ -15,7 +15,7 @@ O heißt "es besteht noch Bedarf - zu besetzen" <br/>
 
 ## Grill (je 1h, 2 Personen)
 
-O O 15:00 - 16:00 Grillen<br/>f
+O O 15:00 - 16:00 Grillen<br/>
 O O 16:00 - 17:00 Grillen<br/>
 O O 17:00 - 18:00 Grillen<br/>
 O O 18:00 - 19:00 Grillen<br/>
@@ -80,7 +80,7 @@ X 16:00 - 18:00 Kasse<br/>
 ## Gästebett (Fr/Sa und Sa/So)
 Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Dann melde dich bei uns und gib Bescheid, wieviele Übernachtungen du ermöglichen könntest:
 
-O O O O O
+X O O O O O
 
 ## Fotos
 Du willst den Tag für die Nachwelt festhalten? Die Chance bekommst du als Fotograf
@@ -89,7 +89,7 @@ O O O O
 
 ## So kann jeder helfen
 
-- Damit wir besser kalkulieren können, bitte <a href="mailto:anmeldung2016@tuebix.org?subject=Anmeldung%20Tuebix">anmelden</a>.
+- Damit wir besser kalkulieren können, bitte <a href="anmeldung/">anmelden</a>.
 - Bitte bringt nicht nur 20er-Scheine mit, damit wir nicht ins Wechselgeld-Dilemma kommen: je mehr Euro-Münzen und je weniger Scheine Du dabei hast, desto besser.
 - Hilf Müll zu vermeiden bzw. gleich wegzuräumen, damit wir die Räumlichkeiten vielleicht 2017 wieder nutzen können.
 - Sei präsent: wenn es an irgendeiner Stelle Handlungsbedarf gibt, dann handle im Sinne der Veranstaltung!
