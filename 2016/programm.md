@@ -63,7 +63,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk"><a href="../programm/sebastian-klingberg-high-performance-computing-mit-docker">HPC mit Docker</a></td>
 <td rowspan="4"><a class="light">Lightning Talks</a></td>
 <td            ><a class="talk"><a href="../programm/wolfgang-engelmann-mit-lyx-master-doktorarbeit-schreiben">LyX</a></td>
-<td rowspan="4"><a class="work"><a href="../../lpic/">LPIC</a></td>
+<td rowspan="4"><a class="lpic"><a href="../../lpic/">LPIC</a></td>
 <td>12:00</td></tr>
 
 <tr><td></td>
@@ -89,7 +89,7 @@ padding-right: 8px;
 <td            ><a class="talk"><a href="../programm/joachim-schiele-nixos-als-guest-in-lxc-systemd-nspawn-docker-verwenden">NixOS</a></td>
 <td rowspan="2"><a class="light"><a href="../programm/lugs-und-co-var-log-lug">/var/log/LUG</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/frank-schiebel-wlan-an-der-schule">WLAN&nbsp;an&nbsp;der&nbsp;Schule</a></td>
-<td rowspan="4"><a class="work"><a href="../../lpic/">LPIC</a></td>
+<td rowspan="4"><a class="lpic"><a href="../../lpic/">LPIC</a></td>
 <td>14:00</td></tr>
 
 <tr><td></td>
@@ -146,7 +146,7 @@ padding-right: 8px;
 
 <tr><td>19:00</td>
 <td colspan="3">Observatorium: <a class="talk" href="../programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/">Das&nbsp;80cm-Teleskop</a></td>
-<td></td></tr>
+<td>19:00</td></tr>
 
 <!-- for some reason the next tag (to close the table) won't show up in the end... wtf?  -->
 </table>
