@@ -17,8 +17,8 @@ padding-right: 8px;
 </style>
 
 * <a href="../programmentwurf_raumplan/">Raumplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
-* <a href="../programmentwurf_zeitplan/">Zeitplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
 * <span style="font-weight: bold;">Überblick&nbsp;&nbsp;&nbsp;&nbsp;</span>
+* <a href="../programmentwurf_rahmen/">Rahmenprogramm</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br/>
 
