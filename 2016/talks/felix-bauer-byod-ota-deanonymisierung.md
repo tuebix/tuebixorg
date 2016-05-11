@@ -13,3 +13,9 @@ menu:
 
 Sniffing for WIFI clients
 
+  Moderne Smartphones werden ständig mitgeführt und mit unzähligen
+  Drahtlosnetzwerken verbunden, um diese Verbindungen wieder aufnehmen zu können
+  werden die Netze auch aktiv angefragt. Wir wollen uns diese Pakete genauer
+  anschauen und ein kleines Tool entwickeln um die Namen der WLANs darzustellen
+  und eventuell Rückschlüsse auf den Besitzer des Geräts zu ziehen.
+
