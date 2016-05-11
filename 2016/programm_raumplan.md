@@ -80,10 +80,26 @@ menu:
 <tr><td>13:05</td><td><a class="light"></a></td><td><a href="../programm/alexander-berg-nx-ist-tot-es-lebe-xpra">NX&nbsp;ist&nbsp;tot,&nbsp;es&nbsp;lebe&nbsp;<del>N</del>Xpra</a></td><td>Alexander&nbsp;Berg</td></tr>
 <tr><td>13:10</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-squid-reproduction">Squid&nbsp;Reproduction</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>13:15</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-die-parabel-der-polygone">Die&nbsp;Parabel&nbsp;der&nbsp;Polygone</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
+<tr><td>13:20</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>13:25</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>13:30</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>13:35</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>13:40</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>13:45</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>13:50</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>14:00</td><td><a class="light"></a></td><td><a href="../programm/lugs-und-co-var-log-lug">/var/log/LUG</a></td><td>LUGs&nbsp;+&nbsp;Co</td></tr>
-<tr><td>15:00</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">Lightning&nbsp;Talks&nbsp;für&nbsp;Kurzentschlossene</a></td><td>Nachzügler&nbsp;und&nbsp;Kurzentschlossene</td></tr>
-<tr><td>15:05</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-free-internet">Free&nbsp;Internet</a></td><td>Felix&nbsp;Bauer</td></tr>
-<tr><td>15:10</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-keine-lust-auf-lange-uebersetzungszeiten-bei-latex-auf-schwachen-rechnern">Keine&nbsp;Lust&nbsp;auf&nbsp;lange&nbsp;Übersetzungszeiten&nbsp;bei&nbsp;LaTeX&nbsp;auf&nbsp;schwachen&nbsp;Rechnern?</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
+<tr><td>15:00</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-free-internet">Free&nbsp;Internet</a></td><td>Felix&nbsp;Bauer</td></tr>
+<tr><td>15:05</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-keine-lust-auf-lange-uebersetzungszeiten-bei-latex-auf-schwachen-rechnern">Keine&nbsp;Lust&nbsp;auf&nbsp;lange&nbsp;Übersetzungszeiten&nbsp;bei&nbsp;LaTeX&nbsp;auf&nbsp;schwachen&nbsp;Rechnern?</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
+<tr><td>15:10</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>15:15</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>15:20</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>15:25</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>15:30</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>15:35</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>15:40</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>15:45</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>15:50</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/cornelius-koelbel-open-source-mehr-faktor-authentifizierung-mit-privacyidea">Open&nbsp;Source&nbsp;Mehr-Faktor-Authentifizierung&nbsp;mit&nbsp;privacyIDEA</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>&nbsp;</td></tr>
 
