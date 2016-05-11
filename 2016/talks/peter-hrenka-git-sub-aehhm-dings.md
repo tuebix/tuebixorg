@@ -7,11 +7,17 @@ menu:
 ---
 ## git sub - ähhm - dings
 
-### <img height = "32" src="../../../images/lightning.svg"> 23:00 bis 24:00 in Raum V555
+### <img height = "32" src="../../../images/lightning.svg"> 23:00 bis 24:00 in Raum V3
 
 ### Peter Hrenka
 
-Um mehrere voneinander abhängige Projekte mit git zu verwalten gibt eine ganze Reihe von git "sub"-Kommandos: * git submodule * git subtree * git subrepo Ich werde diese Tools vergleichen und ein paar typische Abläufe damit vorstellen.
+Um mehrere voneinander abhängige Projekte mit git zu verwalten gibt eine ganze Reihe von git "sub"-Kommandos:
+
+- git submodule
+- git subtree
+- git subrepo
+
+Ich werde diese Tools vergleichen und ein paar typische Abläufe damit vorstellen.
 
 ### Vorwissen
 

@@ -123,7 +123,7 @@ padding-right: 8px;
 <tr><td>17:00</td>
 <td rowspan="2"><a class="talk"><a href="../programm/thomas-dinges-blender-inside-out">Blender</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/peter-hrenka-korrektheit-von-programmen-beweisen-mit-coq">Coq</a></td>
-<td rowspan="2"><a class="talk"><a href="../programm/cornelius-koelbel-open-source-mehr-faktor-authentifizierung-mit-privacyidea">Mehr-Faktor-Authentifizierung</a></td>
+<td rowspan="2"><a class="talk"><a href="../programm/cornelius-koelbel-open-source-mehr-faktor-authentifizierung-mit-privacyidea">privacyIDEA</a></td>
 <td            ><a class="talk"><a href="../programm/vinzenz-rosenkranz-was-ist-owncloud-und-wieso">owncloud</a></td>
 <td>17:00</td></tr>
 
