@@ -13,3 +13,9 @@ menu:
 
 Gefahren durch kompromittierte HDD-Firmware
 
+  Gefahren für und ausgehend von Computerhardware in Form von physischen und
+  logischen Angriffen auf Festplatten (Geräten mit leistungsfähigen
+  ARM-Cores, viel RAM, seriellen Schnittstellen, mehreren TB Storage und 6
+  Gbits/s interfaces). Persistente Backdoors (APT), Spionage, Spielereien, nicht
+  detektierbare Datenextraktion und vieles mehr.
+
