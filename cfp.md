@@ -19,6 +19,8 @@ Danke für die zahlreichen Einreichungen!<br/>
 Wir sind jetzt dabei ein schönes Programm zusammezustellen.<br/>
 Sobald es fertig ist geben wir das über den <a href="http://www.tuebix.org/newsletter">Newsletter</a> bekannt.
 
+Bei den <a href="http://www.tuebix.org/2016/programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene/">Lightning Talks haben wir noch etwas Platz für Nachzügler freigehalten. Nur solange der Vorrat reicht! ;)</a>
+
 
 <!--
 Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
