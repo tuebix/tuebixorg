@@ -7,8 +7,8 @@ menu:
 ---
 
 * <span style="font-weight: bold;">Raumplan&nbsp;&nbsp;&nbsp;&nbsp;</span>
-* <a href="../programmentwurf_zeitplan/">Zeitplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
 * <a href="../programmentwurf/">Überblick</a>&nbsp;&nbsp;&nbsp;&nbsp;
+* <a href="../programmentwurf_rahmen/">Rahmenprogramm</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br/>
 
