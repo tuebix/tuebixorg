@@ -581,7 +581,7 @@
         "urlid": "felix-bauer-hard-disk-heart-attack",
         "timebegin": "16:00",
         "name": "Felix Bauer",
-        "inhalt": "Gefahren durch kompromittierte HDD-Firmware",
+        "inhalt": "Gefahren durch kompromittierte HDD-Firmware  Gefahren für und ausgehend von Computerhardware in Form von physischen und  logischen Angriffen auf Festplatten (Geräten mit leistungsfähigen  ARM-Cores, viel RAM, seriellen Schnittstellen, mehreren TB Storage und 6  Gbits/s interfaces). Persistente Backdoors (APT), Spionage, Spielereien, nicht  detektierbare Datenextraktion und vieles mehr.",
         "room": "V1"
     },
     {
@@ -594,7 +594,7 @@
         "urlid": "felix-bauer-squid-reproduction",
         "timebegin": "23:00",
         "name": "Felix Bauer",
-        "inhalt": "Automatische Instantiierung eines Docker-Containers mit Caching Proxy",
+        "inhalt": "Automatische Instantiierung eines Docker-Containers mit Caching Proxy  Caching Proxy in 3..2..1. Als Package-Cache für Linuxe (Linux-Install-Party)  oder für sonstige Beschleunigungen, Proxies haben auch im Jahr 2016  noch eine Daseinsberechtigung (aber eigentlich nicht direkt auf meinem  schönen System). Daher eine schnelle Lösung mit Containern und allen  Vorteilen: Kapselung, Separierung, Isolierung, Ver- und Entsorgung von Daten,  Loggs und Unnötigem, ständig frisch und ohne Aufwand.",
         "room": "V3"
     },
     {
@@ -607,7 +607,7 @@
         "urlid": "felix-bauer-free-internet",
         "timebegin": "23:00",
         "name": "Felix Bauer",
-        "inhalt": "Einmal frei machen bitte - Sicher und unbeschränkt, WLAN für alle",
+        "inhalt": "Einmal frei machen bitte - Sicher und unbeschränkt, WLAN für alle  Das Internet gehört zu den Grundbedürfnissen und sollte Grundrecht sein. Freies Internet bedeutet freien Zugang zu Informationen und Kommunikation  und solle jedem überall und immer zur Verfügung stehen. Störerhaftung stört.  Ein technischer Lösungsansatz ist das TOR-Netzwerk als Anonymisierungsdienst.  Der Vortrag beschreibt mit welchen Komponenten man aus einem Linux Rechner  einen WLAN-Router macht und wie die Daten ihren Weg ins ordentliche Internet  finden.  Wunsch:  Sind Anwälte anwesend? Kennt jemand jemanden der Anwalt ist? Spezialisten für  Medienrecht? Ich möchte eine vernünftige (nicht technische) Lösung für das  Problem der Störerhaftung!",
         "room": "V3"
     },
     {
@@ -620,7 +620,7 @@
         "urlid": "felix-bauer-wol-on-arp-anturnen-bei-bedarf",
         "timebegin": "23:00",
         "name": "Felix Bauer",
-        "inhalt": "Es wird erst heiß wenns richtig los geht. PC automatisch bei Bedarf einschalten.",
+        "inhalt": "Es wird erst heiß wenns richtig los geht. PC automatisch bei Bedarf einschalten. Ein System das ständig läuft genügt (kann der Router sein), alles andere sollte nur bei Bedarf die Wohnung heizen. Wake-on-Lan ist eine Lösung, aber alleine doch zu umständlich. Wake-on-ARP wird nur von den wenigsten Netzwerkkarten unterstützt, kann aber leicht \"nachgerüstet\" werden. Ein kleines Skript stellt die Verbindung zwischen ARP und WOL her. Der Vortrag zeigt wie und erklärt warum.",
         "room": "V3"
     },
     {
@@ -633,7 +633,7 @@
         "urlid": "felix-bauer-alpinelinux",
         "timebegin": "23:00",
         "name": "Felix Bauer",
-        "inhalt": "Ein sicherheitsorientiertes, leichtgewichtiges Linux auf Basis von musl libc und busybox",
+        "inhalt": "Alpine Linux ist eine sicherheitsorientierte und leichtgewichtige Distribution auf Basis von musl libc und busybox. Im Vortrag werden die schönsten Features, Unterschiede, Merkmale und Eigenheiten gezeigt und kurz erklärt.",
         "room": "V3"
     },
     {
@@ -646,7 +646,7 @@
         "urlid": "felix-bauer-byod-ota-deanonymisierung",
         "timebegin": "12:00",
         "name": "Felix Bauer",
-        "inhalt": "Sniffing for WIFI clients",
+        "inhalt": "Sniffing for WIFI clients: Moderne Smartphones werden ständig mitgeführt und mit unzähligen Drahtlosnetzwerken verbunden, um diese Verbindungen wieder aufnehmen zu können  werden die Netze auch aktiv angefragt. Wir wollen uns diese Pakete genauer  anschauen und ein kleines Tool entwickeln um die Namen der WLANs darzustellen  und eventuell Rückschlüsse auf den Besitzer des Geräts zu ziehen.",
         "room": "W3"
     },
     {
