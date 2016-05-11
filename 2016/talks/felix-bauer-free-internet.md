@@ -13,3 +13,16 @@ menu:
 
 Einmal frei machen bitte - Sicher und unbeschränkt, WLAN für alle
 
+
+  Das Internet gehört zu den Grundbedürfnissen und sollte Grundrecht sein.
+  Freies Internet bedeutet freien Zugang zu Informationen und Kommunikation
+  und solle jedem überall und immer zur Verfügung stehen. Störerhaftung stört.
+  Ein technischer Lösungsansatz ist das TOR-Netzwerk als Anonymisierungsdienst.
+  Der Vortrag beschreibt mit welchen Komponenten man aus einem Linux Rechner
+  einen WLAN-Router macht und wie die Daten ihren Weg ins ordentliche Internet
+  finden.
+
+  Wunsch:
+  Sind Anwälte anwesend? Kennt jemand jemanden der Anwalt ist? Spezialisten für
+  Medienrecht? Ich möchte eine vernünftige (nicht technische) Lösung für das
+  Problem der Störerhaftung!
