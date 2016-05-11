@@ -15,9 +15,9 @@ menu:
 
 am Vorabend: Fr, 10. Juni 2016
 
-Wir werden den Auftakt nach dem Platzregen letztes Jahr im Neckarmüller-Biergarten dieses Mal in der <a href="http://www.tuepedia.de/wiki/Stadtpost" target="_blank">Stadtpost</a> in der <a href="http://osm.org/go/0DkqBIl9K?m=&node=289739544" target="_blank">Neuen Straße 9</a>.
+Der Auftakt ist dieses Mal in der <a href="http://www.tuepedia.de/wiki/Stadtpost" target="_blank">Stadtpost</a> in der <a href="http://osm.org/go/0DkqBIl9K?m=&node=289739544" target="_blank">Neuen Straße 9</a>.
 
-Treffpunkt: um 18:00<br/>
+Treffpunkt: um 19:00<br/>
 
 Bitte im Pad eintragen, wenn du vorhast zu kommen: <a href="https://tuebix2015.titanpad.com/auftakt" target="_blank">Auftakt-Pad</a>
 
