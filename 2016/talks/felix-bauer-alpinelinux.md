@@ -13,3 +13,8 @@ menu:
 
 Ein sicherheitsorientiertes, leichtgewichtiges Linux auf Basis von musl libc und busybox
 
+
+  Alpine Linux ist eine sicherheitsorientierte und leichtgewichtige Distribution
+  auf Basis von musl libc und busybox. Im Vortrag werden die schönsten Features,
+  Unterschiede, Merkmale und Eigenheiten gezeigt und kurz erklärt.
+
