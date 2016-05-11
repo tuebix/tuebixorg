@@ -191,8 +191,8 @@
         "urlid": "marcus-siegl-raspberry-pi-als-internet-of-things",
         "timebegin": "23:00",
         "name": "Marcus Siegl",
-        "inhalt": "Kleiner Showcase was man mit einem Rasberry Pi Zero dem 5$ Computer alles anstellen kann.",
-        "room": "V555"
+        "inhalt": "Kleiner Showcase, was man mit einem Rasberry Pi Zero (\"dem 5$ Computer\") alles anstellen kann.",
+        "room": "V3"
     },
     {
         "titel": "git sub - ähhm - dings",
@@ -205,7 +205,7 @@
         "timebegin": "23:00",
         "name": "Peter Hrenka",
         "inhalt": "Um mehrere voneinander abhängige Projekte mit git zu verwalten gibt eine ganze Reihe von git \"sub\"-Kommandos: * git submodule * git subtree * git subrepo Ich werde diese Tools vergleichen und ein paar typische Abläufe damit vorstellen.",
-        "room": "V555"
+        "room": "V3"
     },
     {
         "titel": "emacs 101 - Lerne den Editor deines Lebens kennen!",
@@ -230,8 +230,8 @@
         "urlid": "david-elias-kuenstle-dokumenten-kungfoo-fuer-hacker-mit-pandoc-filter",
         "timebegin": "23:00",
         "name": "David-Elias Künstle",
-        "inhalt": "Mit Pandoc kann man eine Vielzahl an Dokumententypen ineinander umwandeln. So groß die Anzahl der Möglichkeiten damit ist, so wird sie umso größer wenn man sich traut den AST des Dokumentes mit Skripten, dem Pandoc Filter, zu ändern. ",
-        "room": "V555"
+        "inhalt": "Mit Pandoc kann man eine Vielzahl an Dokumententypen ineinander umwandeln. So groß die Anzahl der Möglichkeiten damit ist, so wird sie umso größer, wenn man sich traut den AST des Dokumentes mit Skripten, dem Pandoc Filter, zu ändern. ",
+        "room": "V3"
     },
     {
         "titel": "Webdienste unter NixOS",
@@ -248,7 +248,7 @@
     },
     {
         "titel": "MobaXterm - Linux-Feeling unter Windows",
-        "weblinks": "mobaxterm.mobatek.net",
+        "weblinks": "http://mobaxterm.mobatek.net",
         "vorwissen": "",
         "timeend": "24:00",
         "buzzword": "Windows, Terminal, X-Server, SSH, Cygwin",
@@ -257,11 +257,11 @@
         "timebegin": "23:00",
         "name": "Alexander Nehmer",
         "inhalt": "Vorstellung von MobaXterm, einem Toolkit von Linux-Werkzeugen unter Windows. MobaXterm basiert auf Cygwin und ermöglicht das Arbeiten unter Windows mit Linux-Feeling. MobaXterm kommt als Tab-organisierter Terminal daher, bringt einen X-Server mit, einen (S)FTP-Client, einen Telnet-Client, SSH-Agent, sämtliche Cygwin-Tools (sed, wget, awk, grep etc.), einen Paket-Manager (apt-cyg), einen SSH-Client und umfangreiche Konfigurationsmöglichkeiten. Wer den Commandline-Komfort einen Linux-Systems der Bedienschwere von Windows Explorer und CMD vorzieht, wird von MobaXterm schwer begeistert sein.",
-        "room": "V555"
+        "room": "V3"
     },
     {
         "titel": "NX ist tot, es lebe <del>N</del>Xpra",
-        "weblinks": "",
+        "weblinks": "http://xpra.org",
         "vorwissen": "",
         "timeend": "24:00",
         "buzzword": "*nix,Linux,Unix,X11,NX,ssh,Remote Desktop,Xpra,Winswitch,Persistent Remote X11",
@@ -269,8 +269,8 @@
         "urlid": "alexander-berg-nx-ist-tot-es-lebe-xpra",
         "timebegin": "23:00",
         "name": "Alexander Berg",
-        "inhalt": "\"Xpra is an open-source multi-platform persistent remote display server and client for forwarding applications and desktop screens. It gives you remote access to individual applications or full desktops. On X11, it is also known as screen for X11: it allows you to run programs, usually on a remote host, direct their display to your local machine, and then to disconnect from these programs and reconnect from the same or another machine, without losing any state. It can also be used to forward full desktops, from X11 servers, MS Windows, or Mac OS X.\" [http://xpra.org/]",
-        "room": "V555"
+        "inhalt": "\"Xpra is an open-source multi-platform persistent remote display server and client for forwarding applications and desktop screens. It gives you remote access to individual applications or full desktops. On X11, it is also known as screen for X11: it allows you to run programs, usually on a remote host, direct their display to your local machine, and then to disconnect from these programs and reconnect from the same or another machine, without losing any state. It can also be used to forward full desktops, from X11 servers, MS Windows, or Mac OS X.\"",
+        "room": "V3"
     },
     {
         "titel": "Docker ! Docker ! Docker !",
@@ -296,7 +296,7 @@
         "timebegin": "23:00",
         "name": "Arnd Bergmann",
         "inhalt": "Zeit wird in Unix und Linux in time_t beschrieben, oft eine 32-bit Zahl, die Sekunden zwischen 1970 und 2038 zählt. Wir arbeiten daran, das Grundsätzlich auf 64 bit zu erweitern, damit es auch 2039 noch funktionierende Computer gibt.",
-        "room": "V555"
+        "room": "V3"
     },
     {
         "titel": "Maintaining a large Linux kernel subsystem",
@@ -338,7 +338,7 @@
         "room": "W1"
     },
     {
-        "titel": "Crazyflie - Frei wie ein ...",
+        "titel": "Crazyflie - Frei wie ein...",
         "weblinks": "https://www.bitcraze.io/crazyflie-2/ ",
         "vorwissen": "Lust auf Technik und freie Hardware/Software",
         "timeend": "24:00",
@@ -347,8 +347,8 @@
         "urlid": "harald-koenig-crazyflie-frei-wie-ein",
         "timebegin": "23:00",
         "name": "Harald König",
-        "inhalt": "Crazyflie 2.0 ist ein schnuckelig kleiner QuadCopter (nur 27 Gramm), dessen Hardware und Software frei sind. Das ermöglicht, ohne grossen Aufwand ein bissl in die Copter-Welt einzusteigen..",
-        "room": "V555"
+        "inhalt": "Crazyflie 2.0 ist ein schnuckelig kleiner QuadCopter (nur 27 Gramm), dessen Hardware und Software frei sind. Das ermöglicht, ohne grossen Aufwand ein bissl in die Copter-Welt einzusteigen.",
+        "room": "V3"
     },
     {
         "titel": "3D Konstruktion und 3D Druck mit OpenSCAD und Slic3r",
@@ -490,8 +490,8 @@
         "urlid": "sebastian-klingberg-netzwerkbaukasten-openvswitch",
         "timebegin": "23:00",
         "name": "Sebastian Klingberg",
-        "inhalt": "Möchte man eine Netzwerkbasis zwischen VMs und Containern schaffen und das am besten noch in einen Cloud Context setzen, so Bedarf dies einer gewissen Dynamik. Virtuelle Switche können diese Dynamik bieten und bieten dabei noch einige weitere Vorteile allerdings auch ein paar Eigenheiten.  In diesem Lightning Talk soll einer der prominentesten Vertreter der Sorte kurz vorgestellt werden: OpenVSwitch",
-        "room": "V555"
+        "inhalt": "Möchte man eine Netzwerkbasis zwischen VMs und Containern schaffen und das am besten noch in einen Cloud Context setzen, so Bedarf dies einer gewissen Dynamik. Virtuelle Switche können diese Dynamik bieten und bieten dabei noch einige weitere Vorteile - allerdings auch ein paar Eigenheiten.  In diesem Lightning Talk soll einer der prominentesten Vertreter der Sorte kurz vorgestellt werden: OpenVSwitch",
+        "room": "V3"
     },
     {
         "titel": "Das PHP-Framework (TYPO3) Flow ",
@@ -595,7 +595,7 @@
         "timebegin": "23:00",
         "name": "Felix Bauer",
         "inhalt": "Automatische Instantiierung eines Docker-Containers mit Caching Proxy",
-        "room": "V555"
+        "room": "V3"
     },
     {
         "titel": "Free Internet",
@@ -608,7 +608,7 @@
         "timebegin": "23:00",
         "name": "Felix Bauer",
         "inhalt": "Einmal frei machen bitte - Sicher und unbeschränkt, WLAN für alle",
-        "room": "V555"
+        "room": "V3"
     },
     {
         "titel": "WOL-on-ARP - Anturnen bei Bedarf",
@@ -621,7 +621,7 @@
         "timebegin": "23:00",
         "name": "Felix Bauer",
         "inhalt": "Es wird erst heiß wenns richtig los geht. PC automatisch bei Bedarf einschalten.",
-        "room": "V555"
+        "room": "V3"
     },
     {
         "titel": "AlpineLinux",
@@ -634,7 +634,7 @@
         "timebegin": "23:00",
         "name": "Felix Bauer",
         "inhalt": "Ein sicherheitsorientiertes, leichtgewichtiges Linux auf Basis von musl libc und busybox",
-        "room": "V555"
+        "room": "V3"
     },
     {
         "titel": "BYOD - OTA Deanonymisierung",
@@ -659,7 +659,7 @@
         "urlid": "lugs-und-co-var-log-lug",
         "timebegin": "14:00",
         "name": "LUGs + Co",
-        "inhalt": "im Prinzip wie letztes Jahr (http://www.tuebix.org/programm/lugs-kurzvorstellungen) ein Austausch zwischen den User Groups und ähnlichen Gruppen. Diesmal evlt. zusätzlich mit kleinem Austausch/Rückblick auf die beiden vergangenen Linux Presentation Days.",
+        "inhalt": "Aufgrund der vielen guten Rückmeldungen vom letzten Jahr (http://www.tuebix.org/2015/programm/lugs-kurzvorstellungen/) abermals die Gelegenheit zum Austausch zwischen den User Groups und ähnlichen Gruppen. Diesmal zusätzlich mit kleinem Austausch/Rückblick auf die beiden vergangenen Linux Presentation Days.",
         "room": "V3"
     },
     {
@@ -699,7 +699,7 @@
         "timebegin": "23:00",
         "name": "Sebastian Niedworok",
         "inhalt": "Kurze Vorstellung einiger Tools, mit denen man schnell eine einigermaßen brauchbare Kommandozeilenumgebung in Windows hinbekommt.",
-        "room": "V555"
+        "room": "V3"
     },
     {
         "titel": "Das Geheimnis der Zahl 5",
@@ -738,7 +738,7 @@
         "timebegin": "23:00",
         "name": "Ingo Blechschmidt",
         "inhalt": "Ich bin ein großer Fan des Textsatzsystems LaTeX, bei dem man seine Texte in einer wilden Mischung aus einer reinen Auszeichnungssprache und einer vollwertigen, Turing-vollständigen Sprache formatiert. LaTeX eignet sich insbesondere für längere Dokumente, für Dokumente mit vielen  mathematischen Formeln und für LiebhaberInnen eines typographischen Niveaus, das über das von LibreOffice und ähnlichen Produkten weit hinausgeht.  Auf meinem Laptop läuft LaTeX allerdings quälend langsam.  Aus der Frustration ist ein kleines Werkzeug entstanden, mit dem man LaTeX auf effiziente Art und Weise auf einem schnelleren Server ausführen kann. Der Lightning Talk stellt dieses Progrämmchen, sshlatex, vor und berichtet von seiner Entstehung.",
-        "room": "V555"
+        "room": "V3"
     },
     {
         "titel": "Die Parabel der Polygone",
@@ -751,7 +751,7 @@
         "timebegin": "23:00",
         "name": "Ingo Blechschmidt",
         "inhalt": "Die Parabel der Polygone ist ein Projekt der Mathemusikerin Vi Hart und des Interaktivkünstlers Nicky Case. Es ist eine Geschichte darüber, wie zunächst harmlose Entscheidungen eine Welt dramatisch verändern können und wieso man in seiner Umgebung Vielfalt verlangen sollte.",
-        "room": "V555"
+        "room": "V3"
     },
     {
         "titel": "Mein erstes selbstgebautes RPM-Paket!",
@@ -803,7 +803,7 @@
         "timebegin": "23:00",
         "name": "Ingo Blechschmidt",
         "inhalt": "Die Schülerin Emma hat Spaß an Mathe und möchte ihr Interesse vertiefen. In ihrer Klasse steht sie damit fast alleine da. Wohin kann Emma gehen?",
-        "room": "V555"
+        "room": "V3"
     },
     {
         "titel": "Einmal Stratosphäre und zurück",
@@ -816,6 +816,6 @@
         "timebegin": "23:00",
         "name": "Ingo Blechschmidt",
         "inhalt": "Es ist erstaunlich leicht, einen Heliumballon etwa 30.000 Meter bis in die Stratosphäre aufsteigen zu lassen und so eindrucksvolle Fotos zu schießen. Der Lightning Talk klärt die wichtigsten Punkte. Für anwesende Kinder oder deren Eltern gibt es ein kleines nerdiges Überraschungsgeschenk zum mit nach Hause nehmen.",
-        "room": "V555"
+        "room": "V3"
     }
 ]
