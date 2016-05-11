@@ -118,12 +118,12 @@ menu:
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum LPIC</td></tr>
-<tr><td>12:00</td><td></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Dimitrios Bogiatzoules</td></tr>
-<tr><td>14:00</td><td></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td>Dimitrios Bogiatzoules</td></tr>
+<tr><td>12:00</td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Dimitrios Bogiatzoules</td></tr>
+<tr><td>14:00</td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td>Dimitrios Bogiatzoules</td></tr>
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum Mini-FrogLabs</td></tr>
-<tr><td>10:00</td><td></td><td><a class="work" href="../../kinder">Kinderprogramm Mini-FrogLabs</a></td><td>Teckids e.V.</td></tr>
+<tr><td>10:00</td><td><a class="work" href="../../kinder">Kinderprogramm Mini-FrogLabs</a></td><td>Teckids e.V.</td></tr>
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Observatorium</td></tr>
