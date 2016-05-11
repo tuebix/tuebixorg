@@ -1,17 +1,17 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/ruth-und-daniel-gottschall-das-tuebinger-80cm-teleskop/
+permalink: /2016/programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/
 weight: 
 menu:
 ---
 ## Das&nbsp;Tübinger&nbsp;80cm-Teleskop
 
-### <img height = "32" src="../../../images/talk.svg"> ??:?? bis ??:?? im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 18:30 bis 19:00 im Observatorium
 
-### <img height = "32" src="../../../images/talk.svg"> ??:?? bis ??:?? im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 19:00 bis 19:30 im Observatorium
 
-### Ruth&nbsp;Gottschall&nbsp;und&nbsp;Daniel&nbsp;Gottschall
+### Ruth&nbsp;Gottschall&nbsp;und&nbsp;Daniel&nbsp;Gottschall,&nbsp;Cornelia&nbsp;Heinitz
 
 Der Blick über den Tellerrand ins All!
 
