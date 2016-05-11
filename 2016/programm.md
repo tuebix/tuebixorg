@@ -139,13 +139,13 @@ padding-right: 8px;
 <td>18:00</td></tr>
 
 <tr><td>18:30</td>
-<td colspan="3">Observatorium: <a class="talk" href="../programm/ruth-und-daniel-gottschall-das-tuebinger-80cm-teleskop/">Das&nbsp;80cm-Teleskop</a></td>
+<td colspan="3">Observatorium: <a class="talk" href="../programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/">Das&nbsp;80cm-Teleskop</a></td>
 <td rowspan="2"><a class="talk" href="../programm/ingo-blechschmidt-das-geheimnis-der-zahl-5/">Tagesabschluss</a></td>
 <td colspan="5" rowspan="2"> </td>
 <td>18:30</td></tr>
 
-<tr><td>&nbsp;</td>
-<td colspan="3">Observatorium: <a class="talk" href="../programm/ruth-und-daniel-gottschall-das-tuebinger-80cm-teleskop/">Das&nbsp;80cm-Teleskop</a></td>
+<tr><td>19:00</td>
+<td colspan="3">Observatorium: <a class="talk" href="../programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/">Das&nbsp;80cm-Teleskop</a></td>
 <td></td></tr>
 
 <!-- for some reason the next tag (to close the table) won't show up in the end... wtf?  -->
