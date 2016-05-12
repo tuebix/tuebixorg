@@ -44,7 +44,7 @@ menu:
 <tr><td>14:00</td><td><a class="talk"></a></td><td><a href="../programm/jonas-genannt-systemd-fuer-admins">systemd&nbsp;für&nbsp;Admins</a></td><td>Jonas&nbsp;Genannt</td></tr>
 <tr><td>15:00</td><td><a class="talk"></a></td><td><a href="../programm/robert-scheck-selinux-bitte-nicht-deaktivieren">SELinux:&nbsp;Bitte&nbsp;nicht&nbsp;deaktivieren...</a></td><td>Robert&nbsp;Scheck</td></tr>
 <tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/felix-bauer-hard-disk-heart-attack">Hard&nbsp;Disk&nbsp;Heart&nbsp;Attack</a></td><td>Felix&nbsp;Bauer</td></tr>
-<tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/ingo-blechschmidt-physik-der-klaenge-experimente-mit-linux-bordmitteln">Physik&nbsp;der&nbsp;Klänge&nbsp;-&nbsp;Experimente&nbsp;mit&nbsp;Linux-Bordmitteln</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
+<tr><td>16:30</td><td><a class="talk"></a></td><td><a href="../programm/ingo-blechschmidt-physik-der-klaenge-experimente-mit-linux-bordmitteln">Physik&nbsp;der&nbsp;Klänge&nbsp;-&nbsp;Experimente&nbsp;mit&nbsp;Linux-Bordmitteln</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/thomas-dinges-blender-inside-out">Blender&nbsp;Inside&nbsp;Out</a></td><td>Thomas&nbsp;Dinges</td></tr>
 <tr><td>18:00</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-exit">TÜBIX: exit</a></td><td>TÜBIX&nbsp;Orga-Team</td></tr>
 <tr><td>18:15</td><td><a class="talk"></a></td><td><a href="../programm/ingo-blechschmidt-das-geheimnis-der-zahl-5/">Tagesabschluss:&nbsp;Das&nbsp;Geheimnis&nbsp;der&nbsp;Zahl&nbsp;5</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
