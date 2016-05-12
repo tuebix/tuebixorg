@@ -42,9 +42,9 @@ menu:
 <tr><td>12:00</td><td><a class="talk"></a></td><td><a href="../programm/rainer-grimm-15-tipps-fuer-besseres-cplusplus-oder-warum-es-nur-10-wurden">15&nbsp;Tipps&nbsp;für&nbsp;besseres&nbsp;C++&nbsp;oder&nbsp;warum&nbsp;es&nbsp;nur&nbsp;10&nbsp;wurden.</a></td><td>Rainer&nbsp;Grimm</td></tr>
 <tr><td>13:00</td><td><a class="talk"></a></td><td><a href="../programm/andreas-mundt-debian-fuer-ein-und-umsteiger">Debian&nbsp;für&nbsp;Ein-&nbsp;und&nbsp;Umsteiger</a></td><td>Andreas&nbsp;Mundt</td></tr>
 <tr><td>14:00</td><td><a class="talk"></a></td><td><a href="../programm/jonas-genannt-systemd-fuer-admins">systemd&nbsp;für&nbsp;Admins</a></td><td>Jonas&nbsp;Genannt</td></tr>
-<tr><td>15:00</td><td><a class="talk"></a></td><td><a href="../programm/robert-scheck-selinux-bitte-nicht-deaktivieren">SELinux:&nbsp;Bitte&nbsp;nicht&nbsp;deaktivieren…</a></td><td>Robert&nbsp;Scheck</td></tr>
+<tr><td>15:00</td><td><a class="talk"></a></td><td><a href="../programm/robert-scheck-selinux-bitte-nicht-deaktivieren">SELinux:&nbsp;Bitte&nbsp;nicht&nbsp;deaktivieren...</a></td><td>Robert&nbsp;Scheck</td></tr>
 <tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/felix-bauer-hard-disk-heart-attack">Hard&nbsp;Disk&nbsp;Heart&nbsp;Attack</a></td><td>Felix&nbsp;Bauer</td></tr>
-<tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/ingo">Ingo</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
+<tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/ingo-blechschmidt-physik-der-klaenge-experimente-mit-linux-bordmitteln">Physik&nbsp;der&nbsp;Klänge&nbsp;-&nbsp;Experimente&nbsp;mit&nbsp;Linux-Bordmitteln</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/thomas-dinges-blender-inside-out">Blender&nbsp;Inside&nbsp;Out</a></td><td>Thomas&nbsp;Dinges</td></tr>
 <tr><td>18:00</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-exit">TÜBIX: exit</a></td><td>TÜBIX&nbsp;Orga-Team</td></tr>
 <tr><td>18:15</td><td><a class="talk"></a></td><td><a href="../programm/ingo-blechschmidt-das-geheimnis-der-zahl-5/">Tagesabschluss:&nbsp;Das&nbsp;Geheimnis&nbsp;der&nbsp;Zahl&nbsp;5</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
@@ -119,8 +119,8 @@ menu:
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum LPIC</td></tr>
-<tr><td>12:00</td><td><a class="work"></a></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Dimitrios Bogiatzoules</td></tr>
-<tr><td>14:00</td><td><a class="work"></a></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td>Dimitrios Bogiatzoules</td></tr>
+<tr><td>12:00</td><td><a class="lpic"></a></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Dimitrios Bogiatzoules</td></tr>
+<tr><td>14:00</td><td><a class="lpic"></a></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td>Dimitrios Bogiatzoules</td></tr>
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum Mini-FrogLabs</td></tr>

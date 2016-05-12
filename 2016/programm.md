@@ -117,7 +117,7 @@ padding-right: 8px;
 <td>16:00</td></tr>
 
 <tr><td></td>
-<td            ><a class="talk"><a href="../programm/ingo">Ingo</a></td>
+<td            ><a class="talk"><a href="../programm/ingo-blechschmidt-physik-der-klaenge-experimente-mit-linux-bordmitteln">Klänge</a></td>
 <td></td></tr>
 
 <tr><td>17:00</td>
