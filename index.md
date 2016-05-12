@@ -15,7 +15,7 @@ Tübix könnte etwas für dich sein, falls du:
 * ... Experte / Profi / Veteran / Meister bist
 * ... Neuling / Einsteiger / Umsteiger / Interessent bist
 * ... nebenbei ein <a href="http://www.wsi.uni-tuebingen.de/fachbereich/wilhelm-schickard-institut-fuer-informatik/computermuseum.html">Computermuseum</a> besuchen möchtest
-* ... nebenbei ein <a href="http://www.physik.uni-tuebingen.de/institute/astronomie-astrophysik/institut/astronomie/observatorium.html">80cm-Teleskop</a> anesehen möchtest
+* ... nebenbei ein <a href="2016/programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/">80cm-Teleskop</a> anesehen möchtest
 
 Der Eintritt ist frei. 
 
