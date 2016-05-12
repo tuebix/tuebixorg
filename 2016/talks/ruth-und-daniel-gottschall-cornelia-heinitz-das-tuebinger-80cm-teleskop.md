@@ -7,9 +7,9 @@ menu:
 ---
 ## Das&nbsp;Tübinger&nbsp;80cm-Teleskop
 
-### <img height = "32" src="../../../images/talk.svg"> xx:xx bis xx:xx im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:00 im Observatorium
 
-### <img height = "32" src="../../../images/talk.svg"> xx:xx bis xx:xx im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 im Observatorium
 
 ### <img height = "32" src="../../../images/talk.svg"> 18:30 bis 19:00 im Observatorium
 

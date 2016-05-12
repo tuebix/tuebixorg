@@ -830,5 +830,18 @@
         "name": "Ingo Blechschmidt",
         "inhalt": "Wie kommt es, dass ein Saxophon viel voller klingt als etwa eine Panfl\u00f6te oder eine einfache Stimmgabel? Und was genau versteht man \u00fcberhaupt unter dem \u201eKlang\u201c eines Instruments? Wie kann man Schallwellen sichtbar machen? Was haben Schall und Regenw\u00fcrmer gemeinsam? Und wie kann eine echte Programmiererin die Versionsnummer ihres Linux-Kernels an seinem Klang erkennen?  Diese und weitere Fragen m\u00f6chten wir in diesem Vortrag beleuchten. Im Mittelpunkt werden dabei Experimente stehen, die wir mit Linux-Bordmitteln durchf\u00fchren k\u00f6nnen: Ausgehend von den einfachsten T\u00f6nen, den reinen Sinust\u00f6nen, werden wir immer komplexere Wellenformen erzeugen und h\u00f6ren.  Au\u00dferdem werden wir Ultraschall studieren und mit Bordmitteln ein einfaches Modem programmieren: Ein Laptop wird Daten in T\u00f6ne umwandeln und diese ausgeben, ein anderer wird diese T\u00f6ne aufnehmen und wieder zu Daten zusammensetzen.  Der Vortrag setzt weder technisches noch physikalisches Vorwissen voraus.",
         "room": "V1"
-    }
+    },
+    {
+        "titel": "mutt konfigurieren",
+        "weblinks": "",
+        "vorwissen": "",
+        "timeend": "12:00",
+        "buzzword": "mutt",
+        "duration": 120,
+        "urlid": "sven-guckes-mutt-konfigurieren",
+        "timebegin": "10:00",
+        "name": "Sven Guckes",
+        "inhalt": "Den mutt Mailer einstellen Wir werden die Konfigurationsdatei ~/.muttrc editieren, und eventuell in mehrere Dateien aufteilen, mit dem \"source\" Kommando verbinden.    # schnelle Änderungen    * autoedit + edit_headers    * reverse_alias + reverse_name    * index_format + to_chars    * header      (Auswahl, Reihenfolge, Farben)    * attachments (Auswahl, mailcap processing)    * Farben für header und den index; signatures    # längere Themen    * mailing lists: folder_hook, mailboxes, subscribe, save_hook    * Farben für den message body    * display_filter: Änderungen und Löschungen mit \"sed\"    * macros    * pgp commands    * imap    * fetchmail + procmail    ### Vorwissen    * mutt schonmal verwendet, besser: in Verwendung    * Editor      - sicherer Umgang damit        - Dateien öffnen	  - schnelles Suchen	    - Ändern der Inhalte und speichern	    * Umgang mit der shell	    * Umgang mit einem Terminal Multiplexer: \"screen\" oder \"tmux\"",
+        "room": "W3"
+    },
 ]
