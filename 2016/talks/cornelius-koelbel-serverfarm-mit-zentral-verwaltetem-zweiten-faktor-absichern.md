@@ -7,7 +7,7 @@ menu:
 ---
 ## Serverfarm mit zentral verwaltetem zweiten Faktor absichern
 
-### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W3
+### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W3
 
 ### Cornelius Kölbel
 
