@@ -11,7 +11,7 @@ menu:
 
 ### Alexander Nehmer
 
-Vorstellung von MobaXterm, einem Toolkit von Linux-Werkzeugen unter Windows. MobaXterm basiert auf Cygwin und ermöglicht das Arbeiten unter Windows mit Linux-Feeling. MobaXterm kommt als Tab-organisierter Terminal daher, bringt einen X-Server mit, einen (S)FTP-Client, einen Telnet-Client, SSH-Agent, sämtliche Cygwin-Tools (sed, wget, awk, grep etc.), einen Paket-Manager (apt-cyg), einen SSH-Client und umfangreiche Konfigurationsmöglichkeiten. Wer den Commandline-Komfort einen Linux-Systems der Bedienschwere von Windows Explorer und CMD vorzieht, wird von MobaXterm schwer begeistert sein.
+Vorstellung von MobaXterm, einem Toolkit von Linux-Werkzeugen unter Windows. MobaXterm basiert auf Cygwin und ermöglicht das Arbeiten unter Windows mit Linux-Feeling. MobaXterm kommt als Tab-organisierter Terminal daher, bringt einen X-Server mit, einen (S)FTP-Client, einen Telnet-Client, SSH-Agent, sämtliche Cygwin-Tools (sed, wget, awk, grep etc.), einen Paket-Manager (apt-cyg), einen SSH-Client und umfangreiche Konfigurationsmöglichkeiten. Wer den Commandline-Komfort eines Linux-Systems der Bedienschwere von Windows Explorer und CMD vorzieht, wird von MobaXterm schwer begeistert sein.
 
 ### Links
 
