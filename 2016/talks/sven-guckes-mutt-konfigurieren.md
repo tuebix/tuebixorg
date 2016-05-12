@@ -42,7 +42,7 @@ und eventuell in mehrere Dateien aufteilen, mit dem "source" Kommando verbinden.
   - sicherer Umgang damit
   - Dateien öffnen
   - schnelles Suchen
-  - Ändern der inhalte und speichern
+  - Ändern der Inhalte und speichern
 * Umgang mit der shell
 * Umgang mit einem Terminal Multiplexer: "screen" oder "tmux"
 

@@ -29,7 +29,7 @@ menu:
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum W3</td></tr>
-<tr><td>10:00</td><td><a class="work"></a></td><td>tbd</td><td>NN</td></tr>
+<tr><td>10:00</td><td><a class="work"></a></td><td><a href="../programm/sven-guckes-mutt-konfigurieren">mutt&nbsp;konfigurieren</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>12:00</td><td><a class="work"></a></td><td><a href="../programm/felix-bauer-byod-ota-deanonymisierung">BYOD&nbsp;-&nbsp;OTA&nbsp;Deanonymisierung</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>14:00</td><td><a class="work"></a></td><td><a href="../programm/michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust">E-Mail-Verschlüsselung&nbsp;mittels&nbsp;GnuPG&nbsp;und&nbsp;das&nbsp;Web&nbsp;of&nbsp;Trust</a></td><td>Michael&nbsp;Weiss</td></tr>
 <tr><td>16:00</td><td><a class="work"></a></td><td><a href="../programm/cornelius-koelbel-serverfarm-mit-zentral-verwaltetem-zweiten-faktor-absichern">Serverfarm&nbsp;mit&nbsp;zentral&nbsp;verwaltetem&nbsp;zweiten&nbsp;Faktor&nbsp;absichern</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
