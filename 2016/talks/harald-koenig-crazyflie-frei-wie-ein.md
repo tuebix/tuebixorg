@@ -7,7 +7,7 @@ menu:
 ---
 ## Crazyflie - Frei wie ein...
 
-### <img height = "32" src="../../../images/lightning.svg"> 23:00 bis 24:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:25 bis 12:30 in Raum V3
 
 ### Harald König
 

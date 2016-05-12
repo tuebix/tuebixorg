@@ -7,7 +7,7 @@ menu:
 ---
 ## Einmal Stratosphäre und zurück
 
-### <img height = "32" src="../../../images/lightning.svg"> 23:00 bis 24:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:10 bis 12:15 in Raum V3
 
 ### Ingo Blechschmidt
 

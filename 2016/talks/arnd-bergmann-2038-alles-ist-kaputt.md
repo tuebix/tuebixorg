@@ -7,7 +7,7 @@ menu:
 ---
 ## 2038 -- alles ist kaputt
 
-### <img height = "32" src="../../../images/lightning.svg"> 23:00 bis 24:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:15 bis 12:20 in Raum V3
 
 ### Arnd Bergmann
 

@@ -7,7 +7,7 @@ menu:
 ---
 ## NX ist tot, es lebe <del>N</del>Xpra
 
-### <img height = "32" src="../../../images/lightning.svg"> 23:00 bis 24:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:05 bis 13:10 in Raum V3
 
 ### Alexander Berg
 
