@@ -39,7 +39,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk"><a href="../programm/carsten-emde-warum-ist-es-fast-unmoeglich-eine-linux-distribution-weiterzugeben">Distro Copyright</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/olaf-flebbe-docker-docker-docker">Docker</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/cornelius-koelbel-open-source-mehr-faktor-authentifizierung-mit-privacyidea">privacyIDEA</a></td>
-<td rowspan="2"><a class="talk"><a href="../programm/janko-dietzsch-statistik-mit-r">R</a></td>
+<td rowspan="2"><a class="talk"><a href="../programm/janko-dietzsch-statistik-mit-r">Statistik&nbsp;mit&nbsp;R</a></td>
 <td rowspan="4">&nbsp;</td>
 <td rowspan="16"><a class="work"><a href="../../kinder/">Teckids</a></td>
 <td>10:00</td></tr>
