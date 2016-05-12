@@ -7,7 +7,7 @@ menu:
 ---
 ## Linux und X2Go: ein  effektiver & günstiger Schutz vor Ransomware auf Windows-Systemen
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V3
 
 ### Stefan Baur
 
