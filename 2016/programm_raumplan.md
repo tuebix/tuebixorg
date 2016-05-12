@@ -66,7 +66,7 @@ menu:
 <tr><td></td><td></td><td>Raum V3</td></tr>
 <tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/cornelius-koelbel-open-source-mehr-faktor-authentifizierung-mit-privacyidea">Open&nbsp;Source&nbsp;Mehr-Faktor-Authentifizierung&nbsp;mit&nbsp;privacyIDEA</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/robert-scheck-mein-erstes-selbstgebautes-rpm-paket">Mein&nbsp;erstes&nbsp;selbstgebautes&nbsp;RPM-Paket!</a></td><td>Robert&nbsp;Scheck</td></tr>
-<tr><td>12:00</td><td><a class="light"></a></td><td><a href="../programm/marcus-siegl-raspberry-pi-als-internet-of-things">Raspberry&nbsp;Pi&nbsp;(Zero)&nbsp;als&nbsp;Internet&nbsp;of&nbsp;Things&nbsp;</a></td><td>Marcus&nbsp;Siegl</td></tr>
+<tr><td>13:20</td><td><a class="light"></a></td><td>tbd</td><td>tbd</td></tr>
 <tr><td>12:05</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-alpinelinux">AlpineLinux</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>12:10</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-einmal-stratosphaere-und-zurueck">Einmal&nbsp;Stratosphäre&nbsp;und&nbsp;zurück</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>12:15</td><td><a class="light"></a></td><td><a href="../programm/arnd-bergmann-2038-alles-ist-kaputt">2038&nbsp;--&nbsp;alles&nbsp;ist&nbsp;kaputt</a></td><td>Arnd&nbsp;Bergmann</td></tr>
@@ -81,7 +81,7 @@ menu:
 <tr><td>13:05</td><td><a class="light"></a></td><td><a href="../programm/alexander-berg-nx-ist-tot-es-lebe-xpra">NX&nbsp;ist&nbsp;tot,&nbsp;es&nbsp;lebe&nbsp;<del>N</del>Xpra</a></td><td>Alexander&nbsp;Berg</td></tr>
 <tr><td>13:10</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-squid-reproduction">Squid&nbsp;Reproduction</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>13:15</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-die-parabel-der-polygone">Die&nbsp;Parabel&nbsp;der&nbsp;Polygone</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
-<tr><td>13:20</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>13:20</td><td><a class="light"></a></td><td><a href="../programm/marcus-siegl-raspberry-pi-als-internet-of-things">Raspberry&nbsp;Pi&nbsp;(Zero)&nbsp;als&nbsp;Internet&nbsp;of&nbsp;Things&nbsp;</a></td><td>Marcus&nbsp;Siegl</td></tr>
 <tr><td>13:25</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>13:30</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>13:35</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
