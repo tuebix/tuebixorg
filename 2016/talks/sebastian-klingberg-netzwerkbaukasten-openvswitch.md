@@ -7,7 +7,7 @@ menu:
 ---
 ## Netzwerkbaukasten OpenVSwitch
 
-### <img height = "32" src="../../../images/lightning.svg"> 23:00 bis 24:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:00 bis 13:05 in Raum V3
 
 ### Sebastian Klingberg
 

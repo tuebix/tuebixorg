@@ -7,7 +7,7 @@ menu:
 ---
 ## Free Internet
 
-### <img height = "32" src="../../../images/lightning.svg"> 23:00 bis 24:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:00 bis 15:05 in Raum V3
 
 ### Felix Bauer
 

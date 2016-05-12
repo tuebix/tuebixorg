@@ -7,7 +7,7 @@ menu:
 ---
 ## git sub - ähhm - dings
 
-### <img height = "32" src="../../../images/lightning.svg"> 23:00 bis 24:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:20 bis 12:25 in Raum V3
 
 ### Peter Hrenka
 

@@ -7,7 +7,7 @@ menu:
 ---
 ## AlpineLinux
 
-### <img height = "32" src="../../../images/lightning.svg"> 23:00 bis 24:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:05 bis 12:10 in Raum V3
 
 ### Felix Bauer
 

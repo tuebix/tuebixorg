@@ -7,7 +7,7 @@ menu:
 ---
 ## MobaXterm - Linux-Feeling unter Windows
 
-### <img height = "32" src="../../../images/lightning.svg"> 23:00 bis 24:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:30 bis 12:35 in Raum V3
 
 ### Alexander Nehmer
 
