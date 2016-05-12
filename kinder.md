@@ -17,4 +17,4 @@ Alle Infos und die Anmeldung dazu gibt es unter <a href="https://www.teckids.org
 
 <a href="../2016/downloads/teckids.mini.froglabs.tuebix.2016.pdf" target="_blank">
 Plakat als PDF (4MB) z.B. zum Aushängen in der Schule:<br/>
-<img src="../2016/downloads/teckids.mini.froglabs.tuebix.2016.png" alt="FrogLabs" title="FrogLabs" height="25"></a>
+<img src="../2016/downloads/teckids.mini.froglabs.tuebix.2016.png" alt="FrogLabs" title="FrogLabs"</a>
