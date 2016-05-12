@@ -38,7 +38,7 @@ padding-right: 8px;
 <td rowspan="4"><a class="work"><a href="../programm/tbd">tbd</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/carsten-emde-warum-ist-es-fast-unmoeglich-eine-linux-distribution-weiterzugeben">Distro Copyright</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/olaf-flebbe-docker-docker-docker">Docker</a></td>
-<td rowspan="2"><a class="talk"><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">X2Go</a></td>
+<td rowspan="2"><a class="talk"><a href="../programm/cornelius-koelbel-open-source-mehr-faktor-authentifizierung-mit-privacyidea">privacyIDEA</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/janko-dietzsch-statistik-mit-r">R</a></td>
 <td rowspan="4">&nbsp;</td>
 <td rowspan="16"><a class="work"><a href="../../kinder/">Teckids</a></td>
@@ -123,7 +123,7 @@ padding-right: 8px;
 <tr><td>17:00</td>
 <td rowspan="2"><a class="talk"><a href="../programm/thomas-dinges-blender-inside-out">Blender</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/peter-hrenka-korrektheit-von-programmen-beweisen-mit-coq">Coq</a></td>
-<td rowspan="2"><a class="talk"><a href="../programm/cornelius-koelbel-open-source-mehr-faktor-authentifizierung-mit-privacyidea">privacyIDEA</a></td>
+<td rowspan="2"><a class="talk"><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">X2Go</a></td>
 <td            ><a class="talk"><a href="../programm/vinzenz-rosenkranz-was-ist-owncloud-und-wieso">owncloud</a></td>
 <td>17:00</td></tr>
 

@@ -64,7 +64,7 @@ menu:
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum V3</td></tr>
-<tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">Linux&nbsp;und&nbsp;X2Go:&nbsp;ein&nbsp;&nbsp;effektiver&nbsp;&&nbsp;günstiger&nbsp;Schutz vor&nbsp;Ransomware&nbsp;auf&nbsp;Windows-Systemen</a></td><td>Stefan&nbsp;Baur</td></tr>
+<tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/cornelius-koelbel-open-source-mehr-faktor-authentifizierung-mit-privacyidea">Open&nbsp;Source&nbsp;Mehr-Faktor-Authentifizierung&nbsp;mit&nbsp;privacyIDEA</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/robert-scheck-mein-erstes-selbstgebautes-rpm-paket">Mein&nbsp;erstes&nbsp;selbstgebautes&nbsp;RPM-Paket!</a></td><td>Robert&nbsp;Scheck</td></tr>
 <tr><td>12:00</td><td><a class="light"></a></td><td><a href="../programm/marcus-siegl-raspberry-pi-als-internet-of-things">Raspberry&nbsp;Pi&nbsp;(Zero)&nbsp;als&nbsp;Internet&nbsp;of&nbsp;Things&nbsp;</a></td><td>Marcus&nbsp;Siegl</td></tr>
 <tr><td>12:05</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-alpinelinux">AlpineLinux</a></td><td>Felix&nbsp;Bauer</td></tr>
@@ -101,7 +101,7 @@ menu:
 <tr><td>15:45</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>15:50</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 
-<tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/cornelius-koelbel-open-source-mehr-faktor-authentifizierung-mit-privacyidea">Open&nbsp;Source&nbsp;Mehr-Faktor-Authentifizierung&nbsp;mit&nbsp;privacyIDEA</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
+<tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">Linux&nbsp;und&nbsp;X2Go:&nbsp;ein&nbsp;&nbsp;effektiver&nbsp;&&nbsp;günstiger&nbsp;Schutz vor&nbsp;Ransomware&nbsp;auf&nbsp;Windows-Systemen</a></td><td>Stefan&nbsp;Baur</td></tr>
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum V4</td></tr>
