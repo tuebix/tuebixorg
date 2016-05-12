@@ -35,7 +35,7 @@ padding-right: 8px;
 <tr><td>10:00</td>
 <td rowspan="4"><a class="work"><a href="../programm/toni-zimmer-vim-fuer-nicht-mehr-beginner-und-noch-nicht-fortgeschrittene">vim</a></td>
 <td rowspan="4"><a class="work"><a href="../programm/david-elias-kuenstle-emacs-101-lerne-den-editor-deines-lebens-kennen">emacs</a></td>
-<td rowspan="4"><a class="work"><a href="../programm/cornelius-koelbel-serverfarm-mit-zentral-verwaltetem-zweiten-faktor-absichern">privacyIDEA</a></td>
+<td rowspan="4"><a class="work"><a href="../programm/tbd">tbd</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/carsten-emde-warum-ist-es-fast-unmoeglich-eine-linux-distribution-weiterzugeben">Distro Copyright</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/olaf-flebbe-docker-docker-docker">Docker</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">X2Go</a></td>
@@ -108,7 +108,7 @@ padding-right: 8px;
 <tr><td>16:00</td>
 <td rowspan="4"><a class="work"><a href="../programm/paul-seitz-webdienste-unter-nixos">NixOS</a></td>
 <td rowspan="4"><a class="work"><a href="../programm/mark-schmidt-gentoo-installparty">Gentoo</a></td>
-<td rowspan="4"><a class="work"><a href="../programm/tbd">tbd</a></td>
+<td rowspan="4"><a class="work"><a href="../programm/cornelius-koelbel-serverfarm-mit-zentral-verwaltetem-zweiten-faktor-absichern">privacyIDEA</a></td>
 <td            ><a class="talk"><a href="../programm/felix-bauer-hard-disk-heart-attack">HD&nbsp;Heart&nbsp;Attack</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/olaf-flebbe-hadoop-distribution-selber-machen">Hadoop&nbsp;Distribution</a></td>
 <td rowspan="2"><a class="work">keysigning party</td>

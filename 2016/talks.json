@@ -68,11 +68,11 @@
         "titel": "Serverfarm mit zentral verwaltetem zweiten Faktor absichern",
         "weblinks": "https://privacyidea.org https://github.com/privacyidea/privacyidea",
         "vorwissen": "SSH-Server, Apache, PAM von Vorteil",
-        "timeend": "12:00",
+        "timeend": "18:00",
         "buzzword": "Zwei-Faktor-Authentifizierung, privacyIDEA, SSH, 2FA, OTP, Einmalpasswort",
         "duration": 120,
         "urlid": "cornelius-koelbel-serverfarm-mit-zentral-verwaltetem-zweiten-faktor-absichern",
-        "timebegin": "10:00",
+        "timebegin": "16:00",
         "name": "Cornelius Kölbel",
         "inhalt": "In diesem Workshop installieren wir ein privacyIDEA-System, mit dem man auch für größere Benutzergruppen Authentifizierungsdevices verwalten kann. Somit lässt sich eine Mehr-Faktor-Authentifizierung zentral verwalten. Benutzer können sich mit Smartphones, OTP-Token, Yubikeys und vielen anderen, zusätzlichen Objekten anmelden. Wir konfigurieren exemplarisch einen SSH-Server, um die Anmeldung an diesem System um einen zweiten Faktor zu erweitern. ",
         "room": "W3"
