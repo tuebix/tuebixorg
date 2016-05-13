@@ -46,3 +46,6 @@ und eventuell in mehrere Dateien aufteilen, mit dem "source" Kommando verbinden.
 * Umgang mit der shell
 * Umgang mit einem Terminal Multiplexer: "screen" oder "tmux"
 
+### Links
+
+- <a href="http://www.guckes.net/tuebix2016/workshop.mutt_config.txt" target="_blank">http://www.guckes.net/tuebix2016/workshop.mutt_config.txt</a>
