@@ -19,5 +19,5 @@ Bitte einen Laptop, vorzugsweise mit Firefox als Browser, mitbringen. Optional n
 
 ### Links
 
-- <a href="http://tiddlywiki.org" target="_blank">http://tiddlywiki.org</a>
+- <a href="http://tiddlywiki.com" target="_blank">http://tiddlywiki.com</a>
 - <a href="http://nodejs.org" target="_blank">http://nodejs.org</a>
