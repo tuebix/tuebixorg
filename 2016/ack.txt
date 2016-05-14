@@ -23,6 +23,14 @@ lugs-und-co-var-log-lug
 nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene
 frederik-milkau-das-php-framework-typo3-flow
 joachim-schiele-nixos-als-guest-in-lxc-systemd-nspawn-docker-verwenden
+felix-bauer-alpinelinux
+felix-bauer-byod-ota-deanonymisierung
+felix-bauer-free-internet
+felix-bauer-hard-disk-heart-attack
+felix-bauer-squid-reproduction
+felix-bauer-wol-on-arp-anturnen-bei-bedarf
+olaf-flebbe-docker-docker-docker
+olaf-flebbe-hadoop-distribution-selber-machen
 
 [to be ACKed]
 
@@ -33,12 +41,6 @@ arnd-bergmann-2038-alles-ist-kaputt
 arnd-bergmann-maintaining-a-large-linux-kernel-subsystem
 david-elias-kuenstle-dokumenten-kungfoo-fuer-hacker-mit-pandoc-filter
 david-elias-kuenstle-emacs-101-lerne-den-editor-deines-lebens-kennen
-felix-bauer-alpinelinux
-felix-bauer-byod-ota-deanonymisierung
-felix-bauer-free-internet
-felix-bauer-hard-disk-heart-attack
-felix-bauer-squid-reproduction
-felix-bauer-wol-on-arp-anturnen-bei-bedarf
 frank-schiebel-wlan-an-der-schule
 friedrich-strohmaier-andy-kuestner-open-source-software-beim-freien-radio-wueste-welle
 harald-koenig-crazyflie-frei-wie-ein
@@ -50,8 +52,6 @@ marcus-siegl-raspberry-pi-als-internet-of-things
 mark-schmidt-gentoo-installparty
 matthias-windrich-tiddlywiki-das-wiki-fuer-die-hosentasche
 michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust
-olaf-flebbe-docker-docker-docker
-olaf-flebbe-hadoop-distribution-selber-machen
 paul-seitz-webdienste-unter-nixos
 peter-hrenka-git-sub-aehhm-dings
 peter-hrenka-korrektheit-von-programmen-beweisen-mit-coq
