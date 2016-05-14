@@ -31,6 +31,7 @@ felix-bauer-squid-reproduction
 felix-bauer-wol-on-arp-anturnen-bei-bedarf
 olaf-flebbe-docker-docker-docker
 olaf-flebbe-hadoop-distribution-selber-machen
+matthias-windrich-tiddlywiki-das-wiki-fuer-die-hosentasche
 
 [to be ACKed]
 
@@ -50,7 +51,6 @@ justin-humm-freifunk
 knut-franke-fit-for-git
 marcus-siegl-raspberry-pi-als-internet-of-things
 mark-schmidt-gentoo-installparty
-matthias-windrich-tiddlywiki-das-wiki-fuer-die-hosentasche
 michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust
 paul-seitz-webdienste-unter-nixos
 peter-hrenka-git-sub-aehhm-dings
