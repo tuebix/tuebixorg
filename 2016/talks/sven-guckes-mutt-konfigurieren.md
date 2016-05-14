@@ -11,8 +11,6 @@ menu:
 
 ### Sven Guckes
 
-= Abstract =
-
 Mutt Config: "den mutt mailer einstellen"
 
 Wir werden die Konfigurationsdatei (~/.muttrc) editieren,
@@ -72,7 +70,7 @@ Falls es Fragen gibt, so bitte ich Euch
 diese mir schon vorab per Email zu schicken.
 
 Während des Workshop verwenden wir dieses Pad:
-<a href="https://tuebix2016.titanpad.com/workshop-mutt" target="_blank" https://tuebix2016.titanpad.com/workshop-mutt</a>
+<a href="https://tuebix2016.titanpad.com/workshop-mutt" target="_blank">https://tuebix2016.titanpad.com/workshop-mutt</a>
 
 Falls es keinen Zugang zum Internet gibt, dann werde
 ich auf meiner Kiste zeigen, was mit mutt moeglich ist.
