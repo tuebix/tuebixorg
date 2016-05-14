@@ -21,6 +21,8 @@ roland-imme-xelatex-fuer-praesentationen
 holger-gantikow-der-wal-im-windkanal-docker-container-fuer-scientific-computing
 lugs-und-co-var-log-lug
 nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene
+frederik-milkau-das-php-framework-typo3-flow
+joachim-schiele-nixos-als-guest-in-lxc-systemd-nspawn-docker-verwenden
 
 [to be ACKed]
 
@@ -38,12 +40,10 @@ felix-bauer-hard-disk-heart-attack
 felix-bauer-squid-reproduction
 felix-bauer-wol-on-arp-anturnen-bei-bedarf
 frank-schiebel-wlan-an-der-schule
-frederik-milkau-das-php-framework-typo3-flow
 friedrich-strohmaier-andy-kuestner-open-source-software-beim-freien-radio-wueste-welle
 harald-koenig-crazyflie-frei-wie-ein
 harald-koenig-gnuplot-ein-bild-sagt-mehr-als-1000-zahlen
 janko-dietzsch-statistik-mit-r
-joachim-schiele-nixos-als-guest-in-lxc-systemd-nspawn-docker-verwenden
 justin-humm-freifunk
 knut-franke-fit-for-git
 marcus-siegl-raspberry-pi-als-internet-of-things
