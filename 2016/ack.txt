@@ -37,6 +37,12 @@ peter-hrenka-git-sub-aehhm-dings
 peter-hrenka-korrektheit-von-programmen-beweisen-mit-coq
 andreas-mundt-debian-fuer-ein-und-umsteiger
 michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust
+mark-schmidt-gentoo-installparty
+udo-seidel-quo-vadis-linux
+thomas-dinges-blender-inside-out
+sebastian-klingberg-high-performance-computing-mit-docker
+sebastian-klingberg-netzwerkbaukasten-openvswitch
+janko-dietzsch-statistik-mit-r
 
 [to be ACKed]
 
@@ -50,21 +56,15 @@ frank-schiebel-wlan-an-der-schule
 friedrich-strohmaier-andy-kuestner-open-source-software-beim-freien-radio-wueste-welle
 harald-koenig-crazyflie-frei-wie-ein
 harald-koenig-gnuplot-ein-bild-sagt-mehr-als-1000-zahlen
-janko-dietzsch-statistik-mit-r
 justin-humm-freifunk
 knut-franke-fit-for-git
 marcus-siegl-raspberry-pi-als-internet-of-things
-mark-schmidt-gentoo-installparty
 paul-seitz-webdienste-unter-nixos
 reiner-schlotte-hadoops-secure-mode-fluch-oder-segen
 robert-scheck-mein-eigener-jabber-server-mit-prosody
 robert-scheck-mein-erstes-selbstgebautes-rpm-paket
 robert-scheck-selinux-bitte-nicht-deaktivieren
 sascha-kaupp-zocken-unter-linux
-sebastian-klingberg-high-performance-computing-mit-docker
-sebastian-klingberg-netzwerkbaukasten-openvswitch
 sebastian-niedworok-elementar-unix-tools-fuer-windows-cli
 stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen
-thomas-dinges-blender-inside-out
 toni-zimmer-vim-fuer-nicht-mehr-beginner-und-noch-nicht-fortgeschrittene
-udo-seidel-quo-vadis-linux
