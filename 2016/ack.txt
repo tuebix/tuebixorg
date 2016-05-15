@@ -36,6 +36,7 @@ sven-guckes-mutt-konfigurieren
 peter-hrenka-git-sub-aehhm-dings
 peter-hrenka-korrektheit-von-programmen-beweisen-mit-coq
 andreas-mundt-debian-fuer-ein-und-umsteiger
+michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust
 
 [to be ACKed]
 
@@ -54,7 +55,6 @@ justin-humm-freifunk
 knut-franke-fit-for-git
 marcus-siegl-raspberry-pi-als-internet-of-things
 mark-schmidt-gentoo-installparty
-michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust
 paul-seitz-webdienste-unter-nixos
 reiner-schlotte-hadoops-secure-mode-fluch-oder-segen
 robert-scheck-mein-eigener-jabber-server-mit-prosody
