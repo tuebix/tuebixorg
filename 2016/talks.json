@@ -417,7 +417,7 @@
     },
     {
         "titel": "Gentoo Installparty",
-        "weblinks": "Gentoo-Wiki: https://wiki.gentoo.org/wiki/Main_Page Gentoo-Handbook: https://wiki.gentoo.org/wiki/Handbook:AMD64 Gentoo-Installation: https://wiki.gentoo.org/wiki/Handbook:AMD64 Portage: https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage",
+        "weblinks": "Gentoo-Wiki: https://wiki.gentoo.org/wiki/Main_Page Gentoo-Handbook: https://wiki.gentoo.org/wiki/Handbook:AMD64 Gentoo-Installation: https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About Portage: https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage",
         "vorwissen": "Linux-Grundlagen ;)",
         "timeend": "18:00",
         "buzzword": "Gentoo, Installparty, Meta-Disti, portage, emerge",

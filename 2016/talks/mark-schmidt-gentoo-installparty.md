@@ -21,5 +21,5 @@ Linux-Grundlagen ;)
 
 - Gentoo-Wiki: <a href="https://wiki.gentoo.org/wiki/Main_Page" target="_blank">https://wiki.gentoo.org/wiki/Main_Page</a>
 - Gentoo-Handbook: <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64" target="_blank">https://wiki.gentoo.org/wiki/Handbook:AMD64</a>
-- Gentoo-Installation: <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64" target="_blank">https://wiki.gentoo.org/wiki/Handbook:AMD64</a>
+- Gentoo-Installation: <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About" target="_blank">https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About</a>
 - Portage: <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage" target="_blank">https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage</a>
