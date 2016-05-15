@@ -57,7 +57,7 @@ padding-right: 8px;
 
 <tr><td>12:00</td>
 <td rowspan="4"><a class="work"><a href="../programm/knut-franke-fit-for-git">git</a></td>
-<td rowspan="4"><a class="work"><a href="../programm/klaus-knopper-3d-konstruktion-und-3d-druck-mit-openscad-und-slic3r">openscad</a></td>
+<td rowspan="4"><a class="work"><a href="../programm/klaus-knopper-3d-konstruktion-und-3d-druck-mit-openscad-und-slic3r">OpenSCAD</a></td>
 <td rowspan="4"><a class="work"><a href="../programm/felix-bauer-byod-ota-deanonymisierung">BYOD</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/rainer-grimm-15-tipps-fuer-besseres-cplusplus-oder-warum-es-nur-10-wurden">besseres C++</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/sebastian-klingberg-high-performance-computing-mit-docker">HPC mit Docker</a></td>

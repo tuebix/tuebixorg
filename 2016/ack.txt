@@ -32,11 +32,14 @@ felix-bauer-wol-on-arp-anturnen-bei-bedarf
 olaf-flebbe-docker-docker-docker
 olaf-flebbe-hadoop-distribution-selber-machen
 matthias-windrich-tiddlywiki-das-wiki-fuer-die-hosentasche
+sven-guckes-mutt-konfigurieren
+peter-hrenka-git-sub-aehhm-dings
+peter-hrenka-korrektheit-von-programmen-beweisen-mit-coq
+andreas-mundt-debian-fuer-ein-und-umsteiger
 
 [to be ACKed]
 
 alexander-berg-nx-ist-tot-es-lebe-xpra
-andreas-mundt-debian-fuer-ein-und-umsteiger
 anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons
 arnd-bergmann-2038-alles-ist-kaputt
 arnd-bergmann-maintaining-a-large-linux-kernel-subsystem
@@ -53,8 +56,6 @@ marcus-siegl-raspberry-pi-als-internet-of-things
 mark-schmidt-gentoo-installparty
 michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust
 paul-seitz-webdienste-unter-nixos
-peter-hrenka-git-sub-aehhm-dings
-peter-hrenka-korrektheit-von-programmen-beweisen-mit-coq
 reiner-schlotte-hadoops-secure-mode-fluch-oder-segen
 robert-scheck-mein-eigener-jabber-server-mit-prosody
 robert-scheck-mein-erstes-selbstgebautes-rpm-paket
@@ -64,7 +65,6 @@ sebastian-klingberg-high-performance-computing-mit-docker
 sebastian-klingberg-netzwerkbaukasten-openvswitch
 sebastian-niedworok-elementar-unix-tools-fuer-windows-cli
 stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen
-sven-guckes-mutt-konfigurieren
 thomas-dinges-blender-inside-out
 toni-zimmer-vim-fuer-nicht-mehr-beginner-und-noch-nicht-fortgeschrittene
 udo-seidel-quo-vadis-linux
