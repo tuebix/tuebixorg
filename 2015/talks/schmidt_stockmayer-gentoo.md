@@ -21,6 +21,6 @@ In diesem Workshop wird kurz auf die Gentoo-Philosophie. die Benutzung von Porta
 
 - Gentoo-Wiki:&nbsp;<a href="https://wiki.gentoo.org/wiki/Main_Page" target="_blank">wiki.gentoo.org/wiki/Main_Page</a>
 - Gentoo-Handbook:&nbsp;<a href="https://wiki.gentoo.org/wiki/Handbook:AMD64" target="_blank">wiki.gentoo.org/wiki/Handbook:AMD64</a>
-- Gentoo-Installation:&nbsp;<a href="https://wiki.gentoo.org/wiki/Handbook:AMD64" target="_blank">wiki.gentoo.org/wiki/Handbook:AMD64</a>
+- Gentoo-Installation:&nbsp;<a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About" target="_blank">wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About</a>
 - Portage:&nbsp;<a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage" target="_blank">wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage</a>
 - pad: <a href="https://tuebix2015.titanpad.com/schmidt-stockmayer-gentoo" target="_blank">tuebix2015.titanpad.com/schmidt-stockmayer-gentoo</a>
