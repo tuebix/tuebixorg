@@ -22,7 +22,7 @@ menu:
 <tr><td>&nbsp;</td></tr>
 
 <tr><td></td><td></td><td>Raum W2</td></tr>
-<tr><td>10:00</td><td><a class="work"></a></td><td><a href="../programm/david-elias-kuenstle-emacs-101-lerne-den-editor-deines-lebens-kennen">emacs&nbsp;101&nbsp;-&nbsp;Lerne&nbsp;den&nbsp;Editor&nbsp;deines&nbsp;Lebens&nbsp;kennen!</a></td><td>David-Elias&nbsp;Künstle</td></tr>
+<tr><td>10:00</td><td><a class="work"></a></td><td><a href="../programm/david-elias-kuenstle-gnu-emacs-101">GNU&nbsp;emacs&nbsp;101</a></td><td>David-Elias&nbsp;Künstle</td></tr>
 <tr><td>12:00</td><td><a class="work"></a></td><td><a href="../programm/klaus-knopper-3d-konstruktion-und-3d-druck-mit-openscad-und-slic3r">3D&nbsp;Konstruktion&nbsp;und&nbsp;3D&nbsp;Druck&nbsp;mit&nbsp;OpenSCAD&nbsp;und&nbsp;Slic3r</a></td><td>Klaus&nbsp;Knopper</td></tr>
 <tr><td>14:00</td><td><a class="work"></a></td><td><a href="../programm/matthias-windrich-tiddlywiki-das-wiki-fuer-die-hosentasche">TiddlyWiki&nbsp;-&nbsp;das&nbsp;Wiki&nbsp;für&nbsp;die&nbsp;Hosentasche</a></td><td>Matthias&nbsp;Windrich</td></tr>
 <tr><td>16:00</td><td><a class="work"></a></td><td><a href="../programm/mark-schmidt-gentoo-installparty">Gentoo&nbsp;Installparty</a></td><td>Mark&nbsp;Schmidt</td></tr>

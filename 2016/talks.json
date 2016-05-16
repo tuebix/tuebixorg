@@ -208,13 +208,13 @@
         "room": "V3"
     },
     {
-        "titel": "emacs 101 - Lerne den Editor deines Lebens kennen!",
+        "titel": "GNU emacs 101",
         "weblinks": "(The Editor of a Lifetime) https://youtu.be/VADudzQGvU8 (GNU Emacs) https://www.gnu.org/software/emacs/",
         "vorwissen": "Weil viel Ausprobieren angesagt ist, solltest du einen Laptop mit installiertem GNU Emacs in möglichst aktueller Version, optimal wäre Version 24.x (emacs --version), mitbringen. Emacs gibt es als freie Software für alle großen Betriebssysteme.   Zur Motivation eignet sich das Video \"The Editor of a Lifetime\"  von Perry Metzger",
         "timeend": "12:00",
         "buzzword": "emacs, Editor, lifetime, Lisp, Konfiguration, org-mode",
         "duration": 120,
-        "urlid": "david-elias-kuenstle-emacs-101-lerne-den-editor-deines-lebens-kennen",
+        "urlid": "david-elias-kuenstle-gnu-emacs-101",
         "timebegin": "10:00",
         "name": "David-Elias Künstle",
         "inhalt": "Emacs ist ein Editor, der sich so flexibel an die Bedürfnisse des Benutzers anpassen lässt, dass viele mit oder durch ihn fast alle Arbeiten des Alltags erledigen. Nach einer Einführung in die grundlegende Struktur von GNU Emacs lernen wir interaktiv die Navigation und das starke Hilfesystem kennen. Dann wollen wir ausprobieren, wie man die Funktionen des Editors durch Konfiguration und das Installieren von Paketen erweitern und an unsere individuellen Bedürfnisse anpassen kann. Dazu gibt es Tipps zur Organisation der Konfiguration und zu hilfreichen Paketen. Im letzten Drittel des Workshops werfen wir einen Blick darauf, wie das Lösen von Alltagsaufgaben wie z.B. LaTeX editieren, Python Entwicklung, Arbeiten auf dem Server oder die Organisation des Alltags (Notizen & Exportieren dieser, TODO Liste, ...) in Emacs aussehen kann. Ziel ist es, dass jeder Teilnehmer sich in Emacs grundlegend zurecht finden kann, dass er weiß, wo er Hilfe bekommt und wie er den Editor an seine Bedürfnisse anpasst. ",
