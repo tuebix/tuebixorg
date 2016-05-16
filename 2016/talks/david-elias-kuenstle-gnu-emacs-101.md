@@ -1,11 +1,11 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/david-elias-kuenstle-emacs-101-lerne-den-editor-deines-lebens-kennen/
+permalink: /2016/programm/david-elias-kuenstle-gnu-emacs-101/
 weight:
 menu:
 ---
-## emacs 101 - Lerne den Editor deines Lebens kennen!
+## GNU emacs 101
 
 ### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W2
 

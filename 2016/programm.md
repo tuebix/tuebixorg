@@ -34,7 +34,7 @@ padding-right: 8px;
 
 <tr><td>10:00</td>
 <td rowspan="4"><a class="work"><a href="../programm/toni-zimmer-vim-fuer-nicht-mehr-beginner-und-noch-nicht-fortgeschrittene">vim</a></td>
-<td rowspan="4"><a class="work"><a href="../programm/david-elias-kuenstle-emacs-101-lerne-den-editor-deines-lebens-kennen">emacs</a></td>
+<td rowspan="4"><a class="work"><a href="../programm/david-elias-kuenstle-gnu-emacs-101">emacs</a></td>
 <td rowspan="4"><a class="work"><a href="../programm/sven-guckes-mutt-konfigurieren/">~/.muttrc</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/carsten-emde-warum-ist-es-fast-unmoeglich-eine-linux-distribution-weiterzugeben">Distro Copyright</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/olaf-flebbe-docker-docker-docker">Docker</a></td>
