@@ -48,13 +48,13 @@ david-elias-kuenstle-dokumenten-kungfoo-fuer-hacker-mit-pandoc-filter
 david-elias-kuenstle-emacs-101-lerne-den-editor-deines-lebens-kennen
 harald-koenig-crazyflie-frei-wie-ein
 harald-koenig-gnuplot-ein-bild-sagt-mehr-als-1000-zahlen
+arnd-bergmann-2038-alles-ist-kaputt
+arnd-bergmann-maintaining-a-large-linux-kernel-subsystem
+anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons
 
 [to be ACKed]
 
 alexander-berg-nx-ist-tot-es-lebe-xpra
-anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons
-arnd-bergmann-2038-alles-ist-kaputt
-arnd-bergmann-maintaining-a-large-linux-kernel-subsystem
 frank-schiebel-wlan-an-der-schule
 friedrich-strohmaier-andy-kuestner-open-source-software-beim-freien-radio-wueste-welle
 justin-humm-freifunk
