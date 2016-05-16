@@ -844,4 +844,17 @@
         "inhalt": "Den mutt Mailer einstellen Wir werden die Konfigurationsdatei ~/.muttrc editieren, und eventuell in mehrere Dateien aufteilen, mit dem \"source\" Kommando verbinden.    # schnelle Änderungen    * autoedit + edit_headers    * reverse_alias + reverse_name    * index_format + to_chars    * header      (Auswahl, Reihenfolge, Farben)    * attachments (Auswahl, mailcap processing)    * Farben für header und den index; signatures    # längere Themen    * mailing lists: folder_hook, mailboxes, subscribe, save_hook    * Farben für den message body    * display_filter: Änderungen und Löschungen mit \"sed\"    * macros    * pgp commands    * imap    * fetchmail + procmail    ### Vorwissen    * mutt schonmal verwendet, besser: in Verwendung    * Editor      - sicherer Umgang damit        - Dateien öffnen	  - schnelles Suchen	    - Ändern der Inhalte und speichern	    * Umgang mit der shell	    * Umgang mit einem Terminal Multiplexer: \"screen\" oder \"tmux\"",
         "room": "W3"
     },
+    {
+        "titel": "Linux Essentials in der Schule",
+        "weblinks": "https://www.lpi.org/certification/linux-essentials/",
+        "vorwissen": "",
+        "timeend": "13:30",
+        "buzzword": "Zertifizierung, Education, Linux in der Schule",
+        "duration": 5,
+        "urlid": "anni-theil-schiebel-linux-essentials-in-der-schule",
+        "timebegin": "13:25",
+        "name": "Anni Theil-Schiebel",
+        "inhalt": "Bericht über einen aktuell laufenden Versuch im Fach Informatik in der Kursstufe des Gymnasiums im Rahmen der Unterrichtseinheit 'Betriebssysteme'. Die Schülerinnen und Schüler werden im 'ange leiteten Selbststudium' durch den Kurs geführt und können auf freiwilliger Basis das Linux Essentials-Zertifikat ablegen.",
+        "room": "V3"
+    }
 ]
