@@ -61,7 +61,7 @@ padding-right: 8px;
 <td rowspan="4"><a class="work"><a href="../programm/felix-bauer-byod-ota-deanonymisierung">BYOD</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/rainer-grimm-15-tipps-fuer-besseres-cplusplus-oder-warum-es-nur-10-wurden">besseres C++</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/sebastian-klingberg-high-performance-computing-mit-docker">HPC mit Docker</a></td>
-<td rowspan="4"><a class="light">Lightning Talks</a></td>
+<td rowspan="4"><a class="light"><a href="../programmentwurf_raumplan#firstlightningtalk">Lightning Talks</a></td>
 <td            ><a class="talk"><a href="../programm/wolfgang-engelmann-mit-lyx-master-doktorarbeit-schreiben">LyX</a></td>
 <td rowspan="4"><a class="lpic"><a href="../../lpic/">LPIC</a></td>
 <td>12:00</td></tr>
