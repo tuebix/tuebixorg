@@ -83,7 +83,7 @@ menu:
 <tr><td>13:15</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-die-parabel-der-polygone">Die&nbsp;Parabel&nbsp;der&nbsp;Polygone</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>13:20</td><td><a class="light"></a></td><td><a href="../programm/marcus-siegl-raspberry-pi-als-internet-of-things">Raspberry&nbsp;Pi&nbsp;(Zero)&nbsp;als&nbsp;Internet&nbsp;of&nbsp;Things&nbsp;</a></td><td>Marcus&nbsp;Siegl</td></tr>
 <tr><td>13:25</td><td><a class="light"></a></td><td><a href="../programm/anni-theil-schiebel-linux-essentials-in-der-schule">Linux&nbsp;Essentials&nbsp;in&nbsp;der&nbsp;Schule</a></td><td>Anni&nbsp;Theil-Schiebel</td></tr>
-<tr><td>13:30</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>13:30</td><td><a class="light"></a></td><td><a href="../programm/matthias-beyer-imag-cmdline-personal-information-management-suite-in-rust">imag&nbsp;-&nbsp;CmdLine&nbsp;Personal&nbsp;Information&nbsp;Management&nbsp;Suite&nbsp;in&nbsp;Rust</a></td><td>Matthias&nbsp;Beyer</td></tr>
 <tr><td>13:35</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>13:40</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>13:45</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>

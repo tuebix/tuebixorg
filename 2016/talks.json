@@ -856,5 +856,18 @@
         "name": "Anni Theil-Schiebel",
         "inhalt": "Bericht über einen aktuell laufenden Versuch im Fach Informatik in der Kursstufe des Gymnasiums im Rahmen der Unterrichtseinheit 'Betriebssysteme'. Die Schülerinnen und Schüler werden im 'ange leiteten Selbststudium' durch den Kurs geführt und können auf freiwilliger Basis das Linux Essentials-Zertifikat ablegen.",
         "room": "V3"
+    },
+{
+        "titel": "imag - CmdLine Personal Information Management Suite in Rust",
+        "weblinks": "https://github.com/matthiasbeyer/imag",
+        "vorwissen": "Menschen, die auf der Kommandozeile zuhause sind werden sich wohl fühlen.",
+        "timeend": "13:35",
+        "buzzword": "rust,commandline,cli,programming,opensource,gpl,community",
+        "duration": 5,
+        "urlid": "matthias-beyer-imag-cmdline-personal-information-management-suite-in-rust",
+        "timebegin": "13:30",
+        "name": "Matthias Beyer",
+       "inhalt": "Ich stelle mein Projekt \"imag\" vor, eine Commandline Personal Information Management Suite, welche ich in Rust schreibe. Erst kurz warum, weshalb und wie, dann der Aufruf Code beizutragen, da ich Mitstreiter suche.",
+        "room": "V3"
     }
 ]
