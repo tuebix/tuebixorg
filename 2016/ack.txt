@@ -52,6 +52,9 @@ arnd-bergmann-2038-alles-ist-kaputt
 arnd-bergmann-maintaining-a-large-linux-kernel-subsystem
 anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons
 sebastian-niedworok-elementar-unix-tools-fuer-windows-cli
+robert-scheck-mein-eigener-jabber-server-mit-prosody
+robert-scheck-mein-erstes-selbstgebautes-rpm-paket
+robert-scheck-selinux-bitte-nicht-deaktivieren
 
 [to be ACKed]
 
@@ -63,8 +66,5 @@ knut-franke-fit-for-git
 marcus-siegl-raspberry-pi-als-internet-of-things
 paul-seitz-webdienste-unter-nixos
 reiner-schlotte-hadoops-secure-mode-fluch-oder-segen
-robert-scheck-mein-eigener-jabber-server-mit-prosody
-robert-scheck-mein-erstes-selbstgebautes-rpm-paket
-robert-scheck-selinux-bitte-nicht-deaktivieren
 sascha-kaupp-zocken-unter-linux
 stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen
