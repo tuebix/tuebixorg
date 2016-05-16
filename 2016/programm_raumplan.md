@@ -89,7 +89,7 @@ menu:
 <tr><td>13:45</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>13:50</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>14:00</td><td><a class="light"></a></td><td><a href="../programm/lugs-und-co-var-log-lug">/var/log/LUG</a></td><td>LUGs&nbsp;+&nbsp;Co</td></tr>
-<tr><td>15:00</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-free-internet">Free&nbsp;Internet</a></td><td>Felix&nbsp;Bauer</td></tr>
+<tr><td>15:00</td><td><a class="light"></a></td><td><a name="lightningtalkssecondblock" href="../programm/felix-bauer-free-internet">Free&nbsp;Internet</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>15:05</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-keine-lust-auf-lange-uebersetzungszeiten-bei-latex-auf-schwachen-rechnern">Keine&nbsp;Lust&nbsp;auf&nbsp;lange&nbsp;Übersetzungszeiten&nbsp;bei&nbsp;LaTeX&nbsp;auf&nbsp;schwachen&nbsp;Rechnern?</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>15:10</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>15:15</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>

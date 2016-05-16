@@ -99,7 +99,7 @@ padding-right: 8px;
 <tr><td>15:00</td>
 <td rowspan="2"><a class="talk"><a href="../programm/robert-scheck-selinux-bitte-nicht-deaktivieren">SELinux</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/reiner-schlotte-hadoops-secure-mode-fluch-oder-segen">Hadoops&nbsp;'secure&nbsp;mode'</a></td>
-<td rowspan="2"><a class="light"><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">Lightning&nbsp;Talks</a></td>
+<td rowspan="2"><a class="light"><a href="../programmentwurf_raumplan#lightningtalkssecondblock">Lightning Talks</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons">PC-Zeitbegrenzung</a></td>
 <td>15:00</td></tr>
 
