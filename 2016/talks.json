@@ -230,7 +230,7 @@
         "urlid": "david-elias-kuenstle-dokumenten-kungfoo-fuer-hacker-mit-pandoc-filter",
         "timebegin": "12:40",
         "name": "David-Elias Künstle",
-        "inhalt": "Mit Pandoc kann man eine Vielzahl an Dokumententypen ineinander umwandeln. So groß die Anzahl der Möglichkeiten damit ist, so wird sie umso größer, wenn man sich traut den AST des Dokumentes mit Skripten, dem Pandoc Filter, zu ändern. ",
+        "inhalt": "Mit Pandoc kann man eine Vielzahl an Dokumententypen ineinander umwandeln. So groß die Anzahl der Möglichkeiten damit ist, so wird sie umso größer, wenn man sich traut den AST des Dokumentes mit Skripten, Filter genannt, zu ändern. ",
         "room": "V3"
     },
     {

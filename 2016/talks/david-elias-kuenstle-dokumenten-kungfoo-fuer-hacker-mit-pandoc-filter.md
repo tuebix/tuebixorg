@@ -11,7 +11,7 @@ menu:
 
 ### David-Elias Künstle
 
-Mit Pandoc kann man eine Vielzahl an Dokumententypen ineinander umwandeln. So groß die Anzahl der Möglichkeiten damit ist, so wird sie umso größer, wenn man sich traut den AST des Dokumentes mit Skripten, dem Pandoc Filter, zu ändern. 
+Mit Pandoc kann man eine Vielzahl an Dokumententypen ineinander umwandeln. So groß die Anzahl der Möglichkeiten damit ist, so wird sie umso größer, wenn man sich traut den AST des Dokumentes mit Skripten, Filter genannt, zu ändern. 
 
 ### Vorwissen
 
