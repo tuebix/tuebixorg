@@ -43,6 +43,9 @@ thomas-dinges-blender-inside-out
 sebastian-klingberg-high-performance-computing-mit-docker
 sebastian-klingberg-netzwerkbaukasten-openvswitch
 janko-dietzsch-statistik-mit-r
+toni-zimmer-vim-fuer-nicht-mehr-beginner-und-noch-nicht-fortgeschrittene
+david-elias-kuenstle-dokumenten-kungfoo-fuer-hacker-mit-pandoc-filter
+david-elias-kuenstle-emacs-101-lerne-den-editor-deines-lebens-kennen
 
 [to be ACKed]
 
@@ -50,8 +53,6 @@ alexander-berg-nx-ist-tot-es-lebe-xpra
 anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons
 arnd-bergmann-2038-alles-ist-kaputt
 arnd-bergmann-maintaining-a-large-linux-kernel-subsystem
-david-elias-kuenstle-dokumenten-kungfoo-fuer-hacker-mit-pandoc-filter
-david-elias-kuenstle-emacs-101-lerne-den-editor-deines-lebens-kennen
 frank-schiebel-wlan-an-der-schule
 friedrich-strohmaier-andy-kuestner-open-source-software-beim-freien-radio-wueste-welle
 harald-koenig-crazyflie-frei-wie-ein
@@ -67,4 +68,3 @@ robert-scheck-selinux-bitte-nicht-deaktivieren
 sascha-kaupp-zocken-unter-linux
 sebastian-niedworok-elementar-unix-tools-fuer-windows-cli
 stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen
-toni-zimmer-vim-fuer-nicht-mehr-beginner-und-noch-nicht-fortgeschrittene
