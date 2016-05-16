@@ -2,7 +2,6 @@
 
 stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen
 sascha-kaupp-zocken-unter-linux
-reiner-schlotte-hadoops-secure-mode-fluch-oder-segen
 paul-seitz-webdienste-unter-nixos
 marcus-siegl-raspberry-pi-als-internet-of-things
 knut-franke-fit-for-git
@@ -13,6 +12,7 @@ alexander-berg-nx-ist-tot-es-lebe-xpra
 
 [ACK]
 
+reiner-schlotte-hadoops-secure-mode-fluch-oder-segen
 robert-scheck-selinux-bitte-nicht-deaktivieren
 robert-scheck-mein-erstes-selbstgebautes-rpm-paket
 robert-scheck-mein-eigener-jabber-server-mit-prosody
