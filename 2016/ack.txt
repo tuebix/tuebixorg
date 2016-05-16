@@ -46,6 +46,8 @@ janko-dietzsch-statistik-mit-r
 toni-zimmer-vim-fuer-nicht-mehr-beginner-und-noch-nicht-fortgeschrittene
 david-elias-kuenstle-dokumenten-kungfoo-fuer-hacker-mit-pandoc-filter
 david-elias-kuenstle-emacs-101-lerne-den-editor-deines-lebens-kennen
+harald-koenig-crazyflie-frei-wie-ein
+harald-koenig-gnuplot-ein-bild-sagt-mehr-als-1000-zahlen
 
 [to be ACKed]
 
@@ -55,8 +57,6 @@ arnd-bergmann-2038-alles-ist-kaputt
 arnd-bergmann-maintaining-a-large-linux-kernel-subsystem
 frank-schiebel-wlan-an-der-schule
 friedrich-strohmaier-andy-kuestner-open-source-software-beim-freien-radio-wueste-welle
-harald-koenig-crazyflie-frei-wie-ein
-harald-koenig-gnuplot-ein-bild-sagt-mehr-als-1000-zahlen
 justin-humm-freifunk
 knut-franke-fit-for-git
 marcus-siegl-raspberry-pi-als-internet-of-things
