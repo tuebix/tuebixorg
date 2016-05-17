@@ -6,10 +6,10 @@ paul-seitz-webdienste-unter-nixos
 marcus-siegl-raspberry-pi-als-internet-of-things
 justin-humm-freifunk
 frank-schiebel-wlan-an-der-schule
-alexander-berg-nx-ist-tot-es-lebe-xpra
 
 [ACK]
 
+alexander-berg-nx-ist-tot-es-lebe-xpra
 knut-franke-fit-for-git
 friedrich-strohmaier-andy-kuestner-open-source-software-beim-freien-radio-wueste-welle
 reiner-schlotte-hadoops-secure-mode-fluch-oder-segen
