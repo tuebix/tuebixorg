@@ -6,12 +6,12 @@ paul-seitz-webdienste-unter-nixos
 marcus-siegl-raspberry-pi-als-internet-of-things
 knut-franke-fit-for-git
 justin-humm-freifunk
-friedrich-strohmaier-andy-kuestner-open-source-software-beim-freien-radio-wueste-welle
 frank-schiebel-wlan-an-der-schule
 alexander-berg-nx-ist-tot-es-lebe-xpra
 
 [ACK]
 
+friedrich-strohmaier-andy-kuestner-open-source-software-beim-freien-radio-wueste-welle
 reiner-schlotte-hadoops-secure-mode-fluch-oder-segen
 robert-scheck-selinux-bitte-nicht-deaktivieren
 robert-scheck-mein-erstes-selbstgebautes-rpm-paket
