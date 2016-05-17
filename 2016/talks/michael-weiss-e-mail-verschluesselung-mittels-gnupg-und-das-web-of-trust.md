@@ -9,9 +9,9 @@ menu:
 
 ### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W3
 
-### Michael Weiss
+### Michael Weiss, Roman Schulte, Leo Dessani, Justin Humm
 
-Jeder Teilnehmer soll lernen, wie man E-Mails mittels GnuPG verschlüsselt und signiert. Wir werden dazu einfach ein paar Mails hin und her schicken und die grundlegenden Konzepte vermitteln. Auch das Web of Trust wird ein zentrales Thema sein (was das ist wird noch erklärt). Je nach Interessen und Vorwissen der Teilnehmer können wir uns auch noch weitere Themen wie die Verschlüsselung von Dateien anschauen.
+Jeder Teilnehmer soll lernen, wie man E-Mails mittels GnuPG verschlüsselt und signiert. Wir werden dazu einfach ein paar Mails hin und her schicken und die grundlegenden Konzepte vermitteln. Auch das Web of Trust wird ein zentrales Thema sein (was das ist wird noch erklärt).  Je nach Interessen und Vorwissen der Teilnehmer können wir uns auch noch weitere Themen wie die Verschlüsselung von Dateien anschauen.
 
 ### Vorwissen
 
