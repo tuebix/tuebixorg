@@ -19,4 +19,4 @@ In diesem Workshop lernen die Teilnehmer:
 
 ### Links
 
-- <a href="nixos.org" target="_blank">nixos.org</a>
+- <a href="https://nixos.org" target="_blank">https://nixos.org</a>
