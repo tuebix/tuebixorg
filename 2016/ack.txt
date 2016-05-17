@@ -4,13 +4,13 @@ stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-a
 sascha-kaupp-zocken-unter-linux
 paul-seitz-webdienste-unter-nixos
 marcus-siegl-raspberry-pi-als-internet-of-things
-knut-franke-fit-for-git
 justin-humm-freifunk
 frank-schiebel-wlan-an-der-schule
 alexander-berg-nx-ist-tot-es-lebe-xpra
 
 [ACK]
 
+knut-franke-fit-for-git
 friedrich-strohmaier-andy-kuestner-open-source-software-beim-freien-radio-wueste-welle
 reiner-schlotte-hadoops-secure-mode-fluch-oder-segen
 robert-scheck-selinux-bitte-nicht-deaktivieren
