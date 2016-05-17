@@ -3,10 +3,10 @@
 stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen
 sascha-kaupp-zocken-unter-linux
 paul-seitz-webdienste-unter-nixos
-justin-humm-freifunk
 
 [ACK]
 
+justin-humm-freifunk
 frank-schiebel-wlan-an-der-schule
 marcus-siegl-raspberry-pi-als-internet-of-things
 alexander-berg-nx-ist-tot-es-lebe-xpra
