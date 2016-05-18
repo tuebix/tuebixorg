@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Programm
-permalink: /2015/programm_was_bedeuten_die_icons/
+permalink: /2016/programm_was_bedeuten_die_icons/
 weight: 
 menu:
 ---
 * <a href="../programm_raumplan/">Raumplan</a>
 * <a href="../programm_auf_einen_blick/">Programm auf einen Blick</a>
 * <a href="../programm_rahmen/">Rahmenprogramm</a>
-* <span style="font-weight: bold;">Was bedeuten ? <img height="18" width="18" src="../../images/workshop.svg"><img height="18" width="18" src="../../images/talk.svg"><img height="18" width="18" src="../../images/talk2.svg"><img height="18" width="18" src="../../images/lightning.svg"><img height="18" width="18" src="../../images/lpic.svg">?</span>
+* <span style="font-weight: bold;">Was bedeuten <img height="18" width="18" src="../../images/workshop.svg"> <img height="18" width="18" src="../../images/talk.svg"> <img height="18" width="18" src="../../images/talk2.svg"> <img height="18" width="18" src="../../images/lightning.svg"> <img height="18" width="18" src="../../images/lpic.svg"> ?</span>
 
 <br/>
 
@@ -33,11 +33,11 @@ Die Beiträge des Programms gibt es in mehreren Geschmacksrichtungen:
   * Dauer: 25 min inkl. Fragen/Diskussion oder
   * Dauer: 55 min inkl. Fragen/Diskussion
 
-<h2><span><img height="36" width="36" src="../../images/talk2.svg"></span> Vortrag</h2>
+<h2><span><img height="36" width="36" src="../../images/talk2.svg"></span> init + exit</h2>
 
   * TüBIX: init und TüBIX: exit
   * gemeinsamer Tagesbeginn und Tagesabschluss
 
-<h2><span><img height="36" width="36" src="../../images/lpic.svg"></span> Vortrag</h2>
+<h2><span><img height="36" width="36" src="../../images/lpic.svg"></span> LPIC</h2>
 
   * <a href="http://www.tuebix.org/lpic/">LPIC-Prüfungen</a>
