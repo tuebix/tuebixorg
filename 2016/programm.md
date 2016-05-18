@@ -82,6 +82,7 @@ padding-right: 8px;
 <tr><td></td>
 <td            ><a class="talk"><a href="../programm/udo-seidel-quo-vadis-linux">Quo&nbsp;vadis&nbsp;Linux?!?</a></td>
 <td            ><a class="talk"><a href="../programm/justin-humm-freifunk">Freifunk</a></td>
+<td rowspan="10">&nbsp;</td>
 <td></td></tr>
 
 <tr><td>14:00</td>
@@ -138,14 +139,14 @@ padding-right: 8px;
 <tr><td>18:00</td>
 <td colspan="3" rowspan="3"></td>
 <td>            <a class="talk2" href="../programm/tuebix-exit">exit</a></td>
-<td colspan="3" rowspan="2"></td>
+<td colspan="3" rowspan="3"></td>
 <td colspan="3"></td>
 <td>18:00</td></tr>
 
 <tr><td>18:30</td>
 <td rowspan="2"><a class="talk" href="../programm/ingo-blechschmidt-das-geheimnis-der-zahl-5/">Tagesabschluss</a></td>
-<td colspan="3" rowspan="2"> </td>
 <td            ><a class="talk" href="../programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/">Teleskop</a></td>
+<td colspan="2" rowspan="2"> </td>
 <td>18:30</td></tr>
 
 <tr><td>19:00</td>
