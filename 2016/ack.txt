@@ -1,9 +1,6 @@
-[to be ACKed]
-
-stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen
-
 [ACK]
 
+stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen
 paul-seitz-webdienste-unter-nixos
 justin-humm-freifunk
 sascha-kaupp-zocken-unter-linux
