@@ -7,7 +7,7 @@ menu: main
 ---
 
 * <span style="font-weight: bold;">Raumplan</span>
-* <a href="../programm_auf_einen_blick/">Überblick</a>
+* <a href="../programm_auf_einen_blick/">Programm auf einen Blick</a>
 * <a href="../programm_rahmen/">Rahmenprogramm</a>
 
 <br/>
