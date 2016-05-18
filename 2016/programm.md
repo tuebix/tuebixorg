@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programm
-permalink: /2016/programmentwurf/
+permalink: /2016/programm_auf_einen_blick/
 weight:
 menu:
 ---
@@ -16,9 +16,9 @@ padding-right: 8px;
 }
 </style>
 
-* <a href="../programmentwurf_raumplan/">Raumplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
-* <span style="font-weight: bold;">Überblick&nbsp;&nbsp;&nbsp;&nbsp;</span>
-* <a href="../programmentwurf_rahmen/">Rahmenprogramm</a>&nbsp;&nbsp;&nbsp;&nbsp;
+* <a href="../programm_raumplan/">Raumplan</a>
+* <span style="font-weight: bold;">Programm auf einen Blick</span>
+* <a href="../programm_rahmen/">Rahmenprogramm</a>
 
 <br/>
 
@@ -62,7 +62,7 @@ padding-right: 8px;
 <td rowspan="4"><a class="work"><a href="../programm/felix-bauer-byod-ota-deanonymisierung">BYOD</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/rainer-grimm-15-tipps-fuer-besseres-cplusplus-oder-warum-es-nur-10-wurden">besseres C++</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/sebastian-klingberg-high-performance-computing-mit-docker">HPC mit Docker</a></td>
-<td rowspan="4"><a class="light"><a href="../programmentwurf_raumplan#firstlightningtalk">Lightning Talks</a></td>
+<td rowspan="4"><a class="light"><a href="../programm_raumplan#firstlightningtalk">Lightning Talks</a></td>
 <td            ><a class="talk"><a href="../programm/wolfgang-engelmann-mit-lyx-master-doktorarbeit-schreiben">LyX</a></td>
 <td rowspan="4"><a class="lpic"><a href="../../lpic/">LPIC</a></td>
 <td>12:00</td></tr>
@@ -103,7 +103,7 @@ padding-right: 8px;
 <tr><td>15:00</td>
 <td rowspan="2"><a class="talk"><a href="../programm/robert-scheck-selinux-bitte-nicht-deaktivieren">SELinux</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/reiner-schlotte-hadoops-secure-mode-fluch-oder-segen">Hadoops&nbsp;'secure&nbsp;mode'</a></td>
-<td rowspan="2"><a class="light"><a href="../programmentwurf_raumplan#lightningtalkssecondblock">Lightning Talks</a></td>
+<td rowspan="2"><a class="light"><a href="../programm_raumplan#lightningtalkssecondblock">Lightning Talks</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons">PC-Zeitbegrenzung</a></td>
 <td>15:00</td></tr>
 
