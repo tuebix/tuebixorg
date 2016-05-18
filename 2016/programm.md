@@ -29,7 +29,7 @@ padding-right: 8px;
 <tr><td>09:30</td>
 <td colspan="3"></td>
 <td>            <a class="talk2" href="../programm/tuebix-init">init</a></td>
-<td colspan="5"></td>
+<td colspan="6"></td>
 <td>09:30</td></tr>
 
 <tr><td>10:00</td>
@@ -143,13 +143,13 @@ padding-right: 8px;
 <td>18:00</td></tr>
 
 <tr><td>18:30</td>
-<td colspan="3"> <a class="talk" href="../programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/">Das&nbsp;80cm-Teleskop</a></td>
 <td rowspan="2"><a class="talk" href="../programm/ingo-blechschmidt-das-geheimnis-der-zahl-5/">Tagesabschluss</a></td>
-<td colspan="5" rowspan="2"> </td>
+<td colspan="3" rowspan="2"> </td>
+<td            ><a class="talk" href="../programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/">Teleskop</a></td>
 <td>18:30</td></tr>
 
 <tr><td>19:00</td>
-<td colspan="3">Observatorium: <a class="talk" href="../programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/">Das&nbsp;80cm-Teleskop</a></td>
+<td            ><a class="talk" href="../programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/">Teleskop</a></td>
 <td>19:00</td></tr>
 
 <!-- for some reason the next tag (to close the table) won't show up in the end... wtf?  -->
