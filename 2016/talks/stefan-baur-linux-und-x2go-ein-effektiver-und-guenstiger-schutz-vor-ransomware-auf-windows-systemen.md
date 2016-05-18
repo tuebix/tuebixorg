@@ -13,7 +13,7 @@ menu:
 
 Vor 3 Jahren, aufgerüttelt durch Snowden, hatte jeder Angst, per Trojaner ausgespäht zu werden. Das Risiko, durch einen Virenbefall nicht mehr an seine Daten zu kommen, war im Vergleich zum „Datenleck“ gering. Heute ist Ransomware in aller Munde. Kurz: Gestern standen wir am Abgrund, heute sind wir einen Schritt weiter. Auftritt ReCoBS: Schon vor 10 Jahren durch das BSI als Konzept entwickelt, aber bislang viel zu wenig beachtet. Was bedeutet ReCoBS (Remote-Controlled-Browsers-System)? Wieso ist es ein viel effektiverer Schutz als Virenscanner, Firewall, oder UTM? Wir gehen kurz auf die ReCoBS-Historie ein und blicken auf 6 Jahre Praxiserfahrung mit einer konkreten Umsetzung auf Basis X2Go als fertiger Appliance zurück. Anschließend zeigen wir, dass X2Go/Linux/OpenSource gut skaliert: Ein X2Go-ReCoBS, individuell auf die Bedürfnisse eines Mittelständlers angepasst, und auf dessen eigener Virtualisierungshardware installiert, ist sehr kostengünstig machbar.
 
-### Vorwissen
+### Hinweise
 
 Windows-Hasser, bitte draußen bleiben. ;-)
 
