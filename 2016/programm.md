@@ -24,7 +24,7 @@ padding-right: 8px;
 
 <table>
 
-<tr><td></td><td>W1</td><td>W2</td><td>W3</td><td>V1</td><td>V2</td><td>V3</td><td>V4</td><td>LPIC</td><td>Teckids</td><td></td></tr>
+<tr><td></td><td>W1</td><td>W2</td><td>W3</td><td>V1</td><td>V2</td><td>V3</td><td>V4</td><td>Observatorium</td><td>LPIC</td><td>Teckids</td><td></td></tr>
 
 <tr><td>09:30</td>
 <td colspan="3"></td>
@@ -40,6 +40,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk"><a href="../programm/olaf-flebbe-docker-docker-docker">Docker</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/cornelius-koelbel-open-source-mehr-faktor-authentifizierung-mit-privacyidea">privacyIDEA</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/janko-dietzsch-statistik-mit-r">Statistik&nbsp;mit&nbsp;R</a></td>
+<td rowspan="5">&nbsp;</td>
 <td rowspan="4">&nbsp;</td>
 <td rowspan="16"><a class="work"><a href="../../kinder/">Teckids</a></td>
 <td>10:00</td></tr>
@@ -68,12 +69,14 @@ padding-right: 8px;
 
 <tr><td></td>
 <td            ><a class="talk"><a href="../programm/frederik-milkau-das-php-framework-typo3-flow">TYPO3 Flow</a></td>
+<td            ><a class="talk" href="../programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/">Teleskop</a></td>
 <td></td></tr>
 
 <tr><td>13:00</td>
 <td rowspan="2"><a class="talk"><a href="../programm/andreas-mundt-debian-fuer-ein-und-umsteiger">Debian</a></td>
 <td            ><a class="talk"><a href="../programm/adrian-reber-container-migration-using-criu-and-lxc">CRIU and LXC</a></td>
 <td            ><a class="talk"><a href="../programm/friedrich-strohmaier-andy-kuestner-open-source-software-beim-freien-radio-wueste-welle">Wüste&nbsp;Welle</a></td>
+<td            ><a class="talk" href="../programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/">Teleskop</a></td>
 <td>13:00</td></tr>
 
 <tr><td></td>
@@ -133,13 +136,14 @@ padding-right: 8px;
 
 
 <tr><td>18:00</td>
-<td colspan="3"></td>
+<td colspan="3" rowspan="3"></td>
 <td>            <a class="talk2" href="../programm/tuebix-exit">exit</a></td>
-<td colspan="5"></td>
+<td colspan="3" rowspan="2"></td>
+<td colspan="3"></td>
 <td>18:00</td></tr>
 
 <tr><td>18:30</td>
-<td colspan="3">Observatorium: <a class="talk" href="../programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/">Das&nbsp;80cm-Teleskop</a></td>
+<td colspan="3"> <a class="talk" href="../programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/">Das&nbsp;80cm-Teleskop</a></td>
 <td rowspan="2"><a class="talk" href="../programm/ingo-blechschmidt-das-geheimnis-der-zahl-5/">Tagesabschluss</a></td>
 <td colspan="5" rowspan="2"> </td>
 <td>18:30</td></tr>
