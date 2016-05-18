@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Programm
-permalink: /2016/programmentwurf_raumplan/
-weight:
-menu:
+permalink: /2016/programm_raumplan/
+weight: 6
+menu: main
 ---
 
-* <span style="font-weight: bold;">Raumplan&nbsp;&nbsp;&nbsp;&nbsp;</span>
-* <a href="../programmentwurf/">Überblick</a>&nbsp;&nbsp;&nbsp;&nbsp;
-* <a href="../programmentwurf_rahmen/">Rahmenprogramm</a>&nbsp;&nbsp;&nbsp;&nbsp;
+* <span style="font-weight: bold;">Raumplan</span>
+* <a href="../programm_auf_einen_blick/">Überblick</a>
+* <a href="../programm_rahmen/">Rahmenprogramm</a>
 
 <br/>
 

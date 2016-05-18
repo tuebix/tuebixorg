@@ -2,8 +2,8 @@
 layout: page
 title: Downloads(2015)
 permalink: /downloads/
-weight: 70
-menu: main
+weight: 
+menu:
 ---
 
 Die Downloads sind (falls vorhanden) NUR auf dieser Seite hier jeweils links des Titels verlinkt (pdf/ogg)<br/>
