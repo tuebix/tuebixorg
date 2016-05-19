@@ -7,7 +7,7 @@ menu:
 ---
 ## Tagesabschluss: Das Geheimnis der Zahl 5
 
-### <img height = "32" src="../../../images/talk.svg"> 18:15 bis 19:30 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 18:15 bis 19:00 in Raum V1
 
 ### Ingo Blechschmidt
 
