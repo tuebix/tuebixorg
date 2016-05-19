@@ -36,6 +36,7 @@ Die Beiträge des Programms gibt es in mehreren Geschmacksrichtungen:
 <h2><span><img height="36" width="36" src="../../images/talk2.svg"></span> init + exit</h2>
 
   * TüBIX: init und TüBIX: exit
+  * Dauer: jeweils 15 min
   * gemeinsamer Tagesbeginn und Tagesabschluss
 
 <h2><span><img height="36" width="36" src="../../images/lpic.svg"></span> LPIC</h2>
