@@ -10,6 +10,7 @@ menu: main
 * <span style="font-weight: bold;">Raumplan</span>
 * <a href="../programm_auf_einen_blick/">Programm auf einen Blick</a>
 * <a href="../programm_rahmen/">Rahmenprogramm</a>
+* <a href="../programm_was_bedeuten_die_icons">Was bedeuten die Icons <img height="18" width="18" src="../../images/workshop.svg"> <img height="18" width="18" src="../../images/talk.svg"> <img height="18" width="18" src="../../images/talk2.svg"> <img height="18" width="18" src="../../images/lightning.svg"> <img height="18" width="18" src="../../images/lpic.svg"> ?</a>
 
 <br/>
 
