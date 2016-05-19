@@ -8,7 +8,7 @@ menu:
 * <a href="../programm_raumplan/">Raumplan</a>
 * <a href="../programm_auf_einen_blick/">Programm auf einen Blick</a>
 * <a href="../programm_rahmen/">Rahmenprogramm</a>
-* <span style="font-weight: bold;">Was bedeuten <img height="18" width="18" src="../../images/workshop.svg"> <img height="18" width="18" src="../../images/talk.svg"> <img height="18" width="18" src="../../images/talk2.svg"> <img height="18" width="18" src="../../images/lightning.svg"> <img height="18" width="18" src="../../images/lpic.svg"> ?</span>
+* <span style="font-weight: bold;">Was bedeuten die Icons <img height="18" width="18" src="../../images/workshop.svg"> <img height="18" width="18" src="../../images/talk.svg"> <img height="18" width="18" src="../../images/talk2.svg"> <img height="18" width="18" src="../../images/lightning.svg"> <img height="18" width="18" src="../../images/lpic.svg"> ?</span>
 
 <br/>
 

@@ -19,6 +19,7 @@ padding-right: 8px;
 * <a href="../programm_raumplan/">Raumplan</a>
 * <span style="font-weight: bold;">Programm auf einen Blick</span>
 * <a href="../programm_rahmen/">Rahmenprogramm</a>
+* <a href="../programm_was_bedeuten_die_icons">Was bedeuten die Icons <img height="18" width="18" src="../../images/workshop.svg"> <img height="18" width="18" src="../../images/talk.svg"> <img height="18" width="18" src="../../images/talk2.svg"> <img height="18" width="18" src="../../images/lightning.svg"> <img height="18" width="18" src="../../images/lpic.svg"> ?</a>
 
 <br/>
 
