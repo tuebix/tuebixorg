@@ -116,7 +116,7 @@ padding-right: 8px;
 <td rowspan="4"><a class="work"><a href="../programm/cornelius-koelbel-serverfarm-mit-zentral-verwaltetem-zweiten-faktor-absichern">privacyIDEA</a></td>
 <td            ><a class="talk"><a href="../programm/felix-bauer-hard-disk-heart-attack">HD&nbsp;Heart&nbsp;Attack</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/olaf-flebbe-hadoop-distribution-selber-machen">Hadoop&nbsp;Distribution</a></td>
-<td rowspan="2"><a class="work">keysigning party</td>
+<td rowspan="2"><a class="work"><a href="../programm/michael-weiss-keysigning-party.md">keysigning party</td>
 <td rowspan="2"><a class="talk"><a href="../programm/sascha-kaupp-zocken-unter-linux">Zocken&nbsp;unter&nbsp;Linux</a></td>
 <td rowspan="4">&nbsp;</td>
 <td>16:00</td></tr>
