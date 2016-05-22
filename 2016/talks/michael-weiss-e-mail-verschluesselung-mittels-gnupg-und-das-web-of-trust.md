@@ -16,7 +16,7 @@ Jeder Teilnehmer soll lernen, wie man E-Mails mittels GnuPG verschlüsselt und s
 ### Ablauf
 
 * Einführung in GnuPG/ Motivation
-* Symmetrsche/Asymmetrische Verschlüsselung
+* Symmetrische/Asymmetrische Verschlüsselung
 * Generieren eines Schlüsselpaares auf dem eigenen Rechner
 * Web of Trust
 * Keyserver
