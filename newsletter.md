@@ -6,7 +6,7 @@ weight: 9
 menu: main
 ---
 
-Um auf dem Laufenden zu bleiben (ohne tuebix.org aufrufen zu müssen) gibt es einen Newsletter in Form einer Mailingliste.
+Um auf dem Laufenden zu bleiben (ohne tuebix.org aufrufen zu müssen), gibt es einen Newsletter in Form einer Mailingliste.
 
 Abonennten der Liste können NICHT posten, d.h. signal-to-noise ratio sollte recht gut sein.<br/>
 Wir werden nicht mehr als 6 Mails im Jahr schreiben:
