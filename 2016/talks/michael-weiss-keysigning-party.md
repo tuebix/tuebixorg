@@ -11,7 +11,7 @@ menu:
 
 ### Michael Weiss, Roman Schulte, Leo Dessani, Justin Humm
 
-Im Anschluss an den Workshop wollen wir unsere neue erzeugten Keys signieren. Versierte Nutzerinnen und Nutzer sind herzlich eingelade, dazu zu kommen.
+Im Anschluss an den Workshop wollen wir unsere neue erzeugten Keys signieren. Versierte Nutzerinnen und Nutzer sind herzlich eingeladen, dazu zu kommen.
 
 ### Vorwissen
 
