@@ -102,7 +102,7 @@ menu: main
 <tr><td>15:40</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>15:45</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>15:50</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
-<tr><td>16:00</td><td><a class="work"></a></td><td><a href="../programm/michael-weiss-keysigning-party">Keysigning Party</a></td><td>Michael Weiss, Roman Schulte, Leo Dessani, Justin Humm</td></tr>
+<tr><td>16:00</td><td><a class="work"></a></td><td><a href="../programm/michael-weiss-keysigning-party">Keysigning Party</a></td><td>Michael Weiss,&nbsp;Roman Schulte,<br/>Leo Dessani,&nbsp;Justin Humm</td></tr>
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">Linux&nbsp;und&nbsp;X2Go:&nbsp;ein&nbsp;&nbsp;effektiver&nbsp;&&nbsp;günstiger&nbsp;Schutz vor&nbsp;Ransomware&nbsp;auf&nbsp;Windows-Systemen</a></td><td>Stefan&nbsp;Baur</td></tr>
 <tr><td>&nbsp;</td></tr>
 
