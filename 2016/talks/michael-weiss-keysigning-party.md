@@ -7,7 +7,7 @@ menu:
 ---
 ## PGP Key-Signing-Party im Anschluss an den GnuPG Workshop
 
-### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W3
+### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 17:00 in Raum V3
 
 ### Michael Weiss, Roman Schulte, Leo Dessani, Justin Humm
 
