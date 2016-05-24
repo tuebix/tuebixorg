@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/peter-hrenka-git-sub-aehhm-dings
+permalink: /2016/programm/peter-hrenka-git-sub-aehhm-dings/
 weight:
 menu:
 ---
