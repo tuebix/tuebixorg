@@ -106,7 +106,7 @@ Dieser Vortrag gibt eine leicht verständliche Einführung in das Geheimnis der 
 <start>16:30</start>
 <duration>00:30</duration>
 <room>V1</room>
-<title>Physik der Klänge: Experimente mit Linux-Bordmitteln</title>
+<title>Physik der Klaenge: Experimente mit Linux-Bordmitteln</title>
 <type>talk</type>
 <description>Ingo Blechschmidt
 
@@ -313,7 +313,7 @@ Keine Angst vor der Kommandozeile und Vorwissen über Netzwerke und Filesysteme 
 </links>
 <persons></persons>
 </event>
-<event id="flebbe-bigdata1">
+<event id="olaf-flebbe-hadoop-distribution-selber-machen">
 <start>16:00</start>
 <duration>01:00</duration>
 <room>V2</room>
@@ -516,8 +516,9 @@ privacyIDEA ist ein offenes System zur Verwaltung von Authentifizierungs-Faktore
 </links>
 <persons></persons>
 </event>
-<event id="pfeifle-pandoc">
+<event id="david-elias-kuenstle-dokumenten-kungfoo-fuer-hacker-mit-pandoc-filter">
 <start>12:40</start>
+<duration>00:05</duration>
 <room>V3</room>
 <title>Dokumenten-KungFoo für Hacker mit Pandoc Filter</title>
 <type>lightning</type>
@@ -666,7 +667,7 @@ Die Parabel der Polygone ist ein Projekt der Mathemusikerin Vi Hart und des Inte
 <start>12:10</start>
 <duration>00:05</duration>
 <room>V3</room>
-<title>Einmal Stratosphäre und zurück</title>
+<title>Einmal Stratosphaere und zurück</title>
 <type>lightning</type>
 <description>Ingo Blechschmidt
 
@@ -713,7 +714,7 @@ Die Schülerin Emma hat Spaß an Mathe und möchte ihr Interesse vertiefen. In i
 </description>
 <persons></persons>
 </event>
-<event id="lugs-kurzvorstellungen">
+<event id="lugs-und-co-var-log-lug">
 <start>14:00</start>
 <duration>01:00</duration>
 <room>V3</room>
@@ -787,6 +788,35 @@ Im Anschluss an den Workshop wollen wir unsere neue erzeugten Keys signieren. Ve
 - GnuPG: <link href="https://www.gnupg.org/" >https://www.gnupg.org/</link>
 - OpenPGP: <link href="https://tools.ietf.org/html/rfc4880" >https://tools.ietf.org/html/rfc4880</link>
 - Enigmail: <link href="https://www.enigmail.net/index.php/en/" >https://www.enigmail.net/index.php/en/</link>
+</links>
+<persons></persons>
+</event>
+<event id="peter-hrenka-git-sub-aehhm-dings">
+<start>12:20</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>git sub - aehhm - dings</title>
+<type>lightning</type>
+<description>Peter Hrenka
+
+Um mehrere voneinander abhängige Projekte mit git zu verwalten gibt eine ganze Reihe von git "sub"-Kommandos:
+
+- git submodule
+- git subtree
+- git subrepo
+
+Ich werde diese Tools vergleichen und ein paar typische Abläufe damit vorstellen.
+
+### Vorwissen
+
+git Grundwissen
+
+</description>
+<links>
+
+- <link href="https://git-scm.com/book/en/v2/Git-Tools-Submodules" >https://git-scm.com/book/en/v2/Git-Tools-Submodules</link>
+- <link href="https://github.com/apenwarr/git-subtree/blob/master/git-subtree.txt" >https://github.com/apenwarr/git-subtree/blob/master/git-subtree.txt</link>
+- <link href="https://github.com/ingydotnet/git-subrepo" >https://github.com/ingydotnet/git-subrepo</link>
 </links>
 <persons></persons>
 </event>
@@ -1013,7 +1043,7 @@ Installation von Software-Paketen und Verständnis zum grundsätzlichen Umgang m
 <start>11:00</start>
 <duration>01:00</duration>
 <room>V4</room>
-<title>XeLaTeX für Präsentationen... ?!?</title>
+<title>XeLaTeX für Praesentationen... ?!?</title>
 <type>talk</type>
 <description>Roland Imme
 
@@ -1076,7 +1106,7 @@ Mit Classicthesis lassen sich wissenschaftliche Abschlussarbeiten eindrucksvoll 
 </event>
 </room>
 <room name="W1">
-<event id="beitrag/405" target="_blank">https://chemnitzer.linux-tage.de/2016/de/programm/beitrag/405">
+<event id="harald-koenig-gnuplot-ein-bild-sagt-mehr-als-1000-zahlen">
 <start>14:00</start>
 <duration>02:00</duration>
 <room>W1</room>
@@ -1149,7 +1179,7 @@ In diesem Workshop lernen die Teilnehmer:
 </links>
 <persons></persons>
 </event>
-<event id="zimmer-vim">
+<event id="toni-zimmer-vim-fuer-nicht-mehr-beginner-und-noch-nicht-fortgeschrittene">
 <start>10:00</start>
 <duration>02:00</duration>
 <room>W1</room>
