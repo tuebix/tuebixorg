@@ -7,7 +7,7 @@ menu:
 ---
 ## mutt konfigurieren
 
-### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum V3
+### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W3
 
 ### Sven Guckes
 
