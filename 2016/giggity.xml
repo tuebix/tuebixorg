@@ -4,12 +4,12 @@
     <title>TUEBIX 2016</title>
     <city>T&#xFC;bingen</city>
     <start>2016-06-11</start>
-    <end>2015-06-11</end>
+    <end>2016-06-11</end>
     <days>1</days>
-    <release>1.20160524.2138</release>
+    <release>1.20160525.0422</release>
     <timeslot_duration>00:30</timeslot_duration>
   </conference>
-  <day date="2015-06-11" index="1">
+  <day date="2016-06-11" index="1">
   <room name="V1">
 <event id="andreas-mundt-debian-fuer-ein-und-umsteiger">
 <start>13:00</start>
