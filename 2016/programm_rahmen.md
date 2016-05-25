@@ -44,5 +44,4 @@ Die Fachschaft wird den Grill anwerfen.
 Damit wir besser kalkulieren können wie viel Grillgut wir (wenigstens so in etwa) vorbereiten sollten, bitte <a href="../anmeldung/">anmelden</a>.
 Damit nicht alle gleichzeitig den Grill stürmen, können alle, die noch nicht allzu hungrig sind:<br/>
 <a class="talk" href="../programm/ingo-blechschmidt-das-geheimnis-der-zahl-5/">Ingos Tagesabschluss</a> hören oder<br/>
-<a class="talk" href="../programm/ruth-und-daniel-gottschall-das-tuebinger-80cm-teleskop/">das Tübinger 80cm-Teleskop</a> bestaunen.<br/>
-
+<a class="talk" href="../programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/">das Tübinger 80cm-Teleskop</a> bestaunen.<br/>
