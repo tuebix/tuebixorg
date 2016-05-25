@@ -18,4 +18,4 @@ Es reicht eine leere Mail an:
 Deine Mailadressen wird nicht weitergegeben und Du bekommst aufgrund der Anmeldung auch keine TüBIX-Mails.
 Dafür gibt es den (<a href="https://de.wikipedia.org/wiki/Opt-in" target="_blank">opt-in!</a>) <a href="../../newsletter">Newsletter</a>
 
-Falls du auch zum <a href="../programm_rahmen">Auftakt</a> kommst, trag Dich bitte ins <a href="https://tuebix2015.titanpad.com/auftakt" target="_blank">Auftakt-Pad</a> ein.
+Falls du auch zum <a href="../programm_rahmen">Auftakt</a> kommst, trag Dich bitte ins <a href="https://tuebix2016.titanpad.com/auftakt" target="_blank">Auftakt-Pad</a> ein.
