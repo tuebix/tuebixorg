@@ -34,7 +34,7 @@ tatsächlich vorhandenen Leute erstellen werden.
     * Wer mag, kann die unterschriebenen Schlüssel gerne an die Leute mailen.
 * Jeder liest seinen Fingerprint nochmal vor.
     * Laut reden, deutlich reden.
-    * ABCDEF: ALPHA BRAVO CHARLIE DELTA ECHO FOXTROT  https://en.wikipedia.org/wiki/NATO_phonetic_alphabet
+    * ABCDEF: ALPHA BRAVO CHARLIE DELTA ECHO FOXTROT <https://en.wikipedia.org/wiki/NATO_phonetic_alphabet>
 * "Häkchen setzen nur dann, wenn man der Information  soweit vertraut, dass man es auch unterschreiben will."
 
 Dann das übliche aneinander-vorbeilaufen.  aber:
@@ -47,9 +47,9 @@ Das Signieren der Schlüssel erfolgt dann zuhause.
 
 ### Kontakt 
 
-* Sven      Guckes       tuebix2016@guckes.net        8000R/0185391B 2014-03-11
-* Florian   Heimgaertner florian@heimgaertner.net     4096R/EF4515A5 2015-06-13
-* Michael   Weiss        michael.weiss1996@gmail.com  4096R/9318BA46 2015-10-08
+* Sven      Guckes       <tuebix2016@guckes.net>        8000R/0185391B 2014-03-11
+* Florian   Heimgaertner <florian@heimgaertner.net>     4096R/EF4515A5 2015-06-13
+* Michael   Weiss        <michael.weiss1996@gmail.com>  4096R/9318BA46 2015-10-08
 
 
 
