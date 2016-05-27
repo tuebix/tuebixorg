@@ -16,3 +16,4 @@ Bericht über einen aktuell laufenden Versuch im Fach Informatik in der Kursstuf
 ### Links
 
 - <a href="https://www.lpi.org/certification/linux-essentials/" target="_blank">https://www.lpi.org/certification/linux-essentials/</a>
+- <a href="https://www.lpice.eu/de/lpi-zertifizierungsinhalte/linux-essentials-ueberblick/" target="_blank">https://www.lpice.eu/de/lpi-zertifizierungsinhalte/linux-essentials-ueberblick/</a>
