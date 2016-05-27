@@ -9,7 +9,7 @@ menu:
 
 ### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 17:00 in Raum V3
 
-### Michael Weiss, Roman Schulte, Leo Dessani, Justin Humm
+### Michael Weiss, Sven Guckes, Florian Heimgärtner
 
 Im Anschluss an den Workshop wollen wir unsere neue erzeugten Keys signieren. Versierte Nutzerinnen und Nutzer sind herzlich eingeladen, dazu zu kommen.
 
