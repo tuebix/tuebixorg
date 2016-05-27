@@ -40,14 +40,14 @@ Dies soll keineswegs bedeuten, dass man jeden Vortrag in diesem Raum hören muss
 Wir nehmen pro Raum 2 Personen in die Liste und diese können sich dann absprechen, damit nicht jeder bei jedem Wechsel "vor Ort" sein muss.
 Sehr gerne kann man sich auch direkt als Gruppe für einen Raum anmelden und sich dann untereinander organisieren.
 
-O O Raumsupport V1<br/>
+X O Raumsupport V1<br/>
 O O Raumsupport V2<br/>
 O O Raumsupport V3<br/>
 O O Raumsupport V4<br/>
 <br/>
-O O Raumsupport W1<br/>
-O O Raumsupport W2<br/>
-O O Raumsupport W3<br/>
+X Raumsupport W1<br/>
+X Raumsupport W2<br/>
+O Raumsupport W3<br/>
 
 ## Getränkeausgabe (je 1h, 2 Personen)
 
