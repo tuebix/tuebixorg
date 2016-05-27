@@ -9,15 +9,32 @@ menu:
 
 ### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 17:00 in Raum V3
 
-### Michael Weiss, Sven Guckes, Florian Heimgärtner
+### Sven Guckes, Florian Heimgärtner, Michael Weiss
 
-Im Anschluss an den Workshop wollen wir unsere neue erzeugten Keys signieren. Versierte Nutzerinnen und Nutzer sind herzlich eingeladen, dazu zu kommen.
+### Vorbereitung 
 
-### Vorwissen
+Wir empfehlen den Besuch des Workshops 14-16h im Raum W3:
+Michael Weiss: [michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust](E-Mail-Verschlüsselung mittels GnuPG und das Web of Trust)
+
+### Ablauf
+
+Wir bitten alle Teilnehmer rechtzeitig zu erscheinen,
+da wir die zu druckende Liste nur anhand der
+tatsächlich vorhandenen Leute erstellen werden.
+
+### Nachbearbeitung 
+
+Das Signieren der Schlüssel erfolgt dann zuhause.
+
+### Kontakt 
+
+* Sven      Guckes       tuebix2016@guckes.net        8000R/0185391B 2014-03-11
+* Florian   Heimgaertner florian@heimgaertner.net     4096R/EF4515A5 2015-06-13
+* Michael   Weiss        michael.weiss1996@gmail.com  4096R/9318BA46 2015-10-08
+
 
 
 ### Links
 
 - GnuPG: <a href="https://www.gnupg.org/" target="_blank">https://www.gnupg.org/</a>
 - OpenPGP: <a href="https://tools.ietf.org/html/rfc4880" target="_blank">https://tools.ietf.org/html/rfc4880</a>
-- Enigmail: <a href="https://www.enigmail.net/index.php/en/" target="_blank">https://www.enigmail.net/index.php/en/</a>
