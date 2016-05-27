@@ -14,7 +14,7 @@ menu:
 ### Vorbereitung 
 
 Wir empfehlen den Besuch des Workshops 14-16h im Raum W3:
-Michael Weiss: [michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust](E-Mail-Verschlüsselung mittels GnuPG und das Web of Trust)
+[E-Mail-Verschlüsselung mittels GnuPG und das Web of Trust](michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust)
 
 ### Ablauf
 
