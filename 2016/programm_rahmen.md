@@ -45,3 +45,8 @@ Damit wir besser kalkulieren können wie viel Grillgut wir (wenigstens so in etw
 Damit nicht alle gleichzeitig den Grill stürmen, können alle, die noch nicht allzu hungrig sind:<br/>
 <a class="talk" href="../programm/ingo-blechschmidt-das-geheimnis-der-zahl-5/">Ingos Tagesabschluss</a> hören oder<br/>
 <a class="talk" href="../programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/">das Tübinger 80cm-Teleskop</a> bestaunen.<br/>
+
+### Sonntagmittag: Stocherkahnfahren!
+
+von 11:00 - 13:00 haben wir einen Stocherkahn organisiert, damit alle Tübix-Besucher von außerhalb diese Tübinger Tradition einmal erleben können. Natürlich sind auch Tübinger selbst herzlich eingeladen - insbesondere alle, die wir zum Stochern einsetzen können ;)
+Da der Kahn nur max. 16 Plätze hat, meldet euch schnell per Email (info@tübix.de) an. Restplätze verteilen wir dann noch auf dem Tübix am Infostand. Übrigens muss man nicht die ganzen drei Stunden mitstochern.
