@@ -20,7 +20,7 @@ Jeder Teilnehmer soll lernen, wie man E-Mails mittels GnuPG verschlüsselt und s
 * Generieren eines Schlüsselpaares auf dem eigenen Rechner
 * Web of Trust
 * Keyserver
-* Im Anschluss Keysigning-Party
+* Im Anschluss [Keysigning-Party]{../michael-weiss-keysigning-party/)
 
 ### Vorwissen
 
