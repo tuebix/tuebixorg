@@ -85,7 +85,7 @@ X X O O O O O
 ## Fotos
 Du willst den Tag für die Nachwelt festhalten? Die Chance bekommst Du als Fotograf
 
-O O O O 
+X X X O 
 
 ## So kann jeder helfen
 
