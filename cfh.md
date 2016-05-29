@@ -47,7 +47,7 @@ X O Raumsupport V4<br/>
 <br/>
 X Raumsupport W1<br/>
 X Raumsupport W2<br/>
-O Raumsupport W3<br/>
+X Raumsupport W3<br/>
 
 ## Getränkeausgabe (je 1h, 2 Personen)
 
