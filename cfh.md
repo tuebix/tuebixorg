@@ -80,7 +80,7 @@ X 16:00 - 18:00 Kasse<br/>
 ## Gästebett (Fr/Sa und Sa/So)
 Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Dann melde dich bei uns und gib Bescheid, wieviele Übernachtungen Du ermöglichen könntest:
 
-X X O O O O O
+X X X X X O O O O
 
 ## Fotos
 Du willst den Tag für die Nachwelt festhalten? Die Chance bekommst Du als Fotograf
