@@ -56,7 +56,7 @@ O O 11:00 - 12:00 Getränkeausgabe <br/>
 O O 12:00 - 13:00 Getränkeausgabe <br/>
 O O 13:00 - 14:00 Getränkeausgabe <br/>
 O O 14:00 - 15:00 Getränkeausgabe <br/>
-X O 15:00 - 16:00 Getränkeausgabe <br/>
+X X 15:00 - 16:00 Getränkeausgabe <br/>
 X X 16:00 - 17:00 Getränkeausgabe <br/>
 O O 17:00 - 18:00 Getränkeausgabe <br/>
 O O 18:00 - 19:00 Getränkeausgabe <br/>
