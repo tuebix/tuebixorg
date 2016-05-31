@@ -24,7 +24,7 @@ Der Auftakt ist dieses Mal in der <a href="http://www.tuepedia.de/wiki/Stadtpost
 
 Treffpunkt: um 19:00<br/>
 
-Bitte im Pad eintragen, wenn du vorhast zu kommen: <a href="https://tuebix2015.titanpad.com/auftakt" target="_blank">Auftakt-Pad</a>
+Bitte im Pad eintragen, wenn du vorhast zu kommen: <a href="https://tuebix2016.titanpad.com/auftakt" target="_blank">Auftakt-Pad</a>
 
 ### Pizza zum Mittag
 
