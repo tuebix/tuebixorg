@@ -7,7 +7,7 @@ menu:
 ---
 ## WOL-on-ARP - Anturnen bei Bedarf
 
-### <img height = "32" src="../../../images/lightning.svg"> 12:45 bis 12:50 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:30 bis 15:35 in Raum V3
 
 ### Felix Bauer
 
