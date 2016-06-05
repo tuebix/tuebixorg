@@ -73,7 +73,7 @@ menu: main
 <tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/cornelius-koelbel-open-source-mehr-faktor-authentifizierung-mit-privacyidea">Open&nbsp;Source&nbsp;Mehr-Faktor-Authentifizierung&nbsp;mit&nbsp;privacyIDEA</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/robert-scheck-mein-erstes-selbstgebautes-rpm-paket">Mein&nbsp;erstes&nbsp;selbstgebautes&nbsp;RPM-Paket!</a></td><td>Robert&nbsp;Scheck</td></tr>
 <tr><td>12:00</td><td><a class="light" name="firstlightningtalk"></a></td><td>tbd</td><td>tbd</td></tr>
-<tr><td>12:05</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-alpinelinux">AlpineLinux</a></td><td>Felix&nbsp;Bauer</td></tr>
+<tr><td>12:05</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>12:10</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-einmal-stratosphaere-und-zurueck">Einmal&nbsp;Stratosphäre&nbsp;und&nbsp;zurück</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>12:15</td><td><a class="light"></a></td><td><a href="../programm/arnd-bergmann-2038-alles-ist-kaputt">2038&nbsp;--&nbsp;alles&nbsp;ist&nbsp;kaputt</a></td><td>Arnd&nbsp;Bergmann</td></tr>
 <tr><td>12:20</td><td><a class="light"></a></td><td><a href="../programm/peter-hrenka-git-sub-aehhm-dings">git&nbsp;sub&nbsp;-&nbsp;ähhm&nbsp;-&nbsp;dings</a></td><td>Peter&nbsp;Hrenka</td></tr>
@@ -81,11 +81,11 @@ menu: main
 <tr><td>12:30</td><td><a class="light"></a></td><td><a href="../programm/alexander-nehmer-mobaxterm-linux-feeling-unter-windows">MobaXterm&nbsp;-&nbsp;Linux-Feeling&nbsp;unter&nbsp;Windows</a></td><td>Alexander&nbsp;Nehmer</td></tr>
 <tr><td>12:35</td><td><a class="light"></a></td><td><a href="../programm/sebastian-niedworok-elementar-unix-tools-fuer-windows-cli">Elementar&nbsp;(Unix-)Tools&nbsp;für&nbsp;Windows-CLI</a></td><td>Sebastian&nbsp;Niedworok</td></tr>
 <tr><td>12:40</td><td><a class="light"></a></td><td><a href="../programm/david-elias-kuenstle-dokumenten-kungfoo-fuer-hacker-mit-pandoc-filter">Dokumenten-KungFoo&nbsp;für&nbsp;Hacker&nbsp;mit&nbsp;Pandoc&nbsp;Filter</a></td><td>David-Elias&nbsp;Künstle</td></tr>
-<tr><td>12:45</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-wol-on-arp-anturnen-bei-bedarf">WOL-on-ARP&nbsp;-&nbsp;Anturnen&nbsp;bei&nbsp;Bedarf</a></td><td>Felix&nbsp;Bauer</td></tr>
+<tr><td>12:45</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>12:50</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-matheschuelerzirkel">Matheschülerzirkel</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>13:00</td><td><a class="light"></a></td><td><a href="../programm/sebastian-klingberg-netzwerkbaukasten-openvswitch">Netzwerkbaukasten&nbsp;OpenVSwitch</a></td><td>Sebastian&nbsp;Klingberg</td></tr>
 <tr><td>13:05</td><td><a class="light"></a></td><td><a href="../programm/alexander-berg-nx-ist-tot-es-lebe-xpra">NX&nbsp;ist&nbsp;tot,&nbsp;es&nbsp;lebe&nbsp;<del>N</del>Xpra</a></td><td>Alexander&nbsp;Berg</td></tr>
-<tr><td>13:10</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-squid-reproduction">Squid&nbsp;Reproduction</a></td><td>Felix&nbsp;Bauer</td></tr>
+<tr><td>13:10</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>13:15</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-die-parabel-der-polygone">Die&nbsp;Parabel&nbsp;der&nbsp;Polygone</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>13:20</td><td><a class="light"></a></td><td><a href="../programm/marcus-siegl-raspberry-pi-als-internet-of-things">Raspberry&nbsp;Pi&nbsp;(Zero)&nbsp;als&nbsp;Internet&nbsp;of&nbsp;Things&nbsp;</a></td><td>Marcus&nbsp;Siegl</td></tr>
 <tr><td>13:25</td><td><a class="light"></a></td><td><a href="../programm/anni-theil-schiebel-linux-essentials-in-der-schule">Linux&nbsp;Essentials&nbsp;in&nbsp;der&nbsp;Schule</a></td><td>Anni&nbsp;Theil-Schiebel</td></tr>
@@ -98,12 +98,12 @@ menu: main
 <tr><td>15:00</td><td><a class="light"></a></td><td><a name="lightningtalkssecondblock" href="../programm/felix-bauer-free-internet">Free&nbsp;Internet</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>15:05</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-keine-lust-auf-lange-uebersetzungszeiten-bei-latex-auf-schwachen-rechnern">Keine&nbsp;Lust&nbsp;auf&nbsp;lange&nbsp;Übersetzungszeiten&nbsp;bei&nbsp;LaTeX&nbsp;auf&nbsp;schwachen&nbsp;Rechnern?</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>15:10</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
-<tr><td>15:15</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>15:15</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-alpinelinux">AlpineLinux</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>15:20</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>15:25</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
-<tr><td>15:30</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>15:30</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-wol-on-arp-anturnen-bei-bedarf">WOL-on-ARP&nbsp;-&nbsp;Anturnen&nbsp;bei&nbsp;Bedarf</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>15:35</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
-<tr><td>15:40</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>15:45</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-squid-reproduction">Squid&nbsp;Reproduction</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>15:45</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>15:50</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>16:00</td><td><a class="work"></a></td><td><a href="../programm/michael-weiss-keysigning-party">Keysigning Party</a></td><td>Michael Weiss,&nbsp;Sven Guckes, Florian Heimgärtner</td></tr>
