@@ -7,7 +7,7 @@ menu:
 ---
 ## Squid Reproduction
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:10 bis 13:15 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:45 bis 15:50 in Raum V3
 
 ### Felix Bauer
 
