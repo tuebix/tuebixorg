@@ -73,7 +73,7 @@ menu: main
 <tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/cornelius-koelbel-open-source-mehr-faktor-authentifizierung-mit-privacyidea">Open&nbsp;Source&nbsp;Mehr-Faktor-Authentifizierung&nbsp;mit&nbsp;privacyIDEA</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/robert-scheck-mein-erstes-selbstgebautes-rpm-paket">Mein&nbsp;erstes&nbsp;selbstgebautes&nbsp;RPM-Paket!</a></td><td>Robert&nbsp;Scheck</td></tr>
 <tr><td>12:00</td><td><a class="light" name="firstlightningtalk"></a></td><td>tbd</td><td>tbd</td></tr>
-<tr><td>12:05</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>12:05</td><td><a class="light"></a></td><td><a href="../programm/gerik-huland-bash-skripte-optimieren/">Bash Skripte optimieren</a></td><td>Gerik Huland</td></tr>
 <tr><td>12:10</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-einmal-stratosphaere-und-zurueck">Einmal&nbsp;Stratosphäre&nbsp;und&nbsp;zurück</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>12:15</td><td><a class="light"></a></td><td><a href="../programm/arnd-bergmann-2038-alles-ist-kaputt">2038&nbsp;--&nbsp;alles&nbsp;ist&nbsp;kaputt</a></td><td>Arnd&nbsp;Bergmann</td></tr>
 <tr><td>12:20</td><td><a class="light"></a></td><td><a href="../programm/peter-hrenka-git-sub-aehhm-dings">git&nbsp;sub&nbsp;-&nbsp;ähhm&nbsp;-&nbsp;dings</a></td><td>Peter&nbsp;Hrenka</td></tr>
@@ -81,7 +81,7 @@ menu: main
 <tr><td>12:30</td><td><a class="light"></a></td><td><a href="../programm/alexander-nehmer-mobaxterm-linux-feeling-unter-windows">MobaXterm&nbsp;-&nbsp;Linux-Feeling&nbsp;unter&nbsp;Windows</a></td><td>Alexander&nbsp;Nehmer</td></tr>
 <tr><td>12:35</td><td><a class="light"></a></td><td><a href="../programm/sebastian-niedworok-elementar-unix-tools-fuer-windows-cli">Elementar&nbsp;(Unix-)Tools&nbsp;für&nbsp;Windows-CLI</a></td><td>Sebastian&nbsp;Niedworok</td></tr>
 <tr><td>12:40</td><td><a class="light"></a></td><td><a href="../programm/david-elias-kuenstle-dokumenten-kungfoo-fuer-hacker-mit-pandoc-filter">Dokumenten-KungFoo&nbsp;für&nbsp;Hacker&nbsp;mit&nbsp;Pandoc&nbsp;Filter</a></td><td>David-Elias&nbsp;Künstle</td></tr>
-<tr><td>12:45</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>12:45</td><td><a class="light"></a></td><td><a href="../programm/gerik-huland-disk-images-auf-die-schnelle-testen-mit-qemu">Disk-Images auf die Schnelle testen mit QEMU</a></td><td>Gerik Huland</td></tr>
 <tr><td>12:50</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-matheschuelerzirkel">Matheschülerzirkel</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>13:00</td><td><a class="light"></a></td><td><a href="../programm/sebastian-klingberg-netzwerkbaukasten-openvswitch">Netzwerkbaukasten&nbsp;OpenVSwitch</a></td><td>Sebastian&nbsp;Klingberg</td></tr>
 <tr><td>13:05</td><td><a class="light"></a></td><td><a href="../programm/alexander-berg-nx-ist-tot-es-lebe-xpra">NX&nbsp;ist&nbsp;tot,&nbsp;es&nbsp;lebe&nbsp;<del>N</del>Xpra</a></td><td>Alexander&nbsp;Berg</td></tr>
