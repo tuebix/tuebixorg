@@ -13,5 +13,4 @@ menu:
 
 Bash 4 bringt neue Erweiterungen mit, die den Einsatz von Helferprogrammen wie awk, tr, sed und grep in vielen Fällen überflüssig machen. Das macht Skripte schneller oder erlaubt elegantere Schreibweisen.
 
-### Links
 
