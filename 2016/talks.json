@@ -857,7 +857,7 @@
         "inhalt": "Bericht über einen aktuell laufenden Versuch im Fach Informatik in der Kursstufe des Gymnasiums im Rahmen der Unterrichtseinheit 'Betriebssysteme'. Die Schülerinnen und Schüler werden im 'ange leiteten Selbststudium' durch den Kurs geführt und können auf freiwilliger Basis das Linux Essentials-Zertifikat ablegen.",
         "room": "V3"
     },
-{
+    {
         "titel": "imag - CmdLine Personal Information Management Suite in Rust",
         "weblinks": "https://github.com/matthiasbeyer/imag",
         "vorwissen": "Menschen, die auf der Kommandozeile zuhause sind werden sich wohl fühlen.",
@@ -869,5 +869,32 @@
         "name": "Matthias Beyer",
        "inhalt": "Ich stelle mein Projekt \"imag\" vor, eine Commandline Personal Information Management Suite, welche ich in Rust schreibe. Erst kurz warum, weshalb und wie, dann der Aufruf Code beizutragen, da ich Mitstreiter suche.",
         "room": "V3"
-    }
+    },
+    {
+        "titel": "Bash Skripte optimieren",
+        "weblinks": "",
+        "vorwissen": "Shell Skripting",
+        "timeend": "12:05",
+        "buzzword": "Skriptsprachen, Shell, Programmieren",
+        "duration": 5,
+        "urlid": "gerik-huland-bash-skripte-optimieren",
+        "timebegin": "12:10",
+        "name": "Gerik Huland",
+        "inhalt": "Bash 4 bringt neue Erweiterungen mit, die den Einsatz von Helferprogrammen wie awk, tr, sed und grep in vielen Fällen überflüssig machen. Das macht Skripte schneller oder erlaubt elegantere Schreibweisen.",
+        "room": "V3"
+    },
+    {
+        "titel": "Disk-Images auf die Schnelle testen mit QEMU",
+        "weblinks": "http://wiki.qemu.org/Main_Page",
+        "vorwissen": "",
+        "timeend": "12:50",
+        "buzzword": "Technologien, Virtualisierung",
+        "duration": 5,
+        "urlid": "gerik-huland-disk-images-auf-die-schnelle-testen-mit-qemu",
+        "timebegin": "12:45",
+        "name": "Gerik Huland",
+        "inhalt": "Um \"mal schnell\" ein USB Stick Image oder eine LiveCD zu testen, muss man nicht Virtualbox, VMware-Player oder libvirt installieren. Qemu kann auf allen großen Distributionen einfach installiert und direkt auf der Kommandozeile mit wenigen Argumenten gestartet werden.",
+        "room": "V3"
+     }
+   
 ]
