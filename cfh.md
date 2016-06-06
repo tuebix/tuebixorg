@@ -15,7 +15,7 @@ O heißt "es besteht noch Bedarf - zu besetzen" <br/>
 
 ## Grill (je 1h, 2 Personen)
 
-O O 15:00 - 16:00 Grillen<br/>
+X O 15:00 - 16:00 Grillen<br/>
 O O 16:00 - 17:00 Grillen<br/>
 O O 17:00 - 18:00 Grillen<br/>
 O O 18:00 - 19:00 Grillen<br/>
@@ -29,8 +29,8 @@ X O O O O 10:00-11:00 Pizza (Aufbau)<br/>
 X X O O O 11:00-12:00 Pizza<br/>
 X O O O O 12:00-13:00 Pizza<br/>
 X X O O O 13:00-14:00 Pizza<br/>
-X O O O O 14:00-15:00 Pizza<br/>
-X O O O O 15:00-16:00 Pizza<br/>
+X X X O O 14:00-15:00 Pizza<br/>
+X X X O O 15:00-16:00 Pizza<br/>
 
 ## Programmunterstützung (ganzer Tag, 2 Personen als Team)
 
@@ -52,7 +52,7 @@ X Raumsupport W3<br/>
 ## Getränkeausgabe (je 1h, 2 Personen)
 
 O O 10:00 - 11:00 Getränkeausgabe <br/>
-O O 11:00 - 12:00 Getränkeausgabe <br/>
+X O 11:00 - 12:00 Getränkeausgabe <br/>
 X O 12:00 - 13:00 Getränkeausgabe <br/>
 X O 13:00 - 14:00 Getränkeausgabe <br/>
 O O 14:00 - 15:00 Getränkeausgabe <br/>
