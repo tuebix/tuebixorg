@@ -543,7 +543,7 @@ Pandoc zu kennen sowie Programmierkenntnisse helfen dem Verständnis. Zu Pandoc 
 <persons></persons>
 </event>
 <event id="felix-bauer-alpinelinux">
-<start>12:05</start>
+<start>15:15</start>
 <duration>00:05</duration>
 <room>V3</room>
 <title>AlpineLinux</title>
@@ -587,7 +587,7 @@ Einmal frei machen bitte - Sicher und unbeschränkt, WLAN für alle
 <persons></persons>
 </event>
 <event id="felix-bauer-squid-reproduction">
-<start>13:10</start>
+<start>15:45</start>
 <duration>00:05</duration>
 <room>V3</room>
 <title>Squid Reproduction</title>
@@ -606,7 +606,7 @@ Automatische Instantiierung eines Docker-Containers mit Caching Proxy
 <persons></persons>
 </event>
 <event id="felix-bauer-wol-on-arp-anturnen-bei-bedarf">
-<start>12:45</start>
+<start>15:30</start>
 <duration>00:05</duration>
 <room>V3</room>
 <title>WOL-on-ARP - Anturnen bei Bedarf</title>
