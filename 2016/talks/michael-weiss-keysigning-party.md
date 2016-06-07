@@ -45,6 +45,45 @@ Nur *eine* Seite checkt IDs - die anderen *zeigen* ihre IDs.
 
 Das Signieren der Schlüssel erfolgt dann zuhause.
 
+Da während der KSP nur die Identitäten überprüft werden, jedoch nicht die
+E-Mail-Adressen würde es sich anbieten das Tool
+[caff](https://pgp-tools.alioth.debian.org/) ("CA fire and forget" aus dem Paket
+signing-party) zu verwenden. Zur Konfiguration ruft man am besten einmal `caff`
+von der Kommandozeile auf und überprüft dann die erstellte Datei "~/.caffrc".
+Damit caff Mails versenden kann braucht man noch einen MTA. Dazu installiert man
+sich am besten einfach msmtp-mta (msmtp mit sendmail alias) und legt die Datei
+"~/.msmtprc" mit folgendem Inhalt an:
+
+```
+# Set default values for all following accounts.
+defaults
+  port 587
+  auth on
+  tls on
+  tls_starttls on
+  tls_trust_file /etc/ssl/certs/ca-certificates.crt
+  tls_certcheck on
+  logfile ~/.msmtp.log
+
+# My account (GMail example)
+account john
+  host smtp.gmail.com
+  from john.doe@gmail.com
+  user john.doe@gmail.com
+  password MyPassword
+  #passwordeval "cat ~/some-file"
+
+# Set the default account
+account default : john
+```
+
+Anschließend setzt man noch mittels `chmod 600 ~/.msmtprc` die korrekten
+Zugriffsrechte (msmtp beschwert sich auch wenn man dies vergisst).
+
+Nachdem man nun caff konfiguriert hat kann man über die Kommandozeile mittels
+`caff <key>` die entsprechenden Keys signieren (Achtung: Die Fingerprints
+sollten natürlich mit denen auf der Liste verglichen werden!).
+
 ### Kontakt 
 
 * Sven      Guckes       <tuebix2016@guckes.net>        8000R/0185391B 2014-03-11
