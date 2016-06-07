@@ -11,7 +11,7 @@ menu:
 
 ### Sven Guckes, Florian Heimgärtner, Michael Weiss
 
-### Vorbereitung 
+### Vorbereitung
 
 Wir empfehlen den Besuch des Workshops 14-16h im Raum W3:
 [E-Mail-Verschlüsselung mittels GnuPG und das Web of Trust](../michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust)
@@ -41,7 +41,7 @@ Dann das übliche aneinander-vorbeilaufen.  aber:
 Nur *eine* Seite checkt IDs - die anderen *zeigen* ihre IDs.
 
 
-### Nachbearbeitung 
+### Nachbearbeitung
 
 Das Signieren der Schlüssel erfolgt dann zuhause.
 
@@ -84,13 +84,13 @@ Nachdem man nun caff konfiguriert hat kann man über die Kommandozeile mittels
 `caff <key>` die entsprechenden Keys signieren (Achtung: Die Fingerprints
 sollten natürlich mit denen auf der Liste verglichen werden!).
 
-### Kontakt 
+### Kontakt
 
-* Sven      Guckes       <tuebix2016@guckes.net>        8000R/0185391B 2014-03-11
-* Florian   Heimgaertner <florian@heimgaertner.net>     4096R/EF4515A5 2015-06-13
-* Michael   Weiss        <michael.weiss1996@gmail.com>  4096R/9318BA46 2015-10-08
-
-
+| Name                 | E-Mail                        | OpenPGP-Key (Creation date)                                                                                                                |
+| :------------------- | :---------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
+| Sven    Guckes       | <tuebix2016@guckes.net>       | [rsa8000/0xEAB97F200185391B](https://sks-keyservers.net/pks/lookup?op=vindex&search=0xEAB97F200185391B&fingerprint=on&exact=on) 2014-03-11 |
+| Florian Heimgaertner | <florian@heimgaertner.net>    | [rsa4096/0x975D004EEF4515A5](https://sks-keyservers.net/pks/lookup?op=vindex&search=0x975D004EEF4515A5&fingerprint=on&exact=on) 2015-06-13 |
+| Michael Weiss        | <michael.weiss1996@gmail.com> | [rsa4096/0x1E8B02C29318BA46](https://sks-keyservers.net/pks/lookup?op=vindex&search=0x1E8B02C29318BA46&fingerprint=on&exact=on) 2015-10-08 |
 
 ### Links
 
