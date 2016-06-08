@@ -75,6 +75,13 @@ account john
   password MyPassword
   #passwordeval "cat ~/some-file"
 
+# My account (posteo.de example, with pass as password manager)
+account max
+  host posteo.de
+  from max.mustermann@posteo.de
+  user max.mustermann@posteo.de
+  passwordeval "pass posteopasswortfile"
+
 # Set the default account
 account default : john
 ```
