@@ -13,6 +13,8 @@ menu:
 
 ### Vorbereitung
 
+Man sollte seinen eigenen Fingerprint in ausgedruckter Form mitbringen!
+
 Wir empfehlen den Besuch des Workshops 14-16h im Raum W3:
 [E-Mail-Verschlüsselung mittels GnuPG und das Web of Trust](../michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust)
 
