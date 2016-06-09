@@ -13,7 +13,21 @@ menu:
 
 ### Vorbereitung
 
-Man sollte seinen eigenen Fingerprint in ausgedruckter Form mitbringen!
+**Mitzubringen sind (ganz wichtig!):**
+
+* Der eigene Fingerprint in ausgedruckter Form.
+    * Am besten das Paket signing-party bzw. pgp-tools installieren.
+    * `gpg-key2ps -p A4 -1 0xKeyID > key.ps`
+    * Dann einfach die Datei key.ps drucken.
+* Ein geeigneter Identitätsnachweis (Personalausweis, Reisepass, etc.).
+* Einen Stift (um Einträge auf der Liste zu markieren).
+
+Der Key muss auf einem öffentlichen Keyserver liegen (`gpg --send-keys 0xKeyID`,
+sonst können wir ihn weder für die Liste herunterladen noch können ihn die
+anderen Teilnehmer später signieren).
+
+Es ist dagegen nicht erforderlich einen Laptop mitzubringen.
+
 Am besten bringt man noch eine Schreibunterlage mit, damit man sich besser
 Notizen auf die eigene Liste machen kann ;)
 
