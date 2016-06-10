@@ -28,7 +28,7 @@ benötigt etwas "Einarbeitung"; daher wäre es toll, wenn Du dich gleich für zw
 X O O O O 10:00-11:00 Pizza (Aufbau)<br/>
 X X X X O 11:00-12:00 Pizza<br/>
 X X O O O 12:00-13:00 Pizza<br/>
-X O O O O 13:00-14:00 Pizza<br/>
+X X O O O 13:00-14:00 Pizza<br/>
 X X O O O 14:00-15:00 Pizza<br/>
 X X O O O 15:00-16:00 Pizza<br/>
 
@@ -37,21 +37,21 @@ X X O O O 15:00-16:00 Pizza<br/>
 X O 10:00 - 11:00 Getränkeausgabe <br/>
 X O 11:00 - 12:00 Getränkeausgabe <br/>
 X O 12:00 - 13:00 Getränkeausgabe <br/>
-X O 13:00 - 14:00 Getränkeausgabe <br/>
+X 0 13:00 - 14:00 Getränkeausgabe <br/>
 X X 14:00 - 15:00 Getränkeausgabe <br/>
 X X 15:00 - 16:00 Getränkeausgabe <br/>
 X X 16:00 - 17:00 Getränkeausgabe <br/>
 X O 17:00 - 18:00 Getränkeausgabe <br/>
 O O 18:00 - 19:00 Getränkeausgabe <br/>
-X O 19:00 - 20:00 Getränkeausgabe <br/>
-O O 20:00 - 21:00 Getränkeausgabe <br/>
+X X 19:00 - 20:00 Getränkeausgabe <br/>
+X O 20:00 - 21:00 Getränkeausgabe <br/>
 
 ## Kuchen mitbringen
 
 Bring einen Kuchen mit, der dann kostenfrei gegen 14:00 allen zur Verfügung steht.<br/>
 Wir können den Kuchen im Kühlwagen aufbewahren, bring dafür am besten eine Tortenhaube mit.
 
-X X X X O O O O O O O O O O O O
+X X X X X X O O O O O O O O O O
 
 ## Kasse (je 2h, 1 Person)
 
