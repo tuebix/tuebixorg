@@ -16,7 +16,7 @@ O heißt "es besteht noch Bedarf - zu besetzen" <br/>
 ## Grill (je 1h, 2 Personen)
 
 X O 15:00 - 16:00 Grillen<br/>
-O O 16:00 - 17:00 Grillen<br/>
+X O 16:00 - 17:00 Grillen<br/>
 O O 17:00 - 18:00 Grillen<br/>
 O O 18:00 - 19:00 Grillen<br/>
 O O 19:00 - 20:00 Grillen<br/>
