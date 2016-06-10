@@ -17,6 +17,11 @@ Gentoo ist eine eine Linux-Distribution, die sich an erfahrenere Linux-Benutzer 
 
 Linux-Grundlagen ;)
 
+
+### Mitbringen
+
+- USB-Stick (>= 2GB)
+
 ### Links
 
 - Gentoo-Wiki: <a href="https://wiki.gentoo.org/wiki/Main_Page" target="_blank">https://wiki.gentoo.org/wiki/Main_Page</a>
