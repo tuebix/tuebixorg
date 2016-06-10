@@ -99,8 +99,7 @@ menu: main
 <tr><td>15:05</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-keine-lust-auf-lange-uebersetzungszeiten-bei-latex-auf-schwachen-rechnern">Keine&nbsp;Lust&nbsp;auf&nbsp;lange&nbsp;Übersetzungszeiten&nbsp;bei&nbsp;LaTeX&nbsp;auf&nbsp;schwachen&nbsp;Rechnern?</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>15:10</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>15:15</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-alpinelinux">AlpineLinux</a></td><td>Felix&nbsp;Bauer</td></tr>
-<tr><td>15:20</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
-<tr><td>15:25</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>15:20</td><td><a class="light"></a></td><td><a href="../programm/hell-van-sing-sonic-pi-live-coding-music">Sonic Pi - Live Coding Music</a></td><td>Hell van Sing</td></tr>
 <tr><td>15:30</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-wol-on-arp-anturnen-bei-bedarf">WOL-on-ARP&nbsp;-&nbsp;Anturnen&nbsp;bei&nbsp;Bedarf</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>15:35</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>15:45</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-squid-reproduction">Squid&nbsp;Reproduction</a></td><td>Felix&nbsp;Bauer</td></tr>
