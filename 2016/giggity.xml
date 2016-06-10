@@ -902,6 +902,7 @@ Windows-Hasser, bitte draußen bleiben. ;-)
 </event>
 <event id="gerik-huland-bash-skripte-optimieren">
 	<start>12:05</start>
+        <duration>00:05</duration>
 	<room>V3</room>
 	<title>Bash Skripte optimieren</title>
 	<type>lightning</type>
@@ -915,6 +916,7 @@ Windows-Hasser, bitte draußen bleiben. ;-)
 </event>
 <event id="gerik-huland-disk-images-auf-die-schnelle-testen-mit-qemu">
 	<start>12:45</start>
+        <duration>00:05</duration>
 	<room>V3</room>
 	<title>Disk-Images auf die Schnelle testen mit QEMU</title>
 	<type>lightning</type>
@@ -930,6 +932,7 @@ Windows-Hasser, bitte draußen bleiben. ;-)
 </event>
 <event id="hell-van-sing-sonic-pi-live-coding-music">
 	<start>15:20</start>
+        <duration>00:10</duration>
 	<room>V3</room>
 	<title>Sonic Pi - "Live Coding Music"</title>
 	<type>lightning</type>
