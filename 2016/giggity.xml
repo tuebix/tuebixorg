@@ -900,6 +900,51 @@ Windows-Hasser, bitte draußen bleiben. ;-)
 </links>
 <persons></persons>
 </event>
+<event id="gerik-huland-bash-skripte-optimieren">
+	<start>12:05</start>
+	<room>V3</room>
+	<title>Bash Skripte optimieren</title>
+	<type>lightning</type>
+	<description>Gerik Huland
+
+		Bash 4 bringt neue Erweiterungen mit, die den Einsatz von Helferprogrammen wie awk, tr, sed und grep in vielen Fällen überflüssig machen. Das macht Skripte schneller oder erlaubt elegantere Schreibweisen.
+
+
+	</description>
+	<persons></persons>
+</event>
+<event id="gerik-huland-disk-images-auf-die-schnelle-testen-mit-qemu">
+	<start>12:45</start>
+	<room>V3</room>
+	<title>Disk-Images auf die Schnelle testen mit QEMU</title>
+	<type>lightning</type>
+	<description>Gerik Huland
+
+		Um "mal schnell" ein USB Stick Image oder eine LiveCD zu testen, muss man nicht Virtualbox, VMware-Player oder libvirt installieren. Qemu kann auf allen großen Distributionen einfach installiert und direkt auf der Kommandozeile mit wenigen Argumenten gestartet werden.
+
+	</description>
+	<links>
+
+		<link href="http://wiki.qemu.org/Main_Page" >http://wiki.qemu.org/Main_Page</link></links>
+	<persons></persons>
+</event>
+<event id="hell-van-sing-sonic-pi-live-coding-music">
+	<start>15:20</start>
+	<room>V3</room>
+	<title>Sonic Pi - "Live Coding Music"</title>
+	<type>lightning</type>
+	<description>Hell van Sing
+
+		"Live Coding Music", so das Motto der Software SonicPi, einem Programm, in dem man durch reines Programmieren komplette Lieder erstellen kann. Dieser Vortrag soll einen kurzen Abriss darüber geben, wie Sonic Pi funktioniert und was es bedeuten kann "kreativ zu programmieren". Auch für Programmierneulinge geeignet!
+
+	</description>
+	<links>
+		- <link href="https://en.wikipedia.org/wiki/Sonic_Pi" >https://en.wikipedia.org/wiki/Sonic_Pi</link>
+		- <link href="http://sonic-pi.net/" >http://sonic-pi.net/</link>
+		- <link href="http://www.sonicpiliveandcoding.com/" >http://www.sonicpiliveandcoding.com/</link>
+	</links>
+	<persons></persons>
+</event>
 </room>
 <room name="V4">
 <event id="anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons">
