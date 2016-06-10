@@ -28,9 +28,9 @@ benötigt etwas "Einarbeitung"; daher wäre es toll, wenn Du dich gleich für zw
 X O O O O 10:00-11:00 Pizza (Aufbau)<br/>
 X X X X O 11:00-12:00 Pizza<br/>
 X X O O O 12:00-13:00 Pizza<br/>
-X X O O O 13:00-14:00 Pizza<br/>
-X X O O O 14:00-15:00 Pizza<br/>
-X X X O O 15:00-16:00 Pizza<br/>
+X X X O O 13:00-14:00 Pizza<br/>
+X X X O O 14:00-15:00 Pizza<br/>
+X X X X O 15:00-16:00 Pizza<br/>
 
 ## Getränkeausgabe (je 1h, 2 Personen)
 
