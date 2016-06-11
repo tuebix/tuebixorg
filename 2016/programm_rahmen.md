@@ -48,6 +48,8 @@ Damit nicht alle gleichzeitig den Grill stürmen, können alle, die noch nicht a
 
 ### Sonntagmittag: Stocherkahnfahren!
 
+#### Fällt aus: zu hoher Wasserstand. Tut uns Leid - nächstes Jahr :)
+
 am Sonntag von 11:00 - 13:00 Uhr haben wir einen Stocherkahn organisiert, damit alle Tübix-Besucher von außerhalb diese Tübinger Tradition einmal erleben können. Natürlich sind auch Tübinger selbst herzlich eingeladen - insbesondere alle, die wir zum Stochern einsetzen können. ;)
 
 Da der Kahn nur max. 16 Plätze hat, meldet euch schnell per Email (info@tuebix.org) an. Restplätze verteilen wir dann noch auf dem Tübix am Infostand. Übrigens muss man nicht die ganzen zwei Stunden mitstochern.
