@@ -72,7 +72,7 @@ menu: main
 <tr><td></td><td></td><td>Raum V3</td></tr>
 <tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/cornelius-koelbel-open-source-mehr-faktor-authentifizierung-mit-privacyidea">Open&nbsp;Source&nbsp;Mehr-Faktor-Authentifizierung&nbsp;mit&nbsp;privacyIDEA</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/robert-scheck-mein-erstes-selbstgebautes-rpm-paket">Mein&nbsp;erstes&nbsp;selbstgebautes&nbsp;RPM-Paket!</a></td><td>Robert&nbsp;Scheck</td></tr>
-<tr><td>12:00</td><td><a class="light" name="firstlightningtalk"></a></td><td>Intro</td><td>Tübixtbd</td></tr>
+<tr><td>12:00</td><td><a class="light" name="firstlightningtalk"></a></td><td>Intro</td><td>Tübix-Team</td></tr>
 <tr><td>12:05</td><td><a class="light"></a></td><td><a href="../programm/gerik-huland-bash-skripte-optimieren/">Bash Skripte optimieren</a></td><td>Gerik Huland</td></tr>
 <tr><td>12:10</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-einmal-stratosphaere-und-zurueck">Einmal&nbsp;Stratosphäre&nbsp;und&nbsp;zurück</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
 <tr><td>12:15</td><td><a class="light"></a></td><td><a href="../programm/arnd-bergmann-2038-alles-ist-kaputt">2038&nbsp;--&nbsp;alles&nbsp;ist&nbsp;kaputt</a></td><td>Arnd&nbsp;Bergmann</td></tr>
