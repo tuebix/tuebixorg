@@ -116,7 +116,7 @@ menu: main
 <tr><td>13:30</td><td><a class="talk"></a></td><td><a href="../programm/justin-humm-freifunk">Freifunk</a></td><td>Justin&nbsp;Humm</td></tr>
 <tr><td>14:00</td><td><a class="talk"></a></td><td><a href="../programm/frank-schiebel-wlan-an-der-schule">WLAN&nbsp;an&nbsp;der&nbsp;Schule&nbsp;-&nbsp;Ein&nbsp;Konzept&nbsp;mit&nbsp;Freifunk,&nbsp;Unifi&nbsp;und&nbsp;linuxmuster.net</a></td><td>Frank&nbsp;Schiebel</td></tr>
 <tr><td>15:00</td><td><a class="talk"></a></td><td><a href="../programm/anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons">Kinder,&nbsp;Computerzeitbegrenzung&nbsp;und&nbsp;New-Style-Daemons</a></td><td>Anselm&nbsp;Kruis</td></tr>
-<tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/sascha-kaupp-zocken-unter-linux">Zocken&nbsp;unter&nbsp;Linux?&nbsp;Zocken&nbsp;unter&nbsp;Linux!</a></td><td>Sascha&nbsp;Kaupp</td></tr>
+<tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/sascha-kaupp-zocken-unter-linux"><del>Zocken&nbsp;unter&nbsp;Linux?&nbsp;Zocken&nbsp;unter&nbsp;Linux!</del></a></td><td>Sascha&nbsp;Kaupp</td></tr>
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/vinzenz-rosenkranz-was-ist-owncloud-und-wieso">Was&nbsp;ist&nbsp;ownCloud?&nbsp;und&nbsp;wieso?</a></td><td>Vinzenz&nbsp;Rosenkranz</td></tr>
 <tr><td>17:30</td><td><a class="talk"></a></td><td><a href="../programm/robert-scheck-mein-eigener-jabber-server-mit-prosody">Mein&nbsp;eigener&nbsp;Jabber-Server&nbsp;mit&nbsp;Prosody</a></td><td>Robert&nbsp;Scheck</td></tr>
 <tr><td>&nbsp;</td></tr>
