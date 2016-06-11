@@ -90,9 +90,8 @@ menu: main
 <tr><td>13:20</td><td><a class="light"></a></td><td><a href="../programm/marcus-siegl-raspberry-pi-als-internet-of-things">Raspberry&nbsp;Pi&nbsp;(Zero)&nbsp;als&nbsp;Internet&nbsp;of&nbsp;Things&nbsp;</a></td><td>Marcus&nbsp;Siegl</td></tr>
 <tr><td>13:25</td><td><a class="light"></a></td><td><a href="../programm/anni-theil-schiebel-linux-essentials-in-der-schule">Linux&nbsp;Essentials&nbsp;in&nbsp;der&nbsp;Schule</a></td><td>Anni&nbsp;Theil-Schiebel</td></tr>
 <tr><td>13:30</td><td><a class="light"></a></td><td><a href="../programm/matthias-beyer-imag-cmdline-personal-information-management-suite-in-rust">imag&nbsp;-&nbsp;CmdLine&nbsp;Personal&nbsp;Information&nbsp;Management&nbsp;Suite&nbsp;in&nbsp;Rust</a></td><td>Matthias&nbsp;Beyer</td></tr>
-<tr><td>13:35</td><td><a class="light"></a></td><td><a name="lightningtalksfirstunclaimed" href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
-<tr><td>13:40</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
-<tr><td>13:45</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>13:35</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">TecKids</a></td><td>TecKids</td></tr>
+<tr><td>13:45</td><td><a class="light"></a></td><td><a name="lightningtalksfirstunclaimed" href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>13:50</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>14:00</td><td><a class="light"></a></td><td><a href="../programm/lugs-und-co-var-log-lug">/var/log/LUG</a></td><td>LUGs&nbsp;+&nbsp;Co</td></tr>
 <tr><td>15:00</td><td><a class="light"></a></td><td><a name="lightningtalkssecondblock" href="../programm/felix-bauer-free-internet">Free&nbsp;Internet</a></td><td>Felix&nbsp;Bauer</td></tr>
@@ -103,8 +102,7 @@ menu: main
 <tr><td>15:30</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-wol-on-arp-anturnen-bei-bedarf">WOL-on-ARP&nbsp;-&nbsp;Anturnen&nbsp;bei&nbsp;Bedarf</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>15:35</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>15:45</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-squid-reproduction">Squid&nbsp;Reproduction</a></td><td>Felix&nbsp;Bauer</td></tr>
-<tr><td>15:45</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
-<tr><td>15:50</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>15:50</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">Autistici/Inventati</a></td><td>Robin Bertram</td></tr>
 <tr><td>16:00</td><td><a class="work"></a></td><td><a href="../programm/michael-weiss-keysigning-party">Keysigning Party</a></td><td>Michael Weiss,&nbsp;Sven Guckes, Florian Heimgärtner</td></tr>
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen">Linux&nbsp;und&nbsp;X2Go:&nbsp;ein&nbsp;&nbsp;effektiver&nbsp;&&nbsp;günstiger&nbsp;Schutz vor&nbsp;Ransomware&nbsp;auf&nbsp;Windows-Systemen</a></td><td>Stefan&nbsp;Baur</td></tr>
 <tr><td>&nbsp;</td></tr>
