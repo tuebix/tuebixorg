@@ -121,7 +121,7 @@ padding-right: 8px;
 <td            ><a class="talk"><a href="../programm/felix-bauer-hard-disk-heart-attack">HD&nbsp;Heart&nbsp;Attack</a></td>
 <td rowspan="2"><a class="talk"><a href="../programm/olaf-flebbe-hadoop-distribution-selber-machen">Hadoop&nbsp;Distribution</a></td>
 <td rowspan="2"><a class="work"><a href="../programm/michael-weiss-keysigning-party">Keysigning Party</td>
-<td rowspan="2"><a class="talk"><a href="../programm/sascha-kaupp-zocken-unter-linux">Zocken&nbsp;unter&nbsp;Linux</a></td>
+<td rowspan="2"><a class="talk"><a href="../programm/sascha-kaupp-zocken-unter-linux"><del>Zocken&nbsp;unter&nbsp;Linux</del></a></td>
 <td rowspan="4">&nbsp;</td>
 <td>16:00</td></tr>
 
