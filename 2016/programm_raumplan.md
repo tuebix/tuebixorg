@@ -90,13 +90,13 @@ menu: main
 <tr><td>13:20</td><td><a class="light"></a></td><td><a href="../programm/marcus-siegl-raspberry-pi-als-internet-of-things">Raspberry&nbsp;Pi&nbsp;(Zero)&nbsp;als&nbsp;Internet&nbsp;of&nbsp;Things&nbsp;</a></td><td>Marcus&nbsp;Siegl</td></tr>
 <tr><td>13:25</td><td><a class="light"></a></td><td><a href="../programm/anni-theil-schiebel-linux-essentials-in-der-schule">Linux&nbsp;Essentials&nbsp;in&nbsp;der&nbsp;Schule</a></td><td>Anni&nbsp;Theil-Schiebel</td></tr>
 <tr><td>13:30</td><td><a class="light"></a></td><td><a href="../programm/matthias-beyer-imag-cmdline-personal-information-management-suite-in-rust">imag&nbsp;-&nbsp;CmdLine&nbsp;Personal&nbsp;Information&nbsp;Management&nbsp;Suite&nbsp;in&nbsp;Rust</a></td><td>Matthias&nbsp;Beyer</td></tr>
-<tr><td>13:35</td><td><a class="light"></a></td><td>TecKids</td><td>TecKids</td></tr>
+<tr><td>13:35</td><td><a class="light"></a></td><td></td><td></td></tr>
 <tr><td>13:45</td><td><a class="light"></a></td><td><a name="lightningtalksfirstunclaimed" href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>13:50</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
 <tr><td>14:00</td><td><a class="light"></a></td><td><a href="../programm/lugs-und-co-var-log-lug">/var/log/LUG</a></td><td>LUGs&nbsp;+&nbsp;Co</td></tr>
 <tr><td>15:00</td><td><a class="light"></a></td><td><a name="lightningtalkssecondblock" href="../programm/felix-bauer-free-internet">Free&nbsp;Internet</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>15:05</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-keine-lust-auf-lange-uebersetzungszeiten-bei-latex-auf-schwachen-rechnern">Keine&nbsp;Lust&nbsp;auf&nbsp;lange&nbsp;Übersetzungszeiten&nbsp;bei&nbsp;LaTeX&nbsp;auf&nbsp;schwachen&nbsp;Rechnern?</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
-<tr><td>15:10</td><td><a class="light"></a></td><td><a href="../programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene">noch frei</a></td><td>Du?</td></tr>
+<tr><td>15:10</td><td><a class="light"></a></td><td>Teckids e.V. / Froglabs</a></td><td>Teckids</td></tr>
 <tr><td>15:15</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-alpinelinux">AlpineLinux</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>15:20</td><td><a class="light"></a></td><td><a href="../programm/hell-van-sing-sonic-pi-live-coding-music">Sonic Pi - Live Coding Music</a></td><td>Hell van Sing</td></tr>
 <tr><td>15:30</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-wol-on-arp-anturnen-bei-bedarf">WOL-on-ARP&nbsp;-&nbsp;Anturnen&nbsp;bei&nbsp;Bedarf</a></td><td>Felix&nbsp;Bauer</td></tr>
