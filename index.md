@@ -4,6 +4,8 @@ layout: default
 
 {{ site.title }} ist ein <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a> und findet am Samstag, den 11. Juni 2016 in <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a> statt.
 
+<br/><span style="font-weight: bold; color:#FF0000;">WICHTIG: Feedback bitte in dieses Pad eintragen: <a href="https://tuebix2016.titanpad.com/tuebix-exit" target="_blank">https://tuebix2016.titanpad.com/tuebix-exit</a><br/>
+
 <br/> 
 ![Tuex](./images/tuex.png "Tuex")
 <br/> 
@@ -28,5 +30,3 @@ Die Folien (pdf) und Tonspuren (ogg) der Beiträge von 2015 sind unter <a href="
 Tübix ist keineswegs der "1. Tübinger Linuxtag"!<br/>
 Mehr dazu unter  <a href="http://tuebingen.linux.de/old/" target="_blank">tuebingen.linux.de/old/</a>
 -->
-
-
