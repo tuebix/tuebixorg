@@ -3,7 +3,7 @@ layout: page
 title: Kinder
 permalink: /kinder/
 weight: 48
-menu: main
+menu: 
 ---
 
 # Kinderprogramm "Mini-FrogLabs"

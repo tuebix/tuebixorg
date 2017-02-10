@@ -4,7 +4,7 @@ title: Programm
 permalink: /2016/programm_raumplan/
 redirect_from: /2016/programm/
 weight: 6
-menu: main
+menu: 
 ---
 
 * <span style="font-weight: bold;">Raumplan</span>
