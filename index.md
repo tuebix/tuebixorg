@@ -5,7 +5,7 @@ layout: default
 {{ site.title }} ist ein <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a> und findet am Samstag, den 24. Juni 2017 in <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a> statt.
 
 <br/> 
-![Tuex](./images/tuex.png "Tuex")
+![Tux](./images/tux.png "Tux")
 <br/> 
 
 Tübix könnte etwas für dich sein, falls du:
