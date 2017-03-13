@@ -14,28 +14,27 @@ Im Rahmen von TüBIX werden auch in diesem Jahr wieder LPI Zertifizierungsprüfu
 ![LPIC-2-Logo](../images/LPIC-2-Small.png "LPIC-2-Logo")
 ![LPIC-3-Logo](../images/LPIC3-300-Small.png "LPIC-3-Logo")
 
-### LPI Linux Essentials
+#### LPI Linux Essentials
 Prüfung LPI Linux Essentials | 60€ | Deutsch oder Englisch
 
-### LPIC-1: System Administrator
-Prüfung LPI 101 (LPIC-1 Prüfung)   | 90 € | Deutsch oder Englisch
+#### LPIC-1: System Administrator
+Prüfung LPI 101 (LPIC-1 Prüfung)   | 90 € | Deutsch oder Englisch<br/>
 Prüfung LPI 102 (LPIC-1 Prüfung)   | 90 € | Deutsch oder Englisch
 
-### LPIC-2: Linux Engineer
-Prüfung LPI 201 (LPIC-2 Prüfung)   | 90 € | Deutsch oder Englisch
+#### LPIC-2: Linux Engineer
+Prüfung LPI 201 (LPIC-2 Prüfung)   | 90 € | Deutsch oder Englisch<br/>
 Prüfung LPI 202 (LPIC-2 Prüfung)   | 90 € | Deutsch oder Englisch
 
-### LPIC-3: Linux Enterprise Professional
-Prüfung LPI 300 | Prüfung 300: Mixed Enviroment | 90 € | Englisch
-Prüfung LPI 303 | Prüfung 303: Security | 90 € | Englisch
+#### LPIC-3: Linux Enterprise Professional
+Prüfung LPI 300 | Prüfung 300: Mixed Enviroment | 90 € | Englisch<br/>
+Prüfung LPI 303 | Prüfung 303: Security | 90 € | Englisch<br/>
 Prüfung LPI 304 | Prüfung 304: Virtualization and High Availability | 90 € | Englisch
 
-### Certification (UVCP)
+#### Certification (UVCP)
 
 Prüfung LPI 198 | Prüfung 198: Univention Professional Zertifizierung | 85 € | Englisch
  
 Die Auswahl der Sprache erfolgt bei der Anmeldung. Der Betrag muss vor Ort in bar entrichtet werden.
-
 Die Prüfungen finden am Samstag, den 24.06.17 jeweils um 12:00 Uhr und 14:00 Uhr statt.
 <br/><span style="font-weight: bold; color:#FF0000;">WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 11:40 bzw. 13:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.
 
