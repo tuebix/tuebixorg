@@ -15,21 +15,17 @@ Im Rahmen von TüBIX werden auch in diesem Jahr wieder LPI Zertifizierungsprüfu
 ![LPIC-3-Logo](../images/LPIC3-300-Small.png "LPIC-3-Logo")
 
 ### LPI Linux Essentials
- 
 Prüfung LPI Linux Essentials | 60€ | Deutsch oder Englisch
 
 ### LPIC-1: System Administrator
-
 Prüfung LPI 101 (LPIC-1 Prüfung)   | 90 € | Deutsch oder Englisch
 Prüfung LPI 102 (LPIC-1 Prüfung)   | 90 € | Deutsch oder Englisch
 
 ### LPIC-2: Linux Engineer
-
 Prüfung LPI 201 (LPIC-2 Prüfung)   | 90 € | Deutsch oder Englisch
 Prüfung LPI 202 (LPIC-2 Prüfung)   | 90 € | Deutsch oder Englisch
 
 ### LPIC-3: Linux Enterprise Professional
-
 Prüfung LPI 300 | Prüfung 300: Mixed Enviroment | 90 € | Englisch
 Prüfung LPI 303 | Prüfung 303: Security | 90 € | Englisch
 Prüfung LPI 304 | Prüfung 304: Virtualization and High Availability | 90 € | Englisch
@@ -40,7 +36,9 @@ Prüfung LPI 198 | Prüfung 198: Univention Professional Zertifizierung | 85 €
  
 Die Auswahl der Sprache erfolgt bei der Anmeldung. Der Betrag muss vor Ort in bar entrichtet werden.
 
-Treffpunkt für alle Teilnehmer ist jeweils 15 Minuten vor dem Starttermin im Prüfungsraum.
+Die Prüfungen finden am Samstag, den 24.06.17 jeweils um 12:00 Uhr und 14:00 Uhr statt.
+<br/><span style="font-weight: bold; color:#FF0000;">WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 11:40 bzw. 13:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.
+
 
 ## Ablauf
 
@@ -66,42 +64,10 @@ Das Anmeldeformular des LPI finden Sie unter <a href="https://lpievent.lpice.eu"
 Bei weiteren Fragen zum Prüfungsangebot wenden Sie sich bitte per E-Mail direkt an <a href="mailto:info@lpice.eu">info@lpice.eu</a>
 Weiterführende Informationen finden Sie auf den Webseiten des Linux Professional Institute, LPI Central Europe und LPI e.V.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!--
 # Zertifiziertes Wissen
 
-<!--
 <br/><span style="font-weight: bold; color:#FF0000;">Es gibt noch keine Bestätigung durch das LPI, aber wir gehen davon aus, dass auch 2017 wieder LPIC-Prüfungen abgelegt werden können.<br/>
--->
 
 Zertifikate belegen Fachwissen - Sie dokumentieren Qualifikation und Know-how vor Arbeitgebern oder Kunden und verbessern die Ein- und Aufstiegschancen. Das <a href="http://www.lpice.eu/de/home.html" target="_blank">Linux Professional Institute (LPI)</a> ist Zertifizierungspartner des Tübinger Linuxtags. Die Besucher können deshalb LPI Prüfungen zu stark vergünstigten Konditionen ablegen.
 
@@ -124,12 +90,10 @@ Die Prüfungen dauern ca. zwei Stunden inklusive Vorbereitung. Die aktuellen ver
 Die Teilnehmer müssen vor Beginn der Prüfung einen gültigen Lichtbildausweis und eine gültige LPI-Identifikationsnummer vorlegen. Die LPI-Identifikationsnummer wird online unter der folgenden URL beantragt: <a href="https://cs.lpi.org/caf/Xamman/register" target="_blank">cs.lpi.org/caf/Xamman/register </a>.
 Aufgrund der begrenzten Anzahl verfügbarer Plätze für die LPI-Prüfungen empfehlen wir, sich vorher dafür anzumelden. Das Anmeldeformular des LPI befindet sich unter <a href="https://lpievent.lpice.eu" target="_blank">lpievent.lpice.eu</a> .
 
-Die Prüfungen finden am Samstag, den 24.06.17 jeweils um 12:00 Uhr und 14:00 Uhr statt.
-<br/><span style="font-weight: bold; color:#FF0000;">WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 11:40 bzw. 13:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.<br/>
-
 Details zu den Prüfungsversionen und den Inhalten sind unter den folgenden URLs nachzulesen:
 
  *  <a href="http://www.lpice.eu/de/lpi-zertifizierungsinhalte.html" target="_blank">lpice.eu/de/lpi-zertifizierungsinhalte.html</a>
  *  <a href="http://www.lpi.org/certification/" target="_blank">lpi.org/certification/</a>
 
 Für weitere Fragen zu den LPI Prüfungen bitte per E-Mail direkt an das LPI wenden: <a href="mailto:lpievent@lpice.eu">event@lpice.eu</a>
+-->
