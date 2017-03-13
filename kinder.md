@@ -8,8 +8,13 @@ menu: main
 
 # Kinderprogramm "Mini-FrogLabs"
 
-Wir freuen uns sehr, dass dieses Jahr zum 2. Mal der <a href="https://www.teckids.org/" target="_blank"> Teckids e.V.</a> mit den "Mini-FrogLabs" bei uns zu Gast sein wird. Dieses Programmangebot ist von anderen Linuxtagen bekannt und für Kinder und Jugendliche (4. - 9. Klasse) gedacht.
-Alle Infos und die Anmeldung dazu gibt es unter <a href="https://www.teckids.org/tuebingen/" target="_blank">teckids.org/tuebingen</a>.
+Wir freuen uns sehr, dass dieses Jahr wieder der <a href="https://www.teckids.org/" target="_blank"> Teckids e.V.</a> mit den "Mini-FrogLabs" bei uns zu Gast sein wird. Dieses Programmangebot ist von anderen Linuxtagen bekannt und für Kinder und Jugendliche (4. - 9. Klasse) geeignet.
+
+<br/>
+Sobald die Anmeldung freigeschaltet ist, steht das hier.
+
+So war es letztes Jahr:                                                                         
+<a href="https://www.teckids.org/froglabs_2016_tuebix.htm" target="_blank">teckids.org/froglabs_2016_tuebix.htm</a>.
 
 ![FrogLabs-Logo](https://www.teckids.org/pics/projs/froglabs/2013/froscon/froglabs_pixelart.png "FrogLabs-Logo")
 
