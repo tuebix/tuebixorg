@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Downloads(2015)
-permalinkhttps://tuebix.github.io/tuebix-downloads-2015/
+permalink: /downloads/
 weight: 
 menu:
 ---
