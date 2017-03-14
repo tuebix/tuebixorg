@@ -8,7 +8,7 @@ menu: main
 
 # Kinderprogramm "Mini-FrogLabs"
 
-Wir freuen uns sehr, dass dieses Jahr wieder der <a href="https://www.teckids.org/" target="_blank"> Teckids e.V.</a> mit den "Mini-FrogLabs" bei uns zu Gast sein wird. Dieses Programmangebot ist von anderen Linuxtagen bekannt und für Kinder und Jugendliche (4. - 9. Klasse) geeignet.
+Wir freuen uns sehr, dass dieses Jahr wieder <a href="https://www.teckids.org/" target="_blank"> Teckids e.V.</a> mit den "Mini-FrogLabs" bei uns zu Gast sein wird. Dieses Programmangebot ist von anderen Linuxtagen bekannt und für Kinder und Jugendliche (4. - 9. Klasse) geeignet.
 
 Sobald die Anmeldung freigeschaltet ist, wird sie hier verlinkt.
 
