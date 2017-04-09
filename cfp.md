@@ -13,14 +13,9 @@ Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brau
 Hast Du Lust dein Wissen und deine Erfahrung zu teilen?
 Gerne kannst Du auch mehrere Themen einreichen und Beitr&auml;ge k&ouml;nnen natürlich auch als Team gehalten werden.
 -->
-<span style="font-weight: bold;">Der Call for Papers ist vorbei seit dem 30. April!<br/></span>  
+<span style="font-weight: bold;">Der Call for Papers 2017 beginnt demnächst!<br/></span>  
 
-Danke für die zahlreichen Einreichungen!<br/>
-Wir sind jetzt dabei ein schönes Programm zusammezustellen.<br/>
-Sobald es fertig ist geben wir das über den <a href="http://www.tuebix.org/newsletter">Newsletter</a> bekannt.
-
-Bei den <a href="http://www.tuebix.org/2016/programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene/">Lightning Talks haben wir noch etwas Platz für Nachzügler freigehalten. Nur solange der Vorrat reicht! ;)</a>
-
+Wenn es soweit ist, gibt es eine Mail über den <a href="http://www.tuebix.org/newsletter">Newsletter</a>.
 
 <!--
 Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
