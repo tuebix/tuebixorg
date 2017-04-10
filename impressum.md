@@ -6,18 +6,17 @@ weight:
 menu:
 ---
 
-# Organisationsteam T&Uuml;BIX 2016
+# Organisationsteam T&Uuml;BIX 2017
 
-* Jonas Benn
 * Christian Brauner
 * Holger Gantikow
 * Jan-Peter Hohloch
 * Justin Humm
 * Eva Mayer
 * Christoph Prokop
-* Matthias Reisenauer
-* Joachim Schiele
 * Gunnar Schmidt
+* Roman Schulte
+* Michael Weiss
 
 # Technische Umsetzung dieser Webseite
 <a href="http://jekyllrb.com/" target="_blank">jekyll</a> und <a href="https://pages.github.com" target="_blank">github pages</a>
