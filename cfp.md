@@ -8,16 +8,11 @@ menu:
 ---
 
 
-<!--
 Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brauchen wir DICH!
 Hast Du Lust dein Wissen und deine Erfahrung zu teilen?
 Gerne kannst Du auch mehrere Themen einreichen und Beitr&auml;ge k&ouml;nnen natürlich auch als Team gehalten werden.
--->
-<span style="font-weight: bold;">Der Call for Papers 2017 beginnt demnächst!<br/></span>  
 
-Wenn es soweit ist, gibt es eine Mail über den <a href="http://www.tuebix.org/newsletter">Newsletter</a>.
 
-<!--
 Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 
 <h2><span><img height="36" width="36" src="../images/workshop.svg"></span> Workshop</h2>
@@ -38,7 +33,7 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 
 <h2><span><img height="36" width="36" src="../images/talk.svg"></span> Vortrag</h2>
 
-  Je nach gewähltem Inhalt braucht es etwas mehr oder weniger "Vorarbeit" oder Hinführung zum Thema, such dir die passende Dauer für dein Vortragsthema aus: 30 oder 60 Minuten:
+  Je nach gewähltem Inhalt braucht es etwas mehr oder weniger "Vorarbeit" oder Hinführung zum Thema, such dir die passende Dauer für dein Vortragsthema aus: 25 oder 55 Minuten:
 
   * 25 min Vortrag inkl. Fragen/Diskussion
   * 55 min Vortrag inkl. Fragen/Diskussion
@@ -48,9 +43,9 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 
 # Du möchtest einen Beitrag beisteuern?
 
-Toll! Dann füll rasch die Anmeldung unter <a href="https://nixcloud.io/cfp" target="_blank">https://nixcloud.io/cfp/</a> aus! 
+Toll! Dann füll rasch die <a href="https://cfp.tuebix.org" target="_blank">Anmeldung</a> aus! 
 Wir haben viele kleine Räume und können somit einige Workshops anbieten. Falls dein Vortrag auch als Workshop möglich wäre, markiere das bitte entsprechend!
 
 <p style="text-align: right;"><a href="http://www.flaticon.com" target="_blank">Bildquelle: flaticon.com</a></p>
 
--->
+
