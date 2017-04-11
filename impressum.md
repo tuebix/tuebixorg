@@ -8,6 +8,7 @@ menu:
 
 # Organisationsteam T&Uuml;BIX 2017
 
+* Jonas Benn
 * Christian Brauner
 * Holger Gantikow
 * Jan-Peter Hohloch
