@@ -46,7 +46,7 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 # Du möchtest einen Beitrag beisteuern?
 
 Toll! Dann füll rasch die <a href="https://cfp.tuebix.org" target="_blank">Anmeldung</a> aus! 
-Wir haben viele kleine Räume und können somit einige Workshops anbieten. Falls dein Vortrag auch als Workshop möglich wäre, markiere das bitte entsprechend!
+<!-- Wir haben viele kleine Räume und können somit einige Workshops anbieten. Falls dein Vortrag auch als Workshop möglich wäre, markiere das bitte entsprechend! -->
 
 <p style="text-align: right;"><a href="http://www.flaticon.com" target="_blank">Bildquelle: flaticon.com</a></p>
 
