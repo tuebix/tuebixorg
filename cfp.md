@@ -11,10 +11,10 @@ menu: main
 Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brauchen wir DICH!
 Hast Du Lust dein Wissen und deine Erfahrung zu teilen?
 Gerne kannst Du auch mehrere Themen einreichen und Beitr&auml;ge k&ouml;nnen natürlich auch als Team gehalten werden.
-
+<p>
 21. Mai 2017 Ende Call for Papers
 28. Mai 2017 Zu- und Absagen
-
+</p>
 Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 
 <h2><span><img height="36" width="36" src="../images/workshop.svg"></span> Workshop</h2>
