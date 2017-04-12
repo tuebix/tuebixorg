@@ -12,6 +12,8 @@ Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brau
 Hast Du Lust dein Wissen und deine Erfahrung zu teilen?
 Gerne kannst Du auch mehrere Themen einreichen und Beitr&auml;ge k&ouml;nnen natürlich auch als Team gehalten werden.
 
+21. Mai 2017 Ende Call for Papers
+28. Mai 2017 Zu- und Absagen
 
 Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 
