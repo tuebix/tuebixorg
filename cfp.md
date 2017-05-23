@@ -62,7 +62,7 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 
 </strike>
 
-# Du möchtest einen Beitrag beisteuern?
+# Du möchtest einen <strike>Beitrag</strike> Lightning Talk beisteuern?
 
 Toll! Dann füll rasch die <a href="https://cfp.tuebix.org" target="_blank">Anmeldung</a> aus! 
 <!-- Wir haben viele kleine Räume und können somit einige Workshops anbieten. Falls dein Vortrag auch als Workshop möglich wäre, markiere das bitte entsprechend! -->
