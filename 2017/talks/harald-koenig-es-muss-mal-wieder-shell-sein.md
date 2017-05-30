@@ -1,11 +1,11 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/harald-koenig-es-muss-mal-wieder-shell-sein...h/
+permalink: /2017/programm/harald-koenig-es-muss-mal-wieder-shell-sein/
 weight:
 menu:
 ---
-## Es muss mal wieder SHELL sein...h
+## Es muss mal wieder SHELL sein
 
 ### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V7
 

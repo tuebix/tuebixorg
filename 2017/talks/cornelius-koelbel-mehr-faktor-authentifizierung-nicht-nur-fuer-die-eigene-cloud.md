@@ -23,6 +23,6 @@ Cornelius arbeitet seit 23 Jahren produktiv mit Linux.  Seit 12 Jahren liegt sei
 
 ### Links
 
-- <a href="https://www.privacyidea.org" target="_blank">Projekt-Webseite</a>
 - <a href="http://privacyidea.readthedocs.io" target="_blank">Dokumentation</a>
+- <a href="https://www.privacyidea.org" target="_blank">Projekt-Webseite</a>
 - <a href="https://www.youtube.com/channel/UCesoTaB76oX42vX7WGfyyFA" target="_blank">Youtube Kanal</a>

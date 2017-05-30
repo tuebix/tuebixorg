@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/daniel-kraft-backy2:-open-source-virtual-machine-backup-fuer-ceph-und-lvm/
+permalink: /2017/programm/daniel-kraft-backy2-open-source-virtual-machine-backup-fuer-ceph-und-lvm/
 weight:
 menu:
 ---
@@ -23,6 +23,6 @@ Daniel Kraft ist Gründer und Geschäftsführer der D9T GmbH in Ulm. Dort entwic
 
 ### Links
 
-- <a href="http://backy2.com/" target="_blank">backy2 Homepage</a>
 - <a href="http://backy2.com/docs/" target="_blank">backy2 Dokumentation</a>
+- <a href="http://backy2.com/" target="_blank">backy2 Homepage</a>
 - <a href="https://github.com/wamdam/backy2" target="_blank">backy2 Source Code (LGPLv3)</a>

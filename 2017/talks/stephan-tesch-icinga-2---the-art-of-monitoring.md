@@ -19,5 +19,5 @@ Große Vorkenntnisse erwarte ich nicht, aber in die Details von wieso ich Monito
 
 ### Links
 
-- <a href="https://www.icinga.com" target="_blank">Offizielle Icinga Website</a>
 - <a href="https://monitoring-portal.org" target="_blank">Community Forum für Icinga (u.a.)</a>
+- <a href="https://www.icinga.com" target="_blank">Offizielle Icinga Website</a>

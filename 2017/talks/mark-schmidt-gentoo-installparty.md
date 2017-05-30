@@ -19,7 +19,7 @@ Linux-Grundlagen ;)
 
 ### Links
 
-- <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage" target="_blank">Portage</a>
-- <a href="https://wiki.gentoo.org/wiki/Main_Page" target="_blank">Gentoo Wiki</a>
 - <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64" target="_blank">Gentoo-Handbook</a>
+- <a href="https://wiki.gentoo.org/wiki/Main_Page" target="_blank">Gentoo Wiki</a>
 - <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About" target="_blank">Gentoo-Installation</a>
+- <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage" target="_blank">Portage</a>

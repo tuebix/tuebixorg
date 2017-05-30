@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/sven-rath-was-ist-ceph-und-wofuer-kann-ich-es-nutzen-?/
+permalink: /2017/programm/sven-rath-was-ist-ceph-und-wofuer-kann-ich-es-nutzen-/
 weight:
 menu:
 ---
@@ -23,6 +23,6 @@ Mein Name ist Sven Rath und Ich arbeite derzeit als Linux Systems Engineer für 
 
 ### Links
 
-- <a href="https://ceph.com/" target="_blank">Offizielle Ceph website</a>
 - <a href="https://mylinuxblog.de/" target="_blank">Mein Linuxblog</a>
+- <a href="https://ceph.com/" target="_blank">Offizielle Ceph website</a>
 - <a href="https://www.astiga.com/" target="_blank">Astiga GmbH</a>

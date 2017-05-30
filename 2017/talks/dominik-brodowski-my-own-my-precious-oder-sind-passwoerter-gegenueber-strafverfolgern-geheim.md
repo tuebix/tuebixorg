@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/dominik-brodowski-my-own,-my-precious?-oder:-sind-passwoerter-gegenueber-strafverfolgern-geheim?/
+permalink: /2017/programm/dominik-brodowski-my-own-my-precious-oder-sind-passwoerter-gegenueber-strafverfolgern-geheim/
 weight:
 menu:
 ---

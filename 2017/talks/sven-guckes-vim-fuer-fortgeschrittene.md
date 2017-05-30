@@ -23,5 +23,5 @@ Sven Guckes, 1967, Mathe+Info, Freiberufler, Berlin.  Verfechter von Freier Soft
 
 ### Links
 
-- <a href="http://www.guckes.net/talks/vim/vim_advanced.txt" target="_blank">Vim für Fortgeschrittene (Workshop Text)</a>
 - <a href="http://cal.guckes.net" target="_blank">Kalender für FLOSS Events Europa</a>
+- <a href="http://www.guckes.net/talks/vim/vim_advanced.txt" target="_blank">Vim für Fortgeschrittene (Workshop Text)</a>

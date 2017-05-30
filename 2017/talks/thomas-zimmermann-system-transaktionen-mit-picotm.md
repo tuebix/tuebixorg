@@ -23,5 +23,5 @@ Ich bin Software-Entwickler, FOSS-Anhänger, Ex-Mozillianer und Maintainer von p
 
 ### Links
 
-- <a href="http://picotm.org/" target="_blank">picotm Website</a>
 - <a href="http://transactionblog.org/" target="_blank">Mein Blog mit Beiträgen zum Thema </a>
+- <a href="http://picotm.org/" target="_blank">picotm Website</a>

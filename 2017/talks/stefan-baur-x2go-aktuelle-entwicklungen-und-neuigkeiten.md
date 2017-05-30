@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/stefan-baur-x2go:-aktuelle-entwicklungen-und-neuigkeiten/
+permalink: /2017/programm/stefan-baur-x2go-aktuelle-entwicklungen-und-neuigkeiten/
 weight:
 menu:
 ---
@@ -19,5 +19,5 @@ Stefan Baur Jahrgang 1977 Vormals: über 10 Jahre bei einem Geldinstitut, Schwer
 
 ### Links
 
-- <a href="http://www.x2go.org/" target="_blank">X2Go Homepage</a>
 - <a href="http://wiki.x2go.org/doku.php/doc:newtox2go" target="_blank">New to X2Go? Start here!</a>
+- <a href="http://www.x2go.org/" target="_blank">X2Go Homepage</a>

@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/holger-gantikow-containing-containers?---oder-"wie-laesst-sich-der-wal-baendigen?"/
+permalink: /2017/programm/holger-gantikow-containing-containers---oder-"wie-laesst-sich-der-wal-baendigen"/
 weight:
 menu:
 ---

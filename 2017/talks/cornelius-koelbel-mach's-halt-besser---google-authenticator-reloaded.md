@@ -23,5 +23,5 @@ Cornelius arbeitet seit 23 Jahren produktiv mit Linux.  Seit 12 Jahren liegt sei
 
 ### Links
 
-- <a href="https://privacyidea.org" target="_blank">Projektwebseite</a>
 - <a href="https://netknights.it/das-problem-mit-dem-google-authenticator/" target="_blank">Mein Rant über den Google Authenticator</a>
+- <a href="https://privacyidea.org" target="_blank">Projektwebseite</a>

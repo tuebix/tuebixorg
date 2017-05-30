@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/philipp-kammerer-vim:-the-first-contact/
+permalink: /2017/programm/philipp-kammerer-vim-the-first-contact/
 weight:
 menu:
 ---
