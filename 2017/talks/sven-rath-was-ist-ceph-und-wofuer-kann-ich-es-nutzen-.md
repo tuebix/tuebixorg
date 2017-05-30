@@ -11,15 +11,25 @@ menu:
 
 ### Sven Rath
 
-Dieser Vortrag soll eine Einführung in die Software Defined Storage Lösung Ceph sowie deren Vor-  und Nachteile geben und richtet sich an jeden der sich fragt, wie er die stetig wachsenden Daten möglichst einfach in den Griff bekommen kann. Nach einem kurzen Überblick über die Struktur der Software werde Ich vor allem auf verschiedene Anwendungsszenarien eingehen und berichte von meinen Erfahrungen bei der Einführung und dem Betrieb von Ceph im Rechenzentrum. Es sollen hierbei auch die Vorzüge von SDS angesprochen aber genauso auf die Einschränkungen hingewiesen werden.
+Dieser Workshop soll eine Einführung in die Software Defined Storage Lösung Ceph sowie deren Vor- und Nachteile geben und richtet sich an jeden, der sich für das Thema Ceph interessiert und Ceph selbst installieren möchte. Nach einem kurzen Überblick über die Struktur der Software werden die Teilnehmer Ceph innerhalb einer virtuellen Umgebung selbst installieren und in Betrieb nehmen.
+Der Workshop gliedert sich dann grob wie folgt:
+
+- Einführung in das Thema
+- Installation der CEPH Pakete auf einer CentOS 7.3 VM
+- Anpassung der Konfigurationsdateien
+- Konfiguration eines RADOS block devices
+- Einbinden des erstellten rbd volumes an einen client
+
+Innerhalb des Workshops kann Ich gerne auch spontan auf Schwerpunkte eingehen.
 
 ### Vorwissen
 
-Grundkenntnisse in den Bereichen Speicherlösung und Netzwerk von Vorteil.
+- Sicherer Umgang mit Linux wäre von Vorteil
+- Eine bereits installierte Virtualisierungssoftware auf dem eigenen Laptop wie Virtualbox wäre super
 
 ### Über mich
 
-Mein Name ist Sven Rath und Ich arbeite derzeit als Linux Systems Engineer für den Hosting & IT-Services Anbieter astiga GmbH in Stuttgart. Themen mit denen Ich mich gerne beschäftige kommen aus den Bereichen Linux, HPC und Cloud.
+Mein Name ist Sven Rath und Ich arbeite derzeit als Linux Systems Engineer für den Hosting & IT-Services Anbieter Biteno GmbH in Stuttgart. Themen mit denen Ich mich gerne beschäftige kommen aus den Bereichen Linux, HPC und Cloud.
 
 ### Links
 
