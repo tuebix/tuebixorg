@@ -30,7 +30,7 @@ menu:
 <tr><td>13:00</td><td><a class="talk"></a></td><td><a href="../programm/christian-rost-ambilight-mit-raspberry-pi-hyperion-und-ubuntu">Ambilight&nbsp;mit&nbsp;Raspberry&nbsp;Pi/Hyperion&nbsp;und&nbsp;Ubuntu</a></td><td>Christian&nbsp;Rost</td></tr>
 <tr><td>14:00</td><td><a class="talk"></a></td><td><a href="../programm/christian-brauner-surviving-open-source">Surviving&nbsp;Open&nbsp;Source</a></td><td>Christian&nbsp;Brauner</td></tr>
 <tr><td>15:00</td><td><a class="talk"></a></td><td><a href="../programm/olaf-flebbe-datenanalyse-einer-solaranlage-mit-python">Datenanalyse&nbsp;einer&nbsp;Solaranlage&nbsp;mit&nbsp;python</a></td><td>Olaf&nbsp;Flebbe</td></tr>
-<tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/michael-roppel-gimp-grundlagen---live-demo">Gimp&nbsp;Grundlagen&nbsp;-&nbsp;Live&nbsp;Demo</a></td><td>Michael&nbsp;Roppel</td></tr>
+<tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/michael-roppel-gimp-grundlagen---live-demo">GIMP&nbsp;Grundlagen&nbsp;-&nbsp;Live&nbsp;Demo</a></td><td>Michael&nbsp;Roppel</td></tr>
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/harald-koenig-es-muss-mal-wieder-shell-sein">Es&nbsp;muss&nbsp;mal&nbsp;wieder&nbsp;SHELL&nbsp;sein</a></td><td>Harald&nbsp;König</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Raum V2: 2017 nicht verfügbar</td></tr>
