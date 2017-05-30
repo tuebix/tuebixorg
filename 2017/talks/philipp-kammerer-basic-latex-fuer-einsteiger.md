@@ -15,7 +15,7 @@ LaTeX Distribution texlive unter Linux installieren, ein einfaches Eingabefile a
 
 ### Vorwissen
 
-Teilnehmer sollen einen Texteditor bedienen können.
+Teilnehmer sollen einen Texteditor bedienen und Pakete installieren können.
 
 ### Über mich
 
