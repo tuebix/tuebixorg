@@ -19,7 +19,7 @@ Der Umgang mit der Konsole wird vorausgesetzt.
 
 ### Über mich
 
-Daniel Kraft ist Gründer und Geschäftsführer der D9T GmbH in Ulm. Dort entwickelt und betreibt er seit 10 Jahren Lösungen für die Unternehmensdigitalisierung, sowie Websites, Shops und Intranets. Im Fokus stand und steht noch heute die Sicherheit, Stabilität und Integrität des Betriebs der Lösungen. Daher betreibt die D9T GmbH eigene Hardware in Rechenzentren in Deutschland.  Neben Beruf und Familie bleibt manchmal noch genug Zeit fürs Motorradfahren und Analoge Synthesizer.
+Ich bin Gründer und Geschäftsführer der D9T GmbH in Ulm. Dort entwickle und betreibe ich seit über 10 Jahren Lösungen für die Unternehmensdigitalisierung, sowie Websites, Shops und Intranets. Im Fokus stand und steht noch heute die Sicherheit, Stabilität und Integrität des Betriebs der Lösungen. Daher betreibt die D9T GmbH eigene Hardware in Rechenzentren in Deutschland. Neben Beruf und Familie bleibt manchmal noch genug Zeit fürs Motorradfahren und Analoge Synthesizer.
 
 ### Links
 
