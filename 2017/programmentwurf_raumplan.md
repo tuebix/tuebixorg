@@ -13,7 +13,6 @@ menu:
 <tr><td>16:00</td><td><a class="work"></a></td><td><a href="../programm/mark-schmidt-gentoo-installparty">Gentoo&nbsp;Installparty</a></td><td>Mark&nbsp;Schmidt</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Raum W2</td></tr>
-<tr><td>10:30</td><td><a class="talk"></a></td><td><a href="../programm/stefan-baur-x2go-aktuelle-entwicklungen-und-neuigkeiten">X2Go:&nbsp;Aktuelle&nbsp;Entwicklungen&nbsp;und&nbsp;Neuigkeiten</a></td><td>Stefan&nbsp;Baur</td></tr>
 <tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/sven-guckes-tools-tools-tools!">Tools&nbsp;Tools&nbsp;Tools!</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>12:00</td><td><a class="work"></a></td><td><a href="../programm/philipp-kammerer-vim-the-first-contact">Vim:&nbsp;The&nbsp;First&nbsp;contact</a></td><td>Philipp&nbsp;Kammerer</td></tr>
 <tr><td>14:00</td><td><a class="work"></a></td><td><a href="../programm/sven-guckes-vim-fuer-fortgeschrittene">Vim&nbsp;für&nbsp;Fortgeschrittene</a></td><td>Sven&nbsp;Guckes</td></tr>
