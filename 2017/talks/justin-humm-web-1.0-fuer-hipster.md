@@ -23,4 +23,4 @@ Interessiert an Technologie an Gesellschaft. Bewege mich seit einigen Jahren zwi
 
 ### Links
 
-- <a href="erictapen.de" target="_blank">Mein Blog</a>
+- <a href="http://erictapen.de" target="_blank">Mein Blog</a>
