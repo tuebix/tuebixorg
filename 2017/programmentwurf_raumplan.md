@@ -49,8 +49,8 @@ menu:
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Raum V4</td></tr>
 <tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/stephan-tesch-icinga-2---the-art-of-monitoring">Icinga&nbsp;2&nbsp;-&nbsp;The&nbsp;Art&nbsp;of&nbsp;Monitoring</a></td><td>Stephan&nbsp;Tesch</td></tr>
-<tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/holger-gantikow-containing-containers---oder-wie-laesst-sich-der-wal-baendigen">Containing&nbsp;Containers?&nbsp;-&nbsp;oder&nbsp;"Wie&nbsp;lässt&nbsp;sich&nbsp;der&nbsp;Wal&nbsp;bändigen?"</a></td><td>Holger&nbsp;Gantikow</td></tr>
 <tr><td>10:30</td><td><a class="talk"></a></td><td><a href="../programm/adrian-reber-xonotic-all-around-the-world">Xonotic&nbsp;All&nbsp;Around&nbsp;The&nbsp;World</a></td><td>Adrian&nbsp;Reber</td></tr>
+<tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/holger-gantikow-containing-containers---oder-wie-laesst-sich-der-wal-baendigen">Containing&nbsp;Containers?&nbsp;-&nbsp;oder&nbsp;"Wie&nbsp;lässt&nbsp;sich&nbsp;der&nbsp;Wal&nbsp;bändigen?"</a></td><td>Holger&nbsp;Gantikow</td></tr>
 <tr><td>12:00</td><td><a class="talk"></a></td><td><a href="../programm/christian-brauner-lxd">LXD</a></td><td>Christian&nbsp;Brauner</td></tr>
 <tr><td>13:00</td><td><a class="talk"></a></td><td><a href="../programm/felix-bauer-peekabooav">PeekabooAV</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>14:00</td><td><a class="talk"></a></td><td><a href="../programm/holger-gantikow-3d-vdi-unter-linux---konzepte-&-technologien-fuer-3d-beschleunigte-arbeitsplaetze">3D-VDI&nbsp;unter&nbsp;Linux&nbsp;-&nbsp;Konzepte&nbsp;&&nbsp;Technologien&nbsp;für&nbsp;3D-beschleunigte&nbsp;Arbeitsplätze</a></td><td>Holger&nbsp;Gantikow</td></tr>
