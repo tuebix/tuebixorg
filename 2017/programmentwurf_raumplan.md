@@ -34,6 +34,8 @@ menu:
 <tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/michael-roppel-gimp-grundlagen---live-demo">Gimp&nbsp;Grundlagen&nbsp;-&nbsp;Live&nbsp;Demo</a></td><td>Michael&nbsp;Roppel</td></tr>
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/harald-koenig-es-muss-mal-wieder-shell-sein">Es&nbsp;muss&nbsp;mal&nbsp;wieder&nbsp;SHELL&nbsp;sein</a></td><td>Harald&nbsp;König</td></tr>
 <tr><td>&nbsp;</td></tr>
+<tr><td></td><td></td><td>Raum V2: 2017 nicht verfügbar</td></tr>
+<tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Raum V3</td></tr>
 <tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/peter-hrenka-sauberes-c++-mit-clang-tidy">Sauberes&nbsp;C++&nbsp;mit&nbsp;clang-tidy</a></td><td>Peter&nbsp;Hrenka</td></tr>
 <tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/stefan-tzeggai-postgresql-tipps-fuer-schnelle-ergebnisse">PostgreSQL&nbsp;Tipps&nbsp;für&nbsp;schnelle&nbsp;Ergebnisse</a></td><td>Stefan&nbsp;Tzeggai</td></tr>
