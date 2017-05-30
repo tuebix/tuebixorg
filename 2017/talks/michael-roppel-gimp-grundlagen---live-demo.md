@@ -5,7 +5,7 @@ permalink: /2017/programm/michael-roppel-gimp-grundlagen---live-demo/
 weight:
 menu:
 ---
-##GIMP Grundlagen - Live Demo
+## GIMP Grundlagen - Live Demo
 
 ### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 17:00 in Raum V1
 
