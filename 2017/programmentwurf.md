@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Programm
+title: Programmenwurf
 permalink: /2017/programmentwurf/
 weight:
 menu:
