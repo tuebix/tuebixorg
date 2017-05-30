@@ -7,7 +7,7 @@ menu:
 ---
 ## Mehr-Faktor-Authentifizierung nicht nur für die eigene Cloud
 
-### <img height = "32" src="../../../images/workshop.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 14:00 in Raum W3
 
 ### Cornelius Kölbel
 
@@ -24,5 +24,5 @@ Cornelius arbeitet seit 23 Jahren produktiv mit Linux.  Seit 12 Jahren liegt sei
 ### Links
 
 - <a href="http://privacyidea.readthedocs.io" target="_blank">Dokumentation</a>
-- <a href="https://www.privacyidea.org" target="_blank">Projekt-Webseite</a>
 - <a href="https://www.youtube.com/channel/UCesoTaB76oX42vX7WGfyyFA" target="_blank">Youtube Kanal</a>
+- <a href="https://www.privacyidea.org" target="_blank">Projekt-Webseite</a>

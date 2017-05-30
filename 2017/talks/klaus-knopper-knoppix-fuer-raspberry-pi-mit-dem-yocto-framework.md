@@ -7,7 +7,7 @@ menu:
 ---
 ## Knoppix für Raspberry Pi mit dem YOCTO Framework
 
-### <img height = "32" src="../../../images/lightning.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/lightning.svg"> 14:30 bis 14:35 in Raum V3
 
 ### Klaus Knopper
 

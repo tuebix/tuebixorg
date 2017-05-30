@@ -7,7 +7,7 @@ menu:
 ---
 ## Was gibt's Neues in Debian 9 Stretch?
 
-### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V1
 
 ### Axel Beckert
 

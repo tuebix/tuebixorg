@@ -7,7 +7,7 @@ menu:
 ---
 ## backy2: Open Source Virtual Machine Backup für Ceph und LVM
 
-### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 17:00 in Raum V4
 
 ### Daniel Kraft
 
@@ -24,5 +24,5 @@ Daniel Kraft ist Gründer und Geschäftsführer der D9T GmbH in Ulm. Dort entwic
 ### Links
 
 - <a href="http://backy2.com/docs/" target="_blank">backy2 Dokumentation</a>
-- <a href="http://backy2.com/" target="_blank">backy2 Homepage</a>
 - <a href="https://github.com/wamdam/backy2" target="_blank">backy2 Source Code (LGPLv3)</a>
+- <a href="http://backy2.com/" target="_blank">backy2 Homepage</a>

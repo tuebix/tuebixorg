@@ -7,7 +7,7 @@ menu:
 ---
 ## Basic LaTeX für Einsteiger
 
-### <img height = "32" src="../../../images/workshop.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W2
 
 ### Philipp Kammerer
 

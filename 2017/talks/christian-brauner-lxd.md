@@ -7,7 +7,7 @@ menu:
 ---
 ## LXD
 
-### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V4
 
 ### Christian Brauner
 
@@ -20,6 +20,6 @@ LX{C,D} core dev. Also, this guy.
 ### Links
 
 - <a href="https://linuxcontainers.org/lxd/try-it" target="_blank">https://linuxcontainers.org/lxd/try-it</a>
-- <a href="https://linuxcontainers.org" target="_blank">https://linuxcontainers.org</a>
-- <a href="https://github.com/lxc/lxc" target="_blank">https://github.com/lxc/lxc</a>
 - <a href="https://github.com/lxc/lxd" target="_blank">https://github.com/lxc/lxd</a>
+- <a href="https://github.com/lxc/lxc" target="_blank">https://github.com/lxc/lxc</a>
+- <a href="https://linuxcontainers.org" target="_blank">https://linuxcontainers.org</a>

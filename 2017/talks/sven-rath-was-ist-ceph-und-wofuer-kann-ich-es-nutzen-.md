@@ -7,7 +7,7 @@ menu:
 ---
 ## Was ist Ceph und wofür kann Ich es nutzen ?
 
-### <img height = "32" src="../../../images/workshop.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W3
 
 ### Sven Rath
 
@@ -24,5 +24,5 @@ Mein Name ist Sven Rath und Ich arbeite derzeit als Linux Systems Engineer für 
 ### Links
 
 - <a href="https://mylinuxblog.de/" target="_blank">Mein Linuxblog</a>
-- <a href="https://ceph.com/" target="_blank">Offizielle Ceph website</a>
 - <a href="https://www.astiga.com/" target="_blank">Astiga GmbH</a>
+- <a href="https://ceph.com/" target="_blank">Offizielle Ceph website</a>

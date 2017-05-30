@@ -7,7 +7,7 @@ menu:
 ---
 ## Nextcloud
 
-### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:30 in Raum V4
 
 ### Vinzenz Rosenkranz
 

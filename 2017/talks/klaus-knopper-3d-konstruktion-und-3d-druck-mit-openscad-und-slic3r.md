@@ -7,7 +7,7 @@ menu:
 ---
 ## 3D Konstruktion und 3D Druck mit OpenSCAD und Slic3r
 
-### <img height = "32" src="../../../images/workshop.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 14:00 in Raum W1
 
 ### Klaus Knopper
 

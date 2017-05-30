@@ -7,7 +7,7 @@ menu:
 ---
 ## 3D-VDI unter Linux - Konzepte & Technologien für 3D-beschleunigte Arbeitsplätze
 
-### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V4
 
 ### Holger Gantikow
 

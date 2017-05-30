@@ -7,7 +7,7 @@ menu:
 ---
 ## Ruckzuck aufgesetzte Testumgebungen für Sensu
 
-### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 18:00 in Raum V3
 
 ### André Niemann
 

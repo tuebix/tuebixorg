@@ -7,7 +7,7 @@ menu:
 ---
 ## Vim: The First contact
 
-### <img height = "32" src="../../../images/workshop.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 14:00 in Raum W2
 
 ### Philipp Kammerer
 

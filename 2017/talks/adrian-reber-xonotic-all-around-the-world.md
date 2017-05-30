@@ -7,7 +7,7 @@ menu:
 ---
 ## Xonotic All Around The World
 
-### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/talk.svg"> 10:30 bis 11:00 in Raum V4
 
 ### Adrian Reber
 
@@ -20,5 +20,5 @@ Software Entwickler bei Red Hat
 ### Links
 
 - <a href="https://runc.io/" target="_blank">runC</a>
-- <a href="http://www.xonotic.org/" target="_blank">Xonotic</a>
 - <a href="https://criu.org/" target="_blank">CRIU</a>
+- <a href="http://www.xonotic.org/" target="_blank">Xonotic</a>

@@ -7,7 +7,7 @@ menu:
 ---
 ## Gentoo Installparty
 
-### <img height = "32" src="../../../images/workshop.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W1
 
 ### Mark Schmidt
 
@@ -20,6 +20,6 @@ Linux-Grundlagen ;)
 ### Links
 
 - <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64" target="_blank">Gentoo-Handbook</a>
-- <a href="https://wiki.gentoo.org/wiki/Main_Page" target="_blank">Gentoo Wiki</a>
-- <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About" target="_blank">Gentoo-Installation</a>
 - <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage" target="_blank">Portage</a>
+- <a href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About" target="_blank">Gentoo-Installation</a>
+- <a href="https://wiki.gentoo.org/wiki/Main_Page" target="_blank">Gentoo Wiki</a>

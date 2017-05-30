@@ -7,7 +7,7 @@ menu:
 ---
 ## SDR-Empfang - Quer durchs Sonnensystem
 
-### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V1
 
 ### Mario Lorenz
 

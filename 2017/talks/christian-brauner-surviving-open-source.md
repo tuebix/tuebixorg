@@ -7,7 +7,7 @@ menu:
 ---
 ## Surviving Open Source
 
-### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V1
 
 ### Christian Brauner
 

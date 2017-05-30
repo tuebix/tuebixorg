@@ -7,7 +7,7 @@ menu:
 ---
 ## Mach's halt besser - Google Authenticator reloaded
 
-### <img height = "32" src="../../../images/lightning.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/lightning.svg"> 14:35 bis 14:40 in Raum V3
 
 ### Cornelius Kölbel
 

@@ -7,7 +7,7 @@ menu:
 ---
 ## Ambilight mit Raspberry Pi/Hyperion und Ubuntu
 
-### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 14:00 in Raum V1
 
 ### Christian Rost
 

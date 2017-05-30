@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/holger-gantikow-containing-containers---oder-"wie-laesst-sich-der-wal-baendigen"/
+permalink: /2017/programm/holger-gantikow-containing-containers---oder-wie-laesst-sich-der-wal-baendigen/
 weight:
 menu:
 ---
 ## Containing Containers? - oder "Wie lässt sich der Wal bändigen?"
 
-### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V4
 
 ### Holger Gantikow
 

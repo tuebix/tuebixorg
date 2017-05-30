@@ -7,7 +7,7 @@ menu:
 ---
 ## Es muss mal wieder SHELL sein
 
-### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V1
 
 ### Harald König
 

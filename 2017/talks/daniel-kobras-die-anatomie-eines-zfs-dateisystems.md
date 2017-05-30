@@ -7,7 +7,7 @@ menu:
 ---
 ## Die Anatomie eines ZFS-Dateisystems
 
-### <img height = "32" src="../../../images/workshop.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W3
 
 ### Daniel Kobras
 
@@ -24,5 +24,5 @@ Hat als Physiker gelernt zu ergründen, was die Welt im Innersten zusammenhält.
 ### Links
 
 - <a href="http://zfsonlinux.org/" target="_blank">ZFS on Linux</a>
-- <a href="http://www.open-zfs.org/" target="_blank">OpenZFS</a>
 - <a href="https://openzfsonosx.org/" target="_blank">OpenZFS on OS X (O3X)</a>
+- <a href="http://www.open-zfs.org/" target="_blank">OpenZFS</a>

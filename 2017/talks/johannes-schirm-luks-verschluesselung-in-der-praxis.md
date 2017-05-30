@@ -7,7 +7,7 @@ menu:
 ---
 ## LUKS-Verschlüsselung in der Praxis
 
-### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 in Raum V3
 
 ### Johannes Schirm
 
@@ -24,6 +24,6 @@ Ich bin Student der Medien- und Kommunikationsinformatik in Reutlingen und arbei
 ### Links
 
 - <a href="https://linux.die.net/man/8/cryptsetup" target="_blank">Manpage zu Cryptsetup</a>
-- <a href="http://www.linux-community.de/Internal/Artikel/Print-Artikel/LinuxUser/2009/02/USB-Sticks-verschluesseln" target="_blank">Einfacher Weg zum verschlüsselten Datenträger</a>
-- <a href="https://de.wikipedia.org/wiki/Device_Mapper" target="_blank">Übersicht zum Mappen von Geräten unter Linux</a>
 - <a href="https://wiki.ubuntuusers.de/udev/#Beispiele-fuer-eigene-Regeln" target="_blank">Einige Szenarien für Automatisierung mit dem udev-System</a>
+- <a href="https://de.wikipedia.org/wiki/Device_Mapper" target="_blank">Übersicht zum Mappen von Geräten unter Linux</a>
+- <a href="http://www.linux-community.de/Internal/Artikel/Print-Artikel/LinuxUser/2009/02/USB-Sticks-verschluesseln" target="_blank">Einfacher Weg zum verschlüsselten Datenträger</a>

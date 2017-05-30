@@ -7,7 +7,7 @@ menu:
 ---
 ## In 5 Jahren mit Shell-Skripten zum Kernel-Treiber für neue HW
 
-### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V3
 
 ### Harald König
 

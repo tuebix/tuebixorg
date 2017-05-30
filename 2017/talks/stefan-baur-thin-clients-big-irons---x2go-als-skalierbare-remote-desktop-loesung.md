@@ -7,7 +7,7 @@ menu:
 ---
 ## Thin Clients, Big Irons - X2Go als skalierbare Remote Desktop-Lösung
 
-### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V7
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V4
 
 ### Stefan Baur
 
