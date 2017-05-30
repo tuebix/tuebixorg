@@ -1,0 +1,23 @@
+---
+layout: talk
+title:
+permalink: /2017/programm/axel-beckert-was-gibt's-neues-in-debian-9-stretch?/
+weight:
+menu:
+---
+## Was gibt's Neues in Debian 9 Stretch?
+
+### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V7
+
+### Axel Beckert
+
+Das neue Debian-Release bringt nicht nur viele neue Pakete sondern auch einige Neuerungen bei der Infrastruktur, z.B. automatisch erstellte Pakete mit Debug-Symbolen, GNU Screen verfügbar im Debian-Installer, etc. Folien unter https://noone.org/talks/whats-new-in-debian/
+
+### Vorwissen
+
+Schonmal ein Debian oder Debian-Derivat benutzt zu haben, ist vermutlich hilfreich.
+
+### Über mich
+
+Debian-Entwickler, arbeitet als Netzwerksicherheitsspezialist und Linux-Systemadministrator an der ETH Zürich.
+
