@@ -17,3 +17,7 @@ X2Go ist (unter anderem) eine freie (F/LOSS) Remote-Desktop-Lösung. Im Vortrag 
 
 Stefan Baur Jahrgang 1977 Vormals: über 10 Jahre bei einem Geldinstitut, Schwerpunkttätigkeit dort IT-Security & Virenschutz Aktuell: "Der Mann mit den 4 Hüten" - X2Go-Projektmanager, X2Go Lead Evangelist, X2Go Event-Planer, Firmenchef der BAUR-ITCS UG (haftungsbeschränkt)
 
+### Links
+
+- <a href="http://wiki.x2go.org/doku.php/doc:newtox2go" target="_blank">New to X2Go? Start here!</a>
+- <a href="http://www.x2go.org/" target="_blank">X2Go Homepage</a>
