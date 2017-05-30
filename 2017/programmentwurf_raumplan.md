@@ -59,4 +59,12 @@ menu:
 <tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/vinzenz-rosenkranz-nextcloud">Nextcloud</a></td><td>Vinzenz&nbsp;Rosenkranz</td></tr>
 <tr><td>16:30</td><td><a class="talk"></a></td><td><a href="../programm/daniel-kraft-backy2-open-source-virtual-machine-backup-fuer-ceph-und-lvm">backy2:&nbsp;Open&nbsp;Source&nbsp;Virtual&nbsp;Machine&nbsp;Backup&nbsp;für&nbsp;Ceph&nbsp;und&nbsp;LVM</a></td><td>Daniel&nbsp;Kraft</td></tr>
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/stefan-baur-thin-clients-big-irons---x2go-als-skalierbare-remote-desktop-loesung">Thin&nbsp;Clients,&nbsp;Big&nbsp;Irons&nbsp;-&nbsp;X2Go&nbsp;als&nbsp;skalierbare&nbsp;Remote&nbsp;Desktop-Lösung</a></td><td>Stefan&nbsp;Baur</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td></td><td></td><td>Raum LPIC</td></tr>
+<tr><td>12:00</td><td><a class="lpic"></a></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Dimitrios Bogiatzoules</td></tr>
+<tr><td>14:00</td><td><a class="lpic"></a></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td>Dimitrios Bogiatzoules</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td></td><td></td><td>Raum Mini-FrogLabs</td></tr>
+<tr><td>10:00</td><td><a class="work"></a></td><td><a href="../../kinder">Kinderprogramm Mini-FrogLabs</a></td><td>Teckids e.V.</td></tr>
+<tr><td>&nbsp;</td></tr>
 </table>
