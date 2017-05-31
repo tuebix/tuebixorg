@@ -20,7 +20,3 @@ Interesse an Datenanalyse
 ### Über mich
 
 Arbeite als Software Architekt, 25+ Jahre Open Source Software, Member Apache Software Foundation
-
-### Links
-
-- <a href="" target="_blank"></a>
