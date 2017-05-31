@@ -11,7 +11,7 @@ menu:
 
 ### Stefan Kremer
 
-<a href="https://owncloud.org">ownCloud</a> ist von je her das Mittel der Wahl, wenn es um Datenhoheit und Schutz der Privatsphäre im Cloud FileShare und Sync geht. Ausgehend von den letzten Warnungen des BSI zeigen wir Möglichkeiten auf, um eine ownCloud Instanz <a href="https://scan.owncloud.org">sicher betreiben</a> zu können. 
+<a href="https://owncloud.org">ownCloud</a> ist von je her das Mittel der Wahl, wenn es um Datenhoheit und Schutz der Privatsphäre im Cloud FileShare und Sync geht. Ausgehend von den letzten Warnungen des BSI zeigen wir Möglichkeiten auf, um eine ownCloud Instanz <a href="https://scan.owncloud.com">sicher betreiben</a> zu können. 
 
 ### Über mich
 
