@@ -11,7 +11,7 @@ menu:
 
 ### Axel Beckert
 
-Das neue Debian-Release bringt nicht nur viele neue Pakete sondern auch einige Neuerungen bei der Infrastruktur, z.B. automatisch erstellte Pakete mit Debug-Symbolen, GNU Screen verfügbar im Debian-Installer, etc. Folien unter https://noone.org/talks/whats-new-in-debian/
+Das neue Debian-Release bringt nicht nur viele neue Pakete sondern auch einige Neuerungen bei der Infrastruktur, z.B. automatisch erstellte Pakete mit Debug-Symbolen, GNU Screen verfügbar im Debian-Installer, etc. 
 
 ### Vorwissen
 
@@ -21,3 +21,6 @@ Schonmal ein Debian oder Debian-Derivat benutzt zu haben, ist vermutlich hilfrei
 
 Debian-Entwickler, arbeitet als Netzwerksicherheitsspezialist und Linux-Systemadministrator an der ETH Zürich.
 
+### Links
+
+- <a href="https://noone.org/talks/whats-new-in-debian/" target="_blank">Folien</a>
