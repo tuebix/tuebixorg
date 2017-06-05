@@ -11,7 +11,10 @@ menu:
 
 ### Harald König
 
-Im Vortrag wird «interaktiv» ganz langsam und in kleinen Schritten ein Shell-Skript entwickelt – um zu demonstrieren, wie einfach das mit ein wenig Übung sein kann (und wie nützlich zum Schluss!). Mit der Shell (bash) und einer kleinen Zahl hilfreicher Kommandozeilen-Tools kann man sehr schön Daten bearbeiten, umwandeln, verarbeiten und auswerten. Einmal erlernt und geübt ist dies ein praktisches und mächtiges Werkzeug in UNIX, welches durch die grafischen Oberflächen vielfach zu Unrecht immer mehr in Vergessenheit gerät.  mögliche Themen  (sehr gerne neue Vorab Ideen per email einsenden an koenig@linux.de !!)      * Canon RAW Bilder von einer CFCARD retten/undeleten – mit SHELL und dd     * Zahlenspielereien mit dem Kalender: welcher Wandkalender passt dieses/nächstes Jahr?     * andere Ideen ? her damit! 
+Im Vortrag wird «interaktiv» ganz langsam und in kleinen Schritten ein Shell-Skript entwickelt – um zu demonstrieren, wie einfach das mit ein wenig Übung sein kann (und wie nützlich zum Schluss!). Mit der Shell (bash) und einer kleinen Zahl hilfreicher Kommandozeilen-Tools kann man sehr schön Daten bearbeiten, umwandeln, verarbeiten und auswerten. Einmal erlernt und geübt ist dies ein praktisches und mächtiges Werkzeug in UNIX, welches durch die grafischen Oberflächen vielfach zu Unrecht immer mehr in Vergessenheit gerät.  mögliche Themen  (sehr gerne neue Vorab Ideen per email einsenden an koenig@linux.de !!)
+* Canon RAW Bilder von einer CFCARD retten/undeleten – mit SHELL und dd
+* Zahlenspielereien mit dem Kalender: welcher Wandkalender passt dieses/nächstes Jahr?
+* andere Ideen? her damit! 
 
 ### Vorwissen
 
