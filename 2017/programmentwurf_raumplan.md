@@ -24,6 +24,7 @@ menu:
 <tr><td>16:00</td><td><a class="work"></a></td><td><a href="../programm/daniel-kobras-die-anatomie-eines-zfs-dateisystems">Die&nbsp;Anatomie&nbsp;eines&nbsp;ZFS-Dateisystems</a></td><td>Daniel&nbsp;Kobras</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Raum V1</td></tr>
+<tr><td>09:30</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-init">TÜBIX: init</a></td><td>TÜBIX&nbsp;Orga-Team</td></tr>
 <tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/dominik-brodowski-my-own-my-precious-oder-sind-passwoerter-gegenueber-strafverfolgern-geheim">My&nbsp;own,&nbsp;my&nbsp;precious?&nbsp;Oder:&nbsp;Sind&nbsp;Passwörter&nbsp;gegenüber&nbsp;Strafverfolgern&nbsp;geheim?</a></td><td>Dominik&nbsp;Brodowski</td></tr>
 <tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/axel-beckert-was-gibt's-neues-in-debian-9-stretch">Was&nbsp;gibt's&nbsp;Neues&nbsp;in&nbsp;Debian&nbsp;9&nbsp;Stretch?</a></td><td>Axel&nbsp;Beckert</td></tr>
 <tr><td>12:00</td><td><a class="talk"></a></td><td><a href="../programm/mario-lorenz-sdr-empfang---quer-durchs-sonnensystem">SDR-Empfang&nbsp;-&nbsp;Quer&nbsp;durchs&nbsp;Sonnensystem</a></td><td>Mario&nbsp;Lorenz</td></tr>
@@ -32,6 +33,7 @@ menu:
 <tr><td>15:00</td><td><a class="talk"></a></td><td><a href="../programm/olaf-flebbe-datenanalyse-einer-solaranlage-mit-python">Datenanalyse&nbsp;einer&nbsp;Solaranlage&nbsp;mit&nbsp;python</a></td><td>Olaf&nbsp;Flebbe</td></tr>
 <tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/michael-roppel-gimp-grundlagen---live-demo">GIMP&nbsp;Grundlagen&nbsp;-&nbsp;Live&nbsp;Demo</a></td><td>Michael&nbsp;Roppel</td></tr>
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/harald-koenig-es-muss-mal-wieder-shell-sein">Es&nbsp;muss&nbsp;mal&nbsp;wieder&nbsp;SHELL&nbsp;sein</a></td><td>Harald&nbsp;König</td></tr>
+<tr><td>18:00</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-exit">TÜBIX: exit</a></td><td>TÜBIX&nbsp;Orga-Team</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Raum V2: 2017 nicht verfügbar</td></tr>
 <tr><td>&nbsp;</td></tr>
