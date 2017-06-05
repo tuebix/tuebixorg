@@ -34,6 +34,7 @@ menu:
 <tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/michael-roppel-gimp-grundlagen---live-demo">GIMP&nbsp;Grundlagen&nbsp;-&nbsp;Live&nbsp;Demo</a></td><td>Michael&nbsp;Roppel</td></tr>
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/harald-koenig-es-muss-mal-wieder-shell-sein">Es&nbsp;muss&nbsp;mal&nbsp;wieder&nbsp;SHELL&nbsp;sein</a></td><td>Harald&nbsp;König</td></tr>
 <tr><td>18:00</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-exit">TÜBIX: exit</a></td><td>TÜBIX&nbsp;Orga-Team</td></tr>
+<tr><td>18:15</td><td><a class="talk"></a></td><td><a href="../programm/gerik-huland-tagesabschluss-warum-brennt-die-milch-an">Warum&nbsp;brennt&nbsp;die&nbsp;Milch&nbsp;an?&nbsp;Eine&nbsp;kleine&nbsp;Einführung&nbsp;in&nbsp;die&nbsp;Physik&nbsp;des&nbsp;Kochens</a></td><td>Gerik&nbsp;Huland</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Raum V2: 2017 nicht verfügbar</td></tr>
 <tr><td>&nbsp;</td></tr>
