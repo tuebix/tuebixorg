@@ -11,7 +11,11 @@ menu:
 
 ### Peter Hrenka
 
-C++ ist wieder eine lebendige Sprache geworden. Neue Standards werden in einem atemberaubenden Tempo verabschiedet. Da können alte Code-Basen oft nicht mehr mithalten. Das Tool clan-tidy kann: - den Code auf neuere Sprachstandards anpassen - auf die Einhaltung der CERT Regeln für sicheres Programmieren überprüfen - Coding Conventions überprüfen - eigene Überprüfungen mit automatischer Korrektur implementieren 
+C++ ist wieder eine lebendige Sprache geworden. Neue Standards werden in einem atemberaubenden Tempo verabschiedet. Da können alte Code-Basen oft nicht mehr mithalten. Das Tool clan-tidy kann:
+- den Code auf neuere Sprachstandards anpassen 
+- auf die Einhaltung der CERT Regeln für sicheres Programmieren überprüfen 
+- Coding Conventions überprüfen 
+- eigene Überprüfungen mit automatischer Korrektur implementieren 
 
 ### Vorwissen
 
