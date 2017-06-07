@@ -8,7 +8,8 @@ menu:
 
 <table>
 <tr><td></td><td></td><td>Raum W1</td></tr>
-<tr><td>12:00</td><td><a class="work"></a></td><td><a href="../programm/klaus-knopper-3d-konstruktion-und-3d-druck-mit-openscad-und-slic3r">3D&nbsp;Konstruktion&nbsp;und&nbsp;3D&nbsp;Druck&nbsp;mit&nbsp;OpenSCAD&nbsp;und&nbsp;Slic3r</a></td><td>Klaus&nbsp;Knopper</td></tr>
+<tr><td>10:00</td><td><a class="work"></a></td><td><a href="../programm/klaus-knopper-3d-konstruktion-und-3d-druck-mit-openscad-und-slic3r">3D&nbsp;Konstruktion&nbsp;und&nbsp;3D&nbsp;Druck&nbsp;mit&nbsp;OpenSCAD&nbsp;und&nbsp;Slic3r</a></td><td>Klaus&nbsp;Knopper</td></tr>
+<tr><td>12:00</td><td><a class="work"></a></td><td><a href="../programm/klaus-knopper-3d-konstruktion-und-3d-druck-mit-openscad-und-slic3r-fuer-fortgeschrittene">3D&nbsp;Konstruktion&nbsp;und&nbsp;3D&nbsp;Druck&nbsp;mit&nbsp;OpenSCAD&nbsp;und&nbsp;Slic3r&nbsp;für&nbsp;Fortgeschrittene</a></td><td>Klaus&nbsp;Knopper</td></tr>
 <tr><td>14:00</td><td><a class="work"></a></td><td><a href="../programm/matthias-windrich-tiddlywiki-das-hosentaschenwiki">TiddlyWiki&nbsp;das&nbsp;Hosentaschenwiki</a></td><td>Matthias&nbsp;Windrich</td></tr>
 <tr><td>16:00</td><td><a class="work"></a></td><td><a href="../programm/mark-schmidt-gentoo-installparty">Gentoo&nbsp;Installparty</a></td><td>Mark&nbsp;Schmidt</td></tr>
 <tr><td>&nbsp;</td></tr>

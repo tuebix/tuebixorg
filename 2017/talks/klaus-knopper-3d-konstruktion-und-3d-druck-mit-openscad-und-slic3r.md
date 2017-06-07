@@ -7,7 +7,7 @@ menu:
 ---
 ## 3D Konstruktion und 3D Druck mit OpenSCAD und Slic3r
 
-### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 14:00 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W1
 
 ### Klaus Knopper
 
@@ -21,3 +21,7 @@ Kenntnis einer prozeduralen Programmiersprache (Basic, C, Java, Bash) ist hilfre
 
 Klaus Knopper ist Ingenieur, Software-Entwickler und Professor im Fachbereich Betriebswirtschaft, Studiengang Information Management an der Hochschule Kaiserslautern, Standort Zweibrücken
 
+### Links
+
+- <a href="http://www.openscad.org" target="_blank">openSCAD</a>
+- <a href="http://knopper.net/tuebix/" target="_blank">Unterlagen zum Kurs</a>
