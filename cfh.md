@@ -65,11 +65,6 @@ Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Dann melde dich be
 
 O O O O O O O O O
 
-## Fotos
-Du willst den Tag für die Nachwelt festhalten? Die Chance bekommst Du als Fotograf
-
-O O O O 
-
 ## Programmunterstützung (ganzer Tag, 2 Personen als Team)
 
 Wir suchen pro Raum (V1-4, W1-3) zwei Leute, die bereit sind, den Ablauf innerhalb eines Raums über den Tag hinweg zu betreuen.
@@ -79,7 +74,6 @@ Wir nehmen pro Raum 2 Personen in die Liste und diese können sich dann absprech
 Sehr gerne kann man sich auch direkt als Gruppe für einen Raum anmelden und sich dann untereinander organisieren.
 
 O O Raumsupport V1<br/>
-O O Raumsupport V2<br/>
 O O Raumsupport V3<br/>
 O O Raumsupport V4<br/>
 <br/>
