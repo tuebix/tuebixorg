@@ -21,3 +21,7 @@ Kenntnis einer prozeduralen Programmiersprache (Basic, C, Java, Bash) ist hilfre
 
 Klaus Knopper ist Ingenieur, Software-Entwickler und Professor im Fachbereich Betriebswirtschaft, Studiengang Information Management an der Hochschule Kaiserslautern, Standort Zweibrücken
 
+### Links
+
+- <a href="http://www.openscad.org" target="_blank">openSCAD</a>
+- <a href="http://knopper.net/tuebix/" target="_blank">Unterlagen zum Kurs</a>
