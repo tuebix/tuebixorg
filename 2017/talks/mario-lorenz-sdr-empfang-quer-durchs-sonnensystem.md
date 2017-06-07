@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/mario-lorenz-sdr-empfang---quer-durchs-sonnensystem/
+permalink: /2017/programm/mario-lorenz-sdr-empfang-quer-durchs-sonnensystem/
 weight:
 menu:
 ---

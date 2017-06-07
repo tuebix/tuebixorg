@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/michael-roppel-gimp-grundlagen---live-demo/
+permalink: /2017/programm/michael-roppel-gimp-grundlagen-live-demo/
 weight:
 menu:
 ---

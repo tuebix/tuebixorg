@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/matthias-beyer-julian-ganz-git-dit---distributed-issue-tracking-mit-git/
+permalink: /2017/programm/matthias-beyer-julian-ganz-git-dit-distributed-issue-tracking-mit-git/
 weight:
 menu:
 ---

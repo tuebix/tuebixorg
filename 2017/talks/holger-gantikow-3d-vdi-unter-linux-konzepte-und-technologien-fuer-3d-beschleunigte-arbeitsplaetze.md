@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/holger-gantikow-3d-vdi-unter-linux---konzepte-&-technologien-fuer-3d-beschleunigte-arbeitsplaetze/
+permalink: /2017/programm/holger-gantikow-3d-vdi-unter-linux-konzepte-und-technologien-fuer-3d-beschleunigte-arbeitsplaetze/
 weight:
 menu:
 ---

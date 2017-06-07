@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/stephan-tesch-icinga-2---the-art-of-monitoring/
+permalink: /2017/programm/stephan-tesch-icinga-2-the-art-of-monitoring/
 weight:
 menu:
 ---

@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/cornelius-koelbel-mach's-halt-besser---google-authenticator-reloaded/
+permalink: /2017/programm/cornelius-koelbel-machs-halt-besser-google-authenticator-reloaded/
 weight:
 menu:
 ---

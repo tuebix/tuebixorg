@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/stefan-kremer-privatsphaere-braucht-sicherheit---wie-owncloud-beides-ermoeglicht/
+permalink: /2017/programm/stefan-kremer-privatsphaere-braucht-sicherheit-wie-owncloud-beides-ermoeglicht/
 weight:
 menu:
 ---

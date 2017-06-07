@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/andré-niemann-ruckzuck-aufgesetzte-testumgebungen-fuer-sensu/
+permalink: /2017/programm/andre-niemann-ruckzuck-aufgesetzte-testumgebungen-fuer-sensu/
 weight:
 menu:
 ---

@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/stefan-baur-thin-clients-big-irons---x2go-als-skalierbare-remote-desktop-loesung/
+permalink: /2017/programm/stefan-baur-thin-clients-big-irons-x2go-als-skalierbare-remote-desktop-loesung/
 weight:
 menu:
 ---
