@@ -1,10 +1,10 @@
--
+---
 layout: page
 title: Programmentwurf Raumplan
 permalink: /2017/programmentwurf_raumplan/
 weight:
 menu:
--
+---
 
 <table>
 <tr><td></td><td></td><td>Raum W1</td></tr>
