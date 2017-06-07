@@ -48,7 +48,7 @@ menu:
 <tr><td>14:35</td><td><a class="light"></a></td><td><a href="../programm/cornelius-koelbel-mach's-halt-besser-google-authenticator-reloaded">Mach's&nbsp;halt&nbsp;besser&nbsp;-&nbsp;Google&nbsp;Authenticator&nbsp;reloaded</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
 <tr><td>15:00</td><td><a class="talk"></a></td><td><a href="../programm/thomas-zimmermann-system-transaktionen-mit-picotm">System-Transaktionen&nbsp;mit&nbsp;picotm</a></td><td>Thomas&nbsp;Zimmermann</td></tr>
 <tr><td>16:00</td><td><a class="talk"></a></td><td><a href="../programm/justin-humm-web-1.0-fuer-hipster">Web&nbsp;1.0&nbsp;für&nbsp;Hipster</a></td><td>Justin&nbsp;Humm</td></tr>
-<tr><td>16:30</td><td><a class="talk"></a></td><td><a href="../programm/matthias-beyer-git-dit-distributed-issue-tracking-mit-git">git-dit&nbsp;-&nbsp;Distributed&nbsp;Issue&nbsp;Tracking&nbsp;mit&nbsp;git</a></td><td>Matthias&nbsp;Beyer</td></tr>
+<tr><td>16:30</td><td><a class="talk"></a></td><td><a href="../programm/matthias-beyer-julian-ganz-git-dit-distributed-issue-tracking-mit-git">git-dit&nbsp;-&nbsp;Distributed&nbsp;Issue&nbsp;Tracking&nbsp;mit&nbsp;git</a></td><td>Matthias&nbsp;Beyer,&nbsp;Julian&nbsp;Ganz</td></tr>
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/raphael-groner-testgetriebene-entwicklung-sprachbasierter-applikationen">Testgetriebene&nbsp;Entwicklung&nbsp;sprachbasierter&nbsp;Applikationen</a></td><td>Raphael&nbsp;Groner</td></tr>
 <tr><td>17:30</td><td><a class="talk"></a></td><td><a href="../programm/andre-niemann-ruckzuck-aufgesetzte-testumgebungen-fuer-sensu">Ruckzuck&nbsp;aufgesetzte&nbsp;Testumgebungen&nbsp;für&nbsp;Sensu</a></td><td>André&nbsp;Niemann</td></tr>
 <tr><td>&nbsp;</td></tr>
