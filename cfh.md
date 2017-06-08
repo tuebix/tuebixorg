@@ -2,7 +2,7 @@
 layout: page
 title: Call for Helpers
 permalink: /callforhelpers/
-weight:
+weight: 20
 menu:
 ---
 
