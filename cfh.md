@@ -84,5 +84,5 @@ O Raumsupport W3<br/>
 ## So kann jeder helfen
 
 - Bitte bringt nicht nur 20er-Scheine mit, damit wir nicht ins Wechselgeld-Dilemma kommen: je mehr Euro-Münzen und je weniger Scheine Du dabei hast, desto besser.
-- Hilf Müll zu vermeiden bzw. gleich wegzuräumen, damit wir die Räumlichkeiten vielleicht 2017 wieder nutzen können.
+- Hilf Müll zu vermeiden bzw. gleich wegzuräumen, damit wir die Räumlichkeiten auch in Zukunft nutzen dürfen.
 - Sei präsent: wenn es an irgendeiner Stelle Handlungsbedarf gibt, dann handle im Sinne der Veranstaltung!
