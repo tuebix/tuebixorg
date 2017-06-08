@@ -4,7 +4,7 @@ title: Call for Papers
 permalink: /callforpapers/
 emailcfp: cfp@tuebix.org
 weight:
-menu: main
+menu: 
 ---
 
 
