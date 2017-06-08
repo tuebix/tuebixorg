@@ -1,0 +1,1096 @@
+﻿<?xml version="1.0"?>
+<schedule>
+  <conference>
+    <title>TUEBIX 2017</title>
+    <city>T&#x26;#xFC;bingen</city>
+    <start>2016-06-24</start>
+    <end>2016-06-24</end>
+    <days>1</days>
+    <release>1.20170608.1400</release>
+    <timeslot_duration>00:30</timeslot_duration>
+  </conference>
+  <day date="2016-06-24" index="1">
+  <room name="V1">
+<event id="axel-beckert-was-gibts-neues-in-debian-9-stretch">
+<start>11:00</start>
+<duration>01:00</duration>
+<room>V1</room>
+<title>Was gibt's Neues in Debian 9 Stretch?</title>
+<type>talk</type>
+<description>Axel Beckert
+
+Das neue Debian-Release bringt nicht nur viele neue Pakete sondern auch einige Neuerungen bei der Infrastruktur, z.B. automatisch erstellte Pakete mit Debug-Symbolen, GNU Screen verfügbar im Debian-Installer, etc. 
+
+### Vorwissen
+
+Schonmal ein Debian oder Debian-Derivat benutzt zu haben, ist vermutlich hilfreich.
+
+### Über mich
+
+Debian-Entwickler, arbeitet als Netzwerksicherheitsspezialist und Linux-Systemadministrator an der ETH Zürich.
+
+</description>
+<links>
+
+- <link href="https://noone.org/talks/whats-new-in-debian/" >Folien</link>
+</links>
+<persons></persons>
+</event>
+<event id="christian-brauner-surviving-open-source">
+<start>14:00</start>
+<duration>01:00</duration>
+<room>V1</room>
+<title>Surviving Open Source</title>
+<type>talk</type>
+<description>Christian Brauner
+
+Open source has become the leading model of software development in recent years. Nonetheless, navigating the depths of large-scale open source projects can be really challening. This talk will try to provide some pointed on how to maintain a large-scale open source projects. Especially how to handle conflicts, performing code-reviews in the open, dealing with code rejection, writing public specs and collaborating with a diverse group of people of different backgrounds.
+
+### Über mich
+
+This guy.
+
+</description>
+<persons></persons>
+</event>
+<event id="christian-rost-ambilight-mit-raspberry-pi-hyperion-und-ubuntu">
+<start>13:00</start>
+<duration>01:00</duration>
+<room>V1</room>
+<title>Ambilight mit Raspberry Pi/Hyperion und Ubuntu</title>
+<type>talk</type>
+<description>Christian Rost
+
+Philips hat mit Ambilight eine Technologie patentieren lassen, die das Fernsehbild für den Zuschauer optisch größer erscheinen lässt. Da aber nicht jeder einen Philips-Fernseher kaufen möchte, nur um Ambilight nutzen zu können, nahmen sich mehrere OpenSource-Projekte der Thematik an und schufen eine Möglichkeit, sich diese Technologie selbst nachbauen und so den eigenen Fernseher damit ausrüsten zu können. Im Gegensatz zu Philips Ambilight kann nicht nur das Fernsehbild optisch vergrößert werden, sondern die LEDs auch unabhängig vom Fernsehbild geschaltet werden. Dies ermöglicht nun die unterschiedlichsten Einsatzmöglichkeiten im ganzen Haus. Dieser Vortrag zeigt, wie auf Basis des neuen Raspberry Pi 2, ein bisschen Zeit und der nötigen Hardware ein eigenes Ambilight gebaut werden kann.
+
+### Über mich
+
+Christian Rost ist seit 2012 für die B1 Systems GmbH als Linux Consultant tätig. Seine Tatigkeitsschwerpunkte sind ownCloud, Cluster und Storage (Netapp). Abseits der beruflichen Projekte muss der ein oder andere  Raspberry Pi für verschiedenste Aufgaben herhalten. 
+
+</description>
+<persons></persons>
+</event>
+<event id="dominik-brodowski-my-own-my-precious-oder-sind-passwoerter-gegenueber-strafverfolgern-geheim">
+<start>10:00</start>
+<duration>01:00</duration>
+<room>V1</room>
+<title>My own, my precious? Oder: Sind Passwörter gegenüber Strafverfolgern geheim?</title>
+<type>talk</type>
+<description>Dominik Brodowski
+
+Verschlüsselte Datenträger und verschlüsselte Kommunikation stellen Strafverfolger vor erhebliche praktische Schwierigkeiten; in der politischen Diskussion ist von einem "going dark" die Rede. In diesem Beitrag werde ich darstellen, unter welchen Voraussetzungen man von deutschen Strafverfolgungsbehörden dazu verpflichtet werden kann, seine Passwörter zu nennen, Private Keys auszuhändigen oder Daten zu entschlüsseln - und wann man verpflichtet werden kann, ein Smartphone oder einen Laptop mittels seines Fingerabdrucks zu entsperren.
+
+### Über mich
+
+Volljurist; Promotion über technische Überwachungsmaßnahmen im Polizei- und Strafverfahrensrecht; Habilitand im Strafrecht; Dozent im Studiengang "Digitale Forensik"; kernel hacker
+
+</description>
+<persons></persons>
+</event>
+<event id="gerik-huland-tagesabschluss-warum-brennt-die-milch-an">
+<start>18:15</start>
+<duration>01:00</duration>
+<room>V1</room>
+<title>Warum brennt die Milch an? Eine kleine Einführung in die Physik des Kochens</title>
+<type>talk</type>
+<description>Gerik Huland
+
+Der Vortrag richtet sich an alle, die verstehen wollen, was genau beim Kochen passiert, und wie man verhindert, dass die Milch anbrennt.
+
+### Über mich
+
+Linux Sysadmin mit einer Vorliebe fürs Kochen und Backen.
+
+</description>
+<persons></persons>
+</event>
+<event id="harald-koenig-es-muss-mal-wieder-shell-sein">
+<start>17:00</start>
+<duration>01:00</duration>
+<room>V1</room>
+<title>Es muss mal wieder SHELL sein</title>
+<type>talk</type>
+<description>Harald König
+
+Im Vortrag wird «interaktiv» ganz langsam und in kleinen Schritten ein Shell-Skript entwickelt – um zu demonstrieren, wie einfach das mit ein wenig Übung sein kann (und wie nützlich zum Schluss!). Mit der Shell (bash) und einer kleinen Zahl hilfreicher Kommandozeilen-Tools kann man sehr schön Daten bearbeiten, umwandeln, verarbeiten und auswerten. Einmal erlernt und geübt ist dies ein praktisches und mächtiges Werkzeug in UNIX, welches durch die grafischen Oberflächen vielfach zu Unrecht immer mehr in Vergessenheit gerät.  mögliche Themen  (sehr gerne neue Vorab Ideen per email einsenden an koenig@linux.de !!)
+* Canon RAW Bilder von einer CFCARD retten/undeleten – mit SHELL und dd
+* Zahlenspielereien mit dem Kalender: welcher Wandkalender passt dieses/nächstes Jahr?
+* andere Ideen? her damit! 
+
+### Vorwissen
+
+Auf der Kommandozeile tippen können (oder zumind. wollen;-)
+
+### Über mich
+
+Physik-Studium in Tübingen, Rechner und DCF77 seit ~1980, (La)TeX seit 1986, UNIX seit ~1987, Linux seit 1992 (0.98.4), XFree86-Treiber fuer S3 von ~1993-2001. Von 2001 bis 2014 bei der science+computing ag in Tuebingen (heute Atos) als SW-Entwickler. Seit 2014 nun bei Bosch Sensortec GmbH in Kusterdingen/Reutlingen als "System Expert" fuer Linux und Android (Treiber).
+
+</description>
+<persons></persons>
+</event>
+<event id="mario-lorenz-sdr-empfang-quer-durchs-sonnensystem">
+<start>12:00</start>
+<duration>01:00</duration>
+<room>V1</room>
+<title>SDR-Empfang - Quer durchs Sonnensystem</title>
+<type>talk</type>
+<description>Mario Lorenz
+
+Software-Defined-Radio, einmal anders. SDRs sind bei vielen Linux-Tagen vorgestellt worden, die "Standardlösung" ist  hier GnuRadio mit RTL-SDRs zum Rundfunk-Empfang. Ich möchte das Pothos-SDR-Framework vorstellen, am Beispiel des Empfangs von NASA-Raumsonden.
+
+### Vorwissen
+
+Keins. Naja, vieleicht dass sich die Erde um die Sonne dreht...
+
+### Über mich
+
+Ich bin Funkamateur und bei der AMSAT-Deutschland e.V. ehrenamtlich tätig
+
+</description>
+<links>
+
+- <link href="http://www.amsat-dl.org" >AMSAT Deutschland</link>
+</links>
+<persons></persons>
+</event>
+<event id="michael-roppel-gimp-grundlagen-live-demo">
+<start>16:00</start>
+<duration>01:00</duration>
+<room>V1</room>
+<title>GIMP Grundlagen - Live Demo</title>
+<type>talk</type>
+<description>Michael Roppel
+
+Der Vortrag ist für Neulinge und jene gedacht, die schon mal in GIMP reingeschnuppert haben ohne sich in die Möglichkeiten weiter zu vertiefen. Hier werden grundsätzliche Techniken der Bildbearbeitung als Live-Demo gezeigt. Zum Nachlesen gibt es ein Tutorial, in dem die Beispiele aus der Präsentation nachgelesen, die Bilder herunter geladen und nachbearbeitet werden können. Erklärt werden unter anderem: Arbeiten mit mehreren Ebenen, Histogramm, Afhellen, Abdunkeln, Schärfen, Orton-Effekt, Farbmanipulation, Überblenden, Freistellen, Farbverläufe, Trapezkorrektur, Klonen.
+
+### Über mich
+
+Ich bin seit einigen Jahren im Vorstand der Linux User Group Augsburg (LUGA) e.V. tätig und beschäftige mich seit 2008 intensiver mit der Bildbearbeitung per GIMP. 
+
+</description>
+<persons></persons>
+</event>
+<event id="olaf-flebbe-datenanalyse-einer-solaranlage-mit-python">
+<start>15:00</start>
+<duration>01:00</duration>
+<room>V1</room>
+<title>Datenanalyse einer Solaranlage mit python</title>
+<type>talk</type>
+<description>Olaf Flebbe
+
+Mit einem crosscompilierten freien Software-Fund aus dem Internet betreibe ich einen Datenlogger an einer Synology Diskstation. Seit 1,5 Jahren sammle ich Daten der Steuerung "Technische Alternative" meiner thermischen Solaranlage. Ich stelle vor wie man die Daten in Form von Zeitreihen mit der "Anaconda Python" Distribution bereinigen, aufbereiten, auswerten und visualisieren kann: Dazu gebe ich eine kleine Einführung in die Tools "Jupyter Notebook", "Pandas", "matplotlib", "bokeh".
+
+### Vorwissen
+
+Interesse an Datenanalyse
+
+### Über mich
+
+Arbeite als Software Architekt, 25+ Jahre Open Source Software, Member Apache Software Foundation
+</description>
+<persons></persons>
+</event>
+<event id="tuebix-exit">
+<start>18:00</start>
+<duration>00:15</duration>
+<room>V1</room>
+<title>TüBIX: exit</title>
+<type>talk2</type>
+<description>TüBIX Orga-Team
+
+* gemeinsamer Abschluss
+* Ausblick auf TüBIX 2018
+</description>
+<persons></persons>
+</event>
+<event id="tuebix-init">
+<start>09:30</start>
+<duration>00:15</duration>
+<room>V1</room>
+<title>TüBIX: init</title>
+<type>talk2</type>
+<description>TüBIX Orga-Team
+
+* Begrüßung
+* Infos zum Ablauf des Tages
+* Veränderungen zu TüBIX 2016
+* Änderungen in letzter Minute
+* Fragen?
+</description>
+<persons></persons>
+</event>
+</room>
+<room name="V2">
+</room>
+<room name="V3">
+<event id="andre-niemann-ruckzuck-aufgesetzte-testumgebungen-fuer-sensu">
+<start>17:30</start>
+<duration>00:30</duration>
+<room>V3</room>
+<title>Ruckzuck aufgesetzte Testumgebungen für Sensu</title>
+<type>talk</type>
+<description>André Niemann
+
+In diesem Vortrag wird eine virtuelle Laborumgebung zum Testen von Monitoringsoftware vorgestellt. Mit libvirt und Ansible wird eine freie, portable Testumgebung aufgesetzt um Sensu besser kennenzulernen. Dazu werden Dienste wie Nginx gestartet, die unter Last stehen und überwacht werden.
+
+### Vorwissen
+
+Monitoringkonzepte und Grundlagen zu Ansible und libvirt sind nützlich
+
+### Über mich
+
+André Niemann fing mit Linux als Hobby zu Zeiten an, als es noch gängig war, Textinstaller zu benutzen. Seit 2013 ist er neben seinem IT-Sicherheitsstudium als Linux-Systemengineer mit Fokus auf Systemsicherheit unterwegs und hält Fachvorträge bei Usergroups und Open-Source-Konferenzen. 
+
+</description>
+<links>
+
+- <link href="https://libvirt.org/" >libvirt</link>
+- <link href="https://sensuapp.org/" >Sensu</link>
+</links>
+<persons></persons>
+</event>
+<event id="cornelius-koelbel-machs-halt-besser-google-authenticator-reloaded">
+<start>14:35</start>
+<room>V3</room>
+<title>Mach's halt besser - Google Authenticator reloaded</title>
+<type>lightning</type>
+<description>Cornelius Kölbel
+
+Apps Developer aufgepasst. Ihr kennt den Google Authenticator? Ihr findet es hipp Euch mit einer TOTP App in Eurer Cloud einzuloggen. Dieser Talk beleuchtet aber die Unzulänglichkeiten des Google Authenticators und stellt gleichzeitig ein neues Rollout-Szenario in privacyIDEA vor, das die Sicherheitsprobleme des Google Authenticators hinter sich lässt.
+
+### Vorwissen
+
+Wer mindestens 45% des hier geschriebenen Inhalts verstanden hat, ist schonmal auf der sicheren Seite!
+
+### Über mich
+
+Cornelius arbeitet seit 23 Jahren produktiv mit Linux.  Seit 12 Jahren liegt sein Arbeitsschwerpunkt im Bereich Mehr-Faktor-Authentifizierung. Als Berater lernte er viele verschiedene Kundenanforderungen auch in heterogenen Netzwerken kennen und verstehen. Er plante und implementierte Public-Key-Infrastrukturen für Smartcard-Nutzung und beschäftigte sich als einer der Ersten mit der Interoperabilität des Aladdin eTokens zwischen Windows und Linux.   2006 initiierte er das erste Linux-basierte Einmal-Passwort-System auf Basis des Aladdin eToken-NG OTP. 2009 rief er als Produktmanager die OTP-Lösung LinOTP2 ins Leben. Im Jahr 2014 startete er das Projekt privacyIDEA, das eine unternehmenstaugliche Management-Lösung für verschiedene Arten von Authentifizierungsobjekten bereitstellt. Politisch steht er biometrischen Authentifizierungsverfahren kritisch gegenüber und hat deswegen immer beide Ohren am Markt, um die Sicherheit so benutzerfreundlich wie möglich zu gestalten.
+
+</description>
+<links>
+
+- <link href="https://netknights.it/das-problem-mit-dem-google-authenticator/" >Mein Rant über den Google Authenticator</link>
+- <link href="https://privacyidea.org" >Projektwebseite</link>
+</links>
+<persons></persons>
+</event>
+<event id="harald-koenig-in-5-jahren-mit-shell-skripten-zum-kernel-treiber-fuer-neue-hw">
+<start>12:00</start>
+<duration>01:00</duration>
+<room>V3</room>
+<title>In 5 Jahren mit Shell-Skripten zum Kernel-Treiber für neue HW</title>
+<type>talk</type>
+<description>Harald König
+
+In den letzten 5 Jahren habe ich bei der Bosch Sensortec GmbH Software und Kernel-Treiber für einen neuen und kürzlich angekündigten Chip für einen "interaktiven Laserprojektor" entwickelt.  Im Vortrag will ich zeigen, wie einfach Kommandozeilen-Tools ganz wesentliches Hilfsmittel bei vielen Aspekten der HW- und SW-Entwicklung waren und sind, auf dem Weg zu einem Treiber für Linux-/Android-Kernel oder Mikrokontroller.
+
+### Vorwissen
+
+EIn bissl Erfahrung mit Shell- und evtl. C-Programmierung ist hilfreich, aber nicht wirklich erforderlich, da ich ja nur ein paar Ideen für eigene Problemlösungen und Projekte vermitteln will...
+
+### Über mich
+
+Physik-Studium in Tübingen, Rechner und DCF77 seit ~1980, (La)TeX seit 1986, UNIX seit ~1987, Linux seit 1992 (0.98.4), XFree86-Treiber fuer S3 von ~1993-2001. Von 2001 bis 2014 bei der science+computing ag in Tuebingen (heute Atos) als SW-Entwickler. Seit 2014 nun bei Bosch Sensortec GmbH in Kusterdingen/Reutlingen als "System Expert" fuer Linux und Android (Treiber).
+
+</description>
+<links>
+
+- <link href="https://www.bosch-sensortec.com/bst/products/optical_microsystems/bml050" >BST Laserprojektor</link></links>
+<persons></persons>
+</event>
+<event id="johannes-schirm-luks-verschluesselung-in-der-praxis">
+<start>13:00</start>
+<duration>00:30</duration>
+<room>V3</room>
+<title>LUKS-Verschlüsselung in der Praxis</title>
+<type>talk</type>
+<description>Johannes Schirm
+
+Eines der Themen, die mich während meines Umstiegs auf Linux am meisten begeistert haben, ist die Datenträgerverschlüsselung unter Linux. In diesem Kurzvortrag möchte ich kompakt zusammenfassen, was ich über das Kernelmodul dm_crypt und den LUKS-Standard in Erfahrung bringen konnte. Nach einem kurzen theoretischen Teil folgt eine Demonstration, in der ich zeigen möchte, wie sich ein Datenträger mit wenigen Befehlen bombensicher verschlüsseln lässt. Dabei liegt der Fokus auf der ausführlichen Erklärung der Vorgänge, sodass jeder Zuhörer zu Hause gleich selbst mit dem Verschlüsseln loslegen kann. Im Anschluss geht es noch um einige Tricks, mit denen man gegen einen kleinen Teil der gewonnenen Sicherheit bei Bedarf die Alltagstauglichkeit erhöhen kann. Dabei wird ein zweiter Datenträger als Schlüsseldatenträger verwendet und es wird ein kurzer Blick auf das udev-System für die einfache und sichere Automatisierung geworfen.
+
+### Vorwissen
+
+Außer einer groben Vorstellung von Dateisystemen, Partitionierung und Geräten unter Linux dürfte kein spezielles Vorwissen nötig sein, da ich durch den theoretischen Teil und die Demonstration ein möglichst klares Bild der Vorgänge auf praktischer Ebene vermitteln möchte.
+
+### Über mich
+
+Ich bin Student der Medien- und Kommunikationsinformatik in Reutlingen und arbeite gerade an meiner Bachelorthesis. Seit Anfang 2016 interessiere ich mich seit meines Umstiegs auf Linux sehr für das Themengebiet freier und quelloffener Software und durfte schon eine Menge interessanter Dinge lernen. Das Finden von alltagstauglichen und eleganten IT-Lösungen ist neben dem Klavierspielen, Filme Produzieren und Videospiele Spielen Teil meiner Freizeit.
+
+</description>
+<links>
+
+- <link href="https://linux.die.net/man/8/cryptsetup" >Manpage zu Cryptsetup</link>
+- <link href="https://wiki.ubuntuusers.de/udev/#Beispiele-fuer-eigene-Regeln" >Einige Szenarien für Automatisierung mit dem udev-System</link>
+- <link href="https://de.wikipedia.org/wiki/Device_Mapper" >Übersicht zum Mappen von Geräten unter Linux</link>
+- <link href="http://www.linux-community.de/Internal/Artikel/Print-Artikel/LinuxUser/2009/02/USB-Sticks-verschluesseln" >Einfacher Weg zum verschlüsselten Datenträger</link></links>
+<persons></persons>
+</event>
+<event id="josef-plendl-image-scanner-fuer-docker">
+<start>14:20</start>
+<room>V3</room>
+<title>Image-Scanner für Docker</title>
+<type>lightning</type>
+<description>Josef Plendl
+
+Im Vortrag soll ein kurzer Überblick über meine Bachelorarbeit gegeben werden. Was Image-Scanner sind und wieso ihr Einsatz so sinnvoll ist, soll in diesem Lightning Talk geklärt weden.
+
+### Vorwissen
+
+Die grundlegende Funktionsweise von Virtualisierung und Docker im Speziellen ist hilfreich.
+
+### Über mich
+
+Als dualer Student der Informatik (Fachrichtung Informationstechnik) bei ATOS in Tübingen (vormals science + computing) beschäftige ich mich im Rahmen meiner Bachelorarbeit mit dem Thema der statischen Sicherheitsanalyse von Images für virtualisierte Umgebungen.
+
+</description>
+<persons></persons>
+</event>
+<event id="justin-humm-web-1.0-fuer-hipster">
+<start>16:00</start>
+<duration>01:00</duration>
+<room>V3</room>
+<title>Web 1.0 für Hipster</title>
+<type>talk</type>
+<description>Justin Humm
+
+An dem Beispiel einer Bloginfrastruktur zeige ich ein paar Konzepte, die den Umgang mit dem Web sehr simpel, nachhaltig und überschaubar machen. Hier geht es nicht um Javas +cript oder Flash, sondern HTML und CSS und vor allem um den schmerzfreien Weg dorthin.
+
+### Vorwissen
+
+Grundsätzliches Verständis der Motivation von Simplizität und Dezentralität.
+
+### Über mich
+
+Interessiert an Technologie an Gesellschaft. Bewege mich seit einigen Jahren zwischen Netzpolitik, Softwareentwicklung und Medienkunst.
+
+</description>
+<links>
+
+- <link href="http://erictapen.de" >Mein Blog</link>
+</links>
+<persons></persons>
+</event>
+<event id="klaus-knopper-knoppix-fuer-raspberry-pi-mit-dem-yocto-framework">
+<start>14:30</start>
+<room>V3</room>
+<title>Knoppix für Raspberry Pi mit dem YOCTO Framework</title>
+<type>lightning</type>
+<description>Klaus Knopper
+
+Knoppix (http://knopper.net/knoppix/) ist als Live-System mit automatischer Hardware-Erkennung für Desktop-Rechner und Notebooks konzipiert. ARM-basierte Minicomputer und Embedded Systeme stellen aufgrund der architekturbedingt mangelnden Hardware-Erkennungsmöglichkeit einerseits eine Herausforderung für Live-Systeme dar, andererseits ist Knoppix bereits für den Start und Betrieb von Flash-Speicher optimiert, und einige der Konzepte von Knoppix lassen sich teilweise performance-steigernd für das beliebte Raspberry Pi Board übertragen. Ein kompletter "Neustart" ist Knoppix auf Basis von Yocto, ein Framework für die Erstellung von Embedded Linux Systemen. 
+
+### Vorwissen
+
+Grundkenntnisse zu GNU/Linux auf Anwender- und Administratorebene (aber nicht notwendigerweise bezogen auf Raspberry Pi).  
+
+### Über mich
+
+Klaus Knopper ist Software-Entwickler, Ingenieur und Professor im Fachbereich Betriebswirtschaft an der Hochschule Kaiserslautern, Standort Zweibrücken, im Studiengang Information Management
+
+</description>
+<links>
+
+- <link href="http://knopper.net/tuebix/" >Knoppix für Radpberry Pi basierend auf Yocto</link></links>
+<persons></persons>
+</event>
+<event id="matthias-beyer-julian-ganz-git-dit-distributed-issue-tracking-mit-git">
+<start>16:30</start>
+<duration>01:00</duration>
+<room>V3</room>
+<title>git-dit - Distributed Issue Tracking mit git</title>
+<type>talk</type>
+<description>Matthias Beyer, Julian Ganz
+
+Es gibt einige Issue Tracker welche "Distributed" Arbeiten, aber keiner macht es richtig. Wir zeigen unser Semesterprojekt: Ein Distributed Issue Tracker für/mit git.  In einem Semesterprojekt in unserem ersten Mastersemester haben wir einen Distributed Issue Tracker für/mit git realisiert, welcher damals als Proof-Of-Concept in Bash implementiert wurde. Aktuell sind wir im "rewrite" - in Rust. Wir stellen vor, warum unser Ansatz der einzig wahre ist und wie unser Issue-Tracking System funktioniert, was die ausstehenden Probleme sind, die es zu lösen gilt, und wie man ihn schon heute einsetzen kann.
+
+### Vorwissen
+
+Grundlegendes Verständnis wie git funktioniert (Was sind Branches, was sind Commits, was sind "Objekte", "Trees", "Refs") - kein Tiefenwissen!
+
+### Über mich
+
+Wir sind zwei Informatik-Master-Studenten der Hochschule Furtwangen.
+
+</description>
+<links>
+
+- <link href="https://github.com/neithernut/git-dit/" >git-dit - github projekt</link>
+</links>
+<persons></persons>
+</event>
+<event id="peter-hrenka-sauberes-c++-mit-clang-tidy">
+<start>10:00</start>
+<duration>01:00</duration>
+<room>V3</room>
+<title>Sauberes C++ mit clang-tidy</title>
+<type>talk</type>
+<description>Peter Hrenka
+
+C++ ist wieder eine lebendige Sprache geworden. Neue Standards werden in einem atemberaubenden Tempo verabschiedet. Da können alte Code-Basen oft nicht mehr mithalten. Das Tool clan-tidy kann:
+- den Code auf neuere Sprachstandards anpassen 
+- auf die Einhaltung der CERT Regeln für sicheres Programmieren überprüfen 
+- Coding Conventions überprüfen 
+- eigene Überprüfungen mit automatischer Korrektur implementieren 
+
+### Vorwissen
+
+C++ Grundkenntnisse
+
+### Über mich
+
+Ich entwickle Software, am liebsten mit Linux, C++ und Python. 
+
+</description>
+<links>
+
+- <link href="http://clang.llvm.org/extra/clang-tidy/index.html" >clang tidy</link>
+</links>
+<persons></persons>
+</event>
+<event id="raphael-groner-testgetriebene-entwicklung-sprachbasierter-applikationen">
+<start>17:00</start>
+<duration>01:00</duration>
+<room>V3</room>
+<title>Testgetriebene Entwicklung sprachbasierter Applikationen</title>
+<type>talk</type>
+<description>Raphael Groner
+
+In dieser Präsentation soll unser Ansatz aufgezeigt werden, der auf den bestehenden Standards aufsetzt und sich gut in aktuelle Entwicklungsumgebungen integrieren lässt. Er bietet eine pragmatische Einbettung und zielt auf ein JUnit-artiges Framework für VoiceXML. Das Framework wurde mit Hilfe des Open Source Voice Browsers JVoiceXML prototypisch implementiert und ist selbst als Open Source verfügbar. Es bietet eine solide Basis, um testgetriebene Entwicklung von sprachbasierten Applikationen überhaupt zu ermöglichen. Es ist also möglich, damit auf JUnit basierende Testfälle zu schreiben.
+
+### Vorwissen
+
+eigentlich keine, wünschenswert sind Basiskenntnisse in Java und XML
+
+### Über mich
+
+Raphael Groner (E-Mail: voice-mediator@email.de) hat einen Studiumsabschluss als Bachelor of Science in Produktionsmanagement (Wirtschaftsingenieur), den er an der Hochschule Reutlingen erworben hat, in Kooperation mit der TU Darmstadt als Auftraggeber für die Entwicklung eines Frameworks zur Testautomatisierung bei sprachbasierten Applikationen. Er hat eine Zertifizierung zum Software-Tester vom ISTQB® mit Foundation Level erhalten und bereits Berufserfahrung im Testen von Software. Zudem ist er ausgebildeter Fachinformatiker (IHK) - Anwendungsentwicklung und hat einige Jahre Berufserfahrung als Entwickler. Seine Interessen liegen verstärkt in den Bereichen Softwareentwicklung generell und besonders bei der Testautomatisierung im Rahmen von DevOps, zu denen er seine Bachelor-Arbeit mit den Schwerpunkten auf Komponenten- und Integrationstest verfasst hat. Momentan arbeitet er bei der DAASI International GmbH als Solutions Engineer für Identity Management Systeme und in seiner Freizeit an der Weiterentwicklung seines Prototypen für automatisiertes Testen von sprachbasierten und multimodalen Applikationen auf textueller Basis. Dabei legt er großen Wert auf den Einsatz von Open Source und engagiert sich verstärkt in diversen Projekten.  http://www.xing.de/profile/Raphael_Groner
+
+</description>
+<links>
+
+- <link href="https://github.com/JVoiceXML" >GitHub JVoiceXML</link></links>
+<persons></persons>
+</event>
+<event id="stefan-jakoby-container-anomaly-detection">
+<start>14:25</start>
+<room>V3</room>
+<title>Container Anomaly Detection</title>
+<type>lightning</type>
+<description>Stefan Jakoby
+
+Heutzutage gibt es bereits dutzende Möglichkeiten, Linux-Systeme zu überwachen. Sei es das eigene System, der Rechner eines Bekannten, ein komplettes Firmennetzwerk oder auch ein "Schwarm" von Containern. Die meisten dieser Verfahren benötigen allerdings einen Agent auf dem zu überwachenden System, um dessen Verhalten analysieren zu können. In diesem Lightning Talk soll auf Grundlage der Bachelorarbeit eine Möglichkeit zur Erkennung von Anomalien innerhalb von Containern vorgestellt werden, bei welcher die zuvor genannte Implementierung eines Agents nicht von Nöten ist.
+
+### Vorwissen
+
+Allgemeines Verständnis über Containerisierung und Linux-Systemarchitektur (in Bezug auf System Calls).
+
+### Über mich
+
+Stefan Jakoby studiert Informatik (Computer Networking) an der HS Furtwangen. Momentan verfasst er in Kooperation mit der science &#x26; computing ag seine Bachelorarbeit über die Thematik der Erkennung von Anomalien innerhalb von Containern.
+
+</description>
+<links>
+
+- <link href="https://sysdig.com/" >Sysdig Monitor</link>
+- <link href="http://www.sysdig.org/" >Sysdig</link>
+- <link href="http://www.sysdig.org/falco/" >Sysdig Falco</link></links>
+<persons></persons>
+</event>
+<event id="stefan-tzeggai-postgresql-tipps-fuer-schnelle-ergebnisse">
+<start>11:00</start>
+<duration>01:00</duration>
+<room>V3</room>
+<title>PostgreSQL Tipps für schnelle Ergebnisse</title>
+<type>talk</type>
+<description>Stefan Tzeggai
+
+Beginnend mit "apt install postgresql" wird ein PostgreSQL 9.6 live aufgesetzt und dann einige Techniken zum effizienten Abfragen größerer Datenmengen vorgestellt. Den Zuhörern soll ein Gefühl dafür vermittelt werden, wie man problematische DB-Abfragen erkennen, vermeiden und meistens deutlich beschleunigen kann.
+
+### Vorwissen
+
+Der Vortrag wir den Zuhörern am meisten bringen, die schonmal eine Datenbank aufgesetzt oder betrieben haben oder das vorhaben.
+
+### Über mich
+
+Linux und OpenSource begeistern mich seit 15 Jahren. Leidenschaftlicher Java Programmierer und PostgreSQL-Administator.
+
+</description>
+<persons></persons>
+</event>
+<event id="thomas-zimmermann-system-transaktionen-mit-picotm">
+<start>15:00</start>
+<duration>01:00</duration>
+<room>V3</room>
+<title>System-Transaktionen mit picotm</title>
+<type>talk</type>
+<description>Thomas Zimmermann
+
+Picotm ist ein Transaktions-Manager für System-Programme in C. Mit picotm lassen sich Transaktionen in C-Programmen implementieren. Im Vortrag werden typische Probleme bei Fehlerbehandlung und verteilten Programmen besprochen. Dann wird gezeigt, wie man diese Probleme mit Transaktionen löst. Anschließend werden verschiedene Features von picotm besprochen, z.B. Transaktionaler Speicher, String- und Memory-Funktionen der C Standard Library, Errno, File-Descriptor I/O, u.a.
+
+### Vorwissen
+
+Besucher sollten etwas C beherrschen und eventuell schon mal die Unix-API gesehen haben. Datenbank-Grundlagen sind auch nicht verkehrt.
+
+### Über mich
+
+Ich bin Software-Entwickler, FOSS-Anhänger, Ex-Mozillianer und Maintainer von picotm.
+
+</description>
+<links>
+
+- <link href="http://transactionblog.org/" >Mein Blog mit Beiträgen zum Thema </link>
+- <link href="http://picotm.org/" >picotm Website</link></links>
+<persons></persons>
+</event>
+</room>
+<room name="V4">
+<event id="adrian-reber-xonotic-all-around-the-world">
+<start>10:30</start>
+<duration>01:00</duration>
+<room>V4</room>
+<title>Xonotic All Around The World</title>
+<type>talk</type>
+<description>Adrian Reber
+
+Mit Hilfe von CRIU (Checkpoint/Restore In Userspace) wird ein xonotic (First Person Shooter) Server in einem runC Container live um die Welt migriert während der lokale Client mit dem Server verbunden bleibt. Neben der eigentlichen Demonstration der Migration wird auf verschiedene Details von CRIU und nötigen Optimierungen für die Migration über solche Entfernungen eingegangen. Dieser Vortrag ist die Fortsetzungen des letztjährigen Vortrags (Container Migration using CRIU and LXC).
+
+### Über mich
+
+Software Entwickler bei Red Hat
+
+</description>
+<links>
+
+- <link href="https://runc.io/" >runC</link>
+- <link href="https://criu.org/" >CRIU</link>
+- <link href="http://www.xonotic.org/" >Xonotic</link></links>
+<persons></persons>
+</event>
+<event id="christian-brauner-lxd">
+<start>12:00</start>
+<duration>01:00</duration>
+<room>V4</room>
+<title>LXD</title>
+<type>talk</type>
+<description>Christian Brauner
+
+LXD is a container management tool built on top of LXC and offering a REST API to manage and interact with multiple container hosts over the network.  This talk will go over the main features of LXD, a pretty thorough demonstration of its abilities, a run through the work currently being done and end with questions.  LXD is a project which began a bit over a year ago, by the same team who built LXC.  It's building on top of the very stable LXC library and adds a whole network layer to it through a simple and clean REST API.  It's user experience was rethought from the ground up, favoring security and reliability, using every single kernel security feature available to provide a safe, yet extremely fast environment. Reliability is achieved through extended error handling and the use of container images in place of locally built container templates.  LXD focuses on infrastructure containers, that is, containers running a full Linux distribution exactly as you would in a virtual machine. It doesn't know about nor care about application containers (docker, rocket, ...). Those technologies are great to manage micro-services and are a good way to distribute software, as such they make a lot of sense, inside a LXD container.  More information on the LXD project can be found at: https://linuxcontainers.org/lxd The code may be found at: https://github.com/lxc/lxd And a fully feature, interactive demo of its capabilities here: https://linuxcontainers.org/lxd/try-it
+
+### Über mich
+
+LX{C,D} core dev. Also, this guy.
+
+</description>
+<links>
+
+- <link href="https://linuxcontainers.org/lxd/try-it" >https://linuxcontainers.org/lxd/try-it</link>
+- <link href="https://github.com/lxc/lxd" >https://github.com/lxc/lxd</link>
+- <link href="https://github.com/lxc/lxc" >https://github.com/lxc/lxc</link>
+- <link href="https://linuxcontainers.org" >https://linuxcontainers.org</link></links>
+<persons></persons>
+</event>
+<event id="daniel-kraft-backy2-open-source-virtual-machine-backup-fuer-ceph-und-lvm">
+<start>16:30</start>
+<duration>01:00</duration>
+<room>V4</room>
+<title>backy2: Open Source Virtual Machine Backup für Ceph und LVM</title>
+<type>talk</type>
+<description>Daniel Kraft
+
+Brauchen wir Backups? Welche Optionen gibt es und welche ist die beste für mich? Welche Backup-Variante sichert mich gegen welche Szenarien?  Backups schützen gegen Soft- und Hardwarefehler und gegen menschliches Versagen. Sie müssen volle Datenintegrität gewährleisten und ohne Beeinträchtigung der Performance - und ohne Ausfallzeiten - erstellt (und wiederhergestellt) werden können. Im Rechenzentrumsbetrieb müssen außerdem sogar mehrere parallele Restores oder Scrubs während der Backups funktionieren.  In diesem Vortrag demonstriere ich live die Open Source Backup Lösung backy2. Ich zeige, warum backy2 insbesondere im Zusammenspiel mit Ceph – aber auch für LVM basierte Storage – Features hat, die keine andere Backup-Lösung leistet.
+
+### Vorwissen
+
+Der Umgang mit der Konsole wird vorausgesetzt.
+
+### Über mich
+
+Ich bin Gründer und Geschäftsführer der D9T GmbH in Ulm. Dort entwickle und betreibe ich seit über 10 Jahren Lösungen für die Unternehmensdigitalisierung, sowie Websites, Shops und Intranets. Im Fokus stand und steht noch heute die Sicherheit, Stabilität und Integrität des Betriebs der Lösungen. Daher betreibt die D9T GmbH eigene Hardware in Rechenzentren in Deutschland. Neben Beruf und Familie bleibt manchmal noch genug Zeit fürs Motorradfahren und Analoge Synthesizer.
+
+</description>
+<links>
+
+- <link href="http://backy2.com/docs/" >backy2 Dokumentation</link>
+- <link href="https://github.com/wamdam/backy2" >backy2 Source Code (LGPLv3)</link>
+- <link href="http://backy2.com/" >backy2 Homepage</link>
+</links>
+<persons></persons>
+</event>
+<event id="felix-bauer-peekabooav">
+<start>13:00</start>
+<duration>01:00</duration>
+<room>V4</room>
+<title>PeekabooAV</title>
+<type>talk</type>
+<description>Felix Bauer
+
+Peekaboo ist ein Virenscanner, er bekommt E-Mail-Anhänge von Amavis, analyisert sie, gibt sie bei Bedarf zur Verhaltensanalyse an die CuckooSandbox, wertet vollautomatisch aus und stuft ein. So kann Peekaboo auch unbekannte Malware an ihrem Verhalten erkennen, das Ausnutzen von Zerodays detektieren und vor gezielten, versierten und unbekannten Angriffen schützen. Wir lernen wie dies funktioniert, was dafür nötig ist und wie es mit dem Projekt weiter gehen soll.
+
+### Vorwissen
+
+-
+
+### Über mich
+
+Ich bin Felix, IT-Security-Mensch, begeistert und fasziniert von Dingen und Anderem
+
+</description>
+<links>
+
+- <link href="https://github.com/scVENUS/PeekabooAV" >github/scVenus/PeekabooAV</link>
+- <link href="https://twitter.com/peekabooav" >@peekabooav</link></links>
+<persons></persons>
+</event>
+<event id="holger-gantikow-3d-vdi-unter-linux-konzepte-und-technologien-fuer-3d-beschleunigte-arbeitsplaetze">
+<start>14:00</start>
+<duration>01:00</duration>
+<room>V4</room>
+<title>3D-VDI unter Linux - Konzepte &#x26; Technologien für 3D-beschleunigte Arbeitsplaetze</title>
+<type>talk</type>
+<description>Holger Gantikow
+
+Arbeitnehmerüberlassung und die Erhöhung der Flexibilität von 3D-beschleunigten Arbeitsplätzen sind heute die Topthemen in den Entwicklungsabteilungen vieler Branchen. Einige Unternehmen sind mitten in der Einführung, andere stehen kurz davor, virtuelle 3D-Arbeitsplätze auf Linux-Basis zu etablieren.   Vorbei sind die Zeiten, in denen die Linux-Unterstützung lediglich aus Clients zum Zugriff auf Windows-Desktop bestand. Mit Citrix HDX 3D Pro, HP Remote Graphics, Nice DCV und VMware Horizon stehen inzwischen eine Vielzahl von Lösungen zur Verfügung, die auch den Zugriff auf performante Linux-Desktops leisten.  Zusätzlich wächst mit der NVIDIA Grid (vGPU) Technologie die Unterstützung für virtualisierte Infrastrukturen.  Der Vortrag gibt einen Einblick in die aktuellen Entwicklungen im Bereich Remote-Visualisierung für das Betriebssystem Linux und zeigt anhand von Praxisbeispielen und Erfahrungswerten, was mit dieser Technologie möglich ist.
+
+### Vorwissen
+
+Spezielles Vorwissen wird nicht vorausgesetzt, ein Interesse an Linux Desktops mit 3D-Unterstützung, vielleicht sogar virtualisiert oder Erfahrung mit Virtual Desktop Infrastructure (VDI) unter Windows kann nicht schaden ;)
+
+### Über mich
+
+Holger Gantikow hat an der Hochschule Furtwangen Informatik studiert und ist bei Atos (ehemals science + computing ag) in Tübingen als Senior Systems Engineer tätig. Dort beschäftigt er sich mit der Komplexität heterogener Systeme im  CAE-Berechnungsumfeld und betreut Kunden aus dem technisch-wissenschaftlichen Bereich.
+
+</description>
+<persons></persons>
+</event>
+<event id="holger-gantikow-containing-containers-oder-wie-laesst-sich-der-wal-baendigen">
+<start>11:00</start>
+<duration>01:00</duration>
+<room>V4</room>
+<title>Containing Containers? - oder "Wie laesst sich der Wal baendigen?"</title>
+<type>talk</type>
+<description>Holger Gantikow
+
+Der Vortrag gibt einen kurzen Überblick über Container auf Docker-Basis, den aktuellen Stand der Entwicklung und setzt den Fokus darauf, was sich hier im letzten Jahr im Hinblick auf Sicherheitsaspekte getan hat.  Container sind durch Docker in aller Munde und werden von vielen als "virtuelle Maschinen 2.0" gesehen, was nur bedingt berechtigt ist. So verbessern sie zwar Workflows um Paketierung und Weitergabe von Anwendungen signifikant und bieten darüber hinaus in vielen Fällen bessere Performance, sind aber unter Security-Aspekten als schwächer anzusehen.  Im Jahr 2016 hat eine starke Fokussierung auf den Securitybereich stattgefunden, welche diese Situation deutlich verbesserte. So stehen inzwischen Unterstützung für Phase 1 der User Namespaces, Seccomp Profiles und Authorization Plugins zur Verfügung - alles Technologien, die beim Einsatz von Containern den Admin ruhiger schlafen lassen.  Im Zuge des Vortrags werden diese Technologien kurz vorgestellt und dabei betrachtet, was zu beachten ist, um Container in eine verteilte Umgebung mit Sicherheitsanforderungen einzubinden.
+
+### Vorwissen
+
+Ein spezielles Vorwissen der Zuhörer wird nicht vorausgesetzt. Interesse an Virtualisierung, Containern und der gegebenen Problemstellung ist sicherlich von Vorteil, um eine rege Diskussion und Erfahrungsaustausch zu gewährleisten ;)
+
+### Über mich
+
+Holger Gantikow hat an der Hochschule Furtwangen Informatik studiert und ist bei Atos (ehemals science + computing ag) in Tübingen als Senior Systems Engineer tätig. Dort beschäftigt er sich mit der Komplexität heterogener Systeme im  CAE-Berechnungsumfeld und betreut Kunden aus dem technisch-wissenschaftlichen Bereich.
+
+</description>
+<persons></persons>
+</event>
+<event id="stefan-baur-thin-clients-big-irons-x2go-als-skalierbare-remote-desktop-loesung">
+<start>17:00</start>
+<duration>01:00</duration>
+<room>V4</room>
+<title>Thin Clients, Big Irons - X2Go als skalierbare Remote Desktop-Lösung</title>
+<type>talk</type>
+<description>Stefan Baur
+
+X2Go ist - unter anderem - eine freie (F/LOSS) Remote-Desktop-Lösung. Im Vortrag wird sowohl die Skalierbarkeit des Clients gezeigt – vom normalen PC über den ausgemusterten Windows-XP-PC bis hinunter zum Raspberry-Pi-Einplatinencomputer, als auch die Skalierbarkeit des Servers – vom Raspberry Pi über eine Serverfarm mit Loadbalancing bis hin zur IBM Power8-Architektur.
+
+### Über mich
+
+* Stefan Baur
+* Jahrgang 1977 
+* Vormals: über 10 Jahre bei einem Geldinstitut, Schwerpunkttätigkeit dort IT-Security &#x26; Virenschutz
+* Aktuell: "Der Mann mit den 4 Hüten" - X2Go-Projektmanager, X2Go Lead Evangelist, X2Go Event-Planer, Firmenchef der BAUR-ITCS UG (haftungsbeschränkt)
+
+</description>
+<links>
+
+- <link href="http://wiki.x2go.org/doku.php/doc:newtox2go" >New to X2Go? Start here!</link>
+- <link href="http://www.x2go.org/" >X2Go Homepage</link>
+</links>
+<persons></persons>
+</event>
+<event id="stefan-kremer-privatsphaere-braucht-sicherheit-wie-owncloud-beides-ermoeglicht">
+<start>15:00</start>
+<duration>01:00</duration>
+<room>V4</room>
+<title>Privatsphaere braucht Sicherheit - Wie ownCloud beides ermöglicht</title>
+<type>talk</type>
+<description>Stefan Kremer
+
+<a href="https://owncloud.org">ownCloud</a> ist von je her das Mittel der Wahl, wenn es um Datenhoheit und Schutz der Privatsphäre im Cloud FileShare und Sync geht. Ausgehend von den letzten Warnungen des BSI zeigen wir Möglichkeiten auf, um eine ownCloud Instanz <a href="https://scan.owncloud.com">sicher betreiben</a> zu können. 
+
+### Über mich
+
+Stefan Kremer, Chief Community Evangelist ownCloud
+
+</description>
+<links>
+
+- <link href="https://owncloud.org" >ownCloud Community</link>
+</links>
+<persons></persons>
+</event>
+<event id="stephan-tesch-icinga-2-the-art-of-monitoring">
+<start>10:00</start>
+<duration>01:00</duration>
+<room>V4</room>
+<title>Icinga 2 - The Art of Monitoring</title>
+<type>talk</type>
+<description>Stephan Tesch
+
+Icinga 2 ist eine komplette Neuentwicklung des bekannten Monitoring Systems Icinga (ein Fork von Nagios). Neben vielen tollen Features, die im Basis System mit drin sind wurden aber auch Zöpfe abgeschnitten, die der Nagios-Liebhaber vielleicht nicht missen möchte. Der Vortrag zeigt was es tolles in Icinga 2 gibt, wie man es einsetzen kann und wo derzeit (noch) Grenzen liegen.
+
+### Vorwissen
+
+Große Vorkenntnisse erwarte ich nicht, aber in die Details von wieso ich Monitoring benötige und was jetzt genau SNMP ist gehe ich nicht. Grundkenntnisse im Netz (was ist eine IP usw.) setze ich mal voraus. 
+
+</description>
+<links>
+
+- <link href="https://monitoring-portal.org" >Community Forum für Icinga (u.a.)</link>
+- <link href="https://www.icinga.com" >Offizielle Icinga Website</link>
+</links>
+<persons></persons>
+</event>
+<event id="vinzenz-rosenkranz-nextcloud">
+<start>16:00</start>
+<duration>01:00</duration>
+<room>V4</room>
+<title>Nextcloud</title>
+<type>talk</type>
+<description>Vinzenz Rosenkranz
+
+Übersicht über Nextcloud-Features und Erweiterungsmöglichkeiten
+
+### Über mich
+
+Nextcloud-Plugin-Entwickler, Software-Entwickler an der Uni Tübingen
+
+</description>
+<persons></persons>
+</event>
+</room>
+<room name="W1">
+<event id="klaus-knopper-3d-konstruktion-und-3d-druck-mit-openscad-und-slic3r-fuer-fortgeschrittene">
+<start>12:00</start>
+<duration>02:00</duration>
+<room>W1</room>
+<title>3D Konstruktion und 3D Druck mit OpenSCAD und Slic3r für Fortgeschrittene</title>
+<type>workshop</type>
+<description>Klaus Knopper
+
+Auch wenn man selbst noch keinen 3D-Drucker besitzt, kann es für kreative Menschen sehr interessant sein, Dinge am Computer selbst zu entwerfen. Leider reichen die eigenen Zeichenkünste oft nicht aus, um maßgenaue Modelle zu erstellen. OpenSCAD (http:/openscad.org/) ist ein "wenig-interaktives" 3D Konstruktions-Programm für druckbare 3D-Modelle, das dank einer einfach zu erlernende Programmiersprache selbst von zeichnerisch eher unbegabten Personen in kurzer Zeit gemeistert werden kann. Mit Slic3r (http://slic3r.org/) können die Ergebnisse dann in Gcode für verschiedene Drucker übersetzt werden. Wer an den Übungen im Workshop teilnehmen möchte, sollte ein eigenes Notebook mitbringen und nach Möglichket bereits OpenSCAD installieren, was unter http://openscad.org/ für verschiedene Betriebssysteme zum Download angeboten wird. Für Android ist mit der App "ScorchCad" eine minimale Version von OpenSCAD verfügbar.
+
+Der Kurs für Fortgeschrittene knüpft an den zuvor im gleichen Raum stattgefundenen Workshop an, und erweitert die Konstruktions-Kenntnisse um komplexe Funktionen wie lineare und Rotations-Extrusion, Hüllenfunktionen und Polygone. Weiterhin werden Tipps und Tricks zum Druck mit verschiedenen Masterialien vermittelt.
+
+### Vorwissen
+
+Kenntnis einer prozeduralen Programmiersprache (Basic, C, Java, Bash) ist hilfreich, aber nicht unbedingt erforderlich. 
+
+### Über mich
+
+Klaus Knopper ist Ingenieur, Software-Entwickler und Professor im Fachbereich Betriebswirtschaft, Studiengang Information Management an der Hochschule Kaiserslautern, Standort Zweibrücken
+
+</description>
+<links>
+
+- <link href="http://www.openscad.org" >openSCAD</link>
+- <link href="http://knopper.net/tuebix/" >Unterlagen zum Kurs</link>
+</links>
+<persons></persons>
+</event>
+<event id="klaus-knopper-3d-konstruktion-und-3d-druck-mit-openscad-und-slic3r">
+<start>10:00</start>
+<duration>02:00</duration>
+<room>W1</room>
+<title>3D Konstruktion und 3D Druck mit OpenSCAD und Slic3r</title>
+<type>workshop</type>
+<description>Klaus Knopper
+
+Auch wenn man selbst noch keinen 3D-Drucker besitzt, kann es für kreative Menschen sehr interessant sein, Dinge am Computer selbst zu entwerfen. Leider reichen die eigenen Zeichenkünste oft nicht aus, um maßgenaue Modelle zu erstellen. OpenSCAD (http:/openscad.org/) ist ein "wenig-interaktives" 3D Konstruktions-Programm für druckbare 3D-Modelle, das dank einer einfach zu erlernende Programmiersprache selbst von zeichnerisch eher unbegabten Personen in kurzer Zeit gemeistert werden kann. Mit Slic3r (http://slic3r.org/) können die Ergebnisse dann in Gcode für verschiedene Drucker übersetzt werden. Wer an den Übungen im Workshop teilnehmen möchte, sollte ein eigenes Notebook mitbringen und nach Möglichket bereits OpenSCAD installieren, was unter http://openscad.org/ für verschiedene Betriebssysteme zum Download angeboten wird. Für Android ist mit der App "ScorchCad" eine minimale Version von OpenSCAD verfügbar. 
+
+### Vorwissen
+
+Kenntnis einer prozeduralen Programmiersprache (Basic, C, Java, Bash) ist hilfreich, aber nicht unbedingt erforderlich. 
+
+### Über mich
+
+Klaus Knopper ist Ingenieur, Software-Entwickler und Professor im Fachbereich Betriebswirtschaft, Studiengang Information Management an der Hochschule Kaiserslautern, Standort Zweibrücken
+
+</description>
+<links>
+
+- <link href="http://www.openscad.org" >openSCAD</link>
+- <link href="http://knopper.net/tuebix/" >Unterlagen zum Kurs</link></links>
+<persons></persons>
+</event>
+<event id="mark-schmidt-gentoo-installparty">
+<start>16:00</start>
+<duration>02:00</duration>
+<room>W1</room>
+<title>Gentoo Installparty</title>
+<type>workshop</type>
+<description>Mark Schmidt
+
+Gentoo ist eine eine Linux-Distribution, die sich an erfahrenere Linux-Benutzer richtet und diesen sehr viele Freiheiten bietet. Dies beginnt bei der verwendeten Software, Diensten und endet beim Init-System und einem eigenen Kernel. Um dies zu erreichen nutzt Gentoo ein spezielles Paketverwaltungssystem namens “portage”, das die Pakete nach Benutzerwünschen auf dem jeweiligen System kompiliert. In diesem Workshop wird kurz auf die Gentoo-Philosophie, die Benutzung von Portage und die Grundinstallation eingegangen.
+
+### Vorwissen
+
+Linux-Grundlagen ;)
+
+</description>
+<links>
+
+- <link href="https://wiki.gentoo.org/wiki/Handbook:AMD64" >Gentoo-Handbook</link>
+- <link href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage" >Portage</link>
+- <link href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About" >Gentoo-Installation</link>
+- <link href="https://wiki.gentoo.org/wiki/Main_Page" >Gentoo Wiki</link></links>
+<persons></persons>
+</event>
+<event id="matthias-windrich-tiddlywiki-das-hosentaschenwiki">
+<start>14:00</start>
+<duration>02:00</duration>
+<room>W1</room>
+<title>TiddlyWiki das Hosentaschenwiki</title>
+<type>workshop</type>
+<description>Matthias Windrich
+
+Nach einer kurzen Vorstellung der Besonderheiten von TiddlyWiki, legt sich jeder sein eigenes TiddlyWiki an und lernt spielerisch die Funktionsweise kennen. TiddlyWiki ist ein einzigartiges nicht-lineares Web-Notizbuch, das einem hilft Ideen zu sammeln, zu strukturieren und weiter zu geben. Anders als bei herkömmlichen Online-Diensten, lässt TiddlyWiki einem die Freiheit, seine Daten zu speichern wo man möchte. Da TiddlyWiki alle Daten als simplen Text speichert, sind Notizen, die Sie heute machen, garantiert in Jahrzehnten noch einfach lesbar.
+
+### Vorwissen
+
+Es reicht aus einen Browser bedienen zu können. Bitte einen Laptop, vorzugsweise mit Firefox als Browser, mitbringen. Optional nodejs vorinstallieren.
+
+### Über mich
+
+Ich bin System Engineer bei der science + computing ag
+
+</description>
+<links>
+
+- <link href="http://tiddlywiki.com" >TiddlyWiki</link>
+- <link href="http://tiddlywiki.com/languages/de-AT/" >TiddlyWiki (deutsch)</link>
+</links>
+<persons></persons>
+</event>
+</room>
+<room name="W2">
+<event id="philipp-kammerer-basic-latex-fuer-einsteiger">
+<start>16:00</start>
+<duration>02:00</duration>
+<room>W2</room>
+<title>Basic LaTeX für Einsteiger</title>
+<type>workshop</type>
+<description>Philipp Kammerer
+
+LaTeX Distribution texlive unter Linux installieren, ein einfaches Eingabefile aufbauen und wichtige Kommandos zur Textformatierung und Gestaltung um am Ende einen kleinen Bericht zu erhalten. Der Workshop soll die Grundlage dafür schaffen auch selbst mal einen Fehler zu finden und das passende Paket zu installieren.
+
+### Vorwissen
+
+Teilnehmer sollen einen Texteditor bedienen und Pakete installieren können.
+
+### Über mich
+
+Linux User seit 2005, unterwegs auf der Kommandozeile. Bei B1 seit 2015 in den Bereichen Marketing, Training und Development.
+
+</description>
+<persons></persons>
+</event>
+<event id="philipp-kammerer-vim-the-first-contact">
+<start>12:00</start>
+<duration>02:00</duration>
+<room>W2</room>
+<title>Vim: The First contact</title>
+<type>workshop</type>
+<description>Philipp Kammerer
+
+Vim Workshop für Einsteiger, die noch nie (oder nur ganz wenig) mit Vim gearbeitet haben.
+
+### Vorwissen
+
+Vim sollte nach Möglichkeit schon installiert sein, damit wir gleich loslegen können. Teilnehmer sollten über die Konsole Kommandos aufrufen können und mit Ordnern und allgemein Dateien hantieren können.
+
+### Über mich
+
+Linux User seit 2005, unterwegs auf der Kommandozeile. Bei B1 seit 2015 in den Bereichen Marketing, Training und Development.
+
+</description>
+<persons></persons>
+</event>
+<event id="sven-guckes-tools-tools-tools">
+<start>11:00</start>
+<duration>01:00</duration>
+<room>W2</room>
+<title>Tools Tools Tools!</title>
+<type>talk</type>
+<description>Sven Guckes
+
+Jeden Tag brauchen wir eine Vielzahl von Tools für den Datenaustausch.  Ich stelle meine Lieblingstools vor.  Vielleicht kennt ihr sie ja noch nicht.
+
+### Vorwissen
+
+Je mehr ihr schon wisst, desto besser! Je weniger ihr meine Tools noch nicht kennt, umso besser! ;-)
+
+### Über mich
+
+Freiberufler, Berlin.  Verfechter von Freier Software. Vorträge+Workshops+Schulungen.  Spezialfeld: Effiziente Nutzung der Tastatur. und TextTools (Tools mit TUI), zB screen/tmux, elinks, mutt, vim, zsh.  Moderator bei Events, insbesondere LightningTalks und Show+Tell.  Maintainer eines Kalenders für Freie Software Events in Europa: http://cal.guckes.net 
+
+</description>
+<links>
+
+- <link href="http://www.guckes.net/talks/tools_tools_tools.txt" >Tools Tools Tools</link>
+</links>
+<persons></persons>
+</event>
+<event id="sven-guckes-vim-fuer-fortgeschrittene">
+<start>14:00</start>
+<duration>02:00</duration>
+<room>W2</room>
+<title>Vim für Fortgeschrittene</title>
+<type>workshop</type>
+<description>Sven Guckes
+
+Der Vim merkt sich Inhalte und das Fenster Layout, wenn man nur ":set vi+=n" und ":mks" kennt.  Das war es auch schon.  Alles weitere - wie Register, Reiter, Tabs und Tags - besprechen wir dann im Workshop. Stellt eure Fragen - und geht mit Antworten.  Auf dass euer Editieren angenehmer und effizienter werde. :-)
+
+### Vorwissen
+
+Es ist sehr hilfreich ein wenig Umgang mit der Shell und den üblichen basic tools (cp,mv,ls..) zu haben, und den Vim soweit zu kennen wie es der "vimtutor" vorgibt.  Aber letztendlich soll der Workshop euch zu "fortgeschrittenen Benutzern" machen.
+
+### Über mich
+
+Sven Guckes, 1967, Mathe+Info, Freiberufler, Berlin.  Verfechter von Freier Software. Vorträge+Workshops+Schulungen.  Spezialfeld: Effiziente Nutzung der Tastatur. und TextTools (Tools mit TUI), zB screen/tmux, elinks, mutt, vim, zsh.  Moderator bei Events, insbesondere LightningTalks und Show+Tell.  Maintainer eines Kalenders für Freie Software Events in Europa: http://cal.guckes.net
+
+</description>
+<links>
+
+- <link href="http://cal.guckes.net" >Kalender für FLOSS Events Europa</link>
+- <link href="http://www.guckes.net/talks/vim/vim_advanced.txt" >Vim für Fortgeschrittene (Workshop Text)</link></links>
+<persons></persons>
+</event>
+</room>
+<room name="W3">
+<event id="cornelius-koelbel-mehr-faktor-authentifizierung-nicht-nur-fuer-die-eigene-cloud">
+<start>12:00</start>
+<duration>02:00</duration>
+<room>W3</room>
+<title>Mehr-Faktor-Authentifizierung nicht nur für die eigene Cloud</title>
+<type>workshop</type>
+<description>Cornelius Kölbel
+
+In diesem Workshop wird gezeigt, wie man in kurzer Zeit sein ownCloud, Wordpress oder SSH-Zugang schnell und zuverlässig mit Zwei-Faktor-Authentifizierung absichern kann. Dazu setzen wir einen privacyIDEA Authentifizierungs-Server am besten auf einem Ubuntu 16.04LTS auf. Dieser verwaltet an zentraler Stelle die zweiten Faktoren der Benutzer. Dies können Smartphones, OTP-Tokens oder U2F-Geräte sein. Der Vorteil hierbei ist, dass ein Benutzer nur einmal seinen zweiten Faktor registrieren muss und diesen sofort an mehreren Applikationen nutzen kann.  Auch eine leichte Migration von bestehenden Zwei-Faktor-Systemen ist leicht möglich. Diese Aspekte machen privacyIDEA gerade für größere Benutzergruppen, Organisationen und Unternehmen interessant.
+
+### Vorwissen
+
+Installation von Debian-Paketen, Grundwissen Datenbanken (bspw. MySQL), Grundwissen ownCloud, Wordpress, SSH oder U2F sind von Vorteil.
+
+### Über mich
+
+Cornelius arbeitet seit 23 Jahren produktiv mit Linux.  Seit 12 Jahren liegt sein Arbeitsschwerpunkt im Bereich Mehr-Faktor-Authentifizierung. Als Berater lernte er viele verschiedene Kundenanforderungen auch in heterogenen Netzwerken kennen und verstehen. Er plante und implementierte Public-Key-Infrastrukturen für Smartcard-Nutzung und beschäftigte sich als einer der Ersten mit der Interoperabilität des Aladdin eTokens zwischen Windows und Linux.  2006 initiierte er das erste Linux-basierte Einmal-Passwort-System auf Basis des Aladdin eToken-NG OTP. 2009 rief er als Produktmanager die OTP-Lösung LinOTP2 in Leben. Im Jahr 2014 startete er das Projekt privacyIDEA, das eine unternehmenstaugliche Management-Lösung für verschiedene Arten von Authentifizierungsobjekten bereitstellt. Er arbeitet mit seinem Unternehmen NetKnights GmbH Vollzeit an der Entwicklung von privacyIDEA und ist außerdem damit beschäftigt, um das komplett freie Authentifizierungssystem eine überzeugte Community aufzubauen. 
+
+</description>
+<links>
+
+- <link href="http://privacyidea.readthedocs.io" >Dokumentation</link>
+- <link href="https://www.youtube.com/channel/UCesoTaB76oX42vX7WGfyyFA" >Youtube Kanal</link>
+- <link href="https://www.privacyidea.org" >Projekt-Webseite</link></links>
+<persons></persons>
+</event>
+<event id="daniel-kobras-die-anatomie-eines-zfs-dateisystems">
+<start>16:00</start>
+<duration>02:00</duration>
+<room>W3</room>
+<title>Die Anatomie eines ZFS-Dateisystems</title>
+<type>workshop</type>
+<description>Daniel Kobras
+
+Im Workshop sezieren die Teilnehmer die Datenstrukturen, die ein ZFS-Dateisystem auf seine Laufwerke schreibt und erarbeiten sich so dessen grundlegende Funktionsprinzipien: Angefangen vom Fundament der Transaktionen und Objekte über Prüfsummen und die ZFS-eigenen Redundanzverfahren erläutert der Workshop die wichtigsten Performance-Charakteristika von ZFS-Dateisystemen, die Funktionsweise von Snapshots und asynchroner Replikation sowie die integrierten Cache-Algorithmen.
+
+### Vorwissen
+
+Grundkenntnisse zu ZFS sind hilfreich, aber nicht zwingend nötig. Um im Workshop auch selbst Hand anlegen zu können, sollten alle Teilnehmer jedoch ein Laptop mitbringen, auf dem sie administrative Rechte besitzen und auf dem ein möglichst aktuelles OpenZFS-basiertes ZFS (Linux mit ZFS on Linux, FreeBSD, Illumos oder macOS mit OpenZFS on OS X, siehe Weblinks) funktionsfähig installiert ist. (Bitte sucht die passende Installationsanleitung für euer System und arbeitet sie ab, bevor der Workshop beginnt, damit es wirklich ein ZFS-Workshop wird und kein Compiler- und Paket-Management-Workshop!) Unpartitionierter Plattenplatz ist nicht erforderlich, aber eines der Dateisysteme auf dem Laptop sollte noch ein paar GByte Luft haben zum Anlegen von Image-Dateien.
+
+### Über mich
+
+Hat als Physiker gelernt zu ergründen, was die Welt im Innersten zusammenhält. Beschränkt sich inzwischen dabei aber auf IT-Systeme, bevorzugt auf schnelle Dateisysteme. War mal Debian-Entwickler. Beschränkt sich inzwischen aufs Debian-Rentnerdasein.
+
+</description>
+<links>
+
+- <link href="http://zfsonlinux.org/" >ZFS on Linux</link>
+- <link href="https://openzfsonosx.org/" >OpenZFS on OS X (O3X)</link>
+- <link href="http://www.open-zfs.org/" >OpenZFS</link></links>
+<persons></persons>
+</event>
+<event id="sven-rath-was-ist-ceph-und-wofuer-kann-ich-es-nutzen">
+<start>14:00</start>
+<duration>02:00</duration>
+<room>W3</room>
+<title>Was ist Ceph und wofür kann Ich es nutzen?</title>
+<type>workshop</type>
+<description>Sven Rath
+
+Dieser Workshop soll eine Einführung in die Software Defined Storage Lösung Ceph sowie deren Vor- und Nachteile geben und richtet sich an jeden, der sich für das Thema Ceph interessiert und Ceph selbst installieren möchte. Nach einem kurzen Überblick über die Struktur der Software werden die Teilnehmer Ceph innerhalb einer virtuellen Umgebung selbst installieren und in Betrieb nehmen.
+Der Workshop gliedert sich dann grob wie folgt:
+
+- Einführung in das Thema
+- Installation der CEPH Pakete auf einer CentOS 7.3 VM
+- Anpassung der Konfigurationsdateien
+- Konfiguration eines RADOS block devices
+- Einbinden des erstellten rbd volumes an einen client
+
+Innerhalb des Workshops kann Ich gerne auch spontan auf Schwerpunkte eingehen.
+
+### Vorwissen
+
+- Sicherer Umgang mit Linux wäre von Vorteil
+- Eine bereits installierte Virtualisierungssoftware auf dem eigenen Laptop wie Virtualbox wäre super
+
+### Über mich
+
+Mein Name ist Sven Rath und Ich arbeite derzeit als Linux Systems Engineer für den Hosting &#x26; IT-Services Anbieter Biteno GmbH in Stuttgart. Themen mit denen Ich mich gerne beschäftige kommen aus den Bereichen Linux, HPC und Cloud.
+
+</description>
+<links>
+
+- <link href="https://mylinuxblog.de/" >Mein Linuxblog</link>
+- <link href="https://www.astiga.com/" >Astiga GmbH</link>
+- <link href="https://ceph.com/" >Offizielle Ceph website</link>
+</links>
+<persons></persons>
+</event>
+﻿</room>
+
+<room name="LPIC">
+
+<event id="dimitrios-bogiatzoules-lpic-block1">
+<start>12:00</start>
+<duration>02:00</duration>
+<room>X</room>
+<title>LPIC Prüfungsblock 1</title>
+<type>exam</type>
+<description>
+WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 11:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.
+</description>
+<persons><person id="bogiatzoules"></person>Dimitrios Bogiatzoules</persons>
+<links>
+<link href="http://www.tuebix.org/lpic">www.tuebix.org/lpic</link>
+</links>
+</event>
+
+<event id="dimitrios-bogiatzoules-lpic-block2">
+<start>14:00</start>
+<duration>02:00</duration>
+<room>X</room>
+<title>LPIC Prüfungsblock 2</title>
+<type>exam</type>
+<description>
+WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 13:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.
+</description>
+<persons><person id="bogiatzoules">Dimitrios Bogiatzoules</person></persons>
+<links>
+<link href="http://www.tuebix.org/lpic">www.tuebix.org/lpic</link>
+</links>
+</event>
+
+</room>
+  </day>
+</schedule>
