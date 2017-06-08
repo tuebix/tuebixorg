@@ -25,7 +25,7 @@ menu:
 <tr><td>16:00</td><td><a class="work"></a></td><td><a href="../programm/mark-schmidt-gentoo-installparty">Gentoo&nbsp;Installparty</a></td><td>Mark&nbsp;Schmidt</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Raum W2</td></tr>
-<tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/sven-guckes-tools-tools-tools!">Tools&nbsp;Tools&nbsp;Tools!</a></td><td>Sven&nbsp;Guckes</td></tr>
+<tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/sven-guckes-tools-tools-tools">Tools&nbsp;Tools&nbsp;Tools!</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>12:00</td><td><a class="work"></a></td><td><a href="../programm/philipp-kammerer-vim-the-first-contact">Vim:&nbsp;The&nbsp;First&nbsp;contact</a></td><td>Philipp&nbsp;Kammerer</td></tr>
 <tr><td>14:00</td><td><a class="work"></a></td><td><a href="../programm/sven-guckes-vim-fuer-fortgeschrittene">Vim&nbsp;für&nbsp;Fortgeschrittene</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>16:00</td><td><a class="work"></a></td><td><a href="../programm/philipp-kammerer-basic-latex-fuer-einsteiger">Basic&nbsp;LaTeX&nbsp;für&nbsp;Einsteiger</a></td><td>Philipp&nbsp;Kammerer</td></tr>
@@ -38,7 +38,7 @@ menu:
 <tr><td></td><td></td><td>Raum V1</td></tr>
 <tr><td>09:30</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-init">TÜBIX: init</a></td><td>TÜBIX&nbsp;Orga-Team</td></tr>
 <tr><td>10:00</td><td><a class="talk"></a></td><td><a href="../programm/dominik-brodowski-my-own-my-precious-oder-sind-passwoerter-gegenueber-strafverfolgern-geheim">My&nbsp;own,&nbsp;my&nbsp;precious?&nbsp;Oder:&nbsp;Sind&nbsp;Passwörter&nbsp;gegenüber&nbsp;Strafverfolgern&nbsp;geheim?</a></td><td>Dominik&nbsp;Brodowski</td></tr>
-<tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/axel-beckert-was-gibt's-neues-in-debian-9-stretch">Was&nbsp;gibt's&nbsp;Neues&nbsp;in&nbsp;Debian&nbsp;9&nbsp;Stretch?</a></td><td>Axel&nbsp;Beckert</td></tr>
+<tr><td>11:00</td><td><a class="talk"></a></td><td><a href="../programm/axel-beckert-was-gibts-neues-in-debian-9-stretch">Was&nbsp;gibt's&nbsp;Neues&nbsp;in&nbsp;Debian&nbsp;9&nbsp;Stretch?</a></td><td>Axel&nbsp;Beckert</td></tr>
 <tr><td>12:00</td><td><a class="talk"></a></td><td><a href="../programm/mario-lorenz-sdr-empfang-quer-durchs-sonnensystem">SDR-Empfang&nbsp;-&nbsp;Quer&nbsp;durchs&nbsp;Sonnensystem</a></td><td>Mario&nbsp;Lorenz</td></tr>
 <tr><td>13:00</td><td><a class="talk"></a></td><td><a href="../programm/christian-rost-ambilight-mit-raspberry-pi-hyperion-und-ubuntu">Ambilight&nbsp;mit&nbsp;Raspberry&nbsp;Pi/Hyperion&nbsp;und&nbsp;Ubuntu</a></td><td>Christian&nbsp;Rost</td></tr>
 <tr><td>14:00</td><td><a class="talk"></a></td><td><a href="../programm/christian-brauner-surviving-open-source">Surviving&nbsp;Open&nbsp;Source</a></td><td>Christian&nbsp;Brauner</td></tr>

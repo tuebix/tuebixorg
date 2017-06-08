@@ -52,7 +52,7 @@ padding-right: 8px;
 
 <tr><td>11:00</td>
 <td rowspan="2"><a class="talk" href="../programm/sven-guckes-tools-tools-tools">Tools</a></td>
-<td rowspan="2"><a class="talk" href="../programm/axel-beckert-was-gibt's-neues-in-debian-9-stretch">Debian&nbsp;9</a></td>
+<td rowspan="2"><a class="talk" href="../programm/axel-beckert-was-gibts-neues-in-debian-9-stretch">Debian&nbsp;9</a></td>
 <td rowspan="2"><a class="talk" href="../programm/stefan-tzeggai-postgresql-tipps-fuer-schnelle-ergebnisse">PostgreSQL</a></td>
 <td rowspan="2"><a class="talk" href="../programm/holger-gantikow-containing-containers-oder-wie-laesst-sich-der-wal-baendigen">containing containers</a></td>
 <td>11:00</td></tr>
@@ -67,7 +67,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/mario-lorenz-sdr-empfang-quer-durchs-sonnensystem">SDR</a></td>
 <td rowspan="2"><a class="talk" href="../programm/harald-koenig-in-5-jahren-mit-shell-skripten-zum-kernel-treiber-fuer-neue-hw">Kernel-Treiber</a></td>
 <td rowspan="2"><a class="talk" href="../programm/christian-brauner-lxd">LXD</a></td>
-<td rowspan="4"><a class="lpic" href="../lpic">LPIC</a></td>
+<td rowspan="4"><a class="lpic" href="../../lpic">LPIC</a></td>
 <td>12:00</td></tr>
 
 <tr><td>&nbsp;</td>
@@ -89,7 +89,7 @@ padding-right: 8px;
 <td rowspan="4"><a class="work" href="../programm/sven-rath-was-ist-ceph-und-wofuer-kann-ich-es-nutzen">Ceph</a></td>
 <td rowspan="2"><a class="talk" href="../programm/christian-brauner-surviving-open-source">surviving</a></td>
 <td rowspan="2"><a class="talk" href="../programm/holger-gantikow-3d-vdi-unter-linux-konzepte-und-technologien-fuer-3d-beschleunigte-arbeitsplaetze">3D-VDI</a></td>
-<td rowspan="4"><a class="lpic" href="../lpic">LPIC</a></td>
+<td rowspan="4"><a class="lpic" href="../../lpic">LPIC</a></td>
 <td rowspan="1"><a class="talk" href="../programm/mark-schmidt-vorstellung-der-testbed-plattformen-am-lehrstuhl-kommunikationsnetze">testbeds</a></td>
 <td>14:00</td></tr>
 
