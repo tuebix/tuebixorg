@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/axel-beckert-was-gibt's-neues-in-debian-9-stretch/
+permalink: /2017/programm/axel-beckert-was-gibts-neues-in-debian-9-stretch/
 weight:
 menu:
 ---

@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/sven-guckes-tools-tools-tools!/
+permalink: /2017/programm/sven-guckes-tools-tools-tools/
 weight:
 menu:
 ---
