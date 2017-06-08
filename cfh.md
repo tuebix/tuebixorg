@@ -83,7 +83,6 @@ O Raumsupport W3<br/>
 
 ## So kann jeder helfen
 
-- Damit wir besser kalkulieren können, bitte <a href="../2016/anmeldung/">anmelden</a>.
 - Bitte bringt nicht nur 20er-Scheine mit, damit wir nicht ins Wechselgeld-Dilemma kommen: je mehr Euro-Münzen und je weniger Scheine Du dabei hast, desto besser.
 - Hilf Müll zu vermeiden bzw. gleich wegzuräumen, damit wir die Räumlichkeiten vielleicht 2017 wieder nutzen können.
 - Sei präsent: wenn es an irgendeiner Stelle Handlungsbedarf gibt, dann handle im Sinne der Veranstaltung!
