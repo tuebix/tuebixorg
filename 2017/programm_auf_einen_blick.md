@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Programm - Überblick
+title: Programm - auf eien Blick
 permalink: /2017/programm_auf_einen_blick/
 weight: 
 menu: 

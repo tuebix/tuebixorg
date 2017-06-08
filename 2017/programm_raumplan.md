@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Programm Raumplan
+title: Programm - Raumplan
 permalink: /2017/programm_raumplan/
 redirect_from: /2017/programm/
 weight:
