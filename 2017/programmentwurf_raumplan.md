@@ -67,10 +67,13 @@ menu:
 <tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/stefan-baur-thin-clients-big-irons-x2go-als-skalierbare-remote-desktop-loesung">Thin&nbsp;Clients,&nbsp;Big&nbsp;Irons&nbsp;-&nbsp;X2Go&nbsp;als&nbsp;skalierbare&nbsp;Remote&nbsp;Desktop-Lösung</a></td><td>Stefan&nbsp;Baur</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Raum LPIC</td></tr>
-<tr><td>12:00</td><td><a class="lpic"></a></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Dimitrios Bogiatzoules</td></tr>
-<tr><td>14:00</td><td><a class="lpic"></a></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td>Dimitrios Bogiatzoules</td></tr>
+<tr><td>12:00</td><td><a class="lpic"></a></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td>Dimitrios&nbsp;Bogiatzoules</td></tr>
+<tr><td>14:00</td><td><a class="lpic"></a></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td>Dimitrios&nbsp;Bogiatzoules</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Raum Mini-FrogLabs</td></tr>
 <tr><td>10:00</td><td><a class="work"></a></td><td><a href="../../kinder">Kinderprogramm Mini-FrogLabs</a></td><td>Teckids e.V.</td></tr>
 <tr><td>&nbsp;</td></tr>
+<tr><td></td><td></td><td>Lehrstuhl Kommunikationsnetze (Treffpunkt am Info-Stand)</td></tr>
+<tr><td>14:00</td><td><a class="talk"></a></td><td><a href="../programm/mark-schmidt-vorstellung-der-testbed-plattformen-am-lehrstuhl-kommunikationsnetze">Vorstellung&nbsp;der&nbsp;Testbed-Plattformen&nbsp;am&nbsp;Lehrstuhl&nbsp;Kommunikationsnetze</a></td><td>Mark&nbsp;Schmidt</td></tr>
+<tr><td>14:30</td><td><a class="talk"></a></td><td><a href="../programm/mark-schmidt-vorstellung-der-testbed-plattformen-am-lehrstuhl-kommunikationsnetze">Vorstellung&nbsp;der&nbsp;Testbed-Plattformen&nbsp;am&nbsp;Lehrstuhl&nbsp;Kommunikationsnetze</a></td><td>Mark&nbsp;Schmidt</td></tr>
 </table>
