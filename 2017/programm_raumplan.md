@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programmentwurf Raumplan
-permalink: /2017/programmentwurf_raumplan/
+permalink: /2017/programm_raumplan/
 weight:
 menu:
 ---
