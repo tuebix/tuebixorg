@@ -109,7 +109,7 @@ padding-right: 8px;
 
 <tr><td>16:00</td>
 <td rowspan="4"><a class="work" href="../programm/mark-schmidt-gentoo-installparty">Gentoo</a></td>
-<td rowspan="4"><a class="work" href="../programm/philipp-kammerer-basic-latex-fuer-einsteiger">LaTeX&nbsp;I</a></td>
+<td rowspan="4"><a class="work" href="../programm/philipp-kammerer-basic-latex-fuer-einsteiger">LaTeX</a></td>
 <td rowspan="4"><a class="work" href="../programm/daniel-kobras-die-anatomie-eines-zfs-dateisystems">ZFS</a></td>
 <td rowspan="2"><a class="talk" href="../programm/michael-roppel-gimp-grundlagen-live-demo">GIMP</a></td>
 <td rowspan="1"><a class="talk" href="../programm/justin-humm-web-1.0-fuer-hipster">Web&nbsp;1.0</a></td>
