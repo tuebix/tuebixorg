@@ -89,7 +89,7 @@ Volljurist; Promotion über technische Überwachungsmaßnahmen im Polizei- und S
 </event>
 <event id="gerik-huland-tagesabschluss-warum-brennt-die-milch-an">
 <start>18:15</start>
-<duration>01:00</duration>
+<duration>00:30</duration>
 <room>V1</room>
 <title>Warum brennt die Milch an? Eine kleine Einführung in die Physik des Kochens</title>
 <type>talk</type>
@@ -347,7 +347,7 @@ Als dualer Student der Informatik (Fachrichtung Informationstechnik) bei ATOS in
 </event>
 <event id="justin-humm-web-1.0-fuer-hipster">
 <start>16:00</start>
-<duration>01:00</duration>
+<duration>00:30</duration>
 <room>V3</room>
 <title>Web 1.0 für Hipster</title>
 <type>talk</type>
@@ -395,7 +395,7 @@ Klaus Knopper ist Software-Entwickler, Ingenieur und Professor im Fachbereich Be
 </event>
 <event id="matthias-beyer-julian-ganz-git-dit-distributed-issue-tracking-mit-git">
 <start>16:30</start>
-<duration>01:00</duration>
+<duration>00:30</duration>
 <room>V3</room>
 <title>git-dit - Distributed Issue Tracking mit git</title>
 <type>talk</type>
@@ -449,7 +449,7 @@ Ich entwickle Software, am liebsten mit Linux, C++ und Python.
 </event>
 <event id="raphael-groner-testgetriebene-entwicklung-sprachbasierter-applikationen">
 <start>17:00</start>
-<duration>01:00</duration>
+<duration>00:30</duration>
 <room>V3</room>
 <title>Testgetriebene Entwicklung sprachbasierter Applikationen</title>
 <type>talk</type>
@@ -546,7 +546,7 @@ Ich bin Software-Entwickler, FOSS-Anhänger, Ex-Mozillianer und Maintainer von p
 <room name="V4">
 <event id="adrian-reber-xonotic-all-around-the-world">
 <start>10:30</start>
-<duration>01:00</duration>
+<duration>00:30</duration>
 <room>V4</room>
 <title>Xonotic All Around The World</title>
 <type>talk</type>
@@ -591,7 +591,7 @@ LX{C,D} core dev. Also, this guy.
 </event>
 <event id="daniel-kraft-backy2-open-source-virtual-machine-backup-fuer-ceph-und-lvm">
 <start>16:30</start>
-<duration>01:00</duration>
+<duration>00:30</duration>
 <room>V4</room>
 <title>backy2: Open Source Virtual Machine Backup für Ceph und LVM</title>
 <type>talk</type>
@@ -731,7 +731,7 @@ Stefan Kremer, Chief Community Evangelist ownCloud
 </event>
 <event id="stephan-tesch-icinga-2-the-art-of-monitoring">
 <start>10:00</start>
-<duration>01:00</duration>
+<duration>00:30</duration>
 <room>V4</room>
 <title>Icinga 2 - The Art of Monitoring</title>
 <type>talk</type>
@@ -753,7 +753,7 @@ Große Vorkenntnisse erwarte ich nicht, aber in die Details von wieso ich Monito
 </event>
 <event id="vinzenz-rosenkranz-nextcloud">
 <start>16:00</start>
-<duration>01:00</duration>
+<duration>00:30</duration>
 <room>V4</room>
 <title>Nextcloud</title>
 <type>talk</type>
