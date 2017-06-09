@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Programm - Raumplan
+title: Programm
 permalink: /2017/programm_raumplan/
 redirect_from: /2017/programm/
-weight:
-menu:
+weight: 10
+menu: main
 ---
 
 * <span style="font-weight: bold;">Raumplan&nbsp;&nbsp;&nbsp;&nbsp;</span>

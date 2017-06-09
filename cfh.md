@@ -2,14 +2,14 @@
 layout: page
 title: Call for Helpers
 permalink: /callforhelpers/
-weight:
-menu:
+weight: 20
+menu: main
 ---
 
 Pinguine sind Herdentiere und helfen einander. Das heißt: Ohne Dich geht es nicht! Aber zum Glück hast Du viele Möglichkeiten, den TÜBIX mitzugestalten. Wenn Du Lust hast, mit ein paar anderen netten Helfern ein paar Stunden anzupacken, übernimm doch eine Schicht im Catering. Bist Du ein Organisationstalent? Dann können wir dich in der Programmunterstützung gebrauchen. Und falls Du an deinem TÜBIX keine Lücke für eine Helferschicht hast, kannst Du zum guten Gelingen des Tages vielleicht dadurch beisteuern, dass Du einem Besucher von außerhalb ein Bett zur Verfügung stellst.
 
 
-Melden kann man sich als Helfer (bitte schnellstmöglich mit Angabe der gewünschten Position) über: <a href="mailto:helfer2016@tuebix.org?subject=Helfer%20Tuebix">helfer2016@tuebix.org</a>. Wir werden den aktuellen Stand (Bedarf und bereits besetzte Posten) hier ohne Namen aufführen:<br/>
+Melden kann man sich als Helfer (bitte schnellstmöglich mit Angabe der gewünschten Position) über: <a href="mailto:helfer2017@tuebix.org?subject=Helfer%20Tuebix">helfer2017@tuebix.org</a>. Wir werden den aktuellen Stand (Bedarf und bereits besetzte Posten) hier ohne Namen aufführen:<br/>
 X heißt "es hat sich bereits jemand gemeldet - besetzt"<br/>
 O heißt "es besteht noch Bedarf - zu besetzen" <br/>
 
@@ -55,10 +55,10 @@ O O O O O O O O O O O O O O O O
 
 ## Kasse (je 2h, 1 Person)
 
-O 10:00 - 12:00 Kasse<br/>
-O 12:00 - 14:00 Kasse<br/>
-O 14:00 - 16:00 Kasse<br/>
-O 16:00 - 18:00 Kasse<br/>
+X 10:00 - 12:00 Kasse<br/>
+X 12:00 - 14:00 Kasse<br/>
+X 14:00 - 16:00 Kasse<br/>
+X 16:00 - 18:00 Kasse<br/>
 
 ## Gästebett (Fr/Sa und Sa/So)
 Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Dann melde dich bei uns und gib Bescheid, wieviele Übernachtungen Du ermöglichen könntest:
@@ -83,7 +83,6 @@ O Raumsupport W3<br/>
 
 ## So kann jeder helfen
 
-- Damit wir besser kalkulieren können, bitte <a href="../2016/anmeldung/">anmelden</a>.
 - Bitte bringt nicht nur 20er-Scheine mit, damit wir nicht ins Wechselgeld-Dilemma kommen: je mehr Euro-Münzen und je weniger Scheine Du dabei hast, desto besser.
-- Hilf Müll zu vermeiden bzw. gleich wegzuräumen, damit wir die Räumlichkeiten vielleicht 2017 wieder nutzen können.
+- Hilf Müll zu vermeiden bzw. gleich wegzuräumen, damit wir die Räumlichkeiten auch in Zukunft nutzen dürfen.
 - Sei präsent: wenn es an irgendeiner Stelle Handlungsbedarf gibt, dann handle im Sinne der Veranstaltung!

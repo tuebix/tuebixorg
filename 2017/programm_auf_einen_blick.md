@@ -124,7 +124,7 @@ padding-right: 8px;
 
 <tr><td>17:00</td>
 <td rowspan="2"><a class="talk" href="../programm/harald-koenig-es-muss-mal-wieder-shell-sein">Shell</a></td>
-<td rowspan="1"><a class="talk" href="../programm/raphael-groner-testgetriebene-entwicklung-sprachbasierter-applikationen">Sprache testen</a></td>
+<td rowspan="1"><a class="talk" href="../programm/raphael-groner-testgetriebene-entwicklung-sprachbasierter-applikationen">JVoiceXML</a></td>
 <td rowspan="2"><a class="talk" href="../programm/stefan-baur-thin-clients-big-irons-x2go-als-skalierbare-remote-desktop-loesung">X2Go</a></td>
 <td>17:00</td></tr>
 
