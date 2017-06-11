@@ -12,7 +12,7 @@ Der Titel des Beitrags ist genau wie im Programm auf die jeweilige Unterseite de
 
 Die Pads können für Rückmeldungen und Ergänzungen (von Vortragenden UND Besuchern) genutzt werden.
 
-<a href="https://github.com/tuebix/tuebixorg/archive/gh-pages.zip">github.com/tuebix/tuebixorg/archive/gh-pages.zip (ca. 1.1GB)</a><br/>
+<a href="https://github.com/tuebix/tuebix-downloads-2015/archive/master.zip">github.com/tuebix/tuebix-downloads-2015/archive/master.zip (ca. 1.0GB)</a><br/>
 
 Die PDFs und Audiodateien (ogg) finden sich dann unter downloads/.
 
