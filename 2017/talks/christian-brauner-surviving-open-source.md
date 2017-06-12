@@ -11,9 +11,21 @@ menu:
 
 ### Christian Brauner
 
-Open source has become the leading model of software development in recent years. Nonetheless, navigating the depths of large-scale open source projects can be really challening. This talk will try to provide some pointed on how to maintain a large-scale open source projects. Especially how to handle conflicts, performing code-reviews in the open, dealing with code rejection, writing public specs and collaborating with a diverse group of people of different backgrounds.
+Zusammen oder alleine ein größeres Open Source Projekt zu führen kann zuweilen
+eine ziemliche Herausforderung sein. Vom Beantworten einer Flut von
+Support-Mails, dem Ablehnen von Patches und Pull-Requests, wann und wer einen
+Patch mergen darf bis zum Vorstellen des Projektes auf Konferenzen, stellen
+sich viele Fragen. Zusätzlich müssen Upstream-Projekte, die
+sicherheitskritische Software programmieren, auch Sicherheitslücken korrekt
+behandeln. Das beinhaltet vor allem das Vorhandensein einer notwendigen
+Infrakstruktur, damit Nutzer Sicherheitslücken melden können, ohne dass diese
+sofort öffentlich bekannt werden, das Anmelden des zugehörigen CVEs und das
+Programmieren und Veröffentlichen der zugehörigen Patches. Für alles gibt es
+ein formales Protokoll, an das Upstream Maintainer sich unbedingt halten
+sollten, um die Sicherheit der Nutzer nicht zu gefährden.
+Dieser Vortrag will einen Überblick über diese und andere Probleme geben, die
+dabei Auftreten können und Ratschläge geben, wie man mit diesen am besten umgeht.
 
 ### Über mich
 
-This guy.
-
+Ein Software Maintainer. :)
