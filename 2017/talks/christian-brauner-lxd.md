@@ -24,9 +24,10 @@ Kernel implementiert haben. LXD baut auf der low-level Container Runtime LXC
 auf und wurde von Grund auf neu durchdacht, mit einem Fokus auf Sicherheit,
 Zuverlässigkeit und Geschwindigkeit. Das Ziel ist es dabei, jede existierende
 Sicherheitsfunktion des Linux Kernels zu nutzen.
-LXD betreibt System Containers und nicht auf Prozess Container (docker, rocket,
-...), d.h. Container, die ein vollständiges Linux Betriebssystem laufen lassen,
-wie man es von einer virtuellen Maschine gewohnt ist.
+LXD betreibt System Containers und keine Process Containers (docker, rocket,
+...), d.h. LXD kümmert sich ausschließlich um Container, die ein vollständiges
+Linux Betriebssystem laufen lassen, genau wie man es von einer virtuellen
+Maschine gewohnt ist.
 
 ### Über mich
 
