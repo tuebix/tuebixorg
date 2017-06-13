@@ -16,7 +16,7 @@ Tübix könnte etwas für dich sein, falls du:
 * ... Neuling / Einsteiger / Umsteiger / Interessent bist
 * ... nebenbei ein <a href="http://www.wsi.uni-tuebingen.de/fachbereich/wilhelm-schickard-institut-fuer-informatik/computermuseum.html">Computermuseum</a> besuchen möchtest
 
-Der Eintritt ist frei. 
+Der Eintritt ist frei, dafür <a href="../callforhelpers/">hilft jeder ein bisschen mit</a>.
 
 <!--Damit wir besser planen können, bitte <a href="../anmeldung/">anmelden</a>.-->
 
