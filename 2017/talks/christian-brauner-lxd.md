@@ -11,11 +11,26 @@ menu:
 
 ### Christian Brauner
 
-LXD is a container management tool built on top of LXC and offering a REST API to manage and interact with multiple container hosts over the network.  This talk will go over the main features of LXD, a pretty thorough demonstration of its abilities, a run through the work currently being done and end with questions.  LXD is a project which began a bit over a year ago, by the same team who built LXC.  It's building on top of the very stable LXC library and adds a whole network layer to it through a simple and clean REST API.  It's user experience was rethought from the ground up, favoring security and reliability, using every single kernel security feature available to provide a safe, yet extremely fast environment. Reliability is achieved through extended error handling and the use of container images in place of locally built container templates.  LXD focuses on infrastructure containers, that is, containers running a full Linux distribution exactly as you would in a virtual machine. It doesn't know about nor care about application containers (docker, rocket, ...). Those technologies are great to manage micro-services and are a good way to distribute software, as such they make a lot of sense, inside a LXD container.  More information on the LXD project can be found at: https://linuxcontainers.org/lxd The code may be found at: https://github.com/lxc/lxd And a fully feature, interactive demo of its capabilities here: https://linuxcontainers.org/lxd/try-it
+LXD ist ein Container Management Daemon der auf der Low-Level Container Runtime
+LXC aufbaut und eine REST API zum Verwalten von mehreren Container Hosts über
+das Internet bereit stellt. Dieser Vortrag wird die Hauptfeatures von LXD
+vorstellen, eine gründliche Live-Demo der Fähigkeiten geben und die
+gegenwärtigen Features, an denen gearbeitet wird (sowohl im Kernel als auch in
+LX{C,D} selbst) diskutieren.
+Die Arbeit an LXD wurde vor gut anderthalb Jahren vom selben Team begonnen, die
+LXC geschrieben haben. Unter den Maintainern befinden sich zum Teil dieselben
+Leute, die die Features, die Container überhaupt möglich gemacht haben, im
+Kernel implementiert haben. LXD baut auf der low-level Container Runtime LXC
+auf und wurde von Grund auf neu durchdacht, mit einem Fokus auf Sicherheit,
+Zuverlässigkeit und Geschwindigkeit. Das Ziel ist es dabei, jede existierende
+Sicherheitsfunktion des Linux Kernels zu nutzen.
+LXD betreibt System Containers und nicht auf Prozess Container (docker, rocket,
+...), d.h. Container, die ein vollständiges Linux Betriebssystem laufen lassen,
+wie man es von einer virtuellen Maschine gewohnt ist.
 
 ### Über mich
 
-LX{C,D} core dev. Also, this guy.
+LX{C,D} core dev.
 
 ### Links
 
