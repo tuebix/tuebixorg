@@ -55,7 +55,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/axel-beckert-was-gibts-neues-in-debian-9-stretch">Debian&nbsp;9</a></td>
 <td rowspan="2"><a class="talk" href="../programm/stefan-tzeggai-postgresql-tipps-fuer-schnelle-ergebnisse">PostgreSQL</a></td>
 <td rowspan="2"><a class="talk" href="../programm/holger-gantikow-containing-containers-oder-wie-laesst-sich-der-wal-baendigen">containing containers</a></td>
-<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Teleskop</a></td>
+<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">80cm-Teleskop</a></td>
 <td>11:00</td></tr>
 
 <tr><td>&nbsp;</td>
@@ -70,7 +70,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/harald-koenig-in-5-jahren-mit-shell-skripten-zum-kernel-treiber-fuer-neue-hw">Kernel-Treiber</a></td>
 <td rowspan="2"><a class="talk" href="../programm/christian-brauner-lxd">LXD</a></td>
 <td rowspan="4"><a class="lpic" href="../../lpic">LPIC</a></td>
-<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Teleskop</a></td>
+<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">80cm-Teleskop</a></td>
 <td>12:00</td></tr>
 
 <tr><td>&nbsp;</td>
@@ -119,7 +119,7 @@ padding-right: 8px;
 <td rowspan="1"><a class="talk" href="../programm/justin-humm-web-1.0-fuer-hipster">Web&nbsp;1.0</a></td>
 <td rowspan="1"><a class="talk" href="../programm/vinzenz-rosenkranz-nextcloud">nextcloud</a></td>
 <td rowspan="4"></td>
-<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Teleskop</a></td>
+<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">80cm-Teleskop</a></td>
 <td>16:00</td></tr>
 
 <tr><td>&nbsp;</td>
@@ -132,7 +132,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/harald-koenig-es-muss-mal-wieder-shell-sein">Shell</a></td>
 <td rowspan="1"><a class="talk" href="../programm/raphael-groner-testgetriebene-entwicklung-sprachbasierter-applikationen">JVoiceXML</a></td>
 <td rowspan="2"><a class="talk" href="../programm/stefan-baur-thin-clients-big-irons-x2go-als-skalierbare-remote-desktop-loesung">X2Go</a></td>
-<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Teleskop</a></td>
+<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">80cm-Teleskop</a></td>
 <td>17:00</td></tr>
 
 <tr><td>&nbsp;</td>
