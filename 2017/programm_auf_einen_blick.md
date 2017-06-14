@@ -27,7 +27,7 @@ padding-right: 8px;
 <br/>
 <table>
 
-<tr><td></td><td>W1</td><td>W2</td><td>W3</td><td>V1</td><td>V2</td><td>V3</td><td>V4</td><td>LPIC</td><td>testbeds</td><td></td></tr>
+<tr><td></td><td>W1</td><td>W2</td><td>W3</td><td>V1</td><td>V2</td><td>V3</td><td>V4</td><td>LPIC</td><td>Info-Stand</td><td></td></tr>
 <tr><td>09:30</td>
 <td colspan="3"></td>
 <td>            <a class="talk2" href="../programm/tuebix-init">init</a></td>
@@ -43,7 +43,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/peter-hrenka-sauberes-c++-mit-clang-tidy">clang-tidy</a></td>
 <td rowspan="1"><a class="talk" href="../programm/stephan-tesch-icinga-2-the-art-of-monitoring">Icinga&nbsp;2</a></td>
 <td rowspan="4"></td>
-<td rowspan="8"></td>
+<td rowspan="2"></td>
 <td>10:00</td></tr>
 
 <tr><td></td>
@@ -55,9 +55,11 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/axel-beckert-was-gibts-neues-in-debian-9-stretch">Debian&nbsp;9</a></td>
 <td rowspan="2"><a class="talk" href="../programm/stefan-tzeggai-postgresql-tipps-fuer-schnelle-ergebnisse">PostgreSQL</a></td>
 <td rowspan="2"><a class="talk" href="../programm/holger-gantikow-containing-containers-oder-wie-laesst-sich-der-wal-baendigen">containing containers</a></td>
+<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Teleskop</a></td>
 <td>11:00</td></tr>
 
 <tr><td>&nbsp;</td>
+<td rowspan="1"></td>
 <td></td></tr>
 
 <tr><td>12:00</td>
@@ -68,9 +70,11 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/harald-koenig-in-5-jahren-mit-shell-skripten-zum-kernel-treiber-fuer-neue-hw">Kernel-Treiber</a></td>
 <td rowspan="2"><a class="talk" href="../programm/christian-brauner-lxd">LXD</a></td>
 <td rowspan="4"><a class="lpic" href="../../lpic">LPIC</a></td>
+<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Teleskop</a></td>
 <td>12:00</td></tr>
 
 <tr><td>&nbsp;</td>
+<td rowspan="3"></td>
 <td></td></tr>
 
 <tr><td>13:00</td>
@@ -101,7 +105,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/olaf-flebbe-datenanalyse-einer-solaranlage-mit-python">Python Datenanalyse</a></td>
 <td rowspan="2"><a class="talk" href="../programm/thomas-zimmermann-system-transaktionen-mit-picotm">picotm</a></td>
 <td rowspan="2"><a class="talk" href="../programm/stefan-kremer-privatsphaere-braucht-sicherheit-wie-owncloud-beides-ermoeglicht">owncloud</a></td>
-<td rowspan="6"></td>
+<td rowspan="2"></td>
 <td>15:00</td></tr>
 
 <tr><td>&nbsp;</td>
@@ -115,21 +119,25 @@ padding-right: 8px;
 <td rowspan="1"><a class="talk" href="../programm/justin-humm-web-1.0-fuer-hipster">Web&nbsp;1.0</a></td>
 <td rowspan="1"><a class="talk" href="../programm/vinzenz-rosenkranz-nextcloud">nextcloud</a></td>
 <td rowspan="4"></td>
+<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Teleskop</a></td>
 <td>16:00</td></tr>
 
 <tr><td>&nbsp;</td>
 <td rowspan="1"><a class="talk" href="../programm/matthias-beyer-julian-ganz-git-dit-distributed-issue-tracking-mit-git">git-dit</a></td>
 <td rowspan="1"><a class="talk" href="../programm/daniel-kraft-backy2-open-source-virtual-machine-backup-fuer-ceph-und-lvm">backy2</a></td>
+<td rowspan="1"></td>
 <td></td></tr>
 
 <tr><td>17:00</td>
 <td rowspan="2"><a class="talk" href="../programm/harald-koenig-es-muss-mal-wieder-shell-sein">Shell</a></td>
 <td rowspan="1"><a class="talk" href="../programm/raphael-groner-testgetriebene-entwicklung-sprachbasierter-applikationen">JVoiceXML</a></td>
 <td rowspan="2"><a class="talk" href="../programm/stefan-baur-thin-clients-big-irons-x2go-als-skalierbare-remote-desktop-loesung">X2Go</a></td>
+<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Teleskop</a></td>
 <td>17:00</td></tr>
 
 <tr><td>&nbsp;</td>
 <td rowspan="1"><a class="talk" href="../programm/andre-niemann-ruckzuck-aufgesetzte-testumgebungen-fuer-sensu">sensu</a></td>
+<td rowspan="3"></td>
 <td></td></tr>
 
 <tr><td>18:00</td>
