@@ -34,13 +34,13 @@ O O O O O 15:00-16:00 Pizza<br/>
 
 ## Getränkeausgabe (je 1h, 2 Personen)
 
-O O 10:00 - 11:00 Getränkeausgabe <br/>
+X O 10:00 - 11:00 Getränkeausgabe <br/>
 O O 11:00 - 12:00 Getränkeausgabe <br/>
 O O 12:00 - 13:00 Getränkeausgabe <br/>
 O O 13:00 - 14:00 Getränkeausgabe <br/>
-O O 14:00 - 15:00 Getränkeausgabe <br/>
+X X 14:00 - 15:00 Getränkeausgabe <br/>
 O O 15:00 - 16:00 Getränkeausgabe <br/>
-O O 16:00 - 17:00 Getränkeausgabe <br/>
+X O 16:00 - 17:00 Getränkeausgabe <br/>
 O O 17:00 - 18:00 Getränkeausgabe <br/>
 O O 18:00 - 19:00 Getränkeausgabe <br/>
 X O 19:00 - 20:00 Getränkeausgabe <br/>
