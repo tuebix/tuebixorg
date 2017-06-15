@@ -90,7 +90,7 @@ menu: main
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Observatorium</td></tr>
 <tr><td>11:00&nbsp;-&nbsp;11:30</td><td><a class="talk"></a></td><td><a href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Cornelia&nbsp;Heinitz,&nbsp;Stephan&nbsp;Hartmann</td></tr>
-<tr><td>12:00&nbsp;-&nbsp;12:30</td><td><a class="talk"></a></td><td><a href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Cornelia&nbsp;Heinitz,&nbsp;Stephan&nbsp;Hartmann</td></tr>
-<tr><td>16:00&nbsp;-&nbsp;16:30</td><td><a class="talk"></a></td><td><a href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Cornelia&nbsp;Heinitz,&nbsp;Stephan&nbsp;Hartmann</td></tr>
-<tr><td>17:00&nbsp;-&nbsp;17:30</td><td><a class="talk"></a></td><td><a href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Cornelia&nbsp;Heinitz,&nbsp;Stephan&nbsp;Hartmann</td></tr>
+<tr><td>11:30&nbsp;-&nbsp;12:00</td><td><a class="talk"></a></td><td><a href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Cornelia&nbsp;Heinitz,&nbsp;Stephan&nbsp;Hartmann</td></tr>
+<tr><td>12:30&nbsp;-&nbsp;13:00</td><td><a class="talk"></a></td><td><a href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Cornelia&nbsp;Heinitz,&nbsp;Stephan&nbsp;Hartmann</td></tr>
+<tr><td>17:30&nbsp;-&nbsp;18:00</td><td><a class="talk"></a></td><td><a href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Cornelia&nbsp;Heinitz,&nbsp;Stephan&nbsp;Hartmann</td></tr>
 </table>

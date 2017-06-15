@@ -9,11 +9,11 @@ menu:
 
 ### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:30 im Observatorium
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:30 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 11:30 bis 12:00 im Observatorium
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:30 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:00 im Observatorium
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:30 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 18:00 im Observatorium
 
 ### Cornelia&nbsp;Heinitz&nbsp;und&nbsp;Stephan&nbsp;Hartmann
 
