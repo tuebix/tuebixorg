@@ -25,8 +25,8 @@ O O 19:00 - 20:00 Grillen<br/>
 
 benötigt etwas "Einarbeitung"; daher wäre es toll, wenn Du dich gleich für zwei Schichten bereit erklären könntest
 
-O O O O O 10:00-11:00 Pizza (Aufbau)<br/>
-O O O O O 11:00-12:00 Pizza<br/>
+X X O O O 10:00-11:00 Pizza (Aufbau)<br/>
+X X X O O 11:00-12:00 Pizza<br/>
 O O O O O 12:00-13:00 Pizza<br/>
 O O O O O 13:00-14:00 Pizza<br/>
 O O O O O 14:00-15:00 Pizza<br/>
@@ -39,7 +39,7 @@ O O 11:00 - 12:00 Getränkeausgabe <br/>
 O O 12:00 - 13:00 Getränkeausgabe <br/>
 O O 13:00 - 14:00 Getränkeausgabe <br/>
 X X 14:00 - 15:00 Getränkeausgabe <br/>
-O O 15:00 - 16:00 Getränkeausgabe <br/>
+X X 15:00 - 16:00 Getränkeausgabe <br/>
 X O 16:00 - 17:00 Getränkeausgabe <br/>
 O O 17:00 - 18:00 Getränkeausgabe <br/>
 O O 18:00 - 19:00 Getränkeausgabe <br/>
@@ -51,7 +51,7 @@ O O 20:00 - 21:00 Getränkeausgabe <br/>
 Bring einen Kuchen mit, der dann kostenfrei gegen 14:00 allen zur Verfügung steht.<br/>
 Wir können den Kuchen im Kühlwagen aufbewahren, bring dafür am besten eine Tortenhaube mit.
 
-X X O O O O O O O O O O O O O O
+X X X X O O O O O O O O O O O O
 
 ## Kasse (je 2h, 1 Person)
 
