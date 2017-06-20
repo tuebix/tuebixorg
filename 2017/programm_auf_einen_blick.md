@@ -86,7 +86,7 @@ padding-right: 8px;
 <td>13:00</td></tr>
 
 <tr><td>&nbsp;</td>
-<td rowspan="3"><a class="light" href="../programm/lightning">Lightning Talks</a></td>
+<td rowspan="3"><a class="light" href="../../callforpapers">Lightning Talks<br />noch&nbsp;Plätze&nbsp;frei!</a></td>
 <td rowspan="1"></td>
 <td></td></tr>
 
