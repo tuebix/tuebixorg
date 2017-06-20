@@ -52,7 +52,7 @@ menu: main
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Raum V3</td></tr>
 <tr><td>10:00&nbsp;-&nbsp;11:00</td><td><a class="talk"></a></td><td><a href="../programm/peter-hrenka-sauberes-c++-mit-clang-tidy">Sauberes&nbsp;C++&nbsp;mit&nbsp;clang-tidy</a></td><td>Peter&nbsp;Hrenka</td></tr>
-<tr><td>11:00&nbsp;-&nbsp;11:30</td><td><a class="talk"></a></td><td><a href="../programm/stefan-tzeggai-postgresql-tipps-fuer-schnelle-ergebnisse">PostgreSQL&nbsp;Tipps&nbsp;für&nbsp;schnelle&nbsp;Ergebnisse</a></td><td>Stefan&nbsp;Tzeggai</td></tr>
+<tr><td>11:00&nbsp;-&nbsp;12:00</td><td><a class="talk"></a></td><td><a href="../programm/stefan-tzeggai-postgresql-tipps-fuer-schnelle-ergebnisse">PostgreSQL&nbsp;Tipps&nbsp;für&nbsp;schnelle&nbsp;Ergebnisse</a></td><td>Stefan&nbsp;Tzeggai</td></tr>
 <tr><td>12:00&nbsp;-&nbsp;13:00</td><td><a class="talk"></a></td><td><a href="../programm/harald-koenig-in-5-jahren-mit-shell-skripten-zum-kernel-treiber-fuer-neue-hw">In&nbsp;5&nbsp;Jahren&nbsp;mit&nbsp;Shell-Skripten&nbsp;zum&nbsp;Kernel-Treiber&nbsp;für&nbsp;neue&nbsp;HW</a></td><td>Harald&nbsp;König</td></tr>
 <tr><td>13:00&nbsp;-&nbsp;13:30</td><td><a class="talk"></a></td><td><a href="../programm/johannes-schirm-luks-verschluesselung-in-der-praxis">LUKS-Verschlüsselung&nbsp;in&nbsp;der&nbsp;Praxis</a></td><td>Johannes&nbsp;Schirm</td></tr>
 <tr><td>14:20&nbsp;-&nbsp;14:25</td><td><a class="light"></a></td><td><a href="../programm/josef-plendl-image-scanner-fuer-docker">Image-Scanner&nbsp;für&nbsp;Docker</a></td><td>Josef&nbsp;Plendl</td></tr>
