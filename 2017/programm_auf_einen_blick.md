@@ -55,11 +55,11 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/axel-beckert-was-gibts-neues-in-debian-9-stretch">Debian&nbsp;9</a><br />Axel&nbsp;Beckert</td>
 <td rowspan="2"><a class="talk" href="../programm/stefan-tzeggai-postgresql-tipps-fuer-schnelle-ergebnisse">PostgreSQL</a><br />Stefan&nbsp;Tzeggai</td>
 <td rowspan="2"><a class="talk" href="../programm/holger-gantikow-containing-containers-oder-wie-laesst-sich-der-wal-baendigen">containing&nbsp;containers</a><br />Holger&nbsp;Gantikow</td>
-<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">80cm&#8209;Teleskop</a><br />Cornelia&nbsp;Heinitz</td>
+<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">80cm&#8209;Teleskop</a><br />Cornelia&nbsp;Heinitz<br />Stephan&nbsp;Hartmann</td>
 <td>11:00</td></tr>
 
 <tr><td>&nbsp;</td>
-<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">80cm&#8209;Teleskop</a><br />Cornelia&nbsp;Heinitz</td>
+<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">80cm&#8209;Teleskop</a><br />Cornelia&nbsp;Heinitz<br />Stephan&nbsp;Hartmann</td>
 <td></td></tr>
 
 <tr><td>12:00</td>
@@ -74,7 +74,7 @@ padding-right: 8px;
 <td>12:00</td></tr>
 
 <tr><td>&nbsp;</td>
-<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">80cm&#8209;Teleskop</a><br />Cornelia&nbsp;Heinitz</td>
+<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">80cm&#8209;Teleskop</a><br />Cornelia&nbsp;Heinitz<br />Stephan&nbsp;Hartmann</td>
 <td></td></tr>
 
 <tr><td>13:00</td>
@@ -123,7 +123,7 @@ padding-right: 8px;
 <td>16:00</td></tr>
 
 <tr><td>&nbsp;</td>
-<td rowspan="1"><a class="talk" href="../programm/matthias-beyer-julian-ganz-git-dit-distributed-issue-tracking-mit-git">git-dit</a><br />Matthias&nbsp;Beyer</td>
+<td rowspan="1"><a class="talk" href="../programm/matthias-beyer-julian-ganz-git-dit-distributed-issue-tracking-mit-git">git-dit</a><br />Matthias&nbsp;Beyer<br />Julian&nbsp;Ganz</td>
 <td rowspan="1"><a class="talk" href="../programm/daniel-kraft-backy2-open-source-virtual-machine-backup-fuer-ceph-und-lvm">backy2</a><br />Daniel&nbsp;Kraft</td>
 <td></td></tr>
 
@@ -135,7 +135,7 @@ padding-right: 8px;
 
 <tr><td>&nbsp;</td>
 <td rowspan="1"><a class="talk" href="../programm/andre-niemann-ruckzuck-aufgesetzte-testumgebungen-fuer-sensu">sensu</a><br />Andre&nbsp;Niemann</td>
-<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">80cm&#8209;Teleskop</a><br />Cornelia&nbsp;Heinitz</td>
+<td rowspan="1"><a class="talk" href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">80cm&#8209;Teleskop</a><br />Cornelia&nbsp;Heinitz<br />Stephan&nbsp;Hartmann</td>
 <td></td></tr>
 
 <tr><td>18:00</td>
