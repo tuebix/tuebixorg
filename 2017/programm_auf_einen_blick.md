@@ -71,7 +71,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/harald-koenig-in-5-jahren-mit-shell-skripten-zum-kernel-treiber-fuer-neue-hw">Kernel-Treiber</a><br />Harald&nbsp;Koenig</td>
 <td rowspan="2"><a class="talk" href="../programm/christian-brauner-lxd">LXD</a><br />Christian&nbsp;Brauner</td>
 <td rowspan="4"><a class="lpic" href="../../lpic">LPIC</a></td>
-<td rowspan="1"></td>
+<td rowspan="1"><a class="talk" href="../programm/matthias-windrich-imkern-als-hobby">Imkern</a><br />Matthias&nbsp;Windrich</td>
 <td>12:00</td></tr>
 
 <tr><td>&nbsp;</td>
@@ -82,11 +82,12 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/christian-rost-ambilight-mit-raspberry-pi-hyperion-und-ubuntu">Ambilight</a><br />Christian&nbsp;Rost</td>
 <td rowspan="1"><a class="talk" href="../programm/johannes-schirm-luks-verschluesselung-in-der-praxis">LUKS</a><br />Johannes&nbsp;Schirm</td>
 <td rowspan="2"><a class="talk" href="../programm/felix-bauer-peekabooav">PeekabooAV</a><br />Felix&nbsp;Bauer</td>
-<td rowspan="2"></td>
+<td rowspan="1"><a class="talk" href="../programm/matthias-windrich-imkern-als-hobby">Imkern</a><br />Matthias&nbsp;Windrich</td>
 <td>13:00</td></tr>
 
 <tr><td>&nbsp;</td>
 <td rowspan="3"><a class="light" href="../programm/lightning">Lightning Talks</a></td>
+<td rowspan="1"></td>
 <td></td></tr>
 
 <tr><td>14:00</td>

@@ -96,4 +96,8 @@ menu: main
 <tr><td>11:30&nbsp;-&nbsp;12:00</td><td><a class="talk"></a></td><td><a href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Cornelia&nbsp;Heinitz,&nbsp;Stephan&nbsp;Hartmann</td></tr>
 <tr><td>12:30&nbsp;-&nbsp;13:00</td><td><a class="talk"></a></td><td><a href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Cornelia&nbsp;Heinitz,&nbsp;Stephan&nbsp;Hartmann</td></tr>
 <tr><td>17:30&nbsp;-&nbsp;18:00</td><td><a class="talk"></a></td><td><a href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Cornelia&nbsp;Heinitz,&nbsp;Stephan&nbsp;Hartmann</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td></td><td></td><td>Bienen</td></tr>
+<tr><td>12:00&nbsp;-&nbsp;12:30</td><td><a class="talk"></a></td><td><a href="../programm/matthias-windrich-imkern-als-hobby">Imkern&nbsp;als&nbsp;Hobby</a></td><td>Matthias&nbsp;Windrich</td></tr>
+<tr><td>13:00&nbsp;-&nbsp;12:30</td><td><a class="talk"></a></td><td><a href="../programm/matthias-windrich-imkern-als-hobby">Imkern&nbsp;als&nbsp;Hobby</a></td><td>Matthias&nbsp;Windrich</td></tr>
 </table>
