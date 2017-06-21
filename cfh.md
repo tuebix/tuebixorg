@@ -25,9 +25,9 @@ O O 19:00 - 20:00 Grillen<br/>
 
 benötigt etwas "Einarbeitung"; daher wäre es toll, wenn Du dich gleich für zwei Schichten bereit erklären könntest
 
-X X O O O 10:00-11:00 Pizza (Aufbau)<br/>
-X X X O O 11:00-12:00 Pizza<br/>
-X O O O O 12:00-13:00 Pizza<br/>
+X X X O O 10:00-11:00 Pizza (Aufbau)<br/>
+X X X X O 11:00-12:00 Pizza<br/>
+X X O O O 12:00-13:00 Pizza<br/>
 O O O O O 13:00-14:00 Pizza<br/>
 X O O O O 14:00-15:00 Pizza<br/>
 O O O O O 15:00-16:00 Pizza<br/>
