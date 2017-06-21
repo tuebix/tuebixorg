@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/mark-schmidt-gentoo-installparty/
+permalink: /2017/programm/mark-schmidt-andreas-stockmayer-gentoo-installparty/
 weight:
 menu:
 ---

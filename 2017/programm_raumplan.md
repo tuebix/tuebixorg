@@ -23,7 +23,7 @@ menu: main
 <tr><td>10:00&nbsp;-&nbsp;12:00</td><td><a class="work"></a></td><td><a href="../programm/klaus-knopper-3d-konstruktion-und-3d-druck-mit-openscad-und-slic3r">3D&nbsp;Konstruktion&nbsp;und&nbsp;3D&nbsp;Druck&nbsp;mit&nbsp;OpenSCAD&nbsp;und&nbsp;Slic3r</a></td><td>Klaus&nbsp;Knopper</td></tr>
 <tr><td>12:00&nbsp;-&nbsp;14:00</td><td><a class="work"></a></td><td><a href="../programm/klaus-knopper-3d-konstruktion-und-3d-druck-mit-openscad-und-slic3r-fuer-fortgeschrittene">3D&nbsp;Konstruktion&nbsp;und&nbsp;3D&nbsp;Druck&nbsp;mit&nbsp;OpenSCAD&nbsp;und&nbsp;Slic3r&nbsp;für&nbsp;Fortgeschrittene</a></td><td>Klaus&nbsp;Knopper</td></tr>
 <tr><td>14:00&nbsp;-&nbsp;16:00</td><td><a class="work"></a></td><td><a href="../programm/matthias-windrich-tiddlywiki-das-hosentaschenwiki">TiddlyWiki&nbsp;das&nbsp;Hosentaschenwiki</a></td><td>Matthias&nbsp;Windrich</td></tr>
-<tr><td>16:00&nbsp;-&nbsp;18:00</td><td><a class="work"></a></td><td><a href="../programm/mark-schmidt-gentoo-installparty">Gentoo&nbsp;Installparty</a></td><td>Mark&nbsp;Schmidt</td></tr>
+<tr><td>16:00&nbsp;-&nbsp;18:00</td><td><a class="work"></a></td><td><a href="../programm/mark-schmidt-andreas-stockmayer-gentoo-installparty">Gentoo&nbsp;Installparty</a></td><td>Mark&nbsp;Schmidt,&nbsp;Andreas&nbsp;Stockmayer</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Raum W2</td></tr>
 <tr><td>11:00&nbsp;-&nbsp;12:00</td><td><a class="talk"></a></td><td><a href="../programm/sven-guckes-tools-tools-tools">Tools&nbsp;Tools&nbsp;Tools!</a></td><td>Sven&nbsp;Guckes</td></tr>
