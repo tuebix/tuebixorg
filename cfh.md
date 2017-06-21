@@ -74,7 +74,7 @@ Wir nehmen pro Raum 2 Personen in die Liste und diese können sich dann absprech
 Sehr gerne kann man sich auch direkt als Gruppe für einen Raum anmelden und sich dann untereinander organisieren.
 
 X O Raumsupport V1<br/>
-O O Raumsupport V3<br/>
+X O Raumsupport V3: Brauchen noch Betreuer*in von 10:00 - 13:30<br/>
 X O Raumsupport V4<br/>
 <br/>
 O Raumsupport W1<br/>
