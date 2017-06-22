@@ -6,7 +6,7 @@
     <start>2016-06-24</start>
     <end>2016-06-24</end>
     <days>1</days>
-    <release>1.20170620.1100</release>
+    <release>1.20170623.0113</release>
     <timeslot_duration>00:30</timeslot_duration>
   </conference>
   <day date="2016-06-24" index="1">
@@ -335,6 +335,32 @@ Ich bin Fabian Wannenmacher studiere in Tübingen Informatik und nutze i3.
 </links>
 <persons></persons>
 </event>
+<event id="felix-bauer-incontinent-containers">
+<start>14:50</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Incontinent Containers</title>
+<type>lightning</type>
+<description>Felix Bauer
+
+Kurz gezeigt was Docker noch so kann und wo man aufpassen sollte.
+
+### Vorwissen
+
+Ungefähr wissen was Docker ist. Evtl. davor den Vortrag zu Docker anschauen.
+
+### Über mich
+
+Ich bin Felix, IT-Security-Mensch, begeistert und fasziniert von Dingen und Anderem
+
+</description>
+<links>
+
+- <link href="https://asciinema.org/~FelixBauer" >https://asciinema.org/~FelixBauer</link>
+- <link href="http://www.tuebix.org/2017/programm/holger-gantikow-containing-containers-oder-wie-laesst-sich-der-wal-baendigen/" >Vortrag zu Docker von Holger Gantikow: "Containing Containers"</link>
+</links>
+<persons></persons>
+</event>
 <event id="harald-koenig-in-5-jahren-mit-shell-skripten-zum-kernel-treiber-fuer-neue-hw">
 <start>12:00</start>
 <duration>01:00</duration>
@@ -407,6 +433,31 @@ Als dualer Student der Informatik (Fachrichtung Informationstechnik) bei ATOS in
 </description>
 <persons></persons>
 </event>
+<event id="justin-humm-poster-design-in-tmux">
+<start>14:45</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Poster Design in tmux</title>
+<type>lightning</type>
+<description>Justin Humm
+
+Man braucht keinen Adobe CC Account, um ein Poster zu gestalten. Das geht auch in tmux. Im Vortrag wird knapp beschrieben, was für Überlegungen die Grundlage legten und was für Techniken zum diesjährigen Plakat des Tübix geführt haben.
+
+### Vorwissen
+
+Ihr solltet das Plakat gesehen haben. Hängt wahrscheinlich am Infostand.
+
+### Über mich
+
+Interessiert an Technologie und Gesellschaft. Bewege mich seit einigen Jahren zwischen Netzpolitik, Softwareentwicklung und Medienkunst.
+
+</description>
+<links>
+
+- <link href="http://erictapen.de" >Mein Blog, auf dem vllt bald der Vortrag online geht.</link>
+</links>
+<persons></persons>
+</event>
 <event id="justin-humm-web-1.0-fuer-hipster">
 <start>16:00</start>
 <duration>00:30</duration>
@@ -465,6 +516,36 @@ Klaus Knopper ist Software-Entwickler, Ingenieur und Professor im Fachbereich Be
 - <link href="http://knopper.net/tuebix/" >Knoppix für Radpberry Pi basierend auf Yocto</link></links>
 <persons></persons>
 </event>
+<event id="lennard-berger-graphen-im-anmarsch">
+<start>13:45</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Graphen im Anmarsch</title>
+<type>lightning</type>
+<description>Lennard Berger
+
+Es wird einen kurzen Crashkurs zu Graphendatenbanken geben, insbesondere wird hier auf Neo4j eingegangen. Ein traditioneller RDMS-Datensatz wird importiert und wir spielen ein wenig mit den Ergebnissen.
+
+### Vorwissen
+
+Vorwissen in Datenbanken ist zu empfehlen, also
+- solltest du mal von relativen und dokumentbasierten Datenbanken gehört haben
+- schon mal SQL gesehen haben
+- Vorwissen in Graphentheorie wird nicht benötigt
+
+Da wir hier direkt die Sandbox von Neo4j verwenden, welche mit der Community-Edition ausgeliefert wird, wird kein Driver benutzt, also auch keine favorisierte Programmiersprache, that's your turn.
+
+### Über mich
+
+Ich bin Lenny, studiere Bioinformatik und finde Visualisierung von Daten eine dufte Sache.
+
+</description>
+<links>
+
+- <link href="https://neo4j.com/" >Neo4j</link>
+</links>
+<persons></persons>
+</event>
 <event id="matthias-beyer-julian-ganz-git-dit-distributed-issue-tracking-mit-git">
 <start>16:30</start>
 <duration>00:30</duration>
@@ -487,6 +568,31 @@ Wir sind zwei Informatik-Master-Studenten der Hochschule Furtwangen.
 <links>
 
 - <link href="https://github.com/neithernut/git-dit/" >git-dit - github projekt</link>
+</links>
+<persons></persons>
+</event>
+<event id="meffisto-backups-warum-fast-alle-tools-unzureichend-sind-fast-alle">
+<start>14:40</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Backups: Warum fast alle Tools unzureichend sind... fast alle...</title>
+<type>lightning</type>
+<description>Meffisto
+
+Wirklich JEDER benötigt irgendein Tool zum Erstellen von Backups. Die Auswahl und die Möglichkeiten sind beinahe unüberschaubar, doch die meisten Tools enttäuschen früher oder später. Ich möchte kurz vorstellen warum das unscheinbare rdiff-backup die Lösung sein kann.
+
+### Vorwissen
+
+Man sollte sich schonmal Gedanken über backups gemacht haben.
+
+### Über mich
+
+Free Software Enthusiast
+
+</description>
+<links>
+
+- <link href="http://www.nongnu.org/rdiff-backup/" >Offizielle Website von rdiff-backup</link>
 </links>
 <persons></persons>
 </event>
@@ -615,6 +721,27 @@ Ich bin Software-Entwickler, FOSS-Anhänger, Ex-Mozillianer und Maintainer von p
 - <link href="http://picotm.org/" >picotm Website</link></links>
 <persons></persons>
 </event>
+<event id="timo-dufner-das-fablab-neckar-alb-stellt-sich-vor">
+<start>14:15</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Das FabLab Neckar-Alb stellt sich vor</title>
+<type>lightning</type>
+<description>Timo Dufner
+
+Eine kurze Vorstellung des FabLab Neckar-Alb und der laufenden Projekte.
+
+### Über mich
+
+Timo Dufner ist Medienkünstler, Informatiker & FabLab Gründer. Er trinkt gerne Wein.
+
+</description>
+<links>
+
+- <link href="https://www.fablab-neckar-alb.org" >FabLab Neckar-Alb Home</link>
+</links>
+<persons></persons>
+</event>
 </room>
 <room name="V4">
 <event id="adrian-reber-xonotic-all-around-the-world">
@@ -668,6 +795,10 @@ Maschine gewohnt ist.
 ### Über mich
 
 LX{C,D} core dev.
+
+### Vorwissen
+Es ist kein Vorwissen erfordet. Ich werde eine Einführung in den Linux
+Container Begriff geben.
 
 </description>
 <links>
@@ -913,13 +1044,13 @@ Klaus Knopper ist Ingenieur, Software-Entwickler und Professor im Fachbereich Be
 - <link href="http://knopper.net/tuebix/" >Unterlagen zum Kurs</link></links>
 <persons></persons>
 </event>
-<event id="mark-schmidt-gentoo-installparty">
+<event id="mark-schmidt-andreas-stockmayer-gentoo-installparty">
 <start>16:00</start>
 <duration>02:00</duration>
 <room>W1</room>
 <title>Gentoo Installparty</title>
 <type>workshop</type>
-<description>Mark Schmidt
+<description>Mark Schmidt, Andreas Stockmayer
 
 Gentoo ist eine eine Linux-Distribution, die sich an erfahrenere Linux-Benutzer richtet und diesen sehr viele Freiheiten bietet. Dies beginnt bei der verwendeten Software, Diensten und endet beim Init-System und einem eigenen Kernel. Um dies zu erreichen nutzt Gentoo ein spezielles Paketverwaltungssystem namens “portage”, das die Pakete nach Benutzerwünschen auf dem jeweiligen System kompiliert. In diesem Workshop wird kurz auf die Gentoo-Philosophie, die Benutzung von Portage und die Grundinstallation eingegangen.
 
@@ -933,7 +1064,8 @@ Linux-Grundlagen ;)
 - <link href="https://wiki.gentoo.org/wiki/Handbook:AMD64" >Gentoo-Handbook</link>
 - <link href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage" >Portage</link>
 - <link href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About" >Gentoo-Installation</link>
-- <link href="https://wiki.gentoo.org/wiki/Main_Page" >Gentoo Wiki</link></links>
+- <link href="https://wiki.gentoo.org/wiki/Main_Page" >Gentoo Wiki</link>
+</links>
 <persons></persons>
 </event>
 <event id="matthias-windrich-tiddlywiki-das-hosentaschenwiki">

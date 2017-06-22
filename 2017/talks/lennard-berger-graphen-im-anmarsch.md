@@ -15,9 +15,9 @@ Es wird einen kurzen Crashkurs zu Graphendatenbanken geben, insbesondere wird hi
 
 ### Vorwissen
 
-Vorwissen in Datenbanken ist zu empfehlen, also                                                                                           
-- solltest du mal von relativen und dokumentbasierten Datenbanken gehört haben                                                                            
-- schon mal SQL gesehen haben                                                                                                                             
+Vorwissen in Datenbanken ist zu empfehlen, also
+- solltest du mal von relativen und dokumentbasierten Datenbanken gehört haben
+- schon mal SQL gesehen haben
 - Vorwissen in Graphentheorie wird nicht benötigt
 
 Da wir hier direkt die Sandbox von Neo4j verwenden, welche mit der Community-Edition ausgeliefert wird, wird kein Driver benutzt, also auch keine favorisierte Programmiersprache, that's your turn.
