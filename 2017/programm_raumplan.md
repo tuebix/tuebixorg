@@ -59,7 +59,7 @@ menu: main
 <tr><td>13:30&nbsp;-&nbsp;13:35</td><td><a class="light"></a></td><td><a href="../programm/david-haaga-javascript-liebt-dich">JavaScript&nbsp;liebt&nbsp;Dich</a></td><td>David&nbsp;Haaga</td></tr>
 <tr><td>13:35&nbsp;-&nbsp;13:40</td><td><a class="light"></a></td><td><a href="../programm/fabian-wannenmacher-your-own-i3bar-the-simple-way">Your&nbsp;own&nbsp;i3bar&nbsp;-&nbsp;The&nbsp;simple&nbsp;way</a></td><td>Fabian&nbsp;Wannenmacher</td></tr>
 <tr><td>13:40&nbsp;-&nbsp;13:45</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei - greif zu!</a></td><td>Du?&nbsp;;)</td></tr>
-<tr><td>13:45&nbsp;-&nbsp;13:50</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei - greif zu!</a></td><td>Du?&nbsp;;)</td></tr>
+<tr><td>13:45&nbsp;-&nbsp;13:50</td><td><a class="light"></a></td><td><a href="../programm/lennard-berger-graphen-im-anmarsch/">Graphen&nbsp;im&nbsp;Anmarsch</a></td><td>Lennard&nbsp;Berger</td></tr>
 <tr><td>13:50&nbsp;-&nbsp;13:55</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei - greif zu!</a></td><td>Du?&nbsp;;)</td></tr>
 <tr><td>13:55&nbsp;-&nbsp;14:00</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei - greif zu!</a></td><td>Du?&nbsp;;)</td></tr>
 <tr><td>14:00&nbsp;-&nbsp;14:05</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei - greif zu!</a></td><td>Du?&nbsp;;)</td></tr>
