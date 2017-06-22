@@ -13,6 +13,10 @@ menu:
 
 Wirklich JEDER benötigt irgendein Tool zum Erstellen von Backups. Die Auswahl und die Möglichkeiten sind beinahe unüberschaubar, doch die meisten Tools enttäuschen früher oder später. Ich möchte kurz vorstellen warum das unscheinbare rdiff-backup die Lösung sein kann.
 
+### Vorwissen
+
+Man sollte sich schonmal Gedanken über backups gemacht haben.
+
 ### Über mich
 
 Free Software Enthusiast
