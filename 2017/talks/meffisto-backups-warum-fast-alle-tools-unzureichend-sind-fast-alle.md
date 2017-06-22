@@ -11,7 +11,7 @@ menu:
 
 ### Meffisto
 
-Wirklich JEDER benötigt irgendein Tool zum Erstellen von Backups. Die Auswahl und die Möglichkeiten sind beinahe unberschaubar, doch die meisten Tools entäuschen früher oder später. Ich möchte kurz vorstellen warum das unscheinbare rdiff-backup die Lösung sein kann.
+Wirklich JEDER benötigt irgendein Tool zum Erstellen von Backups. Die Auswahl und die Möglichkeiten sind beinahe unüberschaubar, doch die meisten Tools enttäuschen früher oder später. Ich möchte kurz vorstellen warum das unscheinbare rdiff-backup die Lösung sein kann.
 
 ### Über mich
 
