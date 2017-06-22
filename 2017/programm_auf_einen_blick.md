@@ -101,7 +101,7 @@ padding-right: 8px;
 <td>14:00</td></tr>
 
 <tr><td>&nbsp;</td>
-<td rowspan="1"><a class="talk" href="../programm/mark-schmidt-vorstellung-der-testbed-plattformen-am-lehrstuhl-kommunikationsnetze">testbeds</a><br />Mark&nbsp;Schmidt</td>
+<td rowspan="1"><a class="talk" href="../programm/mark-schmidt-andreas-stockmayer-vorstellung-der-testbed-plattformen-am-lehrstuhl-kommunikationsnetze">testbeds</a><br />Mark&nbsp;Schmidt,<br />Andreas&nbsp;Stockmayer</td>
 <td></td></tr>
 
 <tr><td>15:00</td>
