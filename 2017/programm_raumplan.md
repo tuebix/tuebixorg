@@ -100,7 +100,7 @@ menu: main
 <tr><td>10:00</td><td><a class="work"></a></td><td><a href="../../kinder">Kinderprogramm Mini-FrogLabs</a></td><td>Teckids e.V.</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Lehrstuhl Kommunikationsnetze (Treffpunkt am Info-Stand)</td></tr>
-<tr><td>14:00&nbsp;-&nbsp;14:30</td><td><a class="talk"></a></td><td><a href="../programm/mark-schmidt-vorstellung-der-testbed-plattformen-am-lehrstuhl-kommunikationsnetze">Vorstellung&nbsp;der&nbsp;Testbed-Plattformen&nbsp;am&nbsp;Lehrstuhl&nbsp;Kommunikationsnetze</a></td><td>Mark&nbsp;Schmidt</td></tr>
+<tr><td>14:00&nbsp;-&nbsp;14:30</td><td><a class="talk"></a></td><td><a href="../programm/mark-schmidt-andreas-stockmayer-vorstellung-der-testbed-plattformen-am-lehrstuhl-kommunikationsnetze">Vorstellung&nbsp;der&nbsp;Testbed-Plattformen&nbsp;am&nbsp;Lehrstuhl&nbsp;Kommunikationsnetze</a></td><td>Mark&nbsp;Schmidt,Andreas&nbsp;Stockmayer</td></tr>
 <tr><td>14:30&nbsp;-&nbsp;15:00</td><td><a class="talk"></a></td><td><a href="../programm/mark-schmidt-vorstellung-der-testbed-plattformen-am-lehrstuhl-kommunikationsnetze">Vorstellung&nbsp;der&nbsp;Testbed-Plattformen&nbsp;am&nbsp;Lehrstuhl&nbsp;Kommunikationsnetze</a></td><td>Mark&nbsp;Schmidt</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Observatorium</td></tr>

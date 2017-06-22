@@ -97,7 +97,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/christian-brauner-surviving-open-source">surviving</a><br />Christian&nbsp;Brauner</td>
 <td rowspan="2"><a class="talk" href="../programm/holger-gantikow-3d-vdi-unter-linux-konzepte-und-technologien-fuer-3d-beschleunigte-arbeitsplaetze">3D-VDI</a><br />Holger&nbsp;Gantikow</td>
 <td rowspan="4"><a class="lpic" href="../../lpic">LPIC</a></td>
-<td rowspan="1"><a class="talk" href="../programm/mark-schmidt-vorstellung-der-testbed-plattformen-am-lehrstuhl-kommunikationsnetze">testbeds</a><br />Mark&nbsp;Schmidt</td>
+<td rowspan="1"><a class="talk" href="../programm/mark-schmidt-andreas-stockmayer-vorstellung-der-testbed-plattformen-am-lehrstuhl-kommunikationsnetze">testbeds</a><br />Mark&nbsp;Schmidt,<br />Andreas&nbsp;Stockmayer</td>
 <td>14:00</td></tr>
 
 <tr><td>&nbsp;</td>

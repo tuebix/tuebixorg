@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/mark-schmidt-vorstellung-der-testbed-plattformen-am-lehrstuhl-kommunikationsnetze/
+permalink: /2017/programm/mark-schmidt-andreas-stockmayer-vorstellung-der-testbed-plattformen-am-lehrstuhl-kommunikationsnetze/
 weight:
 menu:
 ---
@@ -11,7 +11,7 @@ menu:
 
 ### <img height = "32" src="../../../images/talk.svg"> 14:30 bis 15:00 am Lehrstuhl Kommunikationsnetze
 
-### Mark Schmidt
+### Mark Schmidt, Andreas Stockmayer
 
 Treffpunkt für beide Touren jeweils am Infostand!
 
