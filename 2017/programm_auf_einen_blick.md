@@ -37,7 +37,7 @@ padding-right: 8px;
 
 <tr><td>10:00</td>
 <td rowspan="4"><a class="work" href="../programm/klaus-knopper-3d-konstruktion-und-3d-druck-mit-openscad-und-slic3r">openSCAD&nbsp;I</a><br />Klaus&nbsp;Knopper</td>
-<td rowspan="2"></td>
+<td rowspan="2"><a class="talk" href="../programm/maxwell-bernstein-writing-a-lisp">Lisp</a><br />Maxwell&nbsp;Bernstein</td>
 <td rowspan="4"></td>
 <td rowspan="2"><a class="talk" href="../programm/dominik-brodowski-my-own-my-precious-oder-sind-passwoerter-gegenueber-strafverfolgern-geheim">Strafvervolgung</a><br />Dominik&nbsp;Brodowski</td>
 <td rowspan="16">x</td>

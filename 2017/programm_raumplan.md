@@ -26,6 +26,7 @@ menu: main
 <tr><td>16:00&nbsp;-&nbsp;18:00</td><td><a class="work"></a></td><td><a href="../programm/mark-schmidt-andreas-stockmayer-gentoo-installparty">Gentoo&nbsp;Installparty</a></td><td>Mark&nbsp;Schmidt,&nbsp;Andreas&nbsp;Stockmayer</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Raum W2</td></tr>
+<tr><td>10:00&nbsp;-&nbsp;11:00</td><td><a class="talk"></a></td><td><a href="../programm/maxwell-bernstein-writing-a-lisp">Writing&nbsp;a&nbsp;Lisp</a></td><td>Maxwell&nbsp;Bernstein</td></tr>
 <tr><td>11:00&nbsp;-&nbsp;12:00</td><td><a class="talk"></a></td><td><a href="../programm/sven-guckes-tools-tools-tools">Tools&nbsp;Tools&nbsp;Tools!</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>12:00&nbsp;-&nbsp;14:00</td><td><a class="work"></a></td><td><a href="../programm/philipp-kammerer-vim-the-first-contact">Vim:&nbsp;The&nbsp;First&nbsp;contact</a></td><td>Philipp&nbsp;Kammerer</td></tr>
 <tr><td>14:00&nbsp;-&nbsp;16:00</td><td><a class="work"></a></td><td><a href="../programm/sven-guckes-vim-fuer-fortgeschrittene">Vim&nbsp;für&nbsp;Fortgeschrittene</a></td><td>Sven&nbsp;Guckes</td></tr>
