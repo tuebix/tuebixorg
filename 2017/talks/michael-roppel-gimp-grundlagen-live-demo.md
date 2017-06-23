@@ -17,3 +17,6 @@ Der Vortrag ist für Neulinge und jene gedacht, die schon mal in GIMP reingeschn
 
 Ich bin seit einigen Jahren im Vorstand der Linux User Group Augsburg (LUGA) e.V. tätig und beschäftige mich seit 2008 intensiver mit der Bildbearbeitung per GIMP. 
 
+### Links
+
+- <a href="http://michael-roppel.de/gimp.home/" target="_blank">Demo zum Vortrag</a>
