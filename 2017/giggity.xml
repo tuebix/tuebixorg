@@ -6,7 +6,7 @@
     <start>2017-06-24</start>
     <end>2017-06-24</end>
     <days>1</days>
-    <release>1.20170623.1936</release>
+    <release>1.20170623.2025</release>
     <timeslot_duration>00:30</timeslot_duration>
   </conference>
   <day date="2016-06-24" index="1">
@@ -657,6 +657,7 @@ Raphael Groner (E-Mail: voice-mediator@email.de) hat einen Studiumsabschluss als
 </event>
 <event id="robert-eisele-get-dirty-with-dhcp">
 <start>13:55</start>
+<duration>00:05</duration>
 <room>V3</room>
 <title>Server schreiben? Das kann doch jeder!</title>
 <type>lightning</type>
@@ -677,6 +678,7 @@ Ich studiere Informatik mit Psychologie im Nebenfach und lege meinen Fokus auf p
 </event>
 <event id="robert-eisele-server-schreiben-das-kann-doch-jeder">
 <start>13:40</start>
+<duration>00:05</duration>
 <room>V3</room>
 <title>Server schreiben? Das kann doch jeder!</title>
 <type>lightning</type>
@@ -744,6 +746,7 @@ Linux und OpenSource begeistern mich seit 15 Jahren. Leidenschaftlicher Java Pro
 </event>
 <event id="sven-guckes-viminfo-sessions">
 <start>13:50</start>
+<duration>00:05</duration>
 <room>V3</room>
 <title>Viminfo + Sessions </title>
 <type>lightning</type>
