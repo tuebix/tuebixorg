@@ -6,7 +6,7 @@
     <start>2016-06-24</start>
     <end>2016-06-24</end>
     <days>1</days>
-    <release>1.20170609.0240</release>
+    <release>1.20170623.0113</release>
     <timeslot_duration>00:30</timeslot_duration>
   </conference>
   <day date="2016-06-24" index="1">
@@ -44,12 +44,24 @@ Debian-Entwickler, arbeitet als Netzwerksicherheitsspezialist und Linux-Systemad
 <type>talk</type>
 <description>Christian Brauner
 
-Open source has become the leading model of software development in recent years. Nonetheless, navigating the depths of large-scale open source projects can be really challening. This talk will try to provide some pointed on how to maintain a large-scale open source projects. Especially how to handle conflicts, performing code-reviews in the open, dealing with code rejection, writing public specs and collaborating with a diverse group of people of different backgrounds.
+Zusammen oder alleine ein größeres Open Source Projekt zu führen kann zuweilen
+eine ziemliche Herausforderung sein. Vom Beantworten einer Flut von
+Support-Mails, dem Ablehnen von Patches und Pull-Requests, wann und wer einen
+Patch mergen darf bis zum Vorstellen des Projektes auf Konferenzen, stellen
+sich viele Fragen. Zusätzlich müssen Upstream-Projekte, die
+sicherheitskritische Software programmieren, auch Sicherheitslücken korrekt
+behandeln. Das beinhaltet vor allem das Vorhandensein einer notwendigen
+Infrakstruktur, damit Nutzer Sicherheitslücken melden können, ohne dass diese
+sofort öffentlich bekannt werden, das Anmelden des zugehörigen CVEs und das
+Programmieren und Veröffentlichen der zugehörigen Patches. Für alles gibt es
+ein formales Protokoll, an das Upstream Maintainer sich unbedingt halten
+sollten, um die Sicherheit der Nutzer nicht zu gefährden.
+Dieser Vortrag will einen Überblick über diese und andere Probleme geben, die
+dabei Auftreten können und Ratschläge geben, wie man mit diesen am besten umgeht.
 
 ### Über mich
 
-This guy.
-
+Ein Software Maintainer. :)
 </description>
 <persons></persons>
 </event>
@@ -251,6 +263,7 @@ André Niemann fing mit Linux als Hobby zu Zeiten an, als es noch gängig war, T
 </event>
 <event id="cornelius-koelbel-machs-halt-besser-google-authenticator-reloaded">
 <start>14:35</start>
+<duration>00:05</duration>
 <room>V3</room>
 <title>Mach's halt besser - Google Authenticator reloaded</title>
 <type>lightning</type>
@@ -271,6 +284,80 @@ Cornelius arbeitet seit 23 Jahren produktiv mit Linux.  Seit 12 Jahren liegt sei
 
 - <link href="https://netknights.it/das-problem-mit-dem-google-authenticator/" >Mein Rant über den Google Authenticator</link>
 - <link href="https://privacyidea.org" >Projektwebseite</link>
+</links>
+<persons></persons>
+</event>
+<event id="david-haaga-javascript-liebt-dich">
+<start>13:30</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>JavaScript liebt Dich</title>
+<type>lightning</type>
+<description>David Haaga
+
+Warum JavaScript? Welche interessanten Projekte und Möglichkeiten gibt es, die Dich einen Blick auf JS riskieren lassen?
+Zudem: Werbung für das Tübinger JS Meetup.
+
+### Über mich
+
+Bin gern im hiesigen FabLab, arbeite fürs \"Infocenter Internet der Dinge\" und team training GmbH in Tübingen und interessiere mich allgemein für Dinge, die etwas tun.
+
+</description>
+<links>
+
+- <link href="https://www.meetup.com/Tue-JS/" >Tübinger JavaScript Gruppe</link>
+</links>
+<persons></persons>
+</event>
+<event id="fabian-wannenmacher-your-own-i3bar-the-simple-way">
+<start>13:35</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Your own i3bar – The simple way</title>
+<type>lightning</type>
+<description>Fabian Wannenmacher
+
+Im Internet gibt es viele Anleitungen wie man sich mit JSON und Conky seine eigene Alternative zu i3status bauen kann. Die meisten davon sind IMHO unnötig kompliziert. Ich möchte vorführen, wie man mit wenig einlesen schnell seine i3bar beliebig erweitern kann.
+
+### Vorwissen
+
+Keines. Der Vortrag richtet sich aber an i3-Nutzer und ist für andere eher nutzlos. Minimale bash/unix Kenntnisse sind von Vorteil. Die Beispiele sollten aber für jeden i3-user verständlich sein.
+
+### Über mich
+
+Ich bin Fabian Wannenmacher studiere in Tübingen Informatik und nutze i3.
+
+</description>
+<links>
+
+- <link href="https://i3wm.org/docs/i3bar-protocol.html" >i3bar input protocol</link>
+- <link href="https://i3wm.org/docs/" >Documentation for i3</link>
+</links>
+<persons></persons>
+</event>
+<event id="felix-bauer-incontinent-containers">
+<start>14:50</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Incontinent Containers</title>
+<type>lightning</type>
+<description>Felix Bauer
+
+Kurz gezeigt was Docker noch so kann und wo man aufpassen sollte.
+
+### Vorwissen
+
+Ungefähr wissen was Docker ist. Evtl. davor den Vortrag zu Docker anschauen.
+
+### Über mich
+
+Ich bin Felix, IT-Security-Mensch, begeistert und fasziniert von Dingen und Anderem
+
+</description>
+<links>
+
+- <link href="https://asciinema.org/~FelixBauer" >https://asciinema.org/~FelixBauer</link>
+- <link href="http://www.tuebix.org/2017/programm/holger-gantikow-containing-containers-oder-wie-laesst-sich-der-wal-baendigen/" >Vortrag zu Docker von Holger Gantikow: "Containing Containers"</link>
 </links>
 <persons></persons>
 </event>
@@ -327,6 +414,7 @@ Ich bin Student der Medien- und Kommunikationsinformatik in Reutlingen und arbei
 </event>
 <event id="josef-plendl-image-scanner-fuer-docker">
 <start>14:20</start>
+<duration>00:05</duration>
 <room>V3</room>
 <title>Image-Scanner für Docker</title>
 <type>lightning</type>
@@ -345,6 +433,31 @@ Als dualer Student der Informatik (Fachrichtung Informationstechnik) bei ATOS in
 </description>
 <persons></persons>
 </event>
+<event id="justin-humm-poster-design-in-tmux">
+<start>14:45</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Poster Design in tmux</title>
+<type>lightning</type>
+<description>Justin Humm
+
+Man braucht keinen Adobe CC Account, um ein Poster zu gestalten. Das geht auch in tmux. Im Vortrag wird knapp beschrieben, was für Überlegungen die Grundlage legten und was für Techniken zum diesjährigen Plakat des Tübix geführt haben.
+
+### Vorwissen
+
+Ihr solltet das Plakat gesehen haben. Hängt wahrscheinlich am Infostand.
+
+### Über mich
+
+Interessiert an Technologie und Gesellschaft. Bewege mich seit einigen Jahren zwischen Netzpolitik, Softwareentwicklung und Medienkunst.
+
+</description>
+<links>
+
+- <link href="http://erictapen.de" >Mein Blog, auf dem vllt bald der Vortrag online geht.</link>
+</links>
+<persons></persons>
+</event>
 <event id="justin-humm-web-1.0-fuer-hipster">
 <start>16:00</start>
 <duration>00:30</duration>
@@ -353,15 +466,24 @@ Als dualer Student der Informatik (Fachrichtung Informationstechnik) bei ATOS in
 <type>talk</type>
 <description>Justin Humm
 
-An dem Beispiel einer Bloginfrastruktur zeige ich ein paar Konzepte, die den Umgang mit dem Web sehr simpel, nachhaltig und überschaubar machen. Hier geht es nicht um Javas +cript oder Flash, sondern HTML und CSS und vor allem um den schmerzfreien Weg dorthin.
+Moderne Webapps brauchen häufig eine Menge Softwarekomponenten, die das Web 1.0 noch nicht hatte. Dazu zählen Content Management Systeme, Datenbanken, Interpreter usw. Für den eigenen Blog sind diese Komponenten häufig unnötig und erschweren nur das Leben in Hinblick auf Administration, Sicherheit, Skalierbarkeit und Archivierbarkeit der Seite.
+
+An dem Beispiel eines Blogs zeige ich ein paar Konzepte, die den Umgang mit dem Web sehr simpel, nachhaltig und überschaubar machen. Hier geht es nicht um Javascript oder Flash, sondern Static Site Generation, HTML und CSS und vor allem um den schmerzfreien Weg dorthin. Der Vortrag ist für Hipster, weil die angewandten Tools alle sehr neu und teilweise noch experimentell sind. Die vorgestellte Website ist also eher als Proof of Concept zu verstehen, denn als fertige Lösung.
+
+Schlüsselkonzepte sind:
+
+* Erstellen des Contens in Markdown
+* Static Content durch einen in Haskell definierten Static Site Generator
+* Verteilte Auslieferung der Seite durch IPFS ("Jeder Mensch kann meinen Blog bereitstellen, das muss nicht nur ich sein")
+* "Pure" Definition des Blogs und seiner Build-Abhängigkeiten durch Nix
 
 ### Vorwissen
 
-Grundsätzliches Verständis der Motivation von Simplizität und Dezentralität.
+Grundsätzliches Verständis der Motivation von Simplizität und Dezentralität. Komfortables Feeling mit der Command Line.
 
 ### Über mich
 
-Interessiert an Technologie an Gesellschaft. Bewege mich seit einigen Jahren zwischen Netzpolitik, Softwareentwicklung und Medienkunst.
+Interessiert an Technologie und Gesellschaft. Bewege mich seit einigen Jahren zwischen Netzpolitik, Softwareentwicklung und Medienkunst.
 
 </description>
 <links>
@@ -372,6 +494,7 @@ Interessiert an Technologie an Gesellschaft. Bewege mich seit einigen Jahren zwi
 </event>
 <event id="klaus-knopper-knoppix-fuer-raspberry-pi-mit-dem-yocto-framework">
 <start>14:30</start>
+<duration>00:05</duration>
 <room>V3</room>
 <title>Knoppix für Raspberry Pi mit dem YOCTO Framework</title>
 <type>lightning</type>
@@ -391,6 +514,36 @@ Klaus Knopper ist Software-Entwickler, Ingenieur und Professor im Fachbereich Be
 <links>
 
 - <link href="http://knopper.net/tuebix/" >Knoppix für Radpberry Pi basierend auf Yocto</link></links>
+<persons></persons>
+</event>
+<event id="lennard-berger-graphen-im-anmarsch">
+<start>13:45</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Graphen im Anmarsch</title>
+<type>lightning</type>
+<description>Lennard Berger
+
+Es wird einen kurzen Crashkurs zu Graphendatenbanken geben, insbesondere wird hier auf Neo4j eingegangen. Ein traditioneller RDMS-Datensatz wird importiert und wir spielen ein wenig mit den Ergebnissen.
+
+### Vorwissen
+
+Vorwissen in Datenbanken ist zu empfehlen, also
+- solltest du mal von relativen und dokumentbasierten Datenbanken gehört haben
+- schon mal SQL gesehen haben
+- Vorwissen in Graphentheorie wird nicht benötigt
+
+Da wir hier direkt die Sandbox von Neo4j verwenden, welche mit der Community-Edition ausgeliefert wird, wird kein Driver benutzt, also auch keine favorisierte Programmiersprache, that's your turn.
+
+### Über mich
+
+Ich bin Lenny, studiere Bioinformatik und finde Visualisierung von Daten eine dufte Sache.
+
+</description>
+<links>
+
+- <link href="https://neo4j.com/" >Neo4j</link>
+</links>
 <persons></persons>
 </event>
 <event id="matthias-beyer-julian-ganz-git-dit-distributed-issue-tracking-mit-git">
@@ -415,6 +568,31 @@ Wir sind zwei Informatik-Master-Studenten der Hochschule Furtwangen.
 <links>
 
 - <link href="https://github.com/neithernut/git-dit/" >git-dit - github projekt</link>
+</links>
+<persons></persons>
+</event>
+<event id="meffisto-backups-warum-fast-alle-tools-unzureichend-sind-fast-alle">
+<start>14:40</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Backups: Warum fast alle Tools unzureichend sind... fast alle...</title>
+<type>lightning</type>
+<description>Meffisto
+
+Wirklich JEDER benötigt irgendein Tool zum Erstellen von Backups. Die Auswahl und die Möglichkeiten sind beinahe unüberschaubar, doch die meisten Tools enttäuschen früher oder später. Ich möchte kurz vorstellen warum das unscheinbare rdiff-backup die Lösung sein kann.
+
+### Vorwissen
+
+Man sollte sich schonmal Gedanken über backups gemacht haben.
+
+### Über mich
+
+Free Software Enthusiast
+
+</description>
+<links>
+
+- <link href="http://www.nongnu.org/rdiff-backup/" >Offizielle Website von rdiff-backup</link>
 </links>
 <persons></persons>
 </event>
@@ -473,6 +651,7 @@ Raphael Groner (E-Mail: voice-mediator@email.de) hat einen Studiumsabschluss als
 </event>
 <event id="stefan-jakoby-container-anomaly-detection">
 <start>14:25</start>
+<duration>00:05</duration>
 <room>V3</room>
 <title>Container Anomaly Detection</title>
 <type>lightning</type>
@@ -542,6 +721,27 @@ Ich bin Software-Entwickler, FOSS-Anhänger, Ex-Mozillianer und Maintainer von p
 - <link href="http://picotm.org/" >picotm Website</link></links>
 <persons></persons>
 </event>
+<event id="timo-dufner-das-fablab-neckar-alb-stellt-sich-vor">
+<start>14:15</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Das FabLab Neckar-Alb stellt sich vor</title>
+<type>lightning</type>
+<description>Timo Dufner
+
+Eine kurze Vorstellung des FabLab Neckar-Alb und der laufenden Projekte.
+
+### Über mich
+
+Timo Dufner ist Medienkünstler, Informatiker &#x26; FabLab Gründer. Er trinkt gerne Wein.
+
+</description>
+<links>
+
+- <link href="https://www.fablab-neckar-alb.org" >FabLab Neckar-Alb Home</link>
+</links>
+<persons></persons>
+</event>
 </room>
 <room name="V4">
 <event id="adrian-reber-xonotic-all-around-the-world">
@@ -574,11 +774,31 @@ Software Entwickler bei Red Hat
 <type>talk</type>
 <description>Christian Brauner
 
-LXD is a container management tool built on top of LXC and offering a REST API to manage and interact with multiple container hosts over the network.  This talk will go over the main features of LXD, a pretty thorough demonstration of its abilities, a run through the work currently being done and end with questions.  LXD is a project which began a bit over a year ago, by the same team who built LXC.  It's building on top of the very stable LXC library and adds a whole network layer to it through a simple and clean REST API.  It's user experience was rethought from the ground up, favoring security and reliability, using every single kernel security feature available to provide a safe, yet extremely fast environment. Reliability is achieved through extended error handling and the use of container images in place of locally built container templates.  LXD focuses on infrastructure containers, that is, containers running a full Linux distribution exactly as you would in a virtual machine. It doesn't know about nor care about application containers (docker, rocket, ...). Those technologies are great to manage micro-services and are a good way to distribute software, as such they make a lot of sense, inside a LXD container.  More information on the LXD project can be found at: https://linuxcontainers.org/lxd The code may be found at: https://github.com/lxc/lxd And a fully feature, interactive demo of its capabilities here: https://linuxcontainers.org/lxd/try-it
+LXD ist ein Container Management Daemon der auf der Low-Level Container Runtime
+LXC aufbaut und eine REST API zum Verwalten von mehreren Container Hosts über
+das Internet bereit stellt. Dieser Vortrag wird die Hauptfeatures von LXD
+vorstellen, eine gründliche Live-Demo der Fähigkeiten geben und die
+gegenwärtigen Features, an denen gearbeitet wird (sowohl im Kernel als auch in
+LX{C,D} selbst) diskutieren.
+Die Arbeit an LXD wurde vor gut anderthalb Jahren vom selben Team begonnen, die
+LXC geschrieben haben. Unter den Maintainern befinden sich zum Teil dieselben
+Leute, die die Features, die Container überhaupt möglich gemacht haben, im
+Kernel implementiert haben. LXD baut auf der low-level Container Runtime LXC
+auf und wurde von Grund auf neu durchdacht, mit einem Fokus auf Sicherheit,
+Zuverlässigkeit und Geschwindigkeit. Das Ziel ist es dabei, jede existierende
+Sicherheitsfunktion des Linux Kernels zu nutzen.
+LXD betreibt System Containers und keine Process Containers (docker, rocket,
+...), d.h. LXD kümmert sich ausschließlich um Container, die ein vollständiges
+Linux Betriebssystem laufen lassen, genau wie man es von einer virtuellen
+Maschine gewohnt ist.
 
 ### Über mich
 
-LX{C,D} core dev. Also, this guy.
+LX{C,D} core dev.
+
+### Vorwissen
+Es ist kein Vorwissen erfordet. Ich werde eine Einführung in den Linux
+Container Begriff geben.
 
 </description>
 <links>
@@ -586,7 +806,8 @@ LX{C,D} core dev. Also, this guy.
 - <link href="https://linuxcontainers.org/lxd/try-it" >https://linuxcontainers.org/lxd/try-it</link>
 - <link href="https://github.com/lxc/lxd" >https://github.com/lxc/lxd</link>
 - <link href="https://github.com/lxc/lxc" >https://github.com/lxc/lxc</link>
-- <link href="https://linuxcontainers.org" >https://linuxcontainers.org</link></links>
+- <link href="https://linuxcontainers.org" >https://linuxcontainers.org</link>
+</links>
 <persons></persons>
 </event>
 <event id="daniel-kraft-backy2-open-source-virtual-machine-backup-fuer-ceph-und-lvm">
@@ -823,13 +1044,13 @@ Klaus Knopper ist Ingenieur, Software-Entwickler und Professor im Fachbereich Be
 - <link href="http://knopper.net/tuebix/" >Unterlagen zum Kurs</link></links>
 <persons></persons>
 </event>
-<event id="mark-schmidt-gentoo-installparty">
+<event id="mark-schmidt-andreas-stockmayer-gentoo-installparty">
 <start>16:00</start>
 <duration>02:00</duration>
 <room>W1</room>
 <title>Gentoo Installparty</title>
 <type>workshop</type>
-<description>Mark Schmidt
+<description>Mark Schmidt, Andreas Stockmayer
 
 Gentoo ist eine eine Linux-Distribution, die sich an erfahrenere Linux-Benutzer richtet und diesen sehr viele Freiheiten bietet. Dies beginnt bei der verwendeten Software, Diensten und endet beim Init-System und einem eigenen Kernel. Um dies zu erreichen nutzt Gentoo ein spezielles Paketverwaltungssystem namens “portage”, das die Pakete nach Benutzerwünschen auf dem jeweiligen System kompiliert. In diesem Workshop wird kurz auf die Gentoo-Philosophie, die Benutzung von Portage und die Grundinstallation eingegangen.
 
@@ -843,7 +1064,8 @@ Linux-Grundlagen ;)
 - <link href="https://wiki.gentoo.org/wiki/Handbook:AMD64" >Gentoo-Handbook</link>
 - <link href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage" >Portage</link>
 - <link href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About" >Gentoo-Installation</link>
-- <link href="https://wiki.gentoo.org/wiki/Main_Page" >Gentoo Wiki</link></links>
+- <link href="https://wiki.gentoo.org/wiki/Main_Page" >Gentoo Wiki</link>
+</links>
 <persons></persons>
 </event>
 <event id="matthias-windrich-tiddlywiki-das-hosentaschenwiki">

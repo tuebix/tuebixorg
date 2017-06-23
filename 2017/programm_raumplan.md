@@ -9,6 +9,7 @@ menu: main
 
 * <span style="font-weight: bold;">Raumplan&nbsp;&nbsp;&nbsp;&nbsp;</span>
 * <a href="../programm_auf_einen_blick/">Überblick</a>&nbsp;&nbsp;&nbsp;&nbsp;
+* <a href="../programm_rahmen/">Rahmenprogramm</a>&nbsp;&nbsp;&nbsp;&nbsp;
 * <a href="../programm_was_bedeuten_die_icons">Was bedeuten die Icons <img height="18" width="18" src="../../images/workshop.svg"> <img height="18" width="18" src="../../images/talk.svg"> <img height="18" width="18" src="../../images/talk2.svg"> <img height="18" width="18" src="../../images/lightning.svg"> <img height="18" width="18" src="../../images/lpic.svg"> ?</a>
 * <a href="https://f-droid.org/repository/browse/?fdid=net.gaast.giggity" target="_blank"><img height="25" src="../../images/giggity.png" alt="giggity-Logo" title="giggity-Logo" />&nbsp;giggity</a> (bei
 <a href="https://f-droid.org/" target="_blank"><img height="25" src="../../images/fdroid.png" alt="F-Droid-Logo" title="F-Droid-Logo" />&nbsp;F-Droid</a>)
@@ -22,9 +23,10 @@ menu: main
 <tr><td>10:00&nbsp;-&nbsp;12:00</td><td><a class="work"></a></td><td><a href="../programm/klaus-knopper-3d-konstruktion-und-3d-druck-mit-openscad-und-slic3r">3D&nbsp;Konstruktion&nbsp;und&nbsp;3D&nbsp;Druck&nbsp;mit&nbsp;OpenSCAD&nbsp;und&nbsp;Slic3r</a></td><td>Klaus&nbsp;Knopper</td></tr>
 <tr><td>12:00&nbsp;-&nbsp;14:00</td><td><a class="work"></a></td><td><a href="../programm/klaus-knopper-3d-konstruktion-und-3d-druck-mit-openscad-und-slic3r-fuer-fortgeschrittene">3D&nbsp;Konstruktion&nbsp;und&nbsp;3D&nbsp;Druck&nbsp;mit&nbsp;OpenSCAD&nbsp;und&nbsp;Slic3r&nbsp;für&nbsp;Fortgeschrittene</a></td><td>Klaus&nbsp;Knopper</td></tr>
 <tr><td>14:00&nbsp;-&nbsp;16:00</td><td><a class="work"></a></td><td><a href="../programm/matthias-windrich-tiddlywiki-das-hosentaschenwiki">TiddlyWiki&nbsp;das&nbsp;Hosentaschenwiki</a></td><td>Matthias&nbsp;Windrich</td></tr>
-<tr><td>16:00&nbsp;-&nbsp;18:00</td><td><a class="work"></a></td><td><a href="../programm/mark-schmidt-gentoo-installparty">Gentoo&nbsp;Installparty</a></td><td>Mark&nbsp;Schmidt</td></tr>
+<tr><td>16:00&nbsp;-&nbsp;18:00</td><td><a class="work"></a></td><td><a href="../programm/mark-schmidt-andreas-stockmayer-gentoo-installparty">Gentoo&nbsp;Installparty</a></td><td>Mark&nbsp;Schmidt,&nbsp;Andreas&nbsp;Stockmayer</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Raum W2</td></tr>
+<tr><td>10:00&nbsp;-&nbsp;11:00</td><td><a class="talk"></a></td><td><a href="../programm/maxwell-bernstein-writing-a-lisp">Writing&nbsp;a&nbsp;Lisp</a></td><td>Maxwell&nbsp;Bernstein</td></tr>
 <tr><td>11:00&nbsp;-&nbsp;12:00</td><td><a class="talk"></a></td><td><a href="../programm/sven-guckes-tools-tools-tools">Tools&nbsp;Tools&nbsp;Tools!</a></td><td>Sven&nbsp;Guckes</td></tr>
 <tr><td>12:00&nbsp;-&nbsp;14:00</td><td><a class="work"></a></td><td><a href="../programm/philipp-kammerer-vim-the-first-contact">Vim:&nbsp;The&nbsp;First&nbsp;contact</a></td><td>Philipp&nbsp;Kammerer</td></tr>
 <tr><td>14:00&nbsp;-&nbsp;16:00</td><td><a class="work"></a></td><td><a href="../programm/sven-guckes-vim-fuer-fortgeschrittene">Vim&nbsp;für&nbsp;Fortgeschrittene</a></td><td>Sven&nbsp;Guckes</td></tr>
@@ -52,13 +54,26 @@ menu: main
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Raum V3</td></tr>
 <tr><td>10:00&nbsp;-&nbsp;11:00</td><td><a class="talk"></a></td><td><a href="../programm/peter-hrenka-sauberes-c++-mit-clang-tidy">Sauberes&nbsp;C++&nbsp;mit&nbsp;clang-tidy</a></td><td>Peter&nbsp;Hrenka</td></tr>
-<tr><td>11:00&nbsp;-&nbsp;11:30</td><td><a class="talk"></a></td><td><a href="../programm/stefan-tzeggai-postgresql-tipps-fuer-schnelle-ergebnisse">PostgreSQL&nbsp;Tipps&nbsp;für&nbsp;schnelle&nbsp;Ergebnisse</a></td><td>Stefan&nbsp;Tzeggai</td></tr>
+<tr><td>11:00&nbsp;-&nbsp;12:00</td><td><a class="talk"></a></td><td><a href="../programm/stefan-tzeggai-postgresql-tipps-fuer-schnelle-ergebnisse">PostgreSQL&nbsp;Tipps&nbsp;für&nbsp;schnelle&nbsp;Ergebnisse</a></td><td>Stefan&nbsp;Tzeggai</td></tr>
 <tr><td>12:00&nbsp;-&nbsp;13:00</td><td><a class="talk"></a></td><td><a href="../programm/harald-koenig-in-5-jahren-mit-shell-skripten-zum-kernel-treiber-fuer-neue-hw">In&nbsp;5&nbsp;Jahren&nbsp;mit&nbsp;Shell-Skripten&nbsp;zum&nbsp;Kernel-Treiber&nbsp;für&nbsp;neue&nbsp;HW</a></td><td>Harald&nbsp;König</td></tr>
-<tr><td>13:00&nbsp;-&nbsp;14:00</td><td><a class="talk"></a></td><td><a href="../programm/johannes-schirm-luks-verschluesselung-in-der-praxis">LUKS-Verschlüsselung&nbsp;in&nbsp;der&nbsp;Praxis</a></td><td>Johannes&nbsp;Schirm</td></tr>
+<tr><td>13:00&nbsp;-&nbsp;13:30</td><td><a class="talk"></a></td><td><a href="../programm/johannes-schirm-luks-verschluesselung-in-der-praxis">LUKS-Verschlüsselung&nbsp;in&nbsp;der&nbsp;Praxis</a></td><td>Johannes&nbsp;Schirm</td></tr>
+<tr><td>13:30&nbsp;-&nbsp;13:35</td><td><a class="light"></a></td><td><a href="../programm/david-haaga-javascript-liebt-dich">JavaScript&nbsp;liebt&nbsp;Dich</a></td><td>David&nbsp;Haaga</td></tr>
+<tr><td>13:35&nbsp;-&nbsp;13:40</td><td><a class="light"></a></td><td><a href="../programm/fabian-wannenmacher-your-own-i3bar-the-simple-way">Your&nbsp;own&nbsp;i3bar&nbsp;-&nbsp;The&nbsp;simple&nbsp;way</a></td><td>Fabian&nbsp;Wannenmacher</td></tr>
+<tr><td>13:40&nbsp;-&nbsp;13:45</td><td><a class="light"></a></td><td><a href="../programm"></a>reserviert</td><td>Robert&nbsp;Eisele</td></tr>
+<tr><td>13:45&nbsp;-&nbsp;13:50</td><td><a class="light"></a></td><td><a href="../programm/lennard-berger-graphen-im-anmarsch/">Graphen&nbsp;im&nbsp;Anmarsch</a></td><td>Lennard&nbsp;Berger</td></tr>
+<tr><td>13:50&nbsp;-&nbsp;13:55</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei - greif zu!</a></td><td>Du?&nbsp;;)</td></tr>
+<tr><td>13:55&nbsp;-&nbsp;14:00</td><td><a class="light"></a></td><td><a href="../programm"></a>reserviert</td><td>Robert&nbsp;Eisele</td></tr>
+<tr><td>14:00&nbsp;-&nbsp;14:05</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei - greif zu!</a></td><td>Du?&nbsp;;)</td></tr>
+<tr><td>14:05&nbsp;-&nbsp;14:10</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei - greif zu!</a></td><td>Du?&nbsp;;)</td></tr>
+<tr><td>14:10&nbsp;-&nbsp;14:15</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei - greif zu!</a></td><td>Du?&nbsp;;)</td></tr>
+<tr><td>14:15&nbsp;-&nbsp;14:20</td><td><a class="light"></a></td><td><a href="../programm/timo-dufner-das-fablab-neckar-alb-stellt-sich-vor">Das&nbsp;FabLab&nbsp;Neckar-Alb&nbsp;stellt&nbsp;sich&nbsp;vor</a></td><td>Timo&nbsp;Dufner</td></tr>
 <tr><td>14:20&nbsp;-&nbsp;14:25</td><td><a class="light"></a></td><td><a href="../programm/josef-plendl-image-scanner-fuer-docker">Image-Scanner&nbsp;für&nbsp;Docker</a></td><td>Josef&nbsp;Plendl</td></tr>
 <tr><td>14:25&nbsp;-&nbsp;14:30</td><td><a class="light"></a></td><td><a href="../programm/stefan-jakoby-container-anomaly-detection">Container&nbsp;Anomaly&nbsp;Detection</a></td><td>Stefan&nbsp;Jakoby</td></tr>
 <tr><td>14:30&nbsp;-&nbsp;14:35</td><td><a class="light"></a></td><td><a href="../programm/klaus-knopper-knoppix-fuer-raspberry-pi-mit-dem-yocto-framework">Knoppix&nbsp;für&nbsp;Raspberry&nbsp;Pi&nbsp;mit&nbsp;dem&nbsp;YOCTO&nbsp;Framework</a></td><td>Klaus&nbsp;Knopper</td></tr>
 <tr><td>14:35&nbsp;-&nbsp;14:40</td><td><a class="light"></a></td><td><a href="../programm/cornelius-koelbel-machs-halt-besser-google-authenticator-reloaded">Mach's&nbsp;halt&nbsp;besser&nbsp;-&nbsp;Google&nbsp;Authenticator&nbsp;reloaded</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
+<tr><td>14:40&nbsp;-&nbsp;14:45</td><td><a class="light"></a></td><td><a href="../programm/meffisto-backups-warum-fast-alle-tools-unzureichend-sind-fast-alle/">Backups:&nbsp;Warum&nbsp;fast&nbsp;alle&nbsp;Tools&nbsp;unzureichend&nbsp;sind...&nbsp;fast&nbsp;alle...</a></td><td>Meffisto</td></tr>
+<tr><td>14:45&nbsp;-&nbsp;14:50</td><td><a class="light"></a></td><td><a href="../programm/justin-humm-poster-design-in-tmux/">Poster&nbsp;Design&nbsp;in&nbsp;tmux</a></td><td>Justin&nbsp;Humm</td></tr>
+<tr><td>14:50&nbsp;-&nbsp;14:55</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-incontinent-containers/">Incontinent&nbsp;Containers</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>15:00&nbsp;-&nbsp;16:00</td><td><a class="talk"></a></td><td><a href="../programm/thomas-zimmermann-system-transaktionen-mit-picotm">System-Transaktionen&nbsp;mit&nbsp;picotm</a></td><td>Thomas&nbsp;Zimmermann</td></tr>
 <tr><td>16:00&nbsp;-&nbsp;16:30</td><td><a class="talk"></a></td><td><a href="../programm/justin-humm-web-1.0-fuer-hipster">Web&nbsp;1.0&nbsp;für&nbsp;Hipster</a></td><td>Justin&nbsp;Humm</td></tr>
 <tr><td>16:30&nbsp;-&nbsp;17:00</td><td><a class="talk"></a></td><td><a href="../programm/matthias-beyer-julian-ganz-git-dit-distributed-issue-tracking-mit-git">git-dit&nbsp;-&nbsp;Distributed&nbsp;Issue&nbsp;Tracking&nbsp;mit&nbsp;git</a></td><td>Matthias&nbsp;Beyer,&nbsp;Julian&nbsp;Ganz</td></tr>
@@ -85,12 +100,16 @@ menu: main
 <tr><td>10:00</td><td><a class="work"></a></td><td><a href="../../kinder">Kinderprogramm Mini-FrogLabs</a></td><td>Teckids e.V.</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Lehrstuhl Kommunikationsnetze (Treffpunkt am Info-Stand)</td></tr>
-<tr><td>14:00&nbsp;-&nbsp;14:30</td><td><a class="talk"></a></td><td><a href="../programm/mark-schmidt-vorstellung-der-testbed-plattformen-am-lehrstuhl-kommunikationsnetze">Vorstellung&nbsp;der&nbsp;Testbed-Plattformen&nbsp;am&nbsp;Lehrstuhl&nbsp;Kommunikationsnetze</a></td><td>Mark&nbsp;Schmidt</td></tr>
-<tr><td>14:30&nbsp;-&nbsp;15:00</td><td><a class="talk"></a></td><td><a href="../programm/mark-schmidt-vorstellung-der-testbed-plattformen-am-lehrstuhl-kommunikationsnetze">Vorstellung&nbsp;der&nbsp;Testbed-Plattformen&nbsp;am&nbsp;Lehrstuhl&nbsp;Kommunikationsnetze</a></td><td>Mark&nbsp;Schmidt</td></tr>
+<tr><td>14:00&nbsp;-&nbsp;14:30</td><td><a class="talk"></a></td><td><a href="../programm/mark-schmidt-andreas-stockmayer-vorstellung-der-testbed-plattformen-am-lehrstuhl-kommunikationsnetze">Vorstellung&nbsp;der&nbsp;Testbed-Plattformen&nbsp;am&nbsp;Lehrstuhl&nbsp;Kommunikationsnetze</a></td><td>Mark&nbsp;Schmidt,Andreas&nbsp;Stockmayer</td></tr>
+<tr><td>14:30&nbsp;-&nbsp;15:00</td><td><a class="talk"></a></td><td><a href="../programm/mark-schmidt-andreas-stockmayer-vorstellung-der-testbed-plattformen-am-lehrstuhl-kommunikationsnetze">Vorstellung&nbsp;der&nbsp;Testbed-Plattformen&nbsp;am&nbsp;Lehrstuhl&nbsp;Kommunikationsnetze</a></td><td>Mark&nbsp;Schmidt,Andreas&nbsp;Stockmayer</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Observatorium</td></tr>
 <tr><td>11:00&nbsp;-&nbsp;11:30</td><td><a class="talk"></a></td><td><a href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Cornelia&nbsp;Heinitz,&nbsp;Stephan&nbsp;Hartmann</td></tr>
 <tr><td>11:30&nbsp;-&nbsp;12:00</td><td><a class="talk"></a></td><td><a href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Cornelia&nbsp;Heinitz,&nbsp;Stephan&nbsp;Hartmann</td></tr>
 <tr><td>12:30&nbsp;-&nbsp;13:00</td><td><a class="talk"></a></td><td><a href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Cornelia&nbsp;Heinitz,&nbsp;Stephan&nbsp;Hartmann</td></tr>
 <tr><td>17:30&nbsp;-&nbsp;18:00</td><td><a class="talk"></a></td><td><a href="../programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Cornelia&nbsp;Heinitz,&nbsp;Stephan&nbsp;Hartmann</td></tr>
+<tr><td>&nbsp;</td></tr>
+<tr><td></td><td></td><td>Bienen</td></tr>
+<tr><td>12:00&nbsp;-&nbsp;12:30</td><td><a class="talk"></a></td><td><a href="../programm/matthias-windrich-imkern-als-hobby">Imkern&nbsp;als&nbsp;Hobby</a></td><td>Matthias&nbsp;Windrich</td></tr>
+<tr><td>13:00&nbsp;-&nbsp;12:30</td><td><a class="talk"></a></td><td><a href="../programm/matthias-windrich-imkern-als-hobby">Imkern&nbsp;als&nbsp;Hobby</a></td><td>Matthias&nbsp;Windrich</td></tr>
 </table>

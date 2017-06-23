@@ -33,6 +33,10 @@ Maschine gewohnt ist.
 
 LX{C,D} core dev.
 
+### Vorwissen
+Es ist kein Vorwissen erfordet. Ich werde eine Einführung in den Linux
+Container Begriff geben.
+
 ### Links
 
 - <a href="https://linuxcontainers.org/lxd/try-it" target="_blank">https://linuxcontainers.org/lxd/try-it</a>

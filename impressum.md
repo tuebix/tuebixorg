@@ -11,6 +11,7 @@ menu:
 * Jonas Benn
 * Christian Brauner
 * Holger Gantikow
+* Florian Heimgärtner
 * Jan-Peter Hohloch
 * Justin Humm
 * Eva Mayer

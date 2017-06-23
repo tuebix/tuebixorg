@@ -2,8 +2,8 @@
 layout: page
 title: Links
 permalink: /links/
-weight: 60
-menu: main
+weight:
+menu: 
 ---
 
 * <a href="http://tuebingen.linux.de" target="_blank">LUGT / Linux User Group Tübingen</a>
