@@ -11,8 +11,8 @@ menu:
 
 ### Maxwell Bernstein
 
-1. Build a data type for your Lisp                                                                                                                                                              
-2. Build an evaluator for your Lisp                                                                                                                                                                          
+1. Build a data type for your Lisp
+2. Build an evaluator for your Lisp
 3. If there's time, write a parser
 
 ### Über mich

@@ -19,21 +19,21 @@ Wer Vim verwendet, der kommt hiermit einen dicken Schritt weiter.  Wer andere Ed
 
 ### Über mich
 
-Sven Guckes, *1967,                                                                                                                                                                            
-Mathematik+Informatik,                                                                                                                                                                                       
-Freiberufler,                                                                                                                                                                                                
-lebt in Berlin.                                                                                                                                                                                              
-                                                                                                                                                                                                             
-Ueber das Terminal mit dem Internet in Beruehrung                                                                                                                                                            
-gekommen - und ueber einige GUIs wieder dorthin                                                                                                                                                              
-zurueck gekommen, denn TextTools haben POWER.                                                                                                                                                                
-Gibt Vortraege+Workshops zu TextTools                                                                                                                                                                        
-sowie effiziente Bedienung der Tastatur.                                                                                                                                                                     
-                                                                                                                                                                                                             
-TextTools laufen in jedem Terminal und auch auf vielen kleinen                                                                                                                                               
-Systemen, sie sind klein, schnell und hoch konfigurabel,                                                                                                                                                     
-und eben auch remote bedienbar, mit wenig overhead,                                                                                                                                                          
-zB mutt, slrn, screen, vim - und Z-Shell!                                                                                                                                                                    
+Sven Guckes, *1967,
+Mathematik+Informatik,
+Freiberufler,
+lebt in Berlin.
+
+Ueber das Terminal mit dem Internet in Beruehrung
+gekommen - und ueber einige GUIs wieder dorthin
+zurueck gekommen, denn TextTools haben POWER.
+Gibt Vortraege+Workshops zu TextTools
+sowie effiziente Bedienung der Tastatur.
+
+TextTools laufen in jedem Terminal und auch auf vielen kleinen
+Systemen, sie sind klein, schnell und hoch konfigurabel,
+und eben auch remote bedienbar, mit wenig overhead,
+zB mutt, slrn, screen, vim - und Z-Shell!
 Um so besser, wenn sie *frei* sind. :-)
 
 ### Links

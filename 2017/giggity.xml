@@ -6,7 +6,7 @@
     <start>2016-06-24</start>
     <end>2016-06-24</end>
     <days>1</days>
-    <release>1.20170623.0113</release>
+    <release>1.20170608.1400</release>
     <timeslot_duration>00:30</timeslot_duration>
   </conference>
   <day date="2016-06-24" index="1">
@@ -180,6 +180,10 @@ Der Vortrag ist für Neulinge und jene gedacht, die schon mal in GIMP reingeschn
 Ich bin seit einigen Jahren im Vorstand der Linux User Group Augsburg (LUGA) e.V. tätig und beschäftige mich seit 2008 intensiver mit der Bildbearbeitung per GIMP. 
 
 </description>
+<links>
+
+- <link href="http://michael-roppel.de/gimp.home/" >Demo zum Vortrag</link>
+</links>
 <persons></persons>
 </event>
 <event id="olaf-flebbe-datenanalyse-einer-solaranlage-mit-python">
@@ -466,7 +470,9 @@ Interessiert an Technologie und Gesellschaft. Bewege mich seit einigen Jahren zw
 <type>talk</type>
 <description>Justin Humm
 
-Moderne Webapps brauchen häufig eine Menge Softwarekomponenten, die das Web 1.0 noch nicht hatte. Dazu zählen Content Management Systeme, Datenbanken, Interpreter usw. Für den eigenen Blog sind diese Komponenten häufig unnötig und erschweren nur das Leben in Hinblick auf Administration, Sicherheit, Skalierbarkeit und Archivierbarkeit der Seite.
+Blog mit IPFS, Nix und Hakyll.
+
+Moderne Webapps brauchen eine Menge Softwarekomponenten, die das Web 1.0 noch nicht hatte. Dazu zählen Content Management Systeme, Datenbanken, Interpreter usw. Für den eigenen Blog sind diese Komponenten häufig unnötig und erschweren nur das Leben in Hinblick auf Administration, Sicherheit, Skalierbarkeit und Archivierbarkeit der Seite.
 
 An dem Beispiel eines Blogs zeige ich ein paar Konzepte, die den Umgang mit dem Web sehr simpel, nachhaltig und überschaubar machen. Hier geht es nicht um Javascript oder Flash, sondern Static Site Generation, HTML und CSS und vor allem um den schmerzfreien Weg dorthin. Der Vortrag ist für Hipster, weil die angewandten Tools alle sehr neu und teilweise noch experimentell sind. Die vorgestellte Website ist also eher als Proof of Concept zu verstehen, denn als fertige Lösung.
 
@@ -649,6 +655,46 @@ Raphael Groner (E-Mail: voice-mediator@email.de) hat einen Studiumsabschluss als
 - <link href="https://github.com/JVoiceXML" >GitHub JVoiceXML</link></links>
 <persons></persons>
 </event>
+<event id="robert-eisele-get-dirty-with-dhcp">
+<start>13:55</start>
+<room>V3</room>
+<title>Server schreiben? Das kann doch jeder!</title>
+<type>lightning</type>
+<description>Robert Eisele
+
+Ich mag Protokolle und so kam es, dass ich einen eigenen DHCP-Server geschrieben habe. Wieviel Unsinn man damit betreiben kann, habe ich erst später gemerkt.
+
+### Über mich
+
+Ich studiere Informatik mit Psychologie im Nebenfach und lege meinen Fokus auf probabilistisches Machine Learning. In der Vergangenheit habe ich mich professionell mit dem Aufbau von skalierbaren Web- und Analyse-Applikationen beschäftigt. Privat folge ich ziemlich allen Trends, die Spaß bereiten: Robotik, Hardware, DIY, Sensorik, Mathe, ...
+
+</description>
+<links>
+
+- <link href="http://www.xarg.org" >Robert Eisele</link>
+</links>
+<persons></persons>
+</event>
+<event id="robert-eisele-server-schreiben-das-kann-doch-jeder">
+<start>13:40</start>
+<room>V3</room>
+<title>Server schreiben? Das kann doch jeder!</title>
+<type>lightning</type>
+<description>Robert Eisele
+
+Kurzer Einblick wie Server konzipiert werden können, von der Raw-Interaktion mit dem Kernel bis hin zu node.js.
+
+### Über mich
+
+Ich studiere Informatik mit Psychologie im Nebenfach und lege meinen Fokus auf probabilistisches Machine Learning. In der Vergangenheit habe ich mich professionell mit dem Aufbau von skalierbaren Web- und Analyse-Applikationen beschäftigt. Privat folge ich ziemlich allen Trends, die Spaß bereiten: Robotik, Hardware, DIY, Sensorik, Mathe, ...
+
+</description>
+<links>
+
+- <link href="http://www.xarg.org" >Robert Eisele</link>
+</links>
+<persons></persons>
+</event>
 <event id="stefan-jakoby-container-anomaly-detection">
 <start>14:25</start>
 <duration>00:05</duration>
@@ -696,6 +742,45 @@ Linux und OpenSource begeistern mich seit 15 Jahren. Leidenschaftlicher Java Pro
 </description>
 <persons></persons>
 </event>
+<event id="sven-guckes-viminfo-sessions">
+<start>13:50</start>
+<room>V3</room>
+<title>Viminfo + Sessions </title>
+<type>lightning</type>
+<description>Sven Guckes
+
+Wer Vim verwendet, der kann vielen der Daten und Kommandos *wiederverwenden*, denn Vim schreibt auf Anweisung (\":set vi+=n\") seine Daten in eine Datei, die es beim Starten wieder einliest. Auch das Layout der Reiter/Tabs mit seinen Fenster kann wiederverwendet werden. (\":mks\" + \"vim -S\")
+
+### Vorwissen
+
+Wer Vim verwendet, der kommt hiermit einen dicken Schritt weiter.  Wer andere Editoren, die das nicht können, ist selber schuld. :-P  Im Ernst:  Man sollte mal gesehen haben, was möglich ist. Sind ja nur 5 Minuten.. :-)
+
+### Über mich
+
+Sven Guckes, *1967,
+Mathematik+Informatik,
+Freiberufler,
+lebt in Berlin.
+
+Ueber das Terminal mit dem Internet in Beruehrung
+gekommen - und ueber einige GUIs wieder dorthin
+zurueck gekommen, denn TextTools haben POWER.
+Gibt Vortraege+Workshops zu TextTools
+sowie effiziente Bedienung der Tastatur.
+
+TextTools laufen in jedem Terminal und auch auf vielen kleinen
+Systemen, sie sind klein, schnell und hoch konfigurabel,
+und eben auch remote bedienbar, mit wenig overhead,
+zB mutt, slrn, screen, vim - und Z-Shell!
+Um so besser, wenn sie *frei* sind. :-)
+
+</description>
+<links>
+
+- <link href="https://www.guckes.net/talks/vim/vim_advanced.txt" >Vim für Fortgeschrittene (Workshop Text)</link>
+</links>
+<persons></persons>
+</event>
 <event id="thomas-zimmermann-system-transaktionen-mit-picotm">
 <start>15:00</start>
 <duration>01:00</duration>
@@ -733,7 +818,7 @@ Eine kurze Vorstellung des FabLab Neckar-Alb und der laufenden Projekte.
 
 ### Über mich
 
-Timo Dufner ist Medienkünstler, Informatiker &#x26; FabLab Gründer. Er trinkt gerne Wein.
+Timo Dufner ist Medienkünstler, Informatiker und FabLab Gründer. Er trinkt gerne Wein.
 
 </description>
 <links>
@@ -1096,6 +1181,29 @@ Ich bin System Engineer bei der science + computing ag
 </event>
 </room>
 <room name="W2">
+<event id="maxwell-bernstein-writing-a-lisp">
+<start>10:00</start>
+<duration>01:00</duration>
+<room>W2</room>
+<title>Writing a Lisp</title>
+<type>talk</type>
+<description>Maxwell Bernstein
+
+1. Build a data type for your Lisp
+2. Build an evaluator for your Lisp
+3. If there's time, write a parser
+
+### Über mich
+
+I'm a student at Tufts University studying abroad at Universitaet Tuebingen. I study Informatik with a focus on PL and compilers.
+
+</description>
+<links>
+
+- <link href="http://bernsteinbear.com/blog/lisp/" >The lisp I will be presenting</link>
+</links>
+<persons></persons>
+</event>
 <event id="philipp-kammerer-basic-latex-fuer-einsteiger">
 <start>16:00</start>
 <duration>02:00</duration>
