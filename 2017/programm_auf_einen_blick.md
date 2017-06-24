@@ -93,7 +93,7 @@ padding-right: 8px;
 <tr><td>14:00</td>
 <td rowspan="4"><a class="work" href="../programm/matthias-windrich-tiddlywiki-das-hosentaschenwiki">TiddlyWiki</a><br />Matthias&nbsp;Windrich</td>
 <td rowspan="4"><a class="work" href="../programm/sven-guckes-vim-fuer-fortgeschrittene">vim&nbsp;II</a><br />Sven&nbsp;Guckes</td>
-<td rowspan="4"><a class="work" href="../programm/sven-rath-was-ist-ceph-und-wofuer-kann-ich-es-nutzen">Ceph</a><br />Sven&nbsp;Rath</td>
+<td rowspan="4"><a class="work" href="../programm/sven-rath-was-ist-ceph-und-wofuer-kann-ich-es-nutzen"><strike>Ceph</strike></a><br /><strike>Sven&nbsp;Rath</strike></td>
 <td rowspan="2"><a class="talk" href="../programm/christian-brauner-surviving-open-source">surviving</a><br />Christian&nbsp;Brauner</td>
 <td rowspan="2"><a class="talk" href="../programm/holger-gantikow-3d-vdi-unter-linux-konzepte-und-technologien-fuer-3d-beschleunigte-arbeitsplaetze">3D-VDI</a><br />Holger&nbsp;Gantikow</td>
 <td rowspan="4"><a class="lpic" href="../../lpic">LPIC</a></td>

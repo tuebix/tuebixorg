@@ -5,11 +5,13 @@ permalink: /2017/programm/sven-rath-was-ist-ceph-und-wofuer-kann-ich-es-nutzen/
 weight:
 menu:
 ---
-## Was ist Ceph und wofür kann Ich es nutzen?
+## FÄLLT AUS! Was ist Ceph und wofür kann Ich es nutzen?
 
 ### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W3
 
-### Sven Rath
+### FÄLLT AUS! Sven Rath
+
+FÄLLT AUS!
 
 Dieser Workshop soll eine Einführung in die Software Defined Storage Lösung Ceph sowie deren Vor- und Nachteile geben und richtet sich an jeden, der sich für das Thema Ceph interessiert und Ceph selbst installieren möchte. Nach einem kurzen Überblick über die Struktur der Software werden die Teilnehmer Ceph innerhalb einer virtuellen Umgebung selbst installieren und in Betrieb nehmen.
 Der Workshop gliedert sich dann grob wie folgt:

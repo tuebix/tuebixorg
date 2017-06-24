@@ -34,7 +34,7 @@ menu: main
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Raum W3</td></tr>
 <tr><td>12:00&nbsp;-&nbsp;14:00</td><td><a class="work"></a></td><td><a href="../programm/cornelius-koelbel-mehr-faktor-authentifizierung-nicht-nur-fuer-die-eigene-cloud">Mehr-Faktor-Authentifizierung&nbsp;nicht&nbsp;nur&nbsp;für&nbsp;die&nbsp;eigene&nbsp;Cloud</a></td><td>Cornelius&nbsp;Kölbel</td></tr>
-<tr><td>14:00&nbsp;-&nbsp;16:00</td><td><a class="work"></a></td><td><a href="../programm/sven-rath-was-ist-ceph-und-wofuer-kann-ich-es-nutzen">Was&nbsp;ist&nbsp;Ceph&nbsp;und&nbsp;wofür&nbsp;kann&nbsp;Ich&nbsp;es&nbsp;nutzen&nbsp;?</a></td><td>Sven&nbsp;Rath</td></tr>
+<tr><td><strike>14:00&nbsp;-&nbsp;16:00</strike></td><td><a class="work"></a></td><td><strike><a href="../programm/sven-rath-was-ist-ceph-und-wofuer-kann-ich-es-nutzen">Was&nbsp;ist&nbsp;Ceph&nbsp;und&nbsp;wofür&nbsp;kann&nbsp;Ich&nbsp;es&nbsp;nutzen&nbsp;?</a></strike></td><td><strike>Sven&nbsp;Rath</strike></td></tr>
 <tr><td>16:00&nbsp;-&nbsp;18:00</td><td><a class="work"></a></td><td><a href="../programm/daniel-kobras-die-anatomie-eines-zfs-dateisystems">Die&nbsp;Anatomie&nbsp;eines&nbsp;ZFS-Dateisystems</a></td><td>Daniel&nbsp;Kobras</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td>Raum V1</td></tr>
