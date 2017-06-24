@@ -6,7 +6,7 @@
     <start>2017-06-24</start>
     <end>2017-06-24</end>
     <days>1</days>
-    <release>1.20170623.2025</release>
+    <release>1.20170624.1221</release>
     <timeslot_duration>00:30</timeslot_duration>
   </conference>
   <day date="2016-06-24" index="1">
@@ -314,7 +314,7 @@ Bin gern im hiesigen FabLab, arbeite fürs \"Infocenter Internet der Dinge\" und
 <persons></persons>
 </event>
 <event id="fabian-wannenmacher-your-own-i3bar-the-simple-way">
-<start>13:35</start>
+<start>13:50</start>
 <duration>00:05</duration>
 <room>V3</room>
 <title>Your own i3bar – The simple way</title>
@@ -745,7 +745,7 @@ Linux und OpenSource begeistern mich seit 15 Jahren. Leidenschaftlicher Java Pro
 <persons></persons>
 </event>
 <event id="sven-guckes-viminfo-sessions">
-<start>13:50</start>
+<start>13:35</start>
 <duration>00:05</duration>
 <room>V3</room>
 <title>Viminfo + Sessions </title>
@@ -1357,9 +1357,11 @@ Hat als Physiker gelernt zu ergründen, was die Welt im Innersten zusammenhält.
 <start>14:00</start>
 <duration>02:00</duration>
 <room>W3</room>
-<title>Was ist Ceph und wofür kann Ich es nutzen?</title>
+<title>FÄLLT AUS! Was ist Ceph und wofür kann Ich es nutzen?</title>
 <type>workshop</type>
-<description>Sven Rath
+<description>FÄLLT AUS! Sven Rath
+
+FÄLLT AUS!
 
 Dieser Workshop soll eine Einführung in die Software Defined Storage Lösung Ceph sowie deren Vor- und Nachteile geben und richtet sich an jeden, der sich für das Thema Ceph interessiert und Ceph selbst installieren möchte. Nach einem kurzen Überblick über die Struktur der Software werden die Teilnehmer Ceph innerhalb einer virtuellen Umgebung selbst installieren und in Betrieb nehmen.
 Der Workshop gliedert sich dann grob wie folgt:
