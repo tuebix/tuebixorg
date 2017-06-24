@@ -7,7 +7,7 @@ menu:
 ---
 ## Viminfo + Sessions 
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:50 bis 13:55 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:35 bis 13:40 in Raum V3
 
 ### Sven Guckes
 
