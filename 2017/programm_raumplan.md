@@ -63,7 +63,7 @@ menu: main
 <tr><td>13:45&nbsp;-&nbsp;13:50</td><td><a class="light"></a></td><td><a href="../programm/lennard-berger-graphen-im-anmarsch/">Graphen&nbsp;im&nbsp;Anmarsch</a></td><td>Lennard&nbsp;Berger</td></tr>
 <tr><td>13:50&nbsp;-&nbsp;13:55</td><td><a class="light"></a></td><td><a href="../programm/fabian-wannenmacher-your-own-i3bar-the-simple-way">Your&nbsp;own&nbsp;i3bar&nbsp;-&nbsp;The&nbsp;simple&nbsp;way</a></td><td>Fabian&nbsp;Wannenmacher</td></tr>
 <tr><td>13:55&nbsp;-&nbsp;14:00</td><td><a class="light"></a></td><td><a href="../programm/robert-eisele-get-dirty-with-dhcp/">Get&nbsp;dirty&nbsp;with&nbsp;DHCP</a></td><td>Robert&nbsp;Eisele</td></tr>
-<tr><td>14:00&nbsp;-&nbsp;14:05</td><td><a class="light"></a></td><td><a href="../../callforpapers"></a></td><td>Dominik&nbsp;Brodowski</td></tr>
+<tr><td>14:00&nbsp;-&nbsp;14:05</td><td><a class="light"></a></td><td><a href="../programm/dominik-brodowski-artificial-intelligence-logging-mit-journald-ai">Artificial&nbsp;Intelligence&nbsp;Logging&nbsp;mit&nbsp;journald-ai</a></td><td>Dominik&nbsp;Brodowski</td></tr>
 <tr><td>14:05&nbsp;-&nbsp;14:10</td><td><a class="light"></a></td><td><a href="../programm/hendrik-roehm-beat-roulette-with-open-source-tools/">Beat&nbsp;Roulette&nbsp;with&nbsp;Open&nbsp;Source&nbsp;Tools</a></td><td>Hendrik&nbsp;Röhm</td></tr>
 <tr><td>14:10&nbsp;-&nbsp;14:15</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei - greif zu!</a></td><td>Du?&nbsp;;)</td></tr>
 <tr><td>14:15&nbsp;-&nbsp;14:20</td><td><a class="light"></a></td><td><a href="../programm/timo-dufner-das-fablab-neckar-alb-stellt-sich-vor">Das&nbsp;FabLab&nbsp;Neckar-Alb&nbsp;stellt&nbsp;sich&nbsp;vor</a></td><td>Timo&nbsp;Dufner</td></tr>
