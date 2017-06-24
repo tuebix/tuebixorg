@@ -6,7 +6,7 @@
     <start>2017-06-24</start>
     <end>2017-06-24</end>
     <days>1</days>
-    <release>1.20170624.1221</release>
+    <release>1.20170624.1327</release>
     <timeslot_duration>00:30</timeslot_duration>
   </conference>
   <day date="2016-06-24" index="1">
@@ -313,6 +313,22 @@ Bin gern im hiesigen FabLab, arbeite fürs \"Infocenter Internet der Dinge\" und
 </links>
 <persons></persons>
 </event>
+<event id="dominik-brodowski-artificial-intelligence-logging-mit-journald-ai">
+<start>14:00</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Artificial Intelligence Logging mit journald-ai</title>
+<type>lightning</type>
+<description>Dominik Brodowski
+
+Linux-Systeme neigen dazu, jede Minute Unmengen an logs in /var/log bzw. journald abzulegen. Wer mag sich da schon jede Zeile ansehen, nur um die eine, ungewöhnliche, auffällige Fehlermeldung zu finden? Artificial Intelligence logging ist die altbekannte Antwort darauf - man filtert all diejenigen Zeilen heraus, die für den Regelbetrieb unwichtig sind. Übrig bleiben nur diejenigen log messages, die auf Besonderheiten, Auffälligkeiten, Angriffe usw. hinweisen (siehe http://www.ranum.com/security/computer_security/papers/ai/index.html aus dem Jahr 1997). In diesem Lightning Talk präsentiere ich kurz eine Implementierung von Artificial Intelligence logging für journald, die ich vielleicht noch am LinuxTag selbst als Open Source veröffentlichen werde.
+
+### Über mich
+
+Volljurist; Promotion über technische Überwachungsmaßnahmen im Polizei- und Strafverfahrensrecht; Habilitand im Strafrecht; Dozent im Studiengang “Digitale Forensik”; kernel hacker
+</description>
+<persons></persons>
+</event>
 <event id="fabian-wannenmacher-your-own-i3bar-the-simple-way">
 <start>13:50</start>
 <duration>00:05</duration>
@@ -387,6 +403,18 @@ Physik-Studium in Tübingen, Rechner und DCF77 seit ~1980, (La)TeX seit 1986, UN
 <links>
 
 - <link href="https://www.bosch-sensortec.com/bst/products/optical_microsystems/bml050" >BST Laserprojektor</link></links>
+<persons></persons>
+</event>
+<event id="hendrik-roehm-beat-roulette-with-open-source-tools">
+<start>14:05</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Beat Roulette with Open Source Tools</title>
+<type>lightning</type>
+<description>Hendrik Röhm
+
+spontan eingereicht...
+</description>
 <persons></persons>
 </event>
 <event id="johannes-schirm-luks-verschluesselung-in-der-praxis">
@@ -549,6 +577,27 @@ Ich bin Lenny, studiere Bioinformatik und finde Visualisierung von Daten eine du
 <links>
 
 - <link href="https://neo4j.com/" >Neo4j</link>
+</links>
+<persons></persons>
+</event>
+<event id="martin-konold-reduce-to-the-max-1000x-kleiner-mit-opensource-toniebox-iot-fuer-kinder">
+<start>14:10</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Reduce to the max - 1000 x kleiner mit Opensource (Toniebox IoT für Kinder)</title>
+<type>lightning</type>
+<description>Martin Konold
+
+Erfahrungen mit IoT und dem Produkt Toniebox
+
+### Über mich
+
+Co-Founder K Desktop Environment - Opensource Enthusiast der ersten Stunde, Unternehmer, Berater
+
+</description>
+<links>
+
+- <link href="http://tinies.de" >tinies.de</link>
 </links>
 <persons></persons>
 </event>
