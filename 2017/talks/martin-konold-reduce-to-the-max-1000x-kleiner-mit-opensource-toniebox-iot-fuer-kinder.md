@@ -19,4 +19,4 @@ Co-Founder K Desktop Environment - Opensource Enthusiast der ersten Stunde, Unte
 
 ### Links
 
-- <a href="http://tinies.de" target="_blank">tinies.de</a>
+- <a href="https://tonies.de" target="_blank">tonies.de</a>
