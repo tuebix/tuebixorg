@@ -2,8 +2,8 @@
 layout: page
 title: Rahmenprogramm
 permalink: /2017/programm_rahmen/
-weight: 15
-menu: main
+weight:
+menu:
 ---
 * <a href="../programm_raumplan/">Raumplan</a>&nbsp;&nbsp;&nbsp;&nbsp;
 * <a href="../programm_auf_einen_blick/">Überblick</a>&nbsp;&nbsp;&nbsp;&nbsp;

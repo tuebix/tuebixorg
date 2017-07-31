@@ -2,13 +2,8 @@
 layout: default
 ---
 
-{{ site.title }} ist ein <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a> und findet am Samstag, den 24. Juni 2017 in <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a> statt.
-
-<br/>
-  <span style="font-weight: bold; color:#FF0000;">
-  WICHTIG: Feedback bitte in dieses Pad eintragen:
-  <a href="https://yourpart.eu/p/tuebix-2017-exit" target="_blank">https://yourpart.eu/p/tuebix-2017-exit</a>
-<br/>
+{{ site.title }} ist ein <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a> und fand zuletzt am Samstag, den 24. Juni 2017 in <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a> statt.
+Das nächste Mal wird vermutlich im Juli 2018 sein.
 
 <br/> 
 ![Tux](./images/tux.png "Tux")
@@ -23,10 +18,7 @@ Tübix könnte etwas für dich sein, falls du:
 * ... nebenbei ein <a href="http://www.wsi.uni-tuebingen.de/fachbereich/wilhelm-schickard-institut-fuer-informatik/computermuseum.html">Computermuseum</a> besuchen möchtest
 * ... nebenbei ein <a href="2017/programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop/">80cm-Teleskop</a> ansehen möchtest
 
-
 Der Eintritt ist frei, dafür <a href="../callforhelpers/">hilft jeder ein bisschen mit</a>.
-
-<!--Damit wir besser planen können, bitte <a href="../anmeldung/">anmelden</a>.-->
 
 Die Folien (pdf) und Tonspuren (ogg) der Beiträge von 2015 sind unter <a href="../downloads/">Downloads(2015)</a> zu finden. 
 
