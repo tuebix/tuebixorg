@@ -2,8 +2,8 @@
 layout: default
 ---
 
-{{ site.title }} ist ein <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a> und fand zuletzt am Samstag, den 24. Juni 2017 in <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a> statt.
-Das nächste Mal wird vermutlich im Juli 2018 sein.
+{{ site.title }} ist ein <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a> und fand zuletzt am Samstag, den 24. Juni 2017 in <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a> statt.<br/>
+Das nächste Mal wird vermutlich im Juni 2018 sein.
 
 <br/> 
 ![Tux](./images/tux.png "Tux")
@@ -20,9 +20,9 @@ Tübix könnte etwas für dich sein, falls du:
 
 Der Eintritt ist frei, dafür <a href="../callforhelpers/">hilft jeder ein bisschen mit</a>.
 
+<!--
 Die Folien (pdf) und Tonspuren (ogg) der Beiträge von 2015 sind unter <a href="../downloads/">Downloads(2015)</a> zu finden. 
 
-<!--
 ## Richtigstellung
 Tübix ist keineswegs der "1. Tübinger Linuxtag"!<br/>
 Mehr dazu unter  <a href="http://tuebingen.linux.de/old/" target="_blank">tuebingen.linux.de/old/</a>
