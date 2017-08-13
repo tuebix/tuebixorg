@@ -14,7 +14,7 @@ menu:
 * Florian Heimgärtner
 * Jan-Peter Hohloch
 * Justin Humm
-* Eva Mayer
+* Eva Charlotte Mayer
 * Christoph Prokop
 * Gunnar Schmidt
 * Roman Schulte
