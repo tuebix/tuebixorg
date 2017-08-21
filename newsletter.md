@@ -2,8 +2,8 @@
 layout: page
 title: Newsletter
 permalink: /newsletter/
-weight:
-menu:
+weight: 7
+menu: main
 ---
 
 Um auf dem Laufenden zu bleiben (ohne tuebix.org aufrufen zu müssen), gibt es einen Newsletter in Form einer Mailingliste.
