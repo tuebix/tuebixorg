@@ -3,7 +3,7 @@ layout: default
 ---
 
 {{ site.title }} ist ein <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a> und fand 2015, 2016 und 2017 jeweils im Juni in <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a> statt.<br/>
-Sobald der Termin für 2018 steht wird er über den <a href="../callforhelpers/">Newsletter</a> bekannt gegeben.
+Sobald der Termin für 2018 steht wird er über den <a href="../newsletter/">Newsletter</a> bekannt gegeben.
 
 <br/> 
 ![Tux](./images/tux.png "Tux")
