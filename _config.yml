@@ -4,10 +4,10 @@ email: info@tuebix.org
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.tuebix.org" # the base hostname & protocol for your site
 
-collections: 
+collections:
   talks:
     output: true
 
 # https://help.github.com/articles/redirects-on-github-pages/
-gems:
+plugins:
   - jekyll-redirect-from
