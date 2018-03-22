@@ -2,12 +2,20 @@
 layout: default
 ---
 
-{{ site.title }} ist ein <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a> und fand 2015, 2016 und 2017 jeweils im Juni in <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a> statt.<br/>
-Sobald der Termin für 2018 steht wird er über den <a href="../newsletter/">Newsletter</a> bekannt gegeben.
+**News:** Der Tübix 2018 findet am Samstag, dem 9. Juni 2018 statt.
+<!--
+{{ site.title }} ist ein
+<a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a>
+und fand 2015, 2016 und 2017 jeweils im Juni in
+<a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a>
+statt.<br/>
+Sobald der Termin für 2018 steht wird er über den
+<a href="../newsletter/">Newsletter</a> bekannt gegeben.
+-->
 
-<br/> 
+<br/>
 ![Tux](./images/tux.png "Tux")
-<br/> 
+<br/>
 
 Tübix könnte etwas für dich sein, falls du:
 
@@ -21,7 +29,7 @@ Tübix könnte etwas für dich sein, falls du:
 Der Eintritt ist frei, dafür <a href="../callforhelpers/">hilft jeder ein bisschen mit</a>.
 
 <!--
-Die Folien (pdf) und Tonspuren (ogg) der Beiträge von 2015 sind unter <a href="../downloads/">Downloads(2015)</a> zu finden. 
+Die Folien (pdf) und Tonspuren (ogg) der Beiträge von 2015 sind unter <a href="../downloads/">Downloads(2015)</a> zu finden.
 
 ## Richtigstellung
 Tübix ist keineswegs der "1. Tübinger Linuxtag"!<br/>
