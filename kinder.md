@@ -15,9 +15,7 @@ Wir freuen uns sehr, dass seit TüBIX 2016 die <a href="https://www.teckids.org/
 Die Anmeldung ist freigeschaltet: <a href="https://www.teckids.org/de/veranstaltungen/nachste-veranstaltungen/event/project-froglabs-2018-tuebix" target="_blank">FrogLabs Tübingen 2018</a>.
 
 
-<a href="https://www.teckids.org/froglabs_2016_tuebix.htm" target="_blank">2016: Rückblick und Fotos</a>.
-<a href="https://www.teckids.org/froglabs_2017_tuebix.htm#bericht" target="_blank">2017: Bericht der Tutoren Niels und Tom</a>
-<a href="https://www.teckids.org/froglabs_2017_tuebix.htm#feedback" target="_blank">2017: Feedback der Teilnehmer</a>
+<a href="https://www.teckids.org/de/neuigkeiten/2017/07/03/bericht-von-den-mini-froglabs-beim-tubix-2017" target="_blank">Rückblick 2017</a>
 
 ![FrogLabs-Logo](https://www.teckids.org/pics/projs/froglabs/2013/froscon/froglabs_pixelart.png "FrogLabs-Logo")
 
