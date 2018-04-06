@@ -10,10 +10,10 @@ menu: main
 
 Wir freuen uns sehr, dass seit TüBIX 2016 die <a href="https://www.teckids.org/" target="_blank"> Teckids e.V.</a> mit den "Mini-FrogLabs" in Tübingen mit dabei sind. Dieses Programmangebot ist von anderen Linuxtagen bekannt und für Kinder und Jugendliche (4. - 9. Klasse) geeignet.
 
-<!--
+
 <span style="font-weight: bold;">Für eine Teilnahme ist die vorherige Anmeldung unbedingt notwendig. Eine spontane Teilnahme am Tag selbst ist leider dieses Jahr nicht möglich!<br/></span>
-Die Anmeldung ist freigeschaltet: <a href="https://www.teckids.org/tuebingen" target="_blank">teckids.org/tuebingen</a>.
--->
+Die Anmeldung ist freigeschaltet: <a href="https://www.teckids.org/de/veranstaltungen/nachste-veranstaltungen/event/project-froglabs-2018-tuebix" target="_blank">FrogLabs Tübingen 2018</a>.
+
 
 <a href="https://www.teckids.org/froglabs_2016_tuebix.htm" target="_blank">2016: Rückblick und Fotos</a>.
 <a href="https://www.teckids.org/froglabs_2017_tuebix.htm#bericht" target="_blank">2017: Bericht der Tutoren Niels und Tom</a>
