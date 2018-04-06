@@ -48,7 +48,7 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
   * bring einen "Bonus-Teil" mit, falls nur wenige Fragen kommen sollten
 
 
-# Du möchtest einen <strike>Beitrag</strike> Lightning Talk beisteuern?
+# Du möchtest einen Beitrag beisteuern?
 
 Toll! Dann füll rasch die <a href="https://cfp.tuebix.org" target="_blank">Anmeldung</a> aus! 
 
