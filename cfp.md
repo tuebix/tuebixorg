@@ -43,7 +43,7 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 
   * 20 min Vortrag inkl. Fragen/Diskussion
   * 50 min Vortrag inkl. Fragen/Diskussion
-  * zwischen den Vorträgen ist <strong>10 min Pause OHNE Programm </strong> um ggf. den Raum zu wechseln
+  * zwischen den Vorträgen ist <span style="font-weight: bold;">10 min Pause OHNE Programm </span> um ggf. den Raum zu wechseln
   * ein Vortrag muss nicht zwingend (ausschließlich) mit Folien sein, gerne auch "Demos"
   * bring einen "Bonus-Teil" mit, falls nur wenige Fragen kommen sollten
 
