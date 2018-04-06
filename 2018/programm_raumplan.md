@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Programm
-permalink: /2017/programm_raumplan/
-redirect_from: /2017/programm/
+permalink: /2018/programm_raumplan/
+redirect_from: /2018/programm/
 weight: 10
-menu: main
+menu: 
 ---
 
 ## Archiv

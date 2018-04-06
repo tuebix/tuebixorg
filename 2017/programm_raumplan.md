@@ -3,8 +3,8 @@ layout: page
 title: Programm
 permalink: /2017/programm_raumplan/
 redirect_from: /2017/programm/
-weight: 10
-menu: main
+weight: 
+menu: 
 ---
 
 ## Archiv
