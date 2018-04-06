@@ -9,7 +9,7 @@ menu:
 Pinguine sind Herdentiere und helfen einander. Das heißt: Ohne Dich geht es nicht! Aber zum Glück hast Du viele Möglichkeiten, den TÜBIX mitzugestalten. Wenn Du Lust hast, mit ein paar anderen netten Helfern ein paar Stunden anzupacken, übernimm doch eine Schicht im Catering. Bist Du ein Organisationstalent? Dann können wir dich in der Programmunterstützung gebrauchen. Und falls Du an deinem TÜBIX keine Lücke für eine Helferschicht hast, kannst Du zum guten Gelingen des Tages vielleicht dadurch beisteuern, dass Du einem Besucher von außerhalb ein Bett zur Verfügung stellst.
 
 
-Melden kann man sich als Helfer (bitte schnellstmöglich mit Angabe der gewünschten Position) über: <a href="mailto:helfer2017@tuebix.org?subject=Helfer%20Tuebix">helfer2017@tuebix.org</a>. Wir werden den aktuellen Stand (Bedarf und bereits besetzte Posten) hier ohne Namen aufführen:<br/>
+Melden kann man sich als Helfer (bitte schnellstmöglich mit Angabe der gewünschten Position) über: <a href="mailto:helfer2018@tuebix.org?subject=Helfer%20Tuebix">helfer2018@tuebix.org</a>. Wir werden den aktuellen Stand (Bedarf und bereits besetzte Posten) hier ohne Namen aufführen:<br/>
 X heißt "es hat sich bereits jemand gemeldet - besetzt"<br/>
 O heißt "es besteht noch Bedarf - zu besetzen" <br/>
 
