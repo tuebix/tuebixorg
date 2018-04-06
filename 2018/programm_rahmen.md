@@ -33,9 +33,8 @@ direkt im Anschluss an die Vorträge und Workshops ab 18:45 auf dem Sand
 
 Hinter den Gebäuden auf dem Sand gibt es eine schöne Terasse mit Garten, wo wir gemeinsam den Tübinger Linuxtag ausklingen lassen wollen.
 Die Fachschaft wird den Grill anwerfen.
-Damit nicht alle gleichzeitig den Grill stürmen, können alle, die noch nicht allzu hungrig sind bei <a class="talk" href="../programm/gerik-huland-tagesabschluss-warum-brennt-die-milch-an/">Geriks&nbsp;Tagesabschluss</a> herausfinden, warum die Milch anbrennt...
 
-### Pizza zum Mittag, Grill gegen Abend
+### Food Truck zum Mittag, Grill gegen Abend
 
 Während der Mittagszeit (etwa 11:00 bis 15:00) wird <a href="https://derproviantmeister.de/" target="_blank">Der Proviantmeister</a> (Food Truck) auf dem Sand sein.
 Danach gibt es Grillwurst und Grillkäse (etwa 15:00 bis 20:00). 
