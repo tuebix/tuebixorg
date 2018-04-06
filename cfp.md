@@ -21,7 +21,7 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 
 <h2><span><img height="36" width="36" src="../images/workshop.svg"></span> Workshop</h2>
 
-  * Dauer: 120 min
+  * Dauer: 110 min
   * kleinere Gruppe bis etwa 10 Teilnehmer
   * jeder Teilnehmer bringt eigenen Laptop mit
   * Mitmachen / geführtes Tutorial / "Learning by Doing" / "Hands-On" 
@@ -43,7 +43,7 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 
   * 20 min Vortrag inkl. Fragen/Diskussion
   * 50 min Vortrag inkl. Fragen/Diskussion
-  * zwischen den Vorträgen ist 10 min Pause OHNE Programm um ggf. den Raum zu wechseln
+  * zwischen den Vorträgen ist <strong>10 min Pause OHNE Programm </strong> um ggf. den Raum zu wechseln
   * ein Vortrag muss nicht zwingend (ausschließlich) mit Folien sein, gerne auch "Demos"
   * bring einen "Bonus-Teil" mit, falls nur wenige Fragen kommen sollten
 
