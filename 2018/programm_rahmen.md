@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rahmenprogramm
-permalink: /2017/programm_rahmen/
+permalink: /2018/programm_rahmen/
 weight:
 menu:
 ---
