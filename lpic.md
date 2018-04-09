@@ -29,7 +29,7 @@ Prüfung LPI 202 (LPIC-2 Prüfung)   | 90 € | Deutsch oder Englisch
 #### LPIC-3: Linux Enterprise Professional
 Prüfung LPI 300 | Prüfung 300: Mixed Enviroment | 90 € | Englisch<br/>
 Prüfung LPI 303 | Prüfung 303: Security | 90 € | Englisch<br/>
-Prüfung LPI 304 | Prüfung 304: Virtualization and High Availability | 90 € | Englisch
+Prüfung LPI 304 | Prüfung 304: Virtualization and High Availability | 90 € | Englisch<br/>
 Prüfung LPI 701 | Prüfung 701 : DevOps Tools Engineer | 90€ | Englisch
 
 #### Certification (UVCP)
