@@ -13,6 +13,7 @@ Im Rahmen von TüBIX werden auch in diesem Jahr wieder LPI Zertifizierungsprüfu
 ![LPIC-1-Logo](../images/LPIC-1-Small.png "LPIC-1-Logo")
 ![LPIC-2-Logo](../images/LPIC-2-Small.png "LPIC-2-Logo")
 ![LPIC-3-Logo](../images/LPIC3-300-Small.png "LPIC-3-Logo")
+![LPIC-7-Logo](../images/lpic7.png "LPIC-7-Logo")
 
 #### LPI Linux Essentials
 Prüfung LPI Linux Essentials | 60€ | Deutsch oder Englisch
@@ -34,10 +35,14 @@ Prüfung LPI 304 | Prüfung 304: Virtualization and High Availability | 90 € |
 
 Prüfung LPI 198 | Prüfung 198: Univention Professional Zertifizierung | 85 € | Englisch
 
+#### LPIC-OT DevOps Tools Engineer
+
+Prüfung LPI 701 | Prüfung 701 : DevOps Tools Engineer | 90€ | Englisch
+
 ## Ablauf
 
-Die Prüfungen finden am Samstag, den 09.06.17 jeweils um 13:00 Uhr und 15:00 Uhr statt.
-WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 12:40 bzw. 14:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.
+Die Prüfungen finden am Samstag, den 09.06.18 jeweils um 12:00 Uhr und 14:00 Uhr statt.
+WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 11:40 bzw. 13:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.
 Die Auswahl der Sprache erfolgt bei der Anmeldung. Der Betrag muss vor Ort in bar entrichtet werden.
 Die Prüfung wird in Papierform durchgeführt. Das Ergebnis kommt nach Korrektur ca. vier Wochen später per E-Mail. Bei einer abgeschlossenen Zertifizierungsstufe werden die offiziellen Unterlagen per Briefpost zugestellt.
 
@@ -61,10 +66,7 @@ Das Anmeldeformular des LPI finden Sie unter <a href="https://lpievent.lpice.eu"
 Bei weiteren Fragen zum Prüfungsangebot wenden Sie sich bitte per E-Mail direkt an <a href="mailto:info@lpice.eu">info@lpice.eu</a>
 Weiterführende Informationen finden Sie auf den Webseiten des Linux Professional Institute, LPI Central Europe und LPI e.V.
 
-<!--
 # Zertifiziertes Wissen
-
-<br/><span style="font-weight: bold; color:#FF0000;">Es gibt noch keine Bestätigung durch das LPI, aber wir gehen davon aus, dass auch 2017 wieder LPIC-Prüfungen abgelegt werden können.<br/>
 
 Zertifikate belegen Fachwissen - Sie dokumentieren Qualifikation und Know-how vor Arbeitgebern oder Kunden und verbessern die Ein- und Aufstiegschancen. Das <a href="http://www.lpice.eu/de/home.html" target="_blank">Linux Professional Institute (LPI)</a> ist Zertifizierungspartner des Tübinger Linuxtags. Die Besucher können deshalb LPI Prüfungen zu stark vergünstigten Konditionen ablegen.
 
