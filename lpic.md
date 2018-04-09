@@ -32,11 +32,9 @@ Prüfung LPI 303 | Prüfung 303: Security | 90 € | Englisch<br/>
 Prüfung LPI 304 | Prüfung 304: Virtualization and High Availability | 90 € | Englisch
 
 #### Certification (UVCP)
-
 Prüfung LPI 198 | Prüfung 198: Univention Professional Zertifizierung | 85 € | Englisch
 
 #### LPIC-OT DevOps Tools Engineer
-
 Prüfung LPI 701 | Prüfung 701 : DevOps Tools Engineer | 90€ | Englisch
 
 ## Ablauf
