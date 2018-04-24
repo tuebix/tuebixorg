@@ -3,7 +3,7 @@ layout: page
 title: Call for Helpers
 permalink: /callforhelpers/
 weight:
-menu: 
+menu:
 ---
 
 Pinguine sind Herdentiere und helfen einander. Das heißt: Ohne Dich geht es nicht! Aber zum Glück hast Du viele Möglichkeiten, den TÜBIX mitzugestalten. Wenn Du Lust hast, mit ein paar anderen netten Helfern ein paar Stunden anzupacken, übernimm doch eine Schicht im Catering. Bist Du ein Organisationstalent? Dann können wir dich in der Programmunterstützung gebrauchen. Und falls Du an deinem TÜBIX keine Lücke für eine Helferschicht hast, kannst Du zum guten Gelingen des Tages vielleicht dadurch beisteuern, dass Du einem Besucher von außerhalb ein Bett zur Verfügung stellst.
@@ -25,11 +25,11 @@ O O 19:00 - 20:00 Grillen<br/>
 
 O O 10:00 - 11:00 Getränkeausgabe <br/>
 O O 11:00 - 12:00 Getränkeausgabe <br/>
-O O 12:00 - 13:00 Getränkeausgabe <br/>
+X O 12:00 - 13:00 Getränkeausgabe <br/>
 O O 13:00 - 14:00 Getränkeausgabe <br/>
 O O 14:00 - 15:00 Getränkeausgabe <br/>
 O O 15:00 - 16:00 Getränkeausgabe <br/>
-O O 16:00 - 17:00 Getränkeausgabe <br/>
+X O 16:00 - 17:00 Getränkeausgabe <br/>
 O O 17:00 - 18:00 Getränkeausgabe <br/>
 O O 18:00 - 19:00 Getränkeausgabe <br/>
 O O 19:00 - 20:00 Getränkeausgabe <br/>
@@ -40,7 +40,7 @@ O O 20:00 - 21:00 Getränkeausgabe <br/>
 Bring einen Kuchen mit, der dann kostenfrei gegen 14:00 allen zur Verfügung steht.<br/>
 Wir können den Kuchen im Kühlwagen aufbewahren, bring dafür am besten eine Tortenhaube mit.
 
-O O O O O O O O O O O O O O O O
+X O O O O O O O O O O O O O O O
 
 ## Kasse (je 2h, 1 Person)
 
