@@ -1,4 +1,7 @@
-#!/bin/bash
-./cleanup.sh &&        \
-./make.program.py &&   \
-jekyll serve 
+#!/usr/bin/env bash
+
+set -o errexit
+
+./cleanup.sh
+./make.program.py
+jekyll serve
