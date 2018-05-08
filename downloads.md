@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Downloads
+title: Downloads/Archiv
 permalink: /downloads/
 weight: 10
 menu: main
