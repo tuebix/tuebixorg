@@ -11,7 +11,7 @@ In diesen Gebäuden ist das <a href="http://www.wsi.uni-tuebingen.de" target="_b
 
 Mit der Buslinie 2 <a href="http://www.swtue.de/abfahrt/?halt=100005" target="_blank">ab Hauptbahnhof Tübingen</a> in Richtung "Sand - Waldhäuser Ost" bis Haltestelle "Sand Drosselweg".
 
-Parkplätze gibt es in dem großen Hof hinter den Gebäuden.
+Parkplätze gibt es in dem großen Hof hinter den Gebäuden Sand 13 und 14 (48°32'06.2"N 9°04'19.9"E).
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=9.066815972328186%2C48.53276976835809%2C9.075425863265991%2C48.536066169890425&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><a href="https://www.openstreetmap.org/?mlat=48.53442&amp;mlon=9.07112#map=18/48.53442/9.07112">gr&ouml;&szlig;ere Karte bei openstreetmap.org</a>
 
