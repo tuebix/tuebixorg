@@ -1,11 +1,11 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/michael-stroeder-ae-dir----paranoide-benutzerverwaltung-mit-ae-dir/
+permalink: /2018/programm/michael-stroeder-ae-dir-paranoide-benutzerverwaltung-mit-openldap/
 weight:
 menu:
 ---
-## Æ-DIR -- paranoide Benutzerverwaltung mit Æ-DIR
+## Æ-DIR -- paranoide Benutzerverwaltung mit OpenLDAP
 
 ### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:50 in Raum V3
 
@@ -23,4 +23,4 @@ Michael Ströder arbeitet seit 1999 als selbstständiger Berater in den Bereiche
 
 ### Links
 
-- <a href="https://www.ae-dir.com/" target="_blank">Æ-DIR -- Authorized Entities Directory</a>
+- <a href="https://www.ae-dir.com/" target="_blank">Æ-DIR - Authorized Entities Directory</a>
