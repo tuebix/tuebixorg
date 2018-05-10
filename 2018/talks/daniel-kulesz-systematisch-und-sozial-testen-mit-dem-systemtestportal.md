@@ -23,6 +23,5 @@ Daniel Kulesz ist Forscher im Software-Engineering am Institut für Softwaretech
 
 ### Links
 
-- <a href="" target="_blank"></a>
 - <a href="http://www.systemtestportal.org/" target="_blank">Webseite</a>
 - <a href="https://gitlab.com/stp-team/systemtestportal-webapp" target="_blank">Issue-Tracker</a>
