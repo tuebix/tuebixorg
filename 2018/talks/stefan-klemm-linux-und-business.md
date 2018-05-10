@@ -7,7 +7,7 @@ menu:
 ---
 ## Linux und Business
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 17:50 in Raum W1
+### <img height = "32" src="../../../images/work.svg"> 16:00 bis 17:50 in Raum W1
 
 ### Stefan Klemm
 
