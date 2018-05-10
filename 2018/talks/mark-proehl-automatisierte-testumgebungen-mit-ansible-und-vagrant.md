@@ -11,7 +11,7 @@ menu:
 
 ### Mark Pröhl
 
-Software-Entwickler und System-Adminstratoren benötigen häufig virtualisierte Systeme um die Installation, Konfiguration und Funktionalität ihrer Software reproduzierbar testen zu können. Am Beispiel des Softwareprojekts msktutil (https://github.com/msktutil/msktutil) sollen die Stärken von Vagrant (https://www.vagrantup.com) und Ansible (https://www.ansible.com) beim Aufsetzen einer verteilten Testumgebung vorgestellt werden
+Software-Entwickler und System-Adminstratoren benötigen häufig virtualisierte Systeme um die Installation, Konfiguration und Funktionalität ihrer Software reproduzierbar testen zu können. Am Beispiel des Softwareprojekts [msktutil](https://github.com/msktutil/msktutil) sollen die Stärken von [Vagrant](https://www.vagrantup.com) und [Ansible](https://www.ansible.com) beim Aufsetzen einer verteilten Testumgebung vorgestellt werden
 
 ### Vorwissen
 
@@ -19,8 +19,4 @@ Grundlegendes Verständnis für die Systemadministration unter Linux
 
 ### Über mich
 
-Mark Pröhl ist studierter Physiker und beschäftigt sich als Senior Solutions Architect u.a. mit den Themen Kerberos, LDAP und Active Directory.  Mark Pröhl ist außerdem Autor des Kerberos-Buches (www.kerberos-buch.de)
-
-### Links
-
-- <a href="" target="_blank"></a>
+Mark Pröhl ist studierter Physiker und beschäftigt sich als Senior Solutions Architect u.a. mit den Themen Kerberos, LDAP und Active Directory.  Mark Pröhl ist außerdem Autor des Kerberos-Buches ([www.kerberos-buch.de](www.kerberos-buch.de))

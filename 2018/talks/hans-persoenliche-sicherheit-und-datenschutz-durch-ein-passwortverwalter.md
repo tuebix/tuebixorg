@@ -5,7 +5,7 @@ permalink: /2018/programm/hans-persoenliche-sicherheit-und-datenschutz-durch-ein
 weight:
 menu:
 ---
-## persönliche Sicherheit und Datenschutz durch ein Passwortverwalter
+## Persönliche Sicherheit und Datenschutz durch ein Passwortverwalter
 
 ### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:50 in Raum V1
 
