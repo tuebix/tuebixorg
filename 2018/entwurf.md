@@ -54,10 +54,10 @@ menu:
 <tr><td>16:30</td><td>bis&nbsp;16:50</td><td><a class="talk"></a></td><td><a href="../programm/marius-heyn-welche-auswirkungen-hat-die-eu-dsgvo-auf-die-software-entwicklung">Welche&nbsp;Auswirkungen&nbsp;hat&nbsp;die&nbsp;EU-DSGVO&nbsp;auf&nbsp;die&nbsp;Software-Entwicklung</a></td><td>Marius&nbsp;Heyn</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td>Raum LPIC</td></tr>
-<tr><td>12:00</td><td><a class="lpic"></a></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td></td></tr>
-<tr><td>14:00</td><td><a class="lpic"></a></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td></td></tr>
+<tr><td>12:00</td><td></td><td><a class="lpic"></a></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td></td></tr>
+<tr><td>12:00</td><td></td><td><a class="lpic"></a></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;2</a></td><td></td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td>Raum Mini-FrogLabs</td></tr>
-<tr><td>10:00</td><td><a class="work"></a></td><td><a href="../../kinder">Kinderprogramm Mini-FrogLabs</a></td><td>Teckids e.V.</td></tr>
+<tr><td>12:00</td><td></td><td><a class="work"></a></td><td><a href="../../kinder">Kinderprogramm Mini-FrogLabs</a></td><td>Teckids e.V.</td></tr>
 <tr><td>&nbsp;</td></tr>
 </table>
