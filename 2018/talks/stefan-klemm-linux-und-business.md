@@ -11,7 +11,13 @@ menu:
 
 ### Stefan Klemm
 
-Für Linux gibt es kaum Software für Kleinunternehmer. Da ich nebenberuflich ein Ingenieurbüro für Softwareentwicklung betreibe und keine passende Linux-Software vorfand, habe ich meine eigene entwickelt um Angebote, Rechnungen, Einnahmen, Ausgaben usw. verbuchen zu können. Diese gibt es als kostenlose Community-Version, die ich in diesem Workshop vorstellen möchte: 1)Installation für maria/mysql - Datenbank 2) Anlegen Stammdaten 3) Kontenrahmen 4) Angebote / AB / Lieferscheine / Rechnungen erstellen 5) Einnahmen / Ausgaben 6) Listen für Steuerberater
+Für Linux gibt es kaum Software für Kleinunternehmer. Da ich nebenberuflich ein Ingenieurbüro für Softwareentwicklung betreibe und keine passende Linux-Software vorfand, habe ich meine eigene entwickelt um Angebote, Rechnungen, Einnahmen, Ausgaben usw. verbuchen zu können. Diese gibt es als kostenlose Community-Version, die ich in diesem Workshop vorstellen möchte:
+1. Installation für maria/mysql - Datenbank
+1. Anlegen Stammdaten
+1. Kontenrahmen
+1. Angebote / AB / Lieferscheine / Rechnungen erstellen
+1. Einnahmen / Ausgaben
+1. Listen für Steuerberater
 
 ### Vorwissen
 
