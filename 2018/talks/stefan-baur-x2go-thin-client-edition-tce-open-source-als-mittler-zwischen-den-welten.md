@@ -11,7 +11,17 @@ menu:
 
 ### Stefan Baur
 
-Im Vortrag möchten wir aufzeigen und demonstrieren: - wie X2Go neue und alte Welten (Cloud, Client/Server, Midrange/Terminals) verbindet - was es mit "modernem Cloud-Computing" wirklich auf sich hat - wie eine sichere, zuverlässige, zukunftssichere und kostengünstige Lösung dafür mit X2Go aussieht  Als praktische Beispiele dienen uns u.a. das Niederländische Flüchtlingswerk, die Holz-Speckmann GmbH & Co. KG, die Gi-Ro Technik GmbH & Co. KG, sowie diverse Steuerberaterbüros.  Auch wenn man (noch) gar keinen X2Go-Server einsetzt, und/oder noch andere Remote-Desktop-Technologien wie RDP oder XDMCP zum Einsatz kommen sollen - X2Go-TCE ist das einheitliche, freie Frontend dafür.  X2Go ist eine Open-Source-Remote-Desktop-/Remote-Application-Services-Lösung. Sie basiert auf den GPL-NX-V3-Libraries der Firma NoMachine, auf denen auch FreeNX und NeatX basier(t)en. Anders als bei diesen Projekten findet bei X2Go - in enger Zusammenarbeit mit dem Arctica-Projekt - eine aktive Weiterentwicklung dieser Libraries statt. 
+X2Go ist eine Open-Source-Remote-Desktop-/Remote-Application-Services-Lösung. Sie basiert auf den GPL-NX-V3-Libraries der Firma NoMachine, auf denen auch FreeNX und NeatX basier(t)en. Anders als bei diesen Projekten findet bei X2Go - in enger Zusammenarbeit mit dem Arctica-Projekt - eine aktive Weiterentwicklung dieser Libraries statt.
+
+Im Vortrag möchten wir aufzeigen und demonstrieren:
+
+* wie X2Go neue und alte Welten (Cloud, Client/Server, Midrange/Terminals) verbindet
+* was es mit “modernem Cloud-Computing” wirklich auf sich hat
+* wie eine sichere, zuverlässige, zukunftssichere und kostengünstige Lösung dafür mit X2Go aussieht
+
+Als praktische Beispiele dienen uns u.a. das Niederländische Flüchtlingswerk, die Holz-Speckmann GmbH & Co. KG, die Gi-Ro Technik GmbH & Co. KG, sowie diverse Steuerberaterbüros.
+
+Auch wenn man (noch) gar keinen X2Go-Server einsetzt, und/oder noch andere Remote-Desktop-Technologien wie RDP oder XDMCP zum Einsatz kommen sollen - X2Go-TCE ist das einheitliche, freie Frontend dafür.
 
 ### Vorwissen
 
