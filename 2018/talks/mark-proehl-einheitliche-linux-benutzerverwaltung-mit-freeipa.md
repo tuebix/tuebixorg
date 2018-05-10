@@ -15,9 +15,9 @@ Inhalt dieses Workshops ist der Aufbau einer FreeIPA-Infrastruktur zur zentralen
 
 ### Vorwissen
 
-Die Workshop-Teilnehmer sollten ein grundlegendes Verständnis für die Systemadministration unter Linux mitbringen.  Zur Vorbereitung: Der Workshop wird mit virtuellen Maschinen auf Basis von CentOS 7 durchgeführt. Als Virtualisierungslösung kommt VirtualBox zum Einsatz. Teilnehmer sollten daher einen Laptop mit VirtualBox-Installation mitbringen. Zusätzlich sollte die Software "vagrant" (https://www.vagrantup.com) installiert sein. Um lange Downloads zu vermeiden führt man voraus das Kommando "vagrant box add centos/7" aus, um sich die Vagrant-Box zu CentOS 7 (https://app.vagrantup.com/centos/boxes/7) zu installieren.
+Die Workshop-Teilnehmer sollten ein grundlegendes Verständnis für die Systemadministration unter Linux mitbringen.  Zur Vorbereitung: Der Workshop wird mit virtuellen Maschinen auf Basis von CentOS 7 durchgeführt. Als Virtualisierungslösung kommt VirtualBox zum Einsatz. Teilnehmer sollten daher einen Laptop mit VirtualBox-Installation mitbringen. Zusätzlich sollte die Software "vagrant" ([https://www.vagrantup.com](https://www.vagrantup.com)) installiert sein. Um lange Downloads zu vermeiden führt man voraus das Kommando `vagrant box add centos/7` aus, um sich die Vagrant-Box zu CentOS 7 ([https://app.vagrantup.com/centos/boxes/7](https://app.vagrantup.com/centos/boxes/7)) zu installieren.
 
 ### Über mich
 
-Mark Pröhl ist studierter Physiker und beschäftigt sich als Senior Solutions Architect u.a. mit den Themen Kerberos, LDAP und Active Directory.  Mark Pröhl ist außerdem Autor des Kerberos-Buches (www.kerberos-buch.de)
+Mark Pröhl ist studierter Physiker und beschäftigt sich als Senior Solutions Architect u.a. mit den Themen Kerberos, LDAP und Active Directory.  Mark Pröhl ist außerdem Autor des Kerberos-Buches ([www.kerberos-buch.de](www.kerberos-buch.de))
 
