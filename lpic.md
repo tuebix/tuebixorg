@@ -7,7 +7,7 @@ menu: main
 ---
 
 Das Linux Professional Institute – LPI hat es sich zur Aufgabe gemacht, international anerkannte Qualifizierungsstandards für Linux und Freie Software zu entwickeln. Ziel ist die Unterstützung und Förderung eines professionellen Umgangs mit dieser Software.
-Im Rahmen von TüBIX werden auch in diesem Jahr wieder LPI Zertifizierungsprüfungen sowie zusätzlich die Univention-Prüfungen angeboten:
+Im Rahmen des Tübix werden auch in diesem Jahr wieder LPI Zertifizierungsprüfungen sowie zusätzlich die Univention-Prüfungen angeboten:
 
 ![LPI-Essentials](../images/LinuxEssentials-Small.png "LPI-Essentials-Logo")
 ![LPIC-1-Logo](../images/LPIC-1-Small.png "LPIC-1-Logo")

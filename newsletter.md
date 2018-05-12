@@ -13,10 +13,10 @@ Abonnenten der Liste können NICHT posten, d. h. signal-to-noise ratio sollte
 recht gut sein.<br/>
 Wir werden nicht mehr als 6 Mails im Jahr schreiben:
 
-1. Mail: Der nächste TüBIX-Termin steht
+1. Mail: Der nächste Tübix-Termin steht
 2. Mail: Call for Papers ist eröffnet
 3. Mail: Programm steht fest und Call for Helpers ist eröffnet
-4. Mail: Infos kurz vor knapp (1-2 Tage vor TüBIX)
+4. Mail: Infos kurz vor knapp (1-2 Tage vor dem Tübix)
 5. Mail: Downloads von Folien und Tonspuren sind online
 6. Mail: "reserved for future use", damit wir unser Versprechen nicht brechen
    müssen ;)
