@@ -16,4 +16,4 @@ branches:
 script:
   - set -o errexit
   - bundle exec jekyll build
-  - bundle exec htmlproofer _site
+  - bundle exec htmlproofer --url-ignore '/^http:\/\/tuebix2015\.titanpad\.com/,/^\.\.\/2015\/programm\//,/^#$/' --alt-ignore '/.*/' _site
