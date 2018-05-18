@@ -1,0 +1,19 @@
+language: ruby
+sudo: false
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev # Required to avoid TLS errors
+env:
+  global:
+  # Should speed up the installation of html-proofer
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+branches:
+  only:
+  - gh-pages
+
+script:
+  - set -o errexit
+  - bundle exec jekyll build
+  - bundle exec htmlproofer _site
