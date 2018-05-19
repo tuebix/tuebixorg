@@ -3,7 +3,7 @@ layout: page
 title: Links
 permalink: /links/
 weight:
-menu: 
+menu:
 ---
 
 * <a href="http://tuebingen.linux.de" target="_blank">LUGT / Linux User Group Tübingen</a>
@@ -17,9 +17,10 @@ menu:
 * <a href="http://www.cryptoparty-tuebingen.de" target="_blank">Cryptoparty Tübingen</a>
 * <a href="http://www.cryptoparty.in/tuebingen" target="_blank">cryptoparty.in/tuebingen</a>
 * <a href="http://www.fablab-neckar-alb.org" target="_blank">FabLab Neckar-Alb e.V.</a>
-* <a href="http://www.chaostreff-tuebingen.de" target="_blank">Chaostreff "Chaos-Curry" Tübingen</a>
+<!-- -* <a href="http://www.chaostreff-tuebingen.de" target="_blank">Chaostreff "Chaos-Curry" Tübingen</a> -->
+* <a href="https://groups.google.com/forum/#!forum/chaos-curry-tubingen" target="_blank">Chaostreff "Chaos-Curry" Tübingen (Google group)</a>
 * <a href="http://www.shackspace.de" target="_blank">shack / Hackerspace Stuttgart</a>
-* <a href="http://www.linuxmuster.net" target="_blank">linuxmuster.net e.V.</a>
+<!-- * <a href="http://www.linuxmuster.net" target="_blank">linuxmuster.net e.V.</a> -->
 * <a href="https://www.fsi.uni-tuebingen.de" target="_blank">FSI / Fachschaft Informatik Uni Tübingen</a>
 * <a href="https://moodle02.zdv.uni-tuebingen.de/course/view.php?id=995" target="_blank">leider nur mit ZDV-Account erreichbar: Unix AG Uni Tübingen </a>
 
