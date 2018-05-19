@@ -89,8 +89,7 @@ Aufgrund der begrenzten Anzahl verfügbarer Plätze für die LPI-Prüfungen empf
 
 Details zu den Prüfungsversionen und den Inhalten sind unter den folgenden URLs nachzulesen:
 
- *  <a href="http://www.lpice.eu/de/lpi-zertifizierungsinhalte.html" target="_blank">lpice.eu/de/lpi-zertifizierungsinhalte.html</a>
- *  <a href="http://www.lpi.org/certification/" target="_blank">lpi.org/certification/</a>
+ *  <a href="https://www.lpice.eu/de/unsere-zertifizierungen.html" target="_blank">lpice.eu/de/unsere-zertifizierungen.html</a>
+ *  <a href="https://www.lpi.org/de/our-certifications/summary-of-certifications" target="_blank">lpi.org/de/our-certifications/summary-of-certifications</a>
 
 Für weitere Fragen zu den LPI Prüfungen bitte per E-Mail direkt an das LPI wenden: <a href="mailto:lpievent@lpice.eu">event@lpice.eu</a>
--->
