@@ -14,7 +14,7 @@ Sobald der Termin für 2018 steht wird er über den
 -->
 
 <br/>
-![Tux](./images/tux.png "Tux")
+![Tux](images/tux.png "Tux")
 <br/>
 
 Tübix könnte etwas für dich sein, falls du:
@@ -29,7 +29,7 @@ Tübix könnte etwas für dich sein, falls du:
 * ... nebenbei ein <a href="2017/programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop/">80cm-Teleskop</a> ansehen möchtest
 -->
 
-Der Eintritt ist frei, dafür <a href="../callforhelpers/">hilft jeder ein bisschen mit</a>.
+Der Eintritt ist frei, dafür <a href="callforhelpers/">hilft jeder ein bisschen mit</a>.
 
 <!--
 Die Folien (pdf) und Tonspuren (ogg) der Beiträge von 2015 sind unter <a href="../downloads/">Downloads(2015)</a> zu finden.
