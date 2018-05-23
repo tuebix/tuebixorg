@@ -19,5 +19,5 @@ Die Workshop-Teilnehmer sollten ein grundlegendes Verständnis für die Systemad
 
 ### Über mich
 
-Mark Pröhl ist studierter Physiker und beschäftigt sich als Senior Solutions Architect u.a. mit den Themen Kerberos, LDAP und Active Directory.  Mark Pröhl ist außerdem Autor des Kerberos-Buches ([www.kerberos-buch.de](www.kerberos-buch.de))
+Mark Pröhl ist studierter Physiker und beschäftigt sich als Senior Solutions Architect u.a. mit den Themen Kerberos, LDAP und Active Directory.  Mark Pröhl ist außerdem Autor des Kerberos-Buches ([https://www.kerberos-buch.de](https://www.kerberos-buch.de))
 
