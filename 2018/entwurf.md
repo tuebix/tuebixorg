@@ -52,6 +52,7 @@ menu:
 <tr><td>15:00</td><td>bis&nbsp;15:50</td><td><a class="talk"></a></td><td><a href="../programm/michael-sperber-web-applikationen-und-uis-funktional-programmieren-mit-reacl">Web-Applikationen&nbsp;und&nbsp;UIs&nbsp;funktional&nbsp;programmieren&nbsp;mit&nbsp;Reacl</a></td><td>Michael&nbsp;Sperber</td></tr>
 <tr><td>16:00</td><td>bis&nbsp;16:20</td><td><a class="talk"></a></td><td><a href="../programm/daniel-kobras-zfs-encryption-sichere-datenhaltung-in-der-cloud">ZFS-Encryption&nbsp;-&nbsp;sichere&nbsp;Datenhaltung&nbsp;in&nbsp;der&nbsp;Cloud</a></td><td>Daniel&nbsp;Kobras</td></tr>
 <tr><td>16:30</td><td>bis&nbsp;16:50</td><td><a class="talk"></a></td><td><a href="../programm/marius-heyn-welche-auswirkungen-hat-die-eu-dsgvo-auf-die-software-entwicklung">Welche&nbsp;Auswirkungen&nbsp;hat&nbsp;die&nbsp;EU-DSGVO&nbsp;auf&nbsp;die&nbsp;Software-Entwicklung</a></td><td>Marius&nbsp;Heyn</td></tr>
+<tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/felix-bauer-peekabooav">PeekabooAV&nbsp;-&nbsp;Nightmares&nbsp;and&nbsp;Fairytales</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td>Raum LPIC</td></tr>
 <tr><td>12:00</td><td></td><td><a class="lpic"></a></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td></td></tr>
