@@ -27,7 +27,8 @@ Christian Brauner is a core developer and maintainer of the LXD, LXC, and glibc 
 
 ### Links
 
-- <a href="https://patchwork.ozlabs.org/patch/906304/" target="_blank">uevent: add alloc_uevent_skb() helper</a>
-- <a href="https://patchwork.ozlabs.org/patch/906302/" target="_blank">netns: restrict uevents</a>
 - <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=94e5e3087a67c765be98592b36d8d187566478d5" target="_blank">net: add uevent socket member</a>
 - <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=692ec06d7c92af8ca841a6367648b9b3045344fd" target="_blank">netns: send uevent messages</a>
+- <a href="https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/commit/?id=26045a7b14bc7a5455e411d820110f66557d6589" target="_blank">uevent: add alloc_uevent_skb() helper</a>
+- <a href="https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/commit/?id=a3498436b3a0f8ec289e6847e1de40b4123e1639" target="_blank">netns: restrict uevents</a>
+- <a href="https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/commit/?id=90d52d4fd82007005125d9a8d2d560a1ca059b9d" target="_blank">netns: uevent filtering</a>
