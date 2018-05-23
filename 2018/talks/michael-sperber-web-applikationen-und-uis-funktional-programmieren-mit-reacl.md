@@ -7,7 +7,7 @@ menu:
 ---
 ## Web-Applikationen und UIs funktional programmieren mit Reacl
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:50 in Raum V3
 
 ### Michael Sperber
 

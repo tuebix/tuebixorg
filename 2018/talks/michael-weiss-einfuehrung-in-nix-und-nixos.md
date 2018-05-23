@@ -7,7 +7,7 @@ menu:
 ---
 ## Einführung in Nix und NixOS
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V2
 
 ### Michael Weiss
 
