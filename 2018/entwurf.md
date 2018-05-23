@@ -24,7 +24,8 @@ menu:
 <tr><td>11:00</td><td>bis&nbsp;11:50</td><td><a class="talk"></a></td><td><a href="../programm/andré-niemann-ssh-einfach-sicher-verstehen">SSH&nbsp;-&nbsp;einfach,&nbsp;sicher,&nbsp;verstehen</a></td><td>André&nbsp;Niemann</td></tr>
 <tr><td>12:00</td><td>bis&nbsp;12:50</td><td><a class="talk"></a></td><td><a href="../programm/axel-beckert-von-ueberall-her-per-tor-auf-seinen-rechner-gelangen">Von&nbsp;überall&nbsp;her&nbsp;per&nbsp;Tor&nbsp;auf&nbsp;seinen&nbsp;Rechner&nbsp;gelangen</a></td><td>Axel&nbsp;Beckert</td></tr>
 <tr><td>13:00</td><td>bis&nbsp;13:50</td><td><a class="talk"></a></td><td><a href="../programm/hans-persoenliche-sicherheit-und-datenschutz-durch-ein-passwortverwalter">persönliche&nbsp;Sicherheit&nbsp;und&nbsp;Datenschutz&nbsp;durch&nbsp;ein&nbsp;Passwortverwalter</a></td><td>Hans</td></tr>
-<tr><td>14:00</td><td>bis&nbsp;16:00</td><td><a class="light"></a></td><td>Lightning Talks</td><td></td></tr>
+<tr><td>14:00</td><td>bis&nbsp;14:50</td><td><a class="talk"></a></td><td><a href="../programm/sven-guckes-elimar-riesebieter-neomutt">Neomutt&nbsp;-&nbsp;der&nbsp;neue&nbsp;Mailer</a></td><td>Sven&nbsp;Guckes</td></tr>
+<tr><td>15:00</td><td>bis&nbsp;15:50</td><td><a class="light"></a></td><td>Lightning Talks</td><td></td></tr>
 <tr><td>16:00</td><td>bis&nbsp;16:50</td><td><a class="talk"></a></td><td><a href="../programm/martin-schroeder-wie-funktioniert-eigentlich-sms">Wie&nbsp;funktioniert&nbsp;eigentlich&nbsp;SMS?</a></td><td>Martin&nbsp;Schröder</td></tr>
 <tr><td>17:00</td><td>bis&nbsp;17:50</td><td><a class="talk"></a></td><td><a href="../programm/rainer-grimm-best-practices-fuer-concurrency-oder-was-wir-schmerzhaft-gelernt-haben">Best&nbsp;Practices&nbsp;für&nbsp;Concurrency&nbsp;oder&nbsp;was&nbsp;wir&nbsp;(schmerzhaft)&nbsp;gelernt&nbsp;haben</a></td><td>Rainer&nbsp;Grimm</td></tr>
 <tr><td>18:00</td><td>bis&nbsp;18:20</td><td><a class="talk"></a></td><td><a href="../programm/udo-seidel-opensource-ois-easy-oder">Opensource&nbsp;-&nbsp;Ois&nbsp;easy,&nbsp;oder?</a></td><td>Udo&nbsp;Seidel</td></tr>
@@ -52,7 +53,7 @@ menu:
 <tr><td>15:00</td><td>bis&nbsp;15:50</td><td><a class="talk"></a></td><td><a href="../programm/michael-sperber-web-applikationen-und-uis-funktional-programmieren-mit-reacl">Web-Applikationen&nbsp;und&nbsp;UIs&nbsp;funktional&nbsp;programmieren&nbsp;mit&nbsp;Reacl</a></td><td>Michael&nbsp;Sperber</td></tr>
 <tr><td>16:00</td><td>bis&nbsp;16:20</td><td><a class="talk"></a></td><td><a href="../programm/daniel-kobras-zfs-encryption-sichere-datenhaltung-in-der-cloud">ZFS-Encryption&nbsp;-&nbsp;sichere&nbsp;Datenhaltung&nbsp;in&nbsp;der&nbsp;Cloud</a></td><td>Daniel&nbsp;Kobras</td></tr>
 <tr><td>16:30</td><td>bis&nbsp;16:50</td><td><a class="talk"></a></td><td><a href="../programm/marius-heyn-welche-auswirkungen-hat-die-eu-dsgvo-auf-die-software-entwicklung">Welche&nbsp;Auswirkungen&nbsp;hat&nbsp;die&nbsp;EU-DSGVO&nbsp;auf&nbsp;die&nbsp;Software-Entwicklung</a></td><td>Marius&nbsp;Heyn</td></tr>
-<tr><td>17:00</td><td><a class="talk"></a></td><td><a href="../programm/felix-bauer-peekabooav">PeekabooAV&nbsp;-&nbsp;Nightmares&nbsp;and&nbsp;Fairytales</a></td><td>Felix&nbsp;Bauer</td></tr>
+<tr><td>17:00</td><td>bis&nbsp;17:50</td><td><a class="talk"></a></td><td><a href="../programm/felix-bauer-peekabooav">PeekabooAV&nbsp;-&nbsp;Nightmares&nbsp;and&nbsp;Fairytales</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td>Raum LPIC</td></tr>
 <tr><td>12:00</td><td></td><td><a class="lpic"></a></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td></td></tr>
