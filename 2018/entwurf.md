@@ -17,6 +17,7 @@ menu:
 <tr><td>10:00</td><td>bis&nbsp;11:50</td><td><a class="work"></a></td><td><a href="../programm/mark-proehl-einheitliche-linux-benutzerverwaltung-mit-active-directory">Einheitliche&nbsp;Linux-Benutzerverwaltung&nbsp;mit&nbsp;Active&nbsp;Directory</a></td><td>Mark&nbsp;Pröhl</td></tr>
 <tr><td>12:00</td><td>bis&nbsp;13:50</td><td><a class="work"></a></td><td><a href="../programm/frank-bunselmeyer-daniel-kobras-digitalfotografie-und-digitale-dunkelkammer">Digitalfotografie&nbsp;und&nbsp;digitale&nbsp;Dunkelkammer</a></td><td>Frank&nbsp;Bunselmeyer,&nbsp;Daniel&nbsp;Kobras</td></tr>
 <tr><td>14:00</td><td>bis&nbsp;15:50</td><td><a class="work"></a></td><td><a href="../programm/mark-proehl-einheitliche-linux-benutzerverwaltung-mit-freeipa">Einheitliche&nbsp;Linux-Benutzerverwaltung&nbsp;mit&nbsp;FreeIPA</a></td><td>Mark&nbsp;Pröhl</td></tr>
+<tr><td>16:00</td><td>bis&nbsp;17:50</td><td><a class="work"></a></td><td><a href="../programm/mark-schmidt-andreas-stockmayer-gentoo-installparty/">Gentoo&nbsp;Installparty</a></td><td>Mark&nbsp;Schmidt,Andreas&nbsp;Stockmayer</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td>Raum V1</td></tr>
 <tr><td>09:30</td><td>bis&nbsp;10:00</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-init">Tübix init</a></td><td>Tübix Orga Team</td></tr>
