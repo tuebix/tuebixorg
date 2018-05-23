@@ -23,4 +23,5 @@ Mark Pröhl ist studierter Physiker und beschäftigt sich als Senior Solutions A
 
 ### Links
 
-- <a href="https://www.kerberos-buch.de/tuebix-2018" target="_blank">www.kerberos-buch.de/tuebix-2018</a>
+- <a href="https://app.vagrantup.com/centos/boxes/7" target="_blank">https://app.vagrantup.com/centos/boxes/7</a>
+- <a href="https://www.kerberos-buch.de/tuebix-2018" target="_blank">https://www.kerberos-buch.de/tuebix-2018</a>

@@ -20,3 +20,9 @@ Grundlegendes Verständnis für die Systemadministration unter Linux
 ### Über mich
 
 Mark Pröhl ist studierter Physiker und beschäftigt sich als Senior Solutions Architect u.a. mit den Themen Kerberos, LDAP und Active Directory.  Mark Pröhl ist außerdem Autor des Kerberos-Buches ([https://www.kerberos-buch.de](https://www.kerberos-buch.de))
+
+### Links
+
+- <a href="https://www.vagrantup.com" target="_blank">https://www.vagrantup.com</a>
+- <a href="https://www.ansible.com" target="_blank">https://www.ansible.com</a>
+- <a href="https://www.kerberos-buch.de/tuebix-2018" target="_blank">https://www.kerberos-buch.de/tuebix-2018</a>
