@@ -40,6 +40,7 @@ menu:
 <tr><td>14:00</td><td>bis&nbsp;14:50</td><td><a class="talk"></a></td><td><a href="../programm/holger-gantikow-do-containers-still-not-contain-what-s-new-in-container-security">Do&nbsp;Containers&nbsp;still&nbsp;not&nbsp;contain?&nbsp;What's&nbsp;new&nbsp;in&nbsp;Container&nbsp;Security</a></td><td>Holger&nbsp;Gantikow</td></tr>
 <tr><td>15:00</td><td>bis&nbsp;15:20</td><td><a class="talk"></a></td><td><a href="../programm/adrian-reber-christian-brauner-optimized-container-live-migration">Optimized&nbsp;Container&nbsp;Live-Migration</a></td><td>Adrian&nbsp;Reber,&nbsp;Christian&nbsp;Brauner</td></tr>
 <tr><td>15:30</td><td>bis&nbsp;15:50</td><td><a class="talk"></a></td><td><a href="../programm/felix-bauer-app-separation-no-need-containers">App&nbsp;separation&nbsp;no&nbsp;need&nbsp;containers</a></td><td>Felix&nbsp;Bauer</td></tr>
+<tr><td>16:00</td><td>bis&nbsp;16:50</td><td><a class="talk"></a></td><td><a href="../programm/gerhard-klostermeier-rfid-nfc-grundlagen">RFID/NFC-Grundlagen&nbsp;-&nbsp;A&nbsp;Pentesters&nbsp;Perspective</a></td><td>Gerhard&nbsp;Klostermeier</td></tr>
 <tr><td>17:00</td><td>bis&nbsp;17:50</td><td><a class="talk"></a></td><td><a href="../programm/elizaveta-tretiakova-hotplugging-mounts-into-processes">Hotplugging&nbsp;Mounts&nbsp;Into&nbsp;Processes</a></td><td>Elizaveta&nbsp;Tretiakova</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td>Raum V3</td></tr>
