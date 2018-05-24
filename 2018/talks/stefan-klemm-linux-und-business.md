@@ -23,7 +23,12 @@ Für Linux gibt es kaum Software für Kleinunternehmer. Da ich nebenberuflich ei
 
 Kein Vorwissen nötig. Allerdings sollten die Teilnehmer ein Kleinunternehmen haben oder dort arbeiten.
 
+### Vorbereitung
+
+Für den Workshop ist ein Laptop mit installierter Datenbank (entweder MySQL oder Maria-DB) sinnvoll. Falls Sie diese noch nicht installiert haben, installieren Sie bitte die Datenbank entsprechend Ihrer Distribution. Für Ubuntu lautet der Befehl: `sudo apt-get install mariadb-server` (siehe auch: ([https://wiki.ubuntuusers.de/MariaDB/](https://wiki.ubuntuusers.de/MariaDB/)) )
+
+Zudem sollten die Teilnehmer auch Java installiert haben (Open-JDK funktioniert auch). Eine Installtion des Oracle-JDK unter Linux kann im Workshop erfolgen.
+
 ### Über mich
 
 Ich bin als Softwareentwickler bei einem Maschinenbauunternehmen angestellt und habe eine starke Linux-Affinität.
-
