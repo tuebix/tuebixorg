@@ -9,7 +9,7 @@ menu:
 
 ### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 15:50 in Raum W1
 
-### Daniel Kulesz
+### Daniel Kulesz, Fabio Schmidberger, Jonas Morela, Niklas Klammhoff
 
 Durch Test-Automatisierung lässt sich zwar viel Testaufwand sparen, aber manuelle Systemtests sind für die Erkennung unerwarteter Fehler oft besser und daher eine sinnvolle Ergänzung. Die von uns entwickelte Webanwendung "SystemTestPortal" erlaubt es Entwicklern, Testern, Test-Managern und Endanwendern mühelos beim Test von Systemen zusammenarbeiten. Das System ist in Golang implementiert, sehr leichtgewichtig und unter der GPLv3 verfügbar. Im Vortrag wollen wir die Software und das Projekt vorstellen und anhand praxisnaher Szenarien demonstrieren, wie der Einsatz des Systems zu einer Verbesserung in der Entwicklung freier Software beitragen kann. 
 
