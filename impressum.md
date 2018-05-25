@@ -6,7 +6,7 @@ weight:
 menu:
 ---
 
-# Organisationsteam T&Uuml;BIX 2018
+# Organisationsteam Tübix 2018
 
 * Jonas Benn
 * Christian Brauner
