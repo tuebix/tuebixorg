@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**News:** Der Tübix 2018 findet am Samstag, dem 9. Juni 2018 statt.
+**News:** Tübix 2018 findet am Samstag, dem 9. Juni 2018 statt und das <a href="2018/programm/">Programm steht!</a>
 <!--
 {{ site.title }} ist ein
 <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a>
