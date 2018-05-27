@@ -2,7 +2,7 @@
 layout: page
 title: Downloads/Archiv
 permalink: /downloads/
-weight: 10
+weight: 15
 menu: main
 ---
 
