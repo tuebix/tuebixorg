@@ -135,7 +135,7 @@ padding-right: 8px;
 <tr><td>18:00</td>
 <td colspan="2"></td>
 <td>            <a class="talk" href="../programm/udo-seidel-opensource-ois-easy-oder">ois easy?</a></td>
-<td colspan="3"></td>
+<td colspan="4"></td>
 <td>18:00</td></tr>
 
 <tr><td>18:20</td>
