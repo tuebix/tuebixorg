@@ -77,6 +77,8 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/michael-stroeder-ae-dir-paranoide-benutzerverwaltung-mit-openldap">AE-DIR</a></td>
 <td>13:00</td></tr>
 
+<tr><td>&nbsp;</td><td></td></tr>
+
 <tr><td>14:00</td>
 <td rowspan="4"><a class="work" href="../programm/daniel-kulesz-systematisch-und-sozial-testen-mit-dem-systemtestportal">SystemTestPortal</a></td>
 <td rowspan="4"><a class="work" href="../programm/mark-proehl-einheitliche-linux-benutzerverwaltung-mit-freeipa">FreeIPA</a></td>
@@ -118,6 +120,8 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/elizaveta-tretiakova-hotplugging-mounts-into-processes">hotplugging mounts</a></td>
 <td rowspan="2"><a class="talk" href="../programm/felix-bauer-peekabooav">PeekabooAV</a></td>
 <td>17:00</td></tr>
+
+<tr><td>&nbsp;</td><td></td></tr>
 
 <tr><td>18:00</td>
 <td colspan="2"></td>
