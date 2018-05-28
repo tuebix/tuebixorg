@@ -43,6 +43,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/olaf-flebbe-python-performance-for-plants-and-profit">Python Performance</a></td>
 <td rowspan="2"><a class="talk" href="../programm/michael-weiss-einfuehrung-in-nix-und-nixos">NixOS</a></td>
 <td>            <a class="talk" href="../programm/hans-umatrix-fuer-webbrowserschutz">umatrix</a></td>
+<td rowspan="4">&nbsp;</td>
 <td>10:00</td></tr>
 
 <tr><td></td>
@@ -54,6 +55,8 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/christian-brauner-linux-device-management-making-the-kernel-and-udev-namespace-aware">device management</a></td>
 <td rowspan="2"><a class="talk" href="../programm/knut-franke-prokrastination-panik-doku-pauken-was-hilft-bei-der-migration-auf-python3">Python3</a></td>
 <td>11:00</td></tr>
+
+<tr><td>&nbsp;</td><td></td></tr>
 
 <tr><td>12:00</td>
 <td rowspan="4"><a class="work" href="../programm/lukas-kallies-linux-server--und-deskop-lifecycle-management">lifecycle management</a></td>
@@ -86,8 +89,6 @@ padding-right: 8px;
 <tr><td></td>
 <td>            <a class="talk" href="../programm/gunnar-piel-das-auto-betriebssystem-der-zukunft">Auto OS</a></td>
 <td></td></tr>
-
-#####<td rowspan="2"><a class="light" href="../programm">LUGS und Co</a></td>
 
 <tr><td>15:00</td>
 <td rowspan="2"><a class="light" href="../../callforpapers/">Lightning&nbsp;Talks</a></td>
