@@ -11,7 +11,9 @@ menu:
 
 ### Felix Bauer
 
-Kurze Vorstellung weiterer Möglichkeiten der Kapselung von Anwendungen auf Linux-Systemen durch Namespaces
+Kurze Vorstellung von Möglichkeiten der Kapselung von Anwendungen auf Linux-Systemen durch Namespaces, Erkennung des genutzten Mechanismus, Unterschiede, Charakterisika und Wege und Auswege aus dem Container.
+Erläutert und veranschaulicht werden Funktionsweise, Einsatzzweck und Grenzen von `chroot`, `docker`, `firejail`, `lxd` und `systemd-nspawn`.
+
 
 ### Vorwissen
 
