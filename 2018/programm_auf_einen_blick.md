@@ -29,12 +29,12 @@ padding-right: 8px;
 
 <table>
 
-<tr><td></td><td>W1</td><td>W3</td><td>V1</td><td>V2</td><td>V3</td><td>LPIC</td><td></td></tr>
+<tr><td></td><td>W1</td><td>W3</td><td>V1</td><td>V2</td><td>V3</td><td>LPIC</td><td>Observatorium</td><td></td></tr>
 
 <tr><td>09:30</td>
 <td colspan="2"></td>
 <td>            <a class="talk2" href="../programm/tuebix-init">init</a></td>
-<td colspan="3"></td>
+<td colspan="4"></td>
 <td>09:30</td></tr>
 
 <tr><td>10:00</td>
@@ -44,6 +44,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/michael-weiss-einfuehrung-in-nix-und-nixos">NixOS</a></td>
 <td>            <a class="talk" href="../programm/hans-umatrix-fuer-webbrowserschutz">umatrix</a></td>
 <td rowspan="4">&nbsp;</td>
+<td rowspan="2">&nbsp;</td>
 <td>10:00</td></tr>
 
 <tr><td></td>
@@ -54,9 +55,12 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/andré-niemann-ssh-einfach-sicher-verstehen">SSH</a></td>
 <td rowspan="2"><a class="talk" href="../programm/christian-brauner-linux-device-management-making-the-kernel-and-udev-namespace-aware">device management</a></td>
 <td rowspan="2"><a class="talk" href="../programm/knut-franke-prokrastination-panik-doku-pauken-was-hilft-bei-der-migration-auf-python3">Python3</a></td>
+<td>            <a class="talk" href="../programm/thomas-rauch-das-tuebinger-80cm-teleskop">80cm-Teleskop</a></td>
 <td>11:00</td></tr>
 
-<tr><td>&nbsp;</td><td></td></tr>
+<tr><td>&nbsp;</td>
+<td>            <a class="talk" href="../programm/thomas-rauch-das-tuebinger-80cm-teleskop">80cm-Teleskop</a></td>
+<td></td></tr>
 
 <tr><td>12:00</td>
 <td rowspan="4"><a class="work" href="../programm/lukas-kallies-linux-server--und-deskop-lifecycle-management">lifecycle management</a></td>
@@ -65,6 +69,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/stefan-baur-x2go-thin-client-edition-tce-open-source-als-mittler-zwischen-den-welten">X2Go</a></td>
 <td>            <a class="talk" href="../programm/dominik-george-too-young-to-rock-n-roll-kinder-wollen-mitmachen">too young</a></td>
 <td rowspan="4"><a class="lpic" href="../lpic">LPIC</a></td>
+<td rowspan="2">&nbsp;</td>
 <td>12:00</td></tr>
 
 <tr><td></td>
@@ -75,9 +80,12 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/hans-persoenliche-sicherheit-und-datenschutz-durch-ein-passwortverwalter">Passwortverwalter</a></td>
 <td rowspan="2"><a class="talk" href="../programm/adrian-reber-einfuehrung-in-openhpc">OpenHPC</a></td>
 <td rowspan="2"><a class="talk" href="../programm/michael-stroeder-ae-dir-paranoide-benutzerverwaltung-mit-openldap">AE-DIR</a></td>
+<td>            <a class="talk" href="../programm/thomas-rauch-das-tuebinger-80cm-teleskop">80cm-Teleskop</a></td>
 <td>13:00</td></tr>
 
-<tr><td>&nbsp;</td><td></td></tr>
+<tr><td>&nbsp;</td>
+<td>            <a class="talk" href="../programm/thomas-rauch-das-tuebinger-80cm-teleskop">80cm-Teleskop</a></td>
+<td></td></tr>
 
 <tr><td>14:00</td>
 <td rowspan="4"><a class="work" href="../programm/daniel-kulesz-systematisch-und-sozial-testen-mit-dem-systemtestportal">SystemTestPortal</a></td>
@@ -86,6 +94,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/holger-gantikow-do-containers-still-not-contain-what-s-new-in-container-security">Container Security</a></td>
 <td            ><a class="talk" href="../programm/dominik-george-kinder-instant-messaging-und-andere-foss-abenteuer">Whatsapp Alternative?</a></td>
 <td rowspan="4"><a class="lpic" href="../lpic">LPIC</a></td>
+<td rowspan="8">&nbsp;</td>
 <td>14:00</td></tr>
 
 <tr><td></td>
@@ -132,7 +141,7 @@ padding-right: 8px;
 <tr><td>18:20</td>
 <td colspan="2"></td>
 <td>            <a class="talk2" href="../programm/tuebix-exit">exit</a></td>
-<td colspan="3"></td>
+<td colspan="4"></td>
 <td>18:20</td></tr>
 
 <!-- for some reason the next tag (to close the table) won't show up in the end... wtf? -->

@@ -19,7 +19,7 @@ Die Beiträge des Programms gibt es in mehreren Geschmacksrichtungen:
 
 <h2><span><img height="36" width="36" src="../../images/workshop.svg"></span> Workshop</h2>
 
-  * Dauer: 120 min
+  * Dauer: 110 min
   * jeder Teilnehmer bringt eigenen Laptop mit!
   * kleinere Gruppe bis etwa 15 Teilnehmer
   * Mitmachen / geführtes Tutorial / "Learning by Doing" / "Hands-On" 
@@ -27,7 +27,7 @@ Die Beiträge des Programms gibt es in mehreren Geschmacksrichtungen:
 <h2><span><img height="36" width="36" src="../../images/lightning.svg"></span> Lightning Talk</h2>
 
   * Dauer: höchstens 5 min
-  * Kurzvorträge in einem Block von vielen Kurzvorträgen im Raum V3
+  * Kurzvorträge in einem Block von vielen Kurzvorträgen im Raum V1
   * Vorstellung von Tools/Konzepten/Projekten
   * Interesse wecken
 
@@ -39,8 +39,9 @@ Die Beiträge des Programms gibt es in mehreren Geschmacksrichtungen:
 <h2><span><img height="36" width="36" src="../../images/talk2.svg"></span> init + exit</h2>
 
   * TüBIX: init und TüBIX: exit
-  * Dauer: jeweils 15 min
   * gemeinsamer Beginn und Ende mit allgemeinen Infos
+  * Dauer init 20 min
+  * Dauer exit 10 min
 
 <h2><span><img height="36" width="36" src="../../images/lpic.svg"></span> LPIC</h2>
 
