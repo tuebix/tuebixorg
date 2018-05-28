@@ -92,7 +92,7 @@ padding-right: 8px;
 <td rowspan="4"><a class="work" href="../programm/mark-proehl-einheitliche-linux-benutzerverwaltung-mit-freeipa">FreeIPA</a></td>
 <td rowspan="2"><a class="talk" href="../programm/sven-guckes-elimar-riesebieter-neomutt">neomutt</a></td>
 <td rowspan="2"><a class="talk" href="../programm/holger-gantikow-do-containers-still-not-contain-what-s-new-in-container-security">Container Security</a></td>
-<td            ><a class="talk" href="../programm/dominik-george-kinder-instant-messaging-und-andere-foss-abenteuer">Whatsapp Alternative?</a></td>
+<td            ><a class="talk" href="../programm/dominik-george-kinder-instant-messaging-und-andere-foss-abenteuer">instannt&nbsp;messenger</a></td>
 <td rowspan="4"><a class="lpic" href="../lpic">LPIC</a></td>
 <td rowspan="8">&nbsp;</td>
 <td>14:00</td></tr>
@@ -103,12 +103,12 @@ padding-right: 8px;
 
 <tr><td>15:00</td>
 <td rowspan="2"><a class="light" href="../../callforpapers/">Lightning&nbsp;Talks</a></td>
-<td>            <a class="talk" href="../programm/adrian-reber-christian-brauner-optimized-container-live-migration">container live migration</a></td>
+<td>            <a class="talk" href="../programm/adrian-reber-christian-brauner-optimized-container-live-migration">container&nbsp;live&nbsp;migration</a></td>
 <td rowspan="2"><a class="talk" href="../programm/michael-sperber-web-applikationen-und-uis-funktional-programmieren-mit-reacl">Reacl</a></td>
 <td>15:00</td></tr>
 
 <tr><td>&nbsp;</td>
-<td>            <a class="talk" href="../programm/felix-bauer-app-separation-no-need-containers">app separation</a></td>
+<td>            <a class="talk" href="../programm/felix-bauer-app-separation-no-need-containers">app&nbsp;separation</a></td>
 <td></td></tr>
 
 <tr><td>16:00</td>
