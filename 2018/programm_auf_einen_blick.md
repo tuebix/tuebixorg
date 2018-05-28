@@ -64,7 +64,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/axel-beckert-von-ueberall-her-per-tor-auf-seinen-rechner-gelangen">Tor</a></td>
 <td rowspan="2"><a class="talk" href="../programm/stefan-baur-x2go-thin-client-edition-tce-open-source-als-mittler-zwischen-den-welten">X2Go</a></td>
 <td>            <a class="talk" href="../programm/dominik-george-too-young-to-rock-n-roll-kinder-wollen-mitmachen">too young</a></td>
-<td rowspan="4"><a              href="../lpic">LPIC</a></td>
+<td rowspan="4"><a class="lpic" href="../lpic">LPIC</a></td>
 <td>12:00</td></tr>
 
 <tr><td></td>
@@ -85,7 +85,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/sven-guckes-elimar-riesebieter-neomutt">neomutt</a></td>
 <td rowspan="2"><a class="talk" href="../programm/holger-gantikow-do-containers-still-not-contain-what-s-new-in-container-security">Container Security</a></td>
 <td            ><a class="talk" href="../programm/dominik-george-kinder-instant-messaging-und-andere-foss-abenteuer">Whatsapp Alternative?</a></td>
-<td rowspan="4"><a              href="../lpic">LPIC</a></td>
+<td rowspan="4"><a class="lpic" href="../lpic">LPIC</a></td>
 <td>14:00</td></tr>
 
 <tr><td></td>
@@ -94,7 +94,7 @@ padding-right: 8px;
 
 <tr><td>15:00</td>
 <td rowspan="2"><a class="light" href="../../callforpapers/">Lightning&nbsp;Talks</a></td>
-<td rowspan="2"><a class="talk" href="../programm/adrian-reber-christian-brauner-optimized-container-live-migration">container live migration</a></td>
+<td>            <a class="talk" href="../programm/adrian-reber-christian-brauner-optimized-container-live-migration">container live migration</a></td>
 <td rowspan="2"><a class="talk" href="../programm/michael-sperber-web-applikationen-und-uis-funktional-programmieren-mit-reacl">Reacl</a></td>
 <td>15:00</td></tr>
 
@@ -107,7 +107,7 @@ padding-right: 8px;
 <td rowspan="4"><a class="work" href="../programm/mark-schmidt-andreas-stockmayer-gentoo-installparty">Gentoo Installparty</a></td>
 <td rowspan="2"><a class="talk" href="../programm/martin-schroeder-wie-funktioniert-eigentlich-sms">SMS</a></td>
 <td rowspan="2"><a class="talk" href="../programm/gerhard-klostermeier-rfid-nfc-grundlagen">RFID+NFC</a></td>
-<td rowspan="2"><a class="talk" href="../programm/daniel-kobras-zfs-encryption-sichere-datenhaltung-in-der-cloud">ZFS</a></td>
+<td>            <a class="talk" href="../programm/daniel-kobras-zfs-encryption-sichere-datenhaltung-in-der-cloud">ZFS</a></td>
 <td rowspan="4"></td>
 <td>16:00</td></tr>
 
