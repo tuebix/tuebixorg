@@ -2,7 +2,11 @@
 layout: default
 ---
 
-**News:** Tübix 2018 findet am Samstag, dem 9. Juni 2018 statt und das <a href="2018/programm/">Programm steht!</a>
+**News:** Der Tübix 2018 findet am Samstag, dem **9. Juni 2018** statt.
+- Das <a href="2018/programm/">Programm</a> steht fest.
+- Der [Call for Helpers](callforhelpers/) ist eröffnet.
+- Lightning Talks können noch über den [Call for Papers](callforpapers/)
+  eingereicht werden.
 <!--
 {{ site.title }} ist ein
 <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a>
@@ -17,7 +21,7 @@ Sobald der Termin für 2018 steht wird er über den
 ![Tux](images/tux.png "Tux")
 <br/>
 
-Tübix könnte etwas für dich sein, falls du:
+Der Tübix könnte etwas für dich sein, falls du:
 
 * ... von anderen etwas dazulernen möchtest
 * ... anderen etwas zeigen oder beibringen möchtest
