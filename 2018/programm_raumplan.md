@@ -39,7 +39,7 @@ menu: main
 <tr><td>13:00</td><td>bis&nbsp;13:50</td><td><a class="talk"></a></td><td><a href="../programm/hans-persoenliche-sicherheit-und-datenschutz-durch-ein-passwortverwalter">persönliche&nbsp;Sicherheit&nbsp;und&nbsp;Datenschutz&nbsp;durch&nbsp;ein&nbsp;Passwortverwalter</a></td><td>Hans</td></tr>
 <tr><td>14:00</td><td>bis&nbsp;14:50</td><td><a class="talk"></a></td><td><a href="../programm/sven-guckes-elimar-riesebieter-neomutt">Neomutt&nbsp;-&nbsp;der&nbsp;neue&nbsp;Mailer</a></td><td>Sven&nbsp;Guckes,&nbsp;Elimar&nbsp;Riesebieter</td></tr>
 <tr><td>15:00</td><td>bis&nbsp;15:50</td><td><a class="light"></a></td><td><a href="../../callforpapers">Lightning Talks</a></td><td></td></tr>
-<tr><td>16:00</td><td>bis&nbsp;16:50</td><td><a class="talk"></a></td><td><a href="../programm/martin-schroeder-wie-funktioniert-eigentlich-sms">Wie&nbsp;funktioniert&nbsp;eigentlich&nbsp;SMS?</a></td><td>Martin&nbsp;Schröder</td></tr>
+<tr><td>16:00</td><td>bis&nbsp;16:50</td><td><a class="talk"></a></td><td></td><td></td></tr>
 <tr><td>17:00</td><td>bis&nbsp;17:50</td><td><a class="talk"></a></td><td><a href="../programm/rainer-grimm-best-practices-fuer-concurrency-oder-was-wir-schmerzhaft-gelernt-haben">Best&nbsp;Practices&nbsp;für&nbsp;Concurrency&nbsp;oder&nbsp;was&nbsp;wir&nbsp;(schmerzhaft)&nbsp;gelernt&nbsp;haben</a></td><td>Rainer&nbsp;Grimm</td></tr>
 <tr><td>18:00</td><td>bis&nbsp;18:20</td><td><a class="talk"></a></td><td><a href="../programm/udo-seidel-opensource-ois-easy-oder">Opensource&nbsp;-&nbsp;Ois&nbsp;easy,&nbsp;oder?</a></td><td>Udo&nbsp;Seidel</td></tr>
 <tr><td>18:20</td><td>bis&nbsp;18:30</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-exit">Tübix exit</a></td><td>Tübix Orga Team</td></tr>
