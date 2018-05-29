@@ -2,8 +2,8 @@
 layout: page
 title: Programm - auf einen Blick
 permalink: /2018/programm_auf_einen_blick/
-weight: 
-menu: 
+weight:
+menu:
 ---
 <style type="text/css">
 table {
@@ -68,7 +68,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/axel-beckert-von-ueberall-her-per-tor-auf-seinen-rechner-gelangen">Tor</a></td>
 <td rowspan="2"><a class="talk" href="../programm/stefan-baur-x2go-thin-client-edition-tce-open-source-als-mittler-zwischen-den-welten">X2Go</a></td>
 <td>            <a class="talk" href="../programm/dominik-george-too-young-to-rock-n-roll-kinder-wollen-mitmachen">too young</a></td>
-<td rowspan="4"><a class="lpic" href="../lpic">LPIC</a></td>
+<td rowspan="4"><a class="lpic" href="../../lpic">LPIC</a></td>
 <td rowspan="2">&nbsp;</td>
 <td>12:00</td></tr>
 
@@ -93,7 +93,7 @@ padding-right: 8px;
 <td rowspan="2"><a class="talk" href="../programm/sven-guckes-elimar-riesebieter-neomutt">neomutt</a></td>
 <td rowspan="2"><a class="talk" href="../programm/holger-gantikow-do-containers-still-not-contain-what-s-new-in-container-security">Container Security</a></td>
 <td            ><a class="talk" href="../programm/dominik-george-kinder-instant-messaging-und-andere-foss-abenteuer">instannt&nbsp;messenger</a></td>
-<td rowspan="4"><a class="lpic" href="../lpic">LPIC</a></td>
+<td rowspan="4"><a class="lpic" href="../../lpic">LPIC</a></td>
 <td rowspan="8">&nbsp;</td>
 <td>14:00</td></tr>
 
