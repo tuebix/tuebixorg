@@ -42,12 +42,14 @@ Wir können den Kuchen im Kühlwagen aufbewahren, bring dafür am besten eine To
 
 X O O O O O O O O O O O O O O O
 
+<!-- TODO
 ## Kasse (je 2h, 1 Person)
 
 O 10:00 - 12:00 Kasse<br/>
 O 12:00 - 14:00 Kasse<br/>
 O 14:00 - 16:00 Kasse<br/>
 O 16:00 - 18:00 Kasse<br/>
+-->
 
 ## Gästebett (Fr/Sa und Sa/So)
 Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Dann melde dich bei uns und gib Bescheid, wieviele Übernachtungen Du ermöglichen könntest:
