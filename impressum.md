@@ -18,6 +18,7 @@ menu:
 * Christoph Prokop
 * Gunnar Schmidt
 * Roman Schulte
+* Tobias Stumpp
 * Michael Weiss
 
 # Technische Umsetzung dieser Webseite
