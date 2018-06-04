@@ -63,7 +63,7 @@ padding-right: 8px;
 <td></td></tr>
 
 <tr><td>12:00</td>
-<td rowspan="4"><a class="work" href="../programm/lukas-kallies-linux-server--und-deskop-lifecycle-management">lifecycle management</a></td>
+<td rowspan="4"><a class="work" href="../programm/lukas-kallies-linux-server--und-desktop-lifecycle-management">lifecycle management</a></td>
 <td rowspan="4"><a class="work" href="../programm/frank-bunselmeyer-daniel-kobras-digitalfotografie-und-digitale-dunkelkammer">Digitale Dunkelkammer</a></td>
 <td rowspan="2"><a class="talk" href="../programm/axel-beckert-von-ueberall-her-per-tor-auf-seinen-rechner-gelangen">Tor</a></td>
 <td rowspan="2"><a class="talk" href="../programm/stefan-baur-x2go-thin-client-edition-tce-open-source-als-mittler-zwischen-den-welten">X2Go</a></td>
