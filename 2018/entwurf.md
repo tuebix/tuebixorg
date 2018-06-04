@@ -9,7 +9,7 @@ menu:
 <table>
 <tr><td></td><td></td><td></td><td>Raum W1</td></tr>
 <tr><td>10:00</td><td>bis&nbsp;11:50</td><td><a class="work"></a></td><td><a href="../programm/felix-bauer-security-basics-sniffing-und-scanning">Security&nbsp;Basics:&nbsp;Sniffing&nbsp;und&nbsp;Scanning</a></td><td>Felix&nbsp;Bauer</td></tr>
-<tr><td>12:00</td><td>bis&nbsp;13:50</td><td><a class="work"></a></td><td><a href="../programm/lukas-kallies-linux-server--und-deskop-lifecycle-management">Linux&nbsp;Server-&nbsp;und&nbsp;Deskop-Lifecycle-Management</a></td><td>Lukas&nbsp;Kallies</td></tr>
+<tr><td>12:00</td><td>bis&nbsp;13:50</td><td><a class="work"></a></td><td><a href="../programm/lukas-kallies-linux-server--und-desktop-lifecycle-management">Linux&nbsp;Server-&nbsp;und&nbsp;Desktop-Lifecycle-Management</a></td><td>Lukas&nbsp;Kallies</td></tr>
 <tr><td>14:00</td><td>bis&nbsp;15:50</td><td><a class="work"></a></td><td><a href="../programm/daniel-kulesz-systematisch-und-sozial-testen-mit-dem-systemtestportal">Systematisch&nbsp;und&nbsp;sozial&nbsp;testen&nbsp;-&nbsp;mit&nbsp;dem&nbsp;SystemTestPortal</a></td><td>Daniel&nbsp;Kulesz,&nbsp;Fabio&nbsp;Schmidberger,&nbsp;Jonas&nbsp;Morela,&nbsp;Niklas&nbsp;Klammhoff</td></tr>
 <tr><td>16:00</td><td>bis&nbsp;17:50</td><td><a class="work"></a></td><td><a href="../programm/stefan-klemm-linux-und-business">Linux&nbsp;und&nbsp;Business</a></td><td>Stefan&nbsp;Klemm</td></tr>
 <tr><td>&nbsp;</td></tr>
