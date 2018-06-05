@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <schedule>
   <conference>
     <title>T&#xFC;bix 2018</title>
@@ -942,7 +942,7 @@ Linux-Grundlagen ;)
 </links>
 <persons><person id="mark-schmidt-andreas-stockmayer-gentoo">xxx</person></persons>
 </event>
-﻿</room>
+</room>
 
 <room name="X">
 
