@@ -7,7 +7,7 @@ menu:
 ---
 ## uMatrix für Webbrowserschutz
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:20 in Raum V7
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:20 in Raum V3
 
 ### Hans
 
