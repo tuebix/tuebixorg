@@ -1,0 +1,980 @@
+﻿<?xml version="1.0"?>
+<schedule>
+  <conference>
+    <title>T&#xFC;bix 2018</title>
+    <city>T&#xFC;bingen</city>
+    <start>2018-06-09</start>
+    <end>2018-06-09</end>
+    <days>1</days>
+    <release>1.20180605.1123</release>
+    <timeslot_duration>00:30</timeslot_duration>
+  </conference>
+  <day date="2018-06-09" index="1">
+  <room name="V1">
+<event id="andré-niemann-ssh-einfach-sicher-verstehen">
+<start>11:00</start>
+<duration>00:50</duration>
+<room>V1</room>
+<title>SSH - einfach, sicher, verstehen</title>
+<type>talk</type>
+<description>
+In den letzten Jahren wurde viel über TLS-Sicherheit geredet, SSH jedoch selten erwähnt. SSH ist nicht nur ein Standardwerkzeug für Administratoren, sondern leistet auch vielen Benutzern gute Dienste. Doch wer hat schon einen Überblick, welche Schlüsseltypen es gibt und wie die Verbindung verschlüsselt wird? Dokumentation und RFCs zu den Standards und Tools sind oft komplex und nicht jeder hat die Zeit, neue Revisionen und Releasenotes eines jeden Werkzeugs zu lesen. Daher werden als Einstieg nochmal SSH-Grundlagen  aufgefrischt. Nachdem alle wieder mit dem Verbindungsaufbau und den gängigsten Konfigurationsoptionen vertraut sind, stellt der Beitrag einige nützliche Optionen vor, die vielleicht nicht jedem bekannt sind. Danach werden Möglichkeiten zur Schlüsselverwaltung demonstriert und diskutiert. Falls noch Zeit über ist, werden die zahlreichen Tunnelingfunktionen besprochen. Ziel ist es, dass jeder Zuhörer am Ende des Vortrags wieder mit der Funktionsweise von SSH vertraut ist und mit nach Hause nimmt, wie er sein SSH-Setup verbessern kann.
+
+### Vorwissen
+
+Es wäre gut, wenn man schonmal eine Shell benutzt hat, noch besser wenn man diese gerne benutzt.
+
+### Über mich
+
+André fing mit Linux als Hobby zu Zeiten an, als es noch gängig war, Textinstaller zu benutzen. Seit einigen Jahren ist er als Linux-Systemengineer mit Fokus auf Systemsicherheit unterwegs und hält Fachvorträge bei Usergroups und Open-Source-Konferenzen.
+
+</description>
+<persons><person id="andré-niemann-ssh-einfach-sicher">xxx</person></persons>
+</event>
+<event id="axel-beckert-von-ueberall-her-per-tor-auf-seinen-rechner-gelangen">
+<start>12:00</start>
+<duration>00:50</duration>
+<room>V1</room>
+<title>Von überall her per Tor auf seinen Rechner gelangen</title>
+<type>talk</type>
+<description>
+Tor ist nicht nur etwas für investigative Journalisten, Whistleblower, auf Privatsphäre achtende Webnutzer oder böse Jungs. Man kann es auch als leicht einzurichtendes, öffentliches "VPN" nutzen um durch einen NAT-Router oder sogar durch Carrier-Grade-NAT hindurch auf eigene Dienste zuzugreifen.  Dieser Vortrag soll anhand einer Live-Demonstration auf einem Raspberry Pi zeigen, wie man einen Webserver und SSH-Zugriff per Tor als "Hidden Service" konfiguriert und darauf von überall in der Welt darauf zugreifen kann.
+
+### Vorwissen
+
+Grundlegendes Netzwerkkenntnisse (IP-Adresse, Ports, NAT), keine Angst vor dem Bearbeiten von Konfigurationsdateien mit einem Editor.
+
+### Über mich
+
+Axel Beckert hat an der Universität des Saarlandes Informatik mit Nebenfach Biologie studiert, arbeitet als Netzwerksicherheitsspezialist und Systemadministrator an der ETH Zürich und ist offizieller Entwickler bei der Distribution Debian. 
+
+</description>
+<links>
+
+- <link href="https://noone.org/talks/tor/" >Folien</link></links>
+<persons><person id="axel-beckert-von-ueberall-her-per-tor-auf-seinen-rechner">xxx</person></persons>
+</event>
+<event id="dominik-george-movim-the-kick-ass-social-network">
+<start>14:00</start>
+<room>V1</room>
+<title>Movim, the kick-ass social network</title>
+<type>lightning</type>
+<description>
+Movim ist ein komplett standardbasiertes, freies soziales Netzwerk auf der Basis von Jabber (XMPP), das mit anderen CLients vollkompatibel ist und neben Chats auch Features gängiger sozialer Netzwerke, wie Pinnwände, Blogcommunities, usw. in den Webbrowser bringt.
+
+### Über mich
+
+28 Jahre alt, Systemadministrator, Pädagoge und Vorsitzender des Teckids e.V., der Freie-Software-Jugendorganisation. Dadurch Nutzer und Kontributor des freien sozialen Netzwerks Movim.
+
+</description>
+<links>
+
+- <link href="https://movim.eu" >Movim</link></links>
+<persons><person id="dominik-george-movim-the-kick-ass-social">xxx</person></persons>
+</event>
+<event id="hans-persoenliche-sicherheit-und-datenschutz-durch-ein-passwortverwalter">
+<start>13:00</start>
+<duration>00:50</duration>
+<room>V1</room>
+<title>Persönliche Sicherheit und Datenschutz durch ein Passwortverwalter</title>
+<type>talk</type>
+<description>
+Schutz Deine eigene Dateien sowie sonstige Cloud- und Webkontos.  Durch ein Passwortverwalter wie KeePassXC, kann man seine eigene Kontos besser schutzen. Es ist Deine Dateien, traue Dich nicht vollig auf Websiteinhaber und Datenwolkenanbieter.   Anwesende lernen wichtige Fahigkeiten einem Passwortverwalter und wie eindeutige Bescheinigungen ( Einloggenname, Kennwort, Sicherheitsfragen und -antworten, Geburtsdatum, Schuhgroße, usw. ) für jeden Dienstanbieter zu benutzen. Sie werden auch mit Email subaddressing, Kommandozeile Tips für zufällige Texte und Daten bekannt werden.
+
+### Vorwissen
+
+nix
+
+### Über mich
+
+Hans ist Technologe und Autor ( Linux Journal und OpenSource.com ). Er ist Gründer des Arizona Freie Software Stammtisch, BoF Organisator bei Southern California Linux Expo (SCaLE) und Vorsitzender des Phoenix Linux User Group (PLUG).  Zur Thema Linux hat er als Systemverwalter, Entwickler, Lehrer, IS Manager und technische Director gearbeitet.  Regelmässig macht er Vorträge bei Gemeinschaftskonferenzen wie SCaLE, SeaGL, LibrePlanet, Ubucon und LinuxFest Northwest.
+
+</description>
+<links>
+
+- <link href="https://www.socallinuxexpo.org/scale/16x/presentations/personal-online-security-privacy-and-password-management" >Personal Online Security, Privacy, and Password Management</link>
+</links>
+<persons><person id="hans-persoenliche-sicherheit-und-datenschutz-durch-ein">xxx</person></persons>
+</event>
+<event id="martin-schroeder-wie-funktioniert-eigentlich-sms">
+<start>16:00</start>
+<duration>00:50</duration>
+<room>V1</room>
+<title>Wie funktioniert eigentlich SMS?</title>
+<type>talk</type>
+<description>
+Warum kommt die Zweifaktor-SMS von Twitter von irgendeiner ausländischen Telefonnummer und sieht so seltsam aus? Und wie kommt die eigentlich aus dem Browser auf mein Handy? Linux kommt auch drin vor.
+
+### Vorwissen
+
+Keines. SMS hat vermutlich jedeR mal benutzt. :-)
+
+### Über mich
+
+Diplom-Informatiker, der in den letzten Jahren in Messaging-Software (SMS!) in Java unter Linux entwickelt.
+
+</description>
+<persons><person id="martin-schroeder-wie-funktioniert-eigentlich">xxx</person></persons>
+</event>
+<event id="olaf-flebbe-python-performance-for-plants-and-profit">
+<start>10:00</start>
+<duration>00:50</duration>
+<room>V1</room>
+<title>Python Performance for Plants and Profit</title>
+<type>talk</type>
+<description>
+Ausgangspunkt für diese Arbeit war der Hilferuf eines Linux Anwenders auf LUGT Mailingliste: "Mein Programm rechnet Stunden..." Das in Python geschriebene Programm simuliert Pflanzenwachstum mittels eines mathematischen Modelles. In dem Vortrag stelle ich vor, wie man dieses Programm durch geringe Eingriffe  um eine Größenordnungen beschleunigen kann. Dabei gehe ich besonders auf das Vektorisieren von Codes im Detail ein. Darüber hinausgehend gibt es weitere Performance steigernde Möglichkeiten, wie multiprocessing oder den Einsatz von numba, die ich an dem Code demonstriere und deren Auswirkung auf die Performance dieses Codes diskutiere.
+
+### Vorwissen
+
+Grundbegriffe der numerische Simulation, Vektorrechnung, Differentialgleichungen.
+
+### Über mich
+
+Über 25 Jahre Open Source, promoviert in computational physics, member apache software foundation,  arbeitet an connected eBikes.
+
+</description>
+<persons><person id="olaf-flebbe-python-performance-for-plants-and">xxx</person></persons>
+</event>
+<event id="rainer-grimm-best-practices-fuer-concurrency-oder-was-wir-schmerzhaft-gelernt-haben">
+<start>17:00</start>
+<duration>00:50</duration>
+<room>V1</room>
+<title>Best Practices für Concurrency oder was wir (schmerzhaft) gelernt haben</title>
+<type>talk</type>
+<description>
+Mit der Veröffentlichung von C++11 erhielt C++ eine Multithreading-Bibliothek und ein Speichermodell. Die Bibliothek besitzt elementare Bausteine wie atomare Variablen, Threads, Tasks, Locks und Bedingungsvariablen. Das Speichermodell bietet Garantien für die Thread-sichere Verwendung dieser elementaren Bausteine an.  Sieben Jahre später haben sich viele Best Practices herauskristallisiert, wie sich die Multithreading-Bibliothek und das Speichermodell sicher anwenden lässt. Genau diese Best Practices sind Inhalt dieses Vortrags. Diese bewährten Rezepte werden sich mit allgemeinen Regeln zur Gleichzeitigkeit, aber auch Regeln zur Multithreading-Bibliothek und zum Speichermodell beschäftigen. Daher geht der Fokus der vorgestellten Best Practices weit über die Sprache C++ hinaus.
+
+### Vorwissen
+
+Ab und zu ein wenig Multithreading-Grundlagen, starke Nerven
+
+### Über mich
+
+Rainer Grimm ist seit vielen Jahren als Softwarearchitekt, Team- und Schulungsleiter tätig. Auf seinem Blog "Modernes C++" auf heise Developer beschäftigt er sich intensiv mit seiner Leidenschaft C++. Seit 2016 steht er auf selbstständigen Beinen. Insbesondere das Vermitteln von Wissen zu modernem C++ ist ihm eine Herzensangelegenheit. Seine Bücher "C++11 für Programmierer", "C++" und "C++-Standardbibliothek" für die "kurz und gut"-Reihe sind beim Verlag O'Reilly erschienen. Seine englischsprachigen Werke "The C++ Standard Library" und "Concurrency with Modern C++" hat er direkt bei Leanpub veröffentlicht. Diese sind in der mehreren Sprachen erhältlich.
+
+</description>
+<links>
+
+- <link href="http://www.modernescpp.com/" >Englischer Blog</link>
+- <link href="https://www.grimm-jaud.de/index.php/blog" >Deutscher Blog</link>
+- <link href="https://www.parallelcon.de/programm.php" >Gleicher Talk auf der Parallel2018</link>
+- <link href="http://cppconf.ru/#talks" >Gleicher Talk auf der C++ Russia Confererence</link></links>
+<persons><person id="rainer-grimm-best-practices-fuer-concurrency-oder-was-wir-schmerzhaft-gelernt">xxx</person></persons>
+</event>
+<event id="sven-guckes-elimar-riesebieter-neomutt">
+<start>14:00</start>
+<duration>00:50</duration>
+<room>V1</room>
+<title>Neomutt - der neue Mailer</title>
+<type>talk</type>
+<description>
+Das Mailprogramm mutt existiert seit 1996 - und die neue Version davon, neomutt, seit 2016. Es gibt einige Änderungen am Code und ein paar neue Features. Davon stellen wir so viele vor wie in 50min hineinpassen.
+
+### Vorwissen
+
+Für alle Benutzer von Email, die keine Maus zum Klicken brauchen, keine text/html Anhänge versenden und keine Bilder inline anschauen müssen 
+
+### Über mich
+
+Sven Guckes
+- ghost in a /bin/zsh
+- <a href="https://www.guckes.net/" target="_blank">www.guckes.net</a>
+- mag Muscheln und Terminals
+
+Elimar Riesebieter
+- FOSS Enthusiast
+- meistens auf der Kommandozeile unterwegs
+- seine Mäuse leiden unter Bewegungsmangel
+
+</description>
+<links>
+
+- <link href="https://www.neomutt.org/" >Neomutt HomePage</link>
+- <link href="https://www.guckes.net/neomutt/" >Sven Guckes ueber neomutt</link>
+</links>
+<persons><person id="sven-guckes-elimar-riesebieter">xxx</person></persons>
+</event>
+<event id="tuebix-exit">
+<start>18:20</start>
+<duration>00:15</duration>
+<room>V1</room>
+<title>Tübix: exit</title>
+<type>talk2</type>
+<description>
+* gemeinsamer Abschluss
+* Literatur-Lotterie
+* Ausblick auf Tübix 2019
+</description>
+<persons><person id="tuebix">Tübix Orga-Team</person></persons>
+</event>
+<event id="tuebix-init">
+<start>09:30</start>
+<duration>00:15</duration>
+<room>V1</room>
+<title>Tübix: init</title>
+<type>talk2</type>
+<description>
+* Begrüßung
+* Infos zum Ablauf des Tages
+* Veränderungen zu Tübix 2017
+* Änderungen in letzter Minute
+* Fragen?
+</description>
+<persons><person id="tuebix">Tübix Orga-Team</person></persons>
+</event>
+<event id="udo-seidel-opensource-ois-easy-oder">
+<start>18:00</start>
+<duration>00:20</duration>
+<room>V1</room>
+<title>Opensource - Ois easy, oder?</title>
+<type>talk</type>
+<description>
+Prinzipiell hat sich Opensource schon lange als Entwicklungs- und Geschäftsmodell oder gar als Innovationsmotor etabliert. Dennoch ist es für etablierte IT-Unternehmen alles andere als einfach ein vollwertiges Mitglied der quelloffenen Szene zu werden. Dieser Vortrag schildert Herausforderungen, Lösungsansätze und Erfahrungen zum Thema Opensource in einer grossen internationalen Firma aus der Sicht eines Unternehmensarchitekten.
+
+### Über mich
+
+Udo Seidel ist eigentlich Mathe-Physik-Lehrer und seit 1996 Linux-Fan. Nach seiner Promotion hat er als Linux/Unix-Trainer, Systemadministrator, Senior Solution Engineer und Linux-Stratege gearbeitet. Heute arbeitet er als IT-Architekt und Evangelist bei der Amadeus Data Processing GmbH in Erding.
+
+</description>
+<persons><person id="udo-seidel-opensource-ois-easy">xxx</person></persons>
+</event>
+</room>
+<room name="V2">
+<event id="adrian-reber-christian-brauner-optimized-container-live-migration">
+<start>15:00</start>
+<duration>00:20</duration>
+<room>V2</room>
+<title>Optimized Container Live-Migration</title>
+<type>talk</type>
+<description>
+LXD unterstützt Container Live-Migration seit einiger Zeit. Vor kurzem haben wir er uns es genauer angeschaut und versucht die Migration durch den Einsatz von Pre-Copy zu optimieren. Dieser Vortrag wird eine Übersicht geben wie Container Migration im Allgemeinen funktioniert und was wir im Spezielle gemacht haben um die Container Downtime während der Migration zu minimieren.
+
+### Über mich
+
+Adrian Reber - Software Entwickler bei Red Hat, Christian Brauner - Software Entwickler bei Canonical
+
+</description>
+<links>
+
+- <link href="https://lisas.de/~adrian/?p=1294" >Optimizing live container migration in LXD</link>
+</links>
+<persons><person id="adrian-reber-christian-brauner-optimized-container-live">xxx</person></persons>
+</event>
+<event id="adrian-reber-einfuehrung-in-openhpc">
+<start>13:00</start>
+<duration>00:50</duration>
+<room>V2</room>
+<title>Einführung in OpenHPC</title>
+<type>talk</type>
+<description>
+Um High Performance Computing (HPC) Nutzern eine möglichst große Auswahl an Software, Bibliotheken und Compilern zu bieten werden auf HPC Systemen oft, zusätzlich zum Betriebssystem, eine große Anzahl an Software Paketen installiert. Eine Besonderheit ist, dass ein bestimmtes Softwarepaket oft in mehreren Versionen benötigt wird. Viele HPC System-Betreiber haben dafür Automatismen entwickelt, aber oft sind die von HPC System zu HPC System leicht unterschiedlich. OpenHPC ist ein Zusammenschluss von Universitäten und Firmen, die versuchen für genau dieses Problem eine gemeinsame Lösung anzubieten. Mit diesem Vortrag soll OpenHPC vorgestellt werden. Außerdem wird der Zusammenhang zwischen Lego-Figuren und OpenHPC erklärt (und jeder kann eine Lego-Figur bauen und mitnehmen).
+
+### Über mich
+
+Software Entwickler bei Red Hat
+
+</description>
+<links>
+
+- <link href="http://openhpc.community/" >OpenHPC</link>
+- <link href="https://lisas.de/~adrian/?p=1309" >OpenHPC: Building Blocks</link></links>
+<persons><person id="adrian-reber-einfuehrung-in">xxx</person></persons>
+</event>
+<event id="christian-brauner-linux-device-management-making-the-kernel-and-udev-namespace-aware">
+<start>11:00</start>
+<duration>00:50</duration>
+<room>V2</room>
+<title>Linux Device Management: Making the Kernel and Udev Namespace Aware</title>
+<type>talk</type>
+<description>
+On non-embedded systems device management in Linux is a task split between kernelspace and userspace. Since the implementation of the devtmpfs pseudo filesystem the kernel is solely responsible for creating device nodes while udev in userspace is mainly responsible for consistent device naming and permissions. The devtmpfs filesystem however is not namespace aware. As such devices always belong to the initial user namespace. In times of SR-IOV enabled devices it is possible and needed to hand off devices to non-initial user namespaces. The last couple of months I've been working on making device management in the Kernel namespace aware. With recent patchsets of mine we have now reached that goal. As such userspace can now tie devices to a specific user namespace. This talk aims to do a couple of things. First, to give a more in-depth explanation of device management in Linux. Second, to explain the concept of namespace aware device management. Third, to explain the patchsets that were needed to make device management namespace aware. And last, to argue for a proper in-kernel solution by namespacing devtmpfs itself in the future.
+
+### Vorwissen
+
+I'll explain anything that's missing even if it means we can't get through everything. I can't fit all links that are helpful down below so I'll add a couple of them here:
+- devtmpfs: See [https://lwn.net/Articles/331818/](https://lwn.net/Articles/331818/) for an overview and [https://lwn.net/Articles/330985/](https://lwn.net/Articles/330985/) for the actual patchset
+- ueventd (Android's device manager): [https://android.googlesource.com/platform/system/core/+/master/init/ueventd.cpp](https://android.googlesource.com/platform/system/core/+/master/init/ueventd.cpp)
+- systemd-udevd: [https://www.freedesktop.org/software/systemd/man/udev.html](https://www.freedesktop.org/software/systemd/man/udev.html)
+- eudev (standalone fork of systemd-udevd): [https://github.com/gentoo/eudev](https://github.com/gentoo/eudev)
+
+### Über mich
+
+Christian Brauner is a core developer and maintainer of the LXD, LXC, and glibc projects. He works upstream for Canonical as part of the Ubuntu Server team on the Linux Kernel and lower-level problems. He's been active in the open source community for a long time and is a frequent speaker at various large Linux events; he is also strongly committed to working in the open, and a strong proponent of Free Software.
+
+</description>
+<links>
+
+- <link href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=94e5e3087a67c765be98592b36d8d187566478d5" >net: add uevent socket member</link>
+- <link href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=692ec06d7c92af8ca841a6367648b9b3045344fd" >netns: send uevent messages</link>
+- <link href="https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/commit/?id=26045a7b14bc7a5455e411d820110f66557d6589" >uevent: add alloc_uevent_skb() helper</link>
+- <link href="https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/commit/?id=a3498436b3a0f8ec289e6847e1de40b4123e1639" >netns: restrict uevents</link>
+- <link href="https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/commit/?id=90d52d4fd82007005125d9a8d2d560a1ca059b9d" >netns: uevent filtering</link>
+</links>
+<persons><person id="christian-brauner-linux-device-management-making-the-kernel-and-udev-namespace">xxx</person></persons>
+</event>
+<event id="elizaveta-tretiakova-hotplugging-mounts-into-processes">
+<start>17:00</start>
+<duration>00:50</duration>
+<room>V2</room>
+<title>Hotplugging Mounts Into Processes</title>
+<type>talk</type>
+<description>
+Being able to dynamically interact with mounts while a container is running has been a long-standing request from many container users. The idea is to dynamically add mounts to a container without polluting the host's mount namespace. An example would be adding a new dedicated storage device to the container before it runs out of disk space. Interacting with mounts at container runtime is also necessary in order to add new devices to containers. Over the last couple of months I have worked on implementing mount hotplug as part of my bachelor thesis into LXC containers. To this end I wrote a new API function "mount" that users can call to inject mounts into a running container. In this talk I will explain how this all works and how I've implemented this functionality.
+
+</description>
+<links>
+
+- <link href="https://github.com/lxc/lxc/pull/2300" >Mount Injection Pull Request</link>
+- <link href="https://www.kernel.org/doc/Documentation/filesystems/sharedsubtree.txt" >Mount Propagation</link></links>
+<persons><person id="elizaveta-tretiakova-hotplugging-mounts-into">xxx</person></persons>
+</event>
+<event id="felix-bauer-app-separation-no-need-containers">
+<start>15:30</start>
+<duration>00:20</duration>
+<room>V2</room>
+<title>App separation no need containers</title>
+<type>talk</type>
+<description>
+Kurze Vorstellung von Möglichkeiten der Kapselung von Anwendungen auf Linux-Systemen durch Namespaces, Erkennung des genutzten Mechanismus, Unterschiede, Charakterisika und Wege und Auswege aus dem Container.
+Erläutert und veranschaulicht werden Funktionsweise, Einsatzzweck und Grenzen von `chroot`, `docker`, `firejail`, `lxd` und `systemd-nspawn`.
+
+
+### Vorwissen
+
+Grundlagen der Linux Kommandozeile, Namespaces und Umgang mit Docker
+
+### Über mich
+
+Security Mensch, Consultant und Engineer
+
+</description>
+<persons><person id="felix-bauer-app-separation-no-need">xxx</person></persons>
+</event>
+<event id="gerhard-klostermeier-rfid-nfc-grundlagen">
+<start>16:00</start>
+<duration>00:50</duration>
+<room>V2</room>
+<title>RFID/NFC-Grundlagen - A Pentesters Perspective</title>
+<type>talk</type>
+<description>
+Dieser Vortrag soll eine Übersicht über einige der vielen typischen RFID/NFC-Techniken geben. Dabei soll es weniger um den theoretischen Hintergrund gehen, sondern eher um konkrete Vor- und Nachteile verschiedener RFID/NFC-Typen. Besonders in Bezug auf deren Sicherheit! Dabei soll auch geklärt werden, was im Werkzeugkoffer des RFID/NFC-Hackers nicht fehlen sollte. 
+
+### Über mich
+
+Gerhard Klostermeier ist interessiert an allem was IT-Sicherheit betrifft – besonders wenn es um Funktechnologien geht. Er studierte IT-Sicherheit an der Hochschule Aalen und arbeitet seit 2014 als Pentester und IT-Security Consultant bei der SySS GmbH. Gerhard Klostermeier war Redner auf der Ruxcon und der Deepsec, wo er über die Sicherheit von Funktastaturen vortrug. Außerdem hielt er auf mehreren, durch den VDI, Daimler oder Vector organisierten, Konferenzen Vorträge über verschiedene Themen der IT-Sicherheit. Auf der GPN 2013 – eine durch den Chaos Computer Club (CCC) organisierte Konferenz in Karlsruhe – hielt er einen Vortrag über das Hacken von RFID-basierten Studentenausweisen. Er ist außerdem der Autor der Android-App „Mifare Classic Tool“.
+
+</description>
+<persons><person id="gerhard-klostermeier-rfid-nfc">xxx</person></persons>
+</event>
+<event id="holger-gantikow-containing-containers-oder-wie-laesst-sich-der-wal-baendigen">
+<start>14:00</start>
+<duration>00:50</duration>
+<room>V2</room>
+<title>Do Containers still not contain? What's new in Container Security</title>
+<type>talk</type>
+<description>
+Der Vortrag gibt einen kurzen Überblick über den aktuellen Stand der Containertechnologie und setzt den Fokus darauf, was hier mit Hinblick auf Sicherheitsaspekte zu beachten ist, bzw. was sich zur Absicherung von containerisierten Infrastrukturen einsetzen lässt.  Beim Vortrag handelt es sich um ein erweitertes Update des TUEBIX2017-Talks [0], bei dem unter anderem Werkzeuge und Technologien wie Seccomp Profiles [1], User Namespaces (Phase 1) [2], Authorization Plugins [3], aber auch SELinux, AppArmor und Image Vulnerability Scanner [4,5], sowie Docker Bench for Security [6] vorgestellt wurden.  Zusätzlich zu diesen Werkzeugen gibt es inzwischen eine Reihe von Forschungsprojekten, welche die Basiswerkzeuge funktional erweitern, beispielsweise LiCShield [7] als AppArmor-Erweiterung, SPEAKER [8], das mittels Seccomp-Filter unterschiedliche SysCalls zur Startup- und Laufphase eines Containers zulässt und somit die Anzahl der zur Verfügung stehenden SysCalls für manche Szenarien deutlich verringern kann.  Auch existieren Ansätze und Werkzeuge [9], die sich zur Erkennung von Anomalien einsetzen lassen. Sie nutzen den Vorteil, dass, bedingt durch die Natur der Container, die Überwachung direkt auf dem Host sehr detaillierte Infos über den Containerzustand liefern, ohne dass hierzu wie bei VMs zusätzliche Komponenten notwendig wären. Im Zuge des Vortrags werden diese und weitere Technologien kurz vorgestellt und es wird betrachtet, was zu beachten ist, um Container in eine verteilte Umgebung mit Sicherheitsanforderungen einzubinden. Besonderes Augenmerk liegt auf dem Themenkomplex "Image Security" [10] und auf aktuellen Ansätzen die "ab Werk" verfügbare Werkzeuge sinnvoll erweitern, sowie zur Anomalieerkennung eingesetzt werden können.
+
+Links/Weiterführendes:
+- [0] [TUEBIX2017: Containing Containers? - oder “Wie lässt sich der Wal bändigen?”](https://www.tuebix.org/2017/programm/holger-gantikow-containing-containers-oder-wie-laesst-sich-der-wal-baendigen/)
+- [1] [Seccomp security profiles for Docker](https://docs.docker.com/engine/security/seccomp/)
+- [2] User Namespaces:
+  * [Phil Estes - Rooting out Root: User namespaces in Docker](https://events.static.linuxfound.org/sites/events/files/slides/User%20Namespaces%20-%20ContainerCon%202015%20-%2016-9-final_0.pdf)
+  * [User Namespaces: 2017 Status Update and Additional Resources](https://integratedcode.us/2017/02/24/user-namespaces-2017-status-update-and-additional-resources/)
+- [3] [twistlock/authz - Docker Authorization Plugin](https://github.com/twistlock/authz)
+- [4] [Docker - Docker Security Scanning](https://docs.docker.com/docker-cloud/builds/image-scan/)
+- [5] [coreos/clair - Vulnerability Static Analysis for Containers](https://github.com/coreos/clair)
+- [6] [docker/docker-bench-security](https://github.com/docker/docker-bench-security)
+- [7] Mattetti, M., Shulman-Peleg, A., Allouche, Y., Corradi, A., Dolev, S., & Foschini, L. (2015). Securing the infrastructure and the workloads of linux containers.
+- [8] Lei, L., Sun, J., Sun, K., Shenefiel, C., Ma, R., Wang, Y., & Li, Q. (2017). SPEAKER: Split-phase execution of application containers. In Lecture Notes in Computer Science (Vol. 10327)
+- [9] Anomaly Detection:
+  * Abed et al., (n.d.). Applying Bag of System Calls for Anomalous Behavior Detection of Applications in Linux Containers.
+  * Abed, A. et al., (2015). Intrusion Detection System for Applications Using Linux Containers. Security and Trust Management
+  * https://www.sysdig.org
+  * https://www.sysdig.org/falco/
+- [10] Shu, R., Gu, X., & Enck, W. (2017). A Study of Security Vulnerabilities on Docker Hub. In Proceedings of the Seventh ACM on Conference on Data and Application Security and Privacy - CODASPY ’17
+
+### Vorwissen
+
+Ein spezielles Vorwissen der Zuhörer wird nicht vorausgesetzt. Interesse an Virtualisierung, Containern und der gegebenen Problemstellung ist sicherlich von Vorteil, um eine rege Diskussion und Erfahrungsaustausch zu gewährleisten ;)
+
+### Über mich
+
+Holger Gantikow hat an der Hochschule Furtwangen Informatik studiert und ist bei Atos (ehemals science + computing ag) in Tübingen als Senior Systems Engineer tätig. Dort beschäftigt er sich mit der Komplexität heterogener Systeme im CAE-Berechnungsumfeld und betreut Kunden aus dem technisch-wissenschaftlichen Bereich.
+
+</description>
+<persons><person id="holger-gantikow-containing-containers-oder-wie-laesst-sich-der-wal">xxx</person></persons>
+</event>
+<event id="michael-weiss-einfuehrung-in-nix-und-nixos">
+<start>10:00</start>
+<duration>00:50</duration>
+<room>V2</room>
+<title>Einführung in Nix und NixOS</title>
+<type>talk</type>
+<description>
+Einführung in den funktionalen Paketmanager Nix und die darauf basierende Linux-Distribution NixOS. Es geht dabei hauptsächlich um die Konzepte hinter Nix(OS) um einen schnellen Überblick über die Vor- und Nachteile zu bekommen.
+
+### Vorwissen
+
+Es sollte kein spezielles Vorwissen benötigt werden (teilweise aber evtl. hilfreich). Falls doch mal was nicht klar ist: Einfach nachfragen ;)
+
+### Über mich
+
+Informatik Student an der Universität Tübingen. Package maintainer und NixOS member seit ca. einem Jahr.
+
+</description>
+<links>
+
+- <link href="https://primeos.github.io/nixos-slides" >Vortragsfolien</link>
+- <link href="https://nixos.org/" >Website</link>
+- <link href="https://github.com/NixOS/nixpkgs/" >GitHub repo</link>
+</links>
+<persons><person id="michael-weiss-einfuehrung-in-nix-und">xxx</person></persons>
+</event>
+<event id="stefan-baur-x2go-thin-client-edition-tce-open-source-als-mittler-zwischen-den-welten">
+<start>12:00</start>
+<duration>00:50</duration>
+<room>V2</room>
+<title>X2Go-ThinClientEdition (TCE) - Open Source als Mittler zwischen den Welten</title>
+<type>talk</type>
+<description>
+X2Go ist eine Open-Source-Remote-Desktop-/Remote-Application-Services-Lösung. Sie basiert auf den GPL-NX-V3-Libraries der Firma NoMachine, auf denen auch FreeNX und NeatX basier(t)en. Anders als bei diesen Projekten findet bei X2Go - in enger Zusammenarbeit mit dem Arctica-Projekt - eine aktive Weiterentwicklung dieser Libraries statt.
+
+Im Vortrag möchten wir aufzeigen und demonstrieren:
+
+* wie X2Go neue und alte Welten (Cloud, Client/Server, Midrange/Terminals) verbindet
+* was es mit “modernem Cloud-Computing” wirklich auf sich hat
+* wie eine sichere, zuverlässige, zukunftssichere und kostengünstige Lösung dafür mit X2Go aussieht
+
+Als praktische Beispiele dienen uns u.a. das Niederländische Flüchtlingswerk, die Holz-Speckmann GmbH & Co. KG, die Gi-Ro Technik GmbH & Co. KG, sowie diverse Steuerberaterbüros.
+
+Auch wenn man (noch) gar keinen X2Go-Server einsetzt, und/oder noch andere Remote-Desktop-Technologien wie RDP oder XDMCP zum Einsatz kommen sollen - X2Go-TCE ist das einheitliche, freie Frontend dafür.
+
+### Vorwissen
+
+Schon mal mit ssh -X, XDMCP, LTSP, VNC, ThinStation, FreeNX, NoMachine NX, RDP (Windows Terminal Services) und/oder Citrix-Lösungen zu tun gehabt zu haben, ist hilfreich, aber nicht zwingende Voraussetzung für die Teilnehmer. 
+
+### Über mich
+
+Stefan Baur, Jahrgang 1977, ist der aktuelle Projektmanager und Lead Evangelist des Open-Source-Projekts X2Go und geschäftsführender Gesellschafter der BAUR-ITCS UG (haftungsbeschränkt), welche Support für X2Go und eine auf X2Go basierende Security-Lösung anbietet.
+
+</description>
+<links>
+
+- <link href="http://www.baur-itcs.de/" >BAUR-ITCS UG (haftungsbeschränkt)</link>
+- <link href="https://wiki.x2go.org/doku.php/doc:newtox2go" >New to X2Go? Start here!</link>
+- <link href="https://wiki.x2go.org/doku.php/doc:howto:tce" >X2Go-ThinClientEdition</link>
+</links>
+<persons><person id="stefan-baur-x2go-thin-client-edition-tce-open-source-als-mittler-zwischen-den">xxx</person></persons>
+</event>
+</room>
+<room name="V3">
+<event id="daniel-kobras-zfs-encryption-sichere-datenhaltung-in-der-cloud">
+<start>16:00</start>
+<duration>00:20</duration>
+<room>V3</room>
+<title>ZFS-Encryption - sichere Datenhaltung in der Cloud</title>
+<type>talk</type>
+<description>
+Verschiedene Implementierungen der offenen ZFS-Variante können ihren Datenbestand seit kurzem nicht mehr nur effizient sichern und replizieren, sondern auch ohne Rückgriff auf externe Werkzeuge verschlüsselt abspeichern. Der Vortrag erläutert, welche Möglichkeiten sich durch die neue Funktion eröffnen, wie sie sich in der Praxis nutzen lassen und an welchen Stellen Fallstricke lauern.
+
+### Über mich
+
+Daniel Kobras hat als Physiker gelernt zu ergründen, was die Welt im Innersten zusammenhält. Beschränkt sich inzwischen dabei aber auf IT-Systeme, bevorzugt auf schnelle Dateisysteme. War mal Debian-Entwickler. Beschränkt sich inzwischen aufs Debian-Rentnerdasein.
+
+</description>
+<links>
+
+- <link href="http://open-zfs.org" >OpenZFS</link>
+- <link href="http://zfsonlinux.org" >ZFS on Linux</link></links>
+<persons><person id="daniel-kobras-zfs-encryption-sichere-datenhaltung-in-der">xxx</person></persons>
+</event>
+<event id="dominik-george-kinder-instant-messaging-und-andere-foss-abenteuer">
+<start>14:00</start>
+<duration>00:20</duration>
+<room>V3</room>
+<title>Kinder, Instant Messaging und andere FOSS-Abenteuer</title>
+<type>talk</type>
+<description>
+Wir zeigen, welche Instant-Messaging-Dienste von Kindern und Jugendlichen genutzt werden und was diese brauchen, um stattdessen freie Alternativen zu nutzen.  Das Einstiegsalter bei der Nutzung von Smartphones, Computern und Online-Diensten wird immer geringer. Während schon Kleinkinder Lern- und Spielapps benutzen, herrscht in der Schule mittlerweile ein regelrechter Technikzwang, insbesondere bei der Nutzung von Instant Messaging. Dieser wird durch Mitschüler und Lehrkräfte, ausgeübt. Die Wahl fällt fast immer auf proprietäre und unsichere Dienste wie WhatsApp. Zusammen mit Kindern und Jugendlichen haben wir analysiert, was freie Alternativen leisten müssen, um Attraktivität bei ihnen zu erlangen, und was Projekte dafür tun können.
+
+### Über mich
+
+28 Jahre alt, Systemadministrator, Pädagoge und Vorsitzender des Teckids e.V., der Freie-Software-Jugendorganisation.
+
+</description>
+<links>
+
+- <link href="https://www.teckids.org" >Teckids e.V.</link></links>
+<persons><person id="dominik-george-kinder-instant-messaging-und-andere-foss">xxx</person></persons>
+</event>
+<event id="dominik-george-too-young-to-rock-n-roll-kinder-wollen-mitmachen">
+<start>12:00</start>
+<duration>00:20</duration>
+<room>V3</room>
+<title>Too young to rock'n'roll - Kinder wollen mitmachen!</title>
+<type>talk</type>
+<description>
+Kinder nutzen Software. Doch können sie auch aktiver Teil der FOSS-Gemeinschaft sein? Welche Erfahrngen gibt es? Und was können Projekte tun, um für minderjährige Kontributoren offen zu sein?  Kinder wollen und sollen ihre Umwelt mitgestalten. Gerade im IT-Bereich wird das Einstiegsalter in der reinen Nutzung immer geringer. Natürlich gibt es auch freie Software mit einer jungen Zielgruppe, wie z.B. Software im Bildungseinsatz oder Spiele. Der Teckids e.V. ist eine Jugendorganisation rund um freie Software, die Kinder und Jugendliche zu einem aktiven Teil der Freie-Software-Gemeinschaft machen möchte. Warum junge Nutzerinnen und Nutzer auch als Kontributoren willkommen sein sollten, ist der erste Diskussionspunkt. Freie Software lebt darüberhinaus von der Community. Deshalb bemühen sich Projekte, die Hürden für en Einstieg als Kontributor möglichst niedrig zu halten. Plattformen wir GitHub vereinfachen das Einreichen von Bugs und Feature Requests und das Beisteuern von Patches. Doch ein Teil der Community, nämlich Minderjährige, haben es noch immer schwer, an für sie interessanten Projekten mitzuwirken - bspw. an edukativer Software, Spielen u.ä. Welche rechtlichen Hürden moderne Tools aufzwingen und was Projekte tun können, um auch die Jüngsten an Bord zu holen, wollen wir hier erörtern.
+
+### Über mich
+
+28 Jahre alt, Systemadministrator, Pädagoge und Vorsitzender des Teckids e.V., der Freie-Software-Jugendorganisation.
+
+</description>
+<links>
+
+- <link href="https://www.teckids.org" >Teckids e.V.</link></links>
+<persons><person id="dominik-george-too-young-to-rock-n-roll-kinder-wollen">xxx</person></persons>
+</event>
+<event id="felix-bauer-peekabooav">
+<start>17:00</start>
+<duration>00:50</duration>
+<room>V3</room>
+<title>PeekabooAV - Nightmares and Fairytales</title>
+<type>talk</type>
+<description>
+Entwicklung eines OpenSource AntiVirus, Komplikationen, Geschichten, Erfolge und Herausforderungen
+
+### Über mich
+
+Entwickler von PeekabooAV, Konzeption und Implementierung
+
+</description>
+<links>
+
+- <link href="https://github.com/scVENUS/PeekabooAV" >PeekabooAV auf GitHub</link>
+- <link href="https://twitter.com/peekabooav" >@peekabooav</link></links>
+<persons><person id="felix-bauer">xxx</person></persons>
+</event>
+<event id="gunnar-piel-das-auto-betriebssystem-der-zukunft">
+<start>14:30</start>
+<duration>00:20</duration>
+<room>V3</room>
+<title>Das Auto-Betriebssystem der Zukunft</title>
+<type>talk</type>
+<description>
+Autos der Zukunft werden immer mehr Software-bestimmt sein. Das autonome, vernetzte Fahrzeug ist ohne SW undenkbar. Klassische SW-Entwicklung kommt hier an die Grenzen, auch die Rechner im Auto nähern sich in Rechen- und Speicherleistung immer mehr normalen Desktop/Laptop-Rechnern an. Damit kommt man mit den bisher eher simplen SW-Architekturen und Betriebssysteme an die Grenzen. Künftige Systeme werden Posix-basierte Betriebssysteme enthalten, serviceorientiere Architekturen umfassen und Domänen-Virtualisierung unterstützen. Nur auf diese Weise lassen sich die hochkomplexen Algorthmen des automatisierten Fahrens realisieren und ein ständiges NAchladen neuer Funktionalität wie bei einem Smartphone wird möglich.  Damit ändern sich auch die Kompetenzen künftiger SW-Enwickler. Personen mit guten Linux-Kenntnissen  bringen die besten Voraussetzungen mit solche Systeme zu programmieren. Der Vortrag zeigt Herausforderungen, technische Lösungsansätze - und soll natürlich die Zuhörer begeistern wie spannend das Automobilumfeld künftig werden wird - und die Zukunft hat bereits begonnen.
+
+### Vorwissen
+
+Grundkenntnisse von SW-Architektur, SW-Engieering und Linux
+
+### Über mich
+
+Gunnar Piel ist Chef-SW-Architekt im "Vehicle Computer Campus" der Robert Bosch GmbH. Hier wird die SW-Architektur künftiger Fahrzeuge entwickelt. Ich bin erfahrener SW-Entwickler, der sich gerne auch mit Gleichgesinnten im universitären Umfeld trifft.
+
+</description>
+<persons><person id="gunnar-piel-das-auto-betriebssystem-der">xxx</person></persons>
+</event>
+<event id="hans-umatrix-fuer-webbrowserschutz">
+<start>10:00</start>
+<duration>00:20</duration>
+<room>V3</room>
+<title>uMatrix für Webbrowserschutz</title>
+<type>talk</type>
+<description>
+uMatrix ist ein Webextension Sicherheits und Privatsphäre Add on für Firefox.  Durch eine einfache Benutzeröberfläche erlaubt uMatrix persönliche Regelungen für Website Cookies, JavaScript, CSS, Bilder und Video. z.B. bei example.de könnte man Cookies, JavaScript, CSS und Bilder von www.example.de und nur Bilder von cdn.example.de erlauben aber alles von spion.beispiel.de blockieren.
+
+### Vorwissen
+
+nix
+
+### Über mich
+
+Hans ist Technologe und Autor ( Linux Journal und OpenSource.com ). Er ist Gründer des Arizona Freie Software Stammtisch, BoF Organisator bei Southern California Linux Expo (SCaLE) und Vorsitzender des Phoenix Linux User Group (PLUG).  Zur Thema Linux hat er als Systemverwalter, Entwickler, Lehrer, IS Manager und technische Director gearbeitet.  Regelmässig macht er Vorträge bei Gemeinschaftskonferenzen wie SCaLE, SeaGL, LibrePlanet, Ubucon und LinuxFest Northwest.
+
+</description>
+<links>
+
+- <link href="https://github.com/gorhill/uMatrix" >uMatrix</link>
+</links>
+<persons><person id="hans-umatrix-fuer">xxx</person></persons>
+</event>
+<event id="knut-franke-prokrastination-panik-doku-pauken-was-hilft-bei-der-migration-auf-python3">
+<start>11:00</start>
+<duration>00:50</duration>
+<room>V3</room>
+<title>Prokrastination, Panik, Doku Pauken - was hilft bei der Migration auf Python 3?</title>
+<type>talk</type>
+<description>
+In diesem Vortrag sollen einige praktische Grundlagen und Erfahrungen vermittelt werden, die bei der Umstellung existierender Python 2 Programmierer und Programme auf Python 3 wissenswert sind.
+
+### Vorwissen
+
+Grundwissen Python 2
+
+### Über mich
+
+Knut beschäftigt sich seit mehr als zehn Jahren mit den Themen Programmierung und Programmiersprachen. Die letzten acht davon hat er bei der science+computing ag verschiedene Projekte in Python umgesetzt, von einfachen Skripten bis hin zu komplexen kundenspezifischen Anwendungen.
+
+</description>
+<links>
+
+- <link href="https://pythonclock.org/" >Countdown Python 2 End Of Life</link>
+- <link href="http://python-future.org/compatible_idioms.html" >Idiome für Python 2*3 kompatiblen Code</link></links>
+<persons><person id="knut-franke-prokrastination-panik-doku-pauken-was-hilft-bei-der-migration-auf">xxx</person></persons>
+</event>
+<event id="marius-heyn-welche-auswirkungen-hat-die-eu-dsgvo-auf-die-software-entwicklung">
+<start>16:30</start>
+<duration>00:20</duration>
+<room>V3</room>
+<title>Welche Auswirkungen hat die EU-DSGVO auf die Software-Entwicklung</title>
+<type>talk</type>
+<description>
+Der Vortrag beleuchtet das Thema Datenschutz in der Softwareentwicklung, darin welche Auswirkungen die EU-Datenschutzgrundverordnung auf die Softwareentwicklung hat und ob/wie Privacy by Design im Spannungsfeld von zeitnaher Softwareauslieferung und knapper Budgets möglich und gewollt ist.
+
+### Über mich
+
+Marius Heyn, Generation 60, Lange Jahre in der IT (Projekte, Softwareentwicklung, Support), seit 2010 mit Datenschutz und seit 2014 mit der Informationssicherheit befasst.
+
+</description>
+<persons><person id="marius-heyn-welche-auswirkungen-hat-die-eu-dsgvo-auf-die-software">xxx</person></persons>
+</event>
+<event id="mark-proehl-automatisierte-testumgebungen-mit-ansible-und-vagrant">
+<start>12:30</start>
+<duration>00:20</duration>
+<room>V3</room>
+<title>Automatisierte Testumgebungen mit Ansible und Vagrant</title>
+<type>talk</type>
+<description>
+Software-Entwickler und System-Adminstratoren benötigen häufig virtualisierte Systeme um die Installation, Konfiguration und Funktionalität ihrer Software reproduzierbar testen zu können. Am Beispiel des Softwareprojekts [msktutil](https://github.com/msktutil/msktutil) sollen die Stärken von [Vagrant](https://www.vagrantup.com) und [Ansible](https://www.ansible.com) beim Aufsetzen einer verteilten Testumgebung vorgestellt werden
+
+### Vorwissen
+
+Grundlegendes Verständnis für die Systemadministration unter Linux
+
+### Über mich
+
+Mark Pröhl ist studierter Physiker und beschäftigt sich als Senior Solutions Architect u.a. mit den Themen Kerberos, LDAP und Active Directory.  Mark Pröhl ist außerdem Autor des Kerberos-Buches ([https://www.kerberos-buch.de](https://www.kerberos-buch.de))
+
+</description>
+<links>
+
+- <link href="https://www.vagrantup.com" >https://www.vagrantup.com</link>
+- <link href="https://www.ansible.com" >https://www.ansible.com</link>
+- <link href="https://www.kerberos-buch.de/tuebix-2018" >https://www.kerberos-buch.de/tuebix-2018</link>
+</links>
+<persons><person id="mark-proehl-automatisierte-testumgebungen-mit-ansible-und">xxx</person></persons>
+</event>
+<event id="michael-sperber-web-applikationen-und-uis-funktional-programmieren-mit-reacl">
+<start>15:00</start>
+<duration>00:50</duration>
+<room>V3</room>
+<title>Web-Applikationen und UIs funktional programmieren mit Reacl</title>
+<type>talk</type>
+<description>
+Reacl ist ein Open-Source-Framework für Web-Applikationen und UIs, das bei der Tübinger Firma Active Group seit mehreren Jahren im produktiven Einsatz it.  Es unterscheidet sich drastisch von JavaFX, AngularJS, WPF und React darin, dass es *funktional* ist.  (Auch wenn die Implementierung auf React aufbaut.)  Das heißt die Funktionsweise der UI wird druch *reine Funktione* beschrieben - alle Seiteneffekte werden durch Daten abgebildet und externalisiert.  Das macht Reacl-Programme leicht zu bauen und zu verstehen und einfach testbar, auch ohne die komplexe Infrastruktur, die das Testen von Web-Applikationen sonst begleitet.  ClojureScript ist außerdem eine tolle Alternative zu JavaScript, und das Tooling macht die Programmiererfahrung mit ClojureScript und Reacl wie Weihnachten. 
+
+### Vorwissen
+
+Schonmal irgendeine UI in irgendwas programmiert
+
+### Über mich
+
+Dr. Michael Sperber ist Geschäftsführer der Active Group GmbH, die Individualsoftware ausschließlich mit funktionaler Programmierung entwickelt.  Er ist international anerkannter Experte für funktionale Programmierung und wendet sie seit über 20 Jahren in Forschung, Lehre und industrieller Entwicklung an.  Außerdem hat er zahlreiche Fachartikel und Bücher zum Thema verfasst.  Michael Sperber ist Mitbegründer des Blogs funktionale-programmierung.de und Mitorganisator der Entwicklerkonferenz BOB. 
+
+</description>
+<links>
+
+- <link href="https://github.com/active-group/reacl" >Reacl</link></links>
+<persons><person id="michael-sperber-web-applikationen-und-uis-funktional-programmieren-mit">xxx</person></persons>
+</event>
+<event id="michael-stroeder-ae-dir-paranoide-benutzerverwaltung-mit-openldap">
+<start>13:00</start>
+<duration>00:50</duration>
+<room>V3</room>
+<title>Æ-DIR -- paranoide Benutzerverwaltung mit OpenLDAP</title>
+<type>talk</type>
+<description>
+Das freie Projekt Æ-DIR implementiert feingranulierte Zugriffskontrolle für LDAP-fähige Systeme mit höherem Schutzbedarf basierend auf OpenLDAP.  Im Gegensatz zu anderen LDAP-Servern muss für an Æ-DIR angeschlossene Systeme die Sichtbarkeit von Benutzern & Gruppen immer explizit erlaubt werden. Dies erfolgt rein über Datenpflege in Æ-DIR.  LDAP-fähige Anwendungen müssen auch dank Schemakompabilität nicht speziell für Æ-DIR angepasst werden.  Zudem wird die Administration auf mehreren Ebenen an kleine Benutzergruppen delegiert, um zu mächtige Stellvertreter-Rollen zu vermeiden. Dies macht auch Genehmigungsprozesse überflüssig.
+
+### Vorwissen
+
+Grundkenntnisse Login bei Linux/Unix Grundkenntnisse LDAP nützlich, aber nicht erforderlich
+
+### Über mich
+
+Michael Ströder arbeitet seit 1999 als selbstständiger Berater in den Bereichen Identity & Access Management (IAM) und angewandte Verschlüsselung (PKI, E-Mail-Verschlüsselung, etc.). Außerdem entwickelt er freie Software-Projekte als Basis sicherer Infrastrukturen.
+
+</description>
+<links>
+
+- <link href="https://www.ae-dir.com/" >Æ-DIR - Authorized Entities Directory</link>
+</links>
+<persons><person id="michael-stroeder-ae-dir-paranoide-benutzerverwaltung-mit">xxx</person></persons>
+</event>
+<event id="udo-seidel-unterwasser-statt-in-der-erde">
+<start>10:30</start>
+<duration>00:20</duration>
+<room>V3</room>
+<title>Unterwasser statt in der Erde</title>
+<type>talk</type>
+<description>
+Der Erfolg von Raspbery Pi und Co hat neben Linux auch anderen Softwareprojekten zu mehr Sichtbarkeit verholfen. Eine Kategorie sind die sogenannten Bootloader - das Stück Software, das quasi zwischen der Firmware und Betriebssystemkern sitzt. Ein bekannter Vertreter ist das Projekt U-Boot unter der Federführung der Firma DENX. Dieser Vortrag wirft einen Blick hinter die Kulissen.
+
+### Vorwissen
+
+Grobes Verstaendnis des allgemeinen Startvorgangs von x86-Rechnern.
+
+### Über mich
+
+Udo Seidel ist eigentlich Mathe-Physik-Lehrer und seit 1996 Linux-Fan. Nach seiner Promotion hat er als Linux/Unix-Trainer, Systemadministrator, Senior Solution Engineer und Linux-Stratege gearbeitet. Heute arbeitet er als IT-Architekt und Evangelist bei der Amadeus Data Processing GmbH in Erding.
+
+</description>
+<links>
+
+- <link href="http://www.denx.de/wiki/U-Boot" >Projekt-Seite</link></links>
+<persons><person id="udo-seidel-unterwasser-statt-in-der">xxx</person></persons>
+</event>
+</room>
+<room name="W1">
+<event id="daniel-kulesz-systematisch-und-sozial-testen-mit-dem-systemtestportal">
+<start>14:00</start>
+<duration>01:50</duration>
+<room>W1</room>
+<title>Systematisch und sozial testen - mit dem SystemTestPortal</title>
+<type>workshop</type>
+<description>
+Durch Test-Automatisierung lässt sich zwar viel Testaufwand sparen, aber manuelle Systemtests sind für die Erkennung unerwarteter Fehler oft besser und daher eine sinnvolle Ergänzung. Die von uns entwickelte Webanwendung "SystemTestPortal" erlaubt es Entwicklern, Testern, Test-Managern und Endanwendern mühelos beim Test von Systemen zusammenarbeiten. Das System ist in Golang implementiert, sehr leichtgewichtig und unter der GPLv3 verfügbar. Im Vortrag wollen wir die Software und das Projekt vorstellen und anhand praxisnaher Szenarien demonstrieren, wie der Einsatz des Systems zu einer Verbesserung in der Entwicklung freier Software beitragen kann. 
+
+### Vorwissen
+
+Allgemeines Interesse am Testen von Software
+
+### Über mich
+
+Daniel Kulesz ist Forscher im Software-Engineering am Institut für Softwaretechnologie der Universität Stuttgart und arbeitet als Softwareentwickler in der Industrie. Außerdem arbeitet er als Dozent und ist ein aktiver Unterstützer der Free Software Foundation Europe. Er ist in vielen freien Softwareprojekten aktiv und Initiator der Software "Spreadsheet Inspection Framework" sowie "SystemTestPortal".
+
+</description>
+<links>
+
+- <link href="http://www.systemtestportal.org/" >Webseite</link>
+- <link href="https://gitlab.com/stp-team/systemtestportal-webapp" >Issue-Tracker</link>
+</links>
+<persons><person id="daniel-kulesz-systematisch-und-sozial-testen-mit-dem">xxx</person></persons>
+</event>
+<event id="felix-bauer-security-basics-sniffing-und-scanning">
+<start>10:00</start>
+<duration>01:50</duration>
+<room>W1</room>
+<title>Security Basics: Sniffing und Scanning</title>
+<type>workshop</type>
+<description>
+Grundlegendes zum Mitlesen von Netzerkverkehr. Praktische Einführung in Host-, Service-Discovery und Vulnerability scanning.
+
+### Vorwissen
+
+Linux Kommandozeile, Grundlagen Computernetze
+
+### Über mich
+
+Security Mensch, Consultant und Engineer
+
+</description>
+<persons><person id="felix-bauer-security-basics-sniffing-und">xxx</person></persons>
+</event>
+<event id="lukas-kallies-linux-server--und-desktop-lifecycle-management">
+<start>12:00</start>
+<duration>01:50</duration>
+<room>W1</room>
+<title>Linux Server- und Desktop-Lifecycle-Management</title>
+<type>workshop</type>
+<description>
+Eine große Anzahl an Linux-Systemen zu verwalten und die Software darauf aktuell zu halten stellt eine Herausforderung dar. Nicht selten wird dies durch Lücken (Spectre/Meltdown, Heartbleed, Shellshock, um einige der jüngsten und bekanntesten zu nennen) in zentralen Bestandteilen in Erinnerung gerufen. An dieser Stelle kommen Lifecycle-Management (LCM) Lösungen wie Katello (Basis für Red Hats Satellite 6) ins Spiel. Anhand von Katello wird das Patchmanagement von Linux-Hosts vorgestellt. Zudem werden weitere Bestandteile von Katello wie Deployment, Subscription Management und die Einbindung von Compute Ressource Providern (VMware, RHV oder auch Cloud Dienstleister) vorgestellt.
+
+### Vorwissen
+
+Grundlegendes Know-How in der Administration von Linux-Systemen sollte vorhanden sein. Teilnehmer werden gebeten einen Laptop mitzubringen, auf dem Vagrant installiert und konfiguriert ist. Zwei virtuelle Maschinen sollten darauf lauffähig sein. Im Workshop wird Forklift verwendet, um Katello zu installieren und zu verwalten. Ein vorgängiges `vagrant up centos7-katello-3.6` ist für den Workshop hilfreich.
+
+### Über mich
+
+Jahrgang 1983, verheiratet, zwei Kinder Informatikstudium an der Hochschule Furtwangen Senior System Engineer im Bereich Linux, Lifecycle- und Configurationmanagement bei Puzzle ITC in Zürich
+
+</description>
+<links>
+
+- <link href="https://lukex.de/" >Lukas Kallies</link>
+- <link href="https://www.vagrantup.com/" >Hashicorp Vagrant</link>
+- <link href="https://github.com/theforeman/forklift/" >Forklift (Katello Deployment Script)</link>
+- <link href="https://theforeman.org/plugins/katello/" >Katello (Foreman Plugin)</link>
+- <link href="https://theforeman.org/plugins/" >Foreman Plugins</link>
+</links>
+<persons><person id="lukas-kallies-linux-server--und-desktop-lifecycle">xxx</person></persons>
+</event>
+<event id="stefan-klemm-linux-und-business">
+<start>16:00</start>
+<duration>01:50</duration>
+<room>W1</room>
+<title>Linux und Business</title>
+<type>workshop</type>
+<description>
+Für Linux gibt es kaum Software für Kleinunternehmer. Da ich nebenberuflich ein Ingenieurbüro für Softwareentwicklung betreibe und keine passende Linux-Software vorfand, habe ich meine eigene entwickelt um Angebote, Rechnungen, Einnahmen, Ausgaben usw. verbuchen zu können. Diese gibt es als kostenlose Community-Version, die ich in diesem Workshop vorstellen möchte:
+1. Installation für maria/mysql - Datenbank
+1. Anlegen Stammdaten
+1. Kontenrahmen
+1. Angebote / AB / Lieferscheine / Rechnungen erstellen
+1. Einnahmen / Ausgaben
+1. Listen für Steuerberater
+
+### Vorwissen
+
+Kein Vorwissen nötig. Allerdings sollten die Teilnehmer ein Kleinunternehmen haben oder dort arbeiten.
+
+### Vorbereitung
+
+Für den Workshop ist ein Laptop mit installierter Datenbank (entweder MySQL oder Maria-DB) sinnvoll. Falls Sie diese noch nicht installiert haben, installieren Sie bitte die Datenbank entsprechend Ihrer Distribution. Für Ubuntu lautet der Befehl: `sudo apt-get install mariadb-server` (siehe auch: ([https://wiki.ubuntuusers.de/MariaDB/](https://wiki.ubuntuusers.de/MariaDB/)) )
+
+Zudem sollten die Teilnehmer auch Java installiert haben (Open-JDK funktioniert auch). Eine Installtion des Oracle-JDK unter Linux kann im Workshop erfolgen.
+
+### Über mich
+
+Ich bin als Softwareentwickler bei einem Maschinenbauunternehmen angestellt und habe eine starke Linux-Affinität.
+</description>
+<persons><person id="stefan-klemm-linux-und">xxx</person></persons>
+</event>
+</room>
+<room name="W3">
+<event id="frank-bunselmeyer-daniel-kobras-digitalfotografie-und-digitale-dunkelkammer">
+<start>12:00</start>
+<duration>01:50</duration>
+<room>W3</room>
+<title>Digitalfotografie und digitale Dunkelkammer</title>
+<type>workshop</type>
+<description>
+Der Workshop bietet eine praktische Einführung in die technischen Grundlagen der Digitalfotografie. Fotointeressierte Einsteiger erhalten in praktischen Übungen einen Überblick über:
+* die wichtigsten Funktionen einer Digitalkamera,
+* die Bedeutung von RAW-Dateien als Pendant zum Negativ der Analogfotografie,
+* die Möglichkeiten eines RAW-Entwicklers, um das „digitale Negativ“ in ein fertiges Bild zu entwicklen,
+* was Automatikmodi leisten und wann sie menschliche Hilfe benötigen, und
+* wie man sich durch bewusstes Fotografieren viel Arbeit in der Nachbearbeitung spart.
+
+### Vorwissen
+
+Der Workshop richtet sich an Fotografie-Einsteiger. Besonderes Vorwissen ist nicht erforderlich. Wer bereits kein Preisschild mehr abknipsen kann, ohne sofort auf Bildkomposition, Belichtung und Weißabgleich zu achten, dürfte hier falsch sein. Um die Übungen nachvollziehen zu können, sollten Teilnehmer mitbringen:
+* Digitalkamera mit Möglichkeit zum Speichern von Bildern im RAW-Format (alternativ: Smartphone mit RAW-fähiger App).
+* Laptop mit RAW-Entwickler wie Darktable.
+* Nötiges Zubehör zum Übertragen der Bilder von Kamera zum Laptop (Kartenleser, USB-Kabel, etc.).
+* Falls möglich Handbuch zur Kamera.
+
+### Über mich
+
+Frank Bunselmeyer hat als Musiker viel um die Ohren und nutzt die Fotografie als Ausgleichssport, um auch die Augen auf Zack zu halten. Nach vielen Jahren in der heimischen analogen Dunkelkammer begeistert er sich inzwischen auch für die Möglichkeiten der digitalen Bildbearbeitung - bei der das Licht dann auch mal an bleiben darf. Daniel Kobras hat als Physiker gelernt, das Wort „Modulationstransferfunktion“ fehlerfrei auszusprechen. Hat als Hobbyfotograf gelernt, wie sich auch ohne Fremdwörter schöne Fotos machen lassen. Besitzt zu wenige Dunkelkammern für zu viele analoge Kameras und muss deshalb digital die Regler schieben.
+
+</description>
+<links>
+
+- <link href="https://www.darktable.org" >Darktable</link>
+</links>
+<persons><person id="frank-bunselmeyer-daniel-kobras-digitalfotografie-und-digitale">xxx</person></persons>
+</event>
+<event id="mark-proehl-einheitliche-linux-benutzerverwaltung-mit-active-directory">
+<start>10:00</start>
+<duration>01:50</duration>
+<room>W3</room>
+<title>Einheitliche Linux-Benutzerverwaltung mit Active Directory</title>
+<type>workshop</type>
+<description>
+Die Teilnehmer lernen verschiedene Aspekte der Benutzerverwaltung in heterogenen Linux-/Windows-Umgebungen kennen. Das Ziel ist die Anbindung der Linux-Systeme an eine bestehende Active Directory Infrastruktur. Nach einer kurzen Einführung in technologische Grundlagen wie Kerberos, LDAP, NSS, PAM und SSSD werden im Workshop verschiedene Konfigurationen ausgearbeitet und getestet.
+
+### Vorwissen
+
+Die Workshop-Teilnehmer sollten ein grundlegendes Verständnis für die Systemadministration unter Linux mitbringen.  Zur Vorbereitung: Der Workshop wird mit virtuellen Maschinen auf Basis von CentOS 7 durchgeführt. Als Virtualisierungslösung kommt VirtualBox zum Einsatz. Teilnehmer sollten daher einen Laptop mit VirtualBox-Installation mitbringen. Zusätzlich sollte die Software "vagrant" ([https://www.vagrantup.com](https://www.vagrantup.com)) installiert sein. Um lange Downloads zu vermeiden führt man voraus das Kommando `vagrant box add centos/7` aus, um sich die Vagrant-Box zu CentOS 7 ([https://app.vagrantup.com/centos/boxes/7](https://app.vagrantup.com/centos/boxes/7)) zu installieren.
+
+### Über mich
+
+Mark Pröhl ist studierter Physiker und beschäftigt sich als Senior Solutions Architect u.a. mit den Themen Kerberos, LDAP und Active Directory.  Mark Pröhl ist außerdem Autor des Kerberos-Buches ([https://www.kerberos-buch.de](https://www.kerberos-buch.de))
+
+</description>
+<links>
+
+- <link href="https://app.vagrantup.com/centos/boxes/7" >https://app.vagrantup.com/centos/boxes/7</link>
+- <link href="https://www.kerberos-buch.de/tuebix-2018" >https://www.kerberos-buch.de/tuebix-2018</link>
+</links>
+<persons><person id="mark-proehl-einheitliche-linux-benutzerverwaltung-mit-active">xxx</person></persons>
+</event>
+<event id="mark-proehl-einheitliche-linux-benutzerverwaltung-mit-freeipa">
+<start>14:00</start>
+<duration>01:50</duration>
+<room>W3</room>
+<title>Einheitliche Linux-Benutzerverwaltung mit FreeIPA</title>
+<type>workshop</type>
+<description>
+Inhalt dieses Workshops ist der Aufbau einer FreeIPA-Infrastruktur zur zentralen Verwaltung von Benutzern und deren Berechtigungen in reinen Linux-Umgebungen. Neben dem Aufsetzen der FreeIPA-Server geht es auch um die Anbindung eines Linux-Testsystems. Ein weiterer Punkt ist die Konfiguration von Zwei-Faktor-Authentifizierung.
+
+### Vorwissen
+
+Die Workshop-Teilnehmer sollten ein grundlegendes Verständnis für die Systemadministration unter Linux mitbringen.  Zur Vorbereitung: Der Workshop wird mit virtuellen Maschinen auf Basis von CentOS 7 durchgeführt. Als Virtualisierungslösung kommt VirtualBox zum Einsatz. Teilnehmer sollten daher einen Laptop mit VirtualBox-Installation mitbringen. Zusätzlich sollte die Software "vagrant" ([https://www.vagrantup.com](https://www.vagrantup.com)) installiert sein. Um lange Downloads zu vermeiden führt man voraus das Kommando `vagrant box add centos/7` aus, um sich die Vagrant-Box zu CentOS 7 ([https://app.vagrantup.com/centos/boxes/7](https://app.vagrantup.com/centos/boxes/7)) zu installieren.
+
+### Über mich
+
+Mark Pröhl ist studierter Physiker und beschäftigt sich als Senior Solutions Architect u.a. mit den Themen Kerberos, LDAP und Active Directory.  Mark Pröhl ist außerdem Autor des Kerberos-Buches ([https://www.kerberos-buch.de](https://www.kerberos-buch.de))
+
+</description>
+<links>
+
+- <link href="https://app.vagrantup.com/centos/boxes/7" >https://app.vagrantup.com/centos/boxes/7</link>
+- <link href="https://www.kerberos-buch.de/tuebix-2018" >https://www.kerberos-buch.de/tuebix-2018</link>
+</links>
+<persons><person id="mark-proehl-einheitliche-linux-benutzerverwaltung-mit">xxx</person></persons>
+</event>
+<event id="mark-schmidt-andreas-stockmayer-gentoo-installparty">
+<start>16:00</start>
+<duration>01:50</duration>
+<room>W3</room>
+<title>Gentoo Installparty</title>
+<type>workshop</type>
+<description>
+Gentoo ist eine eine Linux-Distribution, die sich an erfahrenere Linux-Benutzer richtet und diesen sehr viele Freiheiten bietet. Dies beginnt bei der verwendeten Software, Diensten und endet beim Init-System und einem eigenen Kernel. Um dies zu erreichen nutzt Gentoo ein spezielles Paketverwaltungssystem namens “portage”, das die Pakete nach Benutzerwünschen auf dem jeweiligen System kompiliert. In diesem Workshop wird kurz auf die Gentoo-Philosophie, die Benutzung von Portage und die Grundinstallation eingegangen.
+
+### Vorwissen
+
+Linux-Grundlagen ;)
+
+</description>
+<links>
+
+- <link href="https://wiki.gentoo.org/wiki/Handbook:AMD64" >Gentoo-Handbook</link>
+- <link href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Working/Portage" >Portage</link>
+- <link href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About" >Gentoo-Installation</link>
+- <link href="https://wiki.gentoo.org/wiki/Main_Page" >Gentoo Wiki</link>
+</links>
+<persons><person id="mark-schmidt-andreas-stockmayer-gentoo">xxx</person></persons>
+</event>
+﻿</room>
+
+<room name="X">
+
+<event id="lpic-block-1">
+<start>12:00</start>
+<duration>02:00</duration>
+<room>X</room>
+<title>LPIC Prüfungsblock 1</title>
+<type>exam</type>
+<description>
+WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 11:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.
+</description>
+<persons><person id="behrla">Klaus Behrla</person></persons>
+<links>
+<link href="http://www.tuebix.org/lpic">www.tuebix.org/lpic</link>
+</links>
+</event>
+
+<event id="lpic-block-2">
+<start>14:00</start>
+<duration>02:00</duration>
+<room>X</room>
+<title>LPIC Prüfungsblock 2</title>
+<type>exam</type>
+<description>
+WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 13:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.
+</description>
+<persons><person id="behrla">Klaus Behrla</person></persons>
+<links>
+<link href="http://www.tuebix.org/lpic">www.tuebix.org/lpic</link>
+</links>
+</event>
+</room>
+  </day>
+</schedule>
