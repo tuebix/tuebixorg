@@ -386,14 +386,14 @@ Links/Weiterführendes:
 - [4] [Docker - Docker Security Scanning](https://docs.docker.com/docker-cloud/builds/image-scan/)
 - [5] [coreos/clair - Vulnerability Static Analysis for Containers](https://github.com/coreos/clair)
 - [6] [docker/docker-bench-security](https://github.com/docker/docker-bench-security)
-- [7] Mattetti, M., Shulman-Peleg, A., Allouche, Y., Corradi, A., Dolev, S., & Foschini, L. (2015). Securing the infrastructure and the workloads of linux containers.
-- [8] Lei, L., Sun, J., Sun, K., Shenefiel, C., Ma, R., Wang, Y., & Li, Q. (2017). SPEAKER: Split-phase execution of application containers. In Lecture Notes in Computer Science (Vol. 10327)
+- [7] Mattetti, M., Shulman-Peleg, A., Allouche, Y., Corradi, A., Dolev, S., &#x26; Foschini, L. (2015). Securing the infrastructure and the workloads of linux containers.
+- [8] Lei, L., Sun, J., Sun, K., Shenefiel, C., Ma, R., Wang, Y., &#x26; Li, Q. (2017). SPEAKER: Split-phase execution of application containers. In Lecture Notes in Computer Science (Vol. 10327)
 - [9] Anomaly Detection:
   * Abed et al., (n.d.). Applying Bag of System Calls for Anomalous Behavior Detection of Applications in Linux Containers.
   * Abed, A. et al., (2015). Intrusion Detection System for Applications Using Linux Containers. Security and Trust Management
   * https://www.sysdig.org
   * https://www.sysdig.org/falco/
-- [10] Shu, R., Gu, X., & Enck, W. (2017). A Study of Security Vulnerabilities on Docker Hub. In Proceedings of the Seventh ACM on Conference on Data and Application Security and Privacy - CODASPY ’17
+- [10] Shu, R., Gu, X., &#x26; Enck, W. (2017). A Study of Security Vulnerabilities on Docker Hub. In Proceedings of the Seventh ACM on Conference on Data and Application Security and Privacy - CODASPY ’17
 
 ### Vorwissen
 
@@ -447,7 +447,7 @@ Im Vortrag möchten wir aufzeigen und demonstrieren:
 * was es mit “modernem Cloud-Computing” wirklich auf sich hat
 * wie eine sichere, zuverlässige, zukunftssichere und kostengünstige Lösung dafür mit X2Go aussieht
 
-Als praktische Beispiele dienen uns u.a. das Niederländische Flüchtlingswerk, die Holz-Speckmann GmbH & Co. KG, die Gi-Ro Technik GmbH & Co. KG, sowie diverse Steuerberaterbüros.
+Als praktische Beispiele dienen uns u.a. das Niederländische Flüchtlingswerk, die Holz-Speckmann GmbH &#x26; Co. KG, die Gi-Ro Technik GmbH &#x26; Co. KG, sowie diverse Steuerberaterbüros.
 
 Auch wenn man (noch) gar keinen X2Go-Server einsetzt, und/oder noch andere Remote-Desktop-Technologien wie RDP oder XDMCP zum Einsatz kommen sollen - X2Go-TCE ist das einheitliche, freie Frontend dafür.
 
@@ -688,7 +688,7 @@ Dr. Michael Sperber ist Geschäftsführer der Active Group GmbH, die Individuals
 <title>Æ-DIR -- paranoide Benutzerverwaltung mit OpenLDAP</title>
 <type>talk</type>
 <description>
-Das freie Projekt Æ-DIR implementiert feingranulierte Zugriffskontrolle für LDAP-fähige Systeme mit höherem Schutzbedarf basierend auf OpenLDAP.  Im Gegensatz zu anderen LDAP-Servern muss für an Æ-DIR angeschlossene Systeme die Sichtbarkeit von Benutzern & Gruppen immer explizit erlaubt werden. Dies erfolgt rein über Datenpflege in Æ-DIR.  LDAP-fähige Anwendungen müssen auch dank Schemakompabilität nicht speziell für Æ-DIR angepasst werden.  Zudem wird die Administration auf mehreren Ebenen an kleine Benutzergruppen delegiert, um zu mächtige Stellvertreter-Rollen zu vermeiden. Dies macht auch Genehmigungsprozesse überflüssig.
+Das freie Projekt Æ-DIR implementiert feingranulierte Zugriffskontrolle für LDAP-fähige Systeme mit höherem Schutzbedarf basierend auf OpenLDAP.  Im Gegensatz zu anderen LDAP-Servern muss für an Æ-DIR angeschlossene Systeme die Sichtbarkeit von Benutzern &#x26; Gruppen immer explizit erlaubt werden. Dies erfolgt rein über Datenpflege in Æ-DIR.  LDAP-fähige Anwendungen müssen auch dank Schemakompabilität nicht speziell für Æ-DIR angepasst werden.  Zudem wird die Administration auf mehreren Ebenen an kleine Benutzergruppen delegiert, um zu mächtige Stellvertreter-Rollen zu vermeiden. Dies macht auch Genehmigungsprozesse überflüssig.
 
 ### Vorwissen
 
@@ -696,7 +696,7 @@ Grundkenntnisse Login bei Linux/Unix Grundkenntnisse LDAP nützlich, aber nicht 
 
 ### Über mich
 
-Michael Ströder arbeitet seit 1999 als selbstständiger Berater in den Bereichen Identity & Access Management (IAM) und angewandte Verschlüsselung (PKI, E-Mail-Verschlüsselung, etc.). Außerdem entwickelt er freie Software-Projekte als Basis sicherer Infrastrukturen.
+Michael Ströder arbeitet seit 1999 als selbstständiger Berater in den Bereichen Identity &#x26; Access Management (IAM) und angewandte Verschlüsselung (PKI, E-Mail-Verschlüsselung, etc.). Außerdem entwickelt er freie Software-Projekte als Basis sicherer Infrastrukturen.
 
 </description>
 <links>
