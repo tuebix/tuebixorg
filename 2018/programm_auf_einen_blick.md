@@ -92,7 +92,7 @@ padding-right: 8px;
 <td rowspan="4"><a class="work" href="../programm/mark-proehl-einheitliche-linux-benutzerverwaltung-mit-freeipa">FreeIPA</a></td>
 <td rowspan="2"><a class="talk" href="../programm/sven-guckes-elimar-riesebieter-neomutt">neomutt</a></td>
 <td rowspan="2"><a class="talk" href="../programm/holger-gantikow-do-containers-still-not-contain-what-s-new-in-container-security">Container Security</a></td>
-<td            ><a class="talk" href="../programm/dominik-george-kinder-instant-messaging-und-andere-foss-abenteuer">instannt&nbsp;messenger</a></td>
+<td            ><a class="talk" href="../programm/dominik-george-kinder-instant-messaging-und-andere-foss-abenteuer">instant&nbsp;messenger</a></td>
 <td rowspan="4"><a class="lpic" href="../../lpic">LPIC</a></td>
 <td rowspan="8">&nbsp;</td>
 <td>14:00</td></tr>
