@@ -90,26 +90,6 @@ Hans ist Technologe und Autor ( Linux Journal und OpenSource.com ). Er ist Grün
 </links>
 <persons><person id="hans-persoenliche-sicherheit-und-datenschutz-durch-ein">xxx</person></persons>
 </event>
-<event id="martin-schroeder-wie-funktioniert-eigentlich-sms">
-<start>16:00</start>
-<duration>00:50</duration>
-<room>V1</room>
-<title>Wie funktioniert eigentlich SMS?</title>
-<type>talk</type>
-<description>
-Warum kommt die Zweifaktor-SMS von Twitter von irgendeiner ausländischen Telefonnummer und sieht so seltsam aus? Und wie kommt die eigentlich aus dem Browser auf mein Handy? Linux kommt auch drin vor.
-
-### Vorwissen
-
-Keines. SMS hat vermutlich jedeR mal benutzt. :-)
-
-### Über mich
-
-Diplom-Informatiker, der in den letzten Jahren in Messaging-Software (SMS!) in Java unter Linux entwickelt.
-
-</description>
-<persons><person id="martin-schroeder-wie-funktioniert-eigentlich">xxx</person></persons>
-</event>
 <event id="olaf-flebbe-python-performance-for-plants-and-profit">
 <start>10:00</start>
 <duration>00:50</duration>
