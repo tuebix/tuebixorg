@@ -54,23 +54,17 @@ Axel Beckert hat an der Universität des Saarlandes Informatik mit Nebenfach Bio
 - <link href="https://noone.org/talks/tor/" >Folien</link></links>
 <persons><person id="axel-beckert-von-ueberall-her-per-tor-auf-seinen-rechner">xxx</person></persons>
 </event>
-<event id="dominik-george-movim-the-kick-ass-social-network">
-<start>14:00</start>
+<event id="lightning-talks">
+<start>15:00</start>
+<duration>00:50</duration>
 <room>V1</room>
-<title>Movim, the kick-ass social network</title>
+<title>Lightning Talks</title>
 <type>lightning</type>
 <description>
-Movim ist ein komplett standardbasiertes, freies soziales Netzwerk auf der Basis von Jabber (XMPP), das mit anderen CLients vollkompatibel ist und neben Chats auch Features gängiger sozialer Netzwerke, wie Pinnwände, Blogcommunities, usw. in den Webbrowser bringt.
-
-### Über mich
-
-28 Jahre alt, Systemadministrator, Pädagoge und Vorsitzender des Teckids e.V., der Freie-Software-Jugendorganisation. Dadurch Nutzer und Kontributor des freien sozialen Netzwerks Movim.
+Lightning Talks
 
 </description>
-<links>
-
-- <link href="https://movim.eu" >Movim</link></links>
-<persons><person id="dominik-george-movim-the-kick-ass-social">xxx</person></persons>
+<persons><person id="lightning">xxx</person></persons>
 </event>
 <event id="hans-persoenliche-sicherheit-und-datenschutz-durch-ein-passwortverwalter">
 <start>13:00</start>
