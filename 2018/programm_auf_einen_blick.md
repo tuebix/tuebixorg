@@ -24,7 +24,7 @@ padding-right: 8px;
 <a href="https://f-droid.org/" target="_blank"><img height="25" src="../../images/fdroid.png" alt="F-Droid-Logo" title="F-Droid-Logo" />&nbsp;F-Droid</a>)
 * <a href="https://play.google.com/store/apps/details?id=net.gaast.giggity" target="_blank"><img height="25" src="../../images/giggity.png" alt="giggity-Logo" title="giggity-Logo" />&nbsp;giggity</a> (bei
 <img height="25" src="../../images/googleplay.png" alt="Google-Play-Logo" title="Google-Play-Logo" />&nbsp;Google Play)
-
+* giggity-Eintrag muss bislang noch selbst eingebunden werden: giggity starten und in der Veranstaltungsliste rechts oben auf das Pluszeichen und dort folgende URL eingeben: https://tuebix.org/2018/giggity.xml
 <br/>
 
 <table>
@@ -63,7 +63,7 @@ padding-right: 8px;
 <td></td></tr>
 
 <tr><td>12:00</td>
-<td rowspan="4"><a class="work" href="../programm/lukas-kallies-linux-server--und-deskop-lifecycle-management">lifecycle management</a></td>
+<td rowspan="4"><a class="work" href="../programm/lukas-kallies-linux-server--und-desktop-lifecycle-management">lifecycle management</a></td>
 <td rowspan="4"><a class="work" href="../programm/frank-bunselmeyer-daniel-kobras-digitalfotografie-und-digitale-dunkelkammer">Digitale Dunkelkammer</a></td>
 <td rowspan="2"><a class="talk" href="../programm/axel-beckert-von-ueberall-her-per-tor-auf-seinen-rechner-gelangen">Tor</a></td>
 <td rowspan="2"><a class="talk" href="../programm/stefan-baur-x2go-thin-client-edition-tce-open-source-als-mittler-zwischen-den-welten">X2Go</a></td>
@@ -92,7 +92,7 @@ padding-right: 8px;
 <td rowspan="4"><a class="work" href="../programm/mark-proehl-einheitliche-linux-benutzerverwaltung-mit-freeipa">FreeIPA</a></td>
 <td rowspan="2"><a class="talk" href="../programm/sven-guckes-elimar-riesebieter-neomutt">neomutt</a></td>
 <td rowspan="2"><a class="talk" href="../programm/holger-gantikow-do-containers-still-not-contain-what-s-new-in-container-security">Container Security</a></td>
-<td            ><a class="talk" href="../programm/dominik-george-kinder-instant-messaging-und-andere-foss-abenteuer">instannt&nbsp;messenger</a></td>
+<td            ><a class="talk" href="../programm/dominik-george-kinder-instant-messaging-und-andere-foss-abenteuer">instant&nbsp;messenger</a></td>
 <td rowspan="4"><a class="lpic" href="../../lpic">LPIC</a></td>
 <td rowspan="8">&nbsp;</td>
 <td>14:00</td></tr>

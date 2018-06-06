@@ -7,7 +7,7 @@ menu:
 ---
 ## Digitalfotografie und digitale Dunkelkammer
 
-### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 13:50 in Raum W2
+### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 13:50 in Raum W3
 
 ### Frank Bunselmeyer, Daniel Kobras
 

@@ -7,7 +7,7 @@ menu:
 ---
 ## Optimized Container Live-Migration
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:20 in Raum V7
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:20 in Raum V2
 
 ### Adrian Reber, Christian Brauner
 

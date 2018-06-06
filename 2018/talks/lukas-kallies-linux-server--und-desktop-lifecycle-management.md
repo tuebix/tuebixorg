@@ -1,11 +1,11 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/lukas-kallies-linux-server--und-deskop-lifecycle-management/
+permalink: /2018/programm/lukas-kallies-linux-server--und-desktop-lifecycle-management/
 weight:
 menu:
 ---
-## Linux Server- und Deskop-Lifecycle-Management
+## Linux Server- und Desktop-Lifecycle-Management
 
 ### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 13:50 in Raum W1
 
