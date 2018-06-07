@@ -7,7 +7,7 @@ layout: default
 - Der [Call for Helpers](callforhelpers/) ist eröffnet.
 - Lightning Talks können noch über den [Call for Papers](callforpapers/)
   eingereicht werden.
-- giggity-Eintrag muss bislang noch selbst eingebunden werden: giggity starten und in der Veranstaltungsliste rechts oben auf das Pluszeichen und dort folgende URL eingeben: https://tuebix.org/2018/giggity.xml
+
 <!--
 {{ site.title }} ist ein
 <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a>
