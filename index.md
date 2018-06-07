@@ -3,6 +3,8 @@ layout: default
 ---
 
 **News:** Der Tübix 2018 findet am Samstag, dem **9. Juni 2018** statt.
+- <a href="2018/flyer-web.pdf">Flyer</a> schonmal vorab, aber wir haben genug Exemplare fuer euch ausgedruckt
+- giggity klappt endlich!
 - Das <a href="2018/programm/">Programm</a> steht fest.
 - Der [Call for Helpers](callforhelpers/) ist eröffnet.
 - Lightning Talks können noch über den [Call for Papers](callforpapers/)
