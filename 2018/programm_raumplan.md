@@ -15,7 +15,6 @@ menu: main
 <a href="https://f-droid.org/" target="_blank"><img height="25" src="../../images/fdroid.png" alt="F-Droid-Logo" title="F-Droid-Logo" />&nbsp;F-Droid</a>)
 * <a href="https://play.google.com/store/apps/details?id=net.gaast.giggity" target="_blank"><img height="25" src="../../images/giggity.png" alt="giggity-Logo" title="giggity-Logo" />&nbsp;giggity</a> (bei
 <img height="25" src="../../images/googleplay.png" alt="Google-Play-Logo" title="Google-Play-Logo" />&nbsp;Google Play)
-* giggity-Eintrag muss bislang noch selbst eingebunden werden: giggity starten und in der Veranstaltungsliste rechts oben auf das Pluszeichen und dort folgende URL eingeben: https://tuebix.org/2018/giggity.xml
   
 <br/>
 

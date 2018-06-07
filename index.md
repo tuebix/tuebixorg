@@ -3,11 +3,13 @@ layout: default
 ---
 
 **News:** Der Tübix 2018 findet am Samstag, dem **9. Juni 2018** statt.
+- <a href="2018/flyer-web.pdf">Flyer</a> schonmal vorab, aber wir haben genug Exemplare fuer euch ausgedruckt
+- giggity klappt endlich!
 - Das <a href="2018/programm/">Programm</a> steht fest.
 - Der [Call for Helpers](callforhelpers/) ist eröffnet.
 - Lightning Talks können noch über den [Call for Papers](callforpapers/)
   eingereicht werden.
-- giggity-Eintrag muss bislang noch selbst eingebunden werden: giggity starten und in der Veranstaltungsliste rechts oben auf das Pluszeichen und dort folgende URL eingeben: https://tuebix.org/2018/giggity.xml
+
 <!--
 {{ site.title }} ist ein
 <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a>
