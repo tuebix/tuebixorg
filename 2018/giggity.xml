@@ -6,7 +6,7 @@
     <start>2018-06-09</start>
     <end>2018-06-09</end>
     <days>1</days>
-    <release>1.20180608.0623</release>
+    <release>1.20180608.0635</release>
     <timeslot_duration>00:30</timeslot_duration>
   </conference>
   <day date="2018-06-09" index="1">
@@ -29,7 +29,7 @@ Es wäre gut, wenn man schonmal eine Shell benutzt hat, noch besser wenn man die
 André fing mit Linux als Hobby zu Zeiten an, als es noch gängig war, Textinstaller zu benutzen. Seit einigen Jahren ist er als Linux-Systemengineer mit Fokus auf Systemsicherheit unterwegs und hält Fachvorträge bei Usergroups und Open-Source-Konferenzen.
 
 </description>
-<persons><person id="andré-niemann-ssh-einfach-sicher">xxx</person></persons>
+<persons><person id="andré-niemann-ssh-einfach-sicher">André Niemann</person></persons>
 </event>
 <event id="axel-beckert-von-ueberall-her-per-tor-auf-seinen-rechner-gelangen">
 <start>12:00</start>
