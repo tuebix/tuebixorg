@@ -6,7 +6,7 @@
     <start>2018-06-09</start>
     <end>2018-06-09</end>
     <days>1</days>
-    <release>1.20180605.1123</release>
+    <release>1.20180608.0635</release>
     <timeslot_duration>00:30</timeslot_duration>
   </conference>
   <day date="2018-06-09" index="1">
@@ -29,7 +29,7 @@ Es wäre gut, wenn man schonmal eine Shell benutzt hat, noch besser wenn man die
 André fing mit Linux als Hobby zu Zeiten an, als es noch gängig war, Textinstaller zu benutzen. Seit einigen Jahren ist er als Linux-Systemengineer mit Fokus auf Systemsicherheit unterwegs und hält Fachvorträge bei Usergroups und Open-Source-Konferenzen.
 
 </description>
-<persons><person id="andré-niemann-ssh-einfach-sicher">xxx</person></persons>
+<persons><person id="andré-niemann-ssh-einfach-sicher">André Niemann</person></persons>
 </event>
 <event id="axel-beckert-von-ueberall-her-per-tor-auf-seinen-rechner-gelangen">
 <start>12:00</start>
@@ -52,7 +52,7 @@ Axel Beckert hat an der Universität des Saarlandes Informatik mit Nebenfach Bio
 <links>
 
 - <link href="https://noone.org/talks/tor/" >Folien</link></links>
-<persons><person id="axel-beckert-von-ueberall-her-per-tor-auf-seinen-rechner">xxx</person></persons>
+<persons><person id="axel-beckert-von-ueberall-her-per-tor-auf-seinen-rechner">Axel Beckert</person></persons>
 </event>
 <event id="lightning-talks">
 <start>15:00</start>
@@ -88,7 +88,7 @@ Hans ist Technologe und Autor ( Linux Journal und OpenSource.com ). Er ist Grün
 
 - <link href="https://www.socallinuxexpo.org/scale/16x/presentations/personal-online-security-privacy-and-password-management" >Personal Online Security, Privacy, and Password Management</link>
 </links>
-<persons><person id="hans-persoenliche-sicherheit-und-datenschutz-durch-ein">xxx</person></persons>
+<persons><person id="hans-persoenliche-sicherheit-und-datenschutz-durch-ein">Hans</person></persons>
 </event>
 <event id="olaf-flebbe-python-performance-for-plants-and-profit">
 <start>10:00</start>
@@ -108,7 +108,7 @@ Grundbegriffe der numerische Simulation, Vektorrechnung, Differentialgleichungen
 Über 25 Jahre Open Source, promoviert in computational physics, member apache software foundation,  arbeitet an connected eBikes.
 
 </description>
-<persons><person id="olaf-flebbe-python-performance-for-plants-and">xxx</person></persons>
+<persons><person id="olaf-flebbe-python-performance-for-plants-and">Olaf Flebbe</person></persons>
 </event>
 <event id="rainer-grimm-best-practices-fuer-concurrency-oder-was-wir-schmerzhaft-gelernt-haben">
 <start>17:00</start>
@@ -134,7 +134,7 @@ Rainer Grimm ist seit vielen Jahren als Softwarearchitekt, Team- und Schulungsle
 - <link href="https://www.grimm-jaud.de/index.php/blog" >Deutscher Blog</link>
 - <link href="https://www.parallelcon.de/programm.php" >Gleicher Talk auf der Parallel2018</link>
 - <link href="http://cppconf.ru/#talks" >Gleicher Talk auf der C++ Russia Confererence</link></links>
-<persons><person id="rainer-grimm-best-practices-fuer-concurrency-oder-was-wir-schmerzhaft-gelernt">xxx</person></persons>
+<persons><person id="rainer-grimm-best-practices-fuer-concurrency-oder-was-wir-schmerzhaft-gelernt">Rainer Grimm</person></persons>
 </event>
 <event id="sven-guckes-elimar-riesebieter-neomutt">
 <start>14:00</start>
@@ -167,7 +167,7 @@ Elimar Riesebieter
 - <link href="https://www.neomutt.org/" >Neomutt HomePage</link>
 - <link href="https://www.guckes.net/neomutt/" >Sven Guckes ueber neomutt</link>
 </links>
-<persons><person id="sven-guckes-elimar-riesebieter">xxx</person></persons>
+<persons><person id="sven-guckes-elimar-riesebieter">Sven Guckes, Elimar Riesebieter</person></persons>
 </event>
 <event id="tuebix-exit">
 <start>18:20</start>
@@ -211,7 +211,7 @@ Prinzipiell hat sich Opensource schon lange als Entwicklungs- und Geschäftsmode
 Udo Seidel ist eigentlich Mathe-Physik-Lehrer und seit 1996 Linux-Fan. Nach seiner Promotion hat er als Linux/Unix-Trainer, Systemadministrator, Senior Solution Engineer und Linux-Stratege gearbeitet. Heute arbeitet er als IT-Architekt und Evangelist bei der Amadeus Data Processing GmbH in Erding.
 
 </description>
-<persons><person id="udo-seidel-opensource-ois-easy">xxx</person></persons>
+<persons><person id="udo-seidel-opensource-ois-easy">Udo Seidel</person></persons>
 </event>
 </room>
 <room name="V2">
@@ -233,7 +233,7 @@ Adrian Reber - Software Entwickler bei Red Hat, Christian Brauner - Software Ent
 
 - <link href="https://lisas.de/~adrian/?p=1294" >Optimizing live container migration in LXD</link>
 </links>
-<persons><person id="adrian-reber-christian-brauner-optimized-container-live">xxx</person></persons>
+<persons><person id="adrian-reber-christian-brauner-optimized-container-live">Adrian Reber, Christian Brauner</person></persons>
 </event>
 <event id="adrian-reber-einfuehrung-in-openhpc">
 <start>13:00</start>
@@ -253,7 +253,7 @@ Software Entwickler bei Red Hat
 
 - <link href="http://openhpc.community/" >OpenHPC</link>
 - <link href="https://lisas.de/~adrian/?p=1309" >OpenHPC: Building Blocks</link></links>
-<persons><person id="adrian-reber-einfuehrung-in">xxx</person></persons>
+<persons><person id="adrian-reber-einfuehrung-in">Adrian Reber</person></persons>
 </event>
 <event id="christian-brauner-linux-device-management-making-the-kernel-and-udev-namespace-aware">
 <start>11:00</start>
@@ -285,7 +285,7 @@ Christian Brauner is a core developer and maintainer of the LXD, LXC, and glibc 
 - <link href="https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/commit/?id=a3498436b3a0f8ec289e6847e1de40b4123e1639" >netns: restrict uevents</link>
 - <link href="https://git.kernel.org/pub/scm/linux/kernel/git/davem/net-next.git/commit/?id=90d52d4fd82007005125d9a8d2d560a1ca059b9d" >netns: uevent filtering</link>
 </links>
-<persons><person id="christian-brauner-linux-device-management-making-the-kernel-and-udev-namespace">xxx</person></persons>
+<persons><person id="christian-brauner-linux-device-management-making-the-kernel-and-udev-namespace">Christian Brauner</person></persons>
 </event>
 <event id="elizaveta-tretiakova-hotplugging-mounts-into-processes">
 <start>17:00</start>
@@ -301,7 +301,7 @@ Being able to dynamically interact with mounts while a container is running has 
 
 - <link href="https://github.com/lxc/lxc/pull/2300" >Mount Injection Pull Request</link>
 - <link href="https://www.kernel.org/doc/Documentation/filesystems/sharedsubtree.txt" >Mount Propagation</link></links>
-<persons><person id="elizaveta-tretiakova-hotplugging-mounts-into">xxx</person></persons>
+<persons><person id="elizaveta-tretiakova-hotplugging-mounts-into">Elizaveta Tretiakova</person></persons>
 </event>
 <event id="felix-bauer-app-separation-no-need-containers">
 <start>15:30</start>
@@ -323,7 +323,7 @@ Grundlagen der Linux Kommandozeile, Namespaces und Umgang mit Docker
 Security Mensch, Consultant und Engineer
 
 </description>
-<persons><person id="felix-bauer-app-separation-no-need">xxx</person></persons>
+<persons><person id="felix-bauer-app-separation-no-need">Felix Bauer</person></persons>
 </event>
 <event id="gerhard-klostermeier-rfid-nfc-grundlagen">
 <start>16:00</start>
@@ -339,7 +339,7 @@ Dieser Vortrag soll eine Übersicht über einige der vielen typischen RFID/NFC-T
 Gerhard Klostermeier ist interessiert an allem was IT-Sicherheit betrifft – besonders wenn es um Funktechnologien geht. Er studierte IT-Sicherheit an der Hochschule Aalen und arbeitet seit 2014 als Pentester und IT-Security Consultant bei der SySS GmbH. Gerhard Klostermeier war Redner auf der Ruxcon und der Deepsec, wo er über die Sicherheit von Funktastaturen vortrug. Außerdem hielt er auf mehreren, durch den VDI, Daimler oder Vector organisierten, Konferenzen Vorträge über verschiedene Themen der IT-Sicherheit. Auf der GPN 2013 – eine durch den Chaos Computer Club (CCC) organisierte Konferenz in Karlsruhe – hielt er einen Vortrag über das Hacken von RFID-basierten Studentenausweisen. Er ist außerdem der Autor der Android-App „Mifare Classic Tool“.
 
 </description>
-<persons><person id="gerhard-klostermeier-rfid-nfc">xxx</person></persons>
+<persons><person id="gerhard-klostermeier-rfid-nfc">Gerhard Klostermeier</person></persons>
 </event>
 <event id="holger-gantikow-containing-containers-oder-wie-laesst-sich-der-wal-baendigen">
 <start>14:00</start>
@@ -378,7 +378,7 @@ Ein spezielles Vorwissen der Zuhörer wird nicht vorausgesetzt. Interesse an Vir
 Holger Gantikow hat an der Hochschule Furtwangen Informatik studiert und ist bei Atos (ehemals science + computing ag) in Tübingen als Senior Systems Engineer tätig. Dort beschäftigt er sich mit der Komplexität heterogener Systeme im CAE-Berechnungsumfeld und betreut Kunden aus dem technisch-wissenschaftlichen Bereich.
 
 </description>
-<persons><person id="holger-gantikow-containing-containers-oder-wie-laesst-sich-der-wal">xxx</person></persons>
+<persons><person id="holger-gantikow-containing-containers-oder-wie-laesst-sich-der-wal">Holger Gantikow</person></persons>
 </event>
 <event id="michael-weiss-einfuehrung-in-nix-und-nixos">
 <start>10:00</start>
@@ -404,7 +404,7 @@ Informatik Student an der Universität Tübingen. Package maintainer und NixOS m
 - <link href="https://nixos.org/" >Website</link>
 - <link href="https://github.com/NixOS/nixpkgs/" >GitHub repo</link>
 </links>
-<persons><person id="michael-weiss-einfuehrung-in-nix-und">xxx</person></persons>
+<persons><person id="michael-weiss-einfuehrung-in-nix-und">Michael Weiss</person></persons>
 </event>
 <event id="stefan-baur-x2go-thin-client-edition-tce-open-source-als-mittler-zwischen-den-welten">
 <start>12:00</start>
@@ -440,7 +440,7 @@ Stefan Baur, Jahrgang 1977, ist der aktuelle Projektmanager und Lead Evangelist 
 - <link href="https://wiki.x2go.org/doku.php/doc:newtox2go" >New to X2Go? Start here!</link>
 - <link href="https://wiki.x2go.org/doku.php/doc:howto:tce" >X2Go-ThinClientEdition</link>
 </links>
-<persons><person id="stefan-baur-x2go-thin-client-edition-tce-open-source-als-mittler-zwischen-den">xxx</person></persons>
+<persons><person id="stefan-baur-x2go-thin-client-edition-tce-open-source-als-mittler-zwischen-den">Stefan Baur</person></persons>
 </event>
 </room>
 <room name="V3">
@@ -462,7 +462,7 @@ Daniel Kobras hat als Physiker gelernt zu ergründen, was die Welt im Innersten 
 
 - <link href="http://open-zfs.org" >OpenZFS</link>
 - <link href="http://zfsonlinux.org" >ZFS on Linux</link></links>
-<persons><person id="daniel-kobras-zfs-encryption-sichere-datenhaltung-in-der">xxx</person></persons>
+<persons><person id="daniel-kobras-zfs-encryption-sichere-datenhaltung-in-der">Daniel Kobras</person></persons>
 </event>
 <event id="dominik-george-kinder-instant-messaging-und-andere-foss-abenteuer">
 <start>14:00</start>
@@ -481,7 +481,7 @@ Wir zeigen, welche Instant-Messaging-Dienste von Kindern und Jugendlichen genutz
 <links>
 
 - <link href="https://www.teckids.org" >Teckids e.V.</link></links>
-<persons><person id="dominik-george-kinder-instant-messaging-und-andere-foss">xxx</person></persons>
+<persons><person id="dominik-george-kinder-instant-messaging-und-andere-foss">Dominik George</person></persons>
 </event>
 <event id="dominik-george-too-young-to-rock-n-roll-kinder-wollen-mitmachen">
 <start>12:00</start>
@@ -500,7 +500,7 @@ Kinder nutzen Software. Doch können sie auch aktiver Teil der FOSS-Gemeinschaft
 <links>
 
 - <link href="https://www.teckids.org" >Teckids e.V.</link></links>
-<persons><person id="dominik-george-too-young-to-rock-n-roll-kinder-wollen">xxx</person></persons>
+<persons><person id="dominik-george-too-young-to-rock-n-roll-kinder-wollen">Dominik George</person></persons>
 </event>
 <event id="felix-bauer-peekabooav">
 <start>17:00</start>
@@ -520,7 +520,7 @@ Entwickler von PeekabooAV, Konzeption und Implementierung
 
 - <link href="https://github.com/scVENUS/PeekabooAV" >PeekabooAV auf GitHub</link>
 - <link href="https://twitter.com/peekabooav" >@peekabooav</link></links>
-<persons><person id="felix-bauer">xxx</person></persons>
+<persons><person id="felix-bauer">Felix Bauer</person></persons>
 </event>
 <event id="gunnar-piel-das-auto-betriebssystem-der-zukunft">
 <start>14:30</start>
@@ -540,7 +540,7 @@ Grundkenntnisse von SW-Architektur, SW-Engieering und Linux
 Gunnar Piel ist Chef-SW-Architekt im "Vehicle Computer Campus" der Robert Bosch GmbH. Hier wird die SW-Architektur künftiger Fahrzeuge entwickelt. Ich bin erfahrener SW-Entwickler, der sich gerne auch mit Gleichgesinnten im universitären Umfeld trifft.
 
 </description>
-<persons><person id="gunnar-piel-das-auto-betriebssystem-der">xxx</person></persons>
+<persons><person id="gunnar-piel-das-auto-betriebssystem-der">Gunnar Piel</person></persons>
 </event>
 <event id="hans-umatrix-fuer-webbrowserschutz">
 <start>10:00</start>
@@ -564,7 +564,7 @@ Hans ist Technologe und Autor ( Linux Journal und OpenSource.com ). Er ist Grün
 
 - <link href="https://github.com/gorhill/uMatrix" >uMatrix</link>
 </links>
-<persons><person id="hans-umatrix-fuer">xxx</person></persons>
+<persons><person id="hans-umatrix-fuer">Hans</person></persons>
 </event>
 <event id="knut-franke-prokrastination-panik-doku-pauken-was-hilft-bei-der-migration-auf-python3">
 <start>11:00</start>
@@ -588,7 +588,7 @@ Knut beschäftigt sich seit mehr als zehn Jahren mit den Themen Programmierung u
 
 - <link href="https://pythonclock.org/" >Countdown Python 2 End Of Life</link>
 - <link href="http://python-future.org/compatible_idioms.html" >Idiome für Python 2*3 kompatiblen Code</link></links>
-<persons><person id="knut-franke-prokrastination-panik-doku-pauken-was-hilft-bei-der-migration-auf">xxx</person></persons>
+<persons><person id="knut-franke-prokrastination-panik-doku-pauken-was-hilft-bei-der-migration-auf">Knut Franke</person></persons>
 </event>
 <event id="marius-heyn-welche-auswirkungen-hat-die-eu-dsgvo-auf-die-software-entwicklung">
 <start>16:30</start>
@@ -604,7 +604,7 @@ Der Vortrag beleuchtet das Thema Datenschutz in der Softwareentwicklung, darin w
 Marius Heyn, Generation 60, Lange Jahre in der IT (Projekte, Softwareentwicklung, Support), seit 2010 mit Datenschutz und seit 2014 mit der Informationssicherheit befasst.
 
 </description>
-<persons><person id="marius-heyn-welche-auswirkungen-hat-die-eu-dsgvo-auf-die-software">xxx</person></persons>
+<persons><person id="marius-heyn-welche-auswirkungen-hat-die-eu-dsgvo-auf-die-software">Marius Heyn</person></persons>
 </event>
 <event id="mark-proehl-automatisierte-testumgebungen-mit-ansible-und-vagrant">
 <start>12:30</start>
@@ -630,7 +630,7 @@ Mark Pröhl ist studierter Physiker und beschäftigt sich als Senior Solutions A
 - <link href="https://www.ansible.com" >https://www.ansible.com</link>
 - <link href="https://www.kerberos-buch.de/tuebix-2018" >https://www.kerberos-buch.de/tuebix-2018</link>
 </links>
-<persons><person id="mark-proehl-automatisierte-testumgebungen-mit-ansible-und">xxx</person></persons>
+<persons><person id="mark-proehl-automatisierte-testumgebungen-mit-ansible-und">Mark Pröhl</person></persons>
 </event>
 <event id="michael-sperber-web-applikationen-und-uis-funktional-programmieren-mit-reacl">
 <start>15:00</start>
@@ -653,7 +653,7 @@ Dr. Michael Sperber ist Geschäftsführer der Active Group GmbH, die Individuals
 <links>
 
 - <link href="https://github.com/active-group/reacl" >Reacl</link></links>
-<persons><person id="michael-sperber-web-applikationen-und-uis-funktional-programmieren-mit">xxx</person></persons>
+<persons><person id="michael-sperber-web-applikationen-und-uis-funktional-programmieren-mit">Michael Sperber</person></persons>
 </event>
 <event id="michael-stroeder-ae-dir-paranoide-benutzerverwaltung-mit-openldap">
 <start>13:00</start>
@@ -677,7 +677,7 @@ Michael Ströder arbeitet seit 1999 als selbstständiger Berater in den Bereiche
 
 - <link href="https://www.ae-dir.com/" >Æ-DIR - Authorized Entities Directory</link>
 </links>
-<persons><person id="michael-stroeder-ae-dir-paranoide-benutzerverwaltung-mit">xxx</person></persons>
+<persons><person id="michael-stroeder-ae-dir-paranoide-benutzerverwaltung-mit">Michael Ströder</person></persons>
 </event>
 <event id="udo-seidel-unterwasser-statt-in-der-erde">
 <start>10:30</start>
@@ -700,7 +700,7 @@ Udo Seidel ist eigentlich Mathe-Physik-Lehrer und seit 1996 Linux-Fan. Nach sein
 <links>
 
 - <link href="http://www.denx.de/wiki/U-Boot" >Projekt-Seite</link></links>
-<persons><person id="udo-seidel-unterwasser-statt-in-der">xxx</person></persons>
+<persons><person id="udo-seidel-unterwasser-statt-in-der">Udo Seidel</person></persons>
 </event>
 </room>
 <room name="W1">
@@ -727,7 +727,7 @@ Daniel Kulesz ist Forscher im Software-Engineering am Institut für Softwaretech
 - <link href="http://www.systemtestportal.org/" >Webseite</link>
 - <link href="https://gitlab.com/stp-team/systemtestportal-webapp" >Issue-Tracker</link>
 </links>
-<persons><person id="daniel-kulesz-systematisch-und-sozial-testen-mit-dem">xxx</person></persons>
+<persons><person id="daniel-kulesz-systematisch-und-sozial-testen-mit-dem">Daniel Kulesz, , Fabio Schmidberger, Jonas Morela, Niklas Klammhoff</person></persons>
 </event>
 <event id="felix-bauer-security-basics-sniffing-und-scanning">
 <start>10:00</start>
@@ -747,7 +747,7 @@ Linux Kommandozeile, Grundlagen Computernetze
 Security Mensch, Consultant und Engineer
 
 </description>
-<persons><person id="felix-bauer-security-basics-sniffing-und">xxx</person></persons>
+<persons><person id="felix-bauer-security-basics-sniffing-und">Felix Bauer</person></persons>
 </event>
 <event id="lukas-kallies-linux-server--und-desktop-lifecycle-management">
 <start>12:00</start>
@@ -775,7 +775,7 @@ Jahrgang 1983, verheiratet, zwei Kinder Informatikstudium an der Hochschule Furt
 - <link href="https://theforeman.org/plugins/katello/" >Katello (Foreman Plugin)</link>
 - <link href="https://theforeman.org/plugins/" >Foreman Plugins</link>
 </links>
-<persons><person id="lukas-kallies-linux-server--und-desktop-lifecycle">xxx</person></persons>
+<persons><person id="lukas-kallies-linux-server--und-desktop-lifecycle">Lukas Kallies</person></persons>
 </event>
 <event id="stefan-klemm-linux-und-business">
 <start>16:00</start>
@@ -806,7 +806,7 @@ Zudem sollten die Teilnehmer auch Java installiert haben (Open-JDK funktioniert 
 
 Ich bin als Softwareentwickler bei einem Maschinenbauunternehmen angestellt und habe eine starke Linux-Affinität.
 </description>
-<persons><person id="stefan-klemm-linux-und">xxx</person></persons>
+<persons><person id="stefan-klemm-linux-und">Stefan Klemm</person></persons>
 </event>
 </room>
 <room name="W3">
@@ -841,7 +841,7 @@ Frank Bunselmeyer hat als Musiker viel um die Ohren und nutzt die Fotografie als
 
 - <link href="https://www.darktable.org" >Darktable</link>
 </links>
-<persons><person id="frank-bunselmeyer-daniel-kobras-digitalfotografie-und-digitale">xxx</person></persons>
+<persons><person id="frank-bunselmeyer-daniel-kobras-digitalfotografie-und-digitale">Frank Bunselmeyer, Daniel Kobras</person></persons>
 </event>
 <event id="mark-proehl-einheitliche-linux-benutzerverwaltung-mit-active-directory">
 <start>10:00</start>
@@ -866,7 +866,7 @@ Mark Pröhl ist studierter Physiker und beschäftigt sich als Senior Solutions A
 - <link href="https://app.vagrantup.com/centos/boxes/7" >https://app.vagrantup.com/centos/boxes/7</link>
 - <link href="https://www.kerberos-buch.de/tuebix-2018" >https://www.kerberos-buch.de/tuebix-2018</link>
 </links>
-<persons><person id="mark-proehl-einheitliche-linux-benutzerverwaltung-mit-active">xxx</person></persons>
+<persons><person id="mark-proehl-einheitliche-linux-benutzerverwaltung-mit-active">Mark Pröhl</person></persons>
 </event>
 <event id="mark-proehl-einheitliche-linux-benutzerverwaltung-mit-freeipa">
 <start>14:00</start>
@@ -891,7 +891,7 @@ Mark Pröhl ist studierter Physiker und beschäftigt sich als Senior Solutions A
 - <link href="https://app.vagrantup.com/centos/boxes/7" >https://app.vagrantup.com/centos/boxes/7</link>
 - <link href="https://www.kerberos-buch.de/tuebix-2018" >https://www.kerberos-buch.de/tuebix-2018</link>
 </links>
-<persons><person id="mark-proehl-einheitliche-linux-benutzerverwaltung-mit">xxx</person></persons>
+<persons><person id="mark-proehl-einheitliche-linux-benutzerverwaltung-mit">Mark Pröhl</person></persons>
 </event>
 <event id="mark-schmidt-andreas-stockmayer-gentoo-installparty">
 <start>16:00</start>
@@ -914,7 +914,7 @@ Linux-Grundlagen ;)
 - <link href="https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/About" >Gentoo-Installation</link>
 - <link href="https://wiki.gentoo.org/wiki/Main_Page" >Gentoo Wiki</link>
 </links>
-<persons><person id="mark-schmidt-andreas-stockmayer-gentoo">xxx</person></persons>
+<persons><person id="mark-schmidt-andreas-stockmayer-gentoo">Mark Schmidt, Andreas Stockmayer</person></persons>
 </event>
 </room>
 
