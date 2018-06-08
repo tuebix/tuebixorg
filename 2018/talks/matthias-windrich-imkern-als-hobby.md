@@ -19,4 +19,4 @@ Treffpunkt um 14:30 bzw. 15:00 am Info-Stand.
 
 ### Über mich
 
-Ich bin seit 2013 Hobbyimker und versuche seither mein Wissen zu mehren. Momentan imkere ich mit 9 Völkern im Raum Ammerbuch und habe mich auch schon an der Zucht von Königinnen versucht.
+Ich bin seit 2013 Hobbyimker und versuche seither mein Wissen zu mehren. Momentan imkere ich mit 13 Völkern im Raum Ammerbuch und habe mich auch schon an der Zucht von Königinnen versucht.
