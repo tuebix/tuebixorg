@@ -74,7 +74,6 @@ menu: main
 <tr><td>11:30</td><td>bis&nbsp;12:00</td><td><a class="talk"></a></td><td><a href="../programm/thomas-rauch-das-tuebinger-80cm-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Thomas&nbsp;Rauch</td></tr>
 <tr><td>13:00</td><td>bis&nbsp;13:30</td><td><a class="talk"></a></td><td><a href="../programm/thomas-rauch-das-tuebinger-80cm-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Thomas&nbsp;Rauch</td></tr>
 <tr><td>13:30</td><td>bis&nbsp;14:00</td><td><a class="talk"></a></td><td><a href="../programm/thomas-rauch-das-tuebinger-80cm-teleskop">Das&nbsp;Tübinger&nbsp;80cm-Teleskop</a></td><td>Thomas&nbsp;Rauch</td></tr>
-
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td>Raum LPIC</td></tr>
 <tr><td>12:00</td><td></td><td><a class="lpic"></a></td><td><a href="../../lpic">LPIC-Prüfungsblock&nbsp;1</a></td><td></td></tr>
@@ -83,4 +82,7 @@ menu: main
 <tr><td></td><td></td><td></td><td>Raum Mini-FrogLabs</td></tr>
 <tr><td>10:00</td><td></td><td><a class="work"></a></td><td><a href="../../kinder">Kinderprogramm Mini-FrogLabs</a></td><td>Teckids e.V.</td></tr>
 <tr><td>&nbsp;</td></tr>
+<tr><td></td><td></td><td></td><td>Bienen</td></tr>
+<tr><td>14:30</td><td>bis&nbsp;14:50</td><td><a class="talk"></a></td><td><a href="../programm/matthias-windrich-imkern-als-hobby/">Imkern&nbsp;alsn&nbsp;Hobby</a></td><td>Matthias&nbsp;Windrich</td></tr>
+<tr><td>15:00</td><td>bis&nbsp;15:20</td><td><a class="talk"></a></td><td><a href="../programm/matthias-windrich-imkern-als-hobby/">Imkern&nbsp;alsn&nbsp;Hobby</a></td><td>Matthias&nbsp;Windrich</td></tr>
 </table>
