@@ -7,14 +7,14 @@
 set -o errexit
 set -o nounset
 
-if [[ $# -ne 2 ]]; then
-  echo "Usage: $(basename $0) ROWS COLUMNS"
-  echo "Got $# arguments, expecting 2 arguments"
+if [[ $# -lt 1 || $# -gt 2 ]]; then
+  echo "Usage: $(basename $0) ROWS [COLUMNS]"
+  echo "Got $# arguments, expecting 1 or 2 arguments"
   exit 1
 fi
 
 ROWS="$1"
-COLUMNS="$2"
+COLUMNS="${PARAMETER:-8}"
 
 ROW=`shuf --input-range=1-$ROWS --head-count=1`
 SEAT=`shuf --input-range=1-$COLUMNS --head-count=1`
