@@ -4,6 +4,11 @@
 # $1 rows
 # $2 seats per row
 
+if [[ $argc -ne 2 ]]; then
+  echo "Usage: $(basename $0) ROWS COLUMNS"
+  exit 1
+fi
+
 ROWS="$1"
 COLUMNS="$2"
 
