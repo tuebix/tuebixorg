@@ -114,7 +114,7 @@ padding-right: 8px;
 <tr><td>16:00</td>
 <td rowspan="4"><a class="work" href="../programm/stefan-klemm-linux-und-business">Linux und Business</a></td>
 <td rowspan="4"><a class="work" href="../programm/mark-schmidt-andreas-stockmayer-gentoo-installparty">Gentoo Installparty</a></td>
-<td rowspan="2"></td>
+<td rowspan="2"><a class="work" href="../programm/robert-eisele-befreiung-aus-der-digitalen-unmuendigkeit">Befreiung!</a></td>
 <td rowspan="2"><a class="talk" href="../programm/gerhard-klostermeier-rfid-nfc-grundlagen">RFID+NFC</a></td>
 <td>            <a class="talk" href="../programm/daniel-kobras-zfs-encryption-sichere-datenhaltung-in-der-cloud">ZFS</a></td>
 <td rowspan="4"></td>
