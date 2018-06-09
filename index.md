@@ -2,25 +2,21 @@
 layout: default
 ---
 
-**News:** Der Tübix 2018 findet am Samstag, dem **9. Juni 2018** statt.
-- <a href="2018/flyer-web.pdf">Flyer</a> schonmal vorab, aber wir haben genug Exemplare fuer euch ausgedruckt
-- giggity klappt endlich![^1]
-- Das <a href="2018/programm/">Programm</a> steht fest.
-- Der [Call for Helpers](callforhelpers/) ist eröffnet.
-- Lightning Talks können noch über den [Call for Papers](callforpapers/)
-  eingereicht werden.
 
-[^1]: Sollte out-of-the-box funktionieren, falls nicht: https://tuebix.org/2018/giggity.xml
 
-<!--
-{{ site.title }} ist ein
+Tübix ist ein
 <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a>
-und fand 2015, 2016 und 2017 jeweils im Juni in
+und fand 2015, 2016, 2017 und 2018 jeweils im Juni in
 <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a>
 statt.<br/>
-Sobald der Termin für 2018 steht wird er über den
+Sobald der Termin für 2019 steht wird er über den
 <a href="../newsletter/">Newsletter</a> bekannt gegeben.
--->
+
+<br/>
+  <span style="font-weight: bold; color:#FF0000;">
+  WICHTIG: Feedback bitte in dieses Pad eintragen:
+  <a href="https://pad.tuebix.org/p/2018-exit" target="_blank">https://pad.tuebix.org/p/2018-exit</a>
+<br/>
 
 <br/>
 ![Tux](images/tux.png "Tux")
