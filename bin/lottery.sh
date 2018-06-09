@@ -4,8 +4,12 @@
 # $1 rows
 # $2 seats per row
 
-if [[ $argc -ne 2 ]]; then
+set -o errexit
+set -o nounset
+
+if [[ $# -ne 2 ]]; then
   echo "Usage: $(basename $0) ROWS COLUMNS"
+  echo "Got $# arguments, expecting 2 arguments"
   exit 1
 fi
 
