@@ -6,20 +6,25 @@ weight:
 menu:
 ---
 
-# Organisationsteam Tübix 2018
+# Organisationsteam Tübix 2019
 
 * Jonas Benn
 * Christian Brauner
 * Holger Gantikow
 * Florian Heimgärtner
 * Jan-Peter Hohloch
-* Justin Humm
 * Eva Charlotte Mayer
-* Christoph Prokop
-* Gunnar Schmidt
 * Roman Schulte
 * Tobias Stumpp
 * Michael Weiss
+
+# ehemalige Organisatoren
+
+* Felix Bauer
+* Knut Franke
+* Justin Humm
+* Christoph Prokop
+* Gunnar Schmidt
 
 # Technische Umsetzung dieser Webseite
 <a href="http://jekyllrb.com/" target="_blank">jekyll</a> und <a href="https://pages.github.com" target="_blank">github pages</a>
