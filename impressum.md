@@ -24,14 +24,15 @@ menu:
 * Knut Franke
 * Justin Humm
 * Christoph Prokop
+* Matthias Reisenauer
 * Gunnar Schmidt
 
 # Technische Umsetzung dieser Webseite
 <a href="http://jekyllrb.com/" target="_blank">jekyll</a> und <a href="https://pages.github.com" target="_blank">github pages</a>
 
 # Ansprechpartner für diese Webseite<br />
-Christoph Prokop<br />
-Herrenberger Str. 37<br />
-72070 T&uuml;bingen<br />
+Roman Schulte<br />
+Bebenhäuser Str. 17/1<br />
+72074 Tübingen<br />
 [{{ site.email }}](mailto:{{ site.email }})<br />
-07071 / 1471028<br />
+Tel.: +49 176 4576 6053<br />
