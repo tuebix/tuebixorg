@@ -13,12 +13,6 @@ Sobald der Termin für 2019 steht wird er über den
 <a href="newsletter/">Newsletter</a> bekannt gegeben.
 
 <br/>
-  <span style="font-weight: bold; color:#FF0000;">
-  WICHTIG: Feedback bitte in dieses Pad eintragen:
-  <a href="https://pad.tuebix.org/p/2018-exit" target="_blank">https://pad.tuebix.org/p/2018-exit</a>
-<br/>
-
-<br/>
 ![Tux](images/tux.png "Tux")
 <br/>
 
