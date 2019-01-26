@@ -22,7 +22,7 @@ Der Tübix könnte etwas für dich sein, falls du:
 * ... anderen etwas zeigen oder beibringen möchtest
 * ... Experte / Profi / Veteran / Meister bist
 * ... Neuling / Einsteiger / Umsteiger / Interessent bist
-* ... nebenbei ein <a href="http://www.wsi.uni-tuebingen.de/fachbereich/wilhelm-schickard-institut-fuer-informatik/computermuseum.html">Computermuseum</a> besuchen möchtest
+* ... nebenbei ein <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/fachbereich/geschichtliches/computermuseum.html">Computermuseum</a> besuchen möchtest
 * ... nebenbei ein <a href="2018/programm/thomas-rauch-das-tuebinger-80cm-teleskop/">80cm-Teleskop</a> ansehen möchtest
 
 <!--
