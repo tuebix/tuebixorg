@@ -23,5 +23,8 @@ Wir werden nicht mehr als 6 Mails im Jahr schreiben:
 
 Die Anmeldung erfolgt per Mail an
 [tuebix-news-subscribe@fsi.uni-tuebingen.de](mailto:tuebix-news-subscribe@fsi.uni-tuebingen.de?subject=Subscribe)
-oder über das Web-Interface:<br/>
+oder über das Web-Interface:
 <a href="https://www.fsi.uni-tuebingen.de/mailman/listinfo/tuebix-news" target="_blank">https://www.fsi.uni-tuebingen.de/mailman/listinfo/tuebix-news</a>
+
+Das Archiv ist öffentlich einsehbar:
+<a href="https://www.fsi.uni-tuebingen.de/pipermail/tuebix-news/" target="_blank">https://www.fsi.uni-tuebingen.de/pipermail/tuebix-news/</a>
