@@ -19,5 +19,5 @@ Software Entwickler bei Red Hat
 
 ### Links
 
-- <a href="http://openhpc.community/" target="_blank">OpenHPC</a>
+- <a href="https://web.archive.org/web/20190309204837/http://openhpc.community/" target="_blank">OpenHPC</a>
 - <a href="https://lisas.de/~adrian/?p=1309" target="_blank">OpenHPC: Building Blocks</a>
