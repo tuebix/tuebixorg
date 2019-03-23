@@ -13,8 +13,8 @@ task :test do
     :file_ignore => [/^_site\/201[5-7]\//],
     :typhoeus => {
       :followlocation => true,
-      :connecttimeout => 30,
-      :timeout => 45,
+      :connecttimeout => 90,
+      :timeout => 120,
       :ssl_verifypeer => false,
       :ssl_verifyhost => 0
     }
