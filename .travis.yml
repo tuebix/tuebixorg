@@ -16,5 +16,5 @@ branches:
 
 script:
   - set -o errexit
-  - bundle exec jekyll build
-  - bundle exec rake
+  - time bundle exec jekyll build
+  - time bundle exec rake

@@ -6,15 +6,12 @@ desc "Test the HTML files"
 task :test do
   options = {
     :alt_ignore => [/.*/],
-    # TODO: Remove cfp.tuebix.org
-    # F-Droid: We'll ignore the links because the site is way to slow
-    # (connection timeouts) and the links should be stable.
-    :url_ignore => [/^http:\/\/tuebix2015\.titanpad\.com/,/^\.\.\/2015\/programm\//,/^(#)$/,/cfp.tuebix.org/,/f-droid.org/],
+    :url_ignore => [/^http:\/\/tuebix2015\.titanpad\.com/,/^\.\.\/2015\/programm\//,/^(#)$/],
     :file_ignore => [/^_site\/201[5-7]\//],
     :typhoeus => {
       :followlocation => true,
-      :connecttimeout => 90,
-      :timeout => 120,
+      :connecttimeout => 300,
+      :timeout => 600,
       :ssl_verifypeer => false,
       :ssl_verifyhost => 0
     }
