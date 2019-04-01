@@ -10,7 +10,11 @@ und fand 2015, 2016, 2017 und 2018 jeweils im Juni in
 <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a>
 statt.<br/>
 
-**News:** Der Tübix 2019 findet am Samstag, dem 6. Juli 2019 statt.
+**News:**
+<ul>
+  <li>Der Tübix 2019 findet am Samstag, dem 6. Juli 2019 statt.</li>
+  <li>Der <a href="callforpapers/">Call for Papers</a> ist eröffnet.</li>
+</ul>
 
 <br/>
 ![Tux](images/tux.png "Tux")

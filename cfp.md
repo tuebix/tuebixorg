@@ -4,7 +4,7 @@ title: Call for Papers
 permalink: /callforpapers/
 emailcfp: cfp2019@tuebix.org
 weight: 10
-menu:
+menu: main
 ---
 
 Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brauchen wir DICH!
