@@ -9,11 +9,13 @@ menu:
 # Organisationsteam Tübix 2019
 
 * Jonas Benn
+* Matthias Beyer
 * Christian Brauner
 * Holger Gantikow
 * Florian Heimgärtner
 * Jan-Peter Hohloch
 * Eva Charlotte Mayer
+* Gabriel Paradzik
 * Roman Schulte
 * Tobias Stumpp
 * Michael Weiss
