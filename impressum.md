@@ -8,25 +8,26 @@ menu:
 
 # Organisationsteam Tübix 2019
 
-* Jonas Benn
 * Matthias Beyer
 * Christian Brauner
 * Holger Gantikow
 * Florian Heimgärtner
-* Jan-Peter Hohloch
-* Eva Charlotte Mayer
 * Gabriel Paradzik
 * Roman Schulte
 * Tobias Stumpp
 * Michael Weiss
 
-# ehemalige Organisatoren
+# Ehemalige Organisatoren
 
 * Felix Bauer
+* Jonas Benn
 * Knut Franke
+* Jan-Peter Hohloch
 * Justin Humm
+* Eva Charlotte Mayer
 * Christoph Prokop
 * Matthias Reisenauer
+* Joachim Schiele
 * Gunnar Schmidt
 
 # Technische Umsetzung dieser Webseite
