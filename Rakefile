@@ -14,7 +14,8 @@ task :test do
       :timeout => 600,
       :ssl_verifypeer => false,
       :ssl_verifyhost => 0
-    }
+    },
+    :only_4xx => true,
   }
   HTMLProofer.check_directory("_site", options).run
 end
