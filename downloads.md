@@ -6,7 +6,7 @@ weight: 15
 menu: main
 ---
 
-# 2018 (WIP)
+# 2018
 
 - Programm:   <a href="/2018/programm/">https://www.tuebix.org/2018/programm/</a>
 - PDF-Index:  <a href="https://tuebix.github.io/tuebix-downloads-2018/">https://tuebix.github.io/tuebix-downloads-2018/</a>
