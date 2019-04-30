@@ -9,6 +9,7 @@ Tübix ist ein
 und fand 2015, 2016, 2017 und 2018 jeweils im Juni in
 <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a>
 statt.<br/>
+Die Folien (pdf) und Tonspuren (ogg) der Beiträge von 2015-2018 sind unter <a href="../downloads/">Downloads/Archiv</a> zu finden.
 
 **News:**
 <ul>
@@ -17,7 +18,7 @@ statt.<br/>
 </ul>
 
 <br/>
-![Tux](images/tux.png "Tux")
+![Tuex](images/tuex.png "Tuex")
 <br/>
 
 Der Tübix könnte etwas für dich sein, falls du:
@@ -34,9 +35,6 @@ Der Tübix könnte etwas für dich sein, falls du:
 -->
 
 Der Eintritt ist frei, dafür <a href="callforhelpers/">hilft jeder ein bisschen mit</a>.
-
-<!--
-Die Folien (pdf) und Tonspuren (ogg) der Beiträge von 2015 sind unter <a href="../downloads/">Downloads(2015)</a> zu finden.
 
 ## Richtigstellung
 Tübix ist keineswegs der "1. Tübinger Linuxtag"!<br/>
