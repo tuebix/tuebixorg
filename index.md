@@ -9,7 +9,7 @@ Tübix ist ein
 und fand 2015-2018 jeweils im Juni in
 <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a>
 statt.<br/>
-Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="../downloads/">Downloads/Archiv</a> zu finden.
+Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 
 **News:**
 <ul>
