@@ -14,7 +14,7 @@ Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="d
 **News:**
 <ul>
   <li>Der Tübix 2019 findet am Samstag, 6. Juli 2019 statt.</li>
-  <li>Der <a href="callforpapers/">Call for Papers</a> endet am 1. Mai.</li>
+  <li>Lightning Talks können noch bis zum Tübix <a href="callforpapers/">hier</a> eingereicht werden.</li>
 </ul>
 
 <br/>
