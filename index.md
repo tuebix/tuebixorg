@@ -18,7 +18,7 @@ Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href=".
 </ul>
 
 <br/>
-![Tuex](images/tuex.png "Tuex")
+![Tüx](images/tuex.png "Tüx")
 <br/>
 
 Tübix könnte etwas für dich sein, falls du:
