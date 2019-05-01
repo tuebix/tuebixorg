@@ -4,7 +4,7 @@ layout: default
 
 
 
-Tübix ist ein
+Der Tübix ist ein
 <a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a>
 und fand 2015-2018 jeweils im Juni in
 <a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a>
@@ -13,7 +13,7 @@ Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="d
 
 **News:**
 <ul>
-  <li>Tübix 2019 findet am Samstag, 6. Juli 2019 statt.</li>
+  <li>Der Tübix 2019 findet am Samstag, 6. Juli 2019 statt.</li>
   <li>Der <a href="callforpapers/">Call for Papers</a> endet am 1. Mai.</li>
 </ul>
 
@@ -21,7 +21,7 @@ Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="d
 ![Tüx](images/tuex.png "Tüx")
 <br/>
 
-Tübix könnte etwas für dich sein, falls du:
+Der Tübix könnte etwas für dich sein, falls du:
 
 * ... von anderen etwas dazulernen möchtest
 * ... anderen etwas zeigen oder beibringen möchtest
@@ -38,6 +38,6 @@ Der Eintritt ist frei, dafür <a href="callforhelpers/">hilft jeder ein bisschen
 <br/>
 
 ## Richtigstellung
-Tübix ist keineswegs der "1. Tübinger Linuxtag"...<br/>
-Mehr dazu unter  <a href="http://tuebingen.linux.de/old/" target="_blank">tuebingen.linux.de/old/</a>
 
+Der Tübix ist keineswegs der "1. Tübinger Linuxtag"...<br/>
+Mehr dazu unter  <a href="http://tuebingen.linux.de/old/" target="_blank">tuebingen.linux.de/old/</a>
