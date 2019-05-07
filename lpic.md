@@ -39,7 +39,7 @@ Prüfung LPI 198 | Prüfung 198: Univention Professional Zertifizierung | 85 €
 
 ## Ablauf
 
-Die Prüfungen finden am Samstag, den 09.06.18 jeweils um 12:00 Uhr und 14:00 Uhr statt.
+Die Prüfungen finden am Samstag, den 06.07.19 jeweils um 12:00 Uhr und 14:00 Uhr statt.
 WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte 20 Minuten vorher (also 11:40 bzw. 13:40) an den Info-Stand kommen, dann wird die Prüfungsgruppe zum Raum begleitet.
 Die Auswahl der Sprache erfolgt bei der Anmeldung. Der Betrag muss vor Ort in bar entrichtet werden.
 Die Prüfung wird in Papierform durchgeführt. Das Ergebnis kommt nach Korrektur ca. vier Wochen später per E-Mail. Bei einer abgeschlossenen Zertifizierungsstufe werden die offiziellen Unterlagen per Briefpost zugestellt.
