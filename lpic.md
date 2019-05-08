@@ -31,7 +31,7 @@ Prüfung LPI 300 | Prüfung 300: Mixed Enviroment | 90 € | Englisch<br/>
 Prüfung LPI 303 | Prüfung 303: Security | 90 € | Englisch<br/>
 Prüfung LPI 304 | Prüfung 304: Virtualization and High Availability | 90 € | Englisch
 
-#### LPIC-OT DevOps Tools Engineer
+#### Linux Professional Institute DevOps Tools Engineer 
 Prüfung LPI 701 | Prüfung 701 : DevOps Tools Engineer | 90€ | Englisch
 
 #### Certification (UVCP)
