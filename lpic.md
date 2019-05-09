@@ -2,8 +2,8 @@
 layout: page
 title: LPIC
 permalink: /lpic/
-weight: 47
-menu:
+weight: 20
+menu: main
 ---
 
 Das Linux Professional Institute – LPI hat es sich zur Aufgabe gemacht, international anerkannte Qualifizierungsstandards für Linux und Freie Software zu entwickeln. Ziel ist die Unterstützung und Förderung eines professionellen Umgangs mit dieser Software.
