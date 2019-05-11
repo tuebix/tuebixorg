@@ -82,7 +82,7 @@ menu:
 <tr><td>14:00</td><td></td><td></td><td><a class="lpic"></a></td><td><a href="../lpic">Prüfungstermin 2</a></td><td>LPI</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Observatorium</td></tr>
-<tr><td>34:00</td><td></td><td></td><td><a class="lpic"></a></td><td><a href="">Teleskopführung</a></td><td>Thomas Rauch</td></tr>
+<tr><td>34:00</td><td></td><td></td><td><a class="talk"></a></td><td><a href="">Teleskopführung</a></td><td>Thomas Rauch</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Raum Mini-FrogLabs</td></tr>
 <tr><td>10:00</td><td></td><td></td><td><a class="work"></a></td><td><a href="../../kinder">Kinderprogramm Mini-FrogLabs</a></td><td>Teckids e.V.</td></tr>
