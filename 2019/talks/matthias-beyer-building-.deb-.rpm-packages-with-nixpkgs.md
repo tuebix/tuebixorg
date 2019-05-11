@@ -1,0 +1,19 @@
+---
+layout: talk
+title:
+permalink: /2017/programm/matthias-beyer-building-.deb-.rpm-packages-with-nixpkgs/
+weight:
+menu:
+---
+## Building .deb/.rpm packages with nixpkgs
+
+### <img height = "32" src="../../../images/lightning.svg"> 33:00 bis 34:00 in Raum V3
+
+### Matthias Beyer
+
+Ich erzähle wie ich versucht habe mit nixpkgs debian-/rpm-Pakete zu bauen.
+
+### Vorwissen
+
+Verständnis von Paketierung unter Linux-Derivaten, NixOS/nixpkgs
+
