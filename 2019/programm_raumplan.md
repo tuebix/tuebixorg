@@ -7,20 +7,20 @@ menu:
 ---
 
 <table>
-<tr><td></td><td></td><td></td><td></td><td></td><td>Raum W1</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>Raum W1</td></tr>
 <tr><td>10:00</td><td>bis</td><td>11:50</td><td><a class="work"></a></td><td><a href="../programm/philipp-kammerer-einstieg-in-nonlinearen-videoschnitt-mit-kdenlive">Einstieg&nbsp;in&nbsp;nonlinearen&nbsp;Videoschnitt&nbsp;mit&nbsp;kdenlive</a></td><td>Philipp&nbsp;Kammerer</td></tr>
 <tr><td>12:00</td><td>bis</td><td>13:50</td><td><a class="work"></a></td><td><a href="../programm/andreas-mundt-debian-automatisch-installieren-mit-di-netboot-assistant">Debian&nbsp;automatisch&nbsp;installieren&nbsp;mit&nbsp;di-netboot-assistant</a></td><td>Andreas&nbsp;B.&nbsp;Mundt</td></tr>
 <tr><td>14:00</td><td>bis</td><td>15:50</td><td><a class="work"></a></td><td><a href="../programm/philipp-kammerer-3d-grafik-und-animation-mit-blender">3D-Grafik&nbsp;und&nbsp;Animation&nbsp;mit&nbsp;Blender</a></td><td>Philipp&nbsp;Kammerer</td></tr>
 <tr><td>16:00</td><td>bis</td><td>17:50</td><td><a class="work"></a></td><td><a href="../programm/mark-schmidt-andreas-stockmayer-gentoo-installparty">Gentoo&nbsp;Installparty</a></td><td>Mark&nbsp;Schmidt,&nbsp;Andreas&nbsp;Stockmayer</td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td><td></td></td><td></td><td></td><td></td><td>Raum W2</td></tr>
+<tr>/td></td><td></td><td></td><td></td><td>Raum W2</td></tr>
 <tr><td>10:00</td><td>bis</td><td>11:50</td><td><a class="work"></a></td><td><a href="../programm/toni-zimmer-vim-fuer-einsteiger">Vim&nbsp;für&nbsp;Einsteiger</a></td><td>Toni&nbsp;Zimmer</td></tr>
 <tr><td>12:00</td><td>bis</td><td>13:50</td><td><a class="work"></a></td><td><a href="../programm/erich-waelde-anstaendiges-werkzeug-emacs">Anständiges&nbsp;Werkzeug:&nbsp;emacs</a></td><td>Erich&nbsp;Wälde</td></tr>
 <tr><td>14:00</td><td>bis</td><td>15:50</td><td><a class="work"></a></td><td><a href="../programm/anton-mueller-aur-packages-selbst-mit-hilfe-von-docker-bauen-testen-und-veroeffentlichen">AUR-Packages&nbsp;selbst&nbsp;mit&nbsp;Hilfe&nbsp;von&nbsp;Docker&nbsp;bauen,&nbsp;testen&nbsp;und&nbsp;veröffentlichen</a></td><td>Anton&nbsp;Müller</td></tr>
 <tr><td>16:00</td><td>bis</td><td>16:50</td><td><a class="talk"></a></td><td><a href="../programm/werner-heuser-linux-zertifizierungen-ein-ueberblick">"Linux"&nbsp;Zertifizierungen&nbsp;-&nbsp;Ein&nbsp;Überblick</a></td><td>Werner&nbsp;Heuser</td></tr>
 <tr><td>17:00</td><td>bis</td><td>17:50</td><td><a class="talk"></a></td><td><a href="../programm/michael-stroeder-openssh-certificates">OpenSSH&nbsp;Certificates</a></td><td>Michael&nbsp;Ströder</td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td><td></td></td><td></td><td></td><td></td><td>Raum V1</td></tr>
+<tr>/td></td><td></td><td></td><td></td><td>Raum V1</td></tr>
 <tr><td>09:30</td><td>bis</td><td>09:50</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-init">Tübix init</a></td><td>Tübix Orga Team</td></tr>
 <tr><td>10:00</td><td>bis</td><td>10:50</td><td><a class="talk"></a></td><td><a href="../programm/thorsten-leemhuis-aktuelle-entwicklungen-beim-linux-kernel">Aktuelle&nbsp;Entwicklungen&nbsp;beim&nbsp;Linux-Kernel</a></td><td>Thorsten&nbsp;Leemhuis</td></tr>
 <tr><td>11:00</td><td>bis</td><td>11:50</td><td><a class="talk"></a></td><td><a href="../programm/michael-sperber-programmieren-lehren-lernen">Programmieren&nbsp;lehren&nbsp;lernen</a></td><td>Michael&nbsp;Sperber</td></tr>
@@ -35,7 +35,7 @@ menu:
 <tr><td>18:00</td><td>bis</td><td>18:15</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-exit">Tübix exit</a></td><td>Tübix Orga Team</td></tr>
 <tr><td>18:15</td><td>bis</td><td>19:15</td><td><a class="talk"></a></td><td><a href="../programm/lennart-poettering-boot-loader-spec-+-sd-boot">Boot&nbsp;Loader&nbsp;Spec&nbsp;+&nbsp;sd-boot</a></td><td>Lennart&nbsp;Poettering</td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td><td></td></td><td></td><td></td><td></td><td>Raum V2</td></tr>
+<tr>/td></td><td></td><td></td><td></td><td>Raum V2</td></tr>
 <tr><td>10:00</td><td>bis</td><td>10:50</td><td><a class="talk"></a></td><td><a href="../programm/stefan-baur-x2go-in-der-google-cloud-kostenlos-und-oder-anonym-wie-geht-das">X2Go&nbsp;in&nbsp;der&nbsp;Google&nbsp;Cloud,&nbsp;kostenlos&nbsp;und/oder&nbsp;anonym&nbsp;-&nbsp;wie&nbsp;geht&nbsp;das?</a></td><td>Stefan&nbsp;Baur</td></tr>
 <tr><td>11:00</td><td>bis</td><td>11:50</td><td><a class="talk"></a></td><td><a href="../programm/andreas-mundt-debian-ausrollen-und-konfigurieren-di-netboot-assistant-pxe-und-ansible">Debian&nbsp;ausrollen&nbsp;und&nbsp;konfigurieren:&nbsp;di-netboot-assistant,&nbsp;PXE&nbsp;und&nbsp;ansible</a></td><td>Andreas&nbsp;B.&nbsp;Mundt</td></tr>
 <tr><td>12:00</td><td>bis</td><td>12:50</td><td><a class="talk"></a></td><td><a href="../programm/lukas-kallies-linux-wartung-in-buzzword-zeiten">Linux-Wartung&nbsp;in&nbsp;Buzzword-Zeiten</a></td><td>Lukas&nbsp;Kallies</td></tr>
@@ -46,7 +46,7 @@ menu:
 <tr><td>17:00</td><td>bis</td><td>17:20</td><td><a class="talk"></a></td><td><a href="../programm/sonja-goettler-scrum-agile-softwareentwicklung-best-practices">scrum?&nbsp;agile&nbsp;Softwareentwicklung?&nbsp;Best&nbsp;Practices</a></td><td>Sonja&nbsp;Göttler</td></tr>
 <tr><td>17:30</td><td>bis</td><td>17:50</td><td><a class="talk"></a></td><td><a href="../programm/arnd-bergmann-the-end-of-time-19-years-to-go">The&nbsp;End&nbsp;of&nbsp;Time,&nbsp;19&nbsp;years&nbsp;to&nbsp;go</a></td><td>Arnd&nbsp;Bergmann</td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td><td></td></td><td></td><td></td><td></td><td>Raum V3</td></tr>
+<tr>/td></td><td></td><td></td><td></td><td>Raum V3</td></tr>
 <tr><td>10:00</td><td>bis</td><td>10:50</td><td><a class="talk"></a></td><td><a href="../programm/helmut-stult-manjaro-linux-enjoy-the-simplicity">Manjaro&nbsp;Linux&nbsp;-&nbsp;ENJOY&nbsp;THE&nbsp;SIMPLICITY</a></td><td>Helmut&nbsp;Stult</td></tr>
 <tr><td>11:00</td><td>bis</td><td>11:50</td><td><a class="talk"></a></td><td><a href="../programm/frank-hofmann-harald-koenig-sieben-bruecken.-fahrtenbuch-mit-skripten-auslesen.-beginn:">Sieben&nbsp;Brücken.&nbsp;Fahrtenbuch&nbsp;mit&nbsp;Skripten&nbsp;auslesen.&nbsp;Beginn:</a></td><td>Frank&nbsp;Hofmann&nbsp;+&nbsp;Harald&nbsp;König</td></tr>
 <tr><td>12:00</td><td>bis</td><td>12:50</td><td><a class="talk"></a></td><td><a href="../programm/harald-koenig-den-flaschenhals-in-einer-langsamen-pipe-optimiern-durch-parallelisierung-">Den&nbsp;Flaschenhals&nbsp;in&nbsp;einer&nbsp;langsamen&nbsp;Pipe&nbsp;optimiern&nbsp;durch&nbsp;Parallelisierung&nbsp;</a></td><td>Harald&nbsp;König</td></tr>
@@ -66,7 +66,7 @@ menu:
 <tr><td>17:00</td><td>bis</td><td>17:20</td><td><a class="talk"></a></td><td><a href="../programm/robert-scheck-schonmal-systemd-networkd-ausprobiert">Schonmal&nbsp;systemd-networkd&nbsp;ausprobiert?</a></td><td>Robert&nbsp;Scheck</td></tr>
 <tr><td>17:30</td><td>bis</td><td>17:50</td><td><a class="talk"></a></td><td><a href="../programm/matthias-kurz-mastodon-die-geschichte-vom-tooten-und-boosten">Mastodon&nbsp;-&nbsp;Die&nbsp;Geschichte&nbsp;vom&nbsp;tooten&nbsp;und&nbsp;boosten</a></td><td>Matthias&nbsp;Kurz</td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td><td></td></td><td></td><td></td><td></td><td>Raum V4</td></tr>
+<tr>/td></td><td></td><td></td><td></td><td>Raum V4</td></tr>
 <tr><td>10:00</td><td>bis</td><td>10:50</td><td><a class="talk"></a></td><td><a href="../programm/tilman-kranz-vpns-einrichten-und-benutzen">VPNs&nbsp;einrichten&nbsp;und&nbsp;benutzen</a></td><td>Tilman&nbsp;Kranz</td></tr>
 <tr><td>11:00</td><td>bis</td><td>11:50</td><td><a class="talk"></a></td><td><a href="../programm/christoph-zimmermann-redis-ist-10">Redis&nbsp;ist&nbsp;10!</a></td><td>Dr.&nbsp;Christoph&nbsp;Zimmermann</td></tr>
 <tr><td>12:00</td><td>bis</td><td>12:50</td><td><a class="talk"></a></td><td><a href="../programm/daniel-kobras-dateidienste-sicher-und-alltagstauglich">Dateidienste&nbsp;-&nbsp;sicher&nbsp;und&nbsp;alltagstauglich</a></td><td>Daniel&nbsp;Kobras</td></tr>
@@ -77,16 +77,16 @@ menu:
 <tr><td>17:00</td><td>bis</td><td>17:20</td><td><a class="talk"></a></td><td><a href="../programm/andré-niemann-der-datenreisende-unterwegs">Der&nbsp;Datenreisende&nbsp;unterwegs</a></td><td>André&nbsp;Niemann</td></tr>
 <tr><td>17:30</td><td>bis</td><td>17:50</td><td><a class="talk"></a></td><td><a href="../programm/felix-bauer-peekabooav-der-weg-zu-version-2.0">PeekabooAV&nbsp;-&nbsp;der&nbsp;Weg&nbsp;zu&nbsp;Version&nbsp;2.0</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td><td></td></td><td></td><td></td><td></td><td>LPIC-Prüfungsraum</td></tr>
+<tr>/td></td><td></td><td></td><td></td><td>LPIC-Prüfungsraum</td></tr>
 <tr><td>12:00</td><td></td><td></td><td><a class="lpic"></a></td><td><a href="../lpic">Prüfungstermin 1</a></td><td>LPI</td></tr>
 <tr><td>14:00</td><td></td><td></td><td><a class="lpic"></a></td><td><a href="../lpic">Prüfungstermin 2</a></td><td>LPI</td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td><td></td></td><td></td><td></td><td></td><td>Observatorium</td></tr>
+<tr>/td></td><td></td><td></td><td></td><td>Observatorium</td></tr>
 <tr><td>34:00</td><td></td><td></td><td><a class="lpic"></a></td><td><a href="">Teleskopführung</a></td><td>Thomas Rauch</td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td><td></td></td><td></td><td></td><td></td><td>Raum Mini-FrogLabs</td></tr>
+<tr>/td></td><td></td><td></td><td></td><td>Raum Mini-FrogLabs</td></tr>
 <tr><td>10:00</td><td></td><td></td><td><a class="work"></a></td><td><a href="../../kinder">Kinderprogramm Mini-FrogLabs</a></td><td>Teckids e.V.</td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td><td></td></td><td></td><td></td><td></td><td>Garten</td></tr>
+<tr>/td></td><td></td><td></td><td></td><td>Garten</td></tr>
 <tr><td>23:00</td><td>bis</td><td>24:00</td><td><a class="talk"></a></td><td><a href="../programm/matthias-windrich-imkern-als-hobby">Imkern&nbsp;als&nbsp;Hobby</a></td><td>Matthias&nbsp;Windrich</td></tr>
 </table>
