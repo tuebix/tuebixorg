@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/helmut-stult-manjaro-linux-enjoy-the-simplicity/
+permalink: /2019/programm/helmut-stult-manjaro-linux-enjoy-the-simplicity/
 weight:
 menu:
 ---

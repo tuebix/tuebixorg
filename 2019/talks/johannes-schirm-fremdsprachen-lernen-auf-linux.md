@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/johannes-schirm-fremdsprachen-lernen-auf-linux/
+permalink: /2019/programm/johannes-schirm-fremdsprachen-lernen-auf-linux/
 weight:
 menu:
 ---

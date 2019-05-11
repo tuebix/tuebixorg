@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/meffisto-verschluesselung-einer-ssd-mit-luks-und-wie-man-sich-selbst-kompromittieren-kann/
+permalink: /2019/programm/meffisto-verschluesselung-einer-ssd-mit-luks-und-wie-man-sich-selbst-kompromittieren-kann/
 weight:
 menu:
 ---

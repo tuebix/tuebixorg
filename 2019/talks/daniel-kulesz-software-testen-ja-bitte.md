@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/daniel-kulesz-software-testen-ja-bitte/
+permalink: /2019/programm/daniel-kulesz-software-testen-ja-bitte/
 weight:
 menu:
 ---

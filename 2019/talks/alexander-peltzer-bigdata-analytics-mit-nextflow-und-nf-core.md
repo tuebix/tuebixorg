@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/alexander-peltzer-bigdata-analytics-mit-nextflow-und-nf-core/
+permalink: /2019/programm/alexander-peltzer-bigdata-analytics-mit-nextflow-und-nf-core/
 weight:
 menu:
 ---

@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/harald-koenig-den-flaschenhals-in-einer-langsamen-pipe-optimiern-durch-parallelisierung-/
+permalink: /2019/programm/harald-koenig-den-flaschenhals-in-einer-langsamen-pipe-optimiern-durch-parallelisierung-/
 weight:
 menu:
 ---

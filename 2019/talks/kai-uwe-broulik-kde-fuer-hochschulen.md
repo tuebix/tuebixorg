@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/kai-uwe-broulik-kde-fuer-hochschulen/
+permalink: /2019/programm/kai-uwe-broulik-kde-fuer-hochschulen/
 weight:
 menu:
 ---

@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/philipp-kammerer-einstieg-in-nonlinearen-videoschnitt-mit-kdenlive/
+permalink: /2019/programm/philipp-kammerer-einstieg-in-nonlinearen-videoschnitt-mit-kdenlive/
 weight:
 menu:
 ---

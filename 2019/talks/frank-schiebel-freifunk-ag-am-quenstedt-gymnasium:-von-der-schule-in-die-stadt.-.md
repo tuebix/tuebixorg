@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/frank-schiebel-freifunk-ag-am-quenstedt-gymnasium:-von-der-schule-in-die-stadt.-/
+permalink: /2019/programm/frank-schiebel-freifunk-ag-am-quenstedt-gymnasium:-von-der-schule-in-die-stadt.-/
 weight:
 menu:
 ---

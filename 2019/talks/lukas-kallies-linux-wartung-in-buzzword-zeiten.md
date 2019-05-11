@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/lukas-kallies-linux-wartung-in-buzzword-zeiten/
+permalink: /2019/programm/lukas-kallies-linux-wartung-in-buzzword-zeiten/
 weight:
 menu:
 ---

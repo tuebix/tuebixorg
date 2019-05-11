@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/alexander-conzelmann-blitzschnelles-mathe-latex-dank-ultisnips/
+permalink: /2019/programm/alexander-conzelmann-blitzschnelles-mathe-latex-dank-ultisnips/
 weight:
 menu:
 ---

@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/reinhard-mueller-webanwendungen-erstellen-mit-python-sqlalchemy-und-flask/
+permalink: /2019/programm/reinhard-mueller-webanwendungen-erstellen-mit-python-sqlalchemy-und-flask/
 weight:
 menu:
 ---

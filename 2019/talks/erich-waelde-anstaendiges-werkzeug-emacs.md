@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/erich-waelde-anstaendiges-werkzeug-emacs/
+permalink: /2019/programm/erich-waelde-anstaendiges-werkzeug-emacs/
 weight:
 menu:
 ---

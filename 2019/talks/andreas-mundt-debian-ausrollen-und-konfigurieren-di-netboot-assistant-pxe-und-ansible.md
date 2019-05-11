@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/andreas-mundt-debian-ausrollen-und-konfigurieren-di-netboot-assistant-pxe-und-ansible/
+permalink: /2019/programm/andreas-mundt-debian-ausrollen-und-konfigurieren-di-netboot-assistant-pxe-und-ansible/
 weight:
 menu:
 ---

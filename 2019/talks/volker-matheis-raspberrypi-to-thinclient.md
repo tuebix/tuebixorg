@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/volker-matheis-raspberrypi-to-thinclient/
+permalink: /2019/programm/volker-matheis-raspberrypi-to-thinclient/
 weight:
 menu:
 ---

@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/klaus-knopper-das-smarties-projekt-an-der-hs-kl-smarte-geraete-wolkenfrei/
+permalink: /2019/programm/klaus-knopper-das-smarties-projekt-an-der-hs-kl-smarte-geraete-wolkenfrei/
 weight:
 menu:
 ---

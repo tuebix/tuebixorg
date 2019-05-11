@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/matthias-kurz-mastodon-die-geschichte-vom-tooten-und-boosten/
+permalink: /2019/programm/matthias-kurz-mastodon-die-geschichte-vom-tooten-und-boosten/
 weight:
 menu:
 ---

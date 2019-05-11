@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/werner-heuser-linux-zertifizierungen-ein-ueberblick/
+permalink: /2019/programm/werner-heuser-linux-zertifizierungen-ein-ueberblick/
 weight:
 menu:
 ---

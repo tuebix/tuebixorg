@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/rainer-grimm-c++20-die-revolution-geht-weiter/
+permalink: /2019/programm/rainer-grimm-c++20-die-revolution-geht-weiter/
 weight:
 menu:
 ---

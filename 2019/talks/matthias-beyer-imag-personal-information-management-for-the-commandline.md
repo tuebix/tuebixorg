@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/matthias-beyer-imag-personal-information-management-for-the-commandline/
+permalink: /2019/programm/matthias-beyer-imag-personal-information-management-for-the-commandline/
 weight:
 menu:
 ---

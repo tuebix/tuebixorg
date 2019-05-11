@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/axel-beckert-frank-hofmann-schatzsuche:-weniger-bekannte-linux-kommandos/
+permalink: /2019/programm/axel-beckert-frank-hofmann-schatzsuche:-weniger-bekannte-linux-kommandos/
 weight:
 menu:
 ---

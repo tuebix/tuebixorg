@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/klaus-knopper-cloudbusters-wer-kontrolliert-dein-smart-home/
+permalink: /2019/programm/klaus-knopper-cloudbusters-wer-kontrolliert-dein-smart-home/
 weight:
 menu:
 ---

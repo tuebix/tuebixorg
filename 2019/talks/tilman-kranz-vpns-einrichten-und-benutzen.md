@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/tilman-kranz-vpns-einrichten-und-benutzen/
+permalink: /2019/programm/tilman-kranz-vpns-einrichten-und-benutzen/
 weight:
 menu:
 ---

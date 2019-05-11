@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/michael-sperber-programmieren-lehren-lernen/
+permalink: /2019/programm/michael-sperber-programmieren-lehren-lernen/
 weight:
 menu:
 ---

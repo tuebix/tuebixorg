@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/jonas-genannt-smart-home-mit-openhab2/
+permalink: /2019/programm/jonas-genannt-smart-home-mit-openhab2/
 weight:
 menu:
 ---

@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/frieder-strohmaier-wueste-welle-technik-ak-hackspace-mit-bodenkontakt/
+permalink: /2019/programm/frieder-strohmaier-wueste-welle-technik-ak-hackspace-mit-bodenkontakt/
 weight:
 menu:
 ---

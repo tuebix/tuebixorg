@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/reiner-schlotte-hadoop-ist-defekt-das-alphabet-des-grauens/
+permalink: /2019/programm/reiner-schlotte-hadoop-ist-defekt-das-alphabet-des-grauens/
 weight:
 menu:
 ---

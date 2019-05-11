@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/thorsten-leemhuis-aktuelle-entwicklungen-beim-linux-kernel/
+permalink: /2019/programm/thorsten-leemhuis-aktuelle-entwicklungen-beim-linux-kernel/
 weight:
 menu:
 ---

@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/andreas-mundt-debian-automatisch-installieren-mit-di-netboot-assistant/
+permalink: /2019/programm/andreas-mundt-debian-automatisch-installieren-mit-di-netboot-assistant/
 weight:
 menu:
 ---

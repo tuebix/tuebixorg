@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/toni-zimmer-vim-fuer-einsteiger/
+permalink: /2019/programm/toni-zimmer-vim-fuer-einsteiger/
 weight:
 menu:
 ---

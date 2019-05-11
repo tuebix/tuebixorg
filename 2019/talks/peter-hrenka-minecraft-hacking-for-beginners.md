@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/peter-hrenka-minecraft-hacking-for-beginners/
+permalink: /2019/programm/peter-hrenka-minecraft-hacking-for-beginners/
 weight:
 menu:
 ---

@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/arnd-bergmann-the-end-of-time-19-years-to-go/
+permalink: /2019/programm/arnd-bergmann-the-end-of-time-19-years-to-go/
 weight:
 menu:
 ---

@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/stefan-baur-x2go-in-der-google-cloud-kostenlos-und-oder-anonym-wie-geht-das/
+permalink: /2019/programm/stefan-baur-x2go-in-der-google-cloud-kostenlos-und-oder-anonym-wie-geht-das/
 weight:
 menu:
 ---

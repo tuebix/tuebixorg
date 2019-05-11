@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/philipp-kammerer-3d-grafik-und-animation-mit-blender/
+permalink: /2019/programm/philipp-kammerer-3d-grafik-und-animation-mit-blender/
 weight:
 menu:
 ---

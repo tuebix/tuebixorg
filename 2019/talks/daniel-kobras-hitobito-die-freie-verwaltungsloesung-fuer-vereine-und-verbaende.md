@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/daniel-kobras-hitobito-die-freie-verwaltungsloesung-fuer-vereine-und-verbaende/
+permalink: /2019/programm/daniel-kobras-hitobito-die-freie-verwaltungsloesung-fuer-vereine-und-verbaende/
 weight:
 menu:
 ---

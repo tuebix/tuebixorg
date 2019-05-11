@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/robert-scheck-schonmal-systemd-networkd-ausprobiert/
+permalink: /2019/programm/robert-scheck-schonmal-systemd-networkd-ausprobiert/
 weight:
 menu:
 ---

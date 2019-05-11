@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/sonja-goettler-scrum-agile-softwareentwicklung-best-practices/
+permalink: /2019/programm/sonja-goettler-scrum-agile-softwareentwicklung-best-practices/
 weight:
 menu:
 ---

@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/christoph-zimmermann-redis-ist-10/
+permalink: /2019/programm/christoph-zimmermann-redis-ist-10/
 weight:
 menu:
 ---
