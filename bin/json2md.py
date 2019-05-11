@@ -1,8 +1,17 @@
 #!/usr/bin/env python3
 
+"""
+Usage: ./json2md.py
+Converts a JSON document containing all CfP submissions for the Tübix to Markdown files
+Requires: "tuebix-cfp.json" in the current directory
+Creates: A directory "talks" with all talks and a file "programm2.md" in the current directory
+"""
+
 import json
 import sys
-
+import os
+import re
+import urllib.parse
 
 def parse_weblink(weblinks):
 
@@ -21,17 +30,32 @@ def parse_weblink(weblinks):
 
 
 
-with open("talks.json") as talksfile:
+with open("tuebix-cfp.json") as talksfile:
     data = json.load(talksfile)
 
 with open('programm2.md', 'w') as prog2:
-    prog2.write("---\nlayout: page\ntitle: Programm\npermalink: /2017/programmentwurf/\nweight:\nmenu:\n---\n\n<table>\n")
+    prog2.write("---\nlayout: page\ntitle: Programm\npermalink: /2019/programmentwurf/\nweight:\nmenu:\n---\n\n<table>\n")
 
 
 for talk in data:
-    with open('talks/' + talk["urlid"] + '.md', 'w') as mdf, open('programm2.md', 'a') as prog2:
+    # TODO: Change the format for the URL ID? E.g. "name_title" instead of "name-title"?:
+    # Old schema: thomas-rauch-das-tuebinger-80cm-teleskop
+    # Possible new schema: URL encode and e.g. "+" or "_" between the name and title?
+    def normalize_string(string):
+        # TODO: The current implementation is probably not consistent with 2015-2018
+        string = string.replace("/", "")
+        string = string.replace("ä", "ae").replace("ö", "oe").replace("ü", "ue")
+        string = string.replace("Ä", "Ae").replace("Ö", "Oe").replace("Ü", "Ue")
+        string = re.sub(r"[^- A-Za-z0-9]+", '', string) # Whitelist (TODO: Very restrictive!)
+        normalized = re.sub(" +", "-", string.lower().replace("-", ""))
+        # Optional:
+        #urllib.parse.quote(normalized, safe="") # Only as additional precaution
+        return normalized
+    urlid = normalize_string(talk["name"]) + "_" + normalize_string(talk["titel"])
+    os.makedirs("talks", exist_ok=True)
+    with open('talks/' + urlid + '.md', 'w') as mdf, open('programm2.md', 'a') as prog2:
         try:
-            mdf.write("---\nlayout: talk\ntitle:\npermalink: /2017/programm/" + talk["urlid"] + "/\nweight:\nmenu:\n---\n")
+            mdf.write("---\nlayout: talk\ntitle:\npermalink: /2019/programm/" + urlid + "/\nweight:\nmenu:\n---\n")
             mdf.write("## " + talk["titel"] + "\n\n")
             mdf.write('### <img height = "32" src="../../../images/')
             if talk["duration"] == 120:
@@ -59,7 +83,7 @@ for talk in data:
 
 
             #print('<td rowspan="4"><a class="', cssclass, '"><a href="../programm/', talk["urlid"], '">', talk["titel"].replace(' ','&nbsp;'), '</a></td>', file=prog1, sep='')
-            print('<tr><td>', talk["timebegin"], '</td><td><a class="', cssclass, '"></a></td><td><a href="../programm/', talk["urlid"], '">', talk["titel"].replace(' ','&nbsp;'), '</a></td><td>', talk["name"].replace(' ', '&nbsp;'),'</td></tr>', file=prog2, sep='')
+            print('<tr><td>', talk["timebegin"], '</td><td><a class="', cssclass, '"></a></td><td><a href="../programm/', urlid, '">', talk["titel"].replace(' ','&nbsp;'), '</a></td><td>', talk["name"].replace(' ', '&nbsp;'),'</td></tr>', file=prog2, sep='')
 
         except AttributeError as e1:
             raise e1.with_traceback()
