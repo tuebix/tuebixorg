@@ -5,7 +5,7 @@ permalink: /2019/programm/frank-hofmann-harald-koenig-sieben-bruecken-fahrtenbuc
 weight:
 menu:
 ---
-## Sieben Brücken. Fahrtenbuch mit Skripten auslesen. Beginn:
+## Sieben Brücken. Fahrtenbuch mit Skripten auslesen.
 
 ### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V3
 
