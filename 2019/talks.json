@@ -15,8 +15,8 @@
         "urlid": "matthias-beyer-imag-personal-information-management-for-the-commandline",
         "duration": 5,
         "room": "V3",
-        "timebegin": "33:00",
-        "timeend": "34:00"
+        "timebegin": "14:10",
+        "timeend": "14:15"
     },
     {
         "name": "Matthias Beyer",
@@ -29,8 +29,8 @@
         "urlid": "matthias-beyer-kernel-5.0-shebang-regression-explained",
         "duration": 5,
         "room": "V3",
-        "timebegin": "33:00",
-        "timeend": "34:00"
+        "timebegin": "15:10",
+        "timeend": "15:15"
     },
     {
         "name": "Matthias Beyer",
@@ -43,8 +43,8 @@
         "urlid": "matthias-beyer-building-deb-rpm-packages-with-nixpkgs",
         "duration": 5,
         "room": "V3",
-        "timebegin": "33:00",
-        "timeend": "34:00"
+        "timebegin": "16:10",
+        "timeend": "16:15"
     },
     {
         "name": "Rainer Grimm",
@@ -136,8 +136,8 @@
         "urlid": "uli-kleemann-buddel-die-eins-ueber-vpns-und-warum-man-das-selber-machen-sollte",
         "duration": 5,
         "room": "V3",
-        "timebegin": "33:00",
-        "timeend": "34:00"
+        "timebegin": "14:25",
+        "timeend": "14:30"
     },
     {
         "name": "Werner Heuser",
@@ -321,8 +321,8 @@
         "urlid": "alexander-conzelmann-blitzschnelles-mathe-latex-dank-ultisnips",
         "duration": 5,
         "room": "V3",
-        "timebegin": "33:00",
-        "timeend": "34:00"
+        "timebegin": "14:20",
+        "timeend": "14:25"
     },
     {
         "name": "Alexander Peltzer",
@@ -532,8 +532,8 @@
         "urlid": "kai-uwe-broulik-kde-fuer-hochschulen",
         "duration": 5,
         "room": "V3",
-        "timebegin": "33:00",
-        "timeend": "34:00"
+        "timebegin": "14:30",
+        "timeend": "14:35"
     },
     {
         "name": "Stefan Baur",
@@ -582,8 +582,8 @@
         "urlid": "volker-matheis-raspberrypi-to-thinclient",
         "duration": 5,
         "room": "V3",
-        "timebegin": "33:00",
-        "timeend": "34:00"
+        "timebegin": "14:05",
+        "timeend": "14:10"
     },
     {
         "name": "Udo Seidel",
@@ -699,8 +699,8 @@
         "urlid": "klaus-knopper-das-smarties-projekt-an-der-hs-kl-smarte-geraete-wolkenfrei",
         "duration": 5,
         "room": "V3",
-        "timebegin": "33:00",
-        "timeend": "34:00"
+        "timebegin": "15:05",
+        "timeend": "15:10"
     },
     {
         "name": "Christian Brauner",
@@ -868,8 +868,8 @@
         "urlid": "daniel-kobras-hitobito-die-freie-verwaltungsloesung-fuer-vereine-und-verbaende",
         "duration": 5,
         "room": "V3",
-        "timebegin": "33:00",
-        "timeend": "34:00"
+        "timebegin": "14:00",
+        "timeend": "14:05"
     },
     {
         "name": "Sonja Göttler",
@@ -933,8 +933,8 @@
         "urlid": "meffisto-verschluesselung-einer-ssd-mit-luks-und-wie-man-sich-selbst-kompromittieren-kann",
         "duration": 5,
         "room": "V3",
-        "timebegin": "33:00",
-        "timeend": "34:00"
+        "timebegin": "16:00",
+        "timeend": "16:05"
     },
     {
         "name": "Holger Gantikow",
@@ -1108,8 +1108,8 @@
         "urlid": "johannes-schirm-fremdsprachen-lernen-auf-linux",
         "duration": 5,
         "room": "V3",
-        "timebegin": "33:00",
-        "timeend": "34:00"
+        "timebegin": "16:05",
+        "timeend": "16:10"
     },
     {
         "name": "Peter Hrenka",
@@ -1146,8 +1146,8 @@
         "urlid": "frieder-strohmaier-wueste-welle-technik-ak-hackspace-mit-bodenkontakt",
         "duration": 5,
         "room": "V3",
-        "timebegin": "33:00",
-        "timeend": "34:00"
+        "timebegin": "15:00",
+        "timeend": "15:05"
     },
     {
         "name": "Robin Bertram",
@@ -1160,8 +1160,8 @@
         "urlid": "robin-bertram-coreboot-libreboot-die-open-source-bios-alternative",
         "duration": 5,
         "room": "V3",
-        "timebegin": "33:00",
-        "timeend": "34:00"
+        "timebegin": "14:15",
+        "timeend": "14:20"
     },
     {
         "name": "Robin Bertram",
@@ -1179,8 +1179,8 @@
         "urlid": "robin-bertram-heads-verifizierbarer-bootprozess-mit-coreboot-linux-und-einmalpasswoertern",
         "duration": 5,
         "room": "V3",
-        "timebegin": "33:00",
-        "timeend": "34:00"
+        "timebegin": "14:35",
+        "timeend": "14:40"
     },
     {
         "name": "Alexander Landstorfer",
