@@ -7,7 +7,7 @@ menu:
 ---
 ## KDE für Hochschulen
 
-### <img height = "32" src="../../../images/lightning.svg"> 33:00 bis 34:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:30 bis 14:35 in Raum V3
 
 ### Kai Uwe Broulik
 

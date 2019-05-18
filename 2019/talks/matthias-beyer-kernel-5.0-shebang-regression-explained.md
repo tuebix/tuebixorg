@@ -7,7 +7,7 @@ menu:
 ---
 ## Kernel 5.0 shebang regression explained
 
-### <img height = "32" src="../../../images/lightning.svg"> 33:00 bis 34:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:10 bis 15:15 in Raum V3
 
 ### Matthias Beyer
 

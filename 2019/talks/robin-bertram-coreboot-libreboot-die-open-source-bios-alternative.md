@@ -7,7 +7,7 @@ menu:
 ---
 ## Coreboot/Libreboot - Die Open Source BIOS-Alternative
 
-### <img height = "32" src="../../../images/lightning.svg"> 33:00 bis 34:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:15 bis 14:20 in Raum V3
 
 ### Robin Bertram
 

@@ -7,7 +7,7 @@ menu:
 ---
 ## RaspberryPi to ThinClient
 
-### <img height = "32" src="../../../images/lightning.svg"> 33:00 bis 34:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:05 bis 14:10 in Raum V3
 
 ### Volker Matheis
 

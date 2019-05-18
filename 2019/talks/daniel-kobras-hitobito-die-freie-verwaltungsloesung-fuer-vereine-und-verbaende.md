@@ -7,7 +7,7 @@ menu:
 ---
 ## hitobito - die freie Verwaltungslösung für Vereine und Verbände
 
-### <img height = "32" src="../../../images/lightning.svg"> 33:00 bis 34:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:00 bis 14:05 in Raum V3
 
 ### Daniel Kobras
 

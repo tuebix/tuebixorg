@@ -7,7 +7,7 @@ menu:
 ---
 ## Verschlüsselung einer SSD mit LUKS und wie man sich selbst kompromittieren kann
 
-### <img height = "32" src="../../../images/lightning.svg"> 33:00 bis 34:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 16:00 bis 16:05 in Raum V3
 
 ### meffisto
 

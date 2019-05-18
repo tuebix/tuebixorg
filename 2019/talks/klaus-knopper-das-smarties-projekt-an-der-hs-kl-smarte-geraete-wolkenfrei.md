@@ -7,7 +7,7 @@ menu:
 ---
 ## Das "Smarties" Projekt an der HS-KL - Smarte Geräte, wolkenfrei
 
-### <img height = "32" src="../../../images/lightning.svg"> 33:00 bis 34:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:05 bis 15:10 in Raum V3
 
 ### Klaus Knopper
 

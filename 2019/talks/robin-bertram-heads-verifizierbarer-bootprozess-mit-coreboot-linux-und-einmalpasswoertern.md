@@ -7,7 +7,7 @@ menu:
 ---
 ## Heads - verifizierbarer Bootprozess mit Coreboot, Linux und Einmalpasswörten
 
-### <img height = "32" src="../../../images/lightning.svg"> 33:00 bis 34:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:35 bis 14:40 in Raum V3
 
 ### Robin Bertram
 

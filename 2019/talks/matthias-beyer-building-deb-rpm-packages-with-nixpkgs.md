@@ -7,7 +7,7 @@ menu:
 ---
 ## Building .deb/.rpm packages with nixpkgs
 
-### <img height = "32" src="../../../images/lightning.svg"> 33:00 bis 34:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 16:10 bis 16:15 in Raum V3
 
 ### Matthias Beyer
 
