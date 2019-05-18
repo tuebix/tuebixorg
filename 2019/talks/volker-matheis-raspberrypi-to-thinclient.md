@@ -24,4 +24,4 @@ Seit 20 Jahren produktiv im Linux-Umfeld in Industrieunternehmen als Admin und S
 ### Links
 
 - <a href="https://de.wikipedia.org/wiki/Thin_Client" target="_blank">Definition Thin Client</a>
-- <a href="www.vmfree.org" target="_blank">Projektseite xtc</a>
+- <a href="https://www.vmfree.org" target="_blank">Projektseite xtc</a>

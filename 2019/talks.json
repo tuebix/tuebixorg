@@ -255,15 +255,15 @@
         "vorwissen": "",
         "weblinks": {
             "1": {
-                "url": "www.imkerverein-tuebingen.de",
+                "url": "https://www.imkerverein-tuebingen.de",
                 "title": "Bezirks-Imkerverein Tübingen e.V."
             },
             "2": {
-                "url": "www.imkerverein-rottenburg.de",
+                "url": "http://www.imkerverein-rottenburg.de",
                 "title": "Bezirksverein der Imker Rottenburg e.V."
             },
             "3": {
-                "url": "www.hobos.de",
+                "url": "https://www.hobos.de",
                 "title": "Live Messdaten von Forschungsbienenstöcken"
             }
         },
@@ -575,7 +575,7 @@
                 "title": "Definition Thin Client"
             },
             "2": {
-                "url": "www.vmfree.org",
+                "url": "https://www.vmfree.org",
                 "title": "Projektseite xtc"
             }
         },
@@ -673,7 +673,7 @@
         "vorwissen": "Auch wenn der Dozent hier einmal wieder einen Lötkolben zur Hand nimmt, sind keine tiefgehenden Elektronik-Kenntnisse für die Zuhörer notwendig. Auch Linux-Programmierung spielt in diesem Vortrag nur eine Nebenrolle.",
         "weblinks": {
             "1": {
-                "url": "knopper.net/tuebix/",
+                "url": "https://www.knopper.net/tuebix/",
                 "title": "Unterlagen zum Vortrag"
             }
         },

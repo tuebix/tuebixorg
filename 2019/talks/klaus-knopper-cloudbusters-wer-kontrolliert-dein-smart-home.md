@@ -23,4 +23,4 @@ Klaus Knopper ist Diplomingenieur der Elektrotechnik und unterrichtet als Profes
 
 ### Links
 
-- <a href="knopper.net/tuebix/" target="_blank">Unterlagen zum Vortrag</a>
+- <a href="https://www.knopper.net/tuebix/" target="_blank">Unterlagen zum Vortrag</a>

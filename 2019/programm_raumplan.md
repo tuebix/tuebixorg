@@ -80,8 +80,8 @@ menu:
 <tr><td>17:30</td><td>bis</td><td>17:50</td><td><a class="talk"></a></td><td><a href="../programm/felix-bauer-peekabooav-der-weg-zu-version-2.0">PeekabooAV&nbsp;-&nbsp;der&nbsp;Weg&nbsp;zu&nbsp;Version&nbsp;2.0</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>LPIC-Prüfungsraum</td></tr>
-<tr><td>12:00</td><td></td><td></td><td><a class="lpic"></a></td><td><a href="../lpic">Prüfungstermin 1</a></td><td>LPI</td></tr>
-<tr><td>14:00</td><td></td><td></td><td><a class="lpic"></a></td><td><a href="../lpic">Prüfungstermin 2</a></td><td>LPI</td></tr>
+<tr><td>12:00</td><td></td><td></td><td><a class="lpic"></a></td><td><a href="../../lpic">Prüfungstermin 1</a></td><td>LPI</td></tr>
+<tr><td>14:00</td><td></td><td></td><td><a class="lpic"></a></td><td><a href="../../lpic">Prüfungstermin 2</a></td><td>LPI</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Observatorium</td></tr>
 <tr><td>34:00</td><td></td><td></td><td><a class="talk"></a></td><td><a href="">Teleskopführung</a></td><td>Thomas Rauch</td></tr>

@@ -19,6 +19,6 @@ Seit 2013 betreibe ich die Imkerei als Hobby. Momentan imkere ich mit 12 Völker
 
 ### Links
 
-- <a href="www.imkerverein-tuebingen.de" target="_blank">Bezirks-Imkerverein Tübingen e.V.</a>
-- <a href="www.imkerverein-rottenburg.de" target="_blank">Bezirksverein der Imker Rottenburg e.V.</a>
-- <a href="www.hobos.de" target="_blank">Live Messdaten von Forschungsbienenstöcken</a>
+- <a href="https://www.imkerverein-tuebingen.de" target="_blank">Bezirks-Imkerverein Tübingen e.V.</a>
+- <a href="http://www.imkerverein-rottenburg.de" target="_blank">Bezirksverein der Imker Rottenburg e.V.</a>
+- <a href="https://www.hobos.de" target="_blank">Live Messdaten von Forschungsbienenstöcken</a>
