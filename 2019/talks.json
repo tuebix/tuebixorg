@@ -1148,5 +1148,38 @@
         "room": "V3",
         "timebegin": "33:00",
         "timeend": "34:00"
+    },
+    {
+        "name": "Robin Bertram",
+        "titel": "Coreboot/Libreboot - Die Open Source BIOS-Alternative",
+        "buzzword": "BIOS, UEFI, Firmware, Binary Blobs",
+        "inhalt": "Coreboot und Libreboot sind Projekte, welche daran arbeiten die unfreie Firmware von PCs und Laptops zu ersetzen. Warum ist dies sinnvoll? Was kann man damit machen? Auf welchen Geräten kann man Coreboot/Libreboot installieren?",
+        "aboutme": "Robin Bertram ist Fachinformatiker (kurz vor dem Abschluss) und bastelt gerne mit freier Software. Keines seiner Geräte behält die Software des Herstellers. Vom Linux-Desktop über LineageOS, OpenWRT und Rockbox bis hin zur Nextcloud hilft ihm freie Software im Kampf um seine Datensouveränität.",
+        "vorwissen": "Dieser Lightning Talks ist Vorwissen für zweiten Lighning-Talk über Heads (osresearch.net)",
+        "weblinks": {},
+        "urlid": "robin-bertram-coreboot-libreboot-die-open-source-bios-alternative",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "33:00",
+        "timeend": "34:00"
+    },
+    {
+        "name": "Robin Bertram",
+        "titel": "Heads - verifizierbarer Bootprozess mit Coreboot, Linux und Einmalpasswörten",
+        "buzzword": "Coreboot, Libreboot, BIOS, UEFI, Firmware, Linux, TOTP",
+        "inhalt": "Heads ist eine BIOS-Alternative, die auf Coreboot und dem Linux-Kernel basiert. Mit Einmalpasswörtern, wie man sie von der 2-Faktor-Authentifizierung mit dem Google-Authenticator kennt, kann die Installation von Heads verifiziert werden.",
+        "aboutme": "Robin Bertram ist Fachinformatiker (kurz vor dem Abschluss) und bastelt gerne mit freier Software. Keines seiner Geräte behält die Software des Herstellers. Vom Linux-Desktop über LineageOS, OpenWRT und Rockbox bis hin zur Nextcloud hilft ihm freie Software im Kampf um seine Datensouveränität.",
+        "vorwissen": "Grundlegendes Wissen über Coreboot - dieser Lightning-Talk baut auf dem Lightning-Talk über Coreboot/Libreboot auf.",
+        "weblinks": {
+            "1": {
+                "url": "http://osresearch.net/",
+                "title": "heads-wiki: Documentation for the Heads firmware project"
+            }
+        },
+        "urlid": "robin-bertram-heads-verifizierbarer-bootprozess-mit-coreboot-linux-und-einmalpasswoertern",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "33:00",
+        "timeend": "34:00"
     }
 ]
