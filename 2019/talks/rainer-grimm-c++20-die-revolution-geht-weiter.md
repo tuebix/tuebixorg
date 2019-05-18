@@ -11,7 +11,17 @@ menu:
 
 ### Rainer Grimm
 
-Mit C++20 steht wieder ein richtiger großer C++-Standard vor der Tür. Concepts, Contracts, die Ranges Bibliothek, Coroutinen und Module werde die Art und Weise, wie wir modernes C++ programmieren, grundlegend neu definieren.  Concepts sind eine Erweiterung von Templates von C++, mit denen sich semantische Kategorien für die Menge der zulässigen Datentypen definieren lassen. Dank Concepts wird das Anwenden und Definieren von Templates deutlich einfacher und ausdrucksreicher.      Contracts definieren Interfaces für Funktionen. Dies Interfaces können aus Vorbedingungen für die Funktionsargumente, Nachbedingungen für das Ergebnis einer Funktion und Zusicherungen während der Ausführung der Funktion bestehen.   Die Ranges Bibliothek erlaubt es, die Algorithmen der Standard Template Library direkt auf den Container anzuwenden, diese mit dem aus der Unix-Shell bekannten Pipe-Operator zu verknüpfen und diese auf unendlichen Datenstörmen zu definieren.   Mit Couroutinen unterstützt C++20 die asynchrone Programmierung. Damit werden sich in C++20 kooperatives Multitasking, unendliche Datenströme, Event-Schleifen oder auch Pipelines elegant umsetzen lassen.  Module stellen eine Alternative zu Header-Dateien dar und versprechen viele Verbesserung. Die Trennung von Header- und Sourcecodedateien aufzulösen, Präprozessor-Anweisungen zu eliminieren, bessere Kompilierungszeiten zu erzielen und einfacher Pakete zu schnüren. 
+Mit C++20 steht wieder ein richtiger großer C++-Standard vor der Tür. Concepts, Contracts, die Ranges Bibliothek, Coroutinen und Module werde die Art und Weise, wie wir modernes C++ programmieren, grundlegend neu definieren.
+
+Concepts sind eine Erweiterung von Templates von C++, mit denen sich semantische Kategorien für die Menge der zulässigen Datentypen definieren lassen. Dank Concepts wird das Anwenden und Definieren von Templates deutlich einfacher und ausdrucksreicher.
+
+Contracts definieren Interfaces für Funktionen. Dies Interfaces können aus Vorbedingungen für die Funktionsargumente, Nachbedingungen für das Ergebnis einer Funktion und Zusicherungen während der Ausführung der Funktion bestehen.
+
+Die Ranges Bibliothek erlaubt es, die Algorithmen der Standard Template Library direkt auf den Container anzuwenden, diese mit dem aus der Unix-Shell bekannten Pipe-Operator zu verknüpfen und diese auf unendlichen Datenstörmen zu definieren.
+
+Mit Couroutinen unterstützt C++20 die asynchrone Programmierung. Damit werden sich in C++20 kooperatives Multitasking, unendliche Datenströme, Event-Schleifen oder auch Pipelines elegant umsetzen lassen.
+
+Module stellen eine Alternative zu Header-Dateien dar und versprechen viele Verbesserung. Die Trennung von Header- und Sourcecodedateien aufzulösen, Präprozessor-Anweisungen zu eliminieren, bessere Kompilierungszeiten zu erzielen und einfacher Pakete zu schnüren. 
 
 ### Über mich
 
