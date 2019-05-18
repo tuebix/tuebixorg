@@ -1181,5 +1181,19 @@
         "room": "V3",
         "timebegin": "33:00",
         "timeend": "34:00"
+    },
+    {
+        "name": "Alexander Landstorfer",
+        "titel": "Das Tübinger 80cm-Teleskop",
+        "buzzword": "Teleskop",
+        "inhalt": "Der Blick über den Tellerrand ins All!\n\nIn unmittelbarer Nähe zu den Veranstaltungsräumen des Tübix befindet sich das Herzstück des Observatoriums des Instituts für Astronomie und Astrophysik: das Tübinger 80cm-Teleskop.\n\nTagsüber versteckt es sich meistens in der weißen Kuppel im Garten, und nur nachts, wenn (fast) keiner mehr da ist, kann man es bei klarem Himmel durch die offene Luke in die Tiefe des Alls blicken sehen.\n\nAnlässlich des Tübix öffnen sich die Türen nun für Interessierte, die schon immer mal ein (oder auch gerade dieses) Teleskop aus nächster Nähe sehen wollten. Bei gutem Wetter werden wir versuchen, eine kleine Sonnenbeobachtung zu ermöglichen!\n\nDie Voranmeldung für die Teleskopführungen erfolgt über Listen, die am Infostand ausliegen. Die Gruppengröße ist auf 8 Personen begrenzt: first come, first serve! Treffpunkt ist ebenfalls der Infostand.",
+        "aboutme": "",
+        "vorwissen": "",
+        "weblinks": {},
+        "urlid": "alexander-landstorfer-das-tuebinger-80cm-teleskop",
+        "duration": 25,
+        "room": "Observatorium",
+        "timebegin": "12:00",
+        "timeend": "12:30"
     }
 ]
