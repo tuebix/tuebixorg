@@ -36,8 +36,3 @@ Der Tübix könnte etwas für dich sein, falls du:
 
 Der Eintritt ist frei, dafür <a href="callforhelpers/">hilft jeder ein bisschen mit</a>.
 <br/>
-
-## Richtigstellung
-
-Der Tübix ist keineswegs der "1. Tübinger Linuxtag"...<br/>
-Mehr dazu unter  <a href="http://tuebingen.linux.de/old/" target="_blank">tuebingen.linux.de/old/</a>
