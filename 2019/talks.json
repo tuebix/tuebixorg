@@ -1195,5 +1195,33 @@
         "room": "Observatorium",
         "timebegin": "12:00",
         "timeend": "12:30"
+    },
+    {
+        "name": "Tübix Orga-Team",
+        "titel": "Tübix init",
+        "buzzword": "",
+        "inhalt": "- Begrüßung\n- Infos zum Ablauf des Tages\n- Veränderungen zu letztem Jahr\n- Änderungen in letzter Minute\n- Fragen?",
+        "aboutme": "",
+        "vorwissen": "",
+        "weblinks": {},
+        "urlid": "tuebix-init",
+        "duration": 20,
+        "room": "V1",
+        "timebegin": "09:30",
+        "timeend": "09:50"
+    },
+    {
+        "name": "Tübix Orga-Team",
+        "titel": "Tübix exit",
+        "buzzword": "",
+        "inhalt": "- gemeinsamer Abschluss\n- lottery.sh\n- Ausblick auf nächstes Jahr",
+        "aboutme": "",
+        "vorwissen": "",
+        "weblinks": {},
+        "urlid": "tuebix-exit",
+        "duration": 20,
+        "room": "V1",
+        "timebegin": "18:00",
+        "timeend": "18:15"
     }
 ]

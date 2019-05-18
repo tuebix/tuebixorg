@@ -7,3 +7,7 @@ serve/
 # Editor files (Vim, Emacs and others)
 *.swp
 *~
+
+# dummy entry
+2019/talks/.md
+2019/programm2.md
