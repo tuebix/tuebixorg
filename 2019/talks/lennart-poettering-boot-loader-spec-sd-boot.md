@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/lennart-poettering-boot-loader-spec-+-sd-boot/
+permalink: /2019/programm/lennart-poettering-boot-loader-spec-sd-boot/
 weight:
 menu:
 ---

@@ -5,7 +5,7 @@ permalink: /2019/programm/meffisto-integration-von-linux-containern-auf-dem-desk
 weight:
 menu:
 ---
-##  Integration von Linux-Containern auf dem Desktop mit LXC
+## Integration von Linux-Containern auf dem Desktop mit LXC
 
 ### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:20 in Raum V1
 

@@ -40,7 +40,7 @@
         "aboutme": "",
         "vorwissen": "Verständnis von Paketierung unter Linux-Derivaten, NixOS/nixpkgs",
         "weblinks": {},
-        "urlid": "matthias-beyer-building-.deb-.rpm-packages-with-nixpkgs",
+        "urlid": "matthias-beyer-building-deb-rpm-packages-with-nixpkgs",
         "duration": 5,
         "room": "V3",
         "timebegin": "33:00",
@@ -290,7 +290,7 @@
                 "title": "Boot Loader Specification"
             }
         },
-        "urlid": "lennart-poettering-boot-loader-spec-+-sd-boot",
+        "urlid": "lennart-poettering-boot-loader-spec-sd-boot",
         "duration": 55,
         "room": "V1",
         "timebegin": "18:15",
@@ -392,7 +392,7 @@
         "aboutme": "Axel Beckert: Linux-Systemadministrator und Spezialist für Netzwerksicherheit an der ETH Zürich. Debian-Entwickler und Administrator von debian.ethz.ch aka ftp.ch.debian.org. Vorstandsmitglied der Linux User Group Switzerland (LUGS). Hochgeschätzter Co-Moderator des Schweizer Podcasts Hackerfunk.  Frank Hofmann: IT-Spezialist mit dem Blickwinkel auf Training (LPI), Technische Dokumentation und Druck & Satz. Digitaler Nomade. Unabhängiger Autor für LinuxUser. Nach Berlin und Cape Town lebt er derzeit in Besançon, Franche-Comté. Mit Kind, Frau und ohne Katze.  Seit 2012 schreiben und betreuen wir das Debian Paketmanagement-Buch.",
         "vorwissen": "Schonmal auf der Kommandozeile unterwegs gewesen zu sein, ist sicher hilfreich.",
         "weblinks": {},
-        "urlid": "axel-beckert-frank-hofmann-schatzsuche:-weniger-bekannte-linux-kommandos",
+        "urlid": "axel-beckert-frank-hofmann-schatzsuche-weniger-bekannte-linux-kommandos",
         "duration": 55,
         "room": "V3",
         "timebegin": "13:00",
@@ -846,7 +846,7 @@
                 "title": "Die Freifunk AG gewinnt der Jugendpreis der Bürgerstiftung"
             }
         },
-        "urlid": "frank-schiebel-freifunk-ag-am-quenstedt-gymnasium:-von-der-schule-in-die-stadt.-",
+        "urlid": "frank-schiebel-freifunk-ag-am-quenstedt-gymnasium-von-der-schule-in-die-stadt",
         "duration": 55,
         "room": "V4",
         "timebegin": "15:00",
@@ -910,7 +910,7 @@
     },
     {
         "name": "meffisto",
-        "titel": " Integration von Linux-Containern auf dem Desktop mit LXC",
+        "titel": "Integration von Linux-Containern auf dem Desktop mit LXC",
         "buzzword": "Container, LXC, Namspaces, privilegiert vs. unprivilegiert, Distributionen mischen",
         "inhalt": "Keine Technikeinführung zu LXC. Stattdessen: Demonstration an praktischen Beispielen wann Container (hier mit LXC umgesetzt) auf einem Desktop-System sehr hilfreich sein können und eine bemerkenswerte Flexibilität bereitstellen, sowie Optionen eröffnen wie sie vorher kaum denkbar waren. Bei der Vorstellung mehrerer bereits umgesetzter, konkreter Szenarios wird dies exemplarisch vorgestellt (privilegiert vs. unprivilegiert, Hardware-Zugriff, Desktop-Integration, bewusste Separation, usw.). Die aufgeführten Beispiele sollen die Phantasie anregen und keine LXC-Technikdemos sein. Einzelne Details/Konfigurationen/Einstellungen werden vorgestellt, primär geht es jedoch um die Idee und welche Aufgaben/Probleme man auf diese Weise elegant umsetzen/umgehen oder zumindest beherrschen kann. ",
         "aboutme": "meffisto - computerbenutzer",
@@ -952,13 +952,13 @@
     },
     {
         "name": "Harald König",
-        "titel": "Den Flaschenhals in einer langsamen Pipe optimieren durch Parallelisierung ",
+        "titel": "Den Flaschenhals in einer langsamen Pipe optimieren durch Parallelisierung",
         "buzzword": "bash , sed , pipe , bottleneck , speedup , tuning , command line , success , world domination",
         "inhalt": "Neues aus meiner Shell-Küche: in einem Skript zum Disassemblieren eines einfachen seriellen Protokolls mit Hilfe von \"sed\" werden die Input-Daten immer größer und sed braucht immer länger -- inzwischen bei letzten Messdaten über 20 Minuten! Das muss doch auch schneller gehen?!\n\nHeute haben (fast) alle Rechner mehrere CPU-Cores und (Hyper)Threads. Warum also läuft das zu langsame sed nicht parallel auf allen verfügbaren CPUs und vervielfacht so den Durchsatz des Tools?\n\nKlingt einfach, ist aber zunächt gar nicht sooo trivial alleine mit Shell-Mitteln.  Die Probleme werden gezeigt, und wie man mit ein bissl Aufwand das alles in den Griff bekommen kann.\n\nUnd dann gibt es noch ein tolles Kommandozeilen-Tool, welches genau diese Parallelisierung eines Programms wie sed in einer Pipe mit allen seinen Problemen perfekt löst, ganz ohne die grauen Haare der \"nur-in-Shell-Lösung\".",
         "aboutme": "Physik-Studium in Tübingen, Rechner und DCF77 seit ~1980, (La)TeX seit 1986, UNIX seit ~1987, Linux seit 1992 (0.98.4), XFree86-Treiber für S3 von ~1993-2001. Von 2001 bis 2014 bei der science+computing ag in Tübingen (heute Atos) als SW-Entwickler. Seit 2014 nun bei Bosch Sensortec GmbH in Kusterdingen/Reutlingen als “System Expert” für Linux , Android und uC Treiber.",
         "vorwissen": "wie immer: tippen können. Und vielleicht ein bissl Spass mit oder zumind. Interesse an der Kommandozeile und Pipes.",
         "weblinks": {},
-        "urlid": "harald-koenig-den-flaschenhals-in-einer-langsamen-pipe-optimiern-durch-parallelisierung-",
+        "urlid": "harald-koenig-den-flaschenhals-in-einer-langsamen-pipe-optimieren-durch-parallelisierung",
         "duration": 55,
         "room": "V3",
         "timebegin": "12:00",
@@ -1000,7 +1000,7 @@
                 "title": "LinuxDay-Vortrag"
             }
         },
-        "urlid": "frank-hofmann-harald-koenig-sieben-bruecken.-fahrtenbuch-mit-skripten-auslesen.-beginn:",
+        "urlid": "frank-hofmann-harald-koenig-sieben-bruecken-fahrtenbuch-mit-skripten-auslesen",
         "duration": 55,
         "room": "V3",
         "timebegin": "11:00",
@@ -1028,7 +1028,7 @@
         "aboutme": "Nach einer Promotion in Physik arbeite ich als C++-Entwickler in einem Startup im Raum Tübingen/Reutlingen. Vor über 20 Jahren habe ich GNU/Linux kennengelernt und es bleibt bis heute das Betriebsystem meiner Wahl.",
         "vorwissen": "Kenntnisse in C und Systemprogrammierung, sowie ein grundlegendes Verständnis, wie Prozessoren Maschinencode interpretieren.",
         "weblinks": {},
-        "urlid": "christian-seiler-jenseits-der-tutorials:-wie-hello-world-wirklich-funktioniert",
+        "urlid": "christian-seiler-jenseits-der-tutorials-wie-hello-world-wirklich-funktioniert",
         "duration": 55,
         "room": "V2",
         "timebegin": "15:00",

@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/matthias-beyer-building-.deb-.rpm-packages-with-nixpkgs/
+permalink: /2019/programm/matthias-beyer-building-deb-rpm-packages-with-nixpkgs/
 weight:
 menu:
 ---

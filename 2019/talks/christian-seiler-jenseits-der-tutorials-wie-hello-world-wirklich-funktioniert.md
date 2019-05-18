@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/christian-seiler-jenseits-der-tutorials:-wie-hello-world-wirklich-funktioniert/
+permalink: /2019/programm/christian-seiler-jenseits-der-tutorials-wie-hello-world-wirklich-funktioniert/
 weight:
 menu:
 ---

@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/frank-hofmann-harald-koenig-sieben-bruecken.-fahrtenbuch-mit-skripten-auslesen.-beginn:/
+permalink: /2019/programm/frank-hofmann-harald-koenig-sieben-bruecken-fahrtenbuch-mit-skripten-auslesen/
 weight:
 menu:
 ---
