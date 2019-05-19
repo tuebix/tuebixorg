@@ -6,7 +6,7 @@ desc "Test the HTML files"
 task :test do
   options = {
     :alt_ignore => [/.*/],
-    :url_ignore => [/^http:\/\/tuebix2015\.titanpad\.com/,/^\.\.\/2015\/programm\//,/^(#)$/,/^https:\/\/www\.freedesktop\.org\/software\/systemd\/man\/systemd-networkd\.service\.html\/],
+    :url_ignore => [/^http:\/\/tuebix2015\.titanpad\.com/,/^\.\.\/2015\/programm\//,/^(#)$/,/^https:\/\/www\.freedesktop\.org\/software\/systemd\/man\/systemd-networkd\.service\.html/],
     :file_ignore => [/^_site\/201[5-7]\//],
     :typhoeus => {
       :followlocation => true,
