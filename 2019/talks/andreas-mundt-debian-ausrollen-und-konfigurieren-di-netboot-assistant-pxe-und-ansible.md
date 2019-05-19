@@ -11,7 +11,9 @@ menu:
 
 ### Andreas B. Mundt
 
-Der Vortrag zeigt die Anwendung von di-netboot-assistant (Debian Paket), um Debian (Ubuntu) über das Netzwerk flexibel zu installieren und diese Installation schrittweise, beginnend mit dem 'preseeding' des Debian-Installers, bis hin zur vollständigen und beliebig komplexen Konfiguration mittels ansible, zu automatisieren.  Als Beispiel dient die Einrichtung eines 'Kiosk'-Rechners, bei dem nach dem Neustart alle Einstellungen (des Benutzers) zurückgesetzt werden.
+Der Vortrag zeigt die Anwendung von di-netboot-assistant (Debian Paket), um Debian (Ubuntu) über das Netzwerk flexibel zu installieren und diese Installation schrittweise, beginnend mit dem 'preseeding' des Debian-Installers, bis hin zur vollständigen und beliebig komplexen Konfiguration mittels ansible, zu automatisieren.
+
+Als Beispiel dient die Einrichtung eines 'Kiosk'-Rechners, bei dem nach dem Neustart alle Einstellungen (des Benutzers) zurückgesetzt werden.
 
 ### Vorwissen
 

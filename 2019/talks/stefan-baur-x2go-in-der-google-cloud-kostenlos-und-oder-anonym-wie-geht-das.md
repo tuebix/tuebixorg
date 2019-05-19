@@ -11,7 +11,9 @@ menu:
 
 ### Stefan Baur
 
-X2Go erlaubt die Nutzung des eigenen Desktops von anderen Rechnern aus - sowohl im LAN als auch über das Internet. Dabei läuft die Übertragung über eine ssh-Verbindung, ist also verschlüsselt. Weiterhin wird durch die Verwendung der freien nx Bibliotheken (nomachine) eine sehr akzeptable Geschwindigkeit und Reaktionsverhalten des Desktops erzielt. Selbst über eine ISDN-Verbindung kann noch zufriedenstellend gearbeitet werden.  Der Vortrag zeigt, wie man kostenlose Ressourcen in der Google Cloud benutzen kann, um seinen ganz persönlichen Remote Desktop in der Cloud zu betreiben - und das gegebenenfalls auch noch völlig anonym.
+X2Go erlaubt die Nutzung des eigenen Desktops von anderen Rechnern aus - sowohl im LAN als auch über das Internet. Dabei läuft die Übertragung über eine ssh-Verbindung, ist also verschlüsselt. Weiterhin wird durch die Verwendung der freien nx Bibliotheken (nomachine) eine sehr akzeptable Geschwindigkeit und Reaktionsverhalten des Desktops erzielt. Selbst über eine ISDN-Verbindung kann noch zufriedenstellend gearbeitet werden.
+
+Der Vortrag zeigt, wie man kostenlose Ressourcen in der Google Cloud benutzen kann, um seinen ganz persönlichen Remote Desktop in der Cloud zu betreiben - und das gegebenenfalls auch noch völlig anonym.
 
 ### Vorwissen
 

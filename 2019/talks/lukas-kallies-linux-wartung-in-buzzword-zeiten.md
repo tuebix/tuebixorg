@@ -19,7 +19,10 @@ Erfahrung in der Administration von Linux-Systemen.
 
 ### Über mich
 
-Jahrgang 1983, verheiratet, zwei Kinder, Informatikstudium an der Hochschule Furtwangen, Senior System Engineer im Bereich Linux, Lifecycle- und Configurationmanagement, Arbeitet bei Puzzle ITC Deutschland in Tübingen.
+Jahrgang 1983, verheiratet, zwei Kinder,
+Informatikstudium an der Hochschule Furtwangen,
+Senior System Engineer im Bereich Linux, Lifecycle- und Configurationmanagement,
+Arbeitet bei Puzzle ITC Deutschland in Tübingen.
 
 ### Links
 

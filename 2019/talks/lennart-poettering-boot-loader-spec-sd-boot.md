@@ -19,7 +19,9 @@ Knowing Linux and its basic concepts would be great. Having heard of UEFI would 
 
 ### Über mich
 
-Lennart arbeitet für Red Hat und hat systemd verbrochen, und allerlei anderes.  Lennart works for Red Hat and (co-)created systemd and various other things.
+Lennart arbeitet für Red Hat und hat systemd verbrochen, und allerlei anderes.
+
+Lennart works for Red Hat and (co-)created systemd and various other things.
 
 ### Links
 

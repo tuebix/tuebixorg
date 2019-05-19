@@ -11,7 +11,12 @@ menu:
 
 ### Daniel Kulesz
 
-Das Testen von Software ist wichtig, um Nutzer nicht durch verbuggte Releases zu vergraulen. Vieles  lässt sich heute zwar automatisieren, viele kritische Fehler werden aber oft erst in händisch durchgeführten Tests entdeckt. Gerade kleinere FLOSS-Projekte verzichten leider noch immer auf systematisch durchgeführte Tests und fördern so das "Frickelware"-Klischee.  Systematisches Testen klingt langweilig, kann aber richtig Spaß machen und dabei Entwickler, Tester und Endanwender näher zusammenbringen. Die von uns entwickelte freie Software "SystemTestPortal" ist eine leichtgewichtige Webanwendung, die die Erstellung, Ausführung und Analyse systematischer Tests deutlich vereinfacht.  Der Vortrag diskutiert die Wichtigkeit und die Schwierigkeiten des Testens und stellt das SystemTestPortal als praktibable Lösung vor, die gerade für kleinere Projekte interessant sein könnte. 
+Das Testen von Software ist wichtig, um Nutzer nicht durch verbuggte Releases zu vergraulen. Vieles  lässt sich heute zwar automatisieren, viele kritische Fehler werden aber oft erst in händisch durchgeführten Tests entdeckt. Gerade kleinere FLOSS-Projekte verzichten leider noch immer auf systematisch durchgeführte Tests und fördern so das "Frickelware"-Klischee.
+
+Systematisches Testen klingt langweilig, kann aber richtig Spaß machen und dabei Entwickler, Tester und Endanwender näher zusammenbringen. Die von uns entwickelte freie Software "SystemTestPortal" ist eine leichtgewichtige Webanwendung, die die Erstellung, Ausführung und Analyse systematischer Tests deutlich vereinfacht.
+
+Der Vortrag diskutiert die Wichtigkeit und die Schwierigkeiten des Testens und stellt das SystemTestPortal als praktibable Lösung vor, die gerade für kleinere Projekte interessant sein könnte.
+
 
 ### Vorwissen
 

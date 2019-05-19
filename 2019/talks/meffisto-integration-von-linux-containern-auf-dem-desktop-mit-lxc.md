@@ -11,7 +11,8 @@ menu:
 
 ### meffisto
 
-Keine Technikeinführung zu LXC. Stattdessen: Demonstration an praktischen Beispielen wann Container (hier mit LXC umgesetzt) auf einem Desktop-System sehr hilfreich sein können und eine bemerkenswerte Flexibilität bereitstellen, sowie Optionen eröffnen wie sie vorher kaum denkbar waren. Bei der Vorstellung mehrerer bereits umgesetzter, konkreter Szenarios wird dies exemplarisch vorgestellt (privilegiert vs. unprivilegiert, Hardware-Zugriff, Desktop-Integration, bewusste Separation, usw.). Die aufgeführten Beispiele sollen die Phantasie anregen und keine LXC-Technikdemos sein. Einzelne Details/Konfigurationen/Einstellungen werden vorgestellt, primär geht es jedoch um die Idee und welche Aufgaben/Probleme man auf diese Weise elegant umsetzen/umgehen oder zumindest beherrschen kann. 
+Keine Technikeinführung zu LXC. Stattdessen: Demonstration an praktischen Beispielen wann Container (hier mit LXC umgesetzt) auf einem Desktop-System sehr hilfreich sein können und eine bemerkenswerte Flexibilität bereitstellen, sowie Optionen eröffnen wie sie vorher kaum denkbar waren. Bei der Vorstellung mehrerer bereits umgesetzter, konkreter Szenarios wird dies exemplarisch vorgestellt (privilegiert vs. unprivilegiert, Hardware-Zugriff, Desktop-Integration, bewusste Separation, usw.).
+Die aufgeführten Beispiele sollen die Phantasie anregen und keine LXC-Technikdemos sein. Einzelne Details/Konfigurationen/Einstellungen werden vorgestellt, primär geht es jedoch um die Idee und welche Aufgaben/Probleme man auf diese Weise elegant umsetzen/umgehen oder zumindest beherrschen kann. 
 
 ### Vorwissen
 

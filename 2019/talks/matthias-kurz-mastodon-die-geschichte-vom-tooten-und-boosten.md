@@ -19,7 +19,9 @@ Der Vortrag richtet sich an alle Teilnehmerinnen und Teilnehmer, die Interesse a
 
 ### Über mich
 
-Matthias ist gelernter Fachinformatiker für Systemintegration. Bereits seit 1997 beschäftigt er sich mit Linux und ist ein großer Freund und Fan freier Software.  Matthias ist Gründer und Geschäftsführer von WP-Projects, einem auf WordPress spezialisiertem Hosting-Unternehmen. Auch beruflich hält er es daher mit dem Pinguin und ist täglich auf der Shell unterwegs. Wenn er da mal nicht ist, nutzt er die Zeit für die WordPress Community: als aktives Mitglied und Organisator von WordPress-Meetups und WordCamps. 
+Matthias ist gelernter Fachinformatiker für Systemintegration. Bereits seit 1997 beschäftigt er sich mit Linux und ist ein großer Freund und Fan freier Software.
+
+Matthias ist Gründer und Geschäftsführer von WP-Projects, einem auf WordPress spezialisiertem Hosting-Unternehmen. Auch beruflich hält er es daher mit dem Pinguin und ist täglich auf der Shell unterwegs. Wenn er da mal nicht ist, nutzt er die Zeit für die WordPress Community: als aktives Mitglied und Organisator von WordPress-Meetups und WordCamps. 
 
 ### Links
 

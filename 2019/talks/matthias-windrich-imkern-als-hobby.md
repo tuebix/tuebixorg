@@ -11,7 +11,9 @@ menu:
 
 ### Matthias Windrich
 
-In einer lockeren Runde, Einführung in die Imkerei als Hobby. Wie fängt man an, wie bleibt man dabei?  In einer lockeren Runde, möchte ich am lebenden Volk zeigen, wie es in einer Magazinbeute gehalten wird. Wir können dann je nach Interesse der Anwesenden auf die verschiedene Aspekte der Imkerei eingehen. Von Fragen wie man Imker werden kann, über den Aufwand den man betreiben muss hin zu Fragen zur Biene im Speziellen. Wie ein Volk organisiert ist, wie es kommuniziert, wie man Königinnen züchtet usw..
+In einer lockeren Runde, Einführung in die Imkerei als Hobby. Wie fängt man an, wie bleibt man dabei?
+
+In einer lockeren Runde, möchte ich am lebenden Volk zeigen, wie es in einer Magazinbeute gehalten wird. Wir können dann je nach Interesse der Anwesenden auf die verschiedene Aspekte der Imkerei eingehen. Von Fragen wie man Imker werden kann, über den Aufwand den man betreiben muss hin zu Fragen zur Biene im Speziellen. Wie ein Volk organisiert ist, wie es kommuniziert, wie man Königinnen züchtet usw..
 
 ### Über mich
 
