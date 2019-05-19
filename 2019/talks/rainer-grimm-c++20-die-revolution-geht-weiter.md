@@ -32,4 +32,3 @@ Seine Bücher "C++11 für Programmierer", "C++" und "C++-Standardbibliothek" fü
 
 - <a href="https://www.grimm-jaud.de/index.php/blog" target="_blank">Deutscher Blog</a>
 - <a href="https://www.modernescpp.com/" target="_blank">Englischer Blog</a>
-- <a href="" target="_blank"></a>

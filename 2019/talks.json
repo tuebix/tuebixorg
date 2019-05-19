@@ -61,10 +61,6 @@
             "2": {
                 "url": "https://www.modernescpp.com/",
                 "title": "Englischer Blog"
-            },
-            "3": {
-                "url": "",
-                "title": ""
             }
         },
         "urlid": "rainer-grimm-c++20-die-revolution-geht-weiter",
@@ -314,7 +310,7 @@
         "name": "Alexander Conzelmann",
         "titel": "Blitzschnelles Mathe-LaTeX dank UltiSnips",
         "buzzword": "Technologien, Vim, Plug-ins, LaTeX, TeX, UltiSnips, Snippets, Mathematik",
-        "inhalt": "Mathematische Aufschriebe mit LaTeX dauern für gewöhnlich ewig. Zumindest ist man meist nicht schnell genug, um in der Vorlesung mitzuschreiben, dazu ist es mit den meisten Editoren auch noch ätzend (wie ist noch gleich der Befehl für die Vereinigung von Mengen? ah stimmt, \bigcap...). Hier stelle ich ein kleines PlugIn vor: UltiSnips. Mit dessen Hilfe können automatisch bestimmte Textabschnitte (kontextsensitiv) zu anderen konvertiert werden. Durch die flexible Programmierbarkeit des PlugIns können so selbst anspruchsvolle Mathematische Sätze und Darstellungen in schneller Zeit bewältigt werden, was ich auch demonstrieren werde. ",
+        "inhalt": "Mathematische Aufschriebe mit LaTeX dauern für gewöhnlich ewig. Zumindest ist man meist nicht schnell genug, um in der Vorlesung mitzuschreiben, dazu ist es mit den meisten Editoren auch noch ätzend (wie ist noch gleich der Befehl für die Vereinigung von Mengen? ah stimmt, \\bigcap...). Hier stelle ich ein kleines PlugIn vor: UltiSnips. Mit dessen Hilfe können automatisch bestimmte Textabschnitte (kontextsensitiv) zu anderen konvertiert werden. Durch die flexible Programmierbarkeit des PlugIns können so selbst anspruchsvolle Mathematische Sätze und Darstellungen in schneller Zeit bewältigt werden, was ich auch demonstrieren werde. ",
         "aboutme": "Hey, ich bin Alex, studiere in Tübingen Informatik und bin Mitglied der Linux-AG. Mich begeistert alles rund um Technik und Linux. Wenn ich grade nicht am PC sitze, tanze ich auch noch ganz gern :)",
         "vorwissen": "LaTeX",
         "weblinks": {},
@@ -439,9 +435,9 @@
         "name": "Erich Wälde",
         "titel": "Anständiges Werkzeug: emacs",
         "buzzword": "Intro, Werkzeug, emacs 26, Editor, plain Text, org-mode",
-        "inhalt": "Dieser \"Mitmach\"-Workshop soll die Teilnehmer durch die anfänglichen Hürden führen, die jedes neue Werkzeug so mit sich bringt. Es wird empfohlen, ein Notebook mitzubringen und emacs und seine Dokumentation vorab zu installieren. emacs läuft auch auf Windows und MacOS!\n- emacs starten und beenden\n- Hilfe? Konzepte?\n- eine Datei öffnen oder anlegen, Datei ändern und speichern oder auch verwerfen\n- Regionen markieren, kopieren, löschen, verschieben\n- Suchen und ersetzen\nDamit kann man schon allerhand anfangen. Der Rest des Workshops ist eine Demo durch die von mir für wichtig erachteten Pakete. Denn man kann damit echt erstaunliche Dinge anstellen: org-mode (spread sheet, Termine, Agenda), mu4e (email), calc und mehr.",
+        "inhalt": "Dieser \"Mitmach\"-Workshop soll die Teilnehmer durch die anfänglichen Hürden führen, die jedes neue Werkzeug so mit sich bringt. Es wird empfohlen, ein Notebook mitzubringen und emacs und seine Dokumentation vorab zu installieren. emacs läuft auch auf Windows und MacOS!\n- emacs starten und beenden\n- Hilfe? Konzepte?\n- eine Datei öffnen oder anlegen, Datei ändern und speichern oder auch verwerfen\n- Regionen markieren, kopieren, löschen, verschieben\n- Suchen und ersetzen\n\nDamit kann man schon allerhand anfangen. Der Rest des Workshops ist eine Demo durch die von mir für wichtig erachteten Pakete. Denn man kann damit echt erstaunliche Dinge anstellen: org-mode (spread sheet, Termine, Agenda), mu4e (email), calc und mehr.",
         "aboutme": "Ich habe vor langer Zeit Physik studiert und arbeite seit >20 Jahren mit Unix/Linux und emacs. emacs ist mein wichtigstes, tägliches Werkzeug, noch vor der Shell (bash).",
-        "vorwissen": "Emacs soll schon installiert sein. z.B. ür Debian: \"apt install emacs emacs-common-non-dfsg\"",
+        "vorwissen": "Emacs soll schon installiert sein. z.B. für Debian: \"apt install emacs emacs-common-non-dfsg\"",
         "weblinks": {
             "1": {
                 "url": "https://de.wikipedia.org/wiki/Emacs",
@@ -523,10 +519,6 @@
             "2": {
                 "url": "https://kde.org/applications/",
                 "title": "KDE-Anwendungen"
-            },
-            "3": {
-                "url": "",
-                "title": ""
             }
         },
         "urlid": "kai-uwe-broulik-kde-fuer-hochschulen",
@@ -624,15 +616,11 @@
         "buzzword": "Archlinux, Docker, AUR, Packages, User Repository, Shellscript ",
         "inhalt": "Wie baue ich AUR (ArchLinux User Repositories) Packages selbst und wie teste ich sie im Docker-Conmtainer? Was muss ich beim Erstellen vom PKGBULD beachten? Welche Pakete braucht mein Docker-Container? Gibt es bereits ein Image? Diese Fragen werden in meinem Workshop geklärt. Hinweis: DIeser Workshop wurde bereits in ähnlicher Variante beim Augsburger Linuxtag durchgeführt.",
         "aboutme": "Anton Müller arbeitet seit 2018 bei der B1 Systems GmbH als Linux Consultant und Trainer. Er beschäftigt sich mit den Themen Virtualisierung, Containern und Konfigurationsmanagement. In seiner Freizeit engagiert er sich in seinem Hackerspace Netz39 und dem Freifunkprojekt in Magdeburg.",
-        "vorwissen": "Linux-Shell-Basics, Git-Basics, ",
+        "vorwissen": "Linux-Shell-Basics, Git-Basics",
         "weblinks": {
             "1": {
                 "url": "https://b1-systems.de",
                 "title": "Webseite von B1"
-            },
-            "2": {
-                "url": "",
-                "title": ""
             }
         },
         "urlid": "anton-mueller-aur-packages-selbst-mit-hilfe-von-docker-bauen-testen-und-veroeffentlichen",

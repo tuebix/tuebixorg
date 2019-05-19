@@ -15,7 +15,7 @@ Wie baue ich AUR (ArchLinux User Repositories) Packages selbst und wie teste ich
 
 ### Vorwissen
 
-Linux-Shell-Basics, Git-Basics, 
+Linux-Shell-Basics, Git-Basics
 
 ### Über mich
 
@@ -24,4 +24,3 @@ Anton Müller arbeitet seit 2018 bei der B1 Systems GmbH als Linux Consultant un
 ### Links
 
 - <a href="https://b1-systems.de" target="_blank">Webseite von B1</a>
-- <a href="" target="_blank"></a>

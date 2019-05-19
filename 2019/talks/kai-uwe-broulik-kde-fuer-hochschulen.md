@@ -21,4 +21,3 @@ Kai Uwe Broulik nutzt KDE-Software schon seit fast zwei Jahrzehnten und begann i
 
 - <a href="https://kde.org/" target="_blank">KDE-Webseite</a>
 - <a href="https://kde.org/applications/" target="_blank">KDE-Anwendungen</a>
-- <a href="" target="_blank"></a>

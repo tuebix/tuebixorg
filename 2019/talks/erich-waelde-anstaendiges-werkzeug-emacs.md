@@ -16,12 +16,13 @@ Dieser "Mitmach"-Workshop soll die Teilnehmer durch die anfänglichen Hürden f�
 - Hilfe? Konzepte?  
 - eine Datei öffnen oder anlegen, Datei ändern und speichern oder auch verwerfen  
 - Regionen markieren, kopieren, löschen, verschieben  
-- Suchen und ersetzen  
+- Suchen und ersetzen
+
 Damit kann man schon allerhand anfangen. Der Rest des Workshops ist eine Demo durch die von mir für wichtig erachteten Pakete. Denn man kann damit echt erstaunliche Dinge anstellen: org-mode (spread sheet, Termine, Agenda), mu4e (email), calc und mehr.
 
 ### Vorwissen
 
-Emacs soll schon installiert sein. z.B. ür Debian: "apt install emacs emacs-common-non-dfsg"
+Emacs soll schon installiert sein. z.B. für Debian: "apt install emacs emacs-common-non-dfsg"
 
 ### Über mich
 
