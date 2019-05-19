@@ -41,6 +41,13 @@ for talk in data:
     # TODO: Change the format for the URL ID? E.g. "name_title" instead of "name-title"?:
     # Old schema: thomas-rauch-das-tuebinger-80cm-teleskop
     # Possible new schema: URL encode and e.g. "+" or "_" between the name and title?
+    def transform_linefeeds(string):
+        # Remove leading and trailing "\n" (optional normalization):
+        string = re.sub(r'^\n+|\n+$', '', string)
+        # Replace " *\n" with "  \n" but keep "\n\n" (two spaces cause a line break):
+        string = re.sub(r'([^(\n)]) *\n([^(\n)])', r'\1  \n\2', string)
+        # Note: Replacing "\n" with "<br/>" would be nicer but doesn't work for lists.
+        return string
     def normalize_string(string):
         # TODO: The current implementation is probably not consistent with 2015-2018
         string = string.replace("/", "")
@@ -70,12 +77,12 @@ for talk in data:
             mdf.write('"> ' + talk["timebegin"] + " bis " + talk["timeend"] + " in Raum " + talk["room"] + "\n\n")
             mdf.write("### " + talk["name"] + "\n\n")
 
-            mdf.write(talk["inhalt"] + "\n\n")
+            mdf.write(transform_linefeeds(talk["inhalt"]) + "\n\n")
             if talk["vorwissen"]:
-                mdf.write("### Vorwissen\n\n" + talk["vorwissen"] + "\n\n")
+                mdf.write("### Vorwissen\n\n" + transform_linefeeds(talk["vorwissen"]) + "\n\n")
             if talk["aboutme"]:
                 mdf.write("### Über mich\n\n")
-                mdf.write(talk["aboutme"]+ "\n\n")
+                mdf.write(transform_linefeeds(talk["aboutme"])+ "\n\n")
             if talk["weblinks"]:
                 mdf.write("### Links\n\n")
                 mdf.write(parse_weblink(talk["weblinks"]))
