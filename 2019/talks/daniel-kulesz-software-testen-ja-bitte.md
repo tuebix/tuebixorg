@@ -17,7 +17,6 @@ Systematisches Testen klingt langweilig, kann aber richtig Spaß machen und dabe
 
 Der Vortrag diskutiert die Wichtigkeit und die Schwierigkeiten des Testens und stellt das SystemTestPortal als praktibable Lösung vor, die gerade für kleinere Projekte interessant sein könnte.
 
-
 ### Vorwissen
 
 Kein Vorwissen erforderlich

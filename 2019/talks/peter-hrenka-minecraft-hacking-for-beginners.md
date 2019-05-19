@@ -11,8 +11,8 @@ menu:
 
 ### Peter Hrenka
 
-Minecraft ist eines der erfolgreichsten Spiele überhaupt und besitzt auch eine aktive Modder-Szene, die auch sehr wohlwollend vom Eigentümer (mittlerweile Microsoft) unterstützt wird.
-Obwohl es jetzt auch Windows und Konsolen-Versionen gibt, ist die "wahre" Version die Java-Version, die natürlich auch unter Linux läuft.
+Minecraft ist eines der erfolgreichsten Spiele überhaupt und besitzt auch eine aktive Modder-Szene, die auch sehr wohlwollend vom Eigentümer (mittlerweile Microsoft) unterstützt wird.  
+Obwohl es jetzt auch Windows und Konsolen-Versionen gibt, ist die "wahre" Version die Java-Version, die natürlich auch unter Linux läuft.  
 Ziel des Vortrags ist es - weitestmöglichst live - einen einfachen Minecraft-Mod zu erstellen, der die Funktionalität des Spiels erweitert.
 
 ### Vorwissen

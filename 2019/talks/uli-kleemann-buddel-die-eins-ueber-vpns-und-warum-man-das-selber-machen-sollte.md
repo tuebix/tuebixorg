@@ -11,12 +11,11 @@ menu:
 
 ### Uli Kleemann
 
-Was ist ein VPN?
-Wie funktioniert es (im Groben)?
-Wozu brauchen wir sowas?
-Was ein VPN nicht kann
+Was ist ein VPN?  
+Wie funktioniert es (im Groben)?  
+Wozu brauchen wir sowas?  
+Was ein VPN nicht kann  
 Warum man es sich selber bauen sollte
-
 
 ### Vorwissen
 
@@ -24,7 +23,7 @@ keines  Grundkenntnisse TCP/IP/UDP
 
 ### Über mich
 
-51 Linux-Sysadmin, gläubiger Debianer, Torrorist, Netzaktivist
+51 Linux-Sysadmin, gläubiger Debianer, Torrorist, Netzaktivist  
 # Kryptografie # Kryptologie #SDR
 
 ### Links

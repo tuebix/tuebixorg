@@ -11,9 +11,9 @@ menu:
 
 ### Frank Schiebel
 
-Ausgehend von einem Projekt zur Vernetzung eines Flüchtlingsheims im Jahre 2016 hat sich am Quenstedt-Gymnasium Mössingen die "Freifunk AG" gebildet, die in den vergangenen zwei Jahren etwa 20 Stellen in Mössingen mit Freifunk versorgt hat. Im Jahr 2017 fand im Rahmen der Versorgung des Freibads die erste Kooperation mit der Stadt Mössingen statt.
-Im Frühjahr 2019 wurde die Zusammenarbeit fortgeschrieben, die Kommune hat für das laufende Jahr Haushaltsmittel in den Haushalt eingestellt, die Jugendvertretung geeignete Stellen ausgesucht und die Freifunk AG wird weitere Orte in Mössingen im Auftrag der Stadt mit freiem WLan versorgen.
-Der Vortrag beleuchtet Genese des Projekts, Widerstände und Probleme nicht nur technischer, sondern auch politischer Natur und gibt einen Einblick in das spannende Verhältnis zwischen Schule, Kommunalpolitik und Technik. 
+Ausgehend von einem Projekt zur Vernetzung eines Flüchtlingsheims im Jahre 2016 hat sich am Quenstedt-Gymnasium Mössingen die "Freifunk AG" gebildet, die in den vergangenen zwei Jahren etwa 20 Stellen in Mössingen mit Freifunk versorgt hat. Im Jahr 2017 fand im Rahmen der Versorgung des Freibads die erste Kooperation mit der Stadt Mössingen statt.  
+Im Frühjahr 2019 wurde die Zusammenarbeit fortgeschrieben, die Kommune hat für das laufende Jahr Haushaltsmittel in den Haushalt eingestellt, die Jugendvertretung geeignete Stellen ausgesucht und die Freifunk AG wird weitere Orte in Mössingen im Auftrag der Stadt mit freiem WLan versorgen.  
+Der Vortrag beleuchtet Genese des Projekts, Widerstände und Probleme nicht nur technischer, sondern auch politischer Natur und gibt einen Einblick in das spannende Verhältnis zwischen Schule, Kommunalpolitik und Technik.  
 Bei ausreichender Motivation werden die SchülerInnen der AG am Vortrag mitwirken ;)
 
 ### Vorwissen

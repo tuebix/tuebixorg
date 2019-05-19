@@ -11,8 +11,8 @@ menu:
 
 ### Christian Brauner
 
-Traditionally processes are identified by process identifiers aka PIDs. These are globally unique identifiers. As such users do not hold a stable reference on the process they identify. Because of that PIDs will be recycled by the kernel. This means a PID might refer to a different process than what a user thought it did. As such PIDs are inherently racy, e.g. a process might end up sending a signal to PID which referes to a process it didn't itend to signal.
-To solve this long-standing problem Jann Horn and I have introduced the concept of file descriptors for processes aka pidfds into the kernel. As things stand kernel 5.2. might gain the ability to refer to processes via file descriptors, making it possible for a process to get a stable and private reference on a process. Even if the PID is recycled the pidfd will refer to the original process.
+Traditionally processes are identified by process identifiers aka PIDs. These are globally unique identifiers. As such users do not hold a stable reference on the process they identify. Because of that PIDs will be recycled by the kernel. This means a PID might refer to a different process than what a user thought it did. As such PIDs are inherently racy, e.g. a process might end up sending a signal to PID which referes to a process it didn't itend to signal.  
+To solve this long-standing problem Jann Horn and I have introduced the concept of file descriptors for processes aka pidfds into the kernel. As things stand kernel 5.2. might gain the ability to refer to processes via file descriptors, making it possible for a process to get a stable and private reference on a process. Even if the PID is recycled the pidfd will refer to the original process.  
 In this talk I will look at the history (in other systems) and the general idea of using pidfds, the work we had to do, and what we have planned for the future.
 
 ### Vorwissen

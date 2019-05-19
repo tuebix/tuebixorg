@@ -23,6 +23,6 @@ Ein spezielles Vorwissen der Zuhörer wird nicht vorausgesetzt. Interesse an HPC
 
 ### Über mich
 
-Holger Gantikow hat an der Hochschule Furtwangen Informatik studiert und ist bei AtoS (ehemals science + computing ag) in Tübingen als Senior Systems Engineer tätig. Dort beschäftigt er sich mit der Komplexität heterogener Systeme im CAE-Berechnungsumfeld und betreut Kunden aus dem technisch-wissenschaftlichen Bereich. 
+Holger Gantikow hat an der Hochschule Furtwangen Informatik studiert und ist bei AtoS (ehemals science + computing ag) in Tübingen als Senior Systems Engineer tätig. Dort beschäftigt er sich mit der Komplexität heterogener Systeme im CAE-Berechnungsumfeld und betreut Kunden aus dem technisch-wissenschaftlichen Bereich.  
 Nebenbei forscht er in Kooperation mit der Hochschule Furtwangen und der Plymouth University daran, wie sich HPC in der Cloud und cloudartigen Umgebungen realisieren lässt.
 

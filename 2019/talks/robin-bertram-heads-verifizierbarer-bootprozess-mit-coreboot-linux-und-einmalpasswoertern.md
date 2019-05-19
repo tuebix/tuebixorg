@@ -11,7 +11,7 @@ menu:
 
 ### Robin Bertram
 
-Heads ist eine BIOS-Alternative, die auf Coreboot und dem Linux-Kernel basiert.
+Heads ist eine BIOS-Alternative, die auf Coreboot und dem Linux-Kernel basiert.  
 Mit Einmalpasswörtern, wie man sie von der 2-Faktor-Authentifizierung mit dem Google-Authenticator kennt, kann die Installation von Heads verifiziert werden.
 
 ### Vorwissen

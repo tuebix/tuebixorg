@@ -23,12 +23,12 @@ Auch wenn der Dozent hier einmal wieder einen Lötkolben zur Hand nimmt, sind ke
 
 ### Über mich
 
-Klaus Knopper ist Diplomingenieur der Elektrotechnik und unterrichtet
-als Professor an der Hochschule Kaiserslautern Grundlagen der
-Informatik, Softwaretechnik, Software-Engineering und IT Sicherheit. Als
-langjähriger Software-Entwickler hat er an einigen bekannten Open Source
-Software-Projekten mitgewirkt, u.a. KNOPPIX, ADRIANE und LINBO und ist
-häufig zu Gast auf Open Source und
+Klaus Knopper ist Diplomingenieur der Elektrotechnik und unterrichtet  
+als Professor an der Hochschule Kaiserslautern Grundlagen der  
+Informatik, Softwaretechnik, Software-Engineering und IT Sicherheit. Als  
+langjähriger Software-Entwickler hat er an einigen bekannten Open Source  
+Software-Projekten mitgewirkt, u.a. KNOPPIX, ADRIANE und LINBO und ist  
+häufig zu Gast auf Open Source und  
 Linux-Messen.
 
 ### Links

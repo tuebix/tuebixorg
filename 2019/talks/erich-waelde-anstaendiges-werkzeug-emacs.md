@@ -11,12 +11,12 @@ menu:
 
 ### Erich Wälde
 
-Dieser "Mitmach"-Workshop soll die Teilnehmer durch die anfänglichen Hürden führen, die jedes neue Werkzeug so mit sich bringt. Es wird empfohlen, ein Notebook mitzubringen und emacs und seine Dokumentation vorab zu installieren. emacs läuft auch auf Windows und MacOS!
-- emacs starten und beenden
-- Hilfe? Konzepte?
-- eine Datei öffnen oder anlegen, Datei ändern und speichern oder auch verwerfen
-- Regionen markieren, kopieren, löschen, verschieben
-- Suchen und ersetzen
+Dieser "Mitmach"-Workshop soll die Teilnehmer durch die anfänglichen Hürden führen, die jedes neue Werkzeug so mit sich bringt. Es wird empfohlen, ein Notebook mitzubringen und emacs und seine Dokumentation vorab zu installieren. emacs läuft auch auf Windows und MacOS!  
+- emacs starten und beenden  
+- Hilfe? Konzepte?  
+- eine Datei öffnen oder anlegen, Datei ändern und speichern oder auch verwerfen  
+- Regionen markieren, kopieren, löschen, verschieben  
+- Suchen und ersetzen  
 Damit kann man schon allerhand anfangen. Der Rest des Workshops ist eine Demo durch die von mir für wichtig erachteten Pakete. Denn man kann damit echt erstaunliche Dinge anstellen: org-mode (spread sheet, Termine, Agenda), mu4e (email), calc und mehr.
 
 ### Vorwissen

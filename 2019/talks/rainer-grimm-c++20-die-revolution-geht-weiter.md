@@ -23,12 +23,10 @@ Mit Couroutinen unterstützt C++20 die asynchrone Programmierung. Damit werden s
 
 Module stellen eine Alternative zu Header-Dateien dar und versprechen viele Verbesserung. Die Trennung von Header- und Sourcecodedateien aufzulösen, Präprozessor-Anweisungen zu eliminieren, bessere Kompilierungszeiten zu erzielen und einfacher Pakete zu schnüren.
 
-
 ### Über mich
 
-Rainer Grimm ist seit vielen Jahren als Softwarearchitekt, Team- und Schulungsleiter tätig. In seiner Freizeit schreibt er gerne Artikel zu den Programmiersprachen C++, Python und Haskell, spricht aber auch gerne auf Fachkonferenzen. Auf seinem Blog Modernes C++ (Heise Developer) beschäftigt er sich intensiv mit seiner Leidenschaft C++. Seit 2016 steht er auf selbstständigen Beinen. Insbesondere das Vermitteln von Wissen zu modernem C++ ist ihm eine Herzensangelegenheit.
+Rainer Grimm ist seit vielen Jahren als Softwarearchitekt, Team- und Schulungsleiter tätig. In seiner Freizeit schreibt er gerne Artikel zu den Programmiersprachen C++, Python und Haskell, spricht aber auch gerne auf Fachkonferenzen. Auf seinem Blog Modernes C++ (Heise Developer) beschäftigt er sich intensiv mit seiner Leidenschaft C++. Seit 2016 steht er auf selbstständigen Beinen. Insbesondere das Vermitteln von Wissen zu modernem C++ ist ihm eine Herzensangelegenheit.  
 Seine Bücher "C++11 für Programmierer", "C++" und "C++-Standardbibliothek" für die kurz und gut Reihe sind beim Verlag O'Reilly erschienen. Seine englischsprachigen Werke "The C++ Standard Library" und "Concurrency with Modern C++" sind in mehrere Sprachen übersetzt worden. 
-
 
 ### Links
 

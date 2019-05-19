@@ -11,25 +11,24 @@ menu:
 
 ### Michael Ströder
 
-Wir alle lieben SSH! Und wir verwenden brav Benutzerschlüssel,
-installiert als sogenannte »authorized keys«. Allerdings verleiten gut
-gemeinte Anleitungen im Internet zu einer bequemen, aber eher
+Wir alle lieben SSH! Und wir verwenden brav Benutzerschlüssel,  
+installiert als sogenannte »authorized keys«. Allerdings verleiten gut  
+gemeinte Anleitungen im Internet zu einer bequemen, aber eher  
 fragwürdigen Nutzung von SSH-Schlüsseln.
 
-Es stellen sich folgende Fragen:
-Wie werden private Schlüssel sicher gespeichert?
-Smartcards nutzen?
-Wie funktioniert die Nutzung auf mehreren Clients und Gateways?
-Wie wird die Authentizität der öffentlichen Schlüssel gewährleistet?
-Wie werden obsolete Schlüssel wieder zuverlässig entfernt?
+Es stellen sich folgende Fragen:  
+Wie werden private Schlüssel sicher gespeichert?  
+Smartcards nutzen?  
+Wie funktioniert die Nutzung auf mehreren Clients und Gateways?  
+Wie wird die Authentizität der öffentlichen Schlüssel gewährleistet?  
+Wie werden obsolete Schlüssel wieder zuverlässig entfernt?  
 Wie erreicht man 2FA?
 
-Eine Lösung sind nur kurzzeitig gültige SSH-Schlüsselzertifikate, welche
-einem Benutzer nach erfolgreicher Mehrfaktor-Authentifizierung
-ausgestellt werden. Eine solche Implementierung wird vorgestellt und
-erläutert, warum eine Nutzung von Smartcards für den Einsatz in einer
+Eine Lösung sind nur kurzzeitig gültige SSH-Schlüsselzertifikate, welche  
+einem Benutzer nach erfolgreicher Mehrfaktor-Authentifizierung  
+ausgestellt werden. Eine solche Implementierung wird vorgestellt und  
+erläutert, warum eine Nutzung von Smartcards für den Einsatz in einer  
 grossen RZ-Umgebung nicht geeignet ist.
-
 
 ### Vorwissen
 

@@ -21,7 +21,7 @@ Und dann gibt es noch ein tolles Kommandozeilen-Tool welches genau diese Paralle
 
 ### Vorwissen
 
-wie immer: tippen koennen.
+wie immer: tippen koennen.  
 und vielleicht ein bissl Spass mit oder zumind. Interesse an der Kommandozeile und Pipes.
 
 ### Über mich

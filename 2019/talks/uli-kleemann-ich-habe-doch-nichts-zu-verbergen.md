@@ -19,7 +19,7 @@ Sollten sich darüber im Klaren sein das das Web weder ein rechtsfreier noch rea
 
 ### Über mich
 
-51 Linux-Sysadmin gläubiger Debianer, Torrorist und Datenaktivist, 
+51 Linux-Sysadmin gläubiger Debianer, Torrorist und Datenaktivist,  
 # Kryptografie # Kryptologie #SDR 
 
 ### Links
