@@ -17,7 +17,7 @@ Linux ist eine Wundertüte voller Werkzeuge. Da sind die Bekannteren wie ls, cd,
 
 Schonmal auf der Kommandozeile unterwegs gewesen zu sein, ist sicher hilfreich.
 
-### Über mich
+### Über uns
 
 Axel Beckert: Linux-Systemadministrator und Spezialist für Netzwerksicherheit an der ETH Zürich. Debian-Entwickler und Administrator von debian.ethz.ch aka ftp.ch.debian.org. Vorstandsmitglied der Linux User Group Switzerland (LUGS). Hochgeschätzter Co-Moderator des Schweizer Podcasts Hackerfunk.
 
