@@ -13,7 +13,7 @@ menu:
 
 Computer wurden ursprünglich als Rechenmaschinen entwickelt. Am Beispiel eines Fahrtenbuchs zeigen wir, wie Sie mit Bordmitteln das Maschinchen zu Ihren Gunsten werkeln lassen. Dabei stellen wir Ihnen sieben clevere Varianten der Problemlösung für die Kommandozeile vor.
 
-### Über mich
+### Über uns
 
 Frank Hofmann arbeitet von unterwegs aus als Entwickler, Trainer und Autor.  
 Bevorzugte Arbeitsorte sind Berlin, Genf und Kapstadt.
