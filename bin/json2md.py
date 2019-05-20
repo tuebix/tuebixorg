@@ -42,8 +42,7 @@ for talk in data:
     ignored_urlids = [
             "alexander-landstorfer-das-tuebinger-80cm-teleskop",
             "tuebix-exit",
-            "tuebix-init",
-            "frank-hofmann-harald-koenig-sieben-bruecken-fahrtenbuch-mit-skripten-auslesen"
+            "tuebix-init"
     ]
     if talk["urlid"] in ignored_urlids:
         continue
@@ -90,7 +89,10 @@ for talk in data:
             if talk["vorwissen"]:
                 mdf.write("### Vorwissen\n\n" + transform_linefeeds(talk["vorwissen"]) + "\n\n")
             if talk["aboutme"]:
-                mdf.write("### Über mich\n\n")
+                if re.search("\+|,", talk["name"]): # One or multiple speakers?
+                    mdf.write("### Über uns\n\n")
+                else:
+                    mdf.write("### Über mich\n\n")
                 mdf.write(transform_linefeeds(talk["aboutme"])+ "\n\n")
             if talk["weblinks"]:
                 mdf.write("### Links\n\n")
