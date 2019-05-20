@@ -38,6 +38,15 @@ with open('programm2.md', 'w') as prog2:
 
 
 for talk in data:
+    # TODO: Ignore these pages for now:
+    ignored_urlids = [
+            "alexander-landstorfer-das-tuebinger-80cm-teleskop",
+            "tuebix-exit",
+            "tuebix-init",
+            "frank-hofmann-harald-koenig-sieben-bruecken-fahrtenbuch-mit-skripten-auslesen"
+    ]
+    if talk["urlid"] in ignored_urlids:
+        continue
     # TODO: Change the format for the URL ID? E.g. "name_title" instead of "name-title"?:
     # Old schema: thomas-rauch-das-tuebinger-80cm-teleskop
     # Possible new schema: URL encode and e.g. "+" or "_" between the name and title?
