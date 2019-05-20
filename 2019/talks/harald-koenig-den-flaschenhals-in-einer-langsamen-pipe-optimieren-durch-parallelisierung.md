@@ -26,5 +26,5 @@ und vielleicht ein bissl Spass mit oder zumind. Interesse an der Kommandozeile u
 
 ### Über mich
 
-Physik-Studium in Tübingen, Rechner und DCF77 seit ~1980, (La)TeX seit 1986, UNIX seit ~1987, Linux seit 1992 (0.98.4), XFree86-Treiber für S3 von ~1993-2001. Von 2001 bis 2014 bei der science+computing ag in Tübingen (heute Atos) als SW-Entwickler. Seit 2014 nun bei Bosch Sensortec GmbH in Kusterdingen/Reutlingen als “System Expert” für Linux , Android und uC Treiber.
+Physik-Studium in Tübingen, Rechner und DCF77 seit ~1980, (La)TeX seit 1986, UNIX seit ~1987, Linux seit 1992 (0.98.4), XFree86-Treiber für S3 von ~1993-2001. Von 2001 bis 2014 bei der science+computing ag in Tübingen (heute Atos) als SW-Entwickler. Seit 2014 nun bei Bosch Sensortec GmbH in Kusterdingen/Reutlingen als “System Expert” für Linux, Android und uC Treiber.
 

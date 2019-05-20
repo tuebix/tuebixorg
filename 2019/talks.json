@@ -159,7 +159,7 @@
         "titel": "Redis ist 10!",
         "buzzword": "NoSQL, In-Memory Datenbank, Performance, multi-modale DB",
         "inhalt": "Was als einfacher Key-Value Store mit dem ersten Code-Commit 2009 anfing, hat sich zu einer der führenden NoSQL / In-Memory Datenbanken entwickelt, die mittlerweile selbst ein wichtiger Bestandteil von vielen Open Source Projekten ist. Da alle Daten \nim Hauptspeicher gehalten werden, ist die Schnelligkeit bzw. minimale Latenz bei der Verarbeitung einer der primären Vorteile dieser Datenbank. Ob als schneller Cache, der beim Zugriff auf eine herkömmliche Datenbank die Zugriffszeiten gering hält oder\nals vollständige Datenbank, die Millionen von Transaktionen pro Sekunde stemmt, Redis ist für mehr und mehr Entwickler der Datenspeicher der Wahl, wenn es um Echtzeitanforderungen geht. 157 Klientenanbindungen in mehr als 58 Programmiersprachen sorgen für die einfache Integration in vorhandenen Quellcode oder neue Projekte.",
-        "aboutme": "\nDr. Christoph Zimmermann ist seit mehr 30 Jahren im FOSS-Umfeld aktiv. Als technischer Support der FraLUG, Arch Package Maintainer unf Tübix-Kuchenlieferant / Grillmeister ist er ein gefragter Redner bei Veranstaltungen wie der OpenRheinRuhr (wo er 2018 auch im Rahmen der Orga für die Medienarbeit zuständig war), den Chemnitzer Linux Tagen und vielen anderen mehr. Sofern neben diesen Hobbies noch Zeit bleibt, ist er für Redis Labs im Bereich DACH Community Management unterwegs.",
+        "aboutme": "\nDr. Christoph Zimmermann ist seit mehr 30 Jahren im FOSS-Umfeld aktiv. Als technischer Support der FraLUG, Arch Package Maintainer unf Tübix-Kuchenlieferant / Grillmeister ist er ein gefragter Redner bei Veranstaltungen wie der OpenRheinRuhr (wo er 2018 auch im Rahmen der Orga für die Medienarbeit zuständig war), den Chemnitzer Linux Tagen und vielen anderen mehr. Sofern neben diesen Hobbies noch Zeit bleibt, ist er für redislabs im Bereich DACH Community Management unterwegs.",
         "vorwissen": "Grundkenntnisse Datenbanken,\nInteresse an NoSQL-DBs,\nPython (optional)",
         "weblinks": {
             "1": {
@@ -703,12 +703,16 @@
                 "title": "pidfd_send_signal syscall"
             },
             "2": {
-                "url": "https://git.kernel.org/pub/scm/linux/kernel/git/brauner/linux.git/commit/?h=pidfd&id=2897d468ea487736a1696a5915280850394482a1",
+                "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=eac7078a0fff1e72cf2b641721e3f55ec7e5e21e",
                 "title": "CLONE_PIDFD flag for clone syscall"
             },
             "3": {
-                "url": "https://lore.kernel.org/lkml/20190425190010.46489-1-joel@joelfernandes.org/",
+                "url": "https://git.kernel.org/pub/scm/linux/kernel/git/brauner/linux.git/commit/?h=for-next&id=51f1b521a51580d65d4cbe6debea5f5a9c54a788",
                 "title": "Making pidfds pollable"
+            },
+            "4": {
+                "url": "https://git.kernel.org/pub/scm/linux/kernel/git/brauner/linux.git/commit/?h=pidfd_open&id=f3643dd7b98693e1ce83f55f6f7a72e25c8a5cb1",
+                "title": "pidfd_open() syscall"
             }
         },
         "urlid": "christian-brauner-file-descriptors-for-processes",
@@ -877,7 +881,7 @@
         "name": "Thorsten Leemhuis",
         "titel": "Aktuelle Entwicklungen beim Linux-Kernel",
         "buzzword": "Linux-Kernel, Dateisysteme, Treiber, Sicherheit, Netzwerk- und Storage-Techniken, ",
-        "inhalt": "Der Vortrag gibt einen Überblick über jüngst beim Linux-Kernel vorgenommene Verbesserungen, die für Heim-PCs und Server von Belang sind. Dabei geht es nicht nur um Neuerungen bei Dateisystemen, Netzwerkunterstützung & Co., sondern auch um neue oder erweiterte Treiber für gängige PC-Hardware. Der Vortrag geht auch auf einige Neuerungen bei Kernel-naher Software ein – etwa bei den quelloffenen 3D-Treibern für Grafikhardware, denn diese arbeiten eng mit den Kernel-Treibern zusammen.",
+        "inhalt": "Der Vortrag gibt einen Überblick über jüngst beim Linux-Kernel vorgenommene Verbesserungen, die für Heim-PCs und Server von Belang sind. Dabei geht es nicht nur um Neuerungen bei Dateisystemen, Netzwerkunterstützung & Co., sondern auch um neue oder erweiterte Treiber für gängige PC-Hardware. Der Vortrag geht auch auf einige Neuerungen bei Kernel-naher Software ein – etwa bei den quelloffenen 3D-Treibern für Grafikhardware, denn diese arbeiten eng mit den Kernel-Treibern zusammen. Es werden zudem einige Verbesserungen beleuchtet, die gerade für zukünftige Kernel vorbereitet werden.",
         "aboutme": "Thorsten ist Redakteur beim c't Magazin für Computertechnik, wo er seit fünfzehn Jahren vor allem zu Linux und Hardware schreibt. Diese Mischung ist auch der Grund, warum er seit mehr als einem Jahrzehnt sich sehr intensiv mit dem Linux-Kernel beschäftigt und ausführlich darüber in seinem \"Kernel-Log\" berichtet.",
         "vorwissen": "",
         "weblinks": {
@@ -887,7 +891,7 @@
             },
             "2": {
                 "url": "https://twitter.com/kernellogger",
-                "title": "Auf Kernel-Themen spezialiserter Twitter-Account von Thorsten"
+                "title": "Auf Kernel-Themen spezialisierter Twitter-Account von Thorsten"
             }
         },
         "urlid": "thorsten-leemhuis-aktuelle-entwicklungen-beim-linux-kernel",
@@ -943,7 +947,7 @@
         "titel": "Den Flaschenhals in einer langsamen Pipe optimieren durch Parallelisierung",
         "buzzword": "bash , sed , pipe , bottleneck , speedup , tuning , command line , success , world domination",
         "inhalt": "Neues aus meiner Shell-Küche: in einem Skript zum Disassemblieren eines einfachen seriellen Protokolls mit Hilfe von \"sed\" werden die Input-Daten immer größer und sed braucht immer länger -- inzwischen bei letzten Messdaten über 20 Minuten! Das muss doch auch schneller gehen?!\n\nHeute haben (fast) alle Rechner mehrere CPU-Cores und (Hyper)Threads. Warum also läuft das zu langsame sed nicht parallel auf allen verfügbaren CPUs und vervielfacht so den Durchsatz des Tools ?\n\nKlingt einfach, ist aber zunächt gar nicht sooo trivial alleine mit Shell-Mitteln.  Die Probleme werden gezeigt, und wie man mit ein bissl Aufwand das alles in den Griff bekommen kann.\n\nUnd dann gibt es noch ein tolles Kommandozeilen-Tool, welches genau diese Parallelisierung eines Programms wie sed in einer Pipe mit allen seinen Problemen perfekt löst, ganz ohne die grauen Haare der \"nur-in-Shell-Lösung\".",
-        "aboutme": "Physik-Studium in Tübingen, Rechner und DCF77 seit ~1980, (La)TeX seit 1986, UNIX seit ~1987, Linux seit 1992 (0.98.4), XFree86-Treiber für S3 von ~1993-2001. Von 2001 bis 2014 bei der science+computing ag in Tübingen (heute Atos) als SW-Entwickler. Seit 2014 nun bei Bosch Sensortec GmbH in Kusterdingen/Reutlingen als “System Expert” für Linux , Android und uC Treiber.",
+        "aboutme": "Physik-Studium in Tübingen, Rechner und DCF77 seit ~1980, (La)TeX seit 1986, UNIX seit ~1987, Linux seit 1992 (0.98.4), XFree86-Treiber für S3 von ~1993-2001. Von 2001 bis 2014 bei der science+computing ag in Tübingen (heute Atos) als SW-Entwickler. Seit 2014 nun bei Bosch Sensortec GmbH in Kusterdingen/Reutlingen als “System Expert” für Linux, Android und uC Treiber.",
         "vorwissen": "wie immer: tippen können.\nund vielleicht ein bissl Spass mit oder zumind. Interesse an der Kommandozeile und Pipes.",
         "weblinks": {},
         "urlid": "harald-koenig-den-flaschenhals-in-einer-langsamen-pipe-optimieren-durch-parallelisierung",
@@ -980,7 +984,7 @@
         "titel": "Sieben Brücken. Fahrtenbuch mit Skripten auslesen.",
         "buzzword": "rechnen, skript-sprachen, ",
         "inhalt": "Computer wurden ursprünglich als Rechenmaschinen entwickelt. Am Beispiel eines Fahrtenbuchs zeigen wir, wie Sie mit Bordmitteln das Maschinchen zu Ihren Gunsten werkeln lassen. Dabei stellen wir Ihnen sieben clevere Varianten der Problemlösung für die Kommandozeile vor.",
-        "aboutme": "Frank Hofmann arbeitet von unterwegs aus als Entwickler, Trainer und Autor.\nBevorzugte Arbeitsorte sind Berlin, Genf und Kapstadt.\n\nHarald König hat  in Tübingen Physik studiert, Rechner und DCF77 seit ~1980, (La)TeX seit 1986, UNIX seit ~1987, Linux seit 1992 (0.98.4), XFree86-Treiber fuer S3 von ~1993-2001. Von 2001 bis 2014 war er bei der science+computing ag in Tübingen (heute Atos) als SW-Entwickler. Seit 2014 ist er nun bei Bosch Sensortec GmbH in Kusterdingen/Reutlingen als “System Expert” fuer Linux , Android und uC Treiber.",
+        "aboutme": "Frank Hofmann arbeitet von unterwegs aus als Entwickler, Trainer und Autor.\nBevorzugte Arbeitsorte sind Berlin, Genf und Kapstadt.\n\nHarald König hat  in Tübingen Physik studiert, Rechner und DCF77 seit ~1980, (La)TeX seit 1986, UNIX seit ~1987, Linux seit 1992 (0.98.4), XFree86-Treiber fuer S3 von ~1993-2001. Von 2001 bis 2014 war er bei der science+computing ag in Tübingen (heute Atos) als SW-Entwickler. Seit 2014 ist er nun bei Bosch Sensortec GmbH in Kusterdingen/Reutlingen als “System Expert” für Linux, Android und uC Treiber.",
         "vorwissen": "",
         "weblinks": {
             "1": {

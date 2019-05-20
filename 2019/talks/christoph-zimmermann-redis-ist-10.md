@@ -23,7 +23,7 @@ Python (optional)
 
 ### Über mich
 
-Dr. Christoph Zimmermann ist seit mehr 30 Jahren im FOSS-Umfeld aktiv. Als technischer Support der FraLUG, Arch Package Maintainer unf Tübix-Kuchenlieferant / Grillmeister ist er ein gefragter Redner bei Veranstaltungen wie der OpenRheinRuhr (wo er 2018 auch im Rahmen der Orga für die Medienarbeit zuständig war), den Chemnitzer Linux Tagen und vielen anderen mehr. Sofern neben diesen Hobbies noch Zeit bleibt, ist er für Redis Labs im Bereich DACH Community Management unterwegs.
+Dr. Christoph Zimmermann ist seit mehr 30 Jahren im FOSS-Umfeld aktiv. Als technischer Support der FraLUG, Arch Package Maintainer unf Tübix-Kuchenlieferant / Grillmeister ist er ein gefragter Redner bei Veranstaltungen wie der OpenRheinRuhr (wo er 2018 auch im Rahmen der Orga für die Medienarbeit zuständig war), den Chemnitzer Linux Tagen und vielen anderen mehr. Sofern neben diesen Hobbies noch Zeit bleibt, ist er für redislabs im Bereich DACH Community Management unterwegs.
 
 ### Links
 

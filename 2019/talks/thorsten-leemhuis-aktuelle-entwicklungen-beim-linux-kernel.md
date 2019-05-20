@@ -11,7 +11,7 @@ menu:
 
 ### Thorsten Leemhuis
 
-Der Vortrag gibt einen Überblick über jüngst beim Linux-Kernel vorgenommene Verbesserungen, die für Heim-PCs und Server von Belang sind. Dabei geht es nicht nur um Neuerungen bei Dateisystemen, Netzwerkunterstützung & Co., sondern auch um neue oder erweiterte Treiber für gängige PC-Hardware. Der Vortrag geht auch auf einige Neuerungen bei Kernel-naher Software ein – etwa bei den quelloffenen 3D-Treibern für Grafikhardware, denn diese arbeiten eng mit den Kernel-Treibern zusammen.
+Der Vortrag gibt einen Überblick über jüngst beim Linux-Kernel vorgenommene Verbesserungen, die für Heim-PCs und Server von Belang sind. Dabei geht es nicht nur um Neuerungen bei Dateisystemen, Netzwerkunterstützung & Co., sondern auch um neue oder erweiterte Treiber für gängige PC-Hardware. Der Vortrag geht auch auf einige Neuerungen bei Kernel-naher Software ein – etwa bei den quelloffenen 3D-Treibern für Grafikhardware, denn diese arbeiten eng mit den Kernel-Treibern zusammen. Es werden zudem einige Verbesserungen beleuchtet, die gerade für zukünftige Kernel vorbereitet werden.
 
 ### Über mich
 
@@ -20,4 +20,4 @@ Thorsten ist Redakteur beim c't Magazin für Computertechnik, wo er seit fünfze
 ### Links
 
 - <a href="https://www.heise.de/thema/Kernel_Log" target="_blank">Kernel-Log bei heise.de</a>
-- <a href="https://twitter.com/kernellogger" target="_blank">Auf Kernel-Themen spezialiserter Twitter-Account von Thorsten</a>
+- <a href="https://twitter.com/kernellogger" target="_blank">Auf Kernel-Themen spezialisierter Twitter-Account von Thorsten</a>
