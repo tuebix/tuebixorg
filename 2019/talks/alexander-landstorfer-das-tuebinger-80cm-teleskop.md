@@ -7,15 +7,15 @@ menu:
 ---
 ## Das Tübinger 80cm-Teleskop
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:30 in Raum Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:30 bei der Teleskopkuppel
 
-### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:00 in Raum Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:00 bei der Teleskopkuppel
 
-### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 in Raum Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 bei der Teleskopkuppel
 
-### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 14:00 in Raum Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 14:00 bei der Teleskopkuppel
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:30 in Raum Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:30 bei der Teleskopkuppel
 
 ### Alexander Landstorfer
 
