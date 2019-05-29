@@ -21,7 +21,7 @@ Wir werden nicht mehr als 6 Mails im Jahr schreiben:
 6. Mail: "reserved for future use", damit wir unser Versprechen nicht brechen
    müssen ;)
 
-Die Anmeldung erfolgt per Mail an
+Die <b>Anmeldung</b> erfolgt per Mail an
 [tuebix-news-subscribe@fsi.uni-tuebingen.de](mailto:tuebix-news-subscribe@fsi.uni-tuebingen.de?subject=Subscribe)
 oder über das Web-Interface:
 <a href="https://www.fsi.uni-tuebingen.de/mailman/listinfo/tuebix-news" target="_blank">https://www.fsi.uni-tuebingen.de/mailman/listinfo/tuebix-news</a>

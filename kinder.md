@@ -12,7 +12,9 @@ Wir freuen uns sehr, dass seit dem Tübix 2016 die <a href="https://www.teckids.
 
 
 <span style="font-weight: bold;">Für eine Teilnahme ist die vorherige Anmeldung unbedingt notwendig. Eine spontane Teilnahme am Tag selbst ist leider dieses Jahr nicht möglich!<br/></span>
-Die Anmeldung ist freigeschaltet: <a href="https://www.teckids.org/de/veranstaltungen/nachste-veranstaltungen/event/project-froglabs-2019-tuebix" target="_blank">FrogLabs Tübingen 2019</a>.
+<div style="text-align: center; font-size: 250%; text-decoration: underline;">
+  <a href="https://www.teckids.org/de/veranstaltungen/nachste-veranstaltungen/event/project-froglabs-2019-tuebix" target="_blank">Zur Anmeldung</a>
+</div>
 
 
 <a href="https://www.teckids.org/de/neuigkeiten/2017/07/03/bericht-von-den-mini-froglabs-beim-tubix-2017" target="_blank">Rückblick 2017</a>

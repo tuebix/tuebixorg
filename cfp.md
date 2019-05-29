@@ -21,6 +21,10 @@ einreichen:
 
 # Du möchtest einen Lightning Talk beisteuern?
 
-Toll! Dann fülle rasch die <a href="https://cfp.tuebix.org" target="_blank" style="font-size: 200%">Anmeldung</a> aus!
+Toll! Dann fülle rasch die Anmeldung aus!
+
+<div style="text-align: center; font-size: 250%; text-decoration: underline;">
+  <a href="https://cfp.tuebix.org" target="_blank">Zur Anmeldung</a>
+</div>
 
 <p style="text-align: right;"><a href="http://www.flaticon.com" target="_blank">Bildquelle: flaticon.com</a></p>
