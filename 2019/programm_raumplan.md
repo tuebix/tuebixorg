@@ -43,7 +43,7 @@ menu:
 <tr><td>14:00</td><td>bis</td><td>14:50</td><td><a class="talk"></a></td><td><a href="../programm/daniel-kulesz-software-testen-ja-bitte">Software&nbsp;testen?&nbsp;Ja&nbsp;bitte!</a></td><td>Daniel&nbsp;Kulesz</td></tr>
 <tr><td>15:00</td><td>bis</td><td>15:50</td><td><a class="talk"></a></td><td><a href="../programm/christian-seiler-jenseits-der-tutorials-wie-hello-world-wirklich-funktioniert">Jenseits&nbsp;der&nbsp;Tutorials:&nbsp;Wie&nbsp;"Hello&nbsp;World"&nbsp;wirklich&nbsp;funktioniert</a></td><td>Christian&nbsp;Seiler</td></tr>
 <tr><td>16:00</td><td>bis</td><td>16:50</td><td><a class="talk"></a></td><td><a href="../programm/rainer-grimm-c++20-die-revolution-geht-weiter">C++20&nbsp;-&nbsp;Die&nbsp;Revolution&nbsp;geht&nbsp;weiter</a></td><td>Rainer&nbsp;Grimm</td></tr>
-<tr><td>17:00</td><td>bis</td><td>17:20</td><td><a class="talk"></a></td><td><a href="../programm/sonja-goettler-scrum-agile-softwareentwicklung-best-practices">scrum?&nbsp;agile&nbsp;Softwareentwicklung?&nbsp;Best&nbsp;Practices</a></td><td>Sonja&nbsp;Göttler</td></tr>
+<tr><td>17:00</td><td>bis</td><td>17:20</td><td><a class="talk"></a></td><td><a href="../programm/sonja-goettler-der-berechtigte-hype-um-agile-softwareentwicklung">Der&nbsp;berechtigte&nbsp;(?!)&nbsp;Hype&nbsp;um&nbsp;agile&nbsp;Softwareentwicklung</a></td><td>Sonja&nbsp;Göttler</td></tr>
 <tr><td>17:30</td><td>bis</td><td>17:50</td><td><a class="talk"></a></td><td><a href="../programm/arnd-bergmann-the-end-of-time-19-years-to-go">The&nbsp;End&nbsp;of&nbsp;Time,&nbsp;19&nbsp;years&nbsp;to&nbsp;go</a></td><td>Arnd&nbsp;Bergmann</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Raum V3</td></tr>
