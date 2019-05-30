@@ -707,11 +707,11 @@
                 "title": "CLONE_PIDFD flag for clone syscall"
             },
             "3": {
-                "url": "https://git.kernel.org/pub/scm/linux/kernel/git/brauner/linux.git/commit/?h=for-next&id=51f1b521a51580d65d4cbe6debea5f5a9c54a788",
+                "url": "https://git.kernel.org/pub/scm/linux/kernel/git/brauner/linux.git/commit/?h=for-next&id=ff33a1edabd2635eecc4abb4c6d615f27bca7d6e",
                 "title": "Making pidfds pollable"
             },
             "4": {
-                "url": "https://git.kernel.org/pub/scm/linux/kernel/git/brauner/linux.git/commit/?h=pidfd_open&id=f3643dd7b98693e1ce83f55f6f7a72e25c8a5cb1",
+                "url": "https://git.kernel.org/pub/scm/linux/kernel/git/brauner/linux.git/commit/?h=for-next&id=1330da983951360992f32cb5f83c9fd843c5cb68",
                 "title": "pidfd_open() syscall"
             }
         },
