@@ -40,9 +40,7 @@ with open('programm2.md', 'w') as prog2:
 for talk in data:
     # TODO: Ignore these pages for now:
     ignored_urlids = [
-            "alexander-landstorfer-das-tuebinger-80cm-teleskop",
-            "tuebix-exit",
-            "tuebix-init"
+            "alexander-landstorfer-das-tuebinger-80cm-teleskop"
     ]
     if talk["urlid"] in ignored_urlids:
         continue
@@ -80,7 +78,10 @@ for talk in data:
                 mdf.write('lightning.svg')
                 cssclass = "light"
             else:
-                mdf.write('talk.svg')
+                if talk["urlid"] in [ "tuebix-exit", "tuebix-init" ]:
+                    mdf.write('talk2.svg')
+                else:
+                    mdf.write('talk.svg')
                 cssclass = "talk"
             mdf.write('"> ' + talk["timebegin"] + " bis " + talk["timeend"] + " in Raum " + talk["room"] + "\n\n")
             mdf.write("### " + talk["name"] + "\n\n")

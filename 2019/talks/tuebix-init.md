@@ -11,9 +11,9 @@ menu:
 
 ### Tübix Orga-Team
 
-- Begrüßung
-- Infos zum Ablauf des Tages
-- Veränderungen zu letztem Jahr
-- Änderungen in letzter Minute
+- Begrüßung  
+- Infos zum Ablauf des Tages  
+- Veränderungen zu letztem Jahr  
+- Änderungen in letzter Minute  
 - Fragen?
 

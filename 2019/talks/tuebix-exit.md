@@ -11,7 +11,7 @@ menu:
 
 ### Tübix Orga-Team
 
-- gemeinsamer Abschluss
-- lottery.sh
+- gemeinsamer Abschluss  
+- lottery.sh  
 - Ausblick auf nächstes Jahr
 
