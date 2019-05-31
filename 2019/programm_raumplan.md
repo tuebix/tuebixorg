@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Programm
-permalink: /2019/programmentwurf/
-weight:
-menu:
+permalink: /2019/programm/
+weight: 5
+menu: main
 ---
 
 <table>
