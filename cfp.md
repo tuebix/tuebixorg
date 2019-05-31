@@ -4,7 +4,7 @@ title: Call for Papers
 permalink: /callforpapers/
 emailcfp: cfp2019@tuebix.org
 weight: 10
-menu: main
+menu:
 ---
 
 Der CfP ist zwar schon beendet, ABER du kannst gerne noch einen Lightning Talk
