@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CfH
+title: Helfer
 permalink: /callforhelpers/
 weight: 9
 menu: main
