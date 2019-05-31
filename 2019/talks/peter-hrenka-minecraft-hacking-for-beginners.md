@@ -25,4 +25,6 @@ Ich habe in Tübingen Mathematik studiert und bin seit vielen Jahren als Softwar
 
 ### Links
 
+- <a href="https://minecraft.gamepedia.com/Minecraft_Wiki" target="_blank">Minecraft Wiki</a>
+- <a href="https://github.com/MinecraftForge/MinecraftForge" target="_blank">Minecraft Forge</a>
 - <a href="https://www.minecraft.net/de-de" target="_blank">Offizielle Seite</a>

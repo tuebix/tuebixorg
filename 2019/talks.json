@@ -1112,6 +1112,14 @@
         "vorwissen": "Grundverständnis von Programmiersprachen",
         "weblinks": {
             "1": {
+                "url": "https://minecraft.gamepedia.com/Minecraft_Wiki",
+                "title": "Minecraft Wiki"
+            },
+            "2": {
+                "url": "https://github.com/MinecraftForge/MinecraftForge",
+                "title": "Minecraft Forge"
+            },
+            "3": {
                 "url": "https://www.minecraft.net/de-de",
                 "title": "Offizielle Seite"
             }
