@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Call for Helpers
+title: CfH
 permalink: /callforhelpers/
-weight: 12
-menu:
+weight: 9
+menu: main
 ---
 
 Pinguine sind Herdentiere und helfen einander. Das heißt: Ohne Dich geht es nicht! Aber zum Glück hast Du viele Möglichkeiten, den Tübix mitzugestalten. Wenn Du Lust hast, mit ein paar anderen netten Helfern ein paar Stunden anzupacken, übernimm doch eine Schicht im Catering. Bist Du ein Organisationstalent? Dann können wir dich in der Programmunterstützung gebrauchen. Und falls Du an deinem Tübix keine Lücke für eine Helferschicht hast, kannst Du zum guten Gelingen des Tages vielleicht dadurch beisteuern, dass Du einem Besucher von außerhalb ein Bett zur Verfügung stellst.
@@ -67,9 +67,10 @@ Sehr gerne kann man sich auch direkt als Gruppe für einen Raum anmelden und sic
 O O Raumsupport V1<br/>
 O O Raumsupport V2<br/>
 O O Raumsupport V3<br/>
+O O Raumsupport V4<br/>
 <br/>
 O Raumsupport W1<br/>
-O Raumsupport W3<br/>
+O Raumsupport W2<br/>
 
 ## So kann jeder helfen
 
