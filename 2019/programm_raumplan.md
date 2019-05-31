@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Programm 2019
+title: Programm
 permalink: /2019/programm/
 weight: 5
 menu: main
