@@ -1183,6 +1183,62 @@
         "timeend": "14:40"
     },
     {
+        "name": "Daniel Kulesz",
+        "titel": "IndieWeb - Grundlagen und erste Schritte",
+        "buzzword": "IndieWeb, Webmention, WWW, W3C, Homepage",
+        "inhalt": "Um die Jahrtausendwende publizierten viele Menschen ihre eigenen Inhalte auf ihren eigenen Webseiten und hatten so eine Kontrolle darüber. Heute werden große Teile des Webs von Content-Silos dominiert, die zwar das Teilen von Inhalten augenscheinlich vereinfachen, das Web dadurch aber kaputt-zentralisieren.\n\nDie IndieWeb-Initative setzt sich dafür ein, das Web wieder unabhängig zu machen. Dank moderner Technologien wie Webmention (W3C-zertifiziert) lassen sich auch moderne soziale Gimmicks wie \"Likes\", \"Follows\" oder Kommentare auch problemlos auf den eigenen Seiten einbinden.",
+        "aboutme": "Daniel Kulesz ist Forscher im Software-Engineering an der Universität Stuttgart und arbeitet als Softwareentwickler in der Industrie. Außerdem arbeitet er als Dozent und ist ein Unterstützer der Free Software Foundation Europe. Er ist in der FLOSS-Szene aktiv und Initiator der freien Software “SystemTestPortal”.",
+        "vorwissen": "Kein spezielles Vorwissen erforderlich",
+        "weblinks": {
+            "1": {
+                "url": "https://indieweb.org/",
+                "title": "Webseite der Indieweb-Initiative"
+            }
+        },
+        "urlid": "daniel-kulesz-indieweb-grundlagen-und-erste-schritte",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "15:15",
+        "timeend": "15:20"
+    },
+    {
+        "name": "Daniel Kraft",
+        "titel": "Linux Command Line Interface Trick Show",
+        "buzzword": "bash, zsh, shortcuts, autoreload, bulkrename, git, better ssh",
+        "inhalt": "Kurzweilige Vorstellung von nützlichen Kommandozeilen Tricks in bash, zsh, vim, git, und mehr.",
+        "aboutme": "Daniel Kraft programmert seit 1985 begeistert Computer und ist seit 1987\nonline. Nach seiner Tätigkeit als CTO bei der Schwäbischen Zeitung Online, die\ner an die technologische Spitze der Online-Tageszeitungen brachte, und die\ndadurch als erfolgreichste Online-Tageszeitung als einzige 9/11 erreichbar war\nund News lieferte, gründete er die D9T GmbH, die Unternehmen zur pragmatischen\nDigitalisierung berät und mit einem eigenen Rechenzentrum beim Betrieb von\nServices im Internet unterstützt.\n\nEr brachte während seiner Tätigkeit als CTO und CEO der reichweite² GmbH\ndiese an die Spitze des Marktes der Dankeschönvermarktung und entwickelte\nrevolutionäre, pragmatische Analysemethoden für Big Data zur\nConversionrate-Optimierung sowie Performance-Optimierungen lange vor Google\nAMP.\n\nFür die tägliche Arbeit verwendet er immer GNU/Linux, vor allem zsh und vim und gelegentlich Office-Software. Er entwickelt vorzugsweise in Python mit PostgreSQL.",
+        "vorwissen": "Shell / CLI",
+        "weblinks": {},
+        "urlid": "daniel-kraft-linux-command-line-interface-trick-show",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "15:20",
+        "timeend": "15:25"
+    },
+    {
+        "name": "Andreas B. Mundt",
+        "titel": "NextKellerCloud: HomeServer mit c't Bauvorschlag und/oder OLinuXinoLIME2",
+        "buzzword": "Homeserver, Nextcloud, DynDNS, Monitoring, Debian, OLinuXinoLIME2",
+        "inhalt": "Zwei unterschiedliche Realisierungen eines HomeServers, basierend auf einem c't Bauvorschlag sowie mit einem Olimex OLinuXinoLIME2 SOC werden präsentiert.",
+        "aboutme": "",
+        "vorwissen": "Kein Vorwissen erforderlich, aber auch nicht schädlich.",
+        "weblinks": {
+            "1": {
+                "url": "https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME2/open-source-hardware",
+                "title": "Olimex OLinuXinoLIME2"
+            },
+            "2": {
+                "url": "https://www.heise.de/select/ct/2016/8/1460284564022778",
+                "title": "c't Bauvorschlag"
+            }
+        },
+        "urlid": "andreas-mundt-nextkellercloud-homeserver-mit-ct-bauvorschlag-und-oder-olinuxinolime2",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "15:25",
+        "timeend": "15:30"
+    },
+    {
         "name": "Alexander Landstorfer",
         "titel": "Das Tübinger 80cm-Teleskop",
         "buzzword": "Teleskop",
