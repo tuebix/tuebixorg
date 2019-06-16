@@ -104,8 +104,6 @@ menu: main
 <tr><td></td><td></td><td></td><td></td><td>Observatorium</td></tr>
 <tr><td>12:00</td><td>bis</td><td>12:30</td><td><a class="talk"></a></td><td><a href="../programm/alexander-landstorfer-das-tuebinger-80cm-teleskop">Teleskopführung</a></td><td>Alexander Landstorfer</td></tr>
 <tr><td>12:30</td><td>bis</td><td>13:00</td><td><a class="talk"></a></td><td><a href="../programm/alexander-landstorfer-das-tuebinger-80cm-teleskop">Teleskopführung</a></td><td>Alexander Landstorfer</td></tr>
-<tr><td>13:00</td><td>bis</td><td>13:30</td><td><a class="talk"></a></td><td><a href="../programm/alexander-landstorfer-das-tuebinger-80cm-teleskop">Teleskopführung</a></td><td>Alexander Landstorfer</td></tr>
-<tr><td>13:30</td><td>bis</td><td>14:00</td><td><a class="talk"></a></td><td><a href="../programm/alexander-landstorfer-das-tuebinger-80cm-teleskop">Teleskopführung</a></td><td>Alexander Landstorfer</td></tr>
 <tr><td>14:00</td><td>bis</td><td>14:30</td><td><a class="talk"></a></td><td><a href="../programm/alexander-landstorfer-das-tuebinger-80cm-teleskop">Teleskopführung</a></td><td>Alexander Landstorfer</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Raum Mini-FrogLabs</td></tr>
