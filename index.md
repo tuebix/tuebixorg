@@ -16,7 +16,7 @@ Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="d
   <li>Der Tübix 2019 findet am Samstag, 6. Juli 2019 statt.</li>
   <li>Lightning Talks können noch bis zum Tübix <a href="callforpapers/">hier</a> eingereicht werden.</li>
   <li>Der <a href="callforhelpers/">Call for Helpers</a> ist nun eröffnet.</li>
-  <li>Das <a href="2019/programm/">Programm für 2019</a> ist nun veröffentlicht.</li>
+  <li>Das <a href="2019/programm/">Programm für 2019</a> ist nun veröffentlicht und auch über <a href="https://f-droid.org/repository/browse/?fdid=net.gaast.giggity" target="_blank"><img height="25" src="images/giggity.png" alt="giggity-Logo" title="giggity-Logo" />Giggity</a> verfügbar.</li>
 </ul>
 
 <br/>
@@ -30,7 +30,7 @@ Der Tübix könnte etwas für dich sein, falls du:
 * ... Experte / Profi / Veteran / Meister bist
 * ... Neuling / Einsteiger / Umsteiger / Interessent bist
 * ... nebenbei ein <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/fachbereich/geschichtliches/computermuseum.html">Computermuseum</a> besuchen möchtest
-* ... nebenbei ein <a href="2018/programm/thomas-rauch-das-tuebinger-80cm-teleskop/">80cm-Teleskop</a> ansehen möchtest
+* ... nebenbei ein <a href="2019/programm/alexander-landstorfer-das-tuebinger-80cm-teleskop/">80cm-Teleskop</a> ansehen möchtest
 
 <!--
 * ... nebenbei ein <a href="2017/programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop/">80cm-Teleskop</a> ansehen möchtest
