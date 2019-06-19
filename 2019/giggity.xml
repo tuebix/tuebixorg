@@ -912,6 +912,164 @@ Grundlegendes Wissen über Coreboot - dieser Lightning-Talk baut auf dem Lightni
 </links>
 </event>
 
+<event id="daniel-kulesz-indieweb-grundlagen-und-erste-schritte">
+<start>15:15</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>IndieWeb - Grundlagen und erste Schritte</title>
+<description>Um die Jahrtausendwende publizierten viele Menschen ihre eigenen Inhalte auf ihren eigenen Webseiten und hatten so eine Kontrolle darüber. Heute werden große Teile des Webs von Content-Silos dominiert, die zwar das Teilen von Inhalten augenscheinlich vereinfachen, das Web dadurch aber kaputt-zentralisieren.
+
+Die IndieWeb-Initative setzt sich dafür ein, das Web wieder unabhängig zu machen. Dank moderner Technologien wie Webmention (W3C-zertifiziert) lassen sich auch moderne soziale Gimmicks wie "Likes", "Follows" oder Kommentare auch problemlos auf den eigenen Seiten einbinden.
+
+#### Über mich
+
+Daniel Kulesz ist Forscher im Software-Engineering an der Universität Stuttgart und arbeitet als Softwareentwickler in der Industrie. Außerdem arbeitet er als Dozent und ist ein Unterstützer der Free Software Foundation Europe. Er ist in der FLOSS-Szene aktiv und Initiator der freien Software “SystemTestPortal”.
+
+#### Vorwissen
+
+Kein spezielles Vorwissen erforderlich
+</description>
+<persons><person>Daniel Kulesz</person></persons>
+<links>
+- <link href="https://indieweb.org/">Webseite der Indieweb-Initiative</link>
+</links>
+</event>
+
+<event id="daniel-kraft-linux-command-line-interface-trick-show">
+<start>15:20</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Linux Command Line Interface Trick Show</title>
+<description>Kurzweilige Vorstellung von nützlichen Kommandozeilen Tricks in bash, zsh, vim, git, und mehr.
+
+#### Über mich
+
+Daniel Kraft programmert seit 1985 begeistert Computer und ist seit 1987
+online. Nach seiner Tätigkeit als CTO bei der Schwäbischen Zeitung Online, die
+er an die technologische Spitze der Online-Tageszeitungen brachte, und die
+dadurch als erfolgreichste Online-Tageszeitung als einzige 9/11 erreichbar war
+und News lieferte, gründete er die D9T GmbH, die Unternehmen zur pragmatischen
+Digitalisierung berät und mit einem eigenen Rechenzentrum beim Betrieb von
+Services im Internet unterstützt.
+
+Er brachte während seiner Tätigkeit als CTO und CEO der reichweite² GmbH
+diese an die Spitze des Marktes der Dankeschönvermarktung und entwickelte
+revolutionäre, pragmatische Analysemethoden für Big Data zur
+Conversionrate-Optimierung sowie Performance-Optimierungen lange vor Google
+AMP.
+
+Für die tägliche Arbeit verwendet er immer GNU/Linux, vor allem zsh und vim und gelegentlich Office-Software. Er entwickelt vorzugsweise in Python mit PostgreSQL.
+
+#### Vorwissen
+
+Shell / CLI
+</description>
+<persons><person>Daniel Kraft</person></persons>
+</event>
+
+<event id="andreas-mundt-nextkellercloud-homeserver-mit-ct-bauvorschlag-und-oder-olinuxinolime2">
+<start>15:25</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>NextKellerCloud: HomeServer mit c't Bauvorschlag und/oder OLinuXinoLIME2</title>
+<description>Zwei unterschiedliche Realisierungen eines HomeServers, basierend auf einem c't Bauvorschlag sowie mit einem Olimex OLinuXinoLIME2 SOC werden präsentiert.
+
+#### Vorwissen
+
+Kein Vorwissen erforderlich, aber auch nicht schädlich.
+</description>
+<persons><person>Andreas B. Mundt</person></persons>
+<links>
+- <link href="https://www.olimex.com/Products/OLinuXino/A20/A20-OLinuXino-LIME2/open-source-hardware">Olimex OLinuXinoLIME2</link>
+- <link href="https://www.heise.de/select/ct/2016/8/1460284564022778">c't Bauvorschlag</link>
+</links>
+</event>
+
+<event id="matthias-kirschner-unterstuetzt-nicht-it-organisationen">
+<start>14:40</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Unterstützt Nicht-IT-Organisationen!</title>
+<description>Die wichtigste Kulturtechnologie des 21. Jahrhunderts ist die Software. Durch sie funktionieren unsere Arbeitsplätze, Laptops, Mobiltelefone sowie weniger offensichtlich: Züge, Autos, Fernseher, Waschmaschinen, Kühlschränke und viele andere Alltagsgegenstände. Mehr und mehr Vorgänge werden durch Software beeinflusst. Organisationen die für Rechte der Menschen arbeiten sind auf einmal mit Software konfrontiert. Es ist wichtig, dass wir ihnen helfen Software besser zu verstehen. 
+
+#### Über mich
+
+Matthias Kirschner ist Präsident der FSFE. 1999 begann er GNU/Linux zu nutzen und realisierte, dass Software tief in allen Bereichen unseres Lebens verwurzelt ist. Er ist davon überzeugt, dass diese Technik unsere Gesellschaft nicht einschränken, sondern sie befähigen muss. Seit 2004, während seines Studiums der Politik- und Verwaltungswissenschaft, engagiert er sich bei der FSFE.
+
+Er unterstützt Organisationen, Unternehmen und die Öffentliche Verwaltung dabei, von Freier Software zu profitieren und er erklärt, wie die grundlegenden Rechte von Freier Software -- das Recht sie zu verwenden, zu verstehen, zu verbreiten und zu verbessern -- die Meinungsfreiheit, Pressefreiheit oder Privatsphäre fördern.
+
+Matthias spielt gerne mit seinen Kindern. In seiner Freizeit hilft er bei Erste-Hilfe-Outdoor-Seminaren, mag Comics wie XKCD und Transmetropolitan; und Die Ärzte.
+</description>
+<persons><person>Matthias Kirschner</person></persons>
+<links>
+- <link href="https://fsfe.org">Free Software Foundation Europe</link>
+- <link href="https://fsfe.org/about/kirschner">Matthias Kirschner auf FSFE.org</link>
+</links>
+</event>
+
+<event id="christian-seiler-real-time-anwendungen-unter-linux-lessons-learned">
+<start>16:20</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Real-Time-Anwendungen unter Linux: Lessons Learned</title>
+<description>Echtzeitanwendungen zu Entwickeln ist unter Linux einfacher möglich, als unter vielen anderen Betriebsystemen - aber es gibt Dinge, die man beachten muss, die beim Entwickeln normaler Anwendungen nicht auftreten. Im Vortrag werden ein paar Fallstricke kurz aufgelistet, in die man leicht fallen kann.
+
+#### Über mich
+
+Nach einer Promotion in Physik arbeite ich als C++-Entwickler in einem Startup im Raum Tübingen/Reutlingen. Vor über 20 Jahren habe ich GNU/Linux kennengelernt und es bleibt bis heute das Betriebsystem meiner Wahl.
+
+#### Vorwissen
+
+Systemprogrammierung in C, Linux-Administration
+</description>
+<persons><person>Christian Seiler</person></persons>
+<links>
+- <link href="https://rt.wiki.kernel.org/index.php/Main_Page">Real-Time Linux Wiki</link>
+- <link href="https://linux.die.net/man/2/sched_setparam">man (2) sched_setparam</link>
+- <link href="https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux_for_real_time/7/html/tuning_guide/real_time_throttling">RedHat-Dokumentation zu RT_RUNTIME_SHARE</link>
+</links>
+</event>
+
+<event id="john-boe-will-the-humane-tech-movement-rescue-human-kind">
+<start>15:30</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Will the humane tech movement rescue human kind(ness)?</title>
+<description>I talked with a few people who would self-identify as followers of the "human technology movement". This movement was founded by Tristan Harris and I also watched a few talks of his. I will try to summarize the problem analysis and proposed solutions of Harris. When there is still time left, I will give a few hints why the proposed solutions seem problematic to me.
+
+#### Über mich
+
+I talked with a few people who would self-identify as followers of the "human technology movement". This movement was founded by Tristan Harris.
+
+#### Vorwissen
+
+This seems to be one of Tristan Harris' latest talks: https://vimeo.com/332340920
+</description>
+<persons><person>John Boe</person></persons>
+<links>
+- <link href="https://vimeo.com/332340920">Latest talk of Tristan Harris</link>
+- <link href="https://humanetech.com/">Website of the "Center for Humane Technology"</link>
+</links>
+</event>
+
+<event id="lorenz-kiefner-mesh-vpn-selbstgebaut">
+<start>15:35</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Mesh-VPN selbstgebaut</title>
+<description>Was zeichnet ein Mesh-VPN aus? Wie kann man vorhandene Open-Source-Software so miteinander verknüpfen, dass dabei ein Mesh-VPN mit der größtmöglichen Performance und der bestmöglichen Ausfallsicherheit entsteht? Welche Komponenten lassen sich flexibel austauschen, auf welche muss man sich festlegen?
+
+#### Über mich
+
+Seit einiger Zeit versuche ich, (private) Rechner an verschiedenen Orten zu vernetzen und dabei möglichst unabhängig und widerstandsfähig gegenüber äußeren Einflüssen zu sein.
+
+#### Vorwissen
+
+Kenntnisse über Netzwerke und insbesondere über das Internet Protocol (IP) sind notwendig.
+</description>
+<persons><person>Lorenz Kiefner</person></persons>
+</event>
+
 </room>
 <room name="V4">
 <event id="uli-kleemann-ich-habe-doch-nichts-zu-verbergen">
