@@ -2,6 +2,7 @@
 
 import json
 import os
+import re
 import subprocess
 import sys
 import io
@@ -22,6 +23,13 @@ def giggitytimes(minutes):
     minutes = minutes % 60
     return "%02d:%02d" % (hour, minutes)
 
+def transform_linefeeds(string):
+    # Remove leading and trailing "\n" (optional normalization):
+    string = re.sub(r'^\n+|\n+$', '', string)
+    # Replace " *\n" with "<br/>\n" but keep "\n\n":
+    string = re.sub(r'([^(\n)]) *\n([^(\n)])', r'\1&#x3c;br/&#x3e;\n\2', string)
+    # Note: We don't replace "\n\n" as this already creates a new paragraph.
+    return string
 
 with io.open('talks.json', 'r', encoding='utf8') as talksfile:
     data = json.load(talksfile)
@@ -39,13 +47,13 @@ with io.open('giggity.xml', 'w', encoding='utf8') as gigxml:
                 gigxml.write('<duration>' + giggitytimes(talk['duration']) + '</duration>\n')
                 gigxml.write('<room>' + talk['room'] + '</room>\n')
                 gigxml.write('<title>' + talk['titel'] + '</title>\n')
-                gigxml.write('<description>' + talk['inhalt'] + '\n')
+                gigxml.write('<description>' + transform_linefeeds(talk['inhalt']) + '\n')
                 if talk['aboutme']:
                     gigxml.write('\n#### Über mich\n\n')
-                    gigxml.write(talk['aboutme'] + '\n')
+                    gigxml.write(transform_linefeeds(talk['aboutme']) + '\n')
                 if talk['vorwissen']:
                     gigxml.write('\n#### Vorwissen\n\n')
-                    gigxml.write(talk['vorwissen'] + '\n')
+                    gigxml.write(transform_linefeeds(talk['vorwissen']) + '\n')
                 gigxml.write('</description>\n')
                 gigxml.write('<persons><person>' + talk['name'] + '</person></persons>\n')
                 if talk["weblinks"]:
