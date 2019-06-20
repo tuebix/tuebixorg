@@ -1326,6 +1326,33 @@
         "timeend": "15:40"
     },
     {
+        "name": "Daniel Dreher",
+        "titel": "10 Jahre Game Server mit Linux",
+        "buzzword": "Debian (Server), Bash, Backup Strategie, Automatisierung, SteamCMD, Teamspeak 3",
+        "inhalt": "Game Server unter Linux (Debian)",
+        "aboutme": "Name: Daniel Dreher\nAlter: 34\nAbschluss: Master of Engineering\nBeruf: Softwareentwickler\nLinuxerfahrungen seit dem Jahr 2004\nDistributionen: Debian, Ubuntu, RHEL, CentOS und OpenSUSE\nHobbygamer und Gründer von Ramsor-Gaming (ramsor-gaming.de)",
+        "vorwissen": "",
+        "weblinks": {
+            "1": {
+                "url": "https://ramsor-gaming.de",
+                "title": "Ramsor-Gaming"
+            },
+            "2": {
+                "url": "https://developer.valvesoftware.com/wiki/SteamCMD",
+                "title": "SteamCMD"
+            },
+            "3": {
+                "url": "https://www.teamspeak.com",
+                "title": "Teamspeak 3"
+            }
+        },
+        "urlid": "daniel-dreher-10-jahre-game-server-mit-linux",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "14:45",
+        "timeend": "14:50"
+    },
+    {
         "name": "Alexander Landstorfer",
         "titel": "Das Tübinger 80cm-Teleskop",
         "buzzword": "Teleskop",

@@ -1070,6 +1070,31 @@ Kenntnisse über Netzwerke und insbesondere über das Internet Protocol (IP) sin
 <persons><person>Lorenz Kiefner</person></persons>
 </event>
 
+<event id="daniel-dreher-10-jahre-game-server-mit-linux">
+<start>14:45</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>10 Jahre Game Server mit Linux</title>
+<description>Game Server unter Linux (Debian)
+
+#### Über mich
+
+Name: Daniel Dreher
+Alter: 34
+Abschluss: Master of Engineering
+Beruf: Softwareentwickler
+Linuxerfahrungen seit dem Jahr 2004
+Distributionen: Debian, Ubuntu, RHEL, CentOS und OpenSUSE
+Hobbygamer und Gründer von Ramsor-Gaming (ramsor-gaming.de)
+</description>
+<persons><person>Daniel Dreher</person></persons>
+<links>
+- <link href="https://ramsor-gaming.de">Ramsor-Gaming</link>
+- <link href="https://developer.valvesoftware.com/wiki/SteamCMD">SteamCMD</link>
+- <link href="https://www.teamspeak.com">Teamspeak 3</link>
+</links>
+</event>
+
 </room>
 <room name="V4">
 <event id="uli-kleemann-ich-habe-doch-nichts-zu-verbergen">
