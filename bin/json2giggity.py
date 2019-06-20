@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
 import json
+import os
+import subprocess
 import sys
 import io
 
@@ -15,10 +17,10 @@ def parse_weblink(weblinks):
     return "\n".join(link_list)
 
 
-def giggitytimes(minutes): 
+def giggitytimes(minutes):
     hour = minutes // 60
     minutes = minutes % 60
-    return "%02d:%02d" % (hour, minutes) 
+    return "%02d:%02d" % (hour, minutes)
 
 
 with io.open('talks.json', 'r', encoding='utf8') as talksfile:
@@ -53,3 +55,13 @@ with io.open('giggity.xml', 'w', encoding='utf8') as gigxml:
                 gigxml.write('</event>\n\n')
         gigxml.write('</room>\n')
     gigxml.write('</day>\n</schedule>')
+
+# Try to automatically run ampersand.sh:
+AMPERSAND_FILE = "../bin/ampersand.sh"
+if os.path.isfile(AMPERSAND_FILE):
+    try:
+        subprocess.run(["nix", "--version"], stdout=subprocess.DEVNULL)
+        # Nix is available:
+        os.system("nix-shell -p libxml2 --run " + AMPERSAND_FILE)
+    except FileNotFoundError:
+        os.system(AMPERSAND_FILE)
