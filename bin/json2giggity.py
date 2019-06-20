@@ -27,7 +27,9 @@ def transform_linefeeds(string):
     # Remove leading and trailing "\n" (optional normalization):
     string = re.sub(r'^\n+|\n+$', '', string)
     # Replace " *\n" with "<br/>\n" but keep "\n\n":
-    string = re.sub(r'([^(\n)]) *\n([^(\n)])', r'\1&#x3c;br/&#x3e;\n\2', string)
+    # TODO: This also causes some issues (see: "git show 723f4b3"), so let's
+    # skip this for now:
+    #string = re.sub(r'([^(\n)]) *\n([^(\n)])', r'\1&#x3c;br/&#x3e;\n\2', string)
     # Note: We don't replace "\n\n" as this already creates a new paragraph.
     return string
 

@@ -129,12 +129,12 @@ Der Vortrag mit Mini-Workshop zur "Befreiung" einer Steckdose aus der Cloud, mö
 
 #### Über mich
 
-Klaus Knopper ist Diplomingenieur der Elektrotechnik und unterrichtet&#x3c;br/&#x3e;
-als Professor an der Hochschule Kaiserslautern Grundlagen der&#x3c;br/&#x3e;
-Informatik, Softwaretechnik, Software-Engineering und IT Sicherheit. Als&#x3c;br/&#x3e;
-langjähriger Software-Entwickler hat er an einigen bekannten Open Source&#x3c;br/&#x3e;
-Software-Projekten mitgewirkt, u.a. KNOPPIX, ADRIANE und LINBO und ist&#x3c;br/&#x3e;
-häufig zu Gast auf Open Source und&#x3c;br/&#x3e;
+Klaus Knopper ist Diplomingenieur der Elektrotechnik und unterrichtet
+als Professor an der Hochschule Kaiserslautern Grundlagen der
+Informatik, Softwaretechnik, Software-Engineering und IT Sicherheit. Als
+langjähriger Software-Entwickler hat er an einigen bekannten Open Source
+Software-Projekten mitgewirkt, u.a. KNOPPIX, ADRIANE und LINBO und ist
+häufig zu Gast auf Open Source und
 Linux-Messen.
 
 #### Vorwissen
@@ -152,8 +152,8 @@ Auch wenn der Dozent hier einmal wieder einen Lötkolben zur Hand nimmt, sind ke
 <duration>00:55</duration>
 <room>V1</room>
 <title>File Descriptors For Processes</title>
-<description>Traditionally processes are identified by process identifiers aka PIDs. These are globally unique identifiers. As such users do not hold a stable reference on the process they identify. Because of that PIDs will be recycled by the kernel. This means a PID might refer to a different process than what a user thought it did. As such PIDs are inherently racy, e.g. a process might end up sending a signal to PID which referes to a process it didn't itend to signal.&#x3c;br/&#x3e;
-To solve this long-standing problem Jann Horn and I have introduced the concept of file descriptors for processes aka pidfds into the kernel. As things stand kernel 5.2. might gain the ability to refer to processes via file descriptors, making it possible for a process to get a stable and private reference on a process. Even if the PID is recycled the pidfd will refer to the original process.&#x3c;br/&#x3e;
+<description>Traditionally processes are identified by process identifiers aka PIDs. These are globally unique identifiers. As such users do not hold a stable reference on the process they identify. Because of that PIDs will be recycled by the kernel. This means a PID might refer to a different process than what a user thought it did. As such PIDs are inherently racy, e.g. a process might end up sending a signal to PID which referes to a process it didn't itend to signal.
+To solve this long-standing problem Jann Horn and I have introduced the concept of file descriptors for processes aka pidfds into the kernel. As things stand kernel 5.2. might gain the ability to refer to processes via file descriptors, making it possible for a process to get a stable and private reference on a process. Even if the PID is recycled the pidfd will refer to the original process.
 In this talk I will look at the history (in other systems) and the general idea of using pidfds, the work we had to do, and what we have planned for the future.
 
 #### Über mich
@@ -196,7 +196,7 @@ Thorsten ist Redakteur beim c't Magazin für Computertechnik, wo er seit fünfze
 <duration>00:25</duration>
 <room>V1</room>
 <title>Integration von Linux-Containern auf dem Desktop mit LXC</title>
-<description>Keine Technikeinführung zu LXC. Stattdessen: Demonstration an praktischen Beispielen wann Container (hier mit LXC umgesetzt) auf einem Desktop-System sehr hilfreich sein können und eine bemerkenswerte Flexibilität bereitstellen, sowie Optionen eröffnen wie sie vorher kaum denkbar waren. Bei der Vorstellung mehrerer bereits umgesetzter, konkreter Szenarios wird dies exemplarisch vorgestellt (privilegiert vs. unprivilegiert, Hardware-Zugriff, Desktop-Integration, bewusste Separation, usw.).&#x3c;br/&#x3e;
+<description>Keine Technikeinführung zu LXC. Stattdessen: Demonstration an praktischen Beispielen wann Container (hier mit LXC umgesetzt) auf einem Desktop-System sehr hilfreich sein können und eine bemerkenswerte Flexibilität bereitstellen, sowie Optionen eröffnen wie sie vorher kaum denkbar waren. Bei der Vorstellung mehrerer bereits umgesetzter, konkreter Szenarios wird dies exemplarisch vorgestellt (privilegiert vs. unprivilegiert, Hardware-Zugriff, Desktop-Integration, bewusste Separation, usw.).
 Die aufgeführten Beispiele sollen die Phantasie anregen und keine LXC-Technikdemos sein. Einzelne Details/Konfigurationen/Einstellungen werden vorgestellt, primär geht es jedoch um die Idee und welche Aufgaben/Probleme man auf diese Weise elegant umsetzen/umgehen oder zumindest beherrschen kann. 
 
 #### Über mich
@@ -223,7 +223,7 @@ Ziel des Vortrages soll hierbei nicht sein, das Für und Wider der einzelnen Lö
 
 #### Über mich
 
-Holger Gantikow hat an der Hochschule Furtwangen Informatik studiert und ist bei AtoS (ehemals science + computing ag) in Tübingen als Senior Systems Engineer tätig. Dort beschäftigt er sich mit der Komplexität heterogener Systeme im CAE-Berechnungsumfeld und betreut Kunden aus dem technisch-wissenschaftlichen Bereich.&#x3c;br/&#x3e;
+Holger Gantikow hat an der Hochschule Furtwangen Informatik studiert und ist bei AtoS (ehemals science + computing ag) in Tübingen als Senior Systems Engineer tätig. Dort beschäftigt er sich mit der Komplexität heterogener Systeme im CAE-Berechnungsumfeld und betreut Kunden aus dem technisch-wissenschaftlichen Bereich. 
 Nebenbei forscht er in Kooperation mit der Hochschule Furtwangen und der Plymouth University daran, wie sich HPC in der Cloud und cloudartigen Umgebungen realisieren lässt.
 
 #### Vorwissen
@@ -259,10 +259,10 @@ Rudimentäre Programmierkenntnisse
 <duration>00:20</duration>
 <room>V1</room>
 <title>Tübix init</title>
-<description>- Begrüßung&#x3c;br/&#x3e;
-- Infos zum Ablauf des Tages&#x3c;br/&#x3e;
-- Veränderungen zu letztem Jahr&#x3c;br/&#x3e;
-- Änderungen in letzter Minute&#x3c;br/&#x3e;
+<description>- Begrüßung
+- Infos zum Ablauf des Tages
+- Veränderungen zu letztem Jahr
+- Änderungen in letzter Minute
 - Fragen?
 </description>
 <persons><person>Tübix Orga-Team</person></persons>
@@ -273,8 +273,8 @@ Rudimentäre Programmierkenntnisse
 <duration>00:20</duration>
 <room>V1</room>
 <title>Tübix exit</title>
-<description>- gemeinsamer Abschluss&#x3c;br/&#x3e;
-- lottery.sh&#x3c;br/&#x3e;
+<description>- gemeinsamer Abschluss
+- lottery.sh
 - Ausblick auf nächstes Jahr
 </description>
 <persons><person>Tübix Orga-Team</person></persons>
@@ -301,7 +301,7 @@ Module stellen eine Alternative zu Header-Dateien dar und versprechen viele Verb
 
 #### Über mich
 
-Rainer Grimm ist seit vielen Jahren als Softwarearchitekt, Team- und Schulungsleiter tätig. In seiner Freizeit schreibt er gerne Artikel zu den Programmiersprachen C++, Python und Haskell, spricht aber auch gerne auf Fachkonferenzen. Auf seinem Blog Modernes C++ (Heise Developer) beschäftigt er sich intensiv mit seiner Leidenschaft C++. Seit 2016 steht er auf selbstständigen Beinen. Insbesondere das Vermitteln von Wissen zu modernem C++ ist ihm eine Herzensangelegenheit.&#x3c;br/&#x3e;
+Rainer Grimm ist seit vielen Jahren als Softwarearchitekt, Team- und Schulungsleiter tätig. In seiner Freizeit schreibt er gerne Artikel zu den Programmiersprachen C++, Python und Haskell, spricht aber auch gerne auf Fachkonferenzen. Auf seinem Blog Modernes C++ (Heise Developer) beschäftigt er sich intensiv mit seiner Leidenschaft C++. Seit 2016 steht er auf selbstständigen Beinen. Insbesondere das Vermitteln von Wissen zu modernem C++ ist ihm eine Herzensangelegenheit.
 Seine Bücher "C++11 für Programmierer", "C++" und "C++-Standardbibliothek" für die kurz und gut Reihe sind beim Verlag O'Reilly erschienen. Seine englischsprachigen Werke "The C++ Standard Library" und "Concurrency with Modern C++" sind in mehrere Sprachen übersetzt worden. 
 </description>
 <persons><person>Rainer Grimm</person></persons>
@@ -383,7 +383,7 @@ Ein paar Grundkenntnisse über Linux, SSH, X Window System sollte man mitbringen
 <duration>00:25</duration>
 <room>V2</room>
 <title>The End of Time, 19 years to go</title>
-<description>Im Jahr 2038 ist die Zeit vorbei, zumindest für 32-bit-Rechner, die im Embedded-Umfeld auch jetzt noch dominieren, denn 'time_t' zählt die Sekunden seit 1970 und läuft dann über.&#x3c;br/&#x3e;
+<description>Im Jahr 2038 ist die Zeit vorbei, zumindest für 32-bit-Rechner, die im Embedded-Umfeld auch jetzt noch dominieren, denn 'time_t' zählt die Sekunden seit 1970 und läuft dann über.
 Im Vortrag erzähle ich, was ich in den letzten acht Jahren am Kernel gemacht habe, damit es weitergehen kann.
 
 #### Über mich
@@ -406,9 +406,9 @@ Grundwissen Programmieren in C oder ähnlichen Sprachen ist hilfreich.
 
 #### Über mich
 
-Jahrgang 1983, verheiratet, zwei Kinder,&#x3c;br/&#x3e;
-Informatikstudium an der Hochschule Furtwangen,&#x3c;br/&#x3e;
-Senior System Engineer im Bereich Linux, Lifecycle- und Configurationmanagement,&#x3c;br/&#x3e;
+Jahrgang 1983, verheiratet, zwei Kinder,
+Informatikstudium an der Hochschule Furtwangen,
+Senior System Engineer im Bereich Linux, Lifecycle- und Configurationmanagement,
 Arbeitet bei Puzzle ITC Deutschland in Tübingen.
 
 #### Vorwissen
@@ -536,15 +536,15 @@ Verständnis von Paketierung unter Linux-Derivaten, NixOS/nixpkgs
 <duration>00:05</duration>
 <room>V3</room>
 <title>Buddel die eins  über VPNs und warum man das selber machen sollte</title>
-<description>Was ist ein VPN?&#x3c;br/&#x3e;
-Wie funktioniert es (im Groben)?&#x3c;br/&#x3e;
-Wozu brauchen wir sowas?&#x3c;br/&#x3e;
-Was ein VPN nicht kann&#x3c;br/&#x3e;
+<description>Was ist ein VPN?
+Wie funktioniert es (im Groben)?
+Wozu brauchen wir sowas?
+Was ein VPN nicht kann
 Warum man es sich selber bauen sollte
 
 #### Über mich
 
-51 Linux-Sysadmin, gläubiger Debianer, Torrorist, Netzaktivist&#x3c;br/&#x3e;
+51 Linux-Sysadmin, gläubiger Debianer, Torrorist, Netzaktivist
 # Kryptografie # Kryptologie #SDR
 
 #### Vorwissen
@@ -585,19 +585,19 @@ LaTeX
 <title>Manjaro Linux - ENJOY THE SIMPLICITY</title>
 <description>Erfahren Sie alles Wichtige sowie die neuesten Infos zu Manjaro Linux.
 
-Lernen Sie die Vorteile der auf ARCH basierenden Distribution kennen  und sehen Sie, wie Ihr System mit einfachen Mitteln sicher gegen Datenverlust gemacht werden kann.&#x3c;br/&#x3e;
-Selbst ein nicht mehr startendes System kann innerhalb kürzester Zeit wieder hergestellt werden.&#x3c;br/&#x3e;
+Lernen Sie die Vorteile der auf ARCH basierenden Distribution kennen  und sehen Sie, wie Ihr System mit einfachen Mitteln sicher gegen Datenverlust gemacht werden kann.
+Selbst ein nicht mehr startendes System kann innerhalb kürzester Zeit wieder hergestellt werden.
 Dies zeige ich live, also am "lebenden Objekt"!
 
-Sehen Sie, dass Manjaro auch auf sehr günstiger ARM-Hardware lauffähig ist.&#x3c;br/&#x3e;
-Selbst auf dem Pinebook 11,6" läuft Manjaro in den Editionen KDE, LXQt und i3.&#x3c;br/&#x3e;
+Sehen Sie, dass Manjaro auch auf sehr günstiger ARM-Hardware lauffähig ist.
+Selbst auf dem Pinebook 11,6" läuft Manjaro in den Editionen KDE, LXQt und i3.
 Sofern es bis dahin schon verfügbar ist, stelle ich erstmals das Pinebook Pro (14" und leistungsstärkere Hardware) vor.
 
 #### Über mich
 
 Helmut Stult (schinfo)
-- ITler seit 1983 und ich bin älter als das Internet&#x3c;br/&#x3e;
-- Manjaro-Team&#x3c;br/&#x3e;
+- ITler seit 1983 und ich bin älter als das Internet
+- Manjaro-Team
 - weitere Infos unter https://www.schinfo.de
 
 #### Vorwissen
@@ -704,10 +704,10 @@ Netzwerk-Grundkenntnisse und Konfigurationserfahrung mit /etc/network/interfaces
 
 #### Über mich
 
-Klaus Knopper ist Diplomingenieur der Elektrotechnik und unterrichtet&#x3c;br/&#x3e;
-als Professor an der Hochschule Kaiserslautern Grundlagen der&#x3c;br/&#x3e;
-Informatik, Softwaretechnik, Software-Engineering und IT Sicherheit. Als&#x3c;br/&#x3e;
-langjähriger Software-Entwickler hat er an einigen bekannten Open Source&#x3c;br/&#x3e;
+Klaus Knopper ist Diplomingenieur der Elektrotechnik und unterrichtet
+als Professor an der Hochschule Kaiserslautern Grundlagen der
+Informatik, Softwaretechnik, Software-Engineering und IT Sicherheit. Als
+langjähriger Software-Entwickler hat er an einigen bekannten Open Source
 Software-Projekten mitgewirkt, u.a. KNOPPIX, ADRIANE und LINBO.
 
 #### Vorwissen
@@ -774,7 +774,7 @@ Physik-Studium in Tübingen, Rechner und DCF77 seit ~1980, (La)TeX seit 1986, UN
 
 #### Vorwissen
 
-wie immer: tippen können.&#x3c;br/&#x3e;
+wie immer: tippen können.
 und vielleicht ein bissl Spass mit oder zumind. Interesse an der Kommandozeile und Pipes.
 </description>
 <persons><person>Harald König</person></persons>
@@ -888,7 +888,7 @@ Dieser Lightning Talks ist Vorwissen für zweiten Lighning-Talk über Heads (osr
 <duration>00:05</duration>
 <room>V3</room>
 <title>Heads - verifizierbarer Bootprozess mit Coreboot, Linux und Einmalpasswörten</title>
-<description>Heads ist eine BIOS-Alternative, die auf Coreboot und dem Linux-Kernel basiert.&#x3c;br/&#x3e;
+<description>Heads ist eine BIOS-Alternative, die auf Coreboot und dem Linux-Kernel basiert.
 Mit Einmalpasswörtern, wie man sie von der 2-Faktor-Authentifizierung mit dem Google-Authenticator kennt, kann die Installation von Heads verifiziert werden.
 
 #### Über mich
@@ -937,18 +937,18 @@ Kein spezielles Vorwissen erforderlich
 
 #### Über mich
 
-Daniel Kraft programmert seit 1985 begeistert Computer und ist seit 1987&#x3c;br/&#x3e;
-online. Nach seiner Tätigkeit als CTO bei der Schwäbischen Zeitung Online, die&#x3c;br/&#x3e;
-er an die technologische Spitze der Online-Tageszeitungen brachte, und die&#x3c;br/&#x3e;
-dadurch als erfolgreichste Online-Tageszeitung als einzige 9/11 erreichbar war&#x3c;br/&#x3e;
-und News lieferte, gründete er die D9T GmbH, die Unternehmen zur pragmatischen&#x3c;br/&#x3e;
-Digitalisierung berät und mit einem eigenen Rechenzentrum beim Betrieb von&#x3c;br/&#x3e;
+Daniel Kraft programmert seit 1985 begeistert Computer und ist seit 1987
+online. Nach seiner Tätigkeit als CTO bei der Schwäbischen Zeitung Online, die
+er an die technologische Spitze der Online-Tageszeitungen brachte, und die
+dadurch als erfolgreichste Online-Tageszeitung als einzige 9/11 erreichbar war
+und News lieferte, gründete er die D9T GmbH, die Unternehmen zur pragmatischen
+Digitalisierung berät und mit einem eigenen Rechenzentrum beim Betrieb von
 Services im Internet unterstützt.
 
-Er brachte während seiner Tätigkeit als CTO und CEO der reichweite² GmbH&#x3c;br/&#x3e;
-diese an die Spitze des Marktes der Dankeschönvermarktung und entwickelte&#x3c;br/&#x3e;
-revolutionäre, pragmatische Analysemethoden für Big Data zur&#x3c;br/&#x3e;
-Conversionrate-Optimierung sowie Performance-Optimierungen lange vor Google&#x3c;br/&#x3e;
+Er brachte während seiner Tätigkeit als CTO und CEO der reichweite² GmbH
+diese an die Spitze des Marktes der Dankeschönvermarktung und entwickelte
+revolutionäre, pragmatische Analysemethoden für Big Data zur
+Conversionrate-Optimierung sowie Performance-Optimierungen lange vor Google
 AMP.
 
 Für die tägliche Arbeit verwendet er immer GNU/Linux, vor allem zsh und vim und gelegentlich Office-Software. Er entwickelt vorzugsweise in Python mit PostgreSQL.
@@ -1072,12 +1072,12 @@ Kenntnisse über Netzwerke und insbesondere über das Internet Protocol (IP) sin
 
 #### Über mich
 
-Name: Daniel Dreher&#x3c;br/&#x3e;
-Alter: 34&#x3c;br/&#x3e;
-Abschluss: Master of Engineering&#x3c;br/&#x3e;
-Beruf: Softwareentwickler&#x3c;br/&#x3e;
-Linuxerfahrungen seit dem Jahr 2004&#x3c;br/&#x3e;
-Distributionen: Debian, Ubuntu, RHEL, CentOS und OpenSUSE&#x3c;br/&#x3e;
+Name: Daniel Dreher
+Alter: 34
+Abschluss: Master of Engineering
+Beruf: Softwareentwickler
+Linuxerfahrungen seit dem Jahr 2004
+Distributionen: Debian, Ubuntu, RHEL, CentOS und OpenSUSE
 Hobbygamer und Gründer von Ramsor-Gaming (ramsor-gaming.de)
 </description>
 <persons><person>Daniel Dreher</person></persons>
@@ -1099,7 +1099,7 @@ Hobbygamer und Gründer von Ramsor-Gaming (ramsor-gaming.de)
 
 #### Über mich
 
-51 Linux-Sysadmin gläubiger Debianer, Torrorist und Datenaktivist,&#x3c;br/&#x3e;
+51 Linux-Sysadmin gläubiger Debianer, Torrorist und Datenaktivist, 
 # Kryptografie # Kryptologie #SDR 
 
 #### Vorwissen
@@ -1121,8 +1121,8 @@ Sollten sich darüber im Klaren sein das das Web weder ein rechtsfreier noch rea
 <duration>00:55</duration>
 <room>V4</room>
 <title>Redis ist 10!</title>
-<description>Was als einfacher Key-Value Store mit dem ersten Code-Commit 2009 anfing, hat sich zu einer der führenden NoSQL / In-Memory Datenbanken entwickelt, die mittlerweile selbst ein wichtiger Bestandteil von vielen Open Source Projekten ist. Da alle Daten&#x3c;br/&#x3e;
-im Hauptspeicher gehalten werden, ist die Schnelligkeit bzw. minimale Latenz bei der Verarbeitung einer der primären Vorteile dieser Datenbank. Ob als schneller Cache, der beim Zugriff auf eine herkömmliche Datenbank die Zugriffszeiten gering hält oder&#x3c;br/&#x3e;
+<description>Was als einfacher Key-Value Store mit dem ersten Code-Commit 2009 anfing, hat sich zu einer der führenden NoSQL / In-Memory Datenbanken entwickelt, die mittlerweile selbst ein wichtiger Bestandteil von vielen Open Source Projekten ist. Da alle Daten 
+im Hauptspeicher gehalten werden, ist die Schnelligkeit bzw. minimale Latenz bei der Verarbeitung einer der primären Vorteile dieser Datenbank. Ob als schneller Cache, der beim Zugriff auf eine herkömmliche Datenbank die Zugriffszeiten gering hält oder
 als vollständige Datenbank, die Millionen von Transaktionen pro Sekunde stemmt, Redis ist für mehr und mehr Entwickler der Datenspeicher der Wahl, wenn es um Echtzeitanforderungen geht. 157 Klientenanbindungen in mehr als 58 Programmiersprachen sorgen für die einfache Integration in vorhandenen Quellcode oder neue Projekte.
 
 #### Über mich
@@ -1131,8 +1131,8 @@ Dr. Christoph Zimmermann ist seit mehr 30 Jahren im FOSS-Umfeld aktiv. Als techn
 
 #### Vorwissen
 
-Grundkenntnisse Datenbanken,&#x3c;br/&#x3e;
-Interesse an NoSQL-DBs,&#x3c;br/&#x3e;
+Grundkenntnisse Datenbanken,
+Interesse an NoSQL-DBs,
 Python (optional)
 </description>
 <persons><person>Dr. Christoph Zimmermann</person></persons>
@@ -1196,23 +1196,23 @@ Grundkenntnisse der Linux-Kommandozeile und von iproute2 sind von Vorteil.
 <duration>00:55</duration>
 <room>V4</room>
 <title>Dateidienste - sicher und alltagstauglich</title>
-<description>Administratoren stehen regelmäßig im Spannungsfeld zwischen&#x3c;br/&#x3e;
-Sicherheit, Schnelligkeit und Nutzbarkeit ihrer Dienste. In der Praxis&#x3c;br/&#x3e;
-sind Kompromisse an der Tagesordnung.  Der Vortrag präsentiert eine&#x3c;br/&#x3e;
-Übersicht sicherer Dateidienste auf Basis von Kerberos, vergleicht den&#x3c;br/&#x3e;
-Funktionsumfang und zeigt Lösungswege für den Alltag, die die&#x3c;br/&#x3e;
-Nutzbarkeit der Dienste wahren, ohne Sicherheit und Schnelligkeit aufs&#x3c;br/&#x3e;
+<description>Administratoren stehen regelmäßig im Spannungsfeld zwischen
+Sicherheit, Schnelligkeit und Nutzbarkeit ihrer Dienste. In der Praxis
+sind Kompromisse an der Tagesordnung.  Der Vortrag präsentiert eine
+Übersicht sicherer Dateidienste auf Basis von Kerberos, vergleicht den
+Funktionsumfang und zeigt Lösungswege für den Alltag, die die
+Nutzbarkeit der Dienste wahren, ohne Sicherheit und Schnelligkeit aufs
 Spiel zu setzen.
 
-NFS und SMB, aber auch einige spezielle Dateisysteme wie Lustre, setzen auf Kerberos, wenn es um das Thema Sicherheit geht. Neben der starken&#x3c;br/&#x3e;
-Authentisierung sorgt Kerberos auch für Integrität und Vertraulichkeit der&#x3c;br/&#x3e;
-Nutzdaten. In der Praxis führt die Anforderung nach starker Authentisierung&#x3c;br/&#x3e;
+NFS und SMB, aber auch einige spezielle Dateisysteme wie Lustre, setzen auf Kerberos, wenn es um das Thema Sicherheit geht. Neben der starken
+Authentisierung sorgt Kerberos auch für Integrität und Vertraulichkeit der
+Nutzdaten. In der Praxis führt die Anforderung nach starker Authentisierung
 häufig zu Widersprüchen, wenn Prozesse auch ohne Nutzerinteraktion ablaufen sollen. Beispiele wären Batch-Prozesse, HPC-Jobs und andere Netzwerkdienste mit kerberisiertem Datenzugriff.
 
-Diese Diskrepanz verhindert den Einsatz von Kerberos in Verbindung mit solchen Netzdateisystemen aber nicht völlig. Der Vortrag stellt verschiedene&#x3c;br/&#x3e;
-Kompromisse vor, die auch nicht-interaktiven Prozessen den sicheren Zugriff&#x3c;br/&#x3e;
-erlauben. Allerdings sind hier Randbedingungen zu beachten, denn nicht jede&#x3c;br/&#x3e;
-Implementierung spielt reibungslos mit jedem Verfahren zusammen. Welche&#x3c;br/&#x3e;
+Diese Diskrepanz verhindert den Einsatz von Kerberos in Verbindung mit solchen Netzdateisystemen aber nicht völlig. Der Vortrag stellt verschiedene
+Kompromisse vor, die auch nicht-interaktiven Prozessen den sicheren Zugriff
+erlauben. Allerdings sind hier Randbedingungen zu beachten, denn nicht jede
+Implementierung spielt reibungslos mit jedem Verfahren zusammen. Welche
 Kombinationen in der Praxis funktionieren, zeigt dieser Vortrag.
 
 #### Über mich
@@ -1231,9 +1231,9 @@ Grundkenntnisse zu Kerberos und Netzdateisystemen sind hilfreich.
 <duration>00:55</duration>
 <room>V4</room>
 <title>Freifunk AG Am Quenstedt-Gymnasium: Von der Schule in die Stadt. </title>
-<description>Ausgehend von einem Projekt zur Vernetzung eines Flüchtlingsheims im Jahre 2016 hat sich am Quenstedt-Gymnasium Mössingen die "Freifunk AG" gebildet, die in den vergangenen zwei Jahren etwa 20 Stellen in Mössingen mit Freifunk versorgt hat. Im Jahr 2017 fand im Rahmen der Versorgung des Freibads die erste Kooperation mit der Stadt Mössingen statt.&#x3c;br/&#x3e;
-Im Frühjahr 2019 wurde die Zusammenarbeit fortgeschrieben, die Kommune hat für das laufende Jahr Haushaltsmittel in den Haushalt eingestellt, die Jugendvertretung geeignete Stellen ausgesucht und die Freifunk AG wird weitere Orte in Mössingen im Auftrag der Stadt mit freiem WLan versorgen.&#x3c;br/&#x3e;
-Der Vortrag beleuchtet Genese des Projekts, Widerstände und Probleme nicht nur technischer, sondern auch politischer Natur und gibt einen Einblick in das spannende Verhältnis zwischen Schule, Kommunalpolitik und Technik.&#x3c;br/&#x3e;
+<description>Ausgehend von einem Projekt zur Vernetzung eines Flüchtlingsheims im Jahre 2016 hat sich am Quenstedt-Gymnasium Mössingen die "Freifunk AG" gebildet, die in den vergangenen zwei Jahren etwa 20 Stellen in Mössingen mit Freifunk versorgt hat. Im Jahr 2017 fand im Rahmen der Versorgung des Freibads die erste Kooperation mit der Stadt Mössingen statt.
+Im Frühjahr 2019 wurde die Zusammenarbeit fortgeschrieben, die Kommune hat für das laufende Jahr Haushaltsmittel in den Haushalt eingestellt, die Jugendvertretung geeignete Stellen ausgesucht und die Freifunk AG wird weitere Orte in Mössingen im Auftrag der Stadt mit freiem WLan versorgen.
+Der Vortrag beleuchtet Genese des Projekts, Widerstände und Probleme nicht nur technischer, sondern auch politischer Natur und gibt einen Einblick in das spannende Verhältnis zwischen Schule, Kommunalpolitik und Technik. 
 Bei ausreichender Motivation werden die SchülerInnen der AG am Vortrag mitwirken ;)
 
 #### Über mich
@@ -1275,8 +1275,8 @@ Allgemeine Intimkenntnisse und Interesse für den sensiblen Umgang mit Computern
 <duration>00:55</duration>
 <room>V4</room>
 <title>Minecraft Hacking for Beginners</title>
-<description>Minecraft ist eines der erfolgreichsten Spiele überhaupt und besitzt auch eine aktive Modder-Szene, die auch sehr wohlwollend vom Eigentümer (mittlerweile Microsoft) unterstützt wird.&#x3c;br/&#x3e;
-Obwohl es jetzt auch Windows und Konsolen-Versionen gibt, ist die "wahre" Version die Java-Version, die natürlich auch unter Linux läuft.&#x3c;br/&#x3e;
+<description>Minecraft ist eines der erfolgreichsten Spiele überhaupt und besitzt auch eine aktive Modder-Szene, die auch sehr wohlwollend vom Eigentümer (mittlerweile Microsoft) unterstützt wird.
+Obwohl es jetzt auch Windows und Konsolen-Versionen gibt, ist die "wahre" Version die Java-Version, die natürlich auch unter Linux läuft.
 Ziel des Vortrags ist es - weitestmöglichst live - einen einfachen Minecraft-Mod zu erstellen, der die Funktionalität des Spiels erweitert.
 
 #### Über mich
@@ -1398,23 +1398,23 @@ Kein Vorwissen notwendig.
 <duration>00:55</duration>
 <room>W2</room>
 <title>OpenSSH Certificates</title>
-<description>Wir alle lieben SSH! Und wir verwenden brav Benutzerschlüssel,&#x3c;br/&#x3e;
-installiert als sogenannte »authorized keys«. Allerdings verleiten gut&#x3c;br/&#x3e;
-gemeinte Anleitungen im Internet zu einer bequemen, aber eher&#x3c;br/&#x3e;
+<description>Wir alle lieben SSH! Und wir verwenden brav Benutzerschlüssel,
+installiert als sogenannte »authorized keys«. Allerdings verleiten gut
+gemeinte Anleitungen im Internet zu einer bequemen, aber eher
 fragwürdigen Nutzung von SSH-Schlüsseln.
 
-Es stellen sich folgende Fragen:&#x3c;br/&#x3e;
-Wie werden private Schlüssel sicher gespeichert?&#x3c;br/&#x3e;
-Smartcards nutzen?&#x3c;br/&#x3e;
-Wie funktioniert die Nutzung auf mehreren Clients und Gateways?&#x3c;br/&#x3e;
-Wie wird die Authentizität der öffentlichen Schlüssel gewährleistet?&#x3c;br/&#x3e;
-Wie werden obsolete Schlüssel wieder zuverlässig entfernt?&#x3c;br/&#x3e;
+Es stellen sich folgende Fragen:
+Wie werden private Schlüssel sicher gespeichert?
+Smartcards nutzen?
+Wie funktioniert die Nutzung auf mehreren Clients und Gateways?
+Wie wird die Authentizität der öffentlichen Schlüssel gewährleistet?
+Wie werden obsolete Schlüssel wieder zuverlässig entfernt?
 Wie erreicht man 2FA?
 
-Eine Lösung sind nur kurzzeitig gültige SSH-Schlüsselzertifikate, welche&#x3c;br/&#x3e;
-einem Benutzer nach erfolgreicher Mehrfaktor-Authentifizierung&#x3c;br/&#x3e;
-ausgestellt werden. Eine solche Implementierung wird vorgestellt und&#x3c;br/&#x3e;
-erläutert, warum eine Nutzung von Smartcards für den Einsatz in einer&#x3c;br/&#x3e;
+Eine Lösung sind nur kurzzeitig gültige SSH-Schlüsselzertifikate, welche
+einem Benutzer nach erfolgreicher Mehrfaktor-Authentifizierung
+ausgestellt werden. Eine solche Implementierung wird vorgestellt und
+erläutert, warum eine Nutzung von Smartcards für den Einsatz in einer
 grossen RZ-Umgebung nicht geeignet ist.
 
 #### Über mich
@@ -1435,11 +1435,11 @@ Grundkenntnisse Unix/Linux und SSH-Nutzung
 <duration>02:00</duration>
 <room>W2</room>
 <title>Anständiges Werkzeug: emacs</title>
-<description>Dieser "Mitmach"-Workshop soll die Teilnehmer durch die anfänglichen Hürden führen, die jedes neue Werkzeug so mit sich bringt. Es wird empfohlen, ein Notebook mitzubringen und emacs und seine Dokumentation vorab zu installieren. emacs läuft auch auf Windows und MacOS!&#x3c;br/&#x3e;
-- emacs starten und beenden&#x3c;br/&#x3e;
-- Hilfe? Konzepte?&#x3c;br/&#x3e;
-- eine Datei öffnen oder anlegen, Datei ändern und speichern oder auch verwerfen&#x3c;br/&#x3e;
-- Regionen markieren, kopieren, löschen, verschieben&#x3c;br/&#x3e;
+<description>Dieser "Mitmach"-Workshop soll die Teilnehmer durch die anfänglichen Hürden führen, die jedes neue Werkzeug so mit sich bringt. Es wird empfohlen, ein Notebook mitzubringen und emacs und seine Dokumentation vorab zu installieren. emacs läuft auch auf Windows und MacOS!
+- emacs starten und beenden
+- Hilfe? Konzepte?
+- eine Datei öffnen oder anlegen, Datei ändern und speichern oder auch verwerfen
+- Regionen markieren, kopieren, löschen, verschieben
 - Suchen und ersetzen
 
 Damit kann man schon allerhand anfangen. Der Rest des Workshops ist eine Demo durch die von mir für wichtig erachteten Pakete. Denn man kann damit echt erstaunliche Dinge anstellen: org-mode (spread sheet, Termine, Agenda), mu4e (email), calc und mehr.
