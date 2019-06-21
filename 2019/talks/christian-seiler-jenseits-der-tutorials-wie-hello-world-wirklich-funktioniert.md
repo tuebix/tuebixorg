@@ -11,7 +11,7 @@ menu:
 
 ### Christian Seiler
 
-Die meisten Programmierbeispiele beginnen mit dem klassichen Beispielprogramm, welches "Hello World" ausgibt. Aber was passiert auf modernen Systemen eigentlich im Hintegrund? Warum ist das so erzeugte Binary mehrere Kilobyte groß? Dieser Vortrag soll die schwarze Magie entmystifizieren, die auf heutigen Systemen im Hintergrund geschieht, damit selbst einfache Programme überhaupt gestartet werden können. Es wird ein Überblick über das ELF-Format gegeben, wie der Kernel ELF-Programme startet, wie der dynamische Linker funktioniert, wie ASLR implementiert ist auf heutigen Systemen, welcher Code ausgeführt wird, bevor die erste Zeile in main() überhaupt erreicht wird, wie statische und Thread-lokale Variablen funktionieren, sowie wie die Systembibliothek (libc) mit dem Compiler interagiert für die Unterstützung von Threads.
+Die meisten Programmierbeispiele beginnen mit dem klassichen Beispielprogramm, welches "Hello World" ausgibt. Aber was passiert auf modernen Systemen eigentlich im Hintergrund? Warum ist das so erzeugte Binary mehrere Kilobyte groß? Dieser Vortrag soll die schwarze Magie entmystifizieren, die auf heutigen Systemen im Hintergrund geschieht, damit selbst einfache Programme überhaupt gestartet werden können. Es wird ein Überblick über das ELF-Format gegeben, wie der Kernel ELF-Programme startet, wie der dynamische Linker funktioniert, wie ASLR implementiert ist auf heutigen Systemen, welcher Code ausgeführt wird, bevor die erste Zeile in main() überhaupt erreicht wird, wie statische und Thread-lokale Variablen funktionieren, sowie wie die Systembibliothek (libc) mit dem Compiler interagiert für die Unterstützung von Threads.
 
 ### Vorwissen
 
