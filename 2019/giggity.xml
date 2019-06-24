@@ -565,7 +565,7 @@ keines  Grundkenntnisse TCP/IP/UDP
 <duration>00:05</duration>
 <room>V3</room>
 <title>Blitzschnelles Mathe-LaTeX dank UltiSnips</title>
-<description>Mathematische Aufschriebe mit LaTeX dauern für gewöhnlich ewig. Zumindest ist man meist nicht schnell genug, um in der Vorlesung mitzuschreiben, dazu ist es mit den meisten Editoren auch noch ätzend (wie ist noch gleich der Befehl für die Vereinigung von Mengen? ah stimmt, \bigcap...). Hier stelle ich ein kleines PlugIn vor: UltiSnips. Mit dessen Hilfe können automatisch bestimmte Textabschnitte (kontextsensitiv) zu anderen konvertiert werden. Durch die flexible Programmierbarkeit des PlugIns können so selbst anspruchsvolle Mathematische Sätze und Darstellungen in schneller Zeit bewältigt werden, was ich auch demonstrieren werde. 
+<description>Mathematische Aufschriebe mit LaTeX dauern für gewöhnlich ewig. Zumindest ist man meist nicht schnell genug, um in der Vorlesung mitzuschreiben, dazu ist es mit den meisten Editoren auch noch ätzend (wie ist noch gleich der Befehl für die Vereinigung von Mengen? ah stimmt, \bigcup...). Hier stelle ich ein kleines PlugIn vor: UltiSnips. Mit dessen Hilfe können automatisch bestimmte Textabschnitte (kontextsensitiv) zu anderen konvertiert werden. Durch die flexible Programmierbarkeit des PlugIns können so selbst anspruchsvolle Mathematische Sätze und Darstellungen in schneller Zeit bewältigt werden, was ich auch demonstrieren werde. 
 
 #### Über mich
 
@@ -1085,6 +1085,59 @@ Hobbygamer und Gründer von Ramsor-Gaming (ramsor-gaming.de)
 - <link href="https://ramsor-gaming.de">Ramsor-Gaming</link>
 - <link href="https://developer.valvesoftware.com/wiki/SteamCMD">SteamCMD</link>
 - <link href="https://www.teamspeak.com">Teamspeak 3</link>
+</links>
+</event>
+
+<event id="christoph-prokop-linux-presentation-day">
+<start>16:40</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Linux Presentation Day</title>
+<description>Der Linux Presentation Day (kurz LPD) ist ein Veranstaltungskonzept, mit der Idee weltweit an einem Stichtag Veranstaltungen rund um das Thema LINUX auf die Beine zu stellen, um interessierten Besuchern LINUX vorzustellen und zu erklären.
+Ich möchte euch kurz berichten, wie das die letzten Male in Tübingen so ablief und was wir dabei gelernt haben.
+
+#### Über mich
+
+Ich heiße Christoph, wohne in Tübingen und war schon mal bei einem Linux Presentation Day.
+</description>
+<persons><person>Christoph Prokop</person></persons>
+<links>
+- <link href="https://l-p-d.org/">https://l-p-d.org/</link>
+</links>
+</event>
+
+<event id="michael-weiss-nixos-ein-ueberblick">
+<start>16:25</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Nix(OS) - Ein Überblick</title>
+<description>Ein kurzer Überblick über Nix(OS), Nixpkgs und weitere nützliche Tools. Es geht v.a. darum die Konzepte zu vermitteln sowie die Unterschiede zu klassischen Paket-Managern aufzuzeigen (mögliche Vor- und Nachteile).
+
+Nix ist ein funktionaler package manager, der auch auf anderen Betriebssystem genutzt werden kann, ohne Konflikte mit dem bestehenden package manager zu bekommen. NixOS ist eine auf Nix basierende Linux-Distribution, mit der neben den Software-Paketen zusätzlich auch die System-Konfiguration über Nix verwaltet werden kann. Die Paket-Definitionen und NixOS Module zur Systemkonfiguration werden in Nixpkgs, einem großen Git Repository, zentral verwaltet.
+
+Nix(OS) verfügt unter anderem über folgende Features:
+- Transparent source/binary model
+- Declarative (system configuration)
+- Reproducible builds
+- Multi-user, multi-version (no conflicts)
+- Portable (Linux, macOS, ...)
+- Reliable and atomic updates
+- Rollbacks
+
+#### Über mich
+
+Nixpkgs package maintainer seit 2017 (ca. 50 Pakete und 4 Module), davor Gentoo user. Begeistert für FLOSS, GNU/Linux, Networking ("Internet"), reproducible builds, etc. Aktuell Informatik-Student an der Universität Tübingen.
+
+#### Vorwissen
+
+Grobe Kenntnisse eines Paket-Managers wären evtl. hilfreich.
+</description>
+<persons><person>Michael Weiss</person></persons>
+<links>
+- <link href="https://nixos.org/">NixOS Website</link>
+- <link href="https://github.com/NixOS/nixpkgs/">Nixpkgs (GitHub)</link>
+- <link href="https://primeos.github.io/nixos-slides/">Folien der vollständigen Präsentation</link>
+- <link href="https://github.com/primeos">Mein GitHub Profil</link>
 </links>
 </event>
 

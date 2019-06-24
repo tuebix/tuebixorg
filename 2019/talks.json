@@ -310,7 +310,7 @@
         "name": "Alexander Conzelmann",
         "titel": "Blitzschnelles Mathe-LaTeX dank UltiSnips",
         "buzzword": "Technologien, Vim, Plug-ins, LaTeX, TeX, UltiSnips, Snippets, Mathematik",
-        "inhalt": "Mathematische Aufschriebe mit LaTeX dauern für gewöhnlich ewig. Zumindest ist man meist nicht schnell genug, um in der Vorlesung mitzuschreiben, dazu ist es mit den meisten Editoren auch noch ätzend (wie ist noch gleich der Befehl für die Vereinigung von Mengen? ah stimmt, \\bigcap...). Hier stelle ich ein kleines PlugIn vor: UltiSnips. Mit dessen Hilfe können automatisch bestimmte Textabschnitte (kontextsensitiv) zu anderen konvertiert werden. Durch die flexible Programmierbarkeit des PlugIns können so selbst anspruchsvolle Mathematische Sätze und Darstellungen in schneller Zeit bewältigt werden, was ich auch demonstrieren werde. ",
+        "inhalt": "Mathematische Aufschriebe mit LaTeX dauern für gewöhnlich ewig. Zumindest ist man meist nicht schnell genug, um in der Vorlesung mitzuschreiben, dazu ist es mit den meisten Editoren auch noch ätzend (wie ist noch gleich der Befehl für die Vereinigung von Mengen? ah stimmt, \\bigcup...). Hier stelle ich ein kleines PlugIn vor: UltiSnips. Mit dessen Hilfe können automatisch bestimmte Textabschnitte (kontextsensitiv) zu anderen konvertiert werden. Durch die flexible Programmierbarkeit des PlugIns können so selbst anspruchsvolle Mathematische Sätze und Darstellungen in schneller Zeit bewältigt werden, was ich auch demonstrieren werde. ",
         "aboutme": "Hey, ich bin Alex, studiere in Tübingen Informatik und bin Mitglied der Linux-AG. Mich begeistert alles rund um Technik und Linux. Wenn ich grade nicht am PC sitze, tanze ich auch noch ganz gern :)",
         "vorwissen": "LaTeX",
         "weblinks": {},
@@ -1351,6 +1351,56 @@
         "room": "V3",
         "timebegin": "14:45",
         "timeend": "14:50"
+    },
+    {
+        "name": "Christoph Prokop",
+        "titel": "Linux Presentation Day",
+        "buzzword": "Linux Presentation Day, Anfänger und Fortgeschrittene, Community",
+        "inhalt": "Der Linux Presentation Day (kurz LPD) ist ein Veranstaltungskonzept, mit der Idee weltweit an einem Stichtag Veranstaltungen rund um das Thema LINUX auf die Beine zu stellen, um interessierten Besuchern LINUX vorzustellen und zu erklären.\nIch möchte euch kurz berichten, wie das die letzten Male in Tübingen so ablief und was wir dabei gelernt haben.",
+        "aboutme": "Ich heiße Christoph, wohne in Tübingen und war schon mal bei einem Linux Presentation Day.",
+        "vorwissen": "",
+        "weblinks": {
+            "1": {
+                "url": "https://l-p-d.org/",
+                "title": "https://l-p-d.org/"
+            }
+        },
+        "urlid": "christoph-prokop-linux-presentation-day",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "16:40",
+        "timeend": "16:45"
+    },
+    {
+        "name": "Michael Weiss",
+        "titel": "Nix(OS) - Ein Überblick",
+        "buzzword": "Nix,Package manager,Functional,Immutable,Configuration management",
+        "inhalt": "Ein kurzer Überblick über Nix(OS), Nixpkgs und weitere nützliche Tools. Es geht v.a. darum die Konzepte zu vermitteln sowie die Unterschiede zu klassischen Paket-Managern aufzuzeigen (mögliche Vor- und Nachteile).\n\nNix ist ein funktionaler package manager, der auch auf anderen Betriebssystem genutzt werden kann, ohne Konflikte mit dem bestehenden package manager zu bekommen. NixOS ist eine auf Nix basierende Linux-Distribution, mit der neben den Software-Paketen zusätzlich auch die System-Konfiguration über Nix verwaltet werden kann. Die Paket-Definitionen und NixOS Module zur Systemkonfiguration werden in Nixpkgs, einem großen Git Repository, zentral verwaltet.\n\nNix(OS) verfügt unter anderem über folgende Features:\n- Transparent source/binary model\n- Declarative (system configuration)\n- Reproducible builds\n- Multi-user, multi-version (no conflicts)\n- Portable (Linux, macOS, ...)\n- Reliable and atomic updates\n- Rollbacks",
+        "aboutme": "Nixpkgs package maintainer seit 2017 (ca. 50 Pakete und 4 Module), davor Gentoo user. Begeistert für FLOSS, GNU/Linux, Networking (\"Internet\"), reproducible builds, etc. Aktuell Informatik-Student an der Universität Tübingen.",
+        "vorwissen": "Grobe Kenntnisse eines Paket-Managers wären evtl. hilfreich.",
+        "weblinks": {
+            "1": {
+                "url": "https://nixos.org/",
+                "title": "NixOS Website"
+            },
+            "2": {
+                "url": "https://github.com/NixOS/nixpkgs/",
+                "title": "Nixpkgs (GitHub)"
+            },
+            "3": {
+                "url": "https://primeos.github.io/nixos-slides/",
+                "title": "Folien der vollständigen Präsentation"
+            },
+            "4": {
+                "url": "https://github.com/primeos",
+                "title": "Mein GitHub Profil"
+            }
+        },
+        "urlid": "michael-weiss-nixos-ein-ueberblick",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "16:25",
+        "timeend": "16:30"
     },
     {
         "name": "Alexander Landstorfer",
