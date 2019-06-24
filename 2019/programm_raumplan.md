@@ -71,18 +71,18 @@ menu: main
 <tr><td>15:25</td><td>bis</td><td>15:30</td><td><a class="light"></a></td><td><a href="../programm/andreas-mundt-nextkellercloud-homeserver-mit-ct-bauvorschlag-und-oder-olinuxinolime2">NextKellerCloud:&nbsp;HomeServer&nbsp;mit&nbsp;c't&nbsp;Bauvorschlag&nbsp;und/oder&nbsp;OLinuXinoLIME2</a></td><td>Andreas&nbsp;B.&nbsp;Mundt</td></tr>
 <tr><td>15:30</td><td>bis</td><td>15:35</td><td><a class="light"></a></td><td><a href="../programm/john-boe-will-the-humane-tech-movement-rescue-human-kind">Will&nbsp;the&nbsp;humane&nbsp;tech&nbsp;movement&nbsp;rescue&nbsp;human&nbsp;kind(ness)?</a></td><td>John&nbsp;Boe</td></tr>
 <tr><td>15:35</td><td>bis</td><td>15:40</td><td><a class="light"></a></td><td><a href="../programm/lorenz-kiefner-mesh-vpn-selbstgebaut">Mesh-VPN&nbsp;selbstgebaut</a></td><td>Lorenz&nbsp;Kiefner</td></tr>
-<tr><td>15:40</td><td>bis</td><td>15:45</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei</a></td><td>Du? :)</td></tr>
+<tr><td>15:40</td><td>bis</td><td>15:45</td><td><a class="light"></a></td><td>(geblockt - Titel kommt noch)</td><td>Pantelis Birokas</td></tr>
 <tr><td>15:45</td><td>bis</td><td>15:50</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei</a></td><td>Du? :)</td></tr>
 <tr><td>16:00</td><td>bis</td><td>16:05</td><td><a class="light"></a></td><td><a href="../programm/meffisto-verschluesselung-einer-ssd-mit-luks-und-wie-man-sich-selbst-kompromittieren-kann">Verschlüsselung&nbsp;einer&nbsp;SSD&nbsp;mit&nbsp;LUKS&nbsp;und&nbsp;wie&nbsp;man&nbsp;sich&nbsp;selbst&nbsp;kompromittieren&nbsp;kann</a></td><td>meffisto</td></tr>
 <tr><td>16:05</td><td>bis</td><td>16:10</td><td><a class="light"></a></td><td><a href="../programm/johannes-schirm-fremdsprachen-lernen-auf-linux">Fremdsprachen&nbsp;Lernen&nbsp;auf&nbsp;Linux</a></td><td>Johannes&nbsp;Schirm</td></tr>
 <tr><td>16:10</td><td>bis</td><td>16:15</td><td><a class="light"></a></td><td><a href="../programm/matthias-beyer-building-deb-rpm-packages-with-nixpkgs">Building&nbsp;.deb/.rpm&nbsp;packages&nbsp;with&nbsp;nixpkgs</a></td><td>Matthias&nbsp;Beyer</td></tr>
-<tr><td>16:15</td><td>bis</td><td>16:20</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei</a></td><td>Du? :)</td></tr>
+<tr><td>16:15</td><td>bis</td><td>16:20</td><td><a class="light"></a></td><td>(geblockt - Titel kommt noch)</td><td>Sebastian Niedworok</td></tr>
 <tr><td>16:20</td><td>bis</td><td>16:25</td><td><a class="light"></a></td><td><a href="../programm/christian-seiler-real-time-anwendungen-unter-linux-lessons-learned">Real-Time-Anwendungen&nbsp;unter&nbsp;Linux:&nbsp;Lessons&nbsp;Learned</a></td><td>Christian&nbsp;Seiler</td></tr>
 <tr><td>16:25</td><td>bis</td><td>16:30</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei</a></td><td>Du? :)</td></tr>
 <tr><td>16:30</td><td>bis</td><td>16:35</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei</a></td><td>Du? :)</td></tr>
 <tr><td>16:35</td><td>bis</td><td>16:40</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei</a></td><td>Du? :)</td></tr>
-<tr><td>16:40</td><td>bis</td><td>16:45</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei</a></td><td>Du? :)</td></tr>
-<tr><td>16:45</td><td>bis</td><td>16:50</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei</a></td><td>Du? :)</td></tr>
+<tr><td>16:40</td><td>bis</td><td>16:45</td><td><a class="light"></a></td><td>(geblockt - Titel kommt noch)</td><td>Christoph Prokop</td></tr>
+<tr><td>16:45</td><td>bis</td><td>16:50</td><td><a class="light"></a></td><td>(geblockt - Titel kommt noch)</td><td>Felix Bauer</td></tr>
 <tr><td>17:00</td><td>bis</td><td>17:20</td><td><a class="talk"></a></td><td><a href="../programm/robert-scheck-schonmal-systemd-networkd-ausprobiert">Schonmal&nbsp;systemd-networkd&nbsp;ausprobiert?</a></td><td>Robert&nbsp;Scheck</td></tr>
 <tr><td>17:30</td><td>bis</td><td>17:50</td><td><a class="talk"></a></td><td><a href="../programm/matthias-kurz-mastodon-die-geschichte-vom-tooten-und-boosten">Mastodon&nbsp;-&nbsp;Die&nbsp;Geschichte&nbsp;vom&nbsp;tooten&nbsp;und&nbsp;boosten</a></td><td>Matthias&nbsp;Kurz</td></tr>
 <tr><td>&nbsp;</td></tr>
