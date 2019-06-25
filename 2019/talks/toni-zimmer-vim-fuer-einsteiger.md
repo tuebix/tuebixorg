@@ -19,5 +19,5 @@ Wir beginnen bei "null", aber ein Linux sollte man schon mal verwendet und vim i
 
 ### Über mich
 
-Sysyadmin und vim-User aus Leidenschaft
+Sysadmin und vim-User aus Leidenschaft
 
