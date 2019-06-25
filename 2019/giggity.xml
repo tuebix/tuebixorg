@@ -1141,6 +1141,51 @@ Grobe Kenntnisse eines Paket-Managers wären evtl. hilfreich.
 </links>
 </event>
 
+<event id="edgar-olijar-ctf-wtf-hacking-for-fun-and-profit">
+<start>15:45</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>CTF WTF? Hacking for fun &#x26; profit</title>
+<description>Es wird erklärt was Capture The Flag (CTF) ist und wie man sich auf solche Hacking-Competitions vorbereitet.
+
+#### Über mich
+
+Informatik-Student UNI Tübingen
+
+#### Vorwissen
+
+42
+</description>
+<persons><person>Edgar Olijar</person></persons>
+<links>
+- <link href="https://ctftime.org/event/list/">CTF events</link>
+- <link href="https://ctftime.org/ctf-wtf/">CTF WTF</link>
+- <link href="https://www.youtube.com/watch?v=8ev9ZX9J45A">LiveOverflow: CTF</link>
+- <link href="https://dhanvi.org/slides/2015-11-hackbeach-ctf-wtf/index.html#/8">Cyber Defence</link>
+</links>
+</event>
+
+<event id="jonas-benn-open-up-science">
+<start>16:30</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Open up, science!</title>
+<description>This will be a hard one to do in 5 minutes. :D Nevertheless, here is the plan:
+— What is problematic with the current scientific publication system?
+— Short introduction to the Open Science Movement
+— Giving a little taster of "Octopus" and Chris Hartgerink's recent proposal, described in “Verified, Shared, Modular, and Provenance Based Research Communication with the Dat Protocol”
+
+#### Über mich
+
+When I heard about the replication crisis and also the recent revelations of well-known scientists working with questionable methodology, I wondered — can we do better?
+</description>
+<persons><person>Jonas Benn</person></persons>
+<links>
+- <link href="https://www.mdpi.com/2304-6775/7/2/40">Chris Hartgerink's recent paper</link>
+- <link href="https://octopus-hypothesis.netlify.com/">Octopus</link>
+</links>
+</event>
+
 </room>
 <room name="V4">
 <event id="uli-kleemann-ich-habe-doch-nichts-zu-verbergen">

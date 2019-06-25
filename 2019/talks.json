@@ -1403,6 +1403,60 @@
         "timeend": "16:30"
     },
     {
+        "name": "Edgar Olijar",
+        "titel": "CTF WTF? Hacking for fun & profit",
+        "buzzword": "hacking, CTF, capture the flag, exploitation, cyber defence challenge, cyber security, wargame, computer security, securing a machine, break into the system",
+        "inhalt": "Es wird erklärt was Capture The Flag (CTF) ist und wie man sich auf solche Hacking-Competitions vorbereitet.",
+        "aboutme": "Informatik-Student UNI Tübingen",
+        "vorwissen": "42",
+        "weblinks": {
+            "1": {
+                "url": "https://ctftime.org/event/list/",
+                "title": "CTF events"
+            },
+            "2": {
+                "url": "https://ctftime.org/ctf-wtf/",
+                "title": "CTF WTF"
+            },
+            "3": {
+                "url": "https://www.youtube.com/watch?v=8ev9ZX9J45A",
+                "title": "LiveOverflow: CTF"
+            },
+            "4": {
+                "url": "https://dhanvi.org/slides/2015-11-hackbeach-ctf-wtf/index.html#/8",
+                "title": "Cyber Defence"
+            }
+        },
+        "urlid": "edgar-olijar-ctf-wtf-hacking-for-fun-and-profit",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "15:45",
+        "timeend": "15:50"
+    },
+    {
+        "name": "Jonas Benn",
+        "titel": "Open up, science!",
+        "buzzword": "Open Science, Transparent Research, Open Infrastructure",
+        "inhalt": "This will be a hard one to do in 5 minutes. :D Nevertheless, here is the plan:\n— What is problematic with the current scientific publication system?\n— Short introduction to the Open Science Movement\n— Giving a little taster of \"Octopus\" and Chris Hartgerink's recent proposal, described in “Verified, Shared, Modular, and Provenance Based Research Communication with the Dat Protocol”",
+        "aboutme": "When I heard about the replication crisis and also the recent revelations of well-known scientists working with questionable methodology, I wondered — can we do better?",
+        "vorwissen": "",
+        "weblinks": {
+            "1": {
+                "url": "https://www.mdpi.com/2304-6775/7/2/40",
+                "title": "Chris Hartgerink's recent paper"
+            },
+            "2": {
+                "url": "https://octopus-hypothesis.netlify.com/",
+                "title": "Octopus"
+            }
+        },
+        "urlid": "jonas-benn-open-up-science",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "16:30",
+        "timeend": "16:35"
+    },
+    {
         "name": "Alexander Landstorfer",
         "titel": "Das Tübinger 80cm-Teleskop",
         "buzzword": "Teleskop",
