@@ -13,7 +13,7 @@
 <room name="V1">
 <event id="lennart-poettering-boot-loader-spec-sd-boot">
 <start>18:15</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V1</room>
 <title>Boot Loader Spec + sd-boot</title>
 <description>The boot loader specification defines a generic drop-in based solution for defining boot targets. sd-boot is a boot loader for UEFI systems, and included in the systemd source tree. In this talk we'll have a closer look on the what, the why and the how of the specification and the boot loader.
@@ -37,7 +37,7 @@ Knowing Linux and its basic concepts would be great. Having heard of UEFI would 
 
 <event id="alexander-peltzer-bigdata-analytics-mit-nextflow-und-nf-core">
 <start>16:00</start>
-<duration>00:25</duration>
+<duration>00:20</duration>
 <room>V1</room>
 <title>BigData analytics mit Nextflow und nf-core</title>
 <description>Die Standardisierung, Portabilität und Reproduzierbarkeit von Analysemethoden ist nach wie vor ein bekanntes Problem in der angewandten Informatik und hierbei insbesondere in den Lebenswissenschaften. Analysetools sind oftmals auf spezifische Infrastruktur zugeschnitten und können nur schlecht von dieser getrennt angewandt werden. Mittels Nextflow, einer domänenspezifischen Sprache auf Groovy-Basis und nf-core, einem Framework für die Anwendung von Erfahrungen aus der Entwicklung vieler stabiler Analysepipelines, versuchen wir diese Probleme konkret zu addressieren. Hierbei werden Containertechnologien, Cloud Ressourcen und eine Community aus Entwicklern rund um den Globus eingebunden um eine möglichst flexible Entwicklung dieser Plattformen zu erreichen. Im Talk werden die einzelnen Aspekte beleuchtet und detailliert beschrieben, so dass Zuhörer auch selbst in die Entwicklung solcher Analysepipelines einsteigen können.  
@@ -59,7 +59,7 @@ Interesse am Themengebiet BigData / Cloud Computing. Eventuell hilfreich: Contai
 
 <event id="adrian-reber-container-live-migration">
 <start>17:30</start>
-<duration>00:25</duration>
+<duration>00:20</duration>
 <room>V1</room>
 <title>Container Live Migration</title>
 <description>The difficult task to checkpoint and restore a process is used in many container runtimes to implement container live migration. This talk will give details how CRIU is able to checkpoint and restore processes, how it is integrated in different container runtimes and which optimizations CRIU offers to decrease the downtime during container migration.
@@ -79,7 +79,7 @@ Adrian is a Principal Software Engineer at Red Hat and is migrating processes at
 
 <event id="jonas-genannt-smart-home-mit-openhab2">
 <start>12:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V1</room>
 <title>"Smart Home" mit OpenHAB2</title>
 <description>Vorstellung und Einführung ins OpenHAB2 mit den verschiedenen UIs und Konfigurationsmöglichkeiten. Danach Vorstellung meiner OpenSource Hardware (Sensornetzwerk + Fernsteuerungen).
@@ -97,7 +97,7 @@ Interesse an Smart Home mit OpenHAB2.
 
 <event id="udo-seidel-container-sicherheit-dank-kata">
 <start>16:30</start>
-<duration>00:25</duration>
+<duration>00:20</duration>
 <room>V1</room>
 <title>Container-Sicherheit dank Kata</title>
 <description>IT-Sicherheitsexperten sind weitesgehend der Meinung, dass Container nicht 100% dicht halten. Ein beliebtes Ziel der Angreifer ist der Betriebssystem-Kern des Hosts. Kata-Containers möchte hier Abhilfe schaffen und ist Inhalt dieses Vortrags.
@@ -118,7 +118,7 @@ Grundwissen Betriebssystem-Aufbau insbesondere bezüglich Container
 
 <event id="klaus-knopper-cloudbusters-wer-kontrolliert-dein-smart-home">
 <start>13:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V1</room>
 <title>Cloudbusters - Wer kontrolliert dein Smart Home?</title>
 <description>Smarte vernetzte Geräte und Heimautomatisierung sind zweifelsfrei sehr praktisch und meist geradezu erschreckend intuitiv bedienbar. Aber wer programmiert und kontrolliert diese Geräte eigentlich, was bedeuten sie für die Sicherheit und Privatsphäre, und ist es einfach nur paranoid, anzunehmen, diese Geräte würden ihre Besitzer ständig überwachen oder sogar manipulieren? Worauf lässt man sich ein, wenn sprachgesteuerte KI-Assistenten die Kontrolle übernehmen?
@@ -149,7 +149,7 @@ Auch wenn der Dozent hier einmal wieder einen Lötkolben zur Hand nimmt, sind ke
 
 <event id="christian-brauner-file-descriptors-for-processes">
 <start>14:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V1</room>
 <title>File Descriptors For Processes</title>
 <description>Traditionally processes are identified by process identifiers aka PIDs. These are globally unique identifiers. As such users do not hold a stable reference on the process they identify. Because of that PIDs will be recycled by the kernel. This means a PID might refer to a different process than what a user thought it did. As such PIDs are inherently racy, e.g. a process might end up sending a signal to PID which referes to a process it didn't itend to signal.
@@ -175,7 +175,7 @@ Some knowledge around process management and process identifiers (PIDs) and file
 
 <event id="thorsten-leemhuis-aktuelle-entwicklungen-beim-linux-kernel">
 <start>10:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V1</room>
 <title>Aktuelle Entwicklungen beim Linux-Kernel</title>
 <description>Der Vortrag gibt einen Überblick über jüngst beim Linux-Kernel vorgenommene Verbesserungen, die für Heim-PCs und Server von Belang sind. Dabei geht es nicht nur um Neuerungen bei Dateisystemen, Netzwerkunterstützung &#x26; Co., sondern auch um neue oder erweiterte Treiber für gängige PC-Hardware. Der Vortrag geht auch auf einige Neuerungen bei Kernel-naher Software ein – etwa bei den quelloffenen 3D-Treibern für Grafikhardware, denn diese arbeiten eng mit den Kernel-Treibern zusammen. Es werden zudem einige Verbesserungen beleuchtet, die gerade für zukünftige Kernel vorbereitet werden.
@@ -193,7 +193,7 @@ Thorsten ist Redakteur beim c't Magazin für Computertechnik, wo er seit fünfze
 
 <event id="meffisto-integration-von-linux-containern-auf-dem-desktop-mit-lxc">
 <start>17:00</start>
-<duration>00:25</duration>
+<duration>00:20</duration>
 <room>V1</room>
 <title>Integration von Linux-Containern auf dem Desktop mit LXC</title>
 <description>Keine Technikeinführung zu LXC. Stattdessen: Demonstration an praktischen Beispielen wann Container (hier mit LXC umgesetzt) auf einem Desktop-System sehr hilfreich sein können und eine bemerkenswerte Flexibilität bereitstellen, sowie Optionen eröffnen wie sie vorher kaum denkbar waren. Bei der Vorstellung mehrerer bereits umgesetzter, konkreter Szenarios wird dies exemplarisch vorgestellt (privilegiert vs. unprivilegiert, Hardware-Zugriff, Desktop-Integration, bewusste Separation, usw.).
@@ -212,7 +212,7 @@ Das Konzept von Containern sollte bekannt sein, bereits vorhandenes Wissen zu LX
 
 <event id="holger-gantikow-linux-containers-for-hpc-container-technology-engine-architecture-101">
 <start>15:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V1</room>
 <title>Linux Containers for HPC - Container Technology/Engine Architecture 101</title>
 <description>Container Technologie hat sich in den letzten Jahre nicht nur in der "normalen" IT ausgebreitet, sondern auch im Bereich des High Performance Computings (HPC) als eine wichtige Basiskomponente etabliert. Allerdings stellt hier Docker nicht die omnipräsente Lösung dar, sondern es existieren eine Reihe von Alternativen, die sich oft deutlich besser in bestehende HPC-Umgebungen einbinden lassen.
@@ -235,7 +235,7 @@ Ein spezielles Vorwissen der Zuhörer wird nicht vorausgesetzt. Interesse an HPC
 
 <event id="michael-sperber-programmieren-lehren-lernen">
 <start>11:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V1</room>
 <title>Programmieren lehren lernen</title>
 <description>Solltest Du Programmieren lernen?  Und alle anderen?  Da Du hier bist, ist Deine Antwort wahrscheinlich "ja".  Aber sind die Fähigkeiten von Entwicklerinnen und Entwicklern von allgemeinem Wert?  Und wenn sie es sind, wie bringen wir sie anderen bei?  Was sind das überhaupt für Fähigkeiten?  Ist das die gemeinschaftliche Erkundung kreativer Räume oder die einsame Anwendung mathematischer Techniken auf die Konstruktion komplexer Maschinen?  In der Realität werden Programme meist eher gebastelt als konstruiert, und gelehrt wird die Aktivität durch Beispiele.  Dieser Ansatz geht davon aus, dass das, was wir tun, durch Osmose vermittelt wird.  Er privilegiert eine kleine Gruppe von Menschen und propagiert die falschen Dinge.  Falls die Software von morgen und ihre Auswirkung auf die Zukunft besser werden soll als die deprimierende Gegenwart, brauchen wir fundamentale Veränderung.  Wenn das gelingt, haben wir als Software-Entwicklerinnen und Entwickler die Gelgenheit, den Wert sorgfältigen Zuhörens, gründlicher Analyse, Selbstkritik, Liebe zum Detail und systematischer Abstraktion zu vermitteln und zu zeigen, was für erstaunliche Kreativität aus diesen Prinzipien erwachsen kann.  Der Vortrag berichtet aus 30 Jahren Erfahrung mit der Lehre im Programmieren an unterschiedlichstem Publikum (darunter auch die Entwicklung der Vorlesung "Informatik I" an der Universität Tübingen) und wie Du von dieser Erfahrung profitieren kannst.
@@ -284,7 +284,7 @@ Rudimentäre Programmierkenntnisse
 <room name="V2">
 <event id="rainer-grimm-c++20-die-revolution-geht-weiter">
 <start>16:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V2</room>
 <title>C++20 - Die Revolution geht weiter</title>
 <description>Mit C++20 steht wieder ein richtiger großer C++-Standard vor der Tür. Concepts, Contracts, die Ranges Bibliothek, Coroutinen und Module werde die Art und Weise, wie wir modernes C++ programmieren, grundlegend neu definieren.
@@ -313,7 +313,7 @@ Seine Bücher "C++11 für Programmierer", "C++" und "C++-Standardbibliothek" fü
 
 <event id="reinhard-mueller-webanwendungen-erstellen-mit-python-sqlalchemy-und-flask">
 <start>13:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V2</room>
 <title>Webanwendungen erstellen mit Python, SQLAlchemy und Flask</title>
 <description>Der Vortrag zeigt anhand eines einfachen Beispiels, wie man mit SQLAlchemy und Flask mit geringem Aufwand und doch flexibel eine datenbankgestützte Web-Anwendung aufbauen kann.
@@ -336,7 +336,7 @@ Ein rudimentäres Verständnis von HTML, Datenbanken und grundlegenden Programmi
 
 <event id="andreas-mundt-debian-ausrollen-und-konfigurieren-di-netboot-assistant-pxe-und-ansible">
 <start>11:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V2</room>
 <title>Debian ausrollen und konfigurieren: di-netboot-assistant, PXE und ansible</title>
 <description>Der Vortrag zeigt die Anwendung von di-netboot-assistant (Debian Paket), um Debian (Ubuntu) über das Netzwerk flexibel zu installieren und diese Installation schrittweise, beginnend mit dem 'preseeding' des Debian-Installers, bis hin zur vollständigen und beliebig komplexen Konfiguration mittels ansible, zu automatisieren.
@@ -355,7 +355,7 @@ Der Vortrag richtet sich an fortgeschrittene Anwender, die einen Einblick in die
 
 <event id="stefan-baur-x2go-in-der-google-cloud-kostenlos-und-oder-anonym-wie-geht-das">
 <start>10:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V2</room>
 <title>X2Go in der Google Cloud, kostenlos und/oder anonym - wie geht das?</title>
 <description>X2Go erlaubt die Nutzung des eigenen Desktops von anderen Rechnern aus - sowohl im LAN als auch über das Internet. Dabei läuft die Übertragung über eine ssh-Verbindung, ist also verschlüsselt. Weiterhin wird durch die Verwendung der freien nx Bibliotheken (nomachine) eine sehr akzeptable Geschwindigkeit und Reaktionsverhalten des Desktops erzielt. Selbst über eine ISDN-Verbindung kann noch zufriedenstellend gearbeitet werden.
@@ -380,7 +380,7 @@ Ein paar Grundkenntnisse über Linux, SSH, X Window System sollte man mitbringen
 
 <event id="arnd-bergmann-the-end-of-time-19-years-to-go">
 <start>17:30</start>
-<duration>00:25</duration>
+<duration>00:20</duration>
 <room>V2</room>
 <title>The End of Time, 19 years to go</title>
 <description>Im Jahr 2038 ist die Zeit vorbei, zumindest für 32-bit-Rechner, die im Embedded-Umfeld auch jetzt noch dominieren, denn 'time_t' zählt die Sekunden seit 1970 und läuft dann über.
@@ -399,7 +399,7 @@ Grundwissen Programmieren in C oder ähnlichen Sprachen ist hilfreich.
 
 <event id="lukas-kallies-linux-wartung-in-buzzword-zeiten">
 <start>12:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V2</room>
 <title>Linux-Wartung in Buzzword-Zeiten</title>
 <description>Buzzwords wie Cloud und "serverless" zum Trotz werden in Unternehmen auch noch klassische Linux-Systeme eingesetzt. Doch auch dort sind längst nicht mehr alle Prinzipien (DevOps, Agile) und Workloads (Container-Deployments) als klassisch anzusehen. Um als Administrator im Continuous-YAML-Pipeline-Automatisierungs-Dschungel den Durchblick zu behalten, bedarf es der Kenntnis neuer Technologien, mitunter aber auch neuer Herangehensweisen, wie Linux-Systeme effizient zu verwalten sind. Der Vortrag zeigt, wo die "Enterprise-IT" bei Linux-Patch- und konfigurationsmanagement sowie der Automatisierung gerade steht und wie man es manchmal besser machen kann.
@@ -424,7 +424,7 @@ Erfahrung in der Administration von Linux-Systemen.
 
 <event id="sonja-goettler-der-berechtigte-hype-um-agile-softwareentwicklung">
 <start>17:00</start>
-<duration>00:25</duration>
+<duration>00:20</duration>
 <room>V2</room>
 <title>Der berechtigte (?!) Hype um agile Softwareentwicklung</title>
 <description>Agile Softwaremethoden setzen sich immer mehr durch. Welche Möglichkeiten bieten agile Ansätze in der Softwareentwicklung gegenüber dem klassischen Wasserfall-Modell? Wo liegen die Chancen, wo die Risiken? Und worauf muss auch bei einer agilen Vorgehensweise geachtet werden? Der Vortrag gibt Anregungen, wie die Umstellung auf agile Methoden gelingen kann und welche wesentlichen Aspekte auch bei einer agilen Vorgehensweise beachtet werden müssen.
@@ -442,7 +442,7 @@ Rudimentäres Vorwissen (v. a. zu Scrum) wünschenswert.
 
 <event id="christian-seiler-jenseits-der-tutorials-wie-hello-world-wirklich-funktioniert">
 <start>15:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V2</room>
 <title>Jenseits der Tutorials: Wie "Hello World" wirklich funktioniert</title>
 <description>Die meisten Programmierbeispiele beginnen mit dem klassichen Beispielprogramm, welches "Hello World" ausgibt. Aber was passiert auf modernen Systemen eigentlich im Hintergrund? Warum ist das so erzeugte Binary mehrere Kilobyte groß? Dieser Vortrag soll die schwarze Magie entmystifizieren, die auf heutigen Systemen im Hintergrund geschieht, damit selbst einfache Programme überhaupt gestartet werden können. Es wird ein Überblick über das ELF-Format gegeben, wie der Kernel ELF-Programme startet, wie der dynamische Linker funktioniert, wie ASLR implementiert ist auf heutigen Systemen, welcher Code ausgeführt wird, bevor die erste Zeile in main() überhaupt erreicht wird, wie statische und Thread-lokale Variablen funktionieren, sowie wie die Systembibliothek (libc) mit dem Compiler interagiert für die Unterstützung von Threads.
@@ -460,7 +460,7 @@ Kenntnisse in C und Systemprogrammierung, sowie ein grundlegendes Verständnis, 
 
 <event id="daniel-kulesz-software-testen-ja-bitte">
 <start>14:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V2</room>
 <title>Software testen? Ja bitte!</title>
 <description>Das Testen von Software ist wichtig, um Nutzer nicht durch verbuggte Releases zu vergraulen. Vieles  lässt sich heute zwar automatisieren, viele kritische Fehler werden aber oft erst in händisch durchgeführten Tests entdeckt. Gerade kleinere FLOSS-Projekte verzichten leider noch immer auf systematisch durchgeführte Tests und fördern so das "Frickelware"-Klischee.
@@ -580,7 +580,7 @@ LaTeX
 
 <event id="helmut-stult-manjaro-linux-enjoy-the-simplicity">
 <start>10:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V3</room>
 <title>Manjaro Linux - ENJOY THE SIMPLICITY</title>
 <description>Erfahren Sie alles Wichtige sowie die neuesten Infos zu Manjaro Linux.
@@ -613,7 +613,7 @@ Interesse an Manjaro Linux und ARM-Hardware
 
 <event id="axel-beckert-was-gibt-es-neues-in-debian-10-buster">
 <start>13:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V3</room>
 <title>Was gibt es Neues in Debian 10 Buster?</title>
 <description>Debians jüngstes Stable-Release soll  am Tag der TÜBIX veröffentlicht werden. Der Vortrag zeigt, was sich alles getan hat seit Debian 9 Stretch: Neue Funktionalitäten, neue Pakete, neue Möglichkeiten, etc., aber auch, welche Pakete rausgeflogen oder dieses Mal nicht mehr dabei sind. Außerdem wollen auch irgendwie ein klein wenig das Release feiern. :-)
@@ -670,7 +670,7 @@ keine
 
 <event id="robert-scheck-schonmal-systemd-networkd-ausprobiert">
 <start>17:00</start>
-<duration>00:25</duration>
+<duration>00:20</duration>
 <room>V3</room>
 <title>Schonmal systemd-networkd ausprobiert?</title>
 <description>Den NetworkManager kennt man von der eigenen Workstation oder dem Notebook, spätestens wenn ein WLAN konfiguriert werden muss. Und /etc/init.d/network(ing) von den Servern. Einige Linux-Distributionen bevorzugen mittlerweile den NetworkManager aber auch für Server, was nicht alle Administratoren glücklich stimmt. Als schlanke Initscript-Alternative könnte daher systemd-networkd auf systemd-basierten Linux-Distributionen einen Blick (oder gar einen Versuch) wert sein…
@@ -752,7 +752,7 @@ Wer bereits Datenträger verschlüsselt hat kann womöglich etwas hinzulernen, w
 
 <event id="harald-koenig-den-flaschenhals-in-einer-langsamen-pipe-optimieren-durch-parallelisierung">
 <start>12:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V3</room>
 <title>Den Flaschenhals in einer langsamen Pipe optimieren durch Parallelisierung</title>
 <description>Neues aus meiner Shell-Küche: in einem Skript zum Disassemblieren eines einfachen seriellen Protokolls mit Hilfe von "sed" werden die Input-Daten immer größer und sed braucht immer länger -- inzwischen bei letzten Messdaten über 20 Minuten! Das muss doch auch schneller gehen?!
@@ -777,7 +777,7 @@ und vielleicht ein bissl Spass mit oder zumind. Interesse an der Kommandozeile u
 
 <event id="matthias-kurz-mastodon-die-geschichte-vom-tooten-und-boosten">
 <start>17:30</start>
-<duration>00:25</duration>
+<duration>00:20</duration>
 <room>V3</room>
 <title>Mastodon - Die Geschichte vom tooten und boosten</title>
 <description>In meinem Vortrag "Mastodon - Grundlagen und Einstieg in das freie soziale Netzwerk" zeige ich, was Mastodon ist, wie sich Mastodon bedient und welche Vorteile es gegenüber anderen sozialen Netzwerken bietet. Das freie soziale Netzwerk Mastodon erfreut sich wachsender Beliebtheit und steigender Nutzerzahlen. Es ist werbefrei, sein Aufbau dezentral und der darunterliegende Programmcode open source. Kein Wunder also, dass sich immer mehr Menschen auf eine Reise ins "Fediverse" begeben.
@@ -801,7 +801,7 @@ Der Vortrag richtet sich an alle Teilnehmerinnen und Teilnehmer, die Interesse a
 
 <event id="frank-hofmann-harald-koenig-sieben-bruecken-fahrtenbuch-mit-skripten-auslesen">
 <start>11:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V3</room>
 <title>Sieben Brücken. Fahrtenbuch mit Skripten auslesen.</title>
 <description>Computer wurden ursprünglich als Rechenmaschinen entwickelt. Am Beispiel eines Fahrtenbuchs zeigen wir, wie Sie mit Bordmitteln das Maschinchen zu Ihren Gunsten werkeln lassen. Dabei stellen wir Ihnen sieben clevere Varianten der Problemlösung für die Kommandozeile vor.
@@ -1185,7 +1185,7 @@ When I heard about the replication crisis and also the recent revelations of wel
 <room name="V4">
 <event id="uli-kleemann-ich-habe-doch-nichts-zu-verbergen">
 <start>13:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V4</room>
 <title>"Ich habe doch nichts zu verbergen!"</title>
 <description>"Ich habe doch nichts zu verbergen!" Wer das ernsthaft meint gehe besser in einen anderen Vortrag. Das bekomm ich doch alles für umsonst (Email., Chat, Messanger) Wer das glaubt suche sich auch besser einen anderen Vortrag aus. Ich zeige anhand von Fakten was sich die Datenkraken so alles einfallen lassen, um an deine Daten zu gelangen, wie versucht wird an deine Gedanken zu kommen, wie Daten gegen dich verwendet werden können, was gestohlene Daten  am Markt so wert sind und erläutere Wege sich dagegen aktiv zu wehren.
@@ -1211,7 +1211,7 @@ Sollten sich darüber im Klaren sein das das Web weder ein rechtsfreier noch rea
 
 <event id="christoph-zimmermann-redis-ist-10">
 <start>11:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V4</room>
 <title>Redis ist 10!</title>
 <description>Was als einfacher Key-Value Store mit dem ersten Code-Commit 2009 anfing, hat sich zu einer der führenden NoSQL / In-Memory Datenbanken entwickelt, die mittlerweile selbst ein wichtiger Bestandteil von vielen Open Source Projekten ist. Da alle Daten 
@@ -1236,7 +1236,7 @@ Python (optional)
 
 <event id="reiner-schlotte-hadoop-ist-defekt-das-alphabet-des-grauens">
 <start>16:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V4</room>
 <title>Hadoop ist defekt - Das Alphabet des Grauens</title>
 <description>Beim Aufbau und Betrieb einer Hadoop-Plattform für einen großen Kunden habe ich vornehmlich unangenehme Erfahrungen sammeln dürfen. Einige Lach- und Sachgeschichten sollen einen Einblick geben.
@@ -1250,7 +1250,7 @@ IT Consultant/Senior Solution Architect, vornehmlich im Dunstkreis CAE/HPC
 
 <event id="felix-bauer-peekabooav-der-weg-zu-version-2.0">
 <start>17:30</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V4</room>
 <title>PeekabooAV - der Weg zu Version 2.0</title>
 <description>Wir beschreiben den Weg zu PeekabooAV 2.0, wiederholen kurz alles und berichten dann von wichtigen Meilensteinen, interessanten Hintergründen und Plänen für die Zukunft.
@@ -1268,7 +1268,7 @@ Entwickler von PeekabooAV, Konzeption und Implementierung
 
 <event id="tilman-kranz-vpns-einrichten-und-benutzen">
 <start>10:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V4</room>
 <title>VPNs einrichten und benutzen</title>
 <description>Virtual Private Networks (VPNs) verbinden Rechner und Netzwerke miteinander und können zur Absicherung von Datenübertragungen im Internet verwendet werden. Anhand praktischer Beispiele wird gezeigt und erklärt, wie man mit OpenVPN, EasyRSA &#x26; Co. ein verschlüsseltes VPN selbst einrichtet und verwendet.
@@ -1286,7 +1286,7 @@ Grundkenntnisse der Linux-Kommandozeile und von iproute2 sind von Vorteil.
 
 <event id="daniel-kobras-dateidienste-sicher-und-alltagstauglich">
 <start>12:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V4</room>
 <title>Dateidienste - sicher und alltagstauglich</title>
 <description>Administratoren stehen regelmäßig im Spannungsfeld zwischen
@@ -1321,7 +1321,7 @@ Grundkenntnisse zu Kerberos und Netzdateisystemen sind hilfreich.
 
 <event id="frank-schiebel-freifunk-ag-am-quenstedt-gymnasium-von-der-schule-in-die-stadt">
 <start>15:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V4</room>
 <title>Freifunk AG Am Quenstedt-Gymnasium: Von der Schule in die Stadt. </title>
 <description>Ausgehend von einem Projekt zur Vernetzung eines Flüchtlingsheims im Jahre 2016 hat sich am Quenstedt-Gymnasium Mössingen die "Freifunk AG" gebildet, die in den vergangenen zwei Jahren etwa 20 Stellen in Mössingen mit Freifunk versorgt hat. Im Jahr 2017 fand im Rahmen der Versorgung des Freibads die erste Kooperation mit der Stadt Mössingen statt.
@@ -1347,7 +1347,7 @@ Keines.
 
 <event id="andré-niemann-der-datenreisende-unterwegs">
 <start>17:00</start>
-<duration>00:25</duration>
+<duration>00:20</duration>
 <room>V4</room>
 <title>Der Datenreisende unterwegs</title>
 <description>Auch wenn keine rumlungernden Vagabunden, Drachen oder Zollstationen die übliche Reise zum gefährlichen Abenteuer werden lassen, prägen den modernen, mit Daten, Reisenden andere Sorgen. Wer mit seinem Gerät viel unterwegs ist stellt sich ab und an die Frage ob man den Rucksack mit dem Gerät mal unbeaufsichtigt in der Ecke stehen lassen kann und ob jener Hotspot unbedenklich genutzt werden kann. Im Vortrag will ich das Gefährdungspotential für die Hardware und Systeme des Reisenden umreißen und mögliche Handlungsvorschläge zur Gefahrenminimierung aufzeigen. 
@@ -1365,7 +1365,7 @@ Allgemeine Intimkenntnisse und Interesse für den sensiblen Umgang mit Computern
 
 <event id="peter-hrenka-minecraft-hacking-for-beginners">
 <start>14:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>V4</room>
 <title>Minecraft Hacking for Beginners</title>
 <description>Minecraft ist eines der erfolgreichsten Spiele überhaupt und besitzt auch eine aktive Modder-Szene, die auch sehr wohlwollend vom Eigentümer (mittlerweile Microsoft) unterstützt wird.
@@ -1392,7 +1392,7 @@ Grundverständnis von Programmiersprachen
 <room name="W1">
 <event id="philipp-kammerer-einstieg-in-nonlinearen-videoschnitt-mit-kdenlive">
 <start>10:00</start>
-<duration>02:00</duration>
+<duration>01:50</duration>
 <room>W1</room>
 <title>Einstieg in nonlinearen Videoschnitt mit kdenlive</title>
 <description>Crashkurs wie man Videos auf Linux im nonlinearen Videoschnitt bearbeitet. Clips anordnen, Effekte/Farbkorrektur, Übergänge.
@@ -1410,7 +1410,7 @@ Firmer Umgang mit Maus und Tastatur. Bring your own device and videomaterial und
 
 <event id="philipp-kammerer-3d-grafik-und-animation-mit-blender">
 <start>14:00</start>
-<duration>02:00</duration>
+<duration>01:50</duration>
 <room>W1</room>
 <title>3D-Grafik und Animation mit Blender</title>
 <description>3D Grafik mit Blender für Einsteiger, und welche, die es werden wollen. Grundlegene Übersicht über die Oberfläche, Navigation im 3D-Raum. Welche Modellierungstools gibt es und was kann man sonst noch alles mit Blender machen?
@@ -1428,7 +1428,7 @@ Firmer Umgang mit Maus und Tastatur. Interesse an Gimp und Inkscape ist nicte2ha
 
 <event id="andreas-mundt-debian-automatisch-installieren-mit-di-netboot-assistant">
 <start>12:00</start>
-<duration>02:00</duration>
+<duration>01:50</duration>
 <room>W1</room>
 <title>Debian automatisch installieren mit di-netboot-assistant</title>
 <description>In diesem Workshop wollen wir die im zugehörigen Vortrag vorgestellten Techniken einmal selbst mit qemu/kvm auf dem mitgebrachten Debian/Ubuntu Laptop ausprobieren. 
@@ -1445,7 +1445,7 @@ Besuch des zugehörigen Vortrags empfehlenswert, wenn gar keine Vorkenntnisse vo
 
 <event id="mark-schmidt-andreas-stockmayer-gentoo-installparty">
 <start>16:00</start>
-<duration>02:00</duration>
+<duration>01:50</duration>
 <room>W1</room>
 <title>Gentoo Installparty</title>
 <description>Gentoo ist eine Linux-Distribution, die sich an erfahrenere Linux-Benutzer richtet und diesen sehr viele Freiheiten bietet. Dies beginnt bei der verwendeten Software, Diensten und endet beim Init-System und einem eigenen Kernel. Um dies zu erreichen nutzt Gentoo ein spezielles Paketverwaltungssystem namens “portage”, das die Pakete nach Benutzerwünschen auf dem jeweiligen System kompiliert. In diesem Workshop wird kurz auf die Gentoo-Philosophie, die Benutzung von Portage und die Grundinstallation eingegangen.
@@ -1467,7 +1467,7 @@ Linux-Grundlagen ;)
 <room name="W2">
 <event id="werner-heuser-linux-zertifizierungen-ein-ueberblick">
 <start>16:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>W2</room>
 <title>"Linux" Zertifizierungen - Ein Überblick</title>
 <description>Der Vortrag gibt einen Überblick über einige Anbieter von persönlichen Zertifizierungen rund um das Thema Linux. Der Schwerpunkt des Vortrags wird auf den Basis-Zertifizierungen des Linux Professional Institute - LPI liegen. Welche Zertifikate gibt es? Wie teuer sind die Prüfungen? Wie schwer sind die Prüfungen? Wie bereitet man sich vor? In welchen Sprachen werden die Prüfungen angeboten? Welches Schulungsmaterial gibt es? Wer bietet Schulungen an? Welche Vorteile hat eine Zertifizierung für Jobsuchende und Arbeitgeber?
@@ -1488,7 +1488,7 @@ Kein Vorwissen notwendig.
 
 <event id="michael-stroeder-openssh-certificates">
 <start>17:00</start>
-<duration>00:55</duration>
+<duration>00:50</duration>
 <room>W2</room>
 <title>OpenSSH Certificates</title>
 <description>Wir alle lieben SSH! Und wir verwenden brav Benutzerschlüssel,
@@ -1525,7 +1525,7 @@ Grundkenntnisse Unix/Linux und SSH-Nutzung
 
 <event id="erich-waelde-anstaendiges-werkzeug-emacs">
 <start>12:00</start>
-<duration>02:00</duration>
+<duration>01:50</duration>
 <room>W2</room>
 <title>Anständiges Werkzeug: emacs</title>
 <description>Dieser "Mitmach"-Workshop soll die Teilnehmer durch die anfänglichen Hürden führen, die jedes neue Werkzeug so mit sich bringt. Es wird empfohlen, ein Notebook mitzubringen und emacs und seine Dokumentation vorab zu installieren. emacs läuft auch auf Windows und MacOS!
@@ -1557,7 +1557,7 @@ Emacs soll schon installiert sein. z.B. für Debian: "apt install emacs emacs-co
 
 <event id="anton-mueller-aur-packages-selbst-mit-hilfe-von-docker-bauen-testen-und-veroeffentlichen">
 <start>14:00</start>
-<duration>02:00</duration>
+<duration>01:50</duration>
 <room>W2</room>
 <title>AUR-Packages selbst mit Hilfe von Docker bauen, testen und veröffentlichen</title>
 <description>Wie baue ich AUR (ArchLinux User Repositories) Packages selbst und wie teste ich sie im Docker-Conmtainer? Was muss ich beim Erstellen vom PKGBULD beachten? Welche Pakete braucht mein Docker-Container? Gibt es bereits ein Image? Diese Fragen werden in meinem Workshop geklärt. Hinweis: DIeser Workshop wurde bereits in ähnlicher Variante beim Augsburger Linuxtag durchgeführt.
@@ -1578,7 +1578,7 @@ Linux-Shell-Basics, Git-Basics
 
 <event id="toni-zimmer-vim-fuer-einsteiger">
 <start>10:00</start>
-<duration>02:00</duration>
+<duration>01:50</duration>
 <room>W2</room>
 <title>Vim für Einsteiger</title>
 <description>Nach einem kleinen historischen Exkurs und der Vorstellung einiger Features lernen wir im ersten Teil ein paar Grundlagen, um in Dateien zu navigieren und Texte zu bearbeiten. Ausserdem schauen wir uns ein wenig im Hilfesystem um Im zweiten Teil werden wir uns ein paar Features zuwenden, die das Arbeiten mit Textdateien vereinfachen (Makros, Mappings, Markierungen...) 

@@ -64,7 +64,7 @@
             }
         },
         "urlid": "rainer-grimm-c++20-die-revolution-geht-weiter",
-        "duration": 55,
+        "duration": 50,
         "room": "V2",
         "timebegin": "16:00",
         "timeend": "16:50"
@@ -99,7 +99,7 @@
             }
         },
         "urlid": "uli-kleemann-ich-habe-doch-nichts-zu-verbergen",
-        "duration": 55,
+        "duration": 50,
         "room": "V4",
         "timebegin": "13:00",
         "timeend": "13:50"
@@ -149,7 +149,7 @@
             }
         },
         "urlid": "werner-heuser-linux-zertifizierungen-ein-ueberblick",
-        "duration": 55,
+        "duration": 50,
         "room": "W2",
         "timebegin": "16:00",
         "timeend": "16:50"
@@ -168,7 +168,7 @@
             }
         },
         "urlid": "christoph-zimmermann-redis-ist-10",
-        "duration": 55,
+        "duration": 50,
         "room": "V4",
         "timebegin": "11:00",
         "timeend": "11:50"
@@ -182,7 +182,7 @@
         "vorwissen": "Grundkenntnisse Unix/Linux und SSH-Nutzung",
         "weblinks": {},
         "urlid": "michael-stroeder-openssh-certificates",
-        "duration": 55,
+        "duration": 50,
         "room": "W2",
         "timebegin": "17:00",
         "timeend": "17:50"
@@ -209,7 +209,7 @@
             }
         },
         "urlid": "reinhard-mueller-webanwendungen-erstellen-mit-python-sqlalchemy-und-flask",
-        "duration": 55,
+        "duration": 50,
         "room": "V2",
         "timebegin": "13:00",
         "timeend": "13:50"
@@ -223,7 +223,7 @@
         "vorwissen": "Firmer Umgang mit Maus und Tastatur. Bring your own device and videomaterial und/oder eine Kamera, wenn vorhanden.",
         "weblinks": {},
         "urlid": "philipp-kammerer-einstieg-in-nonlinearen-videoschnitt-mit-kdenlive",
-        "duration": 120,
+        "duration": 110,
         "room": "W1",
         "timebegin": "10:00",
         "timeend": "11:50"
@@ -237,7 +237,7 @@
         "vorwissen": "Firmer Umgang mit Maus und Tastatur. Interesse an Gimp und Inkscape ist nicte2have. Bring your own device; und wenn Blender schon installiert ist, können wir gleich loslegen.",
         "weblinks": {},
         "urlid": "philipp-kammerer-3d-grafik-und-animation-mit-blender",
-        "duration": 120,
+        "duration": 110,
         "room": "W1",
         "timebegin": "14:00",
         "timeend": "15:50"
@@ -287,7 +287,7 @@
             }
         },
         "urlid": "lennart-poettering-boot-loader-spec-sd-boot",
-        "duration": 55,
+        "duration": 50,
         "room": "V1",
         "timebegin": "18:15",
         "timeend": "19:15"
@@ -301,7 +301,7 @@
         "vorwissen": "",
         "weblinks": {},
         "urlid": "reiner-schlotte-hadoop-ist-defekt-das-alphabet-des-grauens",
-        "duration": 55,
+        "duration": 50,
         "room": "V4",
         "timebegin": "16:00",
         "timeend": "16:50"
@@ -338,7 +338,7 @@
             }
         },
         "urlid": "alexander-peltzer-bigdata-analytics-mit-nextflow-und-nf-core",
-        "duration": 25,
+        "duration": 20,
         "room": "V1",
         "timebegin": "16:00",
         "timeend": "16:20"
@@ -352,7 +352,7 @@
         "vorwissen": "",
         "weblinks": {},
         "urlid": "adrian-reber-container-live-migration",
-        "duration": 25,
+        "duration": 20,
         "room": "V1",
         "timebegin": "17:30",
         "timeend": "17:50"
@@ -375,7 +375,7 @@
             }
         },
         "urlid": "helmut-stult-manjaro-linux-enjoy-the-simplicity",
-        "duration": 55,
+        "duration": 50,
         "room": "V3",
         "timebegin": "10:00",
         "timeend": "10:50"
@@ -394,7 +394,7 @@
             }
         },
         "urlid": "axel-beckert-was-gibt-es-neues-in-debian-10-buster",
-        "duration": 55,
+        "duration": 50,
         "room": "V3",
         "timebegin": "13:00",
         "timeend": "13:50"
@@ -408,7 +408,7 @@
         "vorwissen": "Interesse an Smart Home mit OpenHAB2.",
         "weblinks": {},
         "urlid": "jonas-genannt-smart-home-mit-openhab2",
-        "duration": 55,
+        "duration": 50,
         "room": "V1",
         "timebegin": "12:00",
         "timeend": "12:50"
@@ -431,7 +431,7 @@
             }
         },
         "urlid": "felix-bauer-peekabooav-der-weg-zu-version-2.0",
-        "duration": 55,
+        "duration": 50,
         "room": "V4",
         "timebegin": "17:30",
         "timeend": "17:50"
@@ -466,7 +466,7 @@
             }
         },
         "urlid": "erich-waelde-anstaendiges-werkzeug-emacs",
-        "duration": 120,
+        "duration": 110,
         "room": "W2",
         "timebegin": "12:00",
         "timeend": "13:50"
@@ -485,7 +485,7 @@
             }
         },
         "urlid": "andreas-mundt-debian-ausrollen-und-konfigurieren-di-netboot-assistant-pxe-und-ansible",
-        "duration": 55,
+        "duration": 50,
         "room": "V2",
         "timebegin": "11:00",
         "timeend": "11:50"
@@ -504,7 +504,7 @@
             }
         },
         "urlid": "andreas-mundt-debian-automatisch-installieren-mit-di-netboot-assistant",
-        "duration": 120,
+        "duration": 110,
         "room": "W1",
         "timebegin": "12:00",
         "timeend": "13:50"
@@ -554,7 +554,7 @@
             }
         },
         "urlid": "stefan-baur-x2go-in-der-google-cloud-kostenlos-und-oder-anonym-wie-geht-das",
-        "duration": 55,
+        "duration": 50,
         "room": "V2",
         "timebegin": "10:00",
         "timeend": "10:50"
@@ -596,7 +596,7 @@
             }
         },
         "urlid": "udo-seidel-container-sicherheit-dank-kata",
-        "duration": 25,
+        "duration": 20,
         "room": "V1",
         "timebegin": "16:30",
         "timeend": "16:50"
@@ -610,7 +610,7 @@
         "vorwissen": "Grundkenntnisse der Linux-Kommandozeile und von iproute2 sind von Vorteil.",
         "weblinks": {},
         "urlid": "tilman-kranz-vpns-einrichten-und-benutzen",
-        "duration": 55,
+        "duration": 50,
         "room": "V4",
         "timebegin": "10:00",
         "timeend": "10:50"
@@ -629,7 +629,7 @@
             }
         },
         "urlid": "anton-mueller-aur-packages-selbst-mit-hilfe-von-docker-bauen-testen-und-veroeffentlichen",
-        "duration": 120,
+        "duration": 110,
         "room": "W2",
         "timebegin": "14:00",
         "timeend": "15:50"
@@ -652,7 +652,7 @@
             }
         },
         "urlid": "robert-scheck-schonmal-systemd-networkd-ausprobiert",
-        "duration": 25,
+        "duration": 20,
         "room": "V3",
         "timebegin": "17:00",
         "timeend": "17:20"
@@ -671,7 +671,7 @@
             }
         },
         "urlid": "klaus-knopper-cloudbusters-wer-kontrolliert-dein-smart-home",
-        "duration": 55,
+        "duration": 50,
         "room": "V1",
         "timebegin": "13:00",
         "timeend": "13:50"
@@ -721,7 +721,7 @@
             }
         },
         "urlid": "christian-brauner-file-descriptors-for-processes",
-        "duration": 55,
+        "duration": 50,
         "room": "V1",
         "timebegin": "14:00",
         "timeend": "14:50"
@@ -735,7 +735,7 @@
         "vorwissen": "Wir beginnen bei \"null\", aber ein Linux sollte man schon mal verwendet und vim installiert haben...",
         "weblinks": {},
         "urlid": "toni-zimmer-vim-fuer-einsteiger",
-        "duration": 120,
+        "duration": 110,
         "room": "W2",
         "timebegin": "10:00",
         "timeend": "11:50"
@@ -766,7 +766,7 @@
             }
         },
         "urlid": "mark-schmidt-andreas-stockmayer-gentoo-installparty",
-        "duration": 120,
+        "duration": 110,
         "room": "W1",
         "timebegin": "16:00",
         "timeend": "17:50"
@@ -780,7 +780,7 @@
         "vorwissen": "Grundwissen Programmieren in C oder ähnlichen Sprachen ist hilfreich.",
         "weblinks": {},
         "urlid": "arnd-bergmann-the-end-of-time-19-years-to-go",
-        "duration": 25,
+        "duration": 20,
         "room": "V2",
         "timebegin": "17:30",
         "timeend": "17:50"
@@ -794,7 +794,7 @@
         "vorwissen": "Grundkenntnisse zu Kerberos und Netzdateisystemen sind hilfreich.",
         "weblinks": {},
         "urlid": "daniel-kobras-dateidienste-sicher-und-alltagstauglich",
-        "duration": 55,
+        "duration": 50,
         "room": "V4",
         "timebegin": "12:00",
         "timeend": "12:50"
@@ -817,7 +817,7 @@
             }
         },
         "urlid": "lukas-kallies-linux-wartung-in-buzzword-zeiten",
-        "duration": 55,
+        "duration": 50,
         "room": "V2",
         "timebegin": "12:00",
         "timeend": "12:50"
@@ -844,7 +844,7 @@
             }
         },
         "urlid": "frank-schiebel-freifunk-ag-am-quenstedt-gymnasium-von-der-schule-in-die-stadt",
-        "duration": 55,
+        "duration": 50,
         "room": "V4",
         "timebegin": "15:00",
         "timeend": "15:50"
@@ -877,7 +877,7 @@
         "vorwissen": "Rudimentäres Vorwissen (v. a. zu Scrum) wünschenswert.",
         "weblinks": {},
         "urlid": "sonja-goettler-der-berechtigte-hype-um-agile-softwareentwicklung",
-        "duration": 25,
+        "duration": 20,
         "room": "V2",
         "timebegin": "17:00",
         "timeend": "17:20"
@@ -900,7 +900,7 @@
             }
         },
         "urlid": "thorsten-leemhuis-aktuelle-entwicklungen-beim-linux-kernel",
-        "duration": 55,
+        "duration": 50,
         "room": "V1",
         "timebegin": "10:00",
         "timeend": "10:50"
@@ -914,7 +914,7 @@
         "vorwissen": "Das Konzept von Containern sollte bekannt sein, bereits vorhandenes Wissen zu LXC im speziellen sowie zu Vor- und Nachteilen von Containern ist hilfreich.",
         "weblinks": {},
         "urlid": "meffisto-integration-von-linux-containern-auf-dem-desktop-mit-lxc",
-        "duration": 25,
+        "duration": 20,
         "room": "V1",
         "timebegin": "17:00",
         "timeend": "17:20"
@@ -942,7 +942,7 @@
         "vorwissen": "Ein spezielles Vorwissen der Zuhörer wird nicht vorausgesetzt. Interesse an HPC, Virtualisierung, speziell Containern ist sicherlich von Vorteil, um eine rege Diskussion und Erfahrungsaustausch zu gewährleisten :)",
         "weblinks": {},
         "urlid": "holger-gantikow-linux-containers-for-hpc-container-technology-engine-architecture-101",
-        "duration": 55,
+        "duration": 50,
         "room": "V1",
         "timebegin": "15:00",
         "timeend": "15:50"
@@ -956,7 +956,7 @@
         "vorwissen": "wie immer: tippen können.\nund vielleicht ein bissl Spass mit oder zumind. Interesse an der Kommandozeile und Pipes.",
         "weblinks": {},
         "urlid": "harald-koenig-den-flaschenhals-in-einer-langsamen-pipe-optimieren-durch-parallelisierung",
-        "duration": 55,
+        "duration": 50,
         "room": "V3",
         "timebegin": "12:00",
         "timeend": "12:50"
@@ -979,7 +979,7 @@
             }
         },
         "urlid": "matthias-kurz-mastodon-die-geschichte-vom-tooten-und-boosten",
-        "duration": 25,
+        "duration": 20,
         "room": "V3",
         "timebegin": "17:30",
         "timeend": "17:50"
@@ -998,7 +998,7 @@
             }
         },
         "urlid": "frank-hofmann-harald-koenig-sieben-bruecken-fahrtenbuch-mit-skripten-auslesen",
-        "duration": 55,
+        "duration": 50,
         "room": "V3",
         "timebegin": "11:00",
         "timeend": "11:50"
@@ -1012,7 +1012,7 @@
         "vorwissen": "Allgemeine Intimkenntnisse und Interesse für den sensiblen Umgang mit Computern sind nützlich. ",
         "weblinks": {},
         "urlid": "andré-niemann-der-datenreisende-unterwegs",
-        "duration": 25,
+        "duration": 20,
         "room": "V4",
         "timebegin": "17:00",
         "timeend": "17:20"
@@ -1026,7 +1026,7 @@
         "vorwissen": "Kenntnisse in C und Systemprogrammierung, sowie ein grundlegendes Verständnis, wie Prozessoren Maschinencode interpretieren.",
         "weblinks": {},
         "urlid": "christian-seiler-jenseits-der-tutorials-wie-hello-world-wirklich-funktioniert",
-        "duration": 55,
+        "duration": 50,
         "room": "V2",
         "timebegin": "15:00",
         "timeend": "15:50"
@@ -1045,7 +1045,7 @@
             }
         },
         "urlid": "michael-sperber-programmieren-lehren-lernen",
-        "duration": 55,
+        "duration": 50,
         "room": "V1",
         "timebegin": "11:00",
         "timeend": "11:50"
@@ -1068,7 +1068,7 @@
             }
         },
         "urlid": "daniel-kulesz-software-testen-ja-bitte",
-        "duration": 55,
+        "duration": 50,
         "room": "V2",
         "timebegin": "14:00",
         "timeend": "14:50"
@@ -1130,7 +1130,7 @@
             }
         },
         "urlid": "peter-hrenka-minecraft-hacking-for-beginners",
-        "duration": 55,
+        "duration": 50,
         "room": "V4",
         "timebegin": "14:00",
         "timeend": "14:50"
@@ -1470,7 +1470,7 @@
         "vorwissen": "",
         "weblinks": {},
         "urlid": "alexander-landstorfer-das-tuebinger-80cm-teleskop",
-        "duration": 25,
+        "duration": 30,
         "room": "Observatorium",
         "timebegin": "12:00",
         "timeend": "12:30"

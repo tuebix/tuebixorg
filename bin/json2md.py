@@ -71,7 +71,7 @@ for talk in data:
             mdf.write("---\nlayout: talk\ntitle:\npermalink: /2019/programm/" + talk["urlid"] + "/\nweight:\nmenu:\n---\n")
             mdf.write("## " + talk["titel"] + "\n\n")
             mdf.write('### <img height = "32" src="../../../images/')
-            if talk["duration"] == 120:
+            if talk["duration"] == 110:
                 mdf.write('workshop.svg')
                 cssclass = "work"
             elif talk["duration"] == 5:
