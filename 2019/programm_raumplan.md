@@ -6,6 +6,15 @@ weight: 5
 menu: main
 ---
 
+* <span style="font-weight: bold;">Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
+* <a href="../programm_was_bedeuten_die_icons">Was bedeuten die Icons <img height="18" width="18" src="../../images/workshop.svg"> <img height="18" width="18" src="../../images/talk.svg"> <img height="18" width="18" src="../../images/talk2.svg"> <img height="18" width="18" src="../../images/lightning.svg"> <img height="18" width="18" src="../../images/lpic.svg"> ?</a>
+* <a href="https://f-droid.org/repository/browse/?fdid=net.gaast.giggity" target="_blank"><img height="25" src="../../images/giggity.png" alt="giggity-Logo" title="giggity-Logo" />&nbsp;Giggity</a> (bei
+<a href="https://f-droid.org/" target="_blank"><img height="25" src="../../images/fdroid.png" alt="F-Droid-Logo" title="F-Droid-Logo" />&nbsp;F-Droid</a>)
+* <a href="https://play.google.com/store/apps/details?id=net.gaast.giggity" target="_blank"><img height="25" src="../../images/giggity.png" alt="giggity-Logo" title="giggity-Logo" />&nbsp;Giggity</a> (bei
+<img height="25" src="../../images/googleplay.png" alt="Google-Play-Logo" title="Google-Play-Logo" />&nbsp;Google Play)
+
+<br/>
+
 <table>
 <tr><td></td><td></td><td></td><td></td><td>Raum W1</td></tr>
 <tr><td>10:00</td><td>bis</td><td>11:50</td><td><a class="work"></a></td><td><a href="../programm/philipp-kammerer-einstieg-in-nonlinearen-videoschnitt-mit-kdenlive">Einstieg&nbsp;in&nbsp;nonlinearen&nbsp;Videoschnitt&nbsp;mit&nbsp;kdenlive</a></td><td>Philipp&nbsp;Kammerer</td></tr>
