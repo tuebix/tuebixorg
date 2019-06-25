@@ -611,26 +611,21 @@ Interesse an Manjaro Linux und ARM-Hardware
 </links>
 </event>
 
-<event id="axel-beckert-frank-hofmann-schatzsuche-weniger-bekannte-linux-kommandos">
+<event id="axel-beckert-was-gibt-es-neues-in-debian-10-buster">
 <start>13:00</start>
 <duration>00:55</duration>
 <room>V3</room>
-<title>Schatzsuche: Weniger bekannte Linux-Kommandos</title>
-<description>Linux ist eine Wundertüte voller Werkzeuge. Da sind die Bekannteren wie ls, cd, mkdir, touch, cat und grep. Aber da ist noch viel mehr. Wir freuen uns darauf, mit Euch eine Liste cooler Werkzeuge zu teilen, die Euer Leben als Linux-Benutzer, Adminstrator und Entwickler vereinfachen. Schatzsuche, wie sie besser nicht sein kann.
+<title>Was gibt es Neues in Debian 10 Buster?</title>
+<description>Debians jüngstes Stable-Release soll  am Tag der TÜBIX veröffentlicht werden. Der Vortrag zeigt, was sich alles getan hat seit Debian 9 Stretch: Neue Funktionalitäten, neue Pakete, neue Möglichkeiten, etc., aber auch, welche Pakete rausgeflogen oder dieses Mal nicht mehr dabei sind. Außerdem wollen auch irgendwie ein klein wenig das Release feiern. :-)
 
 #### Über mich
 
-Axel Beckert: Linux-Systemadministrator und Spezialist für Netzwerksicherheit an der ETH Zürich. Debian-Entwickler und Administrator von debian.ethz.ch aka ftp.ch.debian.org. Vorstandsmitglied der Linux User Group Switzerland (LUGS). Hochgeschätzter Co-Moderator des Schweizer Podcasts Hackerfunk.
-
-Frank Hofmann: IT-Spezialist mit dem Blickwinkel auf Training (LPI), Technische Dokumentation und Druck &#x26; Satz. Digitaler Nomade. Unabhängiger Autor für LinuxUser. Nach Berlin und Cape Town lebt er derzeit in Besançon, Franche-Comté. Mit Kind, Frau und ohne Katze.
-
-Seit 2012 schreiben und betreuen wir das Debian Paketmanagement-Buch.
-
-#### Vorwissen
-
-Schonmal auf der Kommandozeile unterwegs gewesen zu sein, ist sicher hilfreich.
+Seit knapp 10 Jahren Debian-Entwickler, Kommandozeilen-Aficionado, Betreuer des primären Schweizer Debian-Mirrors, Sysadmin aus Leidenschaft.
 </description>
-<persons><person>Axel Beckert + Frank Hofmann</person></persons>
+<persons><person>Axel Beckert</person></persons>
+<links>
+- <link href="https://noone.org/talks/whats-new-in-debian/">Folien</link>
+</links>
 </event>
 
 <event id="kai-uwe-broulik-kde-fuer-hochschulen">
