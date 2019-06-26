@@ -1181,6 +1181,45 @@ When I heard about the replication crisis and also the recent revelations of wel
 </links>
 </event>
 
+<event id="janek-schoffit-webcrawling-mit-scrapy-und-postgresql-backend">
+<start>16:35</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Webcrawling mit scrapy und PostgreSQL backend</title>
+<description>Struktureller Aufbau eines Webcrawling Projektes. Ich werde über diverse Hürden und Designentscheidungen sprechen.
+
+#### Über mich
+
+Ich bin Janek, studiere Medieninformatik an der Uni Tübingen.
+
+#### Vorwissen
+
+keines
+</description>
+<persons><person>Janek Schoffit</person></persons>
+</event>
+
+<event id="felix-bauer-thunderstorm">
+<start>16:45</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Thunderstorm</title>
+<description>5 tolle Themen in nur 5 Minuten
+
+#### Vorwissen
+
+kein Vorwissen erforderlich
+</description>
+<persons><person>Felix Bauer</person></persons>
+<links>
+- <link href="https://www.mozilla.org/de/firefox/new/?redirect_source=firefox-com">Firefox</link>
+- <link href="https://keybase.io/">Keybase</link>
+- <link href="https://www.alpinelinux.org/">AlpineLinux</link>
+- <link href="https://rclone.org/">rclone</link>
+- <link href="https://truepolyglot.hackade.org/">TruePolyglot</link>
+</links>
+</event>
+
 </room>
 <room name="V4">
 <event id="uli-kleemann-ich-habe-doch-nichts-zu-verbergen">

@@ -89,9 +89,9 @@ menu: main
 <tr><td>16:20</td><td>bis</td><td>16:25</td><td><a class="light"></a></td><td><a href="../programm/christian-seiler-real-time-anwendungen-unter-linux-lessons-learned">Real-Time-Anwendungen&nbsp;unter&nbsp;Linux:&nbsp;Lessons&nbsp;Learned</a></td><td>Christian&nbsp;Seiler</td></tr>
 <tr><td>16:25</td><td>bis</td><td>16:30</td><td><a class="light"></a></td><td><a href="../programm/michael-weiss-nixos-ein-ueberblick">Nix(OS)&nbsp;-&nbsp;Ein&nbsp;Überblick</a></td><td>Michael&nbsp;Weiss</td></tr>
 <tr><td>16:30</td><td>bis</td><td>16:35</td><td><a class="light"></a></td><td><a href="../programm/jonas-benn-open-up-science">Open&nbsp;up,&nbsp;science!</a></td><td>Jonas&nbsp;Benn</td></tr>
-<tr><td>16:35</td><td>bis</td><td>16:40</td><td><a class="light"></a></td><td>Geblockt (TBA)</td><td>TBA</td></tr>
+<tr><td>16:35</td><td>bis</td><td>16:40</td><td><a class="light"></a></td><td><a href="../programm/janek-schoffit-webcrawling-mit-scrapy-und-postgresql-backend">Webcrawling&nbsp;mit&nbsp;scrapy&nbsp;und&nbsp;PostgreSQL&nbsp;backend</a></td><td>Janek&nbsp;Schoffit</td></tr>
 <tr><td>16:40</td><td>bis</td><td>16:45</td><td><a class="light"></a></td><td><a href="../programm/christoph-prokop-linux-presentation-day">Linux&nbsp;Presentation&nbsp;Day</a></td><td>Christoph&nbsp;Prokop</td></tr>
-<tr><td>16:45</td><td>bis</td><td>16:50</td><td><a class="light"></a></td><td>(geblockt - Titel kommt noch)</td><td>Felix Bauer</td></tr>
+<tr><td>16:45</td><td>bis</td><td>16:50</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-thunderstorm">Thunderstorm</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>17:00</td><td>bis</td><td>17:20</td><td><a class="talk"></a></td><td><a href="../programm/robert-scheck-schonmal-systemd-networkd-ausprobiert">Schonmal&nbsp;systemd-networkd&nbsp;ausprobiert?</a></td><td>Robert&nbsp;Scheck</td></tr>
 <tr><td>17:30</td><td>bis</td><td>17:50</td><td><a class="talk"></a></td><td><a href="../programm/matthias-kurz-mastodon-die-geschichte-vom-tooten-und-boosten">Mastodon&nbsp;-&nbsp;Die&nbsp;Geschichte&nbsp;vom&nbsp;tooten&nbsp;und&nbsp;boosten</a></td><td>Matthias&nbsp;Kurz</td></tr>
 <tr><td>&nbsp;</td></tr>

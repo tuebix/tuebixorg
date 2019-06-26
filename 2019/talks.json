@@ -1462,6 +1462,55 @@
         "timeend": "16:35"
     },
     {
+        "name": "Janek Schoffit",
+        "titel": "Webcrawling mit scrapy und PostgreSQL backend",
+        "buzzword": "Webcrawling, Spider, Python, PHP, Go, SQL, Debian",
+        "inhalt": "Struktureller Aufbau eines Webcrawling Projektes. Ich werde über diverse Hürden und Designentscheidungen sprechen.",
+        "aboutme": "Ich bin Janek, studiere Medieninformatik an der Uni Tübingen.",
+        "vorwissen": "keines",
+        "weblinks": {},
+        "urlid": "janek-schoffit-webcrawling-mit-scrapy-und-postgresql-backend",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "16:35",
+        "timeend": "16:40"
+    },
+    {
+        "name": "Felix Bauer",
+        "titel": "Thunderstorm",
+        "buzzword": "Dateien, Internet, VM, Alpine, Container, Cloud, rclone, PGP, Keybase, Firefox",
+        "inhalt": "5 tolle Themen in nur 5 Minuten",
+        "aboutme": "",
+        "vorwissen": "kein Vorwissen erforderlich",
+        "weblinks": {
+            "1": {
+                "url": "https://www.mozilla.org/de/firefox/new/?redirect_source=firefox-com",
+                "title": "Firefox"
+            },
+            "2": {
+                "url": "https://keybase.io/",
+                "title": "Keybase"
+            },
+            "3": {
+                "url": "https://www.alpinelinux.org/",
+                "title": "AlpineLinux"
+            },
+            "4": {
+                "url": "https://rclone.org/",
+                "title": "rclone"
+            },
+            "5": {
+                "url": "https://truepolyglot.hackade.org/",
+                "title": "TruePolyglot"
+            }
+        },
+        "urlid": "felix-bauer-thunderstorm",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "16:45",
+        "timeend": "16:50"
+    },
+    {
         "name": "Alexander Landstorfer",
         "titel": "Das Tübinger 80cm-Teleskop",
         "buzzword": "Teleskop",
