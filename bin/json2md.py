@@ -27,16 +27,24 @@ def parse_weblink(weblinks):
 
     return "\n".join(link_list)
 
-
-
+def room_to_sort_key(room):
+    # Order: Workshops -> Talks -> other stuff
+    if room.startswith("W"):
+        priority = "0"
+    elif room.startswith("V"):
+        priority = "1"
+    else:
+        priority = "2"
+    return priority + room
 
 with open("talks.json") as talksfile:
     data = json.load(talksfile)
+    data.sort(key=lambda talk: room_to_sort_key(talk["room"]) + talk["timebegin"])
 
 with open('programm2.md', 'w') as prog2:
     prog2.write("---\nlayout: page\ntitle: Programm\npermalink: /2019/programmentwurf/\nweight:\nmenu:\n---\n\n<table>\n")
 
-
+visited_rooms = []
 for talk in data:
     # TODO: Ignore these pages for now:
     ignored_urlids = [
@@ -71,7 +79,7 @@ for talk in data:
             mdf.write("---\nlayout: talk\ntitle:\npermalink: /2019/programm/" + talk["urlid"] + "/\nweight:\nmenu:\n---\n")
             mdf.write("## " + talk["titel"] + "\n\n")
             mdf.write('### <img height = "32" src="../../../images/')
-            if talk["duration"] == 120:
+            if talk["duration"] == 110:
                 mdf.write('workshop.svg')
                 cssclass = "work"
             elif talk["duration"] == 5:
@@ -80,9 +88,10 @@ for talk in data:
             else:
                 if talk["urlid"] in [ "tuebix-exit", "tuebix-init" ]:
                     mdf.write('talk2.svg')
+                    cssclass = "talk2"
                 else:
                     mdf.write('talk.svg')
-                cssclass = "talk"
+                    cssclass = "talk"
             mdf.write('"> ' + talk["timebegin"] + " bis " + talk["timeend"] + " in Raum " + talk["room"] + "\n\n")
             mdf.write("### " + talk["name"] + "\n\n")
 
@@ -102,7 +111,12 @@ for talk in data:
 
 
             #print('<td rowspan="4"><a class="', cssclass, '"><a href="../programm/', talk["urlid"], '">', talk["titel"].replace(' ','&nbsp;'), '</a></td>', file=prog1, sep='')
-            print('<tr><td>', talk["timebegin"], '</td><td><a class="', cssclass, '"></a></td><td><a href="../programm/', talk["urlid"], '">', talk["titel"].replace(' ','&nbsp;'), '</a></td><td>', talk["name"].replace(' ', '&nbsp;'),'</td></tr>', file=prog2, sep='')
+            if talk["room"] not in visited_rooms:
+                if len(visited_rooms) > 0:
+                    prog2.write("<tr><td>&nbsp;</td></tr>\n")
+                prog2.write("<tr><td></td><td></td><td></td><td></td><td>Raum " + talk["room"] + "</td></tr>\n")
+                visited_rooms.append(talk["room"])
+            print('<tr><td>', talk["timebegin"], '</td><td>bis</td><td>', talk["timeend"], '</td><td><a class="', cssclass, '"></a></td><td><a href="../programm/', talk["urlid"], '">', talk["titel"].replace(' ','&nbsp;'), '</a></td><td>', talk["name"].replace(' ', '&nbsp;'),'</td></tr>', file=prog2, sep='')
 
         except AttributeError as e1:
             raise e1.with_traceback()
@@ -121,4 +135,4 @@ for talk in data:
 
 
 with open('programm2.md', 'a') as prog1:
-    prog1.write("</table>")
+    prog1.write("</table>\n")

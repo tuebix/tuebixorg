@@ -1,3 +1,18 @@
+## Making changes
+
+Most files can be edited directly. If you're making changes to the schedule,
+please go inside the directory for the current year, manually edit `talks.json`
+and run `../bin/update.sh` to update the schedule on the Website (Markdown files
+in `talks/`) and Giggity (XML file `giggity.xml`).
+Please include all relevant changes (at least three files) in your commit.
+If you don't want to run the scripts you may also only change `talks.json` or
+open an issue.
+
+You can either open a pull request on GitHub or send patches (`git-send-email`)
+to `info@tuebix.org`.
+
+## Jekyll
+
 ### get jekyll running 
 
 in order to contribute you'll need ruby and 'jekyll' installed:

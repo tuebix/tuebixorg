@@ -6,6 +6,15 @@ weight: 5
 menu: main
 ---
 
+* <span style="font-weight: bold;">Raumplan&nbsp;&nbsp;&nbsp;&nbsp;
+* <a href="../programm_was_bedeuten_die_icons">Was bedeuten die Icons <img height="18" width="18" src="../../images/workshop.svg"> <img height="18" width="18" src="../../images/talk.svg"> <img height="18" width="18" src="../../images/talk2.svg"> <img height="18" width="18" src="../../images/lightning.svg"> <img height="18" width="18" src="../../images/lpic.svg"> ?</a>
+* <a href="https://f-droid.org/repository/browse/?fdid=net.gaast.giggity" target="_blank"><img height="25" src="../../images/giggity.png" alt="giggity-Logo" title="giggity-Logo" />&nbsp;Giggity</a> (bei
+<a href="https://f-droid.org/" target="_blank"><img height="25" src="../../images/fdroid.png" alt="F-Droid-Logo" title="F-Droid-Logo" />&nbsp;F-Droid</a>)
+* <a href="https://play.google.com/store/apps/details?id=net.gaast.giggity" target="_blank"><img height="25" src="../../images/giggity.png" alt="giggity-Logo" title="giggity-Logo" />&nbsp;Giggity</a> (bei
+<img height="25" src="../../images/googleplay.png" alt="Google-Play-Logo" title="Google-Play-Logo" />&nbsp;Google Play)
+
+<br/>
+
 <table>
 <tr><td></td><td></td><td></td><td></td><td>Raum W1</td></tr>
 <tr><td>10:00</td><td>bis</td><td>11:50</td><td><a class="work"></a></td><td><a href="../programm/philipp-kammerer-einstieg-in-nonlinearen-videoschnitt-mit-kdenlive">Einstieg&nbsp;in&nbsp;nonlinearen&nbsp;Videoschnitt&nbsp;mit&nbsp;kdenlive</a></td><td>Philipp&nbsp;Kammerer</td></tr>
@@ -50,7 +59,7 @@ menu: main
 <tr><td>10:00</td><td>bis</td><td>10:50</td><td><a class="talk"></a></td><td><a href="../programm/helmut-stult-manjaro-linux-enjoy-the-simplicity">Manjaro&nbsp;Linux&nbsp;-&nbsp;ENJOY&nbsp;THE&nbsp;SIMPLICITY</a></td><td>Helmut&nbsp;Stult</td></tr>
 <tr><td>11:00</td><td>bis</td><td>11:50</td><td><a class="talk"></a></td><td><a href="../programm/frank-hofmann-harald-koenig-sieben-bruecken-fahrtenbuch-mit-skripten-auslesen">Sieben&nbsp;Brücken.&nbsp;Fahrtenbuch&nbsp;mit&nbsp;Skripten&nbsp;auslesen</a></td><td>Frank&nbsp;Hofmann&nbsp;+&nbsp;Harald&nbsp;König</td></tr>
 <tr><td>12:00</td><td>bis</td><td>12:50</td><td><a class="talk"></a></td><td><a href="../programm/harald-koenig-den-flaschenhals-in-einer-langsamen-pipe-optimieren-durch-parallelisierung">Den&nbsp;Flaschenhals&nbsp;in&nbsp;einer&nbsp;langsamen&nbsp;Pipe&nbsp;optimiern&nbsp;durch&nbsp;Parallelisierung&nbsp;</a></td><td>Harald&nbsp;König</td></tr>
-<tr><td>13:00</td><td>bis</td><td>13:50</td><td><a class="talk"></a></td><td><a href="../programm/axel-beckert-frank-hofmann-schatzsuche-weniger-bekannte-linux-kommandos">Schatzsuche:&nbsp;Weniger&nbsp;bekannte&nbsp;Linux-Kommandos</a></td><td>Axel&nbsp;Beckert&nbsp;+&nbsp;Frank&nbsp;Hofmann</td></tr>
+<tr><td>13:00</td><td>bis</td><td>13:50</td><td><a class="talk"></a></td><td><a href="../programm/axel-beckert-was-gibt-es-neues-in-debian-10-buster">Was&nbsp;gibt&nbsp;es&nbsp;Neues&nbsp;in&nbsp;Debian&nbsp;10&nbsp;Buster?</a></td><td>Axel&nbsp;Beckert</td></tr>
 
 
 <tr><td>14:00</td><td>bis</td><td>14:05</td><td><a class="light"></a></td><td><a href="../programm/daniel-kobras-hitobito-die-freie-verwaltungsloesung-fuer-vereine-und-verbaende">hitobito&nbsp;-&nbsp;die&nbsp;freie&nbsp;Verwaltungslösung&nbsp;für&nbsp;Vereine&nbsp;und&nbsp;Verbände</a></td><td>Daniel&nbsp;Kobras</td></tr>
@@ -71,18 +80,18 @@ menu: main
 <tr><td>15:25</td><td>bis</td><td>15:30</td><td><a class="light"></a></td><td><a href="../programm/andreas-mundt-nextkellercloud-homeserver-mit-ct-bauvorschlag-und-oder-olinuxinolime2">NextKellerCloud:&nbsp;HomeServer&nbsp;mit&nbsp;c't&nbsp;Bauvorschlag&nbsp;und/oder&nbsp;OLinuXinoLIME2</a></td><td>Andreas&nbsp;B.&nbsp;Mundt</td></tr>
 <tr><td>15:30</td><td>bis</td><td>15:35</td><td><a class="light"></a></td><td><a href="../programm/john-boe-will-the-humane-tech-movement-rescue-human-kind">Will&nbsp;the&nbsp;humane&nbsp;tech&nbsp;movement&nbsp;rescue&nbsp;human&nbsp;kind(ness)?</a></td><td>John&nbsp;Boe</td></tr>
 <tr><td>15:35</td><td>bis</td><td>15:40</td><td><a class="light"></a></td><td><a href="../programm/lorenz-kiefner-mesh-vpn-selbstgebaut">Mesh-VPN&nbsp;selbstgebaut</a></td><td>Lorenz&nbsp;Kiefner</td></tr>
-<tr><td>15:40</td><td>bis</td><td>15:45</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei</a></td><td>Du? :)</td></tr>
-<tr><td>15:45</td><td>bis</td><td>15:50</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei</a></td><td>Du? :)</td></tr>
+<tr><td>15:40</td><td>bis</td><td>15:45</td><td><a class="light"></a></td><td>(geblockt - Titel kommt noch)</td><td>Pantelis Birokas</td></tr>
+<tr><td>15:45</td><td>bis</td><td>15:50</td><td><a class="light"></a></td><td><a href="../programm/edgar-olijar-ctf-wtf-hacking-for-fun-and-profit">CTF&nbsp;WTF?&nbsp;Hacking&nbsp;for&nbsp;fun&nbsp;&&nbsp;profit</a></td><td>Edgar&nbsp;Olijar</td></tr>
 <tr><td>16:00</td><td>bis</td><td>16:05</td><td><a class="light"></a></td><td><a href="../programm/meffisto-verschluesselung-einer-ssd-mit-luks-und-wie-man-sich-selbst-kompromittieren-kann">Verschlüsselung&nbsp;einer&nbsp;SSD&nbsp;mit&nbsp;LUKS&nbsp;und&nbsp;wie&nbsp;man&nbsp;sich&nbsp;selbst&nbsp;kompromittieren&nbsp;kann</a></td><td>meffisto</td></tr>
 <tr><td>16:05</td><td>bis</td><td>16:10</td><td><a class="light"></a></td><td><a href="../programm/johannes-schirm-fremdsprachen-lernen-auf-linux">Fremdsprachen&nbsp;Lernen&nbsp;auf&nbsp;Linux</a></td><td>Johannes&nbsp;Schirm</td></tr>
 <tr><td>16:10</td><td>bis</td><td>16:15</td><td><a class="light"></a></td><td><a href="../programm/matthias-beyer-building-deb-rpm-packages-with-nixpkgs">Building&nbsp;.deb/.rpm&nbsp;packages&nbsp;with&nbsp;nixpkgs</a></td><td>Matthias&nbsp;Beyer</td></tr>
-<tr><td>16:15</td><td>bis</td><td>16:20</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei</a></td><td>Du? :)</td></tr>
+<tr><td>16:15</td><td>bis</td><td>16:20</td><td><a class="light"></a></td><td><a href="../programm/sebastian-niedworok-open-source-ecology">Open&nbsp;Source&nbsp;Ecology</a></td><td>Sebastian&nbsp;Niedworok</td></tr>
 <tr><td>16:20</td><td>bis</td><td>16:25</td><td><a class="light"></a></td><td><a href="../programm/christian-seiler-real-time-anwendungen-unter-linux-lessons-learned">Real-Time-Anwendungen&nbsp;unter&nbsp;Linux:&nbsp;Lessons&nbsp;Learned</a></td><td>Christian&nbsp;Seiler</td></tr>
-<tr><td>16:25</td><td>bis</td><td>16:30</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei</a></td><td>Du? :)</td></tr>
-<tr><td>16:30</td><td>bis</td><td>16:35</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei</a></td><td>Du? :)</td></tr>
-<tr><td>16:35</td><td>bis</td><td>16:40</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei</a></td><td>Du? :)</td></tr>
-<tr><td>16:40</td><td>bis</td><td>16:45</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei</a></td><td>Du? :)</td></tr>
-<tr><td>16:45</td><td>bis</td><td>16:50</td><td><a class="light"></a></td><td><a href="../../callforpapers">noch frei</a></td><td>Du? :)</td></tr>
+<tr><td>16:25</td><td>bis</td><td>16:30</td><td><a class="light"></a></td><td><a href="../programm/michael-weiss-nixos-ein-ueberblick">Nix(OS)&nbsp;-&nbsp;Ein&nbsp;Überblick</a></td><td>Michael&nbsp;Weiss</td></tr>
+<tr><td>16:30</td><td>bis</td><td>16:35</td><td><a class="light"></a></td><td><a href="../programm/jonas-benn-open-up-science">Open&nbsp;up,&nbsp;science!</a></td><td>Jonas&nbsp;Benn</td></tr>
+<tr><td>16:35</td><td>bis</td><td>16:40</td><td><a class="light"></a></td><td><a href="../programm/janek-schoffit-webcrawling-mit-scrapy-und-postgresql-backend">Webcrawling&nbsp;mit&nbsp;scrapy&nbsp;und&nbsp;PostgreSQL&nbsp;backend</a></td><td>Janek&nbsp;Schoffit</td></tr>
+<tr><td>16:40</td><td>bis</td><td>16:45</td><td><a class="light"></a></td><td><a href="../programm/christoph-prokop-linux-presentation-day">Linux&nbsp;Presentation&nbsp;Day</a></td><td>Christoph&nbsp;Prokop</td></tr>
+<tr><td>16:45</td><td>bis</td><td>16:50</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-thunderstorm">Thunderstorm</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>17:00</td><td>bis</td><td>17:20</td><td><a class="talk"></a></td><td><a href="../programm/robert-scheck-schonmal-systemd-networkd-ausprobiert">Schonmal&nbsp;systemd-networkd&nbsp;ausprobiert?</a></td><td>Robert&nbsp;Scheck</td></tr>
 <tr><td>17:30</td><td>bis</td><td>17:50</td><td><a class="talk"></a></td><td><a href="../programm/matthias-kurz-mastodon-die-geschichte-vom-tooten-und-boosten">Mastodon&nbsp;-&nbsp;Die&nbsp;Geschichte&nbsp;vom&nbsp;tooten&nbsp;und&nbsp;boosten</a></td><td>Matthias&nbsp;Kurz</td></tr>
 <tr><td>&nbsp;</td></tr>

@@ -11,7 +11,7 @@ menu:
 
 ### Alexander Conzelmann
 
-Mathematische Aufschriebe mit LaTeX dauern für gewöhnlich ewig. Zumindest ist man meist nicht schnell genug, um in der Vorlesung mitzuschreiben, dazu ist es mit den meisten Editoren auch noch ätzend (wie ist noch gleich der Befehl für die Vereinigung von Mengen? ah stimmt, \bigcap...). Hier stelle ich ein kleines PlugIn vor: UltiSnips. Mit dessen Hilfe können automatisch bestimmte Textabschnitte (kontextsensitiv) zu anderen konvertiert werden. Durch die flexible Programmierbarkeit des PlugIns können so selbst anspruchsvolle Mathematische Sätze und Darstellungen in schneller Zeit bewältigt werden, was ich auch demonstrieren werde. 
+Mathematische Aufschriebe mit LaTeX dauern für gewöhnlich ewig. Zumindest ist man meist nicht schnell genug, um in der Vorlesung mitzuschreiben, dazu ist es mit den meisten Editoren auch noch ätzend (wie ist noch gleich der Befehl für die Vereinigung von Mengen? ah stimmt, \bigcup...). Hier stelle ich ein kleines PlugIn vor: UltiSnips. Mit dessen Hilfe können automatisch bestimmte Textabschnitte (kontextsensitiv) zu anderen konvertiert werden. Durch die flexible Programmierbarkeit des PlugIns können so selbst anspruchsvolle Mathematische Sätze und Darstellungen in schneller Zeit bewältigt werden, was ich auch demonstrieren werde. 
 
 ### Vorwissen
 

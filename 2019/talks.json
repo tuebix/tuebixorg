@@ -64,7 +64,7 @@
             }
         },
         "urlid": "rainer-grimm-c++20-die-revolution-geht-weiter",
-        "duration": 55,
+        "duration": 50,
         "room": "V2",
         "timebegin": "16:00",
         "timeend": "16:50"
@@ -99,7 +99,7 @@
             }
         },
         "urlid": "uli-kleemann-ich-habe-doch-nichts-zu-verbergen",
-        "duration": 55,
+        "duration": 50,
         "room": "V4",
         "timebegin": "13:00",
         "timeend": "13:50"
@@ -149,7 +149,7 @@
             }
         },
         "urlid": "werner-heuser-linux-zertifizierungen-ein-ueberblick",
-        "duration": 55,
+        "duration": 50,
         "room": "W2",
         "timebegin": "16:00",
         "timeend": "16:50"
@@ -168,7 +168,7 @@
             }
         },
         "urlid": "christoph-zimmermann-redis-ist-10",
-        "duration": 55,
+        "duration": 50,
         "room": "V4",
         "timebegin": "11:00",
         "timeend": "11:50"
@@ -182,7 +182,7 @@
         "vorwissen": "Grundkenntnisse Unix/Linux und SSH-Nutzung",
         "weblinks": {},
         "urlid": "michael-stroeder-openssh-certificates",
-        "duration": 55,
+        "duration": 50,
         "room": "W2",
         "timebegin": "17:00",
         "timeend": "17:50"
@@ -209,7 +209,7 @@
             }
         },
         "urlid": "reinhard-mueller-webanwendungen-erstellen-mit-python-sqlalchemy-und-flask",
-        "duration": 55,
+        "duration": 50,
         "room": "V2",
         "timebegin": "13:00",
         "timeend": "13:50"
@@ -223,7 +223,7 @@
         "vorwissen": "Firmer Umgang mit Maus und Tastatur. Bring your own device and videomaterial und/oder eine Kamera, wenn vorhanden.",
         "weblinks": {},
         "urlid": "philipp-kammerer-einstieg-in-nonlinearen-videoschnitt-mit-kdenlive",
-        "duration": 120,
+        "duration": 110,
         "room": "W1",
         "timebegin": "10:00",
         "timeend": "11:50"
@@ -237,7 +237,7 @@
         "vorwissen": "Firmer Umgang mit Maus und Tastatur. Interesse an Gimp und Inkscape ist nicte2have. Bring your own device; und wenn Blender schon installiert ist, können wir gleich loslegen.",
         "weblinks": {},
         "urlid": "philipp-kammerer-3d-grafik-und-animation-mit-blender",
-        "duration": 120,
+        "duration": 110,
         "room": "W1",
         "timebegin": "14:00",
         "timeend": "15:50"
@@ -287,7 +287,7 @@
             }
         },
         "urlid": "lennart-poettering-boot-loader-spec-sd-boot",
-        "duration": 55,
+        "duration": 50,
         "room": "V1",
         "timebegin": "18:15",
         "timeend": "19:15"
@@ -301,7 +301,7 @@
         "vorwissen": "",
         "weblinks": {},
         "urlid": "reiner-schlotte-hadoop-ist-defekt-das-alphabet-des-grauens",
-        "duration": 55,
+        "duration": 50,
         "room": "V4",
         "timebegin": "16:00",
         "timeend": "16:50"
@@ -310,7 +310,7 @@
         "name": "Alexander Conzelmann",
         "titel": "Blitzschnelles Mathe-LaTeX dank UltiSnips",
         "buzzword": "Technologien, Vim, Plug-ins, LaTeX, TeX, UltiSnips, Snippets, Mathematik",
-        "inhalt": "Mathematische Aufschriebe mit LaTeX dauern für gewöhnlich ewig. Zumindest ist man meist nicht schnell genug, um in der Vorlesung mitzuschreiben, dazu ist es mit den meisten Editoren auch noch ätzend (wie ist noch gleich der Befehl für die Vereinigung von Mengen? ah stimmt, \\bigcap...). Hier stelle ich ein kleines PlugIn vor: UltiSnips. Mit dessen Hilfe können automatisch bestimmte Textabschnitte (kontextsensitiv) zu anderen konvertiert werden. Durch die flexible Programmierbarkeit des PlugIns können so selbst anspruchsvolle Mathematische Sätze und Darstellungen in schneller Zeit bewältigt werden, was ich auch demonstrieren werde. ",
+        "inhalt": "Mathematische Aufschriebe mit LaTeX dauern für gewöhnlich ewig. Zumindest ist man meist nicht schnell genug, um in der Vorlesung mitzuschreiben, dazu ist es mit den meisten Editoren auch noch ätzend (wie ist noch gleich der Befehl für die Vereinigung von Mengen? ah stimmt, \\bigcup...). Hier stelle ich ein kleines PlugIn vor: UltiSnips. Mit dessen Hilfe können automatisch bestimmte Textabschnitte (kontextsensitiv) zu anderen konvertiert werden. Durch die flexible Programmierbarkeit des PlugIns können so selbst anspruchsvolle Mathematische Sätze und Darstellungen in schneller Zeit bewältigt werden, was ich auch demonstrieren werde. ",
         "aboutme": "Hey, ich bin Alex, studiere in Tübingen Informatik und bin Mitglied der Linux-AG. Mich begeistert alles rund um Technik und Linux. Wenn ich grade nicht am PC sitze, tanze ich auch noch ganz gern :)",
         "vorwissen": "LaTeX",
         "weblinks": {},
@@ -338,7 +338,7 @@
             }
         },
         "urlid": "alexander-peltzer-bigdata-analytics-mit-nextflow-und-nf-core",
-        "duration": 25,
+        "duration": 20,
         "room": "V1",
         "timebegin": "16:00",
         "timeend": "16:20"
@@ -352,7 +352,7 @@
         "vorwissen": "",
         "weblinks": {},
         "urlid": "adrian-reber-container-live-migration",
-        "duration": 25,
+        "duration": 20,
         "room": "V1",
         "timebegin": "17:30",
         "timeend": "17:50"
@@ -375,21 +375,26 @@
             }
         },
         "urlid": "helmut-stult-manjaro-linux-enjoy-the-simplicity",
-        "duration": 55,
+        "duration": 50,
         "room": "V3",
         "timebegin": "10:00",
         "timeend": "10:50"
     },
     {
-        "name": "Axel Beckert + Frank Hofmann",
-        "titel": "Schatzsuche: Weniger bekannte Linux-Kommandos",
-        "buzzword": "Kommandozeile, CLI, KISS, Tools, Utilities, Pipe, Durchflussmesser, Text-Formatierung, Fließtext",
-        "inhalt": "Linux ist eine Wundertüte voller Werkzeuge. Da sind die Bekannteren wie ls, cd, mkdir, touch, cat und grep. Aber da ist noch viel mehr. Wir freuen uns darauf, mit Euch eine Liste cooler Werkzeuge zu teilen, die Euer Leben als Linux-Benutzer, Adminstrator und Entwickler vereinfachen. Schatzsuche, wie sie besser nicht sein kann.",
-        "aboutme": "Axel Beckert: Linux-Systemadministrator und Spezialist für Netzwerksicherheit an der ETH Zürich. Debian-Entwickler und Administrator von debian.ethz.ch aka ftp.ch.debian.org. Vorstandsmitglied der Linux User Group Switzerland (LUGS). Hochgeschätzter Co-Moderator des Schweizer Podcasts Hackerfunk.\n\nFrank Hofmann: IT-Spezialist mit dem Blickwinkel auf Training (LPI), Technische Dokumentation und Druck & Satz. Digitaler Nomade. Unabhängiger Autor für LinuxUser. Nach Berlin und Cape Town lebt er derzeit in Besançon, Franche-Comté. Mit Kind, Frau und ohne Katze.\n\nSeit 2012 schreiben und betreuen wir das Debian Paketmanagement-Buch.",
-        "vorwissen": "Schonmal auf der Kommandozeile unterwegs gewesen zu sein, ist sicher hilfreich.",
-        "weblinks": {},
-        "urlid": "axel-beckert-frank-hofmann-schatzsuche-weniger-bekannte-linux-kommandos",
-        "duration": 55,
+        "name": "Axel Beckert",
+        "titel": "Was gibt es Neues in Debian 10 Buster?",
+        "buzzword": "Release Party, Debian, Buster, Weihnachten im Sommer",
+        "inhalt": "Debians jüngstes Stable-Release soll  am Tag der TÜBIX veröffentlicht werden. Der Vortrag zeigt, was sich alles getan hat seit Debian 9 Stretch: Neue Funktionalitäten, neue Pakete, neue Möglichkeiten, etc., aber auch, welche Pakete rausgeflogen oder dieses Mal nicht mehr dabei sind. Außerdem wollen auch irgendwie ein klein wenig das Release feiern. :-)",
+        "aboutme": "Seit knapp 10 Jahren Debian-Entwickler, Kommandozeilen-Aficionado, Betreuer des primären Schweizer Debian-Mirrors, Sysadmin aus Leidenschaft.",
+        "vorwissen": "",
+        "weblinks": {
+            "1": {
+                "url": "https://noone.org/talks/whats-new-in-debian/",
+                "title": "Folien"
+            }
+        },
+        "urlid": "axel-beckert-was-gibt-es-neues-in-debian-10-buster",
+        "duration": 50,
         "room": "V3",
         "timebegin": "13:00",
         "timeend": "13:50"
@@ -403,7 +408,7 @@
         "vorwissen": "Interesse an Smart Home mit OpenHAB2.",
         "weblinks": {},
         "urlid": "jonas-genannt-smart-home-mit-openhab2",
-        "duration": 55,
+        "duration": 50,
         "room": "V1",
         "timebegin": "12:00",
         "timeend": "12:50"
@@ -426,7 +431,7 @@
             }
         },
         "urlid": "felix-bauer-peekabooav-der-weg-zu-version-2.0",
-        "duration": 55,
+        "duration": 50,
         "room": "V4",
         "timebegin": "17:30",
         "timeend": "17:50"
@@ -461,7 +466,7 @@
             }
         },
         "urlid": "erich-waelde-anstaendiges-werkzeug-emacs",
-        "duration": 120,
+        "duration": 110,
         "room": "W2",
         "timebegin": "12:00",
         "timeend": "13:50"
@@ -480,7 +485,7 @@
             }
         },
         "urlid": "andreas-mundt-debian-ausrollen-und-konfigurieren-di-netboot-assistant-pxe-und-ansible",
-        "duration": 55,
+        "duration": 50,
         "room": "V2",
         "timebegin": "11:00",
         "timeend": "11:50"
@@ -499,7 +504,7 @@
             }
         },
         "urlid": "andreas-mundt-debian-automatisch-installieren-mit-di-netboot-assistant",
-        "duration": 120,
+        "duration": 110,
         "room": "W1",
         "timebegin": "12:00",
         "timeend": "13:50"
@@ -549,7 +554,7 @@
             }
         },
         "urlid": "stefan-baur-x2go-in-der-google-cloud-kostenlos-und-oder-anonym-wie-geht-das",
-        "duration": 55,
+        "duration": 50,
         "room": "V2",
         "timebegin": "10:00",
         "timeend": "10:50"
@@ -591,7 +596,7 @@
             }
         },
         "urlid": "udo-seidel-container-sicherheit-dank-kata",
-        "duration": 25,
+        "duration": 20,
         "room": "V1",
         "timebegin": "16:30",
         "timeend": "16:50"
@@ -605,7 +610,7 @@
         "vorwissen": "Grundkenntnisse der Linux-Kommandozeile und von iproute2 sind von Vorteil.",
         "weblinks": {},
         "urlid": "tilman-kranz-vpns-einrichten-und-benutzen",
-        "duration": 55,
+        "duration": 50,
         "room": "V4",
         "timebegin": "10:00",
         "timeend": "10:50"
@@ -624,7 +629,7 @@
             }
         },
         "urlid": "anton-mueller-aur-packages-selbst-mit-hilfe-von-docker-bauen-testen-und-veroeffentlichen",
-        "duration": 120,
+        "duration": 110,
         "room": "W2",
         "timebegin": "14:00",
         "timeend": "15:50"
@@ -647,7 +652,7 @@
             }
         },
         "urlid": "robert-scheck-schonmal-systemd-networkd-ausprobiert",
-        "duration": 25,
+        "duration": 20,
         "room": "V3",
         "timebegin": "17:00",
         "timeend": "17:20"
@@ -666,7 +671,7 @@
             }
         },
         "urlid": "klaus-knopper-cloudbusters-wer-kontrolliert-dein-smart-home",
-        "duration": 55,
+        "duration": 50,
         "room": "V1",
         "timebegin": "13:00",
         "timeend": "13:50"
@@ -716,7 +721,7 @@
             }
         },
         "urlid": "christian-brauner-file-descriptors-for-processes",
-        "duration": 55,
+        "duration": 50,
         "room": "V1",
         "timebegin": "14:00",
         "timeend": "14:50"
@@ -726,11 +731,11 @@
         "titel": "Vim für Einsteiger",
         "buzzword": "vim, text-editor",
         "inhalt": "Nach einem kleinen historischen Exkurs und der Vorstellung einiger Features lernen wir im ersten Teil ein paar Grundlagen, um in Dateien zu navigieren und Texte zu bearbeiten. Ausserdem schauen wir uns ein wenig im Hilfesystem um Im zweiten Teil werden wir uns ein paar Features zuwenden, die das Arbeiten mit Textdateien vereinfachen (Makros, Mappings, Markierungen...) ",
-        "aboutme": "Sysyadmin und vim-User aus Leidenschaft",
+        "aboutme": "Sysadmin und vim-User aus Leidenschaft",
         "vorwissen": "Wir beginnen bei \"null\", aber ein Linux sollte man schon mal verwendet und vim installiert haben...",
         "weblinks": {},
         "urlid": "toni-zimmer-vim-fuer-einsteiger",
-        "duration": 120,
+        "duration": 110,
         "room": "W2",
         "timebegin": "10:00",
         "timeend": "11:50"
@@ -761,7 +766,7 @@
             }
         },
         "urlid": "mark-schmidt-andreas-stockmayer-gentoo-installparty",
-        "duration": 120,
+        "duration": 110,
         "room": "W1",
         "timebegin": "16:00",
         "timeend": "17:50"
@@ -775,7 +780,7 @@
         "vorwissen": "Grundwissen Programmieren in C oder ähnlichen Sprachen ist hilfreich.",
         "weblinks": {},
         "urlid": "arnd-bergmann-the-end-of-time-19-years-to-go",
-        "duration": 25,
+        "duration": 20,
         "room": "V2",
         "timebegin": "17:30",
         "timeend": "17:50"
@@ -789,7 +794,7 @@
         "vorwissen": "Grundkenntnisse zu Kerberos und Netzdateisystemen sind hilfreich.",
         "weblinks": {},
         "urlid": "daniel-kobras-dateidienste-sicher-und-alltagstauglich",
-        "duration": 55,
+        "duration": 50,
         "room": "V4",
         "timebegin": "12:00",
         "timeend": "12:50"
@@ -812,7 +817,7 @@
             }
         },
         "urlid": "lukas-kallies-linux-wartung-in-buzzword-zeiten",
-        "duration": 55,
+        "duration": 50,
         "room": "V2",
         "timebegin": "12:00",
         "timeend": "12:50"
@@ -839,7 +844,7 @@
             }
         },
         "urlid": "frank-schiebel-freifunk-ag-am-quenstedt-gymnasium-von-der-schule-in-die-stadt",
-        "duration": 55,
+        "duration": 50,
         "room": "V4",
         "timebegin": "15:00",
         "timeend": "15:50"
@@ -872,7 +877,7 @@
         "vorwissen": "Rudimentäres Vorwissen (v. a. zu Scrum) wünschenswert.",
         "weblinks": {},
         "urlid": "sonja-goettler-der-berechtigte-hype-um-agile-softwareentwicklung",
-        "duration": 25,
+        "duration": 20,
         "room": "V2",
         "timebegin": "17:00",
         "timeend": "17:20"
@@ -895,7 +900,7 @@
             }
         },
         "urlid": "thorsten-leemhuis-aktuelle-entwicklungen-beim-linux-kernel",
-        "duration": 55,
+        "duration": 50,
         "room": "V1",
         "timebegin": "10:00",
         "timeend": "10:50"
@@ -909,7 +914,7 @@
         "vorwissen": "Das Konzept von Containern sollte bekannt sein, bereits vorhandenes Wissen zu LXC im speziellen sowie zu Vor- und Nachteilen von Containern ist hilfreich.",
         "weblinks": {},
         "urlid": "meffisto-integration-von-linux-containern-auf-dem-desktop-mit-lxc",
-        "duration": 25,
+        "duration": 20,
         "room": "V1",
         "timebegin": "17:00",
         "timeend": "17:20"
@@ -937,7 +942,7 @@
         "vorwissen": "Ein spezielles Vorwissen der Zuhörer wird nicht vorausgesetzt. Interesse an HPC, Virtualisierung, speziell Containern ist sicherlich von Vorteil, um eine rege Diskussion und Erfahrungsaustausch zu gewährleisten :)",
         "weblinks": {},
         "urlid": "holger-gantikow-linux-containers-for-hpc-container-technology-engine-architecture-101",
-        "duration": 55,
+        "duration": 50,
         "room": "V1",
         "timebegin": "15:00",
         "timeend": "15:50"
@@ -951,7 +956,7 @@
         "vorwissen": "wie immer: tippen können.\nund vielleicht ein bissl Spass mit oder zumind. Interesse an der Kommandozeile und Pipes.",
         "weblinks": {},
         "urlid": "harald-koenig-den-flaschenhals-in-einer-langsamen-pipe-optimieren-durch-parallelisierung",
-        "duration": 55,
+        "duration": 50,
         "room": "V3",
         "timebegin": "12:00",
         "timeend": "12:50"
@@ -974,7 +979,7 @@
             }
         },
         "urlid": "matthias-kurz-mastodon-die-geschichte-vom-tooten-und-boosten",
-        "duration": 25,
+        "duration": 20,
         "room": "V3",
         "timebegin": "17:30",
         "timeend": "17:50"
@@ -993,7 +998,7 @@
             }
         },
         "urlid": "frank-hofmann-harald-koenig-sieben-bruecken-fahrtenbuch-mit-skripten-auslesen",
-        "duration": 55,
+        "duration": 50,
         "room": "V3",
         "timebegin": "11:00",
         "timeend": "11:50"
@@ -1007,7 +1012,7 @@
         "vorwissen": "Allgemeine Intimkenntnisse und Interesse für den sensiblen Umgang mit Computern sind nützlich. ",
         "weblinks": {},
         "urlid": "andré-niemann-der-datenreisende-unterwegs",
-        "duration": 25,
+        "duration": 20,
         "room": "V4",
         "timebegin": "17:00",
         "timeend": "17:20"
@@ -1016,13 +1021,12 @@
         "name": "Christian Seiler",
         "titel": "Jenseits der Tutorials: Wie \"Hello World\" wirklich funktioniert",
         "buzzword": "ELF, Dynamischer Linker, Threads, ASLR, SSP",
-        "inhalt": "Die meisten Programmierbeispiele beginnen mit dem klassichen Beispielprogramm, welches
-        \"Hello World\" ausgibt. Aber was passiert auf modernen Systemen eigentlich im Hintergrund? Warum ist das so erzeugte Binary mehrere Kilobyte groß? Dieser Vortrag soll die schwarze Magie entmystifizieren, die auf heutigen Systemen im Hintergrund geschieht, damit selbst einfache Programme überhaupt gestartet werden können. Es wird ein Überblick über das ELF-Format gegeben, wie der Kernel ELF-Programme startet, wie der dynamische Linker funktioniert, wie ASLR implementiert ist auf heutigen Systemen, welcher Code ausgeführt wird, bevor die erste Zeile in main() überhaupt erreicht wird, wie statische und Thread-lokale Variablen funktionieren, sowie wie die Systembibliothek (libc) mit dem Compiler interagiert für die Unterstützung von Threads.",
+        "inhalt": "Die meisten Programmierbeispiele beginnen mit dem klassichen Beispielprogramm, welches \"Hello World\" ausgibt. Aber was passiert auf modernen Systemen eigentlich im Hintergrund? Warum ist das so erzeugte Binary mehrere Kilobyte groß? Dieser Vortrag soll die schwarze Magie entmystifizieren, die auf heutigen Systemen im Hintergrund geschieht, damit selbst einfache Programme überhaupt gestartet werden können. Es wird ein Überblick über das ELF-Format gegeben, wie der Kernel ELF-Programme startet, wie der dynamische Linker funktioniert, wie ASLR implementiert ist auf heutigen Systemen, welcher Code ausgeführt wird, bevor die erste Zeile in main() überhaupt erreicht wird, wie statische und Thread-lokale Variablen funktionieren, sowie wie die Systembibliothek (libc) mit dem Compiler interagiert für die Unterstützung von Threads.",
         "aboutme": "Nach einer Promotion in Physik arbeite ich als C++-Entwickler in einem Startup im Raum Tübingen/Reutlingen. Vor über 20 Jahren habe ich GNU/Linux kennengelernt und es bleibt bis heute das Betriebsystem meiner Wahl.",
         "vorwissen": "Kenntnisse in C und Systemprogrammierung, sowie ein grundlegendes Verständnis, wie Prozessoren Maschinencode interpretieren.",
         "weblinks": {},
         "urlid": "christian-seiler-jenseits-der-tutorials-wie-hello-world-wirklich-funktioniert",
-        "duration": 55,
+        "duration": 50,
         "room": "V2",
         "timebegin": "15:00",
         "timeend": "15:50"
@@ -1041,7 +1045,7 @@
             }
         },
         "urlid": "michael-sperber-programmieren-lehren-lernen",
-        "duration": 55,
+        "duration": 50,
         "room": "V1",
         "timebegin": "11:00",
         "timeend": "11:50"
@@ -1064,7 +1068,7 @@
             }
         },
         "urlid": "daniel-kulesz-software-testen-ja-bitte",
-        "duration": 55,
+        "duration": 50,
         "room": "V2",
         "timebegin": "14:00",
         "timeend": "14:50"
@@ -1126,7 +1130,7 @@
             }
         },
         "urlid": "peter-hrenka-minecraft-hacking-for-beginners",
-        "duration": 55,
+        "duration": 50,
         "room": "V4",
         "timebegin": "14:00",
         "timeend": "14:50"
@@ -1354,6 +1358,178 @@
         "timeend": "14:50"
     },
     {
+        "name": "Christoph Prokop",
+        "titel": "Linux Presentation Day",
+        "buzzword": "Linux Presentation Day, Anfänger und Fortgeschrittene, Community",
+        "inhalt": "Der Linux Presentation Day (kurz LPD) ist ein Veranstaltungskonzept, mit der Idee weltweit an einem Stichtag Veranstaltungen rund um das Thema LINUX auf die Beine zu stellen, um interessierten Besuchern LINUX vorzustellen und zu erklären.\nIch möchte euch kurz berichten, wie das die letzten Male in Tübingen so ablief und was wir dabei gelernt haben.",
+        "aboutme": "Ich heiße Christoph, wohne in Tübingen und war schon mal bei einem Linux Presentation Day.",
+        "vorwissen": "",
+        "weblinks": {
+            "1": {
+                "url": "https://l-p-d.org/",
+                "title": "https://l-p-d.org/"
+            }
+        },
+        "urlid": "christoph-prokop-linux-presentation-day",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "16:40",
+        "timeend": "16:45"
+    },
+    {
+        "name": "Michael Weiss",
+        "titel": "Nix(OS) - Ein Überblick",
+        "buzzword": "Nix,Package manager,Functional,Immutable,Configuration management",
+        "inhalt": "Ein kurzer Überblick über Nix(OS), Nixpkgs und weitere nützliche Tools. Es geht v.a. darum die Konzepte zu vermitteln sowie die Unterschiede zu klassischen Paket-Managern aufzuzeigen (mögliche Vor- und Nachteile).\n\nNix ist ein funktionaler package manager, der auch auf anderen Betriebssystem genutzt werden kann, ohne Konflikte mit dem bestehenden package manager zu bekommen. NixOS ist eine auf Nix basierende Linux-Distribution, mit der neben den Software-Paketen zusätzlich auch die System-Konfiguration über Nix verwaltet werden kann. Die Paket-Definitionen und NixOS Module zur Systemkonfiguration werden in Nixpkgs, einem großen Git Repository, zentral verwaltet.\n\nNix(OS) verfügt unter anderem über folgende Features:\n- Transparent source/binary model\n- Declarative (system configuration)\n- Reproducible builds\n- Multi-user, multi-version (no conflicts)\n- Portable (Linux, macOS, ...)\n- Reliable and atomic updates\n- Rollbacks",
+        "aboutme": "Nixpkgs package maintainer seit 2017 (ca. 50 Pakete und 4 Module), davor Gentoo user. Begeistert für FLOSS, GNU/Linux, Networking (\"Internet\"), reproducible builds, etc. Aktuell Informatik-Student an der Universität Tübingen.",
+        "vorwissen": "Grobe Kenntnisse eines Paket-Managers wären evtl. hilfreich.",
+        "weblinks": {
+            "1": {
+                "url": "https://nixos.org/",
+                "title": "NixOS Website"
+            },
+            "2": {
+                "url": "https://github.com/NixOS/nixpkgs/",
+                "title": "Nixpkgs (GitHub)"
+            },
+            "3": {
+                "url": "https://primeos.github.io/nixos-slides/",
+                "title": "Folien der vollständigen Präsentation"
+            },
+            "4": {
+                "url": "https://github.com/primeos",
+                "title": "Mein GitHub Profil"
+            }
+        },
+        "urlid": "michael-weiss-nixos-ein-ueberblick",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "16:25",
+        "timeend": "16:30"
+    },
+    {
+        "name": "Edgar Olijar",
+        "titel": "CTF WTF? Hacking for fun & profit",
+        "buzzword": "hacking, CTF, capture the flag, exploitation, cyber defence challenge, cyber security, wargame, computer security, securing a machine, break into the system",
+        "inhalt": "Es wird erklärt was Capture The Flag (CTF) ist und wie man sich auf solche Hacking-Competitions vorbereitet.",
+        "aboutme": "Informatik-Student UNI Tübingen",
+        "vorwissen": "42",
+        "weblinks": {
+            "1": {
+                "url": "https://ctftime.org/event/list/",
+                "title": "CTF events"
+            },
+            "2": {
+                "url": "https://ctftime.org/ctf-wtf/",
+                "title": "CTF WTF"
+            },
+            "3": {
+                "url": "https://www.youtube.com/watch?v=8ev9ZX9J45A",
+                "title": "LiveOverflow: CTF"
+            },
+            "4": {
+                "url": "https://dhanvi.org/slides/2015-11-hackbeach-ctf-wtf/index.html#/8",
+                "title": "Cyber Defence"
+            }
+        },
+        "urlid": "edgar-olijar-ctf-wtf-hacking-for-fun-and-profit",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "15:45",
+        "timeend": "15:50"
+    },
+    {
+        "name": "Jonas Benn",
+        "titel": "Open up, science!",
+        "buzzword": "Open Science, Transparent Research, Open Infrastructure",
+        "inhalt": "This will be a hard one to do in 5 minutes. :D Nevertheless, here is the plan:\n— What is problematic with the current scientific publication system?\n— Short introduction to the Open Science Movement\n— Giving a little taster of \"Octopus\" and Chris Hartgerink's recent proposal, described in “Verified, Shared, Modular, and Provenance Based Research Communication with the Dat Protocol”",
+        "aboutme": "When I heard about the replication crisis and also the recent revelations of well-known scientists working with questionable methodology, I wondered — can we do better?",
+        "vorwissen": "",
+        "weblinks": {
+            "1": {
+                "url": "https://www.mdpi.com/2304-6775/7/2/40",
+                "title": "Chris Hartgerink's recent paper"
+            },
+            "2": {
+                "url": "https://octopus-hypothesis.netlify.com/",
+                "title": "Octopus"
+            }
+        },
+        "urlid": "jonas-benn-open-up-science",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "16:30",
+        "timeend": "16:35"
+    },
+    {
+        "name": "Janek Schoffit",
+        "titel": "Webcrawling mit scrapy und PostgreSQL backend",
+        "buzzword": "Webcrawling, Spider, Python, PHP, Go, SQL, Debian",
+        "inhalt": "Struktureller Aufbau eines Webcrawling Projektes. Ich werde über diverse Hürden und Designentscheidungen sprechen.",
+        "aboutme": "Ich bin Janek, studiere Medieninformatik an der Uni Tübingen.",
+        "vorwissen": "keines",
+        "weblinks": {},
+        "urlid": "janek-schoffit-webcrawling-mit-scrapy-und-postgresql-backend",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "16:35",
+        "timeend": "16:40"
+    },
+    {
+        "name": "Felix Bauer",
+        "titel": "Thunderstorm",
+        "buzzword": "Dateien, Internet, VM, Alpine, Container, Cloud, rclone, PGP, Keybase, Firefox",
+        "inhalt": "5 tolle Themen in nur 5 Minuten",
+        "aboutme": "",
+        "vorwissen": "kein Vorwissen erforderlich",
+        "weblinks": {
+            "1": {
+                "url": "https://www.mozilla.org/de/firefox/new/?redirect_source=firefox-com",
+                "title": "Firefox"
+            },
+            "2": {
+                "url": "https://keybase.io/",
+                "title": "Keybase"
+            },
+            "3": {
+                "url": "https://www.alpinelinux.org/",
+                "title": "AlpineLinux"
+            },
+            "4": {
+                "url": "https://rclone.org/",
+                "title": "rclone"
+            },
+            "5": {
+                "url": "https://truepolyglot.hackade.org/",
+                "title": "TruePolyglot"
+            }
+        },
+        "urlid": "felix-bauer-thunderstorm",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "16:45",
+        "timeend": "16:50"
+    },
+    {
+        "name": "Sebastian Niedworok",
+        "titel": "Open Source Ecology",
+        "buzzword": "Open Hardware, Landwirtschaft, Industriemaschinen, Global Village Construction Set",
+        "inhalt": "Open Source Ecology ist eine Bewegung, die es sich zum Ziel gemacht hat, Konstruktionspläne für die 50 wichtigsten Maschinen, die für ein modernes Leben notwendig sind zu entwickeln. Dieses \"Global Village Construction Set\" ist open source - jede*r kann mitmachen und die Pläne nutzen. Kollaboration soll die Effizienz steigern und Verschwendung verringern.",
+        "aboutme": "Softwareentwickler aus Tübingen. Ich bin selber nicht mit Open Source Ecology verbunden, finde das Thema aber interessant und will es deswegen vorstellen.",
+        "vorwissen": "Kein Vorwissen notwendig.",
+        "weblinks": {
+            "1": {
+                "url": "https://www.opensourceecology.org/",
+                "title": "OSE Home Page"
+            }
+        },
+        "urlid": "sebastian-niedworok-open-source-ecology",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "16:15",
+        "timeend": "16:20"
+    },
+    {
         "name": "Alexander Landstorfer",
         "titel": "Das Tübinger 80cm-Teleskop",
         "buzzword": "Teleskop",
@@ -1362,7 +1538,7 @@
         "vorwissen": "",
         "weblinks": {},
         "urlid": "alexander-landstorfer-das-tuebinger-80cm-teleskop",
-        "duration": 25,
+        "duration": 30,
         "room": "Observatorium",
         "timebegin": "12:00",
         "timeend": "12:30"
