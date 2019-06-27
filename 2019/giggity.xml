@@ -1220,6 +1220,27 @@ kein Vorwissen erforderlich
 </links>
 </event>
 
+<event id="sebastian-niedworok-open-source-ecology">
+<start>16:15</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>Open Source Ecology</title>
+<description>Open Source Ecology ist eine Bewegung, die es sich zum Ziel gemacht hat, Konstruktionspläne für die 50 wichtigsten Maschinen, die für ein modernes Leben notwendig sind zu entwickeln. Dieses "Global Village Construction Set" ist open source - jede*r kann mitmachen und die Pläne nutzen. Kollaboration soll die Effizienz steigern und Verschwendung verringern.
+
+#### Über mich
+
+Softwareentwickler aus Tübingen. Ich bin selber nicht mit Open Source Ecology verbunden, finde das Thema aber interessant und will es deswegen vorstellen.
+
+#### Vorwissen
+
+Kein Vorwissen notwendig.
+</description>
+<persons><person>Sebastian Niedworok</person></persons>
+<links>
+- <link href="https://www.opensourceecology.org/">OSE Home Page</link>
+</links>
+</event>
+
 </room>
 <room name="V4">
 <event id="uli-kleemann-ich-habe-doch-nichts-zu-verbergen">

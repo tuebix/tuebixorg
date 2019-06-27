@@ -1511,6 +1511,25 @@
         "timeend": "16:50"
     },
     {
+        "name": "Sebastian Niedworok",
+        "titel": "Open Source Ecology",
+        "buzzword": "Open Hardware, Landwirtschaft, Industriemaschinen, Global Village Construction Set",
+        "inhalt": "Open Source Ecology ist eine Bewegung, die es sich zum Ziel gemacht hat, Konstruktionspläne für die 50 wichtigsten Maschinen, die für ein modernes Leben notwendig sind zu entwickeln. Dieses \"Global Village Construction Set\" ist open source - jede*r kann mitmachen und die Pläne nutzen. Kollaboration soll die Effizienz steigern und Verschwendung verringern.",
+        "aboutme": "Softwareentwickler aus Tübingen. Ich bin selber nicht mit Open Source Ecology verbunden, finde das Thema aber interessant und will es deswegen vorstellen.",
+        "vorwissen": "Kein Vorwissen notwendig.",
+        "weblinks": {
+            "1": {
+                "url": "https://www.opensourceecology.org/",
+                "title": "OSE Home Page"
+            }
+        },
+        "urlid": "sebastian-niedworok-open-source-ecology",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "16:15",
+        "timeend": "16:20"
+    },
+    {
         "name": "Alexander Landstorfer",
         "titel": "Das Tübinger 80cm-Teleskop",
         "buzzword": "Teleskop",
