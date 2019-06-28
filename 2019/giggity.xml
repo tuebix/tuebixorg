@@ -6,7 +6,7 @@
 <start>2019-07-06</start>
 <end>2019-07-06</end>
 <days>1</days>
-<release>1.20190531.1112</release>
+<release>1.20190628.1441</release>
 <timeslot_duration>00:30</timeslot_duration>
 </conference>
 <day date="2019-07-06" index="1">
@@ -1310,7 +1310,7 @@ IT Consultant/Senior Solution Architect, vornehmlich im Dunstkreis CAE/HPC
 
 <event id="felix-bauer-peekabooav-der-weg-zu-version-2.0">
 <start>17:30</start>
-<duration>00:50</duration>
+<duration>00:20</duration>
 <room>V4</room>
 <title>PeekabooAV - der Weg zu Version 2.0</title>
 <description>Wir beschreiben den Weg zu PeekabooAV 2.0, wiederholen kurz alles und berichten dann von wichtigen Meilensteinen, interessanten Hintergründen und Plänen für die Zukunft.
