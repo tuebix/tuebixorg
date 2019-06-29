@@ -54,7 +54,7 @@ O 16:00 - 18:00 Kasse<br/>
 ## Gästebett (Fr/Sa und Sa/So)
 Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Dann melde dich bei uns und gib Bescheid, wieviele Übernachtungen Du ermöglichen könntest:
 
-O O O O O O O O O
+X X O O O O O O O
 
 ## Programmunterstützung (ganzer Tag, 2 Personen als Team)
 
