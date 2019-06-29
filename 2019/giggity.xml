@@ -6,7 +6,7 @@
 <start>2019-07-06</start>
 <end>2019-07-06</end>
 <days>1</days>
-<release>1.20190628.1441</release>
+<release>1.20190531.1112</release>
 <timeslot_duration>00:30</timeslot_duration>
 </conference>
 <day date="2019-07-06" index="1">
@@ -486,6 +486,16 @@ Kein Vorwissen erforderlich
 
 </room>
 <room name="V3">
+<event id="pantelis-birokas-auto-completion-functions">
+<start>15:40</start>
+<duration>00:05</duration>
+<room>V3</room>
+<title>auto_completion functions()</title>
+<description>Ein Weg schneller ans Ziel zu kommen.
+</description>
+<persons><person>Pantelis Birokas</person></persons>
+</event>
+
 <event id="matthias-beyer-imag-personal-information-management-for-the-commandline">
 <start>14:10</start>
 <duration>00:05</duration>

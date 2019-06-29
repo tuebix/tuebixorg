@@ -1,5 +1,18 @@
 [
     {
+        "name": "Pantelis Birokas",
+        "titel": "auto_completion functions()",
+        "inhalt": "Ein Weg schneller ans Ziel zu kommen.",
+        "aboutme": "",
+        "vorwissen": "",
+        "weblinks": {},
+        "urlid": "pantelis-birokas-auto-completion-functions",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "15:40",
+        "timeend": "15:45"
+    },
+    {
         "name": "Matthias Beyer",
         "titel": "imag - personal information management for the commandline",
         "buzzword": "rust, commandline, terminal, cli, pim, management, scripting, bash, shell",
