@@ -24,7 +24,7 @@ O O 19:00 - 20:00 Grillen<br/>
 ## Getränkeausgabe (je 1h, 2 Personen)
 
 X O 10:00 - 11:00 Getränkeausgabe <br/>
-O O 11:00 - 12:00 Getränkeausgabe <br/>
+X X 11:00 - 12:00 Getränkeausgabe <br/>
 O O 12:00 - 13:00 Getränkeausgabe <br/>
 O O 13:00 - 14:00 Getränkeausgabe <br/>
 X X 14:00 - 15:00 Getränkeausgabe <br/>
@@ -40,7 +40,7 @@ O O 20:00 - 21:00 Getränkeausgabe <br/>
 Bring einen Kuchen mit, der dann kostenfrei gegen 14:00 allen zur Verfügung steht.<br/>
 Wir können den Kuchen im Kühlwagen aufbewahren, bring dafür am besten eine Tortenhaube mit.
 
-X X X X X X X O O O O O O O O O
+X X X X X X X X O O O O O O O O
 
 <!-- TODO
 ## Kasse (je 2h, 1 Person)
@@ -54,7 +54,7 @@ O 16:00 - 18:00 Kasse<br/>
 ## Gästebett (Fr/Sa und Sa/So)
 Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Dann melde dich bei uns und gib Bescheid, wieviele Übernachtungen Du ermöglichen könntest:
 
-X X O O O O O O O
+X X X O O O O O O
 
 ## Programmunterstützung (ganzer Tag, 2 Personen als Team)
 
