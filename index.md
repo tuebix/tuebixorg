@@ -16,6 +16,7 @@ Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="d
   <li>Der Tübix 2019 findet am Samstag, 6. Juli 2019 statt.</li>
   <li>Der <a href="callforhelpers/">Call for Helpers</a> ist nun eröffnet.</li>
   <li>Das <a href="2019/programm/">Programm für 2019</a> ist nun veröffentlicht und auch über <a href="https://f-droid.org/repository/browse/?fdid=net.gaast.giggity" target="_blank"><img height="25" src="images/giggity.png" alt="giggity-Logo" title="giggity-Logo" />Giggity</a> verfügbar.</li>
+  <li>Das <a href="2019/programm_rahmen/">Rahmenprogramm inkl. Auftakt</a> steht nun fest.</li>
 </ul>
 
 <br/>

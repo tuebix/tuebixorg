@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rahmenprogramm (WIP)
+title: Rahmenprogramm
 permalink: /2019/programm_rahmen/
 weight:
 menu:
