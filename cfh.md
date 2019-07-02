@@ -40,7 +40,7 @@ O O 20:00 - 21:00 Getränkeausgabe <br/>
 Bring einen Kuchen mit, der dann kostenfrei gegen 14:00 allen zur Verfügung steht.<br/>
 Wir können den Kuchen im Kühlwagen aufbewahren, bring dafür am besten eine Tortenhaube mit.
 
-X X X X X X X X O O O O O O O O
+X X X X X X X X X O O O O O O O
 
 <!-- TODO
 ## Kasse (je 2h, 1 Person)
