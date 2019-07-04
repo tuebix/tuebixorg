@@ -23,7 +23,7 @@ O O 19:00 - 20:00 Grillen<br/>
 
 ## Getränkeausgabe (je 1h, 2 Personen)
 
-X O 10:00 - 11:00 Getränkeausgabe <br/>
+X X 10:00 - 11:00 Getränkeausgabe <br/>
 X X 11:00 - 12:00 Getränkeausgabe <br/>
 X X 12:00 - 13:00 Getränkeausgabe <br/>
 X O 13:00 - 14:00 Getränkeausgabe <br/>
