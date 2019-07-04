@@ -121,5 +121,6 @@ menu: main
 <tr><td>10:00</td><td></td><td></td><td><a class="work"></a></td><td><a href="../../kinder">Kinderprogramm Mini-FrogLabs</a></td><td>Teckids e.V.</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Garten</td></tr>
+<tr><td>17:00</td><td>bis</td><td>17:30</td><td><a class="talk"></a></td><td><a href="../programm/matthias-windrich-imkern-als-hobby">Imkern&nbsp;als&nbsp;Hobby</a></td><td>Matthias&nbsp;Windrich</td></tr>
 <tr><td>19:00</td><td>bis</td><td>19:30</td><td><a class="talk"></a></td><td><a href="../programm/matthias-windrich-imkern-als-hobby">Imkern&nbsp;als&nbsp;Hobby</a></td><td>Matthias&nbsp;Windrich</td></tr>
 </table>

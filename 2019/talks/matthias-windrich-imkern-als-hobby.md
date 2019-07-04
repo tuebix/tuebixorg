@@ -7,6 +7,8 @@ menu:
 ---
 ## Imkern als Hobby
 
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:30 in Raum Garten
+
 ### <img height = "32" src="../../../images/talk.svg"> 19:00 bis 19:30 in Raum Garten
 
 ### Matthias Windrich

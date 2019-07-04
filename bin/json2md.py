@@ -48,7 +48,8 @@ visited_rooms = []
 for talk in data:
     # TODO: Ignore these pages for now:
     ignored_urlids = [
-            "alexander-landstorfer-das-tuebinger-80cm-teleskop"
+            "alexander-landstorfer-das-tuebinger-80cm-teleskop",
+            "matthias-windrich-imkern-als-hobby"
     ]
     if talk["urlid"] in ignored_urlids:
         continue
