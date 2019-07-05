@@ -26,14 +26,14 @@ O O 19:00 - 20:00 Grillen<br/>
 X X 10:00 - 11:00 Getränkeausgabe <br/>
 X X 11:00 - 12:00 Getränkeausgabe <br/>
 X X 12:00 - 13:00 Getränkeausgabe <br/>
-X O 13:00 - 14:00 Getränkeausgabe <br/>
+X X 13:00 - 14:00 Getränkeausgabe <br/>
 X X 14:00 - 15:00 Getränkeausgabe <br/>
 X O 15:00 - 16:00 Getränkeausgabe <br/>
 X X 16:00 - 17:00 Getränkeausgabe <br/>
 X O 17:00 - 18:00 Getränkeausgabe <br/>
-O O 18:00 - 19:00 Getränkeausgabe <br/>
-O O 19:00 - 20:00 Getränkeausgabe <br/>
-O O 20:00 - 21:00 Getränkeausgabe <br/>
+X O 18:00 - 19:00 Getränkeausgabe <br/>
+X O 19:00 - 20:00 Getränkeausgabe <br/>
+X O 20:00 - 21:00 Getränkeausgabe <br/>
 
 ## Kuchen mitbringen
 
@@ -65,8 +65,8 @@ Wir nehmen pro Raum 2 Personen in die Liste und diese können sich dann absprech
 Sehr gerne kann man sich auch direkt als Gruppe für einen Raum anmelden und sich dann untereinander organisieren.
 
 X X Raumsupport V1<br/>
-O O Raumsupport V2<br/>
-O O Raumsupport V3<br/>
+X X Raumsupport V2<br/>
+X O Raumsupport V3<br/>
 O O Raumsupport V4<br/>
 <br/>
 O Raumsupport W1<br/>
