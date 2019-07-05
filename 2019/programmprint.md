@@ -6,8 +6,6 @@ weight:
 menu: 
 ---
 
-* <span style="font-weight: bold;">Programm</span>
-
 <table>
 <tr><td></td><td></td><td></td><td></td><td>Raum W1</td></tr>
 <tr><td>10:00</td><td>bis</td><td>11:50</td><td><a class="work"></a></td><td><a href="../programm/philipp-kammerer-einstieg-in-nonlinearen-videoschnitt-mit-kdenlive">Einstieg&nbsp;in&nbsp;nonlinearen&nbsp;Videoschnitt&nbsp;mit&nbsp;kdenlive</a></td><td>Philipp&nbsp;Kammerer</td></tr>
