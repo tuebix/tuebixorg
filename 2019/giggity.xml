@@ -6,7 +6,7 @@
 <start>2019-07-06</start>
 <end>2019-07-06</end>
 <days>1</days>
-<release>1.20190705.2235</release>
+<release>1.20190531.1112</release>
 <timeslot_duration>00:30</timeslot_duration>
 </conference>
 <day date="2019-07-06" index="1">
@@ -375,6 +375,7 @@ Ein paar Grundkenntnisse über Linux, SSH, X Window System sollte man mitbringen
 - <link href="https://wiki.x2go.org/doku.php">X2Go Startseite (englisch)</link>
 - <link href="https://wiki.x2go.org/doku.php/doc:newtox2go">Einführung in X2Go (englisch)</link>
 - <link href="https://console.cloud.google.com/home/dashboard">Google Cloud Platform Dashboard</link>
+- <link href="https://drive.google.com/drive/folders/11nzi7JuYe1luZH2i24vuYEAHl56PdxPe">Alle X2Go-TÜBIX-2019-Folien und -Handouts zum Download</link>
 </links>
 </event>
 

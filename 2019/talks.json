@@ -573,6 +573,10 @@
             "3": {
                 "url": "https://console.cloud.google.com/home/dashboard",
                 "title": "Google Cloud Platform Dashboard"
+            },
+            "4": {
+                "url": "https://drive.google.com/drive/folders/11nzi7JuYe1luZH2i24vuYEAHl56PdxPe",
+                "title": "Alle X2Go-TÜBIX-2019-Folien und -Handouts zum Download"
             }
         },
         "urlid": "stefan-baur-x2go-in-der-google-cloud-kostenlos-und-oder-anonym-wie-geht-das",

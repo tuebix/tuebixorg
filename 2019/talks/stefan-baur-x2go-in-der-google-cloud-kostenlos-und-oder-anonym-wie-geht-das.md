@@ -28,3 +28,4 @@ Stefan Baur, Jahrgang 1977, ist der aktuelle Projektmanager und Lead Evangelist 
 - <a href="https://wiki.x2go.org/doku.php" target="_blank">X2Go Startseite (englisch)</a>
 - <a href="https://wiki.x2go.org/doku.php/doc:newtox2go" target="_blank">Einführung in X2Go (englisch)</a>
 - <a href="https://console.cloud.google.com/home/dashboard" target="_blank">Google Cloud Platform Dashboard</a>
+- <a href="https://drive.google.com/drive/folders/11nzi7JuYe1luZH2i24vuYEAHl56PdxPe" target="_blank">Alle X2Go-TÜBIX-2019-Folien und -Handouts zum Download</a>
