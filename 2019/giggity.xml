@@ -6,7 +6,7 @@
 <start>2019-07-06</start>
 <end>2019-07-06</end>
 <days>1</days>
-<release>1.20190531.1112</release>
+<release>1.20190705.2235</release>
 <timeslot_duration>00:30</timeslot_duration>
 </conference>
 <day date="2019-07-06" index="1">
@@ -486,14 +486,22 @@ Kein Vorwissen erforderlich
 
 </room>
 <room name="V3">
-<event id="pantelis-birokas-auto-completion-functions">
+<event id="andreas-grupp-verwendung-der-nextcloud-ocs-api">
 <start>15:40</start>
 <duration>00:05</duration>
 <room>V3</room>
-<title>auto_completion functions()</title>
-<description>Ein Weg schneller ans Ziel zu kommen.
+<title>Verwendung der Nextcloud OCS API</title>
+<description>Zur Administration einer Nextcloud kann vom Systemverwalter die zugehörige Weboberfläche verwendet werden. Bei einer größeren Useranzahl und / oder öfters wiederkehrender Standardtätigkeiten, wünscht man sich schnell eine Scripting-Möglichkeit. Dafür kann z.B. die OCS API von Nextcloud verwendet werden. Der Talk soll einen Einstieg in das Verständnis der API-Beschreibung, sowie in die praktisch Umsetzung in einem Skript darstellen.
+
+#### Vorwissen
+
+Es werden für den Talk selbst keine speziellen Vorkenntnisse erwartet. Für eine spätere Anwendung der gezeigten Möglichkeiten und Inhalte sind aber eine eigene Nextcloud-Instanz sowie Kenntnisse in Scripting / Programmierung erforderlich.
 </description>
-<persons><person>Pantelis Birokas</person></persons>
+<persons><person>Andreas Grupp</person></persons>
+<links>
+- <link href="https://docs.nextcloud.com/server/16/admin_manual/configuration_user/user_provisioning_api.html">Nextcloud User provisioning API</link>
+- <link href="https://de.wikipedia.org/wiki/Open_Collaboration_Services">Open Collaboration Services</link>
+</links>
 </event>
 
 <event id="matthias-beyer-imag-personal-information-management-for-the-commandline">
