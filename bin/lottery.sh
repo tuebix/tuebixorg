@@ -46,6 +46,12 @@ while [[ $number_of_winners -lt $(($ROWS*$COLUMNS)) ]]; do
     row=`shuf --input-range=1-$ROWS --head-count=1`
     seat=`shuf --input-range=1-$COLUMNS --head-count=1`
     id=$(($row*$COLUMNS + $seat))
+    if [[ $row -eq 5 && $seat -gt 3 ]]; then
+      continue # TODO: Only for 2019 (reserved seats)
+    fi
+    if [[ $row -eq 6 && $seat -gt 3 ]]; then
+      continue # TODO: Only for 2019 (reserved seats)
+    fi
     if [[ ! -v winners[$id] ]]; then
       winners[$id]=1
       break
