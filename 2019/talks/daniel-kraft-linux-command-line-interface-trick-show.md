@@ -35,3 +35,4 @@ AMP.
 
 Für die tägliche Arbeit verwendet er immer GNU/Linux, vor allem zsh und vim und gelegentlich Office-Software. Er entwickelt vorzugsweise in Python mit PostgreSQL.
 
+<script id="asciicast-YfrqRScf3yJGb2Fkz2SiXAVaf" src="https://asciinema.org/a/YfrqRScf3yJGb2Fkz2SiXAVaf.js" async></script>
