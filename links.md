@@ -6,7 +6,7 @@ weight:
 menu:
 ---
 
-* <a href="http://tuebingen.linux.de" target="_blank">LUGT / Linux User Group Tübingen</a>
+* <a href="https://www.lug-tuebingen.de" target="_blank">LUGT / Linux User Group Tübingen</a>
 * <a href="http://www.lug-reutlingen.de" target="_blank">Linux User Group Reutlingen</a>
 * <a href="http://www.listig.org" target="_blank">LISTIG / Linux Stammtisch im Gäu (Herrenberg)</a>
 * <a href="http://www.lisas.de" target="_blank">LUGES / Linux User Group Esslingen</a>
