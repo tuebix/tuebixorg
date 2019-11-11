@@ -42,4 +42,4 @@ menu: main
 - Alles:      <a href="https://github.com/tuebix/tuebix-downloads-2015/archive/master.zip">https://github.com/tuebix/tuebix-downloads-2015/archive/master.zip (ca. 1.0 GiB)</a>
 
 Der Tübix ist keineswegs der "1. Tübinger Linuxtag"...<br/>
-Mehr dazu unter  <a href="http://tuebingen.linux.de/old/" target="_blank">tuebingen.linux.de/old/</a>
+Mehr dazu unter  <a href="https://www.lug-tuebingen.de/old/" target="_blank">https://www.lug-tuebingen.de/old</a>
