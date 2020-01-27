@@ -6,16 +6,18 @@ weight:
 menu:
 ---
 
-# Organisationsteam Tübix 2019
+# Organisationsteam Tübix 2020
 
 * Matthias Beyer
-* Christian Brauner
 * Holger Gantikow
-* Florian Heimgärtner
 * Gabriel Paradzik
 * Roman Schulte
 * Tobias Stumpp
 * Michael Weiss
+* Lukas Oertel
+* Malte Hermann
+* Lukas Osswald
+* Robin Bertram
 
 # Ehemalige Organisatoren
 
@@ -29,6 +31,8 @@ menu:
 * Matthias Reisenauer
 * Joachim Schiele
 * Gunnar Schmidt
+* Florian Heimgärtner
+* Christian Brauner
 
 # Technische Umsetzung dieser Webseite
 <a href="http://jekyllrb.com/" target="_blank">jekyll</a> und <a href="https://pages.github.com" target="_blank">github pages</a>
