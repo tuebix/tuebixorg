@@ -168,8 +168,8 @@ Some knowledge around process management and process identifiers (PIDs) and file
 <links>
 - <link href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=a9dce6679d736cb3d612af39bab9f31f8db66f9b">pidfd_send_signal syscall</link>
 - <link href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=eac7078a0fff1e72cf2b641721e3f55ec7e5e21e">CLONE_PIDFD flag for clone syscall</link>
-- <link href="https://git.kernel.org/pub/scm/linux/kernel/git/brauner/linux.git/commit/?h=for-next&#x26;id=ff33a1edabd2635eecc4abb4c6d615f27bca7d6e">Making pidfds pollable</link>
-- <link href="https://git.kernel.org/pub/scm/linux/kernel/git/brauner/linux.git/commit/?h=for-next&#x26;id=1330da983951360992f32cb5f83c9fd843c5cb68">pidfd_open() syscall</link>
+- <link href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=b53b0b9d9a613c418057f6cb921c2f40a6f78c24">Making pidfds pollable</link>
+- <link href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=32fcb426ec001cb6d5a4a195091a8486ea77e2df">pidfd_open() syscall</link>
 </links>
 </event>
 

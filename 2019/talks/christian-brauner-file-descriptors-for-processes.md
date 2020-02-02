@@ -27,5 +27,5 @@ Christian Brauner is a kernel engineer and core developer and maintainer of the 
 
 - <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=a9dce6679d736cb3d612af39bab9f31f8db66f9b" target="_blank">pidfd_send_signal syscall</a>
 - <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=eac7078a0fff1e72cf2b641721e3f55ec7e5e21e" target="_blank">CLONE_PIDFD flag for clone syscall</a>
-- <a href="https://git.kernel.org/pub/scm/linux/kernel/git/brauner/linux.git/commit/?h=for-next&id=ff33a1edabd2635eecc4abb4c6d615f27bca7d6e" target="_blank">Making pidfds pollable</a>
-- <a href="https://git.kernel.org/pub/scm/linux/kernel/git/brauner/linux.git/commit/?h=for-next&id=1330da983951360992f32cb5f83c9fd843c5cb68" target="_blank">pidfd_open() syscall</a>
+- <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=b53b0b9d9a613c418057f6cb921c2f40a6f78c24" target="_blank">Making pidfds pollable</a>
+- <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=32fcb426ec001cb6d5a4a195091a8486ea77e2df" target="_blank">pidfd_open() syscall</a>
