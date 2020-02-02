@@ -8,22 +8,28 @@ menu:
 
 # Organisationsteam Tübix 2020
 
+<!-- Ordered alphabetically by the surname: -->
+
+* Robin Bertram
 * Matthias Beyer
 * Holger Gantikow
+* Malte Hermann
+* Lukas Oertel
+* Lukas Osswald
 * Gabriel Paradzik
 * Roman Schulte
 * Tobias Stumpp
 * Michael Weiss
-* Lukas Oertel
-* Malte Hermann
-* Lukas Osswald
-* Robin Bertram
 
 # Ehemalige Organisatoren
 
+<!-- Ordered alphabetically by the surname: -->
+
 * Felix Bauer
 * Jonas Benn
+* Christian Brauner
 * Knut Franke
+* Florian Heimgärtner
 * Jan-Peter Hohloch
 * Justin Humm
 * Eva Charlotte Mayer
@@ -31,8 +37,6 @@ menu:
 * Matthias Reisenauer
 * Joachim Schiele
 * Gunnar Schmidt
-* Florian Heimgärtner
-* Christian Brauner
 
 # Technische Umsetzung dieser Webseite
 <a href="http://jekyllrb.com/" target="_blank">jekyll</a> und <a href="https://pages.github.com" target="_blank">github pages</a>
