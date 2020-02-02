@@ -47,7 +47,7 @@ Die Prüfung wird in Papierform durchgeführt. Das Ergebnis kommt nach Korrektur
 ## Vorbereitung
 
 Die Prüfungsteilnehmer benötigen eine gültige LPI-ID und ein Ausweisdokument mit Lichtbild (Personalausweis). Wer noch keine LPI-ID hat, kann diese mit der Anmeldung unter <a href="https://cs.lpi.org/caf/Xamman/register" target="_blank">https://cs.lpi.org/caf/Xamman/register </a> erzeugen.
-Bitte arbeiten Sie erst die Prüfungsinhalte sorgfältig durch, bevor Sie die Prüfung ablegen: <a href="https://www.lpice.eu/de/unsere-zertifizierungen/" target="_blank">https://www.lpice.eu/de/unsere-zertifizierungen/</a>
+Bitte arbeiten Sie erst die Prüfungsinhalte sorgfältig durch, bevor Sie die Prüfung ablegen: <a href="https://www.lpice.eu/de/unsere-zertifizierungen" target="_blank">https://www.lpice.eu/de/unsere-zertifizierungen</a>
 
 ## Zur Erinnerung:
 
@@ -89,7 +89,7 @@ Aufgrund der begrenzten Anzahl verfügbarer Plätze für die LPI-Prüfungen empf
 
 Details zu den Prüfungsversionen und den Inhalten sind unter den folgenden URLs nachzulesen:
 
- *  <a href="https://www.lpice.eu/de/unsere-zertifizierungen.html" target="_blank">lpice.eu/de/unsere-zertifizierungen.html</a>
+ *  <a href="https://www.lpice.eu/de/unsere-zertifizierungen" target="_blank">www.lpice.eu/de/unsere-zertifizierungen</a>
  *  <a href="https://www.lpi.org/our-certifications/summary-of-certifications" target="_blank">lpi.org/our-certifications/summary-of-certifications</a>
 
 Für weitere Fragen zu den LPI Prüfungen bitte per E-Mail direkt an das LPI wenden: <a href="mailto:lpievent@lpice.eu">event@lpice.eu</a>
