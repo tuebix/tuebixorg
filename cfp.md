@@ -27,4 +27,4 @@ Toll! Dann fülle rasch die Anmeldung aus!
   <a href="https://cfp.tuebix.org" target="_blank">Zur Anmeldung</a>
 </div>
 
-<p style="text-align: right;"><a href="http://www.flaticon.com" target="_blank">Bildquelle: flaticon.com</a></p>
+<p style="text-align: right;"><a href="https://www.flaticon.com" target="_blank">Bildquelle: flaticon.com</a></p>

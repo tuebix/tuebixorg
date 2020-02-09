@@ -66,7 +66,7 @@ Weiterführende Informationen finden Sie auf den Webseiten des Linux Professiona
 
 # Zertifiziertes Wissen
 
-Zertifikate belegen Fachwissen - Sie dokumentieren Qualifikation und Know-how vor Arbeitgebern oder Kunden und verbessern die Ein- und Aufstiegschancen. Das <a href="http://www.lpice.eu/de/home.html" target="_blank">Linux Professional Institute (LPI)</a> ist Zertifizierungspartner des Tübinger Linuxtags. Die Besucher können deshalb LPI Prüfungen zu stark vergünstigten Konditionen ablegen.
+Zertifikate belegen Fachwissen - Sie dokumentieren Qualifikation und Know-how vor Arbeitgebern oder Kunden und verbessern die Ein- und Aufstiegschancen. Das <a href="https://www.lpice.eu/de/home.html" target="_blank">Linux Professional Institute (LPI)</a> ist Zertifizierungspartner des Tübinger Linuxtags. Die Besucher können deshalb LPI Prüfungen zu stark vergünstigten Konditionen ablegen.
 
 ![LPI-Essentials](../images/linuxessentials.png "LPI-Essentials-Logo")
 ![LPIC-1-Logo](../images/lpic1.png "LPIC-1-Logo")

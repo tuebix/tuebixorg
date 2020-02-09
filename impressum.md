@@ -39,7 +39,7 @@ menu:
 * Gunnar Schmidt
 
 # Technische Umsetzung dieser Webseite
-<a href="http://jekyllrb.com/" target="_blank">jekyll</a> und <a href="https://pages.github.com" target="_blank">github pages</a>
+<a href="https://jekyllrb.com/" target="_blank">jekyll</a> und <a href="https://pages.github.com" target="_blank">github pages</a>
 
 # Ansprechpartner für diese Webseite<br />
 Roman Schulte<br />

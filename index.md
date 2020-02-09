@@ -5,9 +5,9 @@ layout: default
 
 
 Der Tübix ist ein
-<a href="http://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a>
+<a href="https://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a>
 und fand 2015-2018 jeweils im Juni in
-<a href="http://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a>
+<a href="https://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a>
 statt.<br/>
 Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 

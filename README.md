@@ -17,7 +17,7 @@ to `info@tuebix.org`.
 
 in order to contribute you'll need ruby and 'jekyll' installed:
 follow this guide:
-http://jekyllrb.com/
+https://jekyllrb.com/
 as soon as 'jekyll serve' works, you should be fine
 
 ### clone tuebixorg
@@ -35,4 +35,4 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 ### jekyll with github-pages
 
 connection with github was set up along this guide:
-http://24ways.org/2013/get-started-with-github-pages/
+https://24ways.org/2013/get-started-with-github-pages/
