@@ -11,10 +11,7 @@ und fand 2015-2018 jeweils im Juni in
 statt.<br/>
 Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 
-<div style="font-weight: bold; color: red;">
-  Wichtig: Wir freuen uns über jegliches Feedback in folgendem Pad:<br/>
-  <a href="https://pad.fsi.uni-tuebingen.de/tuebix-2019-feedback?both" target="_blank">https://pad.fsi.uni-tuebingen.de/tuebix-2019-feedback?both</a>
-</div>
+<b>News:</b> Der Tübix 2020 findet am Samstag, dem 20. Juni 2020 statt.
 
 <br/>
 ![Tux](images/tux.png "Tux")
