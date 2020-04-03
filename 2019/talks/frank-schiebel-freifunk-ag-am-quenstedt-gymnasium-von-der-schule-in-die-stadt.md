@@ -28,4 +28,4 @@ Ich bin Lehrer für Mathe. Physik, Informatik und NWT am Quenstedt Gymnasium in 
 
 - <a href="https://www.moessingen.de/W-LAN" target="_blank">Wlan in Mössingen (Städtische Homepage)</a>
 - <a href="https://freifunk-moessingen.de/" target="_blank">Freifunk Mössingen (HP der AG)</a>
-- <a href="http://www.xn--brgerstiftung-mssingen-8hc3k.de/2018/07/04/jugendpreis-der-buergestiftung-moessingen-2018/" target="_blank">Die Freifunk AG gewinnt der Jugendpreis der Bürgerstiftung</a>
+- <a href="https://www.buergerstiftung-moessingen.de/jugendpreis-der-buergestiftung-moessingen-2018/" target="_blank">Die Freifunk AG gewinnt der Jugendpreis der Bürgerstiftung</a>
