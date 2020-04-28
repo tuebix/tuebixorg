@@ -1,5 +1,12 @@
 <head>
   <meta charset="utf-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src https://asciinema.org; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://www.teckids.org; frame-src 'self' https://www.openstreetmap.org https://asciinema.org; object-src 'self'; plugin-types application/pdf; form-action 'none'">
+  <!-- CSP documentation:
+    - Embedded asciinema (multiple pages): Requires script+frame
+    - Embedded OpenStreetMap (anfahrt.md): Requires img+frame (img via data:)
+    - lageplan.md: Requires object (application/pdf)
+    - kinder.md: Requires img
+  -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
