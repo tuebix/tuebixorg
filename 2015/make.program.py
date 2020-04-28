@@ -2,8 +2,8 @@
 
 import json
 
-#with open("program.json") as f:    
-with open("program_public.json") as f:    
+#with open("program.json") as f:
+with open("public_program.json") as f:
     data = json.load(f)
 f.closed
 
@@ -61,7 +61,7 @@ with open("programm.md", 'a') as programm,  open("programm2.md", 'a') as program
         programm2.write("<tr><td>" + beginn + "</td><td>"+ icon + "</td><td><a href=\"../programm/" + ident + "\">" + titel + "</a></td><td>" + name + "</td></tr>\n")
         programm3.write("<td>" + icon + "</td><td><a href=\"../programm/" + ident + "\">" + ident + "</a></td>\n")
 
-        with open("_talks/" + ident + ".md", 'a') as talk:
+        with open("talks/" + ident + ".md", 'a') as talk:
             talk.write("---\nlayout: talk\ntitle:\npermalink: /programm/" + ident + "/\nweight: \nmenu:\n---\n")
 
             try:
