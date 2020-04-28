@@ -3,7 +3,7 @@ layout: page
 title: Helfer
 permalink: /callforhelpers/
 weight: 9
-menu: main
+menu:
 ---
 
 Pinguine sind Herdentiere und helfen einander. Das heißt: Ohne Dich geht es nicht! Aber zum Glück hast Du viele Möglichkeiten, den Tübix mitzugestalten. Wenn Du Lust hast, mit ein paar anderen netten Helfern ein paar Stunden anzupacken, übernimm doch eine Schicht im Catering. Bist Du ein Organisationstalent? Dann können wir dich in der Programmunterstützung gebrauchen. Und falls Du an deinem Tübix keine Lücke für eine Helferschicht hast, kannst Du zum guten Gelingen des Tages vielleicht dadurch beisteuern, dass Du einem Besucher von außerhalb ein Bett zur Verfügung stellst.

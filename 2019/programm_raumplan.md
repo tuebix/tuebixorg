@@ -3,7 +3,7 @@ layout: page
 title: Programm
 permalink: /2019/programm/
 weight: 5
-menu: main
+menu:
 ---
 
 * <span style="font-weight: bold;">Programm</span>
