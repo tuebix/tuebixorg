@@ -25,7 +25,7 @@ Wir werden den Auftakt im <a href="http://www.openstreetmap.org/node/31271991" t
 Treffpunkt: um 18:00 VOR der Eingangstür bei den Fahrrädern.<br/>
 Wer später nachkommt, muss uns eben suchen.<br/>
 
-Bitte im Pad eintragen, wenn du vorhast zu kommen: <a href="https://yourpart.eu/p/tuebix.2018.auftakt.freitag.abend" target="_blank">Auftakt-Pad</a>
+Bitte im Pad eintragen, wenn du vorhast zu kommen.
 
 ### Samstag Abend: Ausklang
 

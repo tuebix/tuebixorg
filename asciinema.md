@@ -6,7 +6,7 @@ weight:
 menu:
 ---
 
-<script type="text/javascript" src="https://asciinema.org/a/113463.js" id="asciicast-113463" async></script>
+<script type="text/javascript" src="https://asciinema.org/a/335480.js" id="asciicast-335480" async></script>
 
 Der Vorteil hierbei ist, dass die Dateien im Vergleich zu Videos sehr klein sind und die Kommandos abkopiert (statt abgetippt) werden können.
 
