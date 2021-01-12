@@ -20,7 +20,11 @@ Wir freuen uns sehr, dass seit dem Tübix 2016 die <a href="https://www.teckids.
 </div>
 
 
+
+
 <a href="https://www.teckids.org/de/neuigkeiten/2017/07/03/bericht-von-den-mini-froglabs-beim-tubix-2017" target="_blank">Rückblick 2017</a>
+<br />
+<a href="https://www.teckids.org/de/neuigkeiten/2019/07/09/froglabs-tuebix-2019/" target="_blank">Rückblick 2019</a>
 
 ![FrogLabs-Logo](https://www.teckids.org/pics/projs/froglabs/2013/froscon/froglabs_pixelart.png "FrogLabs-Logo")
 
