@@ -12,9 +12,8 @@ statt.<br/>
 Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 
 **News:**
-- Der Tübix 2020 <u>fällt leider aus</u>
-  ([Announcement](https://www.fsi.uni-tuebingen.de/pipermail/tuebix-news/2020/000017.html)).
-- Die <b>Videos</b> vom Tübix 2019 sind nun online:
+- Der Tübix 2021 <u>fällt leider aus</u>.
+- Die <b>Videos</b> vom Tübix 2019 sind online:
   [TIMMS Link](https://timms.uni-tuebingen.de/List/List?id=UT_2019_________tuebix_____&Headline=T%C3%BCbix%202019)
 
 <br/>
