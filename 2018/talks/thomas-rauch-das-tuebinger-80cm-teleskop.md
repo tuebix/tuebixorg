@@ -33,4 +33,4 @@ Treffpunkt ist ebenfalls der Infostand.
 
 ### Links
 
-- <a href="http://www.physik.uni-tuebingen.de/institute/astronomie-astrophysik/institut/astronomie/observatorium.html" target="_blank">www.physik.uni-tuebingen.de/institute/astronomie-astrophysik/institut/astronomie/observatorium.html</a>
+- <a href="https://uni-tuebingen.de/de/4927" target="_blank">Das Tübinger 80-cm-Teleskop</a>
