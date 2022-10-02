@@ -12,7 +12,7 @@ statt.<br/>
 Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 
 **News:**
-- Der Tübix 2021 <u>fällt leider aus</u>.
+- Der Tübix 2022 <u>fällt leider aus</u>.
 - Die <b>Videos</b> vom Tübix 2019 sind online:
   [TIMMS Link](https://timms.uni-tuebingen.de/List/List?id=UT_2019_________tuebix_____&Headline=T%C3%BCbix%202019)
 
