@@ -2,8 +2,8 @@
 layout: page
 title: Links
 permalink: /links/
-weight:
-menu:
+weight: 1000
+menu: main
 ---
 
 # In Tübingen
