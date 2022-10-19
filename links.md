@@ -9,12 +9,12 @@ menu:
 # In Tübingen
 
 * <a href="https://www.lug-tuebingen.de" target="_blank">LUGT / Linux User Group Tübingen</a>
+* <a href="https://www.linux-ag.uni-tuebingen.de/" target="_blank">Linux-AG (Uni Tübingen)</a>
 * <a href="https://xn--chaostreff-tbingen-x6b.de/doku.php?id=start" target="_blank">Chaostreff Tübingen</a>
 * <a href="https://www.cryptoparty-tuebingen.de" target="_blank">Cryptoparty Tübingen</a>
 * <a href="https://www.cryptoparty.in/tuebingen" target="_blank">cryptoparty.in/tuebingen</a>
 * <a href="https://www.fablab-neckar-alb.org" target="_blank">FabLab Neckar-Alb e.V.</a>
 * <a href="https://www.fsi.uni-tuebingen.de" target="_blank">FSI / Fachschaft Informatik Uni Tübingen</a>
-* <a href="https://moodle02.zdv.uni-tuebingen.de/course/view.php?id=995" target="_blank">leider nur mit ZDV-Account erreichbar: Unix AG Uni Tübingen </a>
 
 # Linux User Groups (LUGs) und sonstiges in der Umgebung
 
@@ -32,6 +32,8 @@ Inaktiv:
 * <a href="https://groups.google.com/forum/#!forum/chaos-curry-tubingen" target="_blank">Chaostreff "Chaos-Curry" Tübingen (Google group)</a>
 * <a href="http://www.linuxmuster.net" target="_blank">linuxmuster.net e.V.</a>
 * <a href="https://www.fsi.uni-tuebingen.de/mailman/listinfo/crypto" target="_blank">AK Cryptoparty (auf dem Sand)</a>
+Veraltet:
+* <a href="https://moodle02.zdv.uni-tuebingen.de/course/view.php?id=995" target="_blank">leider nur mit ZDV-Account erreichbar: Unix AG Uni Tübingen </a>
 -->
 
 Du weißt einen Link, der hier gut dazupasst oder du hast einen Fehler gefunden?<br />
@@ -57,5 +59,6 @@ Dann schreib bitte an [{{ site.email }}](mailto:{{ site.email }})
 * <a href="http://www.lug-reutlingen.de/de-V.pl/Links" target="_blank">LUG Reutlingen</a>
 * <a href="http://www.lugv.at/tuebix-sucht-beitraege" target="_blank">LUG Voralberg</a>
 * <a href="http://tuebingen.linux.de/" target="_blank">LUG Tübingen</a>
+* https://www.linux-ag.uni-tuebingen.de/links
 
 -->
