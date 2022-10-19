@@ -9,6 +9,7 @@ menu:
 # In Tübingen
 
 * <a href="https://www.lug-tuebingen.de" target="_blank">LUGT / Linux User Group Tübingen</a>
+* <a href="https://xn--chaostreff-tbingen-x6b.de/doku.php?id=start" target="_blank">Chaostreff Tübingen</a>
 * <a href="https://www.cryptoparty-tuebingen.de" target="_blank">Cryptoparty Tübingen</a>
 * <a href="https://www.cryptoparty.in/tuebingen" target="_blank">cryptoparty.in/tuebingen</a>
 * <a href="https://www.fablab-neckar-alb.org" target="_blank">FabLab Neckar-Alb e.V.</a>
