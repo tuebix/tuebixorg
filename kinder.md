@@ -3,7 +3,7 @@ layout: page
 title: Kinder
 permalink: /kinder/
 weight: 30
-menu: main
+menu:
 ---
 
 # Kinderprogramm "Mini-FrogLabs"
@@ -14,6 +14,8 @@ Wir freuen uns sehr, dass seit dem Tübix 2016 die <a href="https://www.teckids.
 <span style="font-weight: bold;">Für eine Teilnahme ist die vorherige Anmeldung unbedingt notwendig. Eine spontane Teilnahme am Tag selbst ist leider dieses Jahr nicht möglich!</span>
 
 **Update: Weitere Anmeldungen sind leider nicht mehr möglich.**
+
+<!-- All of these links are currently dead (GitLab Pages, HTTP 404, The page you're looking for could not be found.):
 
 <div style="text-align: center; font-size: 250%; text-decoration: underline;">
   <a href="https://www.teckids.org/de/veranstaltungen/nachste-veranstaltungen/event/project-froglabs-2019-tuebix" target="_blank">Weitere Details</a>
@@ -29,6 +31,8 @@ Wir freuen uns sehr, dass seit dem Tübix 2016 die <a href="https://www.teckids.
 ![FrogLabs-Logo](https://www.teckids.org/pics/projs/froglabs/2013/froscon/froglabs_pixelart.png "FrogLabs-Logo")
 
 <br/>
+
+-->
 
 <!--
 <a href="../2016/downloads/teckids.mini.froglabs.tuebix.2016.pdf" target="_blank">
