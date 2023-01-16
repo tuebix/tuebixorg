@@ -14,6 +14,7 @@ menu: main
 * <a href="https://www.cryptoparty-tuebingen.de" target="_blank">Cryptoparty Tübingen</a>
 * <a href="https://www.cryptoparty.in/tuebingen" target="_blank">cryptoparty.in/tuebingen</a>
 * <a href="https://www.fablab-neckar-alb.org" target="_blank">FabLab Neckar-Alb e.V.</a>
+* <a href="https://ki-maker.space/" target="_blank">KI-Makerspace</a>
 * <a href="https://www.fsi.uni-tuebingen.de" target="_blank">FSI / Fachschaft Informatik Uni Tübingen</a>
 
 # Linux User Groups (LUGs) und sonstiges in der Umgebung
