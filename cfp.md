@@ -2,7 +2,7 @@
 layout: page
 title: Call for Papers
 permalink: /callforpapers/
-emailcfp: cfp2019@tuebix.org
+emailcfp: cfp2023@tuebix.org
 weight: 10
 menu:
 ---
@@ -44,7 +44,7 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 Toll! Dann fülle rasch die Anmeldung aus!
 
 <div style="text-align: center; font-size: 250%; text-decoration: underline;">
-  <a href="https://cfp.tuebix.org" target="_blank">Zur Anmeldung</a>
+  <a href="https://cfp.tuebix.org/tuebix-2023/cfp" target="_blank">Zur Anmeldung</a>
 </div>
 
 <p style="text-align: right;"><a href="https://www.flaticon.com" target="_blank">Bildquelle: flaticon.com</a></p>
