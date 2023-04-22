@@ -2,6 +2,7 @@
 layout: page
 title: Helfer
 permalink: /callforhelpers/
+redirect_from: /cfh/
 weight: 9
 menu:
 ---
