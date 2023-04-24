@@ -12,8 +12,9 @@ statt.<br/>
 Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 
 **News:**
-- Der Tübix findet 2023 am 1. Juli wieder statt. Weitere Details
-  und ein CfP werden zu gegebener Zeit veröffentlicht.
+- Der Tübix findet 2023 am 1. Juli wieder statt.
+- **Der <a href="callforpapers/">Call for Papers</a> ist eröffnet und läuft bis
+  zum 22. Mai.**
 - Die <b>Videos</b> vom Tübix 2019 sind online:
   [TIMMS Link](https://timms.uni-tuebingen.de/List/List?id=UT_2019_________tuebix_____&Headline=T%C3%BCbix%202019)
 

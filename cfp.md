@@ -5,7 +5,7 @@ permalink: /callforpapers/
 redirect_from: /cfp/
 emailcfp: cfp2023@tuebix.org
 weight: 10
-menu:
+menu: main
 ---
 
 Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brauchen wir DICH!
