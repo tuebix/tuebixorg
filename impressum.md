@@ -2,8 +2,8 @@
 layout: page
 title: Impressum
 permalink: /impressum/
-weight:
-menu:
+weight: 9001
+menu: main
 ---
 
 # Kontakt
