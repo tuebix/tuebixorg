@@ -8,6 +8,8 @@ weight: 10
 menu: main
 ---
 
+**Deadline für Einreichungen (außer Lightning Talks): 22.05.2023**
+
 Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brauchen wir DICH!
 Hast Du Lust dein Wissen und deine Erfahrung zu teilen?
 Gerne kannst Du auch mehrere Themen einreichen und Beiträge können natürlich auch als Team gehalten werden.
