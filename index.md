@@ -13,8 +13,7 @@ Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="d
 
 **News:**
 - Der Tübix findet 2023 am 1. Juli wieder statt.
-- **Der <a href="callforpapers/">Call for Papers</a> ist eröffnet und läuft bis
-  zum 22. Mai.**
+- **Es können noch Lightning Talks über den CfP eingereicht werden: <a href="callforpapers/">Call for Papers</a>**
 - Die <b>Videos</b> vom Tübix 2019 sind online:
   [TIMMS Link](https://timms.uni-tuebingen.de/List/List?id=UT_2019_________tuebix_____&Headline=T%C3%BCbix%202019)
 

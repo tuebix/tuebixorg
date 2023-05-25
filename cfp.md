@@ -8,6 +8,7 @@ weight: 10
 menu: main
 ---
 
+<!--
 **Deadline für Einreichungen (außer Lightning Talks): 22.05.2023**
 
 Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brauchen wir DICH!
@@ -32,6 +33,10 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
   * Zwischen den Vorträgen ist <span style="font-weight: bold;">10 min Pause OHNE Programm </span> um ggf. den Raum zu wechseln
   * Ein Vortrag muss nicht zwingend (ausschließlich) mit Folien sein, gerne auch "Demos"
   * Bring einen "Bonus-Teil" mit, falls nur wenige Fragen kommen sollten
+-->
+
+Der CfP ist zwar schon beendet, ABER du kannst gerne noch einen Lightning Talk
+einreichen:
 
 <h2><span><img height="36" width="36" src="../images/lightning.svg"></span> Lightning Talk</h2>
 
