@@ -6,6 +6,11 @@ weight:
 menu:
 ---
 
+# Kontakt
+
+- Inoffizieller IRC: #tuebix ([Libera.Chat](https://libera.chat/))
+- Alter Twitter Account: [https://twitter.com/tuebix](https://twitter.com/tuebix)
+
 # Organisationsteam Tübix 2023
 
 <!-- Ordered alphabetically by the surname: -->
