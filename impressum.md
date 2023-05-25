@@ -8,7 +8,9 @@ menu: main
 
 # Kontakt
 
-- Inoffizieller IRC: #tuebix ([Libera.Chat](https://libera.chat/))
+- Inoffizieller IRC: #tuebix ([Libera.Chat](https://libera.chat/)) - Webchat:
+  [Kiwiirc](https://web.libera.chat/#tuebix),
+  [Gamja](https://web.libera.chat/gamja/#tuebix)
 - Alter Twitter Account: [https://twitter.com/tuebix](https://twitter.com/tuebix)
 
 # Organisationsteam Tübix 2023
