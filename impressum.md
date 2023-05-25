@@ -8,6 +8,10 @@ menu: main
 
 # Kontakt
 
+- Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+- Chat (<a href="https://matrix.org/clients/">Matrix</a>): #tuebix:matrix.org ([Element Webchat](https://app.element.io/#/room/#tuebix:matrix.org))
+- [Fediverse](https://en.wikipedia.org/wiki/Fediverse) ([Mastodon](https://joinmastodon.org/)): [@tuebix@troet.cafe](https://troet.cafe/@tuebix)
+- Repository (website source code): [https://github.com/tuebix/tuebixorg](https://github.com/tuebix/tuebixorg)
 - Inoffizieller IRC: #tuebix ([Libera.Chat](https://libera.chat/)) - Webchat:
   [Kiwiirc](https://web.libera.chat/#tuebix),
   [Gamja](https://web.libera.chat/gamja/#tuebix)
