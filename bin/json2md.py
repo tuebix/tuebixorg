@@ -47,7 +47,11 @@ with open("talks.json") as talksfile:
     data.sort(key=lambda talk: room_to_sort_key(talk["room"]) + talk["timebegin"])
 
 with open('programm2.md', 'w') as prog2:
-    prog2.write(f"---\nlayout: page\ntitle: Programm\npermalink: /{YEAR}/programm/\nweight:\nmenu: main\n---\n\n<table>\n")
+    prog2.write(f"---\nlayout: page\ntitle: Programm\npermalink: /{YEAR}/programm/\nweight:\nmenu: main\n---\n\n")
+    prog2.write("**Hinweis:** Das Programm ist noch nicht ganz vollständig.\n\n")
+    prog2.write("Alternativ kann das Program auch über pretalx angesehen werden: ")
+    prog2.write(f"[cfp.tuebix.org/tuebix-{YEAR}/schedule/](https://cfp.tuebix.org/tuebix-{YEAR}/schedule/)\n\n")
+    prog2.write("<table>\n")
 
 visited_rooms = []
 for talk in data:

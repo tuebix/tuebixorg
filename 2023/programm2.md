@@ -6,6 +6,10 @@ weight:
 menu: main
 ---
 
+**Hinweis:** Das Programm ist noch nicht ganz vollständig.
+
+Alternativ kann das Program auch über pretalx angesehen werden: [cfp.tuebix.org/tuebix-2023/schedule/](https://cfp.tuebix.org/tuebix-2023/schedule/)
+
 <table>
 <tr><td></td><td></td><td></td><td></td><td>Raum W1</td></tr>
 <tr><td>10:00</td><td>bis</td><td>11:50</td><td><a class="work"></a></td><td><a href="../programm/5-git-annex-dateien-synchronisieren-sichern-und-verwalten-fr-poweruser">Git&nbsp;Annex:&nbsp;Dateien&nbsp;synchronisieren,&nbsp;sichern&nbsp;und&nbsp;verwalten&nbsp;für&nbsp;Poweruser</a></td><td>Yann&nbsp;Büchau</td></tr>
