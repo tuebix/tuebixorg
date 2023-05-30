@@ -37,7 +37,7 @@ with io.open('talks.json', 'r', encoding='utf8') as talksfile:
     data = json.load(talksfile)
 
 with io.open('giggity.xml', 'w', encoding='utf8') as gigxml:
-    gigxml.write('<?xml version="1.0"?>\n<schedule>\n<conference>\n<title>Tübix 2019</title>\n<city>T&#xFC;bingen</city>\n<start>2019-07-06</start>\n<end>2019-07-06</end>\n<days>1</days>\n<release>1.20190531.1112</release>\n<timeslot_duration>00:30</timeslot_duration>\n</conference>\n<day date="2019-07-06" index="1">\n')
+    gigxml.write('<?xml version="1.0"?>\n<schedule>\n<conference>\n<title>Tübix 2023</title>\n<city>T&#xFC;bingen</city>\n<start>2023-07-01</start>\n<end>2023-07-01</end>\n<days>1</days>\n<release>1.20230530.1112</release>\n<timeslot_duration>00:30</timeslot_duration>\n</conference>\n<day date="2023-07-01" index="1">\n')
 
 # TODO Teleskop, Bienen, LPIC, generic helper slots
     for roomsection in ['V1', 'V2', 'V3', 'V4', 'W1', 'W2']:

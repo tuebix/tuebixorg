@@ -42,7 +42,7 @@ with open("talks.json") as talksfile:
     data.sort(key=lambda talk: room_to_sort_key(talk["room"]) + talk["timebegin"])
 
 with open('programm2.md', 'w') as prog2:
-    prog2.write("---\nlayout: page\ntitle: Programm\npermalink: /2019/programmentwurf/\nweight:\nmenu:\n---\n\n<table>\n")
+    prog2.write("---\nlayout: page\ntitle: Programm\npermalink: /2023/programmentwurf/\nweight:\nmenu:\n---\n\n<table>\n")
 
 visited_rooms = []
 for talk in data:
@@ -77,7 +77,7 @@ for talk in data:
     os.makedirs("talks", exist_ok=True)
     with open('talks/' + talk["urlid"] + '.md', 'w') as mdf, open('programm2.md', 'a') as prog2:
         try:
-            mdf.write("---\nlayout: talk\ntitle:\npermalink: /2019/programm/" + talk["urlid"] + "/\nweight:\nmenu:\n---\n")
+            mdf.write("---\nlayout: talk\ntitle:\npermalink: /2023/programm/" + talk["urlid"] + "/\nweight:\nmenu:\n---\n")
             mdf.write("## " + talk["titel"] + "\n\n")
             mdf.write('### <img height = "32" src="../../../images/')
             if talk["duration"] == 110:
