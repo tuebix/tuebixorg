@@ -9,7 +9,7 @@ menu:
 
 ### <img height = "32" src="../../../images/talk2.svg"> 18:00 bis 18:20 in Raum V1
 
-### 
+### Tübix Orga Team
 
 * gemeinsamer Abschluss  
 * lottery.sh  
