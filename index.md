@@ -13,6 +13,7 @@ Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="d
 
 **News:**
 - Der Tübix findet 2023 am 1. Juli wieder statt.
+- Der [Call for Helpers](callforhelpers/) ist nun eröffnet.
 - Das [Programm für 2023](2023/programm/) ist nun veröffentlicht (erster
   Entwurf, es sind noch nicht alle Talks sichtbar). Alternativ ist das Programm
   auch über pretalx verfügbar:
