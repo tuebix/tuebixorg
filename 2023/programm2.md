@@ -14,13 +14,13 @@ menu:
 <tr><td>16:00</td><td>bis</td><td>17:50</td><td><a class="work"></a></td><td><a href="../programm/48-same-procedure-as-every-year-kommandozeilen-sprechstunde-n-">Same&nbsp;Procedure&nbsp;as&nbsp;Every&nbsp;Year:&nbsp;Kommandozeilen-Sprechstunde(n)</a></td><td>Harald&nbsp;König</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Raum V1</td></tr>
-<tr><td>09:30</td><td>bis</td><td>09:50</td><td><a class="talk"></a></td><td><a href="../programm/76-tbix-init">Tübix&nbsp;Init</a></td><td></td></tr>
+<tr><td>09:30</td><td>bis</td><td>09:50</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-init">Tübix&nbsp;Init</a></td><td></td></tr>
 <tr><td>10:00</td><td>bis</td><td>10:50</td><td><a class="talk"></a></td><td><a href="../programm/8-einstieg-in-linux-kernel-debugging">Einstieg&nbsp;in&nbsp;Linux&nbsp;Kernel&nbsp;Debugging</a></td><td>Stefan&nbsp;Walter</td></tr>
 <tr><td>12:00</td><td>bis</td><td>12:50</td><td><a class="talk"></a></td><td><a href="../programm/ldungssysteme-nachhaltig-digitalisieren">Bildungssysteme&nbsp;nachhaltig&nbsp;digitalisieren</a></td><td>Andreas&nbsp;Grupp&nbsp;&&nbsp;Andi&nbsp;Mundt</td></tr>
 <tr><td>14:00</td><td>bis</td><td>14:50</td><td><a class="talk"></a></td><td><a href="../programm/43-so-vermittelst-du-technische-inhalte-verstndlich">So&nbsp;vermittelst&nbsp;du&nbsp;technische&nbsp;Inhalte&nbsp;verständlich</a></td><td>Frank&nbsp;Hofmann</td></tr>
 <tr><td>15:00</td><td>bis</td><td>15:50</td><td><a class="talk"></a></td><td><a href="../programm/hacking-von-sicheren-usb-sticks-und-usb-festplatten">Hacking&nbsp;von&nbsp;sicheren&nbsp;USB-Sticks&nbsp;und&nbsp;USB-Festplatten</a></td><td>Gerhard&nbsp;Klostermeier</td></tr>
 <tr><td>16:00</td><td>bis</td><td>16:50</td><td><a class="talk"></a></td><td><a href="../programm/1-typische-schwachstellen-von-heimnetz-routern">Typische&nbsp;Schwachstellen&nbsp;von&nbsp;Heimnetz-Routern</a></td><td>Gerhard&nbsp;Klostermeier</td></tr>
-<tr><td>18:00</td><td>bis</td><td>18:20</td><td><a class="talk"></a></td><td><a href="../programm/77-tbix-exit">Tübix&nbsp;Exit</a></td><td></td></tr>
+<tr><td>18:00</td><td>bis</td><td>18:20</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-exit">Tübix&nbsp;Exit</a></td><td></td></tr>
 <tr><td>18:30</td><td>bis</td><td>18:50</td><td><a class="talk"></a></td><td><a href="../programm/41-open-source-ist-fr-viele-informatik-studierende-ein-mysterium">Open&nbsp;Source&nbsp;ist&nbsp;für&nbsp;viele&nbsp;Informatik-Studierende&nbsp;ein&nbsp;Mysterium</a></td><td>Daniel&nbsp;Kulesz</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Raum V2</td></tr>

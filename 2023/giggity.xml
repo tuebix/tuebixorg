@@ -11,7 +11,7 @@
 </conference>
 <day date="2023-07-01" index="1">
 <room name="V1">
-<event id="76-tbix-init">
+<event id="tuebix-init">
 <start>09:30</start>
 <duration>00:20</duration>
 <room>V1</room>
@@ -120,7 +120,7 @@ Kein bestimmtes Vorwissen nötig. Der Vortrag sollte für eine recht breite Mass
 <persons><person>Gerhard Klostermeier</person></persons>
 </event>
 
-<event id="77-tbix-exit">
+<event id="tuebix-exit">
 <start>18:00</start>
 <duration>00:20</duration>
 <room>V1</room>
