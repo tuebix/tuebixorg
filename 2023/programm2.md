@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Programm
-permalink: /2023/programmentwurf/
+permalink: /2023/programm/
 weight:
-menu:
+menu: main
 ---
 
 <table>
