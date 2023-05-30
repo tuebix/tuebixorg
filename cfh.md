@@ -59,7 +59,7 @@ O O O O O O O O O
 
 ## Programmunterstützung (ganzer Tag, 2 Personen als Team)
 
-Wir suchen pro Raum (V1-4, W1-2) zwei Leute, die bereit sind, den Ablauf innerhalb eines Raums über den Tag hinweg zu betreuen.
+Wir suchen pro Raum (V1-4, W1) zwei Leute, die bereit sind, den Ablauf innerhalb eines Raums über den Tag hinweg zu betreuen.
 Dies beinhaltet vor allem Unterstützung der Redner während der Wechsel zwischen den Vorträgen, Beamer und Laptop zu verbinden, Sitzplatzdefragmentierung anzuregen, regelmäßiges Lüften...
 Dies soll keineswegs bedeuten, dass man jeden Vortrag in diesem Raum hören muss!
 Wir nehmen pro Raum 2 Personen in die Liste und diese können sich dann absprechen, damit nicht jeder bei jedem Wechsel "vor Ort" sein muss.
@@ -71,7 +71,6 @@ O O Raumsupport V3<br/>
 O O Raumsupport V4<br/>
 <br/>
 O Raumsupport W1<br/>
-O Raumsupport W2<br/>
 
 ## So kann jeder helfen
 
