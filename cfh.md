@@ -67,7 +67,7 @@ Sehr gerne kann man sich auch direkt als Gruppe für einen Raum anmelden und sic
 
 O O Raumsupport V1<br/>
 O O Raumsupport V2<br/>
-O O Raumsupport V3<br/>
+X X Raumsupport V3<br/>
 O O Raumsupport V4<br/>
 <br/>
 O Raumsupport W1<br/>
