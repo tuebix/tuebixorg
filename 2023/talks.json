@@ -26,6 +26,19 @@
         "weblinks": {}
     },
     {
+        "name": "Daniel Maslowski",
+        "titel": "Die wirre Welt der kleinen Computer",
+        "inhalt": "Wer sich gern mit Gadgets und Einplatinenrechnern auseinandersetzen mag oder auch wegen Lieferengp\u00e4ssen des bekannten Raspberry Pi nach weiteren Optionen sucht, verliert schnell in einer H\u00fclle und F\u00fclle von Angeboten den \u00dcberblick, ob als Privatperson oder zu gesch\u00e4ftlichen Zwecken. Bestenfalls finden sich Empfehlungen, idealerweise von Bekannten, und dennoch bleiben Herausforderungen auf vielen Ebenen nicht aus: Von den Chips, Prozessorarchitekturen und Anschl\u00fcssen, von der Firmware und Auswahl von Betriebssystemen bis zu eigenen Vorstellungen und damit der M\u00f6glichkeit von Anpassungen, lassen sich viele Fragen vor dem Kauf nur schwer und selbst im Nachhinein kaum beantworten. Mit diesem Vortrag biete ich einen \u00dcberblick \u00fcber verschiedene Projekte an, die zum einen die Entscheidung f\u00fcr konkrete Produkte vereinfachen, zum anderen deren Flexibilit\u00e4t mit der Zeit deutlich erh\u00f6hen und damit eine Nachhaltigkeit schaffen, durch die Entt\u00e4uschungen behoben und Ger\u00e4te zum Wegwerfen zu schade werden. Dazu gibt es Demos und Anregungen zu konstruktiven Anschlussdiskussionen.",
+        "aboutme": "https://dan.orangecms.org/",
+        "vorwissen": "",
+        "urlid": "58-die-wirre-welt-der-kleinen-computer",
+        "duration": 50,
+        "room": "V1",
+        "timebegin": "11:00",
+        "timeend": "11:50",
+        "weblinks": {}
+    },
+    {
         "name": "Andreas Grupp & Andi Mundt",
         "titel": "Bildungssysteme nachhaltig digitalisieren",
         "inhalt": "Mit Beginn des ersten Corona-Lockdowns Anfang 2020 waren Schulen schlagartig mit der Problematik konfrontiert, Unterricht auf Distanz zu gestalten. Aus dem Engagement Einzelner entstand in k\u00fcrzester Zeit eine bislang als f\u00fcr nicht machbar gehaltene Infrastruktur tausender Moodle- und BigBlueButton-Instanzen. H\u00e4ufig mit schuleigenen Nextcloud-Servern erg\u00e4nzt, zeigte diese Infrastruktur ihre Tauglichkeit in Pandemiezeiten unter hoher Last \u2013 ein Szenario, das bis zu diesem Zeitpunkt ausschlie\u00dflich propriet\u00e4ren und rechtlich bedenklichen Hyperscalern zugetraut wurde.\r\n\r\nDer Vortrag blickt kurz auf diese bewegte und intensive Zeit zur\u00fcck, beschreibt das Projekt sowohl von seiner politischen als auch der technischen Seite und zeichnet die Idee konkret weiter in die Zukunft. Welche weiteren zentralen Dienste w\u00e4ren sinnvoll, um Bildung/Schulen zu einer nachhaltigen und datenschutzrechtlich sauberen Kultur der Digitalit\u00e4t zu bef\u00e4higen? Welches Mindset ist Voraussetzung? Wie k\u00f6nnten Betreibermodelle aussehen? W\u00e4re ein Full-FLOSS-Stack denkbar?",
@@ -42,7 +55,7 @@
         "name": "Frank Hofmann",
         "titel": "So vermittelst du technische Inhalte verst\u00e4ndlich",
         "inhalt": "Der Vortrag soll euch helfen, technische Inhalte verst\u00e4ndlicher zu machen und euch die Grundlagen zum Schreiben technischer Dokumentationen n\u00e4her bringen.",
-        "aboutme": "Nach dem Informatikstudium begann Frank Hofmann 2002 als Entwickler, Trainer und technischer Redakteur zu arbeiten. So kennt er sich nicht nur bestens mit Linux und Python aus, sondern kann komplexe Vorg\u00e4nge auch verst\u00e4ndlich ausdr\u00fccken. Er ist Co-Autor des Debian-Paketmanagement-Buchs (https://dpmb.org) und schreibt regelm\u00e4\u00dfig  u.a. f\u00fcr das Linux Magazin und Linux Users. Dabei reist er gerne und arbeitet im In- und Ausland.",
+        "aboutme": "Nach dem Informatikstudium begann ich 2002 als Entwickler, Trainer und technischer Redakteur zu arbeiten. So kenne ich mich nicht nur bestens mit Linux und Python aus, sondern kann komplexe Vorg\u00e4nge auch verst\u00e4ndlich ausdr\u00fccken. Ich bin Co-Autor des Debian-Paketmanagement-Buchs (https://dpmb.org) und schreibe regelm\u00e4\u00dfig  u.a. f\u00fcr das Linux Magazin und Linux User. Dabei reise ich gerne und arbeite im In- und Ausland.",
         "vorwissen": "",
         "urlid": "43-so-vermittelst-du-technische-inhalte-verstndlich",
         "duration": 50,
@@ -75,6 +88,19 @@
         "room": "V1",
         "timebegin": "16:00",
         "timeend": "16:50",
+        "weblinks": {}
+    },
+    {
+        "name": "Philipp Westphal",
+        "titel": "Kein Backup \u2013 trotzdem etwas Mitleid",
+        "inhalt": "Eigendlich gilt: Kein Backup, kein Mitleid! Doch es gibt nat\u00fcrlich Ausnahmen, etwa Hilferufe von Verwandten, Freunden und Bekannten. Was also kann unternommen werden? \r\nIn diesem Vortrag schauen wir uns Daten auf den verschiedenen, g\u00e4ngigen Speichertypen an (z.B. Optisch, Magnetisch, Solid State) und was z.B. beim L\u00f6schen und Partitionieren geschieht. Anschlie\u00dfend erkunden wir die wichtigsten Werkzeuge, um verloren geglaubte Daten unter Umst\u00e4nden wieder herzustellen zu k\u00f6nnen und untersuchen, welche Fallstricke auftreten k\u00f6nnen. In den praktischen Beispielen soll es um defekte AudioCDs sowie nicht mehr lesbare externe Festplatten gehen. In einer Live Demo wird gezeigt, wie vermeintlich gel\u00f6schte Daten von einem USB-Stick wiederhergestellt werden k\u00f6nnen.",
+        "aboutme": "Seit 2020 ist Philipp Westphal wieder bei der B1-Systems als Consultant und Trainer aktiv. Sein Steckenpferd sind Dateisysteme und *BSD, aber auch Virtualisierung. In seiner Freizeit spielt er Bass oder Theremin, oder erkundet mit Hund und Kamera die Umgebung.",
+        "vorwissen": "",
+        "urlid": "5-kein-backup-trotzdem-etwas-mitleid",
+        "duration": 50,
+        "room": "V1",
+        "timebegin": "17:00",
+        "timeend": "17:50",
         "weblinks": {}
     },
     {
@@ -156,6 +182,19 @@
         "weblinks": {}
     },
     {
+        "name": "Roland Alton-Scheidl & Jonas Liebst",
+        "titel": "Identity Management mit Keycloak",
+        "inhalt": "fairkom bietet niederschwellig Open Source basierte Services an, dazu z\u00e4hlen die faircloud, fairchat, fairmeeting, fair.tube oder fairmove.  SingleSignOn ist dabei ein hoher Komfortgewinn f\u00fcr die Nutzer:innen. Wir geben einen Einblick \u00fcber sechs Jahre Betriebserfahrung mit Keycloak und die Anbindung an eID.",
+        "aboutme": "Roland Alton-Scheidl ist promovierter Informatiker und leitet die fairkom Gesellschaft. Schwerpunkte sind Open Source basierte Kommunikationswerkzeuge, die er f\u00fcr Kunden oder im fairapps Portfolio umsetzt und betreut. An der Vorarlberg University of Applied Sciences unterrichtete und forschte er in den Studieng\u00e4ngen InterMedia und Digital Innovation. https://roland.alton.at, https://fairkom.eu, Mastodon https://fairmove.net/@rasos/\n\nIch arbeite bei fairkom als Projekt- und Anwendungsbetreuer.",
+        "vorwissen": "",
+        "urlid": "56-identity-management-mit-keycloak",
+        "duration": 20,
+        "room": "V2",
+        "timebegin": "15:30",
+        "timeend": "15:50",
+        "weblinks": {}
+    },
+    {
         "name": "Finn Rayk G\u00e4rtner",
         "titel": "Ordnung im Chaos finden: Microservices Observability",
         "inhalt": "Mit dem Aufstieg von Microservices-Architekturen sind traditionelle Monitoring-Ans\u00e4tze nicht mehr ausreichend, um die Leistung, Verf\u00fcgbarkeit und Zuverl\u00e4ssigkeit von verteilten Systeme zu gew\u00e4hrleisten. Die Observability, also die F\u00e4higkeit, Einblicke in das Systemverhalten zu gewinnen, ist von entscheidender Bedeutung, um den \u00dcberblick zu behalten und potenzielle Probleme fr\u00fchzeitig zu erkennen.\r\n\r\nDer Vortrag wird verschiedene Aspekte der Microservices Observability behandeln, darunter das Logging, Tracing, Metriken und Fehlerverfolgung. Es werden bew\u00e4hrte Methoden, Werkzeuge und Techniken vorgestellt, um das Chaos der Microservices zu beherrschen und klare Einblicke in das Systemverhalten zu erhalten.",
@@ -179,6 +218,19 @@
         "room": "V2",
         "timebegin": "17:00",
         "timeend": "17:20",
+        "weblinks": {}
+    },
+    {
+        "name": "Michael Jerger",
+        "titel": "LightningC4k",
+        "inhalt": "* 5-Factor-Build<br>\r\n* K3s mit Provs<br>\r\n* Applikation mit c4k<br>\r\n* Alles zusammenbinden mit dda-build<br>\r\n* Wer sind wir? GW\u00d6, Plastiksammelaktion<br>",
+        "aboutme": "<em><strong>Michael Jerger</em></strong> [CEO] ist langj\u00e4hriger DevOps und unterst\u00fctzt Kunden bei Ihrem Weg in die Cloud. Im Laufe dieser Arbeit sind viele OpenSource Tools entstanden, die er als Maintainer oder Contributer unterst\u00fctzt.<br>",
+        "vorwissen": "Python\r\nKubernetes",
+        "urlid": "7-lightningc4k",
+        "duration": 20,
+        "room": "V2",
+        "timebegin": "17:30",
+        "timeend": "17:50",
         "weblinks": {}
     },
     {
@@ -218,6 +270,19 @@
         "room": "V3",
         "timebegin": "12:00",
         "timeend": "12:50",
+        "weblinks": {}
+    },
+    {
+        "name": "Olaf Flebbe",
+        "titel": "PicoDoom, a fork of GBA Doom",
+        "inhalt": "Ich beschreibe die Portierung von Doom auf einen rp2040 microcontroller und wie man die Hardware dazu selber basteln kann. Das Spiel kann anschliessend live selbst ausprobiert werden.",
+        "aboutme": "Promoviert in theor. Astrophyik.\r\nOpen Source Urgestein.\r\nMitglied der Apache Software Foundation.\r\nEntwickelt Navigationsl\u00f6sungen f\u00fcr eBikes",
+        "vorwissen": "Auf welcher Seite man einen L\u00f6tkolben anf\u00e4sst f\u00fcr die Hardware.",
+        "urlid": "14-picodoom-a-fork-of-gba-doom",
+        "duration": 50,
+        "room": "V3",
+        "timebegin": "13:00",
+        "timeend": "13:50",
         "weblinks": {}
     },
     {
@@ -351,24 +416,11 @@
         "weblinks": {}
     },
     {
-        "name": "Stefan Baur & Mihai Moldovan",
-        "titel": "X2Go Remote Desktops/Remote Applications - was bringt das neue Release? KDrive!",
-        "inhalt": "X2Go ist eine Open-Source-Remote-Desktop-/Remote-Application-Services-L\u00f6sung. Sie basiert auf den GPL-NX-V3-Libraries der Firma NoMachine, auf denen auch FreeNX und NeatX basier(t)en. Zus\u00e4tzlich bringt X2Go mit dem neuen Release sein eigenes, neues Protokoll \"KDrive\" mit.",
-        "aboutme": "Stefan Baur, Jahrgang 1977, ist der aktuelle Projektmanager und Lead Evangelist des Open-Source-Projekts X2Go und gesch\u00e4ftsf\u00fchrender Gesellschafter der BAUR-ITCS UG (haftungsbeschr\u00e4nkt), welche Support f\u00fcr X2Go und eine auf X2Go basierende Security-L\u00f6sung anbietet, sowie der 1. Vorsitzende der Open Remote Computing Association - orca e.V., einem Dachverein f\u00fcr freie Remote-Computing-Projekte. Nebenbei bastelt er noch an seinem privaten Projekt \"Grannophone\" - einem Open-Source-Videotelefon f\u00fcr Senioren.\n\nSoftwareentwickler f\u00fcr das X2Go-Projekt.",
-        "vorwissen": "Schon mal von X2Go geh\u00f6rt zu haben und es vielleicht auch schon mal installiert zu haben, w\u00e4re hilfreich. Wir werden im Vortrag zwar auch kurz erkl\u00e4ren, was X2Go \u00fcberhaupt ist, aber komplett ohne Vorkenntnisse wird es gegebenenfalls schwer.",
-        "urlid": "46-x2go-remote-desktops-remote-applications-was-bringt-das-neue-release-kdrive-",
-        "duration": 20,
-        "room": "V4",
-        "timebegin": "11:30",
-        "timeend": "11:50",
-        "weblinks": {}
-    },
-    {
         "name": "Werner Heuser",
         "titel": "LPI Exam 701: DevOps Tools Engineer",
-        "inhalt": "Der Vortrag beschreibt, wie man sich auf das LPI Exam 701: DevOps Tools Engineer vorbereiten kann.",
+        "inhalt": "Der Vortrag beschreibt, wie man sich auf das LPI Exam 701: DevOps Tools Engineer vorbereiten kann. Themen sind u.a. - Welche LPI Zertifizierungen gibt es? - Was sind die Lernziele des Exam LPI 701: DevOps Tools Engineer? - Wie sieht der Ablauf der Pr\u00fcfung aus? - Wie sehen die Pr\u00fcfungsfragen aus (Fiktive Fragenbeispiele)? - Wie kann man sich auf die Pr\u00fcfung vorbereiten?",
         "aboutme": "Werner Heuser studierte Verwaltungswissenschaft an der Verwaltungsfachhochschule Duisburg. Nach Abschluss des Studiums arbeitete er im Kulturamt der Stadt Duisburg und in der Verwaltung verschiedener Krankenh\u00e4user in Berlin. Es folgten einige Jahre als Softwareberater f\u00fcr Personalabrechnungssysteme. 1997 startete er ein Webportal mit Informationen zu Linux mit mobilen Computern. Ab 1999 verkaufte er Laptops, Notebooks und PDAs mit vorinstalliertem Linux. Seit 2015 arbeitet er als freiberuflicher Dozent f\u00fcr Themen aus dem Bereich Linux. Sein Spezialgebiet als LPI Certified Trainer - LCT sind Kurse zur Vorbereitung auf die Pr\u00fcfungen des Linux-Professional-Institute (LPI). Nach einem kurzen Umweg \u00fcber SuSE Linux ist er seit der Version 2.0 Hamm bei Debian GNU/Linux geblieben. Seine pers\u00f6nliche \"Powershell\" heisst zsh.",
-        "vorwissen": "Es sind keine Vorkenntnisse erforderlich.",
+        "vorwissen": "F\u00fcr den Vortrag sind keine Vorkenntnisse erforderlich. F\u00fcr das LPI Exam 701: DevOps Tools Engineer wird eine LPIC-1 Linux Zertifizierung empfohlen, ist aber keine zwingende Bedingung. Ausserdem wird Praxiserfahrung mit Linux im DevOps Bereich empfohlen.",
         "urlid": "7-lpi-exam-701-devops-tools-engineer",
         "duration": 20,
         "room": "V4",
@@ -390,6 +442,32 @@
         "weblinks": {}
     },
     {
+        "name": "Stefan Baur",
+        "titel": "X2Go Remote Desktops/Remote Applications - was bringt das neue Release? KDrive!",
+        "inhalt": "X2Go ist eine Open-Source-Remote-Desktop-/Remote-Application-Services-L\u00f6sung. Sie basiert auf den GPL-NX-V3-Libraries der Firma NoMachine, auf denen auch FreeNX und NeatX basier(t)en. Zus\u00e4tzlich bringt X2Go mit dem neuen Release sein eigenes, neues Protokoll \"KDrive\" mit.",
+        "aboutme": "Stefan Baur, Jahrgang 1977, ist der aktuelle Projektmanager und Lead Evangelist des Open-Source-Projekts X2Go und gesch\u00e4ftsf\u00fchrender Gesellschafter der BAUR-ITCS UG (haftungsbeschr\u00e4nkt), welche Support f\u00fcr X2Go und eine auf X2Go basierende Security-L\u00f6sung anbietet, sowie der 1. Vorsitzende der Open Remote Computing Association - orca e.V., einem Dachverein f\u00fcr freie Remote-Computing-Projekte. Nebenbei bastelt er noch an seinem privaten Projekt \"Grannophone\" - einem Open-Source-Videotelefon f\u00fcr Senioren.",
+        "vorwissen": "Schon mal von X2Go geh\u00f6rt zu haben und es vielleicht auch schon mal installiert zu haben, w\u00e4re hilfreich. Wir werden im Vortrag zwar auch kurz erkl\u00e4ren, was X2Go \u00fcberhaupt ist, aber komplett ohne Vorkenntnisse wird es gegebenenfalls schwer.",
+        "urlid": "46-x2go-remote-desktops-remote-applications-was-bringt-das-neue-release-kdrive-",
+        "duration": 20,
+        "room": "V4",
+        "timebegin": "14:00",
+        "timeend": "14:20",
+        "weblinks": {}
+    },
+    {
+        "name": "Mike Sperber",
+        "titel": "Blitz-Einf\u00fchrung in die funktionale Programmierung",
+        "inhalt": "Funktionale Programmierung bringt eine Reihe von Vorteilen gegen\u00fcber der traditionellen objektorientierten Entwicklung mit: k\u00fcrzere und zuverl\u00e4ssige Programme, deklarative Programmierung, Kombinatormodelle, algebraische Abstraktionen, eingebettete dom\u00e4nenspezifischen Sprachen.",
+        "aboutme": "Dr. Michael Sperber ist Gesch\u00e4ftsf\u00fchrer der Active Group GmbH.  Er ist international anerkannter Experte f\u00fcr funktionale Programmierung und hat zahlreiche Fachartikel und B\u00fccher zum Thema verfasst.  Michael Sperber ist Mitbegr\u00fcnder des Blogs funktionale-programmierung.de und Mitorganisator der Entwicklerkonferenz BOB.",
+        "vorwissen": "Ist ist kein Vorwissen erforderlich, noch nicht einmal im Programmieren.",
+        "urlid": "40-blitz-einfhrung-in-die-funktionale-programmierung",
+        "duration": 110,
+        "room": "V4",
+        "timebegin": "15:00",
+        "timeend": "16:50",
+        "weblinks": {}
+    },
+    {
         "name": "Yann B\u00fcchau",
         "titel": "Git Annex: Dateien synchronisieren, sichern und verwalten f\u00fcr Poweruser",
         "inhalt": "Git Annex ist das ultimative Werkzeug zum Verwalten, Synchronisieren und Sichern von Dateien - seien es Forschungsdaten, pers\u00f6nliche Dokumente oder eine Mediensammlung. In diesem Workshop wollen wir lernen, was Git Annex uns dabei an Arbeit und Sorgen abnehmen kann.",
@@ -403,19 +481,6 @@
         "weblinks": {}
     },
     {
-        "name": "Mike Sperber",
-        "titel": "Blitz-Einf\u00fchrung in die funktionale Programmierung",
-        "inhalt": "Funktionale Programmierung bringt eine Reihe von Vorteilen gegen\u00fcber der traditionellen objektorientierten Entwicklung mit: k\u00fcrzere und zuverl\u00e4ssige Programme, deklarative Programmierung, Kombinatormodelle, algebraische Abstraktionen, eingebettete dom\u00e4nenspezifischen Sprachen.",
-        "aboutme": "Dr. Michael Sperber ist Gesch\u00e4ftsf\u00fchrer der Active Group GmbH.  Er ist international anerkannter Experte f\u00fcr funktionale Programmierung und hat zahlreiche Fachartikel und B\u00fccher zum Thema verfasst.  Michael Sperber ist Mitbegr\u00fcnder des Blogs funktionale-programmierung.de und Mitorganisator der Entwicklerkonferenz BOB.",
-        "vorwissen": "Ist ist kein Vorwissen erforderlich, noch nicht einmal im Programmieren.",
-        "urlid": "40-blitz-einfhrung-in-die-funktionale-programmierung",
-        "duration": 110,
-        "room": "W1",
-        "timebegin": "12:00",
-        "timeend": "13:50",
-        "weblinks": {}
-    },
-    {
         "name": "Philipp Kammerer",
         "titel": "LaTeX f\u00fcr Einsteiger",
         "inhalt": "Mit dem Textsatzsystem LaTeX kann man einfach und effizient umfangreiche Dokumente, wie etwa wissenschaftliche Arbeiten, Vortragsfolien, (Serien-)Briefe nach DIN, Musikpartituren und vieles mehr  erstellen. Die Auszeichnungssprache erlaubt es, system\u00fcbergreifend einheitliche PDF Dateien zu erstellen, die sprachspezifische typografische Regeln und Konventionen einhalten.\r\nIn diesem Workshop gebe ich euch einen kleinen Rundumschlag, was LaTeX ist, wie es funktioniert und wie man es einsetzen kann. \r\nVon der Installation aus den Paketquellen, \u00fcber das erste einfache \"Hallo Welt\" Dokument, hin zu den wichtigsten semantischen Elementen wie Gliederung des Textes durch \u00dcberschriften und Abs\u00e4tze, Tabellen, Abbildungen, Fu\u00dfnoten, Inhaltsverzeichnis, Titelblatt (und ggf. mehr?), sollte f\u00fcr den LaTeX Neueinsteiger alles wichtige dabei sein. Die Handhabung von Fehlern beim \u00dcbersetzen der Eingabedatei ins PDF ist ebenfalls Teil des Workshops.",
@@ -424,8 +489,8 @@
         "urlid": "latex-fr-einsteiger",
         "duration": 110,
         "room": "W1",
-        "timebegin": "14:00",
-        "timeend": "15:50",
+        "timebegin": "12:00",
+        "timeend": "13:50",
         "weblinks": {}
     },
     {
@@ -437,8 +502,8 @@
         "urlid": "48-same-procedure-as-every-year-kommandozeilen-sprechstunde-n-",
         "duration": 110,
         "room": "W1",
-        "timebegin": "16:00",
-        "timeend": "17:50",
+        "timebegin": "14:00",
+        "timeend": "15:50",
         "weblinks": {}
     }
 ]

@@ -7,7 +7,7 @@ menu:
 ---
 ## Same Procedure as Every Year: Kommandozeilen-Sprechstunde(n)
 
-### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 17:50 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 15:50 in Raum W1
 
 ### Harald König
 

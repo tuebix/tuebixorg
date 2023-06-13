@@ -44,6 +44,20 @@ Grundlegende Linux-Kenntnisse, Basis-Erfahrung mit der Kommandozeile
 <persons><person>Stefan Walter</person></persons>
 </event>
 
+<event id="58-die-wirre-welt-der-kleinen-computer">
+<start>11:00</start>
+<duration>00:50</duration>
+<room>V1</room>
+<title>Die wirre Welt der kleinen Computer</title>
+<description>Wer sich gern mit Gadgets und Einplatinenrechnern auseinandersetzen mag oder auch wegen Lieferengpässen des bekannten Raspberry Pi nach weiteren Optionen sucht, verliert schnell in einer Hülle und Fülle von Angeboten den Überblick, ob als Privatperson oder zu geschäftlichen Zwecken. Bestenfalls finden sich Empfehlungen, idealerweise von Bekannten, und dennoch bleiben Herausforderungen auf vielen Ebenen nicht aus: Von den Chips, Prozessorarchitekturen und Anschlüssen, von der Firmware und Auswahl von Betriebssystemen bis zu eigenen Vorstellungen und damit der Möglichkeit von Anpassungen, lassen sich viele Fragen vor dem Kauf nur schwer und selbst im Nachhinein kaum beantworten. Mit diesem Vortrag biete ich einen Überblick über verschiedene Projekte an, die zum einen die Entscheidung für konkrete Produkte vereinfachen, zum anderen deren Flexibilität mit der Zeit deutlich erhöhen und damit eine Nachhaltigkeit schaffen, durch die Enttäuschungen behoben und Geräte zum Wegwerfen zu schade werden. Dazu gibt es Demos und Anregungen zu konstruktiven Anschlussdiskussionen.
+
+#### Über mich
+
+https://dan.orangecms.org/
+</description>
+<persons><person>Daniel Maslowski</person></persons>
+</event>
+
 <event id="ldungssysteme-nachhaltig-digitalisieren">
 <start>12:00</start>
 <duration>00:50</duration>
@@ -77,7 +91,7 @@ Keines
 
 #### Über mich
 
-Nach dem Informatikstudium begann Frank Hofmann 2002 als Entwickler, Trainer und technischer Redakteur zu arbeiten. So kennt er sich nicht nur bestens mit Linux und Python aus, sondern kann komplexe Vorgänge auch verständlich ausdrücken. Er ist Co-Autor des Debian-Paketmanagement-Buchs (https://dpmb.org) und schreibt regelmäßig  u.a. für das Linux Magazin und Linux Users. Dabei reist er gerne und arbeitet im In- und Ausland.
+Nach dem Informatikstudium begann ich 2002 als Entwickler, Trainer und technischer Redakteur zu arbeiten. So kenne ich mich nicht nur bestens mit Linux und Python aus, sondern kann komplexe Vorgänge auch verständlich ausdrücken. Ich bin Co-Autor des Debian-Paketmanagement-Buchs (https://dpmb.org) und schreibe regelmäßig  u.a. für das Linux Magazin und Linux User. Dabei reise ich gerne und arbeite im In- und Ausland.
 </description>
 <persons><person>Frank Hofmann</person></persons>
 </event>
@@ -118,6 +132,21 @@ Hallo! Ich bin Gerhard Klostermeier und seit 2014 als Pentester / IT-Security Co
 Kein bestimmtes Vorwissen nötig. Der Vortrag sollte für eine recht breite Masse an technikbegeisterten Menschen passen.
 </description>
 <persons><person>Gerhard Klostermeier</person></persons>
+</event>
+
+<event id="5-kein-backup-trotzdem-etwas-mitleid">
+<start>17:00</start>
+<duration>00:50</duration>
+<room>V1</room>
+<title>Kein Backup – trotzdem etwas Mitleid</title>
+<description>Eigendlich gilt: Kein Backup, kein Mitleid! Doch es gibt natürlich Ausnahmen, etwa Hilferufe von Verwandten, Freunden und Bekannten. Was also kann unternommen werden? 
+In diesem Vortrag schauen wir uns Daten auf den verschiedenen, gängigen Speichertypen an (z.B. Optisch, Magnetisch, Solid State) und was z.B. beim Löschen und Partitionieren geschieht. Anschließend erkunden wir die wichtigsten Werkzeuge, um verloren geglaubte Daten unter Umständen wieder herzustellen zu können und untersuchen, welche Fallstricke auftreten können. In den praktischen Beispielen soll es um defekte AudioCDs sowie nicht mehr lesbare externe Festplatten gehen. In einer Live Demo wird gezeigt, wie vermeintlich gelöschte Daten von einem USB-Stick wiederhergestellt werden können.
+
+#### Über mich
+
+Seit 2020 ist Philipp Westphal wieder bei der B1-Systems als Consultant und Trainer aktiv. Sein Steckenpferd sind Dateisysteme und *BSD, aber auch Virtualisierung. In seiner Freizeit spielt er Bass oder Theremin, oder erkundet mit Hund und Kamera die Umgebung.
+</description>
+<persons><person>Philipp Westphal</person></persons>
 </event>
 
 <event id="tuebix-exit">
@@ -230,6 +259,22 @@ Vorteilhaft wenn man schon mal mit Containervirtualisierung gearbeitet hat. Hilf
 <persons><person>Gabriel Wustmann</person></persons>
 </event>
 
+<event id="56-identity-management-mit-keycloak">
+<start>15:30</start>
+<duration>00:20</duration>
+<room>V2</room>
+<title>Identity Management mit Keycloak</title>
+<description>fairkom bietet niederschwellig Open Source basierte Services an, dazu zählen die faircloud, fairchat, fairmeeting, fair.tube oder fairmove.  SingleSignOn ist dabei ein hoher Komfortgewinn für die Nutzer:innen. Wir geben einen Einblick über sechs Jahre Betriebserfahrung mit Keycloak und die Anbindung an eID.
+
+#### Über mich
+
+Roland Alton-Scheidl ist promovierter Informatiker und leitet die fairkom Gesellschaft. Schwerpunkte sind Open Source basierte Kommunikationswerkzeuge, die er für Kunden oder im fairapps Portfolio umsetzt und betreut. An der Vorarlberg University of Applied Sciences unterrichtete und forschte er in den Studiengängen InterMedia und Digital Innovation. https://roland.alton.at, https://fairkom.eu, Mastodon https://fairmove.net/@rasos/
+
+Ich arbeite bei fairkom als Projekt- und Anwendungsbetreuer.
+</description>
+<persons><person>Roland Alton-Scheidl &#x26; Jonas Liebst</person></persons>
+</event>
+
 <event id="53-ordnung-im-chaos-finden-microservices-observability">
 <start>16:00</start>
 <duration>00:50</duration>
@@ -279,6 +324,29 @@ Invest sichern, Mastodon ausprobieren, bei forgejo mithelfen - glücklich und zu
 
 allgemein ;-)
 => keines!
+</description>
+<persons><person>Michael Jerger</person></persons>
+</event>
+
+<event id="7-lightningc4k">
+<start>17:30</start>
+<duration>00:20</duration>
+<room>V2</room>
+<title>LightningC4k</title>
+<description>* 5-Factor-Build<br>
+* K3s mit Provs<br>
+* Applikation mit c4k<br>
+* Alles zusammenbinden mit dda-build<br>
+* Wer sind wir? GWÖ, Plastiksammelaktion<br>
+
+#### Über mich
+
+<em><strong>Michael Jerger</em></strong> [CEO] ist langjähriger DevOps und unterstützt Kunden bei Ihrem Weg in die Cloud. Im Laufe dieser Arbeit sind viele OpenSource Tools entstanden, die er als Maintainer oder Contributer unterstützt.<br>
+
+#### Vorwissen
+
+Python
+Kubernetes
 </description>
 <persons><person>Michael Jerger</person></persons>
 </event>
@@ -354,6 +422,27 @@ Der Vortrag soll die möglichen Stolpersteine und deren Lösung dieses „Projek
 Es sind keine speziellen Vorkenntnisse erforderlich. Es handelt sich um einen Vortrag, der 2 Welten etwas näher bringt. Es werden mögliche Verknüpfungen zwischen Modelleisenbahn und Linux vorgestellt.
 </description>
 <persons><person>Roland Imme</person></persons>
+</event>
+
+<event id="14-picodoom-a-fork-of-gba-doom">
+<start>13:00</start>
+<duration>00:50</duration>
+<room>V3</room>
+<title>PicoDoom, a fork of GBA Doom</title>
+<description>Ich beschreibe die Portierung von Doom auf einen rp2040 microcontroller und wie man die Hardware dazu selber basteln kann. Das Spiel kann anschliessend live selbst ausprobiert werden.
+
+#### Über mich
+
+Promoviert in theor. Astrophyik.
+Open Source Urgestein.
+Mitglied der Apache Software Foundation.
+Entwickelt Navigationslösungen für eBikes
+
+#### Vorwissen
+
+Auf welcher Seite man einen Lötkolben anfässt für die Hardware.
+</description>
+<persons><person>Olaf Flebbe</person></persons>
 </event>
 
 <event id="hacking-eines-funkthermostats">
@@ -527,32 +616,12 @@ kein Vorwissen erforderlich -- einfach Spass haben an Technik &#x26; Basteleien
 <persons><person>Harald König</person></persons>
 </event>
 
-<event id="46-x2go-remote-desktops-remote-applications-was-bringt-das-neue-release-kdrive-">
-<start>11:30</start>
-<duration>00:20</duration>
-<room>V4</room>
-<title>X2Go Remote Desktops/Remote Applications - was bringt das neue Release? KDrive!</title>
-<description>X2Go ist eine Open-Source-Remote-Desktop-/Remote-Application-Services-Lösung. Sie basiert auf den GPL-NX-V3-Libraries der Firma NoMachine, auf denen auch FreeNX und NeatX basier(t)en. Zusätzlich bringt X2Go mit dem neuen Release sein eigenes, neues Protokoll "KDrive" mit.
-
-#### Über mich
-
-Stefan Baur, Jahrgang 1977, ist der aktuelle Projektmanager und Lead Evangelist des Open-Source-Projekts X2Go und geschäftsführender Gesellschafter der BAUR-ITCS UG (haftungsbeschränkt), welche Support für X2Go und eine auf X2Go basierende Security-Lösung anbietet, sowie der 1. Vorsitzende der Open Remote Computing Association - orca e.V., einem Dachverein für freie Remote-Computing-Projekte. Nebenbei bastelt er noch an seinem privaten Projekt "Grannophone" - einem Open-Source-Videotelefon für Senioren.
-
-Softwareentwickler für das X2Go-Projekt.
-
-#### Vorwissen
-
-Schon mal von X2Go gehört zu haben und es vielleicht auch schon mal installiert zu haben, wäre hilfreich. Wir werden im Vortrag zwar auch kurz erklären, was X2Go überhaupt ist, aber komplett ohne Vorkenntnisse wird es gegebenenfalls schwer.
-</description>
-<persons><person>Stefan Baur &#x26; Mihai Moldovan</person></persons>
-</event>
-
 <event id="7-lpi-exam-701-devops-tools-engineer">
 <start>12:00</start>
 <duration>00:20</duration>
 <room>V4</room>
 <title>LPI Exam 701: DevOps Tools Engineer</title>
-<description>Der Vortrag beschreibt, wie man sich auf das LPI Exam 701: DevOps Tools Engineer vorbereiten kann.
+<description>Der Vortrag beschreibt, wie man sich auf das LPI Exam 701: DevOps Tools Engineer vorbereiten kann. Themen sind u.a. - Welche LPI Zertifizierungen gibt es? - Was sind die Lernziele des Exam LPI 701: DevOps Tools Engineer? - Wie sieht der Ablauf der Prüfung aus? - Wie sehen die Prüfungsfragen aus (Fiktive Fragenbeispiele)? - Wie kann man sich auf die Prüfung vorbereiten?
 
 #### Über mich
 
@@ -560,7 +629,7 @@ Werner Heuser studierte Verwaltungswissenschaft an der Verwaltungsfachhochschule
 
 #### Vorwissen
 
-Es sind keine Vorkenntnisse erforderlich.
+Für den Vortrag sind keine Vorkenntnisse erforderlich. Für das LPI Exam 701: DevOps Tools Engineer wird eine LPIC-1 Linux Zertifizierung empfohlen, ist aber keine zwingende Bedingung. Ausserdem wird Praxiserfahrung mit Linux im DevOps Bereich empfohlen.
 </description>
 <persons><person>Werner Heuser</person></persons>
 </event>
@@ -577,6 +646,42 @@ Es sind keine Vorkenntnisse erforderlich.
 Doktorand Umweltphysik Uni Tübingen, liebt freie Software
 </description>
 <persons><person>Yann Büchau</person></persons>
+</event>
+
+<event id="46-x2go-remote-desktops-remote-applications-was-bringt-das-neue-release-kdrive-">
+<start>14:00</start>
+<duration>00:20</duration>
+<room>V4</room>
+<title>X2Go Remote Desktops/Remote Applications - was bringt das neue Release? KDrive!</title>
+<description>X2Go ist eine Open-Source-Remote-Desktop-/Remote-Application-Services-Lösung. Sie basiert auf den GPL-NX-V3-Libraries der Firma NoMachine, auf denen auch FreeNX und NeatX basier(t)en. Zusätzlich bringt X2Go mit dem neuen Release sein eigenes, neues Protokoll "KDrive" mit.
+
+#### Über mich
+
+Stefan Baur, Jahrgang 1977, ist der aktuelle Projektmanager und Lead Evangelist des Open-Source-Projekts X2Go und geschäftsführender Gesellschafter der BAUR-ITCS UG (haftungsbeschränkt), welche Support für X2Go und eine auf X2Go basierende Security-Lösung anbietet, sowie der 1. Vorsitzende der Open Remote Computing Association - orca e.V., einem Dachverein für freie Remote-Computing-Projekte. Nebenbei bastelt er noch an seinem privaten Projekt "Grannophone" - einem Open-Source-Videotelefon für Senioren.
+
+#### Vorwissen
+
+Schon mal von X2Go gehört zu haben und es vielleicht auch schon mal installiert zu haben, wäre hilfreich. Wir werden im Vortrag zwar auch kurz erklären, was X2Go überhaupt ist, aber komplett ohne Vorkenntnisse wird es gegebenenfalls schwer.
+</description>
+<persons><person>Stefan Baur</person></persons>
+</event>
+
+<event id="40-blitz-einfhrung-in-die-funktionale-programmierung">
+<start>15:00</start>
+<duration>01:50</duration>
+<room>V4</room>
+<title>Blitz-Einführung in die funktionale Programmierung</title>
+<description>Funktionale Programmierung bringt eine Reihe von Vorteilen gegenüber der traditionellen objektorientierten Entwicklung mit: kürzere und zuverlässige Programme, deklarative Programmierung, Kombinatormodelle, algebraische Abstraktionen, eingebettete domänenspezifischen Sprachen.
+
+#### Über mich
+
+Dr. Michael Sperber ist Geschäftsführer der Active Group GmbH.  Er ist international anerkannter Experte für funktionale Programmierung und hat zahlreiche Fachartikel und Bücher zum Thema verfasst.  Michael Sperber ist Mitbegründer des Blogs funktionale-programmierung.de und Mitorganisator der Entwicklerkonferenz BOB.
+
+#### Vorwissen
+
+Ist ist kein Vorwissen erforderlich, noch nicht einmal im Programmieren.
+</description>
+<persons><person>Mike Sperber</person></persons>
 </event>
 
 </room>
@@ -601,26 +706,8 @@ Doktorand Umweltphysik Uni Tübingen, liebt freie Software
 <persons><person>Yann Büchau</person></persons>
 </event>
 
-<event id="40-blitz-einfhrung-in-die-funktionale-programmierung">
-<start>12:00</start>
-<duration>01:50</duration>
-<room>W1</room>
-<title>Blitz-Einführung in die funktionale Programmierung</title>
-<description>Funktionale Programmierung bringt eine Reihe von Vorteilen gegenüber der traditionellen objektorientierten Entwicklung mit: kürzere und zuverlässige Programme, deklarative Programmierung, Kombinatormodelle, algebraische Abstraktionen, eingebettete domänenspezifischen Sprachen.
-
-#### Über mich
-
-Dr. Michael Sperber ist Geschäftsführer der Active Group GmbH.  Er ist international anerkannter Experte für funktionale Programmierung und hat zahlreiche Fachartikel und Bücher zum Thema verfasst.  Michael Sperber ist Mitbegründer des Blogs funktionale-programmierung.de und Mitorganisator der Entwicklerkonferenz BOB.
-
-#### Vorwissen
-
-Ist ist kein Vorwissen erforderlich, noch nicht einmal im Programmieren.
-</description>
-<persons><person>Mike Sperber</person></persons>
-</event>
-
 <event id="latex-fr-einsteiger">
-<start>14:00</start>
+<start>12:00</start>
 <duration>01:50</duration>
 <room>W1</room>
 <title>LaTeX für Einsteiger</title>
@@ -636,7 +723,7 @@ Fachinformatiker für Anwendungsentwicklung und Mediengestalter. Seit 2017 mit d
 </event>
 
 <event id="48-same-procedure-as-every-year-kommandozeilen-sprechstunde-n-">
-<start>16:00</start>
+<start>14:00</start>
 <duration>01:50</duration>
 <room>W1</room>
 <title>Same Procedure as Every Year: Kommandozeilen-Sprechstunde(n)</title>

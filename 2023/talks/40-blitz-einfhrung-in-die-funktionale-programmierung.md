@@ -7,7 +7,7 @@ menu:
 ---
 ## Blitz-Einführung in die funktionale Programmierung
 
-### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 13:50 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 15:00 bis 16:50 in Raum V4
 
 ### Mike Sperber
 

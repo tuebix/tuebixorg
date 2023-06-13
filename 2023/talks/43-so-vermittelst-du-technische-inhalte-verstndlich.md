@@ -15,5 +15,5 @@ Der Vortrag soll euch helfen, technische Inhalte verständlicher zu machen und e
 
 ### Über mich
 
-Nach dem Informatikstudium begann Frank Hofmann 2002 als Entwickler, Trainer und technischer Redakteur zu arbeiten. So kennt er sich nicht nur bestens mit Linux und Python aus, sondern kann komplexe Vorgänge auch verständlich ausdrücken. Er ist Co-Autor des Debian-Paketmanagement-Buchs (https://dpmb.org) und schreibt regelmäßig  u.a. für das Linux Magazin und Linux Users. Dabei reist er gerne und arbeitet im In- und Ausland.
+Nach dem Informatikstudium begann ich 2002 als Entwickler, Trainer und technischer Redakteur zu arbeiten. So kenne ich mich nicht nur bestens mit Linux und Python aus, sondern kann komplexe Vorgänge auch verständlich ausdrücken. Ich bin Co-Autor des Debian-Paketmanagement-Buchs (https://dpmb.org) und schreibe regelmäßig  u.a. für das Linux Magazin und Linux User. Dabei reise ich gerne und arbeite im In- und Ausland.
 

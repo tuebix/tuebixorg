@@ -11,11 +11,11 @@ menu:
 
 ### Werner Heuser
 
-Der Vortrag beschreibt, wie man sich auf das LPI Exam 701: DevOps Tools Engineer vorbereiten kann.
+Der Vortrag beschreibt, wie man sich auf das LPI Exam 701: DevOps Tools Engineer vorbereiten kann. Themen sind u.a. - Welche LPI Zertifizierungen gibt es? - Was sind die Lernziele des Exam LPI 701: DevOps Tools Engineer? - Wie sieht der Ablauf der Prüfung aus? - Wie sehen die Prüfungsfragen aus (Fiktive Fragenbeispiele)? - Wie kann man sich auf die Prüfung vorbereiten?
 
 ### Vorwissen
 
-Es sind keine Vorkenntnisse erforderlich.
+Für den Vortrag sind keine Vorkenntnisse erforderlich. Für das LPI Exam 701: DevOps Tools Engineer wird eine LPIC-1 Linux Zertifizierung empfohlen, ist aber keine zwingende Bedingung. Ausserdem wird Praxiserfahrung mit Linux im DevOps Bereich empfohlen.
 
 ### Über mich
 

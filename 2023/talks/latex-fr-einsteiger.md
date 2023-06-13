@@ -7,7 +7,7 @@ menu:
 ---
 ## LaTeX für Einsteiger
 
-### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 15:50 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 13:50 in Raum W1
 
 ### Philipp Kammerer
 
