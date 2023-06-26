@@ -6,8 +6,6 @@ weight:
 menu: main
 ---
 
-**Hinweis:** Das Programm ist noch nicht ganz vollständig.
-
 Alternativ kann das Program auch über pretalx angesehen werden: [cfp.tuebix.org/tuebix-2023/schedule/](https://cfp.tuebix.org/tuebix-2023/schedule/)
 
 <table>
