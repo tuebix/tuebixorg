@@ -91,19 +91,6 @@
         "weblinks": {}
     },
     {
-        "name": "Philipp Westphal",
-        "titel": "Kein Backup \u2013 trotzdem etwas Mitleid",
-        "inhalt": "Eigendlich gilt: Kein Backup, kein Mitleid! Doch es gibt nat\u00fcrlich Ausnahmen, etwa Hilferufe von Verwandten, Freunden und Bekannten. Was also kann unternommen werden? \nIn diesem Vortrag schauen wir uns Daten auf den verschiedenen, g\u00e4ngigen Speichertypen an (z.B. Optisch, Magnetisch, Solid State) und was z.B. beim L\u00f6schen und Partitionieren geschieht. Anschlie\u00dfend erkunden wir die wichtigsten Werkzeuge, um verloren geglaubte Daten unter Umst\u00e4nden wieder herzustellen zu k\u00f6nnen und untersuchen, welche Fallstricke auftreten k\u00f6nnen. In den praktischen Beispielen soll es um defekte AudioCDs sowie nicht mehr lesbare externe Festplatten gehen. In einer Live Demo wird gezeigt, wie vermeintlich gel\u00f6schte Daten von einem USB-Stick wiederhergestellt werden k\u00f6nnen.",
-        "aboutme": "Seit 2020 ist Philipp Westphal wieder bei der B1-Systems als Consultant und Trainer aktiv. Sein Steckenpferd sind Dateisysteme und *BSD, aber auch Virtualisierung. In seiner Freizeit spielt er Bass oder Theremin, oder erkundet mit Hund und Kamera die Umgebung.",
-        "vorwissen": "",
-        "urlid": "5-kein-backup-trotzdem-etwas-mitleid",
-        "duration": 50,
-        "room": "V1",
-        "timebegin": "17:00",
-        "timeend": "17:50",
-        "weblinks": {}
-    },
-    {
         "name": "T\u00fcbix Orga Team",
         "titel": "T\u00fcbix Exit",
         "inhalt": "* gemeinsamer Abschluss\n* lottery.sh\n*Ausblick auf n\u00e4chstes Jahr",
@@ -127,6 +114,19 @@
         "room": "V1",
         "timebegin": "18:30",
         "timeend": "18:50",
+        "weblinks": {}
+    },
+    {
+        "name": "Vanessa & Ralf Menti",
+        "titel": "Kubernetes: wie die Container-Orchestrierung die Welt der Webanwendungen ver\u00e4ndert",
+        "inhalt": "Agenda: \nWas ist Kubernetes?\nWelche Vorteile hat Kubernetes? \nKubernetes in der Arbeitswelt",
+        "aboutme": "Jr. Marketing Managerin v. KubeOps GmbH\n\nKubernetes Trainer / Coach & Enthusiast | CKA | Cloud Native Nerd\n\nWhat you have to learn to do, you learn by doing. Aristotle",
+        "vorwissen": "grundlegendes IT-Verst\u00e4ndnis",
+        "urlid": "51-kubernetes-wie-die-container-orchestrierung-die-welt-der-webanwendungen-verndert",
+        "duration": 50,
+        "room": "V2",
+        "timebegin": "10:00",
+        "timeend": "10:50",
         "weblinks": {}
     },
     {
@@ -227,10 +227,10 @@
         "aboutme": "<em><strong>Michael Jerger</em></strong> [CEO] ist langj\u00e4hriger DevOps und unterst\u00fctzt Kunden bei Ihrem Weg in die Cloud. Im Laufe dieser Arbeit sind viele OpenSource Tools entstanden, die er als Maintainer oder Contributer unterst\u00fctzt.<br>",
         "vorwissen": "Python\nKubernetes",
         "urlid": "7-lightningc4k",
-        "duration": 20,
+        "duration": 10,
         "room": "V2",
         "timebegin": "17:30",
-        "timeend": "17:50",
+        "timeend": "17:40",
         "weblinks": {}
     },
     {
@@ -283,6 +283,19 @@
         "room": "V3",
         "timebegin": "13:00",
         "timeend": "13:50",
+        "weblinks": {}
+    },
+    {
+        "name": "Andr\u00e9 Niemann",
+        "titel": "Platzsparend Automatisierung testen",
+        "inhalt": "In dem Vortrag wird vorgestellt, welche M\u00f6glichkeit mit Qemu/KVM zur Verf\u00fcgung stehen um mit recht knappen physischen Ressourcen eine kleine Testumgebung zu betreiben. Im Kern ist es keine Raketenwissenschafft, man muss nur wissen welche Kniffe einem Zur Verf\u00fcgung stehen.",
+        "aboutme": "Ich fing mit Linux als Hobby zu Zeiten an, als es noch g\u00e4ngig war, Textinstaller zu benutzen. Seit einigen Jahren bin ich als Linux-Systemengineer mit Fokus auf Systemsicherheit unterwegs.",
+        "vorwissen": "Auf der Kommandozeile sollte man fit sein und seichte Vorbelastung mit Qemu kann nicht Schaden. Ist aber nicht zwingend n\u00f6tig.",
+        "urlid": "57-platzsparend-automatisierung-testen",
+        "duration": 20,
+        "room": "V3",
+        "timebegin": "14:00",
+        "timeend": "14:20",
         "weblinks": {}
     },
     {
@@ -377,16 +390,29 @@
         "weblinks": {}
     },
     {
-        "name": "",
-        "titel": "Blitzvortr\u00e4ge",
-        "inhalt": "Weitere Blitzvortr\u00e4ge a 5 Minuten",
-        "aboutme": "",
-        "vorwissen": "",
-        "urlid": "78-blitzvortrge",
-        "duration": 30,
+        "name": "Marcus Siegl",
+        "titel": "Hardware-Hacking",
+        "inhalt": "Kleiner \u00dcberblick mit Hardware-Beispielen, was man alles zum Spa\u00df am kleinen Ger\u00e4t f\u00fcr manchmal auch kleines Geld haben kann.",
+        "aboutme": "Hauptberuflich Teamleiter bei Atos/Eviden Science + Computing in T\u00fcbingen, Hintergrund aus der Elektronik und als Hobby Basteleien rund um 3D-Druck, Hausautomatisierung, Energiemessung und Hacking",
+        "vorwissen": "Kein Vorwissen ben\u00f6tigt. Neugier erw\u00fcnscht.",
+        "urlid": "60-hardware-hacking",
+        "duration": 5,
         "room": "V3",
         "timebegin": "16:00",
-        "timeend": "16:30",
+        "timeend": "16:05",
+        "weblinks": {}
+    },
+    {
+        "name": "Andi Mundt",
+        "titel": "Neues in Debian 12 \"bookworm\"",
+        "inhalt": "Nach dem Release am 10. Juni 2023 ist Debian 12 \"bookworm\" jetzt die neue 'stable'-Version von Debian GNU/Linux. Der Vortrag geht in aller K\u00fcrze auf beachtenswertes bei Installation und  Upgrade ein.",
+        "aboutme": "Physiker und Debian-Entwickler, unterwegs im Bildungssystem.",
+        "vorwissen": "",
+        "urlid": "93-neues-in-debian-12-bookworm-",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "16:05",
+        "timeend": "16:10",
         "weblinks": {}
     },
     {
