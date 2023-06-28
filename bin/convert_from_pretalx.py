@@ -10,6 +10,10 @@ with open("schedule.json", "r") as file:
 
 #print(schedule)
 
+def fix_line_endings(s):
+    """Replace DOS line endings with Unix line endings."""
+    return s.replace("\r\n", "\n")
+
 def merge_persons(persons):
     names = " & ".join(p['public_name'] for p in persons)
     bios = "\n\n".join(p['biography'] for p in persons)
@@ -38,13 +42,13 @@ def gen_talks():
             elif talk['id'] == 77:
                 slug = "tuebix-exit"
                 names = "Tübix Orga Team"
-                
+
             yield {
                 "name": names,
                 "titel": talk['title'],
-                "inhalt": talk['abstract'],
-                "aboutme": bios,
-                "vorwissen": pre_knowledge,
+                "inhalt": fix_line_endings(talk['abstract']),
+                "aboutme": fix_line_endings(bios),
+                "vorwissen": fix_line_endings(pre_knowledge),
                 "urlid": slug,
                 "duration": int(delta.total_seconds() / 60),
                 "room": roomname,

@@ -11,7 +11,7 @@ menu:
 
 ### Gerhard Klostermeier
 
-Vertrauliche Daten zu verschlüsseln war schon immer eine gute Idee, insbesondere wenn diese auf kleinen, tragbaren Geräten wie externen Festplatten oder USB-Sticks gespeichert werden. Denn im Falle eines Verlustes oder Diebstahls eines solchen Speichermediums, möchte man ganz sicher sein, dass ein unberechtigter Zugriff auf die vertraulichen Daten nicht möglich ist. Leider werden auch jetzt noch immer  "sichere" tragbare Speichermedien mit 256-AES-Hardwareverschlüsselung und manchmal auch zusätzlich mit biometrischer Technologie verkauft, die bei einer genaueren Betrachtung nicht sicher sind.  
+Vertrauliche Daten zu verschlüsseln war schon immer eine gute Idee, insbesondere wenn diese auf kleinen, tragbaren Geräten wie externen Festplatten oder USB-Sticks gespeichert werden. Denn im Falle eines Verlustes oder Diebstahls eines solchen Speichermediums, möchte man ganz sicher sein, dass ein unberechtigter Zugriff auf die vertraulichen Daten nicht möglich ist. Leider werden auch jetzt noch immer  "sichere" tragbare Speichermedien mit 256-AES-Hardwareverschlüsselung und manchmal auch zusätzlich mit biometrischer Technologie verkauft, die bei einer genaueren Betrachtung nicht sicher sind.
 
 In diesem Vortrag werden Ergebnisse eines Forschungsprojekts zu "sicheren" tragbaren Speichermedien präsentiert. Diese Forschungsarbeit setzt die lange Geschichte von unsicheren tragbaren Speichergeräten mit AES-Hardwareverschlüsselung fort, die schon viele Jahre zurückreicht. Im Rahmen dieser Präsentation soll das Bewusstsein für entsprechende Sicherheitsprobleme und für praktische Angriffe hinsichtlich dieser Geräteklasse geschärft werden.
 

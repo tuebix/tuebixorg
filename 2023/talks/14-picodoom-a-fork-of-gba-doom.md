@@ -19,8 +19,8 @@ Auf welcher Seite man einen Lötkolben anfässt für die Hardware.
 
 ### Über mich
 
-Promoviert in theor. Astrophyik.  
-Open Source Urgestein.  
-Mitglied der Apache Software Foundation.  
+Promoviert in theor. Astrophyik.  
+Open Source Urgestein.  
+Mitglied der Apache Software Foundation.  
 Entwickelt Navigationslösungen für eBikes
 

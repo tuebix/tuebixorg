@@ -15,6 +15,6 @@ Authentication fail compilation
 
 ### Über mich
 
-Cornelius beschäftigt sich seit 2004 mit Multifaktor-Authentifizierung.   
+Cornelius beschäftigt sich seit 2004 mit Multifaktor-Authentifizierung.  
 Er ist der Projektleiter des MFA-Systems privacyIDEA.
 

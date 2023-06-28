@@ -11,8 +11,8 @@ menu:
 
 ### Harald König
 
-Was ich schon immer auf der Kommandozeile mit der BASH lösen wollte...  
-Ihr fragt, ich erzähle und skripte.  
+Was ich schon immer auf der Kommandozeile mit der BASH lösen wollte...  
+Ihr fragt, ich erzähle und skripte.
 
 Eure Vorschläge & Fragen bitte möglichst vorab an koenig (at) linux.de -- danke!
 
@@ -22,14 +22,14 @@ kein Vorwissen erforderlich -- nur Interesse an der Kommandozeile & ihrer vielen
 
 ### Über mich
 
-Physik-Studium in Tübingen,  
+Physik-Studium in Tübingen,  
 Rechner und DCF77 seit ~1980,
-(La)TeX seit 1986,  
-UNIX seit ~1987,  
-Linux seit 1992 (0.98.4),  
-XFree86-Treiber fuer S3 von ~1993-2001.  
-Von 2001 bis 2014 bei der science+computing ag in Tuebingen als SW-Entwickler.  
-Seit 2014 nun bei Bosch Sensortec GmbH in Kusterdingen/Reutlingen als "System Expert" fuer Linux (DevOps) und embedded Android (Treiber).  
+(La)TeX seit 1986,  
+UNIX seit ~1987,  
+Linux seit 1992 (0.98.4),  
+XFree86-Treiber fuer S3 von ~1993-2001.  
+Von 2001 bis 2014 bei der science+computing ag in Tuebingen als SW-Entwickler.  
+Seit 2014 nun bei Bosch Sensortec GmbH in Kusterdingen/Reutlingen als "System Expert" fuer Linux (DevOps) und embedded Android (Treiber).
 
 Weitere Interessen sind u.a. Kernel, System-Technik und -Tools, Hardware, Grafik (-Treiber,-HW), Virtualisierung (v.a. XEN und ein bissl KVM), neuerdings mal wieder Embedded-Systeme und Messtechnik, GPS und OpenStreetmap, u.v.a.m.....
 

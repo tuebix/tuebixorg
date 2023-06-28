@@ -11,9 +11,9 @@ menu:
 
 ### Frank Schiebel
 
-Der Vortag gibt einen Einblick in die seit mehr als 15 Jahre andauernde Medienentwicklungsplanung eines Gymnasiums in Baden-Württemberg, das konzeptionell einen freien Ansatz bei Mediennutzung und Infrastruktur verfolgt.   
+Der Vortag gibt einen Einblick in die seit mehr als 15 Jahre andauernde Medienentwicklungsplanung eines Gymnasiums in Baden-Württemberg, das konzeptionell einen freien Ansatz bei Mediennutzung und Infrastruktur verfolgt. 
 
-Technische Bausteine sind freies Wlan mit Freifunk, konsequenter Einsatz von FOSS Software, Betrieb der Schuleigenen Geräte ausschließlich mit Linux auf aus Gründen der Nachhaltigkeit gebraucht beschaffter Harware.   
+Technische Bausteine sind freies Wlan mit Freifunk, konsequenter Einsatz von FOSS Software, Betrieb der Schuleigenen Geräte ausschließlich mit Linux auf aus Gründen der Nachhaltigkeit gebraucht beschaffter Harware. 
 
 Ein Angebot von (Online-)Werkzeugen für Schüler:inen und Lehrer:innen, ein abgestimmtes Konzept für BYOD sowie das Bestreben, die Rahmenbedingung auch konzeptionell durch die verschiedenen Gremien der Schule curricular zu verankern ergänzen die technischen Aspekte pädagogisch und organisatorisch.
 
@@ -23,6 +23,6 @@ Keines.
 
 ### Über mich
 
-* Lehrer für Mathe/Physik/Informatik/NWT  
+* Lehrer für Mathe/Physik/Informatik/NWT  
 * Medienentwicklungsplanung  und Betreuung schulischer IT Infrastruktur seit vielen Jahrzehnten - also: alt ;)
 

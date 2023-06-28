@@ -11,7 +11,7 @@ menu:
 
 ### Stefan Walter
 
-Dieser Vortrag soll einen Einstieg in Linux Kernel Debugging bieten.  
+Dieser Vortrag soll einen Einstieg in Linux Kernel Debugging bieten.  
 Danach sollten Teilnehmende prinzipiell in der Lage sein, selbst mit der Thematik zu experimentieren und interaktiv zusammen mit Source-Code den Linux Kernel zu debuggen.
 
 ### Vorwissen

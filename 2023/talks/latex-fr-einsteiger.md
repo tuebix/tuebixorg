@@ -11,8 +11,8 @@ menu:
 
 ### Philipp Kammerer
 
-Mit dem Textsatzsystem LaTeX kann man einfach und effizient umfangreiche Dokumente, wie etwa wissenschaftliche Arbeiten, Vortragsfolien, (Serien-)Briefe nach DIN, Musikpartituren und vieles mehr  erstellen. Die Auszeichnungssprache erlaubt es, systemübergreifend einheitliche PDF Dateien zu erstellen, die sprachspezifische typografische Regeln und Konventionen einhalten.  
-In diesem Workshop gebe ich euch einen kleinen Rundumschlag, was LaTeX ist, wie es funktioniert und wie man es einsetzen kann.   
+Mit dem Textsatzsystem LaTeX kann man einfach und effizient umfangreiche Dokumente, wie etwa wissenschaftliche Arbeiten, Vortragsfolien, (Serien-)Briefe nach DIN, Musikpartituren und vieles mehr  erstellen. Die Auszeichnungssprache erlaubt es, systemübergreifend einheitliche PDF Dateien zu erstellen, die sprachspezifische typografische Regeln und Konventionen einhalten.  
+In diesem Workshop gebe ich euch einen kleinen Rundumschlag, was LaTeX ist, wie es funktioniert und wie man es einsetzen kann.  
 Von der Installation aus den Paketquellen, über das erste einfache "Hallo Welt" Dokument, hin zu den wichtigsten semantischen Elementen wie Gliederung des Textes durch Überschriften und Absätze, Tabellen, Abbildungen, Fußnoten, Inhaltsverzeichnis, Titelblatt (und ggf. mehr?), sollte für den LaTeX Neueinsteiger alles wichtige dabei sein. Die Handhabung von Fehlern beim Übersetzen der Eingabedatei ins PDF ist ebenfalls Teil des Workshops.
 
 ### Über mich

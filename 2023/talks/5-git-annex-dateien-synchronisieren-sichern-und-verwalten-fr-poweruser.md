@@ -15,8 +15,8 @@ Git Annex ist das ultimative Werkzeug zum Verwalten, Synchronisieren und Sichern
 
 ### Vorwissen
 
-- Kommandozeilenerfahrung erforderlich  
-- git-Kenntnisse sehr empfehlenswert  
+- Kommandozeilenerfahrung erforderlich  
+- git-Kenntnisse sehr empfehlenswert  
 - Wenn ihr Euch Git Annex schon installiert habt, können wir gleich loslegen.
 
 ### Über mich

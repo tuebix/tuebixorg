@@ -11,7 +11,7 @@ menu:
 
 ### Philipp Westphal
 
-Eigendlich gilt: Kein Backup, kein Mitleid! Doch es gibt natürlich Ausnahmen, etwa Hilferufe von Verwandten, Freunden und Bekannten. Was also kann unternommen werden?   
+Eigendlich gilt: Kein Backup, kein Mitleid! Doch es gibt natürlich Ausnahmen, etwa Hilferufe von Verwandten, Freunden und Bekannten. Was also kann unternommen werden?  
 In diesem Vortrag schauen wir uns Daten auf den verschiedenen, gängigen Speichertypen an (z.B. Optisch, Magnetisch, Solid State) und was z.B. beim Löschen und Partitionieren geschieht. Anschließend erkunden wir die wichtigsten Werkzeuge, um verloren geglaubte Daten unter Umständen wieder herzustellen zu können und untersuchen, welche Fallstricke auftreten können. In den praktischen Beispielen soll es um defekte AudioCDs sowie nicht mehr lesbare externe Festplatten gehen. In einer Live Demo wird gezeigt, wie vermeintlich gelöschte Daten von einem USB-Stick wiederhergestellt werden können.
 
 ### Über mich

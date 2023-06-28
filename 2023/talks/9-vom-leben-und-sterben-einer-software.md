@@ -11,7 +11,7 @@ menu:
 
 ### Lukas Kallies
 
-Eine IT-Umgebungen benötigt Software und diese muss konfiguriert werden. Im einfachsten Fall wird die Software auf ein System kopiert und eine Konfigurationsdatei angepasst. In komplexeren Umgebungen kommen unterschiedliche Versionen, Abhängigkeiten und Unterscheidungen in der Konfiguration vor.  
+Eine IT-Umgebungen benötigt Software und diese muss konfiguriert werden. Im einfachsten Fall wird die Software auf ein System kopiert und eine Konfigurationsdatei angepasst. In komplexeren Umgebungen kommen unterschiedliche Versionen, Abhängigkeiten und Unterscheidungen in der Konfiguration vor.  
 Der Vortrag geht auf einige mögliche Wege der Software-, Aktualisierungs- und Konfigurationsverteilung ein. Hierbei wird auch die Frage nach der Relevanz von klassischer Softwareverteilung gestellt.
 
 ### Über mich

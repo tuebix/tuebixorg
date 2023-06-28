@@ -11,15 +11,15 @@ menu:
 
 ### Michael Jerger
 
-* 5-Factor-Build<br>  
-* K3s mit Provs<br>  
-* Applikation mit c4k<br>  
-* Alles zusammenbinden mit dda-build<br>  
+* 5-Factor-Build<br>  
+* K3s mit Provs<br>  
+* Applikation mit c4k<br>  
+* Alles zusammenbinden mit dda-build<br>  
 * Wer sind wir? GWÖ, Plastiksammelaktion<br>
 
 ### Vorwissen
 
-Python  
+Python  
 Kubernetes
 
 ### Über mich

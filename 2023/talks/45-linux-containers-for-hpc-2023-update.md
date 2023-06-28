@@ -11,7 +11,7 @@ menu:
 
 ### Holger Gantikow
 
-Der Vortrag beantwortet die Frage, wie es aktuell um Container im HPC-Bereich gestellt ist.  
+Der Vortrag beantwortet die Frage, wie es aktuell um Container im HPC-Bereich gestellt ist.  
 Seit Holgers letztem Container@HPC Vortrag hat sich einiges getan - Zeit darueber zu reden ;-)
 
 ### Vorwissen
@@ -20,6 +20,6 @@ Ein spezielles Vorwissen der Zuhörer wird nicht vorausgesetzt. Interesse an HPC
 
 ### Über mich
 
-Holger Gantikow arbeitet als CAE IT-Landscape Architect für Atos/Eviden science + computing in Tübingen.  
+Holger Gantikow arbeitet als CAE IT-Landscape Architect für Atos/Eviden science + computing in Tübingen.  
 Seit mehr als einem Jahrzehnt beschäftigt er sich mit der Komplexität von CAE-Berechnungsumgebungen und hilft Kunden aus der Automobilindustrie, das Beste aus ihren Systemen herauszuholen. Von Anfang an war er fasziniert davon, wie die Virtualisierung die IT verändert hat. Heutzutage interessiert er sich vor allem für Container.
 

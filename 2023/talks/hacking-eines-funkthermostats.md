@@ -11,7 +11,7 @@ menu:
 
 ### Gerhard Klostermeier
 
-Mit einer kurzen Suche im Internet findet man schnell viele günstige Lösungen, um Heizkörper intelligent zu steuern. Häufig nutzen solche Geräte auch proprietäre Funkverbindungen, mittels der die Zentrale dem Befehl zum ein- oder ausschalten des Heizkörpers gibt.  
+Mit einer kurzen Suche im Internet findet man schnell viele günstige Lösungen, um Heizkörper intelligent zu steuern. Häufig nutzen solche Geräte auch proprietäre Funkverbindungen, mittels der die Zentrale dem Befehl zum ein- oder ausschalten des Heizkörpers gibt.
 
 In diesem Vortrag wollen wir uns die Sicherheit einer solchen Funkverbindung anschauen. Dabei setzten wir Software Defined Radios (SDRs) mit gängigen Linux-Tools (GNU Radio, Universal Radio Hacker, etc.) ein.
 
