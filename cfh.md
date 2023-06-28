@@ -26,7 +26,7 @@ O O 19:00 - 20:00 Grillen<br/>
 
 X X 10:00 - 11:00 Getränkeausgabe <br/>
 X X 11:00 - 12:00 Getränkeausgabe <br/>
-X O 12:00 - 13:00 Getränkeausgabe <br/>
+X X 12:00 - 13:00 Getränkeausgabe <br/>
 X X 13:00 - 14:00 Getränkeausgabe <br/>
 X X 14:00 - 15:00 Getränkeausgabe <br/>
 X X 15:00 - 16:00 Getränkeausgabe <br/>
