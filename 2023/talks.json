@@ -93,7 +93,7 @@
     {
         "name": "T\u00fcbix Orga Team",
         "titel": "T\u00fcbix Exit",
-        "inhalt": "* gemeinsamer Abschluss\n* lottery.sh\n*Ausblick auf n\u00e4chstes Jahr",
+        "inhalt": "* gemeinsamer Abschluss\n* lottery.sh\n* Ausblick auf n\u00e4chstes Jahr",
         "aboutme": "",
         "vorwissen": "",
         "urlid": "tuebix-exit",
@@ -413,6 +413,32 @@
         "room": "V3",
         "timebegin": "16:05",
         "timeend": "16:10",
+        "weblinks": {}
+    },
+    {
+        "name": "Cedric Casper",
+        "titel": "Killing in the name of eBPF",
+        "inhalt": "In \"Bring Your Own Code\"-Szenarien wird den vom Benutzer bereitgestellten Containern (\"Bring Your Own Container\") h\u00e4ufig wenig bis gar nicht vertraut, weshalb zus\u00e4tzliche Schutzma\u00dfnahmen aktiviert werden. Dazu geh\u00f6ren u.a. Seccomp-Profile. Seccomp kann verwendet werden, um Prozesse in einem Container einzuschr\u00e4nken, indem bestimmte festgelegte System Calls diesem verweigert werden. Um diese M\u00f6glichkeit zu erweitern, wurde ein auf eBPF basierendes Programm geschrieben, das entsprechende Verst\u00f6\u00dfe gegen ein Seccomp Profil erkennt und den entsprechenden Podman-Container beendet. Dieses Programm soll kurz erl\u00e4utert werden.",
+        "aboutme": "Ich mag Container.",
+        "vorwissen": "Man sollte wissen, was Container (z.B. Docker, Podman) sind.",
+        "urlid": "71-killing-in-the-name-of-ebpf",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "16:10",
+        "timeend": "16:15",
+        "weblinks": {}
+    },
+    {
+        "name": "Robin Bertram",
+        "titel": "Freifunk als Veranstaltungsnetz",
+        "inhalt": "Hier stelle ich kurz vor, wie ich mit Unterst\u00fctzung vom Freifunk Stuttgart auf dem Tag der digitalen Freiheit ein Freifunk-Netz aufgebaut habe.\nBeinhaltet:\n- 3 WLAN-Access-Points\n- Offloader f\u00fcr VPN auf einem Proxmox-Server.\n- 3 Zeilen Patch und kompilieren der Gluon-Firmware",
+        "aboutme": "Robin Bertram ist Teilzeit-Admin und interessiert sich besonders f\u00fcr freie Software und B\u00fcrgerrechte im digitalen Raum.\nKeines seiner Ger\u00e4te beh\u00e4lt die Software des Herstellers. Vom Linux-Desktop \u00fcber GrapheneOS, OpenWRT und Rockbox bis hin zur Nextcloud hilft ihm freie Software im Kampf um seine Datensouver\u00e4nit\u00e4t.",
+        "vorwissen": "",
+        "urlid": "98-freifunk-als-veranstaltungsnetz",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "16:20",
+        "timeend": "16:25",
         "weblinks": {}
     },
     {

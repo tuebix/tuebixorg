@@ -53,6 +53,8 @@ Alternativ kann das Program auch über pretalx angesehen werden: [cfp.tuebix.org
 <tr><td>15:55</td><td>bis</td><td>16:00</td><td><a class="light"></a></td><td><a href="../programm/8-zellij-tmux-on-steroids">zellij&nbsp;-&nbsp;tmux&nbsp;on&nbsp;steroids</a></td><td>Matthias&nbsp;Beyer</td></tr>
 <tr><td>16:00</td><td>bis</td><td>16:05</td><td><a class="light"></a></td><td><a href="../programm/60-hardware-hacking">Hardware-Hacking</a></td><td>Marcus&nbsp;Siegl</td></tr>
 <tr><td>16:05</td><td>bis</td><td>16:10</td><td><a class="light"></a></td><td><a href="../programm/93-neues-in-debian-12-bookworm-">Neues&nbsp;in&nbsp;Debian&nbsp;12&nbsp;"bookworm"</a></td><td>Andi&nbsp;Mundt</td></tr>
+<tr><td>16:10</td><td>bis</td><td>16:15</td><td><a class="light"></a></td><td><a href="../programm/71-killing-in-the-name-of-ebpf">Killing&nbsp;in&nbsp;the&nbsp;name&nbsp;of&nbsp;eBPF</a></td><td>Cedric&nbsp;Casper</td></tr>
+<tr><td>16:20</td><td>bis</td><td>16:25</td><td><a class="light"></a></td><td><a href="../programm/98-freifunk-als-veranstaltungsnetz">Freifunk&nbsp;als&nbsp;Veranstaltungsnetz</a></td><td>Robin&nbsp;Bertram</td></tr>
 <tr><td>16:30</td><td>bis</td><td>17:20</td><td><a class="talk"></a></td><td><a href="../programm/18-101-coole-kommandozeilen-werkzeuge">101&nbsp;coole&nbsp;Kommandozeilen-Werkzeuge</a></td><td>Matthias&nbsp;Beyer</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Raum V4</td></tr>

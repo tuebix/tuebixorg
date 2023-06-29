@@ -13,5 +13,5 @@ menu:
 
 * gemeinsamer Abschluss  
 * lottery.sh  
-*Ausblick auf nächstes Jahr
+* Ausblick auf nächstes Jahr
 
