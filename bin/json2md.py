@@ -53,6 +53,7 @@ with open('programm2.md', 'w') as prog2:
     prog2.write(dedent("""\
       * <span style="font-weight: bold;">Programm</span>
       * <a href="../programm_rahmen/">Rahmenprogramm</a>
+      * <a href="../programm_was_bedeuten_die_icons">Was bedeuten die Icons <img height="18" width="18" src="../../images/workshop.svg"> <img height="18" width="18" src="../../images/talk.svg"> <img height="18" width="18" src="../../images/talk2.svg"> <img height="18" width="18" src="../../images/lightning.svg"> ?</a>
 
     """))
     prog2.write("**Hinweis:** Dieses Jahr wird es leider kein Kinderprogramm und keine LPIC-Prüfungen geben.\n\n")
