@@ -18,8 +18,6 @@ Am Vorabend: 30. Juni ab 19:00 Uhr
 Wir werden den Auftakt in der <a href="https://www.marquardtei.de/" target="_blank">Marquardtei</a>
 in der <a href="https://www.openstreetmap.org/node/249607447" target="_blank">Herrenberger Straße 34</a> machen.
 
-Treffpunkt: Ab 19:00 Uhr<br/>
-
 Zur Planung bitte vorher in folgendes Formular eintragen, wenn du vorhast zu kommen:
 <a href="https://cloud.fsi.uni-tuebingen.de/apps/polls/s/Ve7ygRC6" target="_blank">Tübix 2023 Auftakt</a>
 
@@ -27,7 +25,7 @@ Zur Planung bitte vorher in folgendes Formular eintragen, wenn du vorhast zu kom
 
 Direkt im Anschluss an die Vorträge und Workshops ab 19:00 Uhr auf dem Sand.
 
-Hinter den Gebäuden auf dem Sand gibt es eine schöne Terasse mit Garten, wo wir
+Hinter den Gebäuden auf dem Sand gibt es eine schöne Terrasse mit Garten, wo wir
 gemeinsam den Tübinger Linuxtag ausklingen lassen wollen.
 
 ### Food Truck zum Mittag, Grill gegen Abend
