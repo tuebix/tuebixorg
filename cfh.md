@@ -19,7 +19,7 @@ O heißt "es besteht noch Bedarf - zu besetzen" <br/>
 X O 15:00 - 16:00 Grillen<br/>
 X X 16:00 - 17:00 Grillen<br/>
 X X 17:00 - 18:00 Grillen<br/>
-X O 18:00 - 19:00 Grillen<br/>
+X X 18:00 - 19:00 Grillen<br/>
 O O 19:00 - 20:00 Grillen<br/>
 
 ## Getränkeausgabe (je 1h, 2 Personen)
