@@ -6,6 +6,9 @@ weight:
 menu: main
 ---
 
+* <span style="font-weight: bold;">Programm</span>
+* <a href="../programm_rahmen/">Rahmenprogramm</a>
+
 **Hinweis:** Dieses Jahr wird es leider kein Kinderprogramm und keine LPIC-Prüfungen geben.
 
 Alternativ kann das Program auch über pretalx angesehen werden: [cfp.tuebix.org/tuebix-2023/schedule/](https://cfp.tuebix.org/tuebix-2023/schedule/)

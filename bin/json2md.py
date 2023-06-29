@@ -13,6 +13,8 @@ import os
 import re
 import urllib.parse
 
+from textwrap import dedent
+
 # TODO: Convert into an argument that defaults to the current year
 # (should also select the correct directory and determine if the program should
 # be added to the main menu).
@@ -48,6 +50,11 @@ with open("talks.json") as talksfile:
 
 with open('programm2.md', 'w') as prog2:
     prog2.write(f"---\nlayout: page\ntitle: Programm\npermalink: /{YEAR}/programm/\nweight:\nmenu: main\n---\n\n")
+    prog2.write(dedent("""\
+      * <span style="font-weight: bold;">Programm</span>
+      * <a href="../programm_rahmen/">Rahmenprogramm</a>
+
+    """))
     prog2.write("**Hinweis:** Dieses Jahr wird es leider kein Kinderprogramm und keine LPIC-Prüfungen geben.\n\n")
     prog2.write("Alternativ kann das Program auch über pretalx angesehen werden: ")
     prog2.write(f"[cfp.tuebix.org/tuebix-{YEAR}/schedule/](https://cfp.tuebix.org/tuebix-{YEAR}/schedule/)\n\n")
