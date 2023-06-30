@@ -37,6 +37,8 @@ algorithmischen Filterblasen für unsere Demokratie behandeln.
 
 ### Über mich
 
+#### Steffen Schneider
+
 Steffen promoviert an der EPFL und Universität Tübingen über Robuste Lernalgorithmen zur Modellierung und Analyse biologischer Prozesse in den Neurowissenschaften. Seit 2019 engagiert er sich in der technischen Leitung bei KI macht Schule.
 
 Weitere Infos: https://ki-macht-schule.de/team.html · https://stes.io/

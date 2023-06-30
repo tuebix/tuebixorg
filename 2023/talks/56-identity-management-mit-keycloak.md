@@ -15,7 +15,11 @@ fairkom bietet niederschwellig Open Source basierte Services an, dazu zählen di
 
 ### Über mich
 
+#### Roland Alton-Scheidl
+
 Roland Alton-Scheidl ist promovierter Informatiker und leitet die fairkom Gesellschaft. Schwerpunkte sind Open Source basierte Kommunikationswerkzeuge, die er für Kunden oder im fairapps Portfolio umsetzt und betreut. An der Vorarlberg University of Applied Sciences unterrichtete und forschte er in den Studiengängen InterMedia und Digital Innovation. https://roland.alton.at, https://fairkom.eu, Mastodon https://fairmove.net/@rasos/
+
+#### Jonas Liebst
 
 Ich arbeite bei fairkom als Projekt- und Anwendungsbetreuer.
 

@@ -22,7 +22,11 @@ grundlegendes IT-Verständnis
 
 ### Über mich
 
+#### Vanessa
+
 Jr. Marketing Managerin v. KubeOps GmbH
+
+#### Ralf Menti
 
 Kubernetes Trainer / Coach & Enthusiast | CKA | Cloud Native Nerd
 

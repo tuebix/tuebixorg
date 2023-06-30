@@ -21,12 +21,18 @@ Keines
 
 ### Über mich
 
+#### Frank Schiebel
+
 * Lehrer für Mathe/Physik/Informatik/NWT  
 * Medienentwicklungsplanung  und Betreuung schulischer IT Infrastruktur seit vielen Jahrzehnten - also: alt ;)
+
+#### Andreas Grupp
 
 Eigentliche mal was mit Elektrotechnik gelernt. Seit über 25 Jahren Lehrer im beruflichen Schulwesen, Fachberater Unterricht Nachrichtentechnik & Informatik, Lehrkräfte-Fortbildner im Bereich Linux, Rechnernetze, Netzwerksicherheit, Datenschutz, … . Während der Corona-Pandemie zusammen mit einem klitzekleinen Team über 1.000 BigBlueButton-Server mit der Kapazität von über 200.000 simultanen Sessions für Schulen in Baden-Württenberg betrieben.
 
 Mastodon-Account: @angry-ät-social.tchncs.de
+
+#### Andi Mundt
 
 Physiker und Debian-Entwickler, unterwegs im Bildungssystem.
 
