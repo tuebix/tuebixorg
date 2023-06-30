@@ -16,7 +16,7 @@ def fix_line_endings(s):
 
 def merge_persons(persons):
     names = " & ".join(p['public_name'] for p in persons)
-    bios = "\n\n".join(p['biography'] for p in persons)
+    bios = "\n\n".join(p['biography'] or "" for p in persons)
 
     return names, bios
 
