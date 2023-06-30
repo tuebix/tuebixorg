@@ -13,6 +13,7 @@ menu: main
 **Hinweis:** Dieses Jahr wird es leider kein Kinderprogramm und keine LPIC-Prüfungen geben.
 
 Alternativ kann das Program auch über pretalx angesehen werden: [cfp.tuebix.org/tuebix-2023/schedule/](https://cfp.tuebix.org/tuebix-2023/schedule/)
+[Giggity](https://github.com/Wilm0r/giggity) Link: https://ggt.gaa.st/#url=https://cfp.tuebix.org/tuebix-2023/schedule/export/schedule.xml
 
 <table>
 <tr><td></td><td></td><td></td><td></td><td>Raum W1</td></tr>

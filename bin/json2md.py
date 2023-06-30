@@ -55,10 +55,12 @@ with open('programm2.md', 'w') as prog2:
       * <a href="../programm_rahmen/">Rahmenprogramm</a>
       * <a href="../programm_was_bedeuten_die_icons">Was bedeuten die Icons <img height="18" width="18" src="../../images/workshop.svg"> <img height="18" width="18" src="../../images/talk.svg"> <img height="18" width="18" src="../../images/talk2.svg"> <img height="18" width="18" src="../../images/lightning.svg"> ?</a>
 
+      **Hinweis:** Dieses Jahr wird es leider kein Kinderprogramm und keine LPIC-Prüfungen geben.
+
     """))
-    prog2.write("**Hinweis:** Dieses Jahr wird es leider kein Kinderprogramm und keine LPIC-Prüfungen geben.\n\n")
     prog2.write("Alternativ kann das Program auch über pretalx angesehen werden: ")
-    prog2.write(f"[cfp.tuebix.org/tuebix-{YEAR}/schedule/](https://cfp.tuebix.org/tuebix-{YEAR}/schedule/)\n\n")
+    prog2.write(f"[cfp.tuebix.org/tuebix-{YEAR}/schedule/](https://cfp.tuebix.org/tuebix-{YEAR}/schedule/)\n")
+    prog2.write(f"[Giggity](https://github.com/Wilm0r/giggity) Link: https://ggt.gaa.st/#url=https://cfp.tuebix.org/tuebix-{YEAR}/schedule/export/schedule.xml\n\n")
     prog2.write("<table>\n")
 
 visited_rooms = []
