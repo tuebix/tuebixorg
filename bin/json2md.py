@@ -60,7 +60,8 @@ with open('programm2.md', 'w') as prog2:
     """))
     prog2.write("Alternativ kann das Program auch über pretalx angesehen werden: ")
     prog2.write(f"[cfp.tuebix.org/tuebix-{YEAR}/schedule/](https://cfp.tuebix.org/tuebix-{YEAR}/schedule/)\n")
-    prog2.write(f"[Giggity](https://github.com/Wilm0r/giggity) Link: https://ggt.gaa.st/#url=https://cfp.tuebix.org/tuebix-{YEAR}/schedule/export/schedule.xml\n\n")
+    giggity_link = f"https://ggt.gaa.st/#url=https://cfp.tuebix.org/tuebix-{YEAR}/schedule/export/schedule.xml"
+    prog2.write(f"[Giggity](https://github.com/Wilm0r/giggity) Link: [{giggity_link}]({giggity_link})\n\n")
     prog2.write("<table>\n")
 
 visited_rooms = []
