@@ -325,6 +325,19 @@
         "weblinks": {}
     },
     {
+        "name": "Paul Rosset",
+        "titel": "Vorstellung Fablab",
+        "inhalt": "Fablab Neckar Alb e.V. ist eine offene Werkstatt in T\u00fcbingen mit vielen Ger\u00e4ten wie 3D Druckern, CnC Fr\u00e4sen und Lasercuttern. Wir setzen viele Open Source Werkzeuge ein.",
+        "aboutme": "Elektronik, 3D Druck und CNC Begeisterter aus dem Fablab \nIm normalen Leben Software Entwickler bei Bosch eBike",
+        "vorwissen": "",
+        "urlid": "102-vorstellung-fablab",
+        "duration": 5,
+        "room": "V3",
+        "timebegin": "15:30",
+        "timeend": "15:35",
+        "weblinks": {}
+    },
+    {
         "name": "Yann B\u00fcchau",
         "titel": "PlainTextAccounting mit hledger",
         "inhalt": "Du willst den \u00dcberblick \u00fcber Deine Finanzen behalten, aber die Programme sind Dir zu unflexibel? Plaintextaccounting mit hledger kann helfen.",
@@ -420,7 +433,7 @@
         "titel": "Killing in the name of eBPF",
         "inhalt": "In \"Bring Your Own Code\"-Szenarien wird den vom Benutzer bereitgestellten Containern (\"Bring Your Own Container\") h\u00e4ufig wenig bis gar nicht vertraut, weshalb zus\u00e4tzliche Schutzma\u00dfnahmen aktiviert werden. Dazu geh\u00f6ren u.a. Seccomp-Profile. Seccomp kann verwendet werden, um Prozesse in einem Container einzuschr\u00e4nken, indem bestimmte festgelegte System Calls diesem verweigert werden. Um diese M\u00f6glichkeit zu erweitern, wurde ein auf eBPF basierendes Programm geschrieben, das entsprechende Verst\u00f6\u00dfe gegen ein Seccomp Profil erkennt und den entsprechenden Podman-Container beendet. Dieses Programm soll kurz erl\u00e4utert werden.",
         "aboutme": "Ich mag Container.",
-        "vorwissen": "Man sollte wissen, was Container (z.B. Docker, Podman) sind.",
+        "vorwissen": "Man sollte wissen, was Container (z.B. Docker, Podman) sind und ggf. schon mal von Seccomp geh\u00f6rt oder es angewendet haben.",
         "urlid": "71-killing-in-the-name-of-ebpf",
         "duration": 5,
         "room": "V3",
@@ -437,8 +450,21 @@
         "urlid": "98-freifunk-als-veranstaltungsnetz",
         "duration": 5,
         "room": "V3",
-        "timebegin": "16:20",
-        "timeend": "16:25",
+        "timebegin": "16:15",
+        "timeend": "16:20",
+        "weblinks": {}
+    },
+    {
+        "name": "Steffen Schneider & Auguste Schulz",
+        "titel": "KI macht Schule",
+        "inhalt": "Die Zukunftstechnologie K\u00fcnstliche Intelligenz (KI) beeinflusst mittlerweile\nnahezu alle Bereiche unseres allt\u00e4glichen Lebens \u2014 von Sprachassistenten, intelligenter\nFahrerassistenz, \u00dcbersetzungssoftware, Internetsuche bis zur automatischen Erstellung von\nTexten (z.B. ChatGPT) und Bildern (z.B. Stable Diffusion). Wie die n\u00e4chste Generation diese\nTechnologien nutzen, gestalten und weiterentwickeln wird, wird unsere Wirtschaft und\nGesellschaft in den n\u00e4chsten Jahrzehnten ma\u00dfgeblich pr\u00e4gen.Wir haben das Ziel, breite\ngesellschaftliche Mitbestimmung und reflektierte Technologieakzeptanz zu f\u00f6rdern, indem\nwir in Schulen Kurse \u00fcber die technischen als auch ethisch-sozialen Aspekte von K\u00fcnstlicher\nIntelligenz durchf\u00fchren. Dabei bietet sich die Chance, Sch\u00fclerinnen und Sch\u00fcler dazu zu\nbegeistern und zu bef\u00e4higen, sp\u00e4ter an Universit\u00e4ten und in der Industrie neue\nKI-Innovationen zu entwickeln.\n\nUm Lehrkr\u00e4ften zu erm\u00f6glichen, selbst aktuelle KI-Anwendungen in ihrem\nFachunterricht sachlich fundiert und didaktisch hochwertig zu thematisieren, m\u00f6chten wir\ninteraktive Lehr-Lerninhalte entwickeln, die \u00fcber eine KI-Unterrichtsplattform zug\u00e4nglich\ngemacht werden. Sch\u00fclerinnen und Sch\u00fcler sollen sich durch Ausprobieren und\nExperimentieren mit neuesten KI-Technologien selbst\u00e4ndig wichtige Themengebiete\nerarbeiten und eigene Ideen testen k\u00f6nnen. Das geplante Kursmaterial wird Foliens\u00e4tze,\n\u00dcbungsbl\u00e4tter und Projektvorschl\u00e4ge f\u00fcr die Thematisierung von KI in vielen\nunterschiedlichen Unterrichtsf\u00e4chern enthalten. Damit k\u00f6nnen z.B. Deutschlehrkr\u00e4fte die\nBedeutung von textgenerierenden Large Language Modells wie ChatGPT f\u00fcr die Literatur\nund Poesie diskutieren, und Politiklehrkr\u00e4fte die Gefahren von Deepfakes und\nalgorithmischen Filterblasen f\u00fcr unsere Demokratie behandeln.",
+        "aboutme": "Steffen promoviert an der EPFL und Universit\u00e4t T\u00fcbingen \u00fcber Robuste Lernalgorithmen zur Modellierung und Analyse biologischer Prozesse in den Neurowissenschaften. Seit 2019 engagiert er sich in der technischen Leitung bei KI macht Schule.\n\nWeitere Infos: https://ki-macht-schule.de/team.html \u00b7 https://stes.io/\n\n",
+        "vorwissen": "",
+        "urlid": "99-ki-macht-schule",
+        "duration": 20,
+        "room": "V3",
+        "timebegin": "16:30",
+        "timeend": "16:50",
         "weblinks": {}
     },
     {
@@ -450,8 +476,8 @@
         "urlid": "18-101-coole-kommandozeilen-werkzeuge",
         "duration": 50,
         "room": "V3",
-        "timebegin": "16:30",
-        "timeend": "17:20",
+        "timebegin": "17:00",
+        "timeend": "17:50",
         "weblinks": {}
     },
     {
@@ -507,6 +533,19 @@
         "weblinks": {}
     },
     {
+        "name": "Michael Weiss",
+        "titel": "An introduction into eBPF",
+        "inhalt": "A short introduction into eBPF, a technology to securely run sandboxed (bytecode/JITed) programs in the kernel space via an in-kernel virtual machine.",
+        "aboutme": "Software engineer / sysadmin (science+computing AG / Atos / Eviden) and NixOS developer from Germany. Loves FLOSS, mainly interested in GNU/Linux and computer networks.",
+        "vorwissen": "",
+        "urlid": "101-an-introduction-into-ebpf",
+        "duration": 20,
+        "room": "V4",
+        "timebegin": "14:30",
+        "timeend": "14:50",
+        "weblinks": {}
+    },
+    {
         "name": "Mike Sperber",
         "titel": "Blitz-Einf\u00fchrung in die funktionale Programmierung",
         "inhalt": "Funktionale Programmierung bringt eine Reihe von Vorteilen gegen\u00fcber der traditionellen objektorientierten Entwicklung mit: k\u00fcrzere und zuverl\u00e4ssige Programme, deklarative Programmierung, Kombinatormodelle, algebraische Abstraktionen, eingebettete dom\u00e4nenspezifischen Sprachen.",
@@ -517,6 +556,19 @@
         "room": "V4",
         "timebegin": "15:00",
         "timeend": "16:50",
+        "weblinks": {}
+    },
+    {
+        "name": "Michael Weiss",
+        "titel": "Nix(OS) - Ein \u00dcberblick",
+        "inhalt": "Ein kurzer \u00dcberblick \u00fcber Nix(OS), Nixpkgs und weitere n\u00fctzliche Tools. Es geht v.a. darum die Konzepte zu vermitteln sowie die Unterschiede zu klassischen Paket-Managern aufzuzeigen (m\u00f6gliche Vor- und Nachteile).",
+        "aboutme": "Software engineer / sysadmin (science+computing AG / Atos / Eviden) and NixOS developer from Germany. Loves FLOSS, mainly interested in GNU/Linux and computer networks.",
+        "vorwissen": "Kenntnisse \u00fcber eine andere Linux-Distribution bzw. -Paketmanager sind sicher n\u00fctzlich, aber nicht erforderlich (ggf. bitte einfach nachfragen).",
+        "urlid": "100-nix-os-ein-berblick",
+        "duration": 20,
+        "room": "V4",
+        "timebegin": "17:00",
+        "timeend": "17:20",
         "weblinks": {}
     },
     {

@@ -7,7 +7,7 @@ menu:
 ---
 ## Freifunk als Veranstaltungsnetz
 
-### <img height = "32" src="../../../images/lightning.svg"> 16:20 bis 16:25 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 16:15 bis 16:20 in Raum V3
 
 ### Robin Bertram
 

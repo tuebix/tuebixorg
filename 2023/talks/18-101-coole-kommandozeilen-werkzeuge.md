@@ -7,7 +7,7 @@ menu:
 ---
 ## 101 coole Kommandozeilen-Werkzeuge
 
-### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 17:20 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:50 in Raum V3
 
 ### Matthias Beyer
 

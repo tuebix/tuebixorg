@@ -15,7 +15,7 @@ In "Bring Your Own Code"-Szenarien wird den vom Benutzer bereitgestellten Contai
 
 ### Vorwissen
 
-Man sollte wissen, was Container (z.B. Docker, Podman) sind.
+Man sollte wissen, was Container (z.B. Docker, Podman) sind und ggf. schon mal von Seccomp gehört oder es angewendet haben.
 
 ### Über mich
 
