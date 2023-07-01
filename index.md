@@ -12,6 +12,7 @@ statt.<br/>
 Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 
 **News:**
+- **Feedback-Pad** für 2023: [https://notes.fsi.uni-tuebingen.de/tuebix-2023-feedback](https://notes.fsi.uni-tuebingen.de/tuebix-2023-feedback)
 - Der Tübix findet 2023 am 1. Juli wieder statt.
 - Zur Kommunikation gibt es einen Matrix Space: [#tuebix-space:matrix.org](https://matrix.to/#/#tuebix-space:matrix.org)
   - Element Web Chat Link zum primären Kanal ("Tübix Talk"): [#tuebix:matrix.org](https://app.element.io/#/room/#tuebix:matrix.org)
