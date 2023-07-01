@@ -66,11 +66,11 @@ Wir nehmen pro Raum 2 Personen in die Liste und diese können sich dann absprech
 Sehr gerne kann man sich auch direkt als Gruppe für einen Raum anmelden und sich dann untereinander organisieren.
 
 X O Raumsupport V1<br/>
-O O Raumsupport V2<br/>
+X O Raumsupport V2<br/>
 X X Raumsupport V3<br/>
-O O Raumsupport V4<br/>
+X X Raumsupport V4<br/>
 <br/>
-O Raumsupport W1<br/>
+X Raumsupport W1<br/>
 
 ## So kann jeder helfen
 
