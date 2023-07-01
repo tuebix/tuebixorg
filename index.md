@@ -13,6 +13,8 @@ Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="d
 
 **News:**
 - Der Tübix findet 2023 am 1. Juli wieder statt.
+- Zur Kommunikation gibt es einen Matrix Space: [#tuebix-space:matrix.org](https://matrix.to/#/#tuebix-space:matrix.org)
+  - Element Web Chat Link zum primären Kanal ("Tübix Talk"): [#tuebix:matrix.org](https://app.element.io/#/room/#tuebix:matrix.org)
 - Der [Call for Helpers](callforhelpers/) ist nun eröffnet.
 - Das [Programm für 2023](2023/programm/) ist nun veröffentlicht.
   Alternativ ist das Programm auch über pretalx verfügbar:
