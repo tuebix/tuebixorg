@@ -18,8 +18,6 @@ Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="d
   Alternativ ist das Programm auch über pretalx verfügbar:
   [cfp.tuebix.org/tuebix-2023/schedule/](https://cfp.tuebix.org/tuebix-2023/schedule/)
 - 2023 wird es leider kein Kinderprogramm und keine LPIC-Prüfungen geben.
-- Die <b>Videos</b> vom Tübix 2019 sind online:
-  [TIMMS Link](https://timms.uni-tuebingen.de/List/List?id=UT_2019_________tuebix_____&Headline=T%C3%BCbix%202019)
 
 <br/>
 ![Tux](images/tux.png "Tux")

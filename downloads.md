@@ -12,6 +12,7 @@ menu: main
 - Downloads:  <a href="https://tuebix.github.io/tuebix-downloads-2019/">https://tuebix.github.io/tuebix-downloads-2019/</a>
 - Repository: <a href="https://github.com/tuebix/tuebix-downloads-2019">https://github.com/tuebix/tuebix-downloads-2019</a>
 - Alles:      <a href="https://github.com/tuebix/tuebix-downloads-2019/archive/master.zip">https://github.com/tuebix/tuebix-downloads-2019/archive/master.zip (ca. TBD GiB)</a>
+- Videos:     [TIMMS Link](https://timms.uni-tuebingen.de/List/List?id=UT_2019_________tuebix_____&Headline=T%C3%BCbix%202019)
 
 # 2018
 
