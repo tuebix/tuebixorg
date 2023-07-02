@@ -6,21 +6,19 @@ layout: default
 
 Der Tübix ist ein
 <a href="https://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a>
-und fand 2015-2019 jeweils gegen Juni in
+und fand 2015-2019 sowie 2023 jeweils gegen Juni/Juli in
 <a href="https://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a>
 statt.<br/>
 Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 
 **News:**
 - **Feedback-Pad** für 2023: [https://notes.fsi.uni-tuebingen.de/tuebix-2023-feedback](https://notes.fsi.uni-tuebingen.de/tuebix-2023-feedback)
-- Der Tübix findet 2023 am 1. Juli wieder statt.
+- Der Tübix fand 2023 am 1. Juli nach einer dreijährigen Pause wieder statt.
 - Zur Kommunikation gibt es einen Matrix Space: [#tuebix-space:matrix.org](https://matrix.to/#/#tuebix-space:matrix.org)
   - Element Web Chat Link zum primären Kanal ("Tübix Talk"): [#tuebix:matrix.org](https://app.element.io/#/room/#tuebix:matrix.org)
-- Der [Call for Helpers](callforhelpers/) ist nun eröffnet.
 - Das [Programm für 2023](2023/programm/) ist nun veröffentlicht.
   Alternativ ist das Programm auch über pretalx verfügbar:
   [cfp.tuebix.org/tuebix-2023/schedule/](https://cfp.tuebix.org/tuebix-2023/schedule/)
-- 2023 wird es leider kein Kinderprogramm und keine LPIC-Prüfungen geben.
 
 <br/>
 ![Tux](images/tux.png "Tux")
