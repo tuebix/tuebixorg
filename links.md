@@ -20,7 +20,7 @@ menu: main
 # Linux User Groups (LUGs) und sonstiges in der Umgebung
 
 * <a href="https://www.lug-reutlingen.de" target="_blank">Linux User Group Reutlingen</a>
-* <a href="https://www.listig.org" target="_blank">LISTIG / Linux Stammtisch im Gäu (Herrenberg)</a>
+* <a href="https://www.listig.org" target="_blank">LiStiG / Linux-Stammtisch im Gäu (Herrenberg)</a>
 * <a href="https://www.lisas.de" target="_blank">LUGES / Linux User Group Esslingen</a>
 * <a href="https://www.lug-s.org" target="_blank">LUGS / Linux User Group Stuttgart</a>
 * <a href="http://www.lugulm.de/dokuwiki/doku.php" target="_blank">LUGU / Linux User Group Ulm</a>
