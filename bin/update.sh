@@ -8,6 +8,5 @@ if [[ ! -d ../bin ]]; then
 fi
 
 ../bin/json2md.py
-../bin/json2giggity.py
 
 ../bin/check-urlids.sh
