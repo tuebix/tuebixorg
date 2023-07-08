@@ -7,7 +7,7 @@ weight: 9
 menu:
 ---
 
-Pinguine sind Herdentiere und helfen einander. Das heißt: Ohne Dich geht es nicht! Aber zum Glück hast Du viele Möglichkeiten, den Tübix mitzugestalten. Wenn Du Lust hast, mit ein paar anderen netten Helfern ein paar Stunden anzupacken, übernimm doch eine Schicht im Catering. Bist Du ein Organisationstalent? Dann können wir dich in der Programmunterstützung gebrauchen. Und falls Du an deinem Tübix keine Lücke für eine Helferschicht hast, kannst Du zum guten Gelingen des Tages vielleicht dadurch beisteuern, dass Du einem Besucher von außerhalb ein Bett zur Verfügung stellst.
+Pinguine sind Herdentiere und helfen einander. Das heißt: Ohne dich geht es nicht! Aber zum Glück hast du viele Möglichkeiten, den Tübix mitzugestalten. Wenn du Lust hast, mit ein paar anderen netten Helfern ein paar Stunden anzupacken, übernimm doch eine Schicht im Catering. Bist du ein Organisationstalent? Dann können wir dich in der Programmunterstützung gebrauchen. Und falls du an deinem Tübix keine Lücke für eine Helferschicht hast, kannst du zum guten Gelingen des Tages vielleicht dadurch beisteuern, dass du einem Besucher von außerhalb ein Bett zur Verfügung stellst.
 
 
 Melden kann man sich als Helfer (bitte schnellstmöglich mit Angabe der gewünschten Position) über: <a href="mailto:cfh@tuebix.org?subject=Helfer%20Tuebix">cfh@tuebix.org</a>. Wir werden den aktuellen Stand (Bedarf und bereits besetzte Posten) hier ohne Namen aufführen:<br/>
@@ -53,7 +53,7 @@ O 16:00 - 18:00 Kasse<br/>
 -->
 
 ## Gästebett (Fr/Sa und Sa/So)
-Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Dann melde dich bei uns und gib Bescheid, wieviele Übernachtungen Du ermöglichen könntest:
+Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Dann melde dich bei uns und gib Bescheid, wieviele Übernachtungen du ermöglichen könntest:
 
 O O O O O O O O O
 
@@ -74,6 +74,6 @@ X Raumsupport W1<br/>
 
 ## So kann jeder helfen
 
-- Bitte bringt nicht nur 20er-Scheine mit, damit wir nicht ins Wechselgeld-Dilemma kommen: je mehr Euro-Münzen und je weniger Scheine Du dabei hast, desto besser.
+- Bitte bringt nicht nur 20er-Scheine mit, damit wir nicht ins Wechselgeld-Dilemma kommen: je mehr Euro-Münzen und je weniger Scheine du dabei hast, desto besser.
 - Hilf Müll zu vermeiden bzw. gleich wegzuräumen, damit wir die Räumlichkeiten auch in Zukunft nutzen dürfen.
 - Sei präsent: wenn es an irgendeiner Stelle Handlungsbedarf gibt, dann handle im Sinne der Veranstaltung!

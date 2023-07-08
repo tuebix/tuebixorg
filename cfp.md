@@ -12,8 +12,8 @@ menu:
 **Deadline für Einreichungen (außer Lightning Talks): 22.05.2023**
 
 Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brauchen wir DICH!
-Hast Du Lust dein Wissen und deine Erfahrung zu teilen?
-Gerne kannst Du auch mehrere Themen einreichen und Beiträge können natürlich auch als Team gehalten werden.
+Hast du Lust dein Wissen und deine Erfahrung zu teilen?
+Gerne kannst du auch mehrere Themen einreichen und Beiträge können natürlich auch als Team gehalten werden.
 
 Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
 
