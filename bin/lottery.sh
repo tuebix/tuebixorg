@@ -43,8 +43,8 @@ while [[ $number_of_winners -lt $(($rows*$columns)) ]]; do
 
   # Determine a new unique winner:
   while true; do
-    row=`shuf --input-range=1-$rows --head-count=1`
-    seat=`shuf --input-range=1-$columns --head-count=1`
+    row=$(shuf --input-range=1-$rows --head-count=1)
+    seat=$(shuf --input-range=1-$columns --head-count=1)
     id=$(($row*$columns + $seat))
     if [[ $row -eq 5 && $seat -gt 3 ]]; then
       continue # TODO: Only for 2019 (reserved seats)
