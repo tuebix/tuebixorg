@@ -22,7 +22,7 @@ ask_continue() {
 
 # Check the arguments:
 if [[ $# -lt 1 || $# -gt 2 ]]; then
-  echo "Usage: $(basename $0) ROWS [COLUMNS]"
+  echo "Usage: $(basename "$0") ROWS [COLUMNS]"
   echo "Got $# arguments, expecting 1 or 2 arguments"
   exit 1
 fi
