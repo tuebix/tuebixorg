@@ -38,14 +38,14 @@ declare -i number_of_winners=0
 # Variables to determine the current winner
 declare -i row seat id
 
-while [[ $number_of_winners -lt $(($rows*$columns)) ]]; do
+while [[ $number_of_winners -lt $((rows*columns)) ]]; do
   clear
 
   # Determine a new unique winner:
   while true; do
     row=$(shuf --input-range=1-$rows --head-count=1)
     seat=$(shuf --input-range=1-$columns --head-count=1)
-    id=$(($row*$columns + $seat))
+    id=$((row*columns + seat))
     if [[ $row -eq 5 && $seat -gt 3 ]]; then
       continue # TODO: Only for 2019 (reserved seats)
     fi
@@ -53,7 +53,7 @@ while [[ $number_of_winners -lt $(($rows*$columns)) ]]; do
       continue # TODO: Only for 2019 (reserved seats)
     fi
     if [[ ! -v winners[$id] ]]; then
-      winners[$id]=1
+      winners[id]=1
       break
     fi
   done
@@ -69,9 +69,9 @@ while [[ $number_of_winners -lt $(($rows*$columns)) ]]; do
     echo "+-+"
     echo ""
   fi
-  for ((table_y=1; table_y <=$rows; table_y++))
+  for ((table_y=1; table_y <=rows; table_y++))
   do
-    for ((table_x=1; table_x <=$columns; table_x++))
+    for ((table_x=1; table_x <=columns; table_x++))
     do
       if [[ "$table_x" -eq "$seat" && "$table_y" -eq "$row" ]]
       then
@@ -87,6 +87,6 @@ while [[ $number_of_winners -lt $(($rows*$columns)) ]]; do
   ask_continue || break
 done
 
-if [[ $number_of_winners -eq $(($rows*$columns)) ]]; then
+if [[ $number_of_winners -eq $((rows*columns)) ]]; then
   echo "Maximum number of unique winners reached."
 fi
