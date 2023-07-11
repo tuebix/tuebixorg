@@ -138,7 +138,8 @@ for talk in data:
                     prog2.write("<tr><td>&nbsp;</td></tr>\n")
                 prog2.write("<tr><td></td><td></td><td></td><td></td><td>Raum " + talk["room"] + "</td></tr>\n")
                 visited_rooms.append(talk["room"])
-            print('<tr><td>', talk["timebegin"], '</td><td>bis</td><td>', talk["timeend"], '</td><td><a class="', cssclass, '"></a></td><td><a href="../programm/', talk["urlid"], '">', talk["titel"].replace(' ','&nbsp;'), '</a></td><td>', talk["name"].replace(' ', '&nbsp;'),'</td></tr>', file=prog2, sep='')
+            if not "urlidnew" in talk:
+                print('<tr><td>', talk["timebegin"], '</td><td>bis</td><td>', talk["timeend"], '</td><td><a class="', cssclass, '"></a></td><td><a href="../programm/', talk["urlid"], '">', talk["titel"].replace(' ','&nbsp;'), '</a></td><td>', talk["name"].replace(' ', '&nbsp;'),'</td></tr>', file=prog2, sep='')
 
         except AttributeError as e1:
             raise e1.with_traceback()

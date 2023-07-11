@@ -43,8 +43,11 @@ def gen_talks():
 
             names, bios = merge_persons(talk['persons'])
 
-            slug = talk['slug'].lstrip("tuebix-2023-")
+            slug = talk['slug'].removeprefix("tuebix-2023-")
+            # TODO: Try to improve the URL IDs for 2024 (maybe just ID + URL
+            # parameters for talk and author names (as they could change)?
 
+            # TODO: Drop these hacks:
             if talk['id'] == 76:
                 slug = "tuebix-init"
                 names = "Tübix Orga Team"
@@ -65,6 +68,24 @@ def gen_talks():
                 "timeend": end.strftime("%H:%M"),
                 "weblinks": {}
             }
+
+            # TODO: Drop this for 2024:
+            slug_old = talk['slug'].lstrip("tuebix-2023-")
+            if slug_old != slug:
+                yield {
+                    "name": names,
+                    "titel": talk['title'],
+                    "inhalt": fix_line_endings(talk['abstract']),
+                    "aboutme": fix_line_endings(bios),
+                    "vorwissen": fix_line_endings(pre_knowledge),
+                    "urlid": slug_old,
+                    "urlidnew": slug,
+                    "duration": int(delta.total_seconds() / 60),
+                    "room": roomname,
+                    "timebegin": talk['start'],
+                    "timeend": end.strftime("%H:%M"),
+                    "weblinks": {}
+                }
 
 pp = pprint.PrettyPrinter(indent=4)
 
