@@ -3,7 +3,7 @@
 set -o errexit
 
 if [[ ! -d ../bin ]]; then
-  EXEC_DIR=$(dirname $0)/../$(date +%Y)
+  EXEC_DIR=$(dirname "$0")/../$(date +%Y)
   cd "$EXEC_DIR"
 fi
 
