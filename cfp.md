@@ -8,8 +8,7 @@ weight: 10
 menu:
 ---
 
-<!--
-**Deadline für Einreichungen (außer Lightning Talks): 22.05.2023**
+**Deadline für Einreichungen (außer Lightning Talks): 31.05.2023**
 
 Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brauchen wir DICH!
 Hast du Lust dein Wissen und deine Erfahrung zu teilen?
@@ -33,10 +32,11 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
   * Zwischen den Vorträgen ist <span style="font-weight: bold;">10 min Pause OHNE Programm </span> um ggf. den Raum zu wechseln
   * Ein Vortrag muss nicht zwingend (ausschließlich) mit Folien sein, gerne auch "Demos"
   * Bring einen "Bonus-Teil" mit, falls nur wenige Fragen kommen sollten
--->
 
+<!--
 Der CfP ist zwar schon beendet, ABER du kannst gerne noch einen Lightning Talk
 einreichen:
+-->
 
 <h2><span><img height="36" width="36" src="../images/lightning.svg"></span> Lightning Talk</h2>
 
@@ -52,7 +52,7 @@ einreichen:
 Toll! Dann fülle rasch die Anmeldung aus!
 
 <div style="text-align: center; font-size: 250%; text-decoration: underline;">
-  <a href="https://cfp.tuebix.org/tuebix-2023/cfp" target="_blank">Zur Anmeldung</a>
+  <a href="https://cfp.tuebix.org/tuebix-2024/cfp" target="_blank">Zur Anmeldung</a>
 </div>
 
 <p style="text-align: right;"><a href="https://www.flaticon.com" target="_blank">Bildquelle: flaticon.com</a></p>
