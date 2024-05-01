@@ -8,7 +8,7 @@ weight: 10
 menu:
 ---
 
-**Deadline für Einreichungen (außer Lightning Talks): 31.05.2023**
+**Deadline für Einreichungen (außer Lightning Talks): 31.05.2024**
 
 Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brauchen wir DICH!
 Hast du Lust dein Wissen und deine Erfahrung zu teilen?
