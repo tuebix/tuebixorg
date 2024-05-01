@@ -17,19 +17,19 @@ menu: main
   [Gamja](https://web.libera.chat/gamja/#tuebix)
 - Alter Twitter Account: [https://twitter.com/tuebix](https://twitter.com/tuebix)
 
-# Organisationsteam Tübix 2023
+# Organisationsteam Tübix 2024
 
 <!-- Ordered alphabetically by the surname: -->
 
-* Robin Bertram
 * David Binder
-* Matthias Beyer
 * Holger Gantikow
+* Marco Häberle
 * Malte Hermann
 * Lukas Oertel
 * Gabriel Paradzik
-* Jonas Primbs
+* Ingo Skupin
 * Benjamin Steinert
+* Nico Steinle
 * Tobias Stumpp
 * Michael Weiss
 
@@ -39,6 +39,8 @@ menu: main
 
 * Felix Bauer
 * Jonas Benn
+* Robin Bertram
+* Matthias Beyer
 * Christian Brauner
 * Knut Franke
 * Florian Heimgärtner
