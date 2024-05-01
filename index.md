@@ -12,8 +12,8 @@ statt.<br/>
 Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 
 **News:**
-- **Der Tübix 2024 findet am 22. Juni statt.** Weitere Details und ein CfP
-  werden zu gegebener Zeit veröffentlicht.
+- Der **Tübix 2024** findet am **22. Juni** statt.
+- **Der [Call for Papers](callforpapers/) ist eröffnet und läuft bis zum 31. Mai.**
 - Zur Kommunikation gibt es einen Matrix Space: [#tuebix-space:matrix.org](https://matrix.to/#/#tuebix-space:matrix.org)
   - Element Web Chat Link zum primären Kanal ("Tübix Talk"): [#tuebix:matrix.org](https://app.element.io/#/room/#tuebix:matrix.org)
 
