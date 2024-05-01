@@ -32,6 +32,11 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
   * Zwischen den Vorträgen ist <span style="font-weight: bold;">10 min Pause OHNE Programm </span> um ggf. den Raum zu wechseln
   * Ein Vortrag muss nicht zwingend (ausschließlich) mit Folien sein, gerne auch "Demos"
   * Bring einen "Bonus-Teil" mit, falls nur wenige Fragen kommen sollten
+  * **Neu für 2024**: Dieses Jahr bieten wir eine besondere Kategorie an: Den
+    **"Null-Vorwissen Track"**. Vorträge dieses Tracks sind für absolute
+    Anfänger welche die Abkürzung FOSS evtl. noch nicht kennen. Diese
+    Vortrags-Kategorie ist gedacht um Neulingen den Einstieg in die FOSS- und
+    Linux-Welt schmackhaft zu machen und zu vereinfachen.
 
 <!--
 Der CfP ist zwar schon beendet, ABER du kannst gerne noch einen Lightning Talk
