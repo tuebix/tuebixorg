@@ -8,7 +8,7 @@ weight: 10
 menu: main
 ---
 
-**Deadline für Einreichungen (außer Lightning Talks): ~~31.05.2024~~ verlängert bis 09.06.2024**
+**Deadline für Einreichungen (außer Lightning Talks): ~~31.05.2024~~ verlängert bis 03.06.2024**
 
 Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brauchen wir DICH!
 Hast du Lust dein Wissen und deine Erfahrung zu teilen?
