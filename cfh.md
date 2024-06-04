@@ -85,7 +85,6 @@ dann untereinander organisieren.
 O O Raumsupport V1<br/>
 O O Raumsupport V2<br/>
 O O Raumsupport V3<br/>
-O O Raumsupport V4<br/>
 
 O Raumsupport W1<br/>
 O Raumsupport W2<br/>
