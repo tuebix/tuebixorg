@@ -30,9 +30,5 @@ Der Tübix könnte etwas für dich sein, falls du:
 * ... nebenbei ein <a href="https://uni-tuebingen.de/de/13827">Computermuseum</a> besuchen möchtest
 * ... nebenbei ein <a href="2023/programm/das-tuebinger-80cm-teleskop/">80cm-Teleskop</a> ansehen möchtest
 
-<!--
-* ... nebenbei ein <a href="2017/programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop/">80cm-Teleskop</a> ansehen möchtest
--->
-
 Der Eintritt ist frei, dafür <a href="callforhelpers/">hilft jeder ein bisschen mit</a>.
 <br/>
