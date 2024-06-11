@@ -51,10 +51,10 @@ def gen_talks():
             # parameters for talk and author names (as they could change)?
 
             # TODO: Drop these hacks:
-            if talk['id'] == 76:
+            if talk['id'] == 92:
                 slug = "tuebix-init"
                 names = "Tübix Orga Team"
-            elif talk['id'] == 77:
+            elif talk['id'] == 93:
                 slug = "tuebix-exit"
                 names = "Tübix Orga Team"
 

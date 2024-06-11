@@ -5,17 +5,15 @@ permalink: /2024/programm/tuebix-init/
 weight:
 menu:
 ---
-## Ada & Zangemann - Ein Märchen über Software, Skateboards und Himbeereis
+## Tübix init
 
-### <img height = "32" src="../../../images/talk2.svg"> 14:00 bis 14:50 in Raum V2 (F122)
+### <img height = "32" src="../../../images/talk2.svg"> 09:30 bis 09:50 in Raum V1 (F119)
 
 ### Tübix Orga Team
 
-Matthias Kirschner, Präsident der Free Software Foundation Europe, hat etwas verrücktes versucht: ein Kinderbuch über Freie Software zu schreiben. Das Ergebnis? Kinder und Erwachsene sind gleichermaßen begeistert.
-
-Reinhard Müller präsentiert das Buch in Form einer Lesung.
-
-### Über mich
-
-Reinhard Müller ist Softwareentwickler und engagiert sich seit über 20 Jahren ehrenamtlich bei der FSFE.
+* Begrüßung  
+* Infos zum Ablauf des Tages  
+* Veränderungen zu letztem Jahr  
+* Änderungen in letzter Minute  
+* Fragen?
 

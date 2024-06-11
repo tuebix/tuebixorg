@@ -5,15 +5,13 @@ permalink: /2024/programm/tuebix-exit/
 weight:
 menu:
 ---
-## SSH für/vs. Security Engineers?
+## Tübix exit
 
-### <img height = "32" src="../../../images/talk2.svg"> 16:00 bis 16:20 in Raum V2 (F122)
+### <img height = "32" src="../../../images/talk2.svg"> 17:00 bis 17:20 in Raum V1 (F119)
 
 ### Tübix Orga Team
 
-SSH (Secure Shell) ist ein Netzwerkprotokoll, das zu einem de-facto Standard für die Fernverwaltung von Servern geworden ist. Der Vortrag bietet eine Einführung in SSH, einschließlich grundlegender Anwendungen und Konfigurationen, und wird durch (leicht) fortgeschrittene Themen wie Tunnels und Proxies ergänzt. Ein ausgewähltes Beispiel zeigt, wie man mit einem SSH-Befehl ein sicheres VPN (Virtual Private Network) aufbaut.
-
-### Über mich
-
-DevOps Experte am Höchstleistungsrechenzentrum Stuttgart (HLRS)
+* gemeinsamer Abschluss  
+* lottery.sh  
+* Ausblick auf nächstes Jahr
 
