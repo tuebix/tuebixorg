@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-86-nix-os-ein-berblick/
+permalink: /2024/programm/86-nix-os-ein-berblick/
 weight:
 menu:
 ---

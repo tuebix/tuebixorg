@@ -1,17 +1,18 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-79-hacker-jeopardy-fr-alle/
+permalink: /2024/programm/78-same-procedure-as-every-year-kommandozeilen-sprechstunde-n-/
 weight:
 menu:
 ---
-## Hacker Jeopardy für alle
+## Same Procedure as Every Year: Kommandozeilen-Sprechstunde(n)
 
-### <img height = "32" src="../../../images/workshop.svg"> 17:30 bis 19:20 in Raum V1 (F119)
+### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 11:50 in Raum W1 (A302)
 
 ### Harald König
 
-Wer kennt es nicht: das Hacker Jeopardy. Der Spaß für die ganze Familie, von klein bis groß, von nüchtern bis für eine Konferenz in akzeptablem Maße angetrunken.  Dieses Mal findet das große Infotainment-Ereignis auch ein Zuhause auf dem FrOSCon.
+Was ich schon immer auf der Kommandozeile mit der BASH lösen wollte…  
+Ihr fragt, ich erzähle und skripte.
 
 ### Über mich
 

@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-84-wieso-linux-fr-softwareentwickler/
+permalink: /2024/programm/84-wieso-linux-fr-softwareentwickler/
 weight:
 menu:
 ---

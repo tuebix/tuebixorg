@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-72-bisecting-regressions-in-the-linux-kernel/
+permalink: /2024/programm/72-bisecting-regressions-in-the-linux-kernel/
 weight:
 menu:
 ---

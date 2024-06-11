@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-90-100-open-source-full-stack-cluster-management-with-qlustar/
+permalink: /2024/programm/90-100-open-source-full-stack-cluster-management-with-qlustar/
 weight:
 menu:
 ---

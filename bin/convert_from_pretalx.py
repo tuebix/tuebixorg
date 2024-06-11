@@ -46,8 +46,8 @@ def gen_talks():
 
             names, bios = merge_persons(talk['persons'])
 
-            slug = talk['slug'].removeprefix("tuebix-2023-")
-            # TODO: Try to improve the URL IDs for 2024 (maybe just ID + URL
+            slug = talk['slug'].removeprefix("tuebix-2024-")
+            # TODO: Try to improve the URL IDs for 2025 (maybe just ID + URL
             # parameters for talk and author names (as they could change)?
 
             # TODO: Drop these hacks:

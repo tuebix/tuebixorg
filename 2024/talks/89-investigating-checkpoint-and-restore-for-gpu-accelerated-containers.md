@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-89-investigating-checkpoint-and-restore-for-gpu-accelerated-containers/
+permalink: /2024/programm/89-investigating-checkpoint-and-restore-for-gpu-accelerated-containers/
 weight:
 menu:
 ---

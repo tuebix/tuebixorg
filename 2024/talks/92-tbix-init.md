@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-92-tbix-init/
+permalink: /2024/programm/92-tbix-init/
 weight:
 menu:
 ---

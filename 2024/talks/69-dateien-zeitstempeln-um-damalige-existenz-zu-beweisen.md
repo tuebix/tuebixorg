@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-69-dateien-zeitstempeln-um-damalige-existenz-zu-beweisen/
+permalink: /2024/programm/69-dateien-zeitstempeln-um-damalige-existenz-zu-beweisen/
 weight:
 menu:
 ---

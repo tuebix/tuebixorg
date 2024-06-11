@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-73-blender-3d-schnelleinstieg/
+permalink: /2024/programm/73-blender-3d-schnelleinstieg/
 weight:
 menu:
 ---

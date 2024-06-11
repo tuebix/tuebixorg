@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-85-how-to-git-internals-algorithmen-und-erweiterte-funktionen/
+permalink: /2024/programm/85-how-to-git-internals-algorithmen-und-erweiterte-funktionen/
 weight:
 menu:
 ---

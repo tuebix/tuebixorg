@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-74-sicherer-fernzugriff-dank-linux-selbst-auf-ein-uraltes-windows/
+permalink: /2024/programm/74-sicherer-fernzugriff-dank-linux-selbst-auf-ein-uraltes-windows/
 weight:
 menu:
 ---

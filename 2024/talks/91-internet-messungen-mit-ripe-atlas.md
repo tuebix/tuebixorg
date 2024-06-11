@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-91-internet-messungen-mit-ripe-atlas/
+permalink: /2024/programm/91-internet-messungen-mit-ripe-atlas/
 weight:
 menu:
 ---

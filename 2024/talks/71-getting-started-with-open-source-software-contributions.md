@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-71-getting-started-with-open-source-software-contributions/
+permalink: /2024/programm/71-getting-started-with-open-source-software-contributions/
 weight:
 menu:
 ---

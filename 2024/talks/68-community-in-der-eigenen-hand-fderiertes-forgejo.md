@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-68-community-in-der-eigenen-hand-fderiertes-forgejo/
+permalink: /2024/programm/68-community-in-der-eigenen-hand-fderiertes-forgejo/
 weight:
 menu:
 ---

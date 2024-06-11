@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-70-kamerawagen-mit-linux-h0-modelleisenbahn-/
+permalink: /2024/programm/70-kamerawagen-mit-linux-h0-modelleisenbahn-/
 weight:
 menu:
 ---

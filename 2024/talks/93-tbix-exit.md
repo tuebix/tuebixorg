@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-93-tbix-exit/
+permalink: /2024/programm/93-tbix-exit/
 weight:
 menu:
 ---

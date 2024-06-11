@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-80-rpm-deb-github-codeberg-woodpecker-und-noch-viel-mehr-/
+permalink: /2024/programm/80-rpm-deb-github-codeberg-woodpecker-und-noch-viel-mehr-/
 weight:
 menu:
 ---

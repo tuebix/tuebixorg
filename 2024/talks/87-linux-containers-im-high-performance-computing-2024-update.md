@@ -1,17 +1,17 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-88-high-performance-computing-was-ist-das-eigentlich-/
+permalink: /2024/programm/87-linux-containers-im-high-performance-computing-2024-update/
 weight:
 menu:
 ---
-## High Performance Computing - was ist das eigentlich?
+## Linux Containers im High Performance Computing - 2024 Update
 
-### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 14:20 in Raum V1 (F119)
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V1 (F119)
 
 ### Holger Gantikow
 
-Der Vortrag gibt einen Einblick in die Welt des High Performance Computings (HPC), beschreibt Einsatzzwecke, grundlegende Architekturen, warum früher alles anders war, wie es mit Linux in diesem Umfeld aussieht und wohin die Reise wohl gehen wird.
+Der Vortrag beantwortet die Frage, wie es aktuell um Container im HPC-Bereich mit Fokus auf Automotive gestellt ist, warum man das eigentlich haben möchte und welche Themen hier die nächste Zeit wichtiger werden.
 
 ### Über mich
 

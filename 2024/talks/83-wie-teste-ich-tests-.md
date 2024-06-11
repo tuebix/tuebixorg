@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-83-wie-teste-ich-tests-/
+permalink: /2024/programm/83-wie-teste-ich-tests-/
 weight:
 menu:
 ---

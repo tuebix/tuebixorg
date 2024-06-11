@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-82-banken-und-freie-software/
+permalink: /2024/programm/82-banken-und-freie-software/
 weight:
 menu:
 ---

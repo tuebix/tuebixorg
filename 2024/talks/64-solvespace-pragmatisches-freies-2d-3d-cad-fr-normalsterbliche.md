@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-64-solvespace-pragmatisches-freies-2d-3d-cad-fr-normalsterbliche/
+permalink: /2024/programm/64-solvespace-pragmatisches-freies-2d-3d-cad-fr-normalsterbliche/
 weight:
 menu:
 ---

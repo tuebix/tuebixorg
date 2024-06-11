@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-67-besser-programmieren-mit-mathematik/
+permalink: /2024/programm/67-besser-programmieren-mit-mathematik/
 weight:
 menu:
 ---

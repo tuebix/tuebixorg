@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-75-fledermuse-oder-c-neu-entdeckt/
+permalink: /2024/programm/75-fledermuse-oder-c-neu-entdeckt/
 weight:
 menu:
 ---

@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-81-einfhrung-in-openscad/
+permalink: /2024/programm/81-einfhrung-in-openscad/
 weight:
 menu:
 ---

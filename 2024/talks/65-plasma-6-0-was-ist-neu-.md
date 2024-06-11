@@ -1,7 +1,7 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/tuebix-2024-65-plasma-6-0-was-ist-neu-/
+permalink: /2024/programm/65-plasma-6-0-was-ist-neu-/
 weight:
 menu:
 ---
