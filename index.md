@@ -14,6 +14,9 @@ Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="d
 **News:**
 - Der **Tübix 2024** findet am **22. Juni** statt.
 - **Lightning Talks** können noch bis zum Tübix über den [Call for Papers](callforpapers/) eingereicht werden.
+- Das [Programm für 2024](2024/programm/) ist nun veröffentlicht.
+- Alternativ ist das Programm auch über Pretalx verfügbar:
+  [cfp.tuebix.org/tuebix-2024/schedule/](https://cfp.tuebix.org/tuebix-2024/schedule/)
 - Zur Kommunikation gibt es einen Matrix Space: [#tuebix-space:matrix.org](https://matrix.to/#/#tuebix-space:matrix.org)
   - Element Web Chat Link zum primären Kanal ("Tübix Talk"): [#tuebix:matrix.org](https://app.element.io/#/room/#tuebix:matrix.org)
 
