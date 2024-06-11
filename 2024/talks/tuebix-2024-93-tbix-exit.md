@@ -9,7 +9,9 @@ menu:
 
 ### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:20 in Raum V1 (F119)
 
-### 
+### Tübix Orga Team
 
-Verabschiedung
+* gemeinsamer Abschluss  
+* lottery.sh  
+* Ausblick auf nächstes Jahr
 

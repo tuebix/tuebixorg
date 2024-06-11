@@ -26,7 +26,7 @@ Alternativ kann das Program auch über pretalx angesehen werden: [cfp.tuebix.org
 <tr><td>14:00</td><td>bis</td><td>15:50</td><td><a class="work"></a></td><td><a href="../programm/tuebix-2024-85-how-to-git-internals-algorithmen-und-erweiterte-funktionen">How&nbsp;to&nbsp;Git:&nbsp;Internals/Algorithmen&nbsp;und&nbsp;erweiterte&nbsp;Funktionen</a></td><td>Michael&nbsp;Weiss</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Raum V1 (F119)</td></tr>
-<tr><td>09:30</td><td>bis</td><td>09:50</td><td><a class="talk"></a></td><td><a href="../programm/tuebix-2024-92-tbix-init">Tübix&nbsp;init</a></td><td></td></tr>
+<tr><td>09:30</td><td>bis</td><td>09:50</td><td><a class="talk"></a></td><td><a href="../programm/tuebix-2024-92-tbix-init">Tübix&nbsp;init</a></td><td>Tübix&nbsp;Orga&nbsp;Team</td></tr>
 <tr><td>10:00</td><td>bis</td><td>10:20</td><td><a class="talk"></a></td><td><a href="../programm/tuebix-2024-72-bisecting-regressions-in-the-linux-kernel">Bisecting&nbsp;Regressions&nbsp;in&nbsp;the&nbsp;Linux&nbsp;Kernel</a></td><td>Christian&nbsp;Heusel</td></tr>
 <tr><td>10:30</td><td>bis</td><td>11:20</td><td><a class="talk"></a></td><td><a href="../programm/tuebix-2024-75-fledermuse-oder-c-neu-entdeckt">Fledermäuse&nbsp;oder&nbsp;C&nbsp;neu&nbsp;entdeckt</a></td><td>Olaf&nbsp;Flebbe</td></tr>
 <tr><td>12:00</td><td>bis</td><td>12:50</td><td><a class="talk"></a></td><td><a href="../programm/tuebix-2024-87-linux-containers-im-high-performance-computing-2024-update">Linux&nbsp;Containers&nbsp;im&nbsp;High&nbsp;Performance&nbsp;Computing&nbsp;-&nbsp;2024&nbsp;Update</a></td><td>Holger&nbsp;Gantikow</td></tr>
@@ -34,8 +34,8 @@ Alternativ kann das Program auch über pretalx angesehen werden: [cfp.tuebix.org
 <tr><td>14:30</td><td>bis</td><td>14:50</td><td><a class="talk"></a></td><td><a href="../programm/tuebix-2024-65-plasma-6-0-was-ist-neu-">Plasma&nbsp;6.0&nbsp;–&nbsp;Was&nbsp;ist&nbsp;neu?</a></td><td>Kai&nbsp;Uwe&nbsp;Broulik</td></tr>
 <tr><td>15:00</td><td>bis</td><td>15:50</td><td><a class="talk"></a></td><td><a href="../programm/tuebix-2024-90-100-open-source-full-stack-cluster-management-with-qlustar">100%&nbsp;Open&nbsp;Source&nbsp;Full&nbsp;Stack&nbsp;Cluster&nbsp;Management&nbsp;with&nbsp;Qlustar</a></td><td>Roland&nbsp;Fehrenbacher</td></tr>
 <tr><td>16:00</td><td>bis</td><td>16:50</td><td><a class="talk"></a></td><td><a href="../programm/tuebix-2024-67-besser-programmieren-mit-mathematik">Besser&nbsp;Programmieren&nbsp;mit&nbsp;Mathematik</a></td><td>Mike&nbsp;Sperber</td></tr>
-<tr><td>17:00</td><td>bis</td><td>17:20</td><td><a class="talk"></a></td><td><a href="../programm/tuebix-2024-93-tbix-exit">Tübix&nbsp;exit</a></td><td></td></tr>
-<tr><td>17:30</td><td>bis</td><td>19:20</td><td><a class="work"></a></td><td><a href="../programm/tuebix-2024-79-hacker-jeopardy">Hacker&nbsp;Jeopardy</a></td><td>Harald&nbsp;König</td></tr>
+<tr><td>17:00</td><td>bis</td><td>17:20</td><td><a class="talk"></a></td><td><a href="../programm/tuebix-2024-93-tbix-exit">Tübix&nbsp;exit</a></td><td>Tübix&nbsp;Orga&nbsp;Team</td></tr>
+<tr><td>17:30</td><td>bis</td><td>19:20</td><td><a class="work"></a></td><td><a href="../programm/tuebix-2024-79-hacker-jeopardy-fr-alle">Hacker&nbsp;Jeopardy&nbsp;für&nbsp;alle</a></td><td>Harald&nbsp;König</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Raum V2 (F122)</td></tr>
 <tr><td>11:30</td><td>bis</td><td>12:20</td><td><a class="talk"></a></td><td><a href="../programm/tuebix-2024-70-kamerawagen-mit-linux-h0-modelleisenbahn-">Kamerawagen&nbsp;mit&nbsp;Linux&nbsp;(H0-Modelleisenbahn)</a></td><td>Roland&nbsp;Imme</td></tr>

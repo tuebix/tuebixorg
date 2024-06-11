@@ -9,7 +9,11 @@ menu:
 
 ### <img height = "32" src="../../../images/talk.svg"> 09:30 bis 09:50 in Raum V1 (F119)
 
-### 
+### Tübix Orga Team
 
-Begrüßung
+* Begrüßung  
+* Infos zum Ablauf des Tages  
+* Veränderungen zu letztem Jahr  
+* Änderungen in letzter Minute  
+* Fragen?
 

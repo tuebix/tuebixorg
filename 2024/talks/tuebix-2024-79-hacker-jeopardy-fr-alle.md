@@ -1,11 +1,11 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/4-79-hacker-jeopardy/
+permalink: /2024/programm/tuebix-2024-79-hacker-jeopardy-fr-alle/
 weight:
 menu:
 ---
-## Hacker Jeopardy
+## Hacker Jeopardy für alle
 
 ### <img height = "32" src="../../../images/workshop.svg"> 17:30 bis 19:20 in Raum V1 (F119)
 
