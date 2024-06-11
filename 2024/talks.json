@@ -81,6 +81,33 @@
         "weblinks": {}
     },
     {
+        "name": "Adrian Reber",
+        "titel": "Investigating Checkpoint and Restore for GPU-Accelerated Containers",
+        "inhalt": "GPUs are a costly commodity and training models is a time intensive task. In this session, we look to identify if we can leverage Checkpoint and Restore with containers on GPUs. Given the nascency of this technology, this is an exploratory session sharing the findings of early investigations and proof-of-concepts. We will go over the functionalities that currently exist along with gaps in the ecosystem to enable this solution.",
+        "aboutme": "Adrian is a Senior Principal Software Engineer at Red Hat and is migrating processes at least since 2010. He started to migrate processes in a high performance computing environment and at some point he migrated so many processes that he got a PhD for that. Most of the time he is now migrating containers but occasionally he still migrates single processes.",
+        "vorwissen": "",
+        "urlid": "tuebix-2024-89-investigating-checkpoint-and-restore-for-gpu-accelerated-containers",
+        "duration": 20,
+        "room": "V1 (F119)",
+        "timebegin": "11:30",
+        "timeend": "11:50",
+        "weblinks": {}
+    },
+    {
+        "name": "Adrian Reber",
+        "titel": "Investigating Checkpoint and Restore for GPU-Accelerated Containers",
+        "inhalt": "GPUs are a costly commodity and training models is a time intensive task. In this session, we look to identify if we can leverage Checkpoint and Restore with containers on GPUs. Given the nascency of this technology, this is an exploratory session sharing the findings of early investigations and proof-of-concepts. We will go over the functionalities that currently exist along with gaps in the ecosystem to enable this solution.",
+        "aboutme": "Adrian is a Senior Principal Software Engineer at Red Hat and is migrating processes at least since 2010. He started to migrate processes in a high performance computing environment and at some point he migrated so many processes that he got a PhD for that. Most of the time he is now migrating containers but occasionally he still migrates single processes.",
+        "vorwissen": "",
+        "urlid": "4-89-investigating-checkpoint-and-restore-for-gpu-accelerated-containers",
+        "urlidnew": "tuebix-2024-89-investigating-checkpoint-and-restore-for-gpu-accelerated-containers",
+        "duration": 20,
+        "room": "V1 (F119)",
+        "timebegin": "11:30",
+        "timeend": "11:50",
+        "weblinks": {}
+    },
+    {
         "name": "Holger Gantikow",
         "titel": "Linux Containers im High Performance Computing - 2024 Update",
         "inhalt": "Der Vortrag beantwortet die Frage, wie es aktuell um Container im HPC-Bereich mit Fokus auf Automotive gestellt ist, warum man das eigentlich haben m\u00f6chte und welche Themen hier die n\u00e4chste Zeit wichtiger werden.",
@@ -267,6 +294,60 @@
         "room": "V1 (F119)",
         "timebegin": "17:30",
         "timeend": "19:20",
+        "weblinks": {}
+    },
+    {
+        "name": "Torsten Kockler",
+        "titel": "Einf\u00fchrung in OpenSCAD",
+        "inhalt": "Eine kurze Einf\u00fchrung in die Bedienung des OpenSource CAD Programmes OpenSCAD",
+        "aboutme": "Webmaster der Universit\u00e4t T\u00fcbingen, Dozent der Vorlesungen \"Einf\u00fchrung in Linux\" und \"Linux f\u00fcr Fortgeschritten\".",
+        "vorwissen": "",
+        "urlid": "tuebix-2024-81-einfhrung-in-openscad",
+        "duration": 50,
+        "room": "V2 (F122)",
+        "timebegin": "10:00",
+        "timeend": "10:50",
+        "weblinks": {}
+    },
+    {
+        "name": "Torsten Kockler",
+        "titel": "Einf\u00fchrung in OpenSCAD",
+        "inhalt": "Eine kurze Einf\u00fchrung in die Bedienung des OpenSource CAD Programmes OpenSCAD",
+        "aboutme": "Webmaster der Universit\u00e4t T\u00fcbingen, Dozent der Vorlesungen \"Einf\u00fchrung in Linux\" und \"Linux f\u00fcr Fortgeschritten\".",
+        "vorwissen": "",
+        "urlid": "4-81-einfhrung-in-openscad",
+        "urlidnew": "tuebix-2024-81-einfhrung-in-openscad",
+        "duration": 50,
+        "room": "V2 (F122)",
+        "timebegin": "10:00",
+        "timeend": "10:50",
+        "weblinks": {}
+    },
+    {
+        "name": "Peter Hrenka",
+        "titel": "Wieso Linux - f\u00fcr Softwareentwickler",
+        "inhalt": "Software entwickeln mit Linux? Ja, bitte!\n\nMit den Bordmitteln von Linux ist ein leichtes, eine effiziente Entwicklungsumgebung f\u00fcr die (praktisch) alle Programmiersprachen aufzusetzen.\n\nIch werde zeigen, wie man mit wenigen Handgriffen und eine paar Cheat Codes zu einem funktionsf\u00e4higen Entwicklungssystem kommt.",
+        "aboutme": "Ich habe in T\u00fcbingen Informatik und Mathematik studiert und verwende fast ebensolange schon Linux in allen Lebenslagen. Mit einer kurzen Unterbrechung war ich auch in der Lage, Linux auch in meiner beruflichen Umgebung einzusetzen.\n\nIch nicht gerade arbeite, funke oder Klavier spiele, besuche ich C++ und OpenSource Konferenzen.",
+        "vorwissen": "",
+        "urlid": "tuebix-2024-84-wieso-linux-fr-softwareentwickler",
+        "duration": 20,
+        "room": "V2 (F122)",
+        "timebegin": "11:00",
+        "timeend": "11:20",
+        "weblinks": {}
+    },
+    {
+        "name": "Peter Hrenka",
+        "titel": "Wieso Linux - f\u00fcr Softwareentwickler",
+        "inhalt": "Software entwickeln mit Linux? Ja, bitte!\n\nMit den Bordmitteln von Linux ist ein leichtes, eine effiziente Entwicklungsumgebung f\u00fcr die (praktisch) alle Programmiersprachen aufzusetzen.\n\nIch werde zeigen, wie man mit wenigen Handgriffen und eine paar Cheat Codes zu einem funktionsf\u00e4higen Entwicklungssystem kommt.",
+        "aboutme": "Ich habe in T\u00fcbingen Informatik und Mathematik studiert und verwende fast ebensolange schon Linux in allen Lebenslagen. Mit einer kurzen Unterbrechung war ich auch in der Lage, Linux auch in meiner beruflichen Umgebung einzusetzen.\n\nIch nicht gerade arbeite, funke oder Klavier spiele, besuche ich C++ und OpenSource Konferenzen.",
+        "vorwissen": "",
+        "urlid": "4-84-wieso-linux-fr-softwareentwickler",
+        "urlidnew": "tuebix-2024-84-wieso-linux-fr-softwareentwickler",
+        "duration": 20,
+        "room": "V2 (F122)",
+        "timebegin": "11:00",
+        "timeend": "11:20",
         "weblinks": {}
     },
     {
@@ -510,6 +591,33 @@
         "room": "V3 (A301)",
         "timebegin": "12:00",
         "timeend": "12:20",
+        "weblinks": {}
+    },
+    {
+        "name": "Peter Hrenka",
+        "titel": "Wie teste ich Tests?",
+        "inhalt": "Langsam hat es sich herumgesprochen, dass man Software testen sollte und OpenSource Projekte gehen auch oft mit gutem Beispiel voran.\n\nAber wann ist ein Test denn ein guter Test? Wenn er 100% Coverage hat?\nLeider taugt Coverage nicht als alleiniges G\u00fctekriterium weshalb man noch etwas anderes braucht.\nIch stelle die Idee des \"adversarial testing\" vor, das mit (relativ) einfachen Mitteln eine Verbesserung der Test-Qualit\u00e4t erreichen kann.",
+        "aboutme": "Ich habe in T\u00fcbingen Informatik und Mathematik studiert und verwende fast ebensolange schon Linux in allen Lebenslagen. Mit einer kurzen Unterbrechung war ich auch in der Lage, Linux auch in meiner beruflichen Umgebung einzusetzen.\n\nIch nicht gerade arbeite, funke oder Klavier spiele, besuche ich C++ und OpenSource Konferenzen.",
+        "vorwissen": "",
+        "urlid": "tuebix-2024-83-wie-teste-ich-tests-",
+        "duration": 50,
+        "room": "V3 (A301)",
+        "timebegin": "13:00",
+        "timeend": "13:50",
+        "weblinks": {}
+    },
+    {
+        "name": "Peter Hrenka",
+        "titel": "Wie teste ich Tests?",
+        "inhalt": "Langsam hat es sich herumgesprochen, dass man Software testen sollte und OpenSource Projekte gehen auch oft mit gutem Beispiel voran.\n\nAber wann ist ein Test denn ein guter Test? Wenn er 100% Coverage hat?\nLeider taugt Coverage nicht als alleiniges G\u00fctekriterium weshalb man noch etwas anderes braucht.\nIch stelle die Idee des \"adversarial testing\" vor, das mit (relativ) einfachen Mitteln eine Verbesserung der Test-Qualit\u00e4t erreichen kann.",
+        "aboutme": "Ich habe in T\u00fcbingen Informatik und Mathematik studiert und verwende fast ebensolange schon Linux in allen Lebenslagen. Mit einer kurzen Unterbrechung war ich auch in der Lage, Linux auch in meiner beruflichen Umgebung einzusetzen.\n\nIch nicht gerade arbeite, funke oder Klavier spiele, besuche ich C++ und OpenSource Konferenzen.",
+        "vorwissen": "",
+        "urlid": "4-83-wie-teste-ich-tests-",
+        "urlidnew": "tuebix-2024-83-wie-teste-ich-tests-",
+        "duration": 50,
+        "room": "V3 (A301)",
+        "timebegin": "13:00",
+        "timeend": "13:50",
         "weblinks": {}
     },
     {
