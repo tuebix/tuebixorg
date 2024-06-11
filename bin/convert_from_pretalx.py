@@ -72,24 +72,6 @@ def gen_talks():
                 "weblinks": {}
             }
 
-            # TODO: Drop this for 2024:
-            slug_old = talk['slug'].lstrip("tuebix-2023-")
-            if slug_old != slug:
-                yield {
-                    "name": names,
-                    "titel": talk['title'],
-                    "inhalt": fix_line_endings(talk['abstract']),
-                    "aboutme": fix_line_endings(bios),
-                    "vorwissen": fix_line_endings(pre_knowledge),
-                    "urlid": slug_old,
-                    "urlidnew": slug,
-                    "duration": int(delta.total_seconds() / 60),
-                    "room": roomname,
-                    "timebegin": talk['start'],
-                    "timeend": end.strftime("%H:%M"),
-                    "weblinks": {}
-                }
-
 pp = pprint.PrettyPrinter(indent=4)
 
 talks = list(gen_talks())
