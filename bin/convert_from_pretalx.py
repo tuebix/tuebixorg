@@ -27,6 +27,9 @@ def merge_persons(persons):
             bios += f"#### {p['public_name']}\n\n"
             bios += p['biography']
 
+    if not bios:
+        bios = ""
+
     return names, bios
 
 def gen_talks():

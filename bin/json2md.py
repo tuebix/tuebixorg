@@ -14,11 +14,12 @@ import re
 import urllib.parse
 
 from textwrap import dedent
+from datetime import datetime
 
 # TODO: Convert into an argument that defaults to the current year
 # (should also select the correct directory and determine if the program should
 # be added to the main menu).
-YEAR = 2023
+YEAR = int(datetime.now().year)
 
 def parse_weblink(weblinks):
 
