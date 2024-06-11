@@ -11,7 +11,7 @@ menu: main
 * <a href="../lageplan/">Lageplan</a>
 * <a href="../programm_was_bedeuten_die_icons">Was bedeuten die Icons <img height="18" width="18" src="../../images/workshop.svg"> <img height="18" width="18" src="../../images/talk.svg"> <img height="18" width="18" src="../../images/talk2.svg"> <img height="18" width="18" src="../../images/lightning.svg"> ?</a>
 
-**Hinweis:** Dieses Jahr wird es leider kein Kinderprogramm und keine LPIC-Prüfungen geben.
+**Hinweis:** Dieses Jahr wird es leider keine LPIC-Prüfungen geben. Weitere Infos zum Kinderprogramm folgen noch.
 
 Alternativ kann das Program auch über pretalx angesehen werden: [cfp.tuebix.org/tuebix-2024/schedule/](https://cfp.tuebix.org/tuebix-2024/schedule/)
 [Giggity](https://github.com/Wilm0r/giggity) Link: [https://ggt.gaa.st/#url=https://cfp.tuebix.org/tuebix-2024/schedule/export/schedule.xml](https://ggt.gaa.st/#url=https://cfp.tuebix.org/tuebix-2024/schedule/export/schedule.xml)
