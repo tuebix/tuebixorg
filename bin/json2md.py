@@ -57,13 +57,13 @@ with open('programm2.md', 'w') as prog2:
       * <a href="../lageplan/">Lageplan</a>
       * <a href="../programm_was_bedeuten_die_icons">Was bedeuten die Icons <img height="18" width="18" src="../../images/workshop.svg"> <img height="18" width="18" src="../../images/talk.svg"> <img height="18" width="18" src="../../images/talk2.svg"> <img height="18" width="18" src="../../images/lightning.svg"> ?</a>
 
-      **Hinweis:** Dieses Jahr wird es leider keine LPIC-Prüfungen geben. Weitere Infos zum Kinderprogramm folgen noch.
+      **Hinweis:** Weitere Infos zum Kinderprogramm folgen noch.
 
     """))
-    prog2.write("Alternativ kann das Program auch über pretalx angesehen werden: ")
-    prog2.write(f"[cfp.tuebix.org/tuebix-{YEAR}/schedule/](https://cfp.tuebix.org/tuebix-{YEAR}/schedule/)\n")
+    prog2.write("Alternativ kann das Program auch über Pretalx angesehen werden: ")
+    prog2.write(f"[cfp.tuebix.org/tuebix-{YEAR}/schedule/](https://cfp.tuebix.org/tuebix-{YEAR}/schedule/)\n\n")
     giggity_link = f"https://ggt.gaa.st/#url=https://cfp.tuebix.org/tuebix-{YEAR}/schedule/export/schedule.xml"
-    prog2.write(f"[Giggity](https://github.com/Wilm0r/giggity) Link: [{giggity_link}]({giggity_link})\n\n")
+    prog2.write(f"Unter Android kann man folgenden Link verwenden um das Programm in die App [Giggity](https://github.com/Wilm0r/giggity) zu laden: [{giggity_link}]({giggity_link})\n\n")
     prog2.write("<table>\n")
 
 visited_rooms = []
