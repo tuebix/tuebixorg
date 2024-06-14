@@ -15,7 +15,7 @@ menu:
 
 ### Freitag Abend: Auftakt
 
-Am Vorabend: 21. Juni ab ??:?? Uhr
+Am Vorabend: 21. Juni ab 19:00 Uhr im Coyote Cafe: https://coyote.de/filialen/tuebingen/
 
 Details folgen...
 
@@ -28,11 +28,11 @@ gemeinsam den Tübinger Linuxtag ausklingen lassen wollen.
 
 ### Food Truck zum Mittag, Grill gegen Abend
 
-Während der Mittagszeit (etwa 11:00 bis 15:00 Uhr) wird
+Während der Mittagszeit (etwa 11:00 bis 16:00 Uhr) wird
 ein Food Truck auf dem Sand sein.
 Danach gibt es Grillwurst und Grillkäse (etwa 15:00 bis 20:00 Uhr).
 
 ### Getränke
 
 Sofern genügend Helfer vorhanden sind werden den ganzen Tag über Getränke
-verkauft.
+verkauft (ca. 10:00 bis 21:00 Uhr).
