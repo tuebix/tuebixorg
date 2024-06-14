@@ -7,7 +7,7 @@ menu:
 ---
 ## Linux Containers im High Performance Computing - 2024 Update
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V1 (F119)
+### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 14:20 in Raum V1 (F119)
 
 ### Holger Gantikow
 
