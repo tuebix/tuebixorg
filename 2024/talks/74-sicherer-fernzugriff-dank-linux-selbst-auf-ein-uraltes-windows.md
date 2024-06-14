@@ -31,6 +31,10 @@ kann, aber auch, wie man diesen Raspberry Pi selbst zum X2Go-Server machen kann,
 dort auf Windows-Systeme zu verbinden.  
 Die letzte Komponente ist der Aufruf des X2GoClients, der auch als "Portable Application", von einem USB-Stick, an einem beliebigen Windows-PC gestartet werden kann - oder man bootet von diesem Stick unser X2Go-Thin-Client-Image.
 
+#### Vorwissen
+
+Grundsätzliches Verständnis von Betriebssystemen (Linux, Windows) und Remote-Desktop-Verbindungen (VNC, RDP, X2Go) ist hilfreich.
+
 ### Über mich
 
 Stefan Baur, Jahrgang 1977, ist der aktuelle Projektmanager und Lead Evangelist des Open-  

@@ -30,3 +30,9 @@ Ergebnisse:
 * Erstellung einer kleinen Animation  
 * Durchführung einer Kamerafahrt
 
+#### Vorwissen
+
+Blender-Vorkenntnisse sind nicht nötig.  
+Vorhandene Kenntnisse im Umgang mit Grafiksoftware und Tastatur-Kürzeln sind nützlich.  
+Englischkenntnisse sind von Vorteil (der Workshop ist deutsch, doch Blender nutzt englische Begriffe).
+

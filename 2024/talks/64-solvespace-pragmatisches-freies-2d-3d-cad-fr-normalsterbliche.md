@@ -21,6 +21,10 @@ SolveSpace ist ein freies 2D/3D CAD Programm mit überschaubarem aber trotzdem m
 
 Ein Laptop und eine Maus (!) werden benötigt. Touchpad geht auch, macht aber keinen Spaß.
 
+#### Vorwissen
+
+Vorwissen wird keins benötigt. Eine Maus zur Bedienung ist aber sehr zu empfehlen!
+
 ### Über mich
 
 Doktorand in der Umweltphysik an der Uni Tübingen, FOSS Verfechter und Linux-Enthusiast

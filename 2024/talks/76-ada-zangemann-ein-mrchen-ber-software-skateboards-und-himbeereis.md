@@ -25,6 +25,10 @@ Das illustrierte Buch erzählt die Geschichte vom berühmten Erfinder Zangemann 
 
 Ein Buch Kindern die Freude am Tüfteln vermittelt und zum selbstbestimmten Umgang mit Technik aufruft. Von 6 bis 106 Jahren.
 
+#### Vorwissen
+
+keines
+
 ### Über mich
 
 Reinhard Müller ist Softwareentwickler und engagiert sich seit über 20 Jahren ehrenamtlich bei der FSFE.

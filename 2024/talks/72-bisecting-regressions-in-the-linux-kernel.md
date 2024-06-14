@@ -30,6 +30,11 @@ Hier drei beispielhafte Bugreports:
 - https://lore.kernel.org/all/3iccc6vjl5gminut3lvpl4va2lbnsgku5ei2d7ylftoofy3n2v@gcfdvtsq6dx2/  
 - https://gitlab.archlinux.org/archlinux/packaging/packages/linux/-/issues/56
 
+#### Vorwissen
+
+- git  
+- Kommandozeilenfähigkeiten
+
 ### Über mich
 
 Informatikstudent an der Universität Heidelberg und Arch Linux Package Maintainer, Bug Wrangler & DevOps Teammember.

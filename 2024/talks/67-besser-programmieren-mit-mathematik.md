@@ -19,6 +19,10 @@ Die Menschheit hat die Mathematik entwickelt, um die Welt zu verstehen.  Entspre
 
 In diesem Vortrag schauen wir uns an, was Algebra und Logik zur Programmierung beitragen können. Sie helfen dabei, die Essenz komplexer Probleme zu extrahieren und bringend Ordnung und Eleganz auch in chaotische Domänen.  Die entstehenden Modelle sind einfach, erweiterbar und antizipieren auch zukünftige Anforderungen.  Kompliziert ist das ganze nicht und erfordert auch kein Spezialstudium: Eine kleine Handvoll mathematischer Konzepte reichen schon aus, um bei vielen Problemen eine Menge herauszuholen.  Das geht natürlich am besten in Kombination mit funktionaler Programmierung, aber auch OO-Software kann profitieren.
 
+#### Vorwissen
+
+Man sollte schonmal was programmiert haben.
+
 ### Über mich
 
 Dr. Michael Sperber ist Geschäftsführer der Active Group GmbH.  Er ist international anerkannter Experte für funktionale Programmierung und hat zahlreiche Fachartikel und Bücher zum Thema verfasst.  Michael Sperber ist Mitbegründer des Blogs funktionale-programmierung.de und Mitorganisator der Entwicklerkonferenz BOB.

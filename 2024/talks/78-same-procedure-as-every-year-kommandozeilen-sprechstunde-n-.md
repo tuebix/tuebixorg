@@ -26,6 +26,10 @@ Daher, wie schon in den letzten Jahren: Angebot, über hoffentlich interessante 
 
 Am besten natürlich über EURE Probleme, daher bitte im VORAUS mit interessanten Themen melden an: koenig (at) linux.de
 
+#### Vorwissen
+
+kein Vorwissen erforderlich – nur Interesse an der Kommandozeile & ihrer vielen Tools
+
 ### Über mich
 
 Physik-Studium in Tübingen,  

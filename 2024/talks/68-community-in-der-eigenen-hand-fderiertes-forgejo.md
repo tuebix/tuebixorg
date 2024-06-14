@@ -30,6 +30,10 @@ Und hier haben wir eine aktuellen Stand zum Testen:
 
 https://federated-repo.prod.meissa.de/
 
+#### Vorwissen
+
+OpenSource Softwareentwickler und Fediverse Nutzer.
+
 ### Über mich
 
 Wer wir sind: meissa GmbH  

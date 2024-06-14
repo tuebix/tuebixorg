@@ -126,7 +126,7 @@ for talk in data:
                 mdf.write(transform_linefeeds(talk["description"]) + "\n\n")
 
             if talk["vorwissen"]:
-                mdf.write("### Vorwissen\n\n" + transform_linefeeds(talk["vorwissen"]) + "\n\n")
+                mdf.write("#### Vorwissen\n\n" + transform_linefeeds(talk["vorwissen"]) + "\n\n")
             if talk["aboutme"]:
                 if re.search("\+|,", talk["name"]): # One or multiple speakers?
                     mdf.write("### Über uns\n\n")

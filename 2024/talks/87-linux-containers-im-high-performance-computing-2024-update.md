@@ -20,6 +20,10 @@ Der Vortrag beantwortet die Frage, wie es aktuell um Container im HPC-Bereich mi
 Vorwissen  
 Ein spezielles Vorwissen der Zuhörenden wird nicht vorausgesetzt. Interesse an HPC, Virtualisierung, speziell Containern ist sicherlich von Vorteil, um eine rege Diskussion und Erfahrungsaustausch zu gewährleisten.
 
+#### Vorwissen
+
+Ein spezielles Vorwissen der Zuhörer wird nicht vorausgesetzt. Interesse an HPC, Virtualisierung, speziell Containern ist sicherlich von Vorteil, um eine rege Diskussion und Erfahrungsaustausch zu gewährleisten.
+
 ### Über mich
 
 Holger Gantikow arbeitet als IT-Landscape Architect für Atos/Eviden science + computing in Tübingen.  

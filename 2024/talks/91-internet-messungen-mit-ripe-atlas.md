@@ -21,6 +21,10 @@ RIPE Atlas ermöglicht sowohl eigene Messungen als auch den Betrieb eigener Mess
 
 Die zentralen Steuerungskomponenten sowie Auswertungswerkzeuge und Visualisierungen werden vom RIPE NCC in Amsterdam, der Vergabestelle für IP-Adressbereiche und AS-Nummern in Europa, dem Nahen Osten und Teile von Zentralasien, bereitgestellt, betrieben und weiterentwickelt. Die Messpunkte selbst bestehen aus Open-Source-Software und können von Interessierten und Freiwilligen, auch am heimischen Internetanschluss, betrieben werden.
 
+#### Vorwissen
+
+Internet/Netzwerk-Grundkenntnisse, Traceroute, Ping
+
 ### Über mich
 
 Langjähriger Contributor beim Fedora-Projekt, z.B. als Paket-Maintainer, sowie Mitwirkender bei diversen anderen Open-Source-Projekten – mit Interesse an IPv6 und (öffentlichen) Netzwerken.

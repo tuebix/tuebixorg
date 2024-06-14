@@ -24,6 +24,10 @@ Ich stelle die Idee des "adversarial testing" vor, das mit (relativ) einfachen M
 Die Grundidee ist recht einfach: Ein guter Test muss "gute" von "schlechten" Programmen unterscheiden können. Wenn man nun die Test-Infrastruktur so aufbaut, dass man beliebige Funktionen und Klassen mit demselben Test prüfen kann, kann man mit recht trivialen "bösartigen Implementierungen" ungeeignete Tests entlarven und anschließend verbessern.  
 In dem Vortrag werde ich einige Beispiele zeigen, wie man das "adversarial testing" mit einem leicht modifizierten googletest praktisch an einem C++-Programm durchführen kann.
 
+#### Vorwissen
+
+C/C++ Grundwissen, Grundwissen Softwaretest.
+
 ### Über mich
 
 Ich habe in Tübingen Informatik und Mathematik studiert und verwende fast ebensolange schon Linux in allen Lebenslagen. Mit einer kurzen Unterbrechung war ich auch in der Lage, Linux auch in meiner beruflichen Umgebung einzusetzen.

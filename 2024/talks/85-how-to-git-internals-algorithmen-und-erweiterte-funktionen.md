@@ -23,6 +23,12 @@ Im zweiten Teil werden wir uns darauf aufbauend einen Überblick über die CLI u
 
 Update: Auf Grund der begrenzten Zeit wird es evtl. eher ein Vortrag zum mitmachen als ein richtiger Workshop.
 
+#### Vorwissen
+
+Am besten sollte man Git schon verwendet haben und zumindest grob damit vertraut sein. Aus zeitlichen Gründen müssen wir etwas tempo machen und werden direkt in die Details eintauchen (also z.B. eine Einführung/Motivation zu Versionskontrollsystemen (VCS) überspringen). Die Zielgruppe sind Git Benutzer die mit den Grundlagen der Git CLI vertraut sind und gerne die interne Funktionsweise sowie erweiterte Funktionen erlernen möchten.
+
+Nach Möglichkeit bitte einen Laptop mit vorinstalliertem Git mitbringen um richtig am Workshop teilnehmen zu können.
+
 ### Über mich
 
 Software engineer / sysadmin (science+computing AG / Atos / Eviden) and NixOS developer from Germany. Loves FLOSS, mainly interested in GNU/Linux and computer networks.

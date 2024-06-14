@@ -15,6 +15,11 @@ menu:
 
 Der Vortrag gibt einen Einblick in die Welt des High Performance Computings (HPC), beschreibt Einsatzzwecke, grundlegende Architekturen, warum früher alles anders war, wie es mit Linux in diesem Umfeld aussieht und wohin die Reise wohl gehen wird.
 
+#### Vorwissen
+
+Ein spezielles Vorwissen der Zuhörenden wird nicht vorausgesetzt.  
+Interesse an Technik ist sicherlich von Vorteil, auch wenn dieser Vortrag gar nicht so in die Tiefe gehen soll.
+
 ### Über mich
 
 Holger Gantikow arbeitet als IT-Landscape Architect für Atos/Eviden science + computing in Tübingen.  
