@@ -11,11 +11,19 @@ menu:
 
 ### Peter Hrenka
 
+#### Abstract
+
 Software entwickeln mit Linux? Ja, bitte!
 
 Mit den Bordmitteln von Linux ist ein leichtes, eine effiziente Entwicklungsumgebung für die (praktisch) alle Programmiersprachen aufzusetzen.
 
 Ich werde zeigen, wie man mit wenigen Handgriffen und eine paar Cheat Codes zu einem funktionsfähigen Entwicklungssystem kommt.
+
+#### Beschreibung
+
+Viele Software-Entwickler kennen leider nur Windows als Entwicklungsumgebung, weil sie es nicht anders gelernt haben und in ihrem beruflichen Umfeld so vorgesetzt bekommen. Linux ist schon irgendwie bekannt wird aber nicht als Entwicklungssystem wahrgenommen.
+
+Obwohl auch Windows langsam besser wird, ist Linux ein System von Entwicklern für Entwickler und jeder sollte die Vorzüge des "Originals" kennenlernen.
 
 ### Über mich
 

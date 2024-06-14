@@ -11,11 +11,18 @@ menu:
 
 ### Peter Hrenka
 
+#### Abstract
+
 Langsam hat es sich herumgesprochen, dass man Software testen sollte und OpenSource Projekte gehen auch oft mit gutem Beispiel voran.
 
 Aber wann ist ein Test denn ein guter Test? Wenn er 100% Coverage hat?  
 Leider taugt Coverage nicht als alleiniges Gütekriterium weshalb man noch etwas anderes braucht.  
 Ich stelle die Idee des "adversarial testing" vor, das mit (relativ) einfachen Mitteln eine Verbesserung der Test-Qualität erreichen kann.
+
+#### Beschreibung
+
+Die Grundidee ist recht einfach: Ein guter Test muss "gute" von "schlechten" Programmen unterscheiden können. Wenn man nun die Test-Infrastruktur so aufbaut, dass man beliebige Funktionen und Klassen mit demselben Test prüfen kann, kann man mit recht trivialen "bösartigen Implementierungen" ungeeignete Tests entlarven und anschließend verbessern.  
+In dem Vortrag werde ich einige Beispiele zeigen, wie man das "adversarial testing" mit einem leicht modifizierten googletest praktisch an einem C++-Programm durchführen kann.
 
 ### Über mich
 

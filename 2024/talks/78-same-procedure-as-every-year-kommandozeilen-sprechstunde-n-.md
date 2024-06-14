@@ -11,8 +11,20 @@ menu:
 
 ### Harald König
 
+#### Abstract
+
 Was ich schon immer auf der Kommandozeile mit der BASH lösen wollte…  
 Ihr fragt, ich erzähle und skripte.
+
+#### Beschreibung
+
+An euren Fragen, Themen und Problemen (oder doch wieder nur meine eigenen Lösungen?) werde ich einige Shell-Grundlagen erörtern und helfen, neue Ideen zu bekommen...
+
+Die Kommandozeilenwerkzeuge von UNIX/Linux zusammen mit der Shell sind immer noch sehr mächtig und schnell, und zwar sowohl bezüglich der Laufzeit als auch der Entwicklungszeit für kleine Lösungen. Diese einfachen Tools helfen immer noch jeden Tag bei vielen Aufgaben, sowohl im Job als auch privat.
+
+Daher, wie schon in den letzten Jahren: Angebot, über hoffentlich interessante und aktuelle shell-Probleme zu reden.
+
+Am besten natürlich über EURE Probleme, daher bitte im VORAUS mit interessanten Themen melden an: koenig (at) linux.de
 
 ### Über mich
 

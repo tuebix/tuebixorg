@@ -11,7 +11,14 @@ menu:
 
 ### Holger Gantikow
 
+#### Abstract
+
 Der Vortrag beantwortet die Frage, wie es aktuell um Container im HPC-Bereich mit Fokus auf Automotive gestellt ist, warum man das eigentlich haben möchte und welche Themen hier die nächste Zeit wichtiger werden.
+
+#### Beschreibung
+
+Vorwissen  
+Ein spezielles Vorwissen der Zuhörenden wird nicht vorausgesetzt. Interesse an HPC, Virtualisierung, speziell Containern ist sicherlich von Vorteil, um eine rege Diskussion und Erfahrungsaustausch zu gewährleisten.
 
 ### Über mich
 

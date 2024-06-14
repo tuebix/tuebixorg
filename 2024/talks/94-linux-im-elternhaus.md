@@ -11,6 +11,8 @@ menu:
 
 ### Christoph Wirth
 
+#### Abstract
+
 Erfahrungsbericht von einem Jahr Umstellung auf Linux im Elternhaus
 
 ### Über mich

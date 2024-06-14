@@ -11,6 +11,8 @@ menu:
 
 ### Holger Gantikow
 
+#### Abstract
+
 Der Vortrag gibt einen Einblick in die Welt des High Performance Computings (HPC), beschreibt Einsatzzwecke, grundlegende Architekturen, warum früher alles anders war, wie es mit Linux in diesem Umfeld aussieht und wohin die Reise wohl gehen wird.
 
 ### Über mich

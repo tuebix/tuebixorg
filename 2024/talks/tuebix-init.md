@@ -11,6 +11,8 @@ menu:
 
 ### Tübix Orga Team
 
+#### Abstract
+
 * Begrüßung  
 * Infos zum Ablauf des Tages  
 * Veränderungen zu letztem Jahr  

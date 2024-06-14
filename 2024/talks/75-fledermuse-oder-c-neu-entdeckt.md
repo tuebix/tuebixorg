@@ -11,6 +11,8 @@ menu:
 
 ### Olaf Flebbe
 
+#### Abstract
+
 Aufbau eines Selbstbau Fledermausdetektors auf Basis rp2040 mit Spektrogramm und Datenlogger.
 
 Wie ich die Programmiersprache C wiederentdeckte für die Firmware: DMA, SDIO, SPI, Multicore und Signalverarbeitung. 

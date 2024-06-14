@@ -11,6 +11,8 @@ menu:
 
 ### Adrian Reber
 
+#### Abstract
+
 GPUs are a costly commodity and training models is a time intensive task. In this session, we look to identify if we can leverage Checkpoint and Restore with containers on GPUs. Given the nascency of this technology, this is an exploratory session sharing the findings of early investigations and proof-of-concepts. We will go over the functionalities that currently exist along with gaps in the ecosystem to enable this solution.
 
 ### Über mich

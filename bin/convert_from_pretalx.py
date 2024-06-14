@@ -61,7 +61,8 @@ def gen_talks():
             yield {
                 "name": names,
                 "titel": talk['title'],
-                "inhalt": fix_line_endings(talk['abstract']),
+                "abstract": fix_line_endings(talk['abstract']),
+                "description": fix_line_endings(talk['description']),
                 "aboutme": fix_line_endings(bios),
                 "vorwissen": fix_line_endings(pre_knowledge),
                 "urlid": slug,

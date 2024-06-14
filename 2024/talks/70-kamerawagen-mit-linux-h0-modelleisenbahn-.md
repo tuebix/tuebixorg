@@ -11,7 +11,18 @@ menu:
 
 ### Roland Imme
 
+#### Abstract
+
 Bei diesem Vortrag wird eine Kamerawagen vorgestellt. Die Ansteuerung der Kamera wird mit Linux vorgenommen. Zu diesem Zweck wird ein Raspberry Pi Zero 2 verwendet. Seit 2023 gab es ein paar technische Anpassungen.
+
+#### Beschreibung
+
+Bereits seit 3 Jahren befassen sich mein Sohn Adrian und ich mit der Entwicklung eines Kamerawagens, der mit der Unterstützung vom Betriebssystem Linux genutzt wird.  
+Als Basis nutzen wir einen Raspberry Pi Zero 2. Der Kamerawagen ist eine Eigenentwicklung, die wir mit Hilfe eines 3D Druckers ausdrucken.  
+Die Weiterverarbeitung der erstellten Videos erfolgt mittlerweile auch über einen Raspberry Pi 5.  
+In den vergangenen Jahren haben wir auf unterschiedlichen Linux-Veranstaltungen Impulse und Ideen erhalten, die wir in diesem Familienprojekt umsetzen konnten.  
+Der Vortrag soll die möglichen Stolpersteine und deren Lösung dieses „Projektes“ vorstellen.  
+Es sind keine speziellen Vorkenntnisse erforderlich. Es handelt sich um einen Vortrag, der 2 Welten etwas näher bringt. Es werden mögliche Verknüpfungen zwischen Modelleisenbahn und Linux vorgestellt.
 
 ### Über mich
 

@@ -118,7 +118,13 @@ for talk in data:
             mdf.write('"> ' + talk["timebegin"] + " bis " + talk["timeend"] + " in Raum " + talk["room"] + "\n\n")
             mdf.write("### " + talk["name"] + "\n\n")
 
-            mdf.write(transform_linefeeds(talk["inhalt"]) + "\n\n")
+            mdf.write("#### Abstract\n\n")
+            mdf.write(transform_linefeeds(talk["abstract"]) + "\n\n")
+
+            if talk["description"]:
+                mdf.write("#### Beschreibung\n\n")
+                mdf.write(transform_linefeeds(talk["description"]) + "\n\n")
+
             if talk["vorwissen"]:
                 mdf.write("### Vorwissen\n\n" + transform_linefeeds(talk["vorwissen"]) + "\n\n")
             if talk["aboutme"]:

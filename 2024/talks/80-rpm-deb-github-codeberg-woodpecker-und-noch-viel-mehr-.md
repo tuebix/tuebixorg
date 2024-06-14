@@ -11,8 +11,14 @@ menu:
 
 ### UDO SEIDEL
 
+#### Abstract
+
 Wie baue ich am effektivsten eigene RPM/DEB-Pakete - idealerweise über ein "git push"?  
 Und geht das auch ohne Github?
+
+#### Beschreibung
+
+Es gibt sehr verschieden Gründe, die für das Generieren von "eigenen" RPM/DEB-Paketen. Typischerweise ist das ein sehr steiniger Weg. Und sogar, wenn man den allgemeinen Wegen und Empfehlungen folgt. Es ist noch turbulenter abseits der üblichen Pfade. Doch wenn man es wirklich will, dann erhält nach "viel Geduld und Spucke" ein schönes Resultat.
 
 ### Über mich
 

@@ -11,7 +11,15 @@ menu:
 
 ### Kai Uwe Broulik
 
+#### Abstract
+
 Am 28. Februar 2024 veröffentlichte die KDE Community die neue Major-Version der beliebten Desktop-Umgebung: Plasma 6
+
+#### Beschreibung
+
+In diesem Vortrag werde ich KDE Plasma 6 vorstellen, was sich mit der neuen Version ändert, aber auch, warum man sich in der neuen Version dennoch sofort heimisch fühlen wird.
+
+Plasma 6 ist eine konsequente Weiterentwicklung von Plasma 5.27 und bringt vor allem wichtige Verbesserungen unter der Haube, ohne jedoch gewohnte Bedien-Paradigmen zu brechen. Plasma 5 hat ein Jahrzehnt lang treue Dienste geleistet und die neue Major-Version macht die Plattform fit für das nächste. Und auch der Desktop Cube ist zurück!
 
 ### Über mich
 

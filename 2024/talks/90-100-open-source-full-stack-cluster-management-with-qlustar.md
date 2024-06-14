@@ -11,6 +11,8 @@ menu:
 
 ### Roland Fehrenbacher
 
+#### Abstract
+
 Setting up and operating HPC, AI or storage clusters remains a  
 challenge. Individual software packages are freely available for many  
 areas, however an integrated open-source solution covering all aspects  

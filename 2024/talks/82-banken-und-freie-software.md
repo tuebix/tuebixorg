@@ -11,6 +11,8 @@ menu:
 
 ### Florian Snow
 
+#### Abstract
+
 Seit geraumer Zeit werden immer mehr Bereiche unseres Lebens appifiziert, wir werden also dazu gedrängt, eine bestimmte, meist unfreie App zu verwenden, um bestimmte Aufgaben erledigen zu können. Banken drängen ihre Kunden auch vermehrt in diese Richtung und es stellt sich die Frage warum. Dieser Talk beschreibt den langen Weg auf der Suche nach Antworten in Bezug auf Freiheit beim Banking.
 
 ### Über mich

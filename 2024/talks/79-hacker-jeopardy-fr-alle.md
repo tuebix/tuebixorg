@@ -11,6 +11,8 @@ menu:
 
 ### Harald König
 
+#### Abstract
+
 Wer kennt es nicht: das Hacker Jeopardy. Der Spaß für die ganze Familie, von klein bis groß, von nüchtern bis...  
 
 Dieses Mal findet das große Infotainment-Ereignis auch ein Zuhause beim .Tübix
