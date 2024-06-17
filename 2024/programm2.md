@@ -17,6 +17,8 @@ Alternativ kann das Program auch über Pretalx angesehen werden: [cfp.tuebix.org
 
 Unter Android kann man folgenden Link verwenden um das Programm in die App [Giggity](https://github.com/Wilm0r/giggity) zu laden: [https://ggt.gaa.st/#url=https://cfp.tuebix.org/tuebix-2024/schedule/export/schedule.xml](https://ggt.gaa.st/#url=https://cfp.tuebix.org/tuebix-2024/schedule/export/schedule.xml)
 
+:checkered_flag: Auftakt am 21. Juni um 19 Uhr im Coyote Cafe. Bitte melde dich [hier](https://cloud.fsi.uni-tuebingen.de/apps/forms/s/cRXXErfYsQot9d2Sb3CH5XMJ) an, wenn du mitkommen möchtest.
+
 <table>
 <tr><td></td><td></td><td></td><td></td><td>Raum W1 (A302)</td></tr>
 <tr><td>10:00</td><td>bis</td><td>11:50</td><td><a class="work"></a></td><td><a href="../programm/78-same-procedure-as-every-year-kommandozeilen-sprechstunde-n-">Same&nbsp;Procedure&nbsp;as&nbsp;Every&nbsp;Year:&nbsp;Kommandozeilen-Sprechstunde(n)</a></td><td>Harald&nbsp;König</td></tr>
