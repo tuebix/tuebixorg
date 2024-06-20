@@ -5,8 +5,11 @@ from datetime import datetime, timedelta
 import urllib.request
 
 
-with open("schedule.json", "r") as file:
-    schedule = json.load(file)
+schedule_url = "https://cfp.tuebix.org/tuebix-2024/schedule/export/schedule.json"
+with urllib.request.urlopen(schedule_url) as data:
+    schedule = json.load(data)
+with open("schedule.json", "w") as file:
+    json.dump(schedule, file)
 
 # TODO: Don't hardcode the year, answer IDs, etc.
 answers_url = "https://cfp.tuebix.org/api/events/tuebix-2024/answers/?format=json&limit=100"
