@@ -2,7 +2,6 @@
 
 import json
 from datetime import datetime, timedelta
-import pprint
 import urllib.request
 
 
@@ -88,11 +87,7 @@ def gen_talks():
                 "weblinks": {}
             }
 
-pp = pprint.PrettyPrinter(indent=4)
-
 talks = list(gen_talks())
-
-pp.pprint(talks)
 
 with open("talks.json", "w") as outfile:
     json.dump(talks, outfile, indent=4)
