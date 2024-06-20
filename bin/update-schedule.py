@@ -33,7 +33,7 @@ def select_year():
 def main():
     year = select_year()
     # TODO: Rewrite:
-    os.system("../bin/convert_from_pretalx.py")
+    os.system(f"../bin/convert_from_pretalx.py {year}")
     os.system(f"../bin/json2md.py {year}")
 
 if __name__ == "__main__":

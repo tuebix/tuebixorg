@@ -1,18 +1,28 @@
 #!/usr/bin/env python3
 
+"""
+Usage: ./convert_from_pretalx.py [YEAR]
+Creates: "talks.json" based on the JSON data from our Pretalx CfP server.
+"""
+
 import json
+import sys
 from datetime import datetime, timedelta
 import urllib.request
 
 
-schedule_url = "https://cfp.tuebix.org/tuebix-2024/schedule/export/schedule.json"
+YEAR = int(sys.argv[1] if len(sys.argv) == 2 else datetime.now().year)
+if YEAR != 2024:
+    print("Warning: Potentially unsupported year.")
+
+schedule_url = f"https://cfp.tuebix.org/tuebix-{YEAR}/schedule/export/schedule.json"
 with urllib.request.urlopen(schedule_url) as data:
     schedule = json.load(data)
 with open("schedule.json", "w") as file:
     json.dump(schedule, file)
 
 # TODO: Don't hardcode the year, answer IDs, etc.
-answers_url = "https://cfp.tuebix.org/api/events/tuebix-2024/answers/?format=json&limit=100"
+answers_url = f"https://cfp.tuebix.org/api/events/tuebix-{YEAR}/answers/?format=json&limit=100"
 with urllib.request.urlopen(answers_url) as data:
     all_answers = json.load(data)["results"]
 
@@ -63,7 +73,7 @@ def gen_talks():
 
             names, bios = merge_persons(talk['persons'])
 
-            slug = talk['slug'].removeprefix("tuebix-2024-")
+            slug = talk['slug'].removeprefix(f"tuebix-{YEAR}-")
             # TODO: Try to improve the URL IDs for 2025 (maybe just ID + URL
             # parameters for talk and author names (as they could change)?
 
