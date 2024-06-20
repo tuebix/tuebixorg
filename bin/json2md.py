@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-Usage: ./json2md.py
+Usage: ./json2md.py [YEAR]
 Converts a JSON document containing all CfP submissions for the Tübix to Markdown files
 Requires: "talks.json" in the current directory (from orig2talks.py)
 Creates: A directory "talks" with all talks and a file "programm2.md" in the current directory
@@ -16,10 +16,10 @@ import urllib.parse
 from textwrap import dedent
 from datetime import datetime
 
-# TODO: Convert into an argument that defaults to the current year
-# (should also select the correct directory and determine if the program should
-# be added to the main menu).
-YEAR = int(datetime.now().year)
+# Optional: Determine if the program should be added to the main menu, and add
+# the other Markdown files.
+
+YEAR = int(sys.argv[1] if len(sys.argv) == 2 else datetime.now().year)
 
 def parse_weblink(weblinks):
 
