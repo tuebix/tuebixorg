@@ -86,7 +86,7 @@ O O Raumsupport V1<br/>
 O O Raumsupport V2<br/>
 O O Raumsupport V3<br/>
 
-O Raumsupport W1<br/>
+X Raumsupport W1<br/>
 O Raumsupport W2<br/>
 
 ## So kann jeder helfen
