@@ -17,7 +17,7 @@ menu:
 
 Am Vorabend: 21. Juni ab 19:00 Uhr im Coyote Cafe: https://coyote.de/filialen/tuebingen/
 
-Bitte melde dich [hier](https://cloud.fsi.uni-tuebingen.de/apps/forms/s/cRXXErfYsQot9d2Sb3CH5XMJ) an, damit wir entsprechend reservieren können.
+Bitte melde dich bis Donnerstagmittag [hier](https://cloud.fsi.uni-tuebingen.de/apps/forms/s/cRXXErfYsQot9d2Sb3CH5XMJ) an, damit wir entsprechend reservieren können.
 
 ### Samstag Abend: Ausklang
 
