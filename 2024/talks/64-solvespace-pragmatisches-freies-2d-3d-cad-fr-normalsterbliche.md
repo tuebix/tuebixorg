@@ -13,7 +13,7 @@ menu:
 
 #### Abstract
 
-Lerne, mit SolveSpace praktische 3D-Modelle z.B. für funktionalen 3D-Druck oder Lasercutting zu erstellen.
+[🖱️ Maus mitbringen!] Lerne, mit SolveSpace praktische 3D-Modelle z.B. für funktionalen 3D-Druck oder Lasercutting zu erstellen.
 
 #### Beschreibung
 
@@ -23,7 +23,7 @@ Ein Laptop und eine Maus (!) werden benötigt. Touchpad geht auch, macht aber ke
 
 #### Vorwissen
 
-Vorwissen wird keins benötigt. Eine Maus zur Bedienung ist aber sehr zu empfehlen!
+Vorwissen wird keins benötigt. Eine Maus zur Bedienung ist aber sehr zu empfehlen! Ich bringe eine Handvoll Mäuse mit, aber lieber selber eine mitbringen.
 
 ### Über mich
 

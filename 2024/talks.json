@@ -42,20 +42,6 @@
         "weblinks": {}
     },
     {
-        "name": "Adrian Reber",
-        "titel": "Investigating Checkpoint and Restore for GPU-Accelerated Containers",
-        "abstract": "GPUs are a costly commodity and training models is a time intensive task. In this session, we look to identify if we can leverage Checkpoint and Restore with containers on GPUs. Given the nascency of this technology, this is an exploratory session sharing the findings of early investigations and proof-of-concepts. We will go over the functionalities that currently exist along with gaps in the ecosystem to enable this solution.",
-        "description": "",
-        "aboutme": "Adrian is a Senior Principal Software Engineer at Red Hat and is migrating processes at least since 2010. He started to migrate processes in a high performance computing environment and at some point he migrated so many processes that he got a PhD for that. Most of the time he is now migrating containers but occasionally he still migrates single processes.",
-        "vorwissen": "",
-        "urlid": "89-investigating-checkpoint-and-restore-for-gpu-accelerated-containers",
-        "duration": 20,
-        "room": "V1 (F119)",
-        "timebegin": "11:30",
-        "timeend": "11:50",
-        "weblinks": {}
-    },
-    {
         "name": "Holger Gantikow",
         "titel": "High Performance Computing - was ist das eigentlich?",
         "abstract": "Der Vortrag gibt einen Einblick in die Welt des High Performance Computings (HPC), beschreibt Einsatzzwecke, grundlegende Architekturen, warum fr\u00fcher alles anders war, wie es mit Linux in diesem Umfeld aussieht und wohin die Reise wohl gehen wird.",
@@ -380,10 +366,10 @@
     {
         "name": "Yann B\u00fcchau",
         "titel": "SolveSpace - Pragmatisches, freies 2D/3D CAD f\u00fcr Normalsterbliche",
-        "abstract": "Lerne, mit SolveSpace praktische 3D-Modelle z.B. f\u00fcr funktionalen 3D-Druck oder Lasercutting zu erstellen.",
+        "abstract": "[\ud83d\uddb1\ufe0f Maus mitbringen!] Lerne, mit SolveSpace praktische 3D-Modelle z.B. f\u00fcr funktionalen 3D-Druck oder Lasercutting zu erstellen.",
         "description": "SolveSpace ist ein freies 2D/3D CAD Programm mit \u00fcberschaubarem aber trotzdem m\u00e4chtigem Funktionsumfang. Es ist sehr leichtgewichtig und l\u00e4uft auf allen Platformen. F\u00fcr funktionale Teile mit einfachen oder auch komplexen geometrischen Einschr\u00e4nkungen sowie zum Simulieren von mechanischen Bewegungen eignet es sich hervorragend. In diesem Workshop werden die Grundlagen vermittelt, um mit SolveSpace zu arbeiten.\n\nEin Laptop und eine Maus (!) werden ben\u00f6tigt. Touchpad geht auch, macht aber keinen Spa\u00df.",
         "aboutme": "Doktorand in der Umweltphysik an der Uni T\u00fcbingen, FOSS Verfechter und Linux-Enthusiast",
-        "vorwissen": "Vorwissen wird keins ben\u00f6tigt. Eine Maus zur Bedienung ist aber sehr zu empfehlen!",
+        "vorwissen": "Vorwissen wird keins ben\u00f6tigt. Eine Maus zur Bedienung ist aber sehr zu empfehlen! Ich bringe eine Handvoll M\u00e4use mit, aber lieber selber eine mitbringen.",
         "urlid": "64-solvespace-pragmatisches-freies-2d-3d-cad-fr-normalsterbliche",
         "duration": 110,
         "room": "W1 (A302)",
