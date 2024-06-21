@@ -322,6 +322,20 @@
         "weblinks": {}
     },
     {
+        "name": "Phi",
+        "titel": "Darktable - Was'n das?",
+        "abstract": "Ein kurzes Intro zu [Darktable](https://darktable.org) dem Photoverwaltungs-/bearbeitungsprogramm.",
+        "description": "[Slides](https://cloud.fsi.uni-tuebingen.de/s/aGxSNqjMiiEdB3x)",
+        "aboutme": "Kamera-Enthusiast, FOSS Fan und Masterstudent.",
+        "vorwissen": "",
+        "urlid": "95-darktable-was-n-das-",
+        "duration": 5,
+        "room": "V3 (A301)",
+        "timebegin": "16:05",
+        "timeend": "16:10",
+        "weblinks": {}
+    },
+    {
         "name": "Christoph Wirth",
         "titel": "Linux im Elternhaus",
         "abstract": "Erfahrungsbericht von einem Jahr Umstellung auf Linux im Elternhaus",
@@ -331,8 +345,8 @@
         "urlid": "94-linux-im-elternhaus",
         "duration": 5,
         "room": "V3 (A301)",
-        "timebegin": "15:00",
-        "timeend": "15:05",
+        "timebegin": "16:10",
+        "timeend": "16:15",
         "weblinks": {}
     },
     {
@@ -345,8 +359,8 @@
         "urlid": "86-nix-os-ein-berblick",
         "duration": 5,
         "room": "V3 (A301)",
-        "timebegin": "16:00",
-        "timeend": "16:05",
+        "timebegin": "16:15",
+        "timeend": "16:20",
         "weblinks": {}
     },
     {

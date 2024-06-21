@@ -7,7 +7,7 @@ menu:
 ---
 ## Linux im Elternhaus
 
-### <img height = "32" src="../../../images/lightning.svg"> 15:00 bis 15:05 in Raum V3 (A301)
+### <img height = "32" src="../../../images/lightning.svg"> 16:10 bis 16:15 in Raum V3 (A301)
 
 ### Christoph Wirth
 
