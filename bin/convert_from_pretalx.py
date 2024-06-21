@@ -25,6 +25,8 @@ with open("schedule.json", "w") as file:
 answers_url = f"https://cfp.tuebix.org/api/events/tuebix-{YEAR}/answers/?format=json&limit=100"
 with urllib.request.urlopen(answers_url) as data:
     all_answers = json.load(data)["results"]
+with open("answers.json", "w") as file:
+    json.dump(all_answers, file)
 
 #print(schedule)
 
