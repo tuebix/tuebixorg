@@ -32,7 +32,9 @@ Der Vortrag richtet sich vor allem an Einsteiger (oder natürlich FOSS Veteranen
 
 ### Über mich
 
-Informatikstudent an der Universität Heidelberg und Arch Linux Package Maintainer, Bug Wrangler & DevOps Teammember.
+Informatikstudent an der Universität Heidelberg und Arch Linux Package Maintainer, Bug Wrangler & DevOps-Team.
+
+Quatscht mich gerne einfach so an, auch wenn wir uns bisher noch nicht kennen! 🤗
 
 Github: https://github.com/christian-heusel
 
