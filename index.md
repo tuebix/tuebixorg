@@ -12,6 +12,7 @@ statt.<br/>
 Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 
 **News:**
+- **Feedback-Pad** für 2024: [https://notes.fsi.uni-tuebingen.de/tuebix-2024-feedback](https://notes.fsi.uni-tuebingen.de/tuebix-2024-feedback)
 - Der **Tübix 2024** findet am **22. Juni** statt und das [Programm für 2024](2024/programm/) ist nun veröffentlicht.
 - **Lightning Talks** können noch bis zum Tübix über den [Call for Papers](callforpapers/) eingereicht werden.
 - Der [Call for Helpers](callforhelpers/) ist eröffnet und wir suchen noch weitere Helfer.
