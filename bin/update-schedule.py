@@ -10,7 +10,7 @@ import sys
 def select_year():
     """Select the year, cd into the corresponding directory, and return the year."""
     # Default to the current year:
-    year = int(datetime.now().year)
+    year = str(datetime.now().year)
 
     # Override based on the current directory:
     dirname = os.getcwd().split('/')[-1]
