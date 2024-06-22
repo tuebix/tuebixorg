@@ -322,6 +322,20 @@
         "weblinks": {}
     },
     {
+        "name": "",
+        "titel": "Lightning Talks Intro",
+        "abstract": "Kurze Begr\u00fc\u00dfung, Aufbau und Beschreibung des Vorgehens.\nOpen mic nach den im Vorfeld eingereichten Lightning Talks.",
+        "description": "",
+        "aboutme": "",
+        "vorwissen": "",
+        "urlid": "96-lightning-talks-intro",
+        "duration": 5,
+        "room": "V3 (A301)",
+        "timebegin": "16:00",
+        "timeend": "16:05",
+        "weblinks": {}
+    },
+    {
         "name": "Phi",
         "titel": "Darktable - Was'n das?",
         "abstract": "Ein kurzes Intro zu [Darktable](https://darktable.org) dem Photoverwaltungs-/bearbeitungsprogramm.",
@@ -361,6 +375,20 @@
         "room": "V3 (A301)",
         "timebegin": "16:15",
         "timeend": "16:20",
+        "weblinks": {}
+    },
+    {
+        "name": "",
+        "titel": "Open mic",
+        "abstract": "Open stage: Hier sind die Teilnehmenden gefragt: Wer will noch spontan ein Projekt/Konzept/Tool/etc. vorstellen?",
+        "description": "",
+        "aboutme": "",
+        "vorwissen": "",
+        "urlid": "97-open-mic",
+        "duration": 30,
+        "room": "V3 (A301)",
+        "timebegin": "16:20",
+        "timeend": "16:50",
         "weblinks": {}
     },
     {

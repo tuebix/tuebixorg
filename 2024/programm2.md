@@ -54,7 +54,9 @@ Unter Android kann man folgenden Link verwenden um das Programm in die App [Gigg
 <tr><td>12:00</td><td>bis</td><td>12:20</td><td><a class="talk"></a></td><td><a href="../programm/80-rpm-deb-github-codeberg-woodpecker-und-noch-viel-mehr-">RPM,&nbsp;DEB,&nbsp;GitHub,&nbsp;Codeberg,&nbsp;Woodpecker&nbsp;...&nbsp;und&nbsp;noch&nbsp;viel&nbsp;mehr!!</a></td><td>UDO&nbsp;SEIDEL</td></tr>
 <tr><td>13:00</td><td>bis</td><td>13:50</td><td><a class="talk"></a></td><td><a href="../programm/83-wie-teste-ich-tests-">Wie&nbsp;teste&nbsp;ich&nbsp;Tests?</a></td><td>Peter&nbsp;Hrenka</td></tr>
 <tr><td>14:00</td><td>bis</td><td>14:20</td><td><a class="talk"></a></td><td><a href="../programm/68-community-in-der-eigenen-hand-fderiertes-forgejo">Community&nbsp;in&nbsp;der&nbsp;eigenen&nbsp;Hand&nbsp;-&nbsp;föderiertes&nbsp;forgejo</a></td><td>Michael&nbsp;Jerger</td></tr>
+<tr><td>16:00</td><td>bis</td><td>16:05</td><td><a class="light"></a></td><td><a href="../programm/96-lightning-talks-intro">Lightning&nbsp;Talks&nbsp;Intro</a></td><td></td></tr>
 <tr><td>16:05</td><td>bis</td><td>16:10</td><td><a class="light"></a></td><td><a href="../programm/95-darktable-was-n-das-">Darktable&nbsp;-&nbsp;Was'n&nbsp;das?</a></td><td>Phi</td></tr>
 <tr><td>16:10</td><td>bis</td><td>16:15</td><td><a class="light"></a></td><td><a href="../programm/94-linux-im-elternhaus">Linux&nbsp;im&nbsp;Elternhaus</a></td><td>Christoph&nbsp;Wirth</td></tr>
 <tr><td>16:15</td><td>bis</td><td>16:20</td><td><a class="light"></a></td><td><a href="../programm/86-nix-os-ein-berblick">Nix(OS)&nbsp;-&nbsp;Ein&nbsp;Überblick</a></td><td>Michael&nbsp;Weiss</td></tr>
+<tr><td>16:20</td><td>bis</td><td>16:50</td><td><a class="talk"></a></td><td><a href="../programm/97-open-mic">Open&nbsp;mic</a></td><td></td></tr>
 </table>
