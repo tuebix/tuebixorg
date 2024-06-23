@@ -6,16 +6,14 @@ layout: default
 
 Der Tübix ist ein
 <a href="https://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a>
-und fand 2015-2019 sowie 2023 jeweils gegen Juni/Juli in
+und fand 2015-2019 sowie 2023-2024 jeweils gegen Juni/Juli in
 <a href="https://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a>
 statt.<br/>
 Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 
 **News:**
 - **Feedback-Pad** für 2024: [https://notes.fsi.uni-tuebingen.de/tuebix-2024-feedback](https://notes.fsi.uni-tuebingen.de/tuebix-2024-feedback)
-- Der **Tübix 2024** findet am **22. Juni** statt und das [Programm für 2024](2024/programm/) ist nun veröffentlicht.
-- **Lightning Talks** können noch bis zum Tübix über den [Call for Papers](callforpapers/) eingereicht werden.
-- Der [Call for Helpers](callforhelpers/) ist eröffnet und wir suchen noch weitere Helfer.
+- Der **Tübix 2024** fand am **22. Juni** statt (s. [Programm für 2024](2024/programm/)).
 - Zur Kommunikation gibt es einen Matrix Space: [#tuebix-space:matrix.org](https://matrix.to/#/#tuebix-space:matrix.org)
   - Element Web Chat Link zum primären Kanal ("Tübix Talk"): [#tuebix:matrix.org](https://app.element.io/#/room/#tuebix:matrix.org)
 
