@@ -2,8 +2,6 @@
 layout: page
 title: Programm
 permalink: /2024/programm/
-weight:
-menu: main
 ---
 
 * <span style="font-weight: bold;">Programm</span>
