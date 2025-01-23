@@ -12,8 +12,6 @@ statt.<br/>
 Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 
 **News:**
-- **Feedback-Pad** für 2024: [https://notes.fsi.uni-tuebingen.de/tuebix-2024-feedback](https://notes.fsi.uni-tuebingen.de/tuebix-2024-feedback)
-- Der **Tübix 2024** fand am **22. Juni** statt (s. [Programm für 2024](2024/programm/)).
 - Zur Kommunikation gibt es einen Matrix Space: [#tuebix-space:matrix.org](https://matrix.to/#/#tuebix-space:matrix.org)
   - Element Web Chat Link zum primären Kanal ("Tübix Talk"): [#tuebix:matrix.org](https://app.element.io/#/room/#tuebix:matrix.org)
 
