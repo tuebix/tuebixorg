@@ -4,7 +4,7 @@ title: Helfer
 permalink: /callforhelpers/
 redirect_from: /cfh/
 weight: 6
-menu: main
+menu:
 ---
 
 Pinguine sind Herdentiere und helfen einander. Das heißt: Ohne dich geht es
