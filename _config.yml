@@ -11,3 +11,6 @@ collections:
 # https://help.github.com/articles/redirects-on-github-pages/
 plugins:
   - jekyll-redirect-from
+
+exclude:
+  - README.md
