@@ -5,7 +5,7 @@ permalink: /callforpapers/
 redirect_from: /cfp/
 emailcfp: cfp@tuebix.org
 weight: 10
-menu:
+menu: main
 ---
 
 **Deadline für Einreichungen (außer Lightning Talks): 05.05.2025**

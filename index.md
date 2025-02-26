@@ -13,7 +13,7 @@ Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="d
 
 **News:**
 - **Der Tübix 2025 findet am 05. Juli statt.**
-  - Weitere Details und ein CfP werden zu gegebener Zeit veröffentlicht.
+- **Der [Call for Papers](callforpapers/) ist eröffnet und läuft bis zum 05. Mai**
 - Zur Kommunikation gibt es einen Matrix Space: [#tuebix-space:matrix.org](https://matrix.to/#/#tuebix-space:matrix.org)
   - Element Web Chat Link zum primären Kanal ("Tübix Talk"): [#tuebix:matrix.org](https://app.element.io/#/room/#tuebix:matrix.org)
 
