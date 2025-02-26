@@ -17,21 +17,20 @@ menu: main
   [Gamja](https://web.libera.chat/gamja/#tuebix)
 - Alter Twitter Account: [https://twitter.com/tuebix](https://twitter.com/tuebix)
 
-# Organisationsteam Tübix 2024
+# Organisationsteam Tübix 2025
 
 <!-- Ordered alphabetically by the surname: -->
 
 * David Binder
 * Holger Gantikow
 * Marco Häberle
-* Malte Hermann
 * Lukas Oertel
 * Gabriel Paradzik
 * Ingo Skupin
 * Benjamin Steinert
-* Nico Steinle
 * Tobias Stumpp
 * Michael Weiss
+* Volker Weißmann
 
 # Ehemalige Organisatoren
 
@@ -44,6 +43,7 @@ menu: main
 * Christian Brauner
 * Knut Franke
 * Florian Heimgärtner
+* Malte Hermann
 * Jan-Peter Hohloch
 * Justin Humm
 * Eva Charlotte Mayer
