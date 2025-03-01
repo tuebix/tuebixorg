@@ -15,7 +15,7 @@ Supercomputer, die für weit mehr als Wettersimulation eingesetzt werden, haben 
 
 Wie sich diese "fremde Welt" entwickelt hat, wie Linux dort seine unangefochtene Pole-Position erlangte, welchen Stellenwert Open Source Software in diesem Umfeld genießt und welche Themen und Werkzeuge aus dem Bereich des High Performance Computings (HPC) auch für die normale IT relevant sind, stehen im Fokus des Vortrags.
 
-<br/>
+\
 Auch wenn Linus Torvalds nach wie vor Linux auf dem Desktop den Durchbruch verschaffen will, konnte sich der Pinguin bislang dort nie wirklich ansiedeln und fristet auf dem Desktop somit eher ein Nischendasein. Dieser Markt wird heute nach wie vor von Microsoft Windows dominiert.
 
 Dass dies nicht für alle Bereiche gelten muss, zeigt der Markt der Supercomputer, die meist in den Rechenzentren von Forschungsinstituten und großen Firmen vor dem Auge der Öffentlichkeit verborgen bleiben.

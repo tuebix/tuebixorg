@@ -30,11 +30,9 @@ Anhand eines praktischen Beispiels schauen wir uns an:
   - Windows: <a href="http://www.tug.org/protext/" target="_blank">tug.org/protext/</a>
   - Linux: selber drum kuemmern, evtl. bereits installiert,<br/>
 möglichst aktuelles Texlive, zum Beispiel <a href="http://www.tug.org/texlive/" target="_blank">tug.org/texlive/</a>
-
 - ideal: installierter Editor Texstudio
   - Windows: ist bei Protext dabei
   - Mac und Linux-User holen es sich hier: <a href="http://texstudio.sourceforge.net" target="_blank">texstudio.sourceforge.net</a>
-
 - Beispieldateien (ab 8. Juni downloadbar) von <a href="http://astro.uni-tuebingen.de/~nagel/pub/tuebix" target="_blank">astro.uni-tuebingen.de/~nagel/pub/tuebix</a>
 
 ### Links

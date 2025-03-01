@@ -36,8 +36,8 @@ Formatierungs-Regeln bereits sehr anspruchsvolle Dokumente zustande bringt
 2. Eingerückte Absätze (Zitat-Blöcke)
 3. Überschriften erster, zweiter, ... sechster Ordnung
 4. Nummerierte Aufzählungen (wie diese hier)
-  * verschachtelte Aufzählungen (wie diese hier)
-  * (ich bin mir nicht sicher, ob ich dies nicht besser als 14. Regel deklarieren sollte)
+   * verschachtelte Aufzählungen (wie diese hier)
+   * (ich bin mir nicht sicher, ob ich dies nicht besser als 14. Regel deklarieren sollte)
 5. Un-nummerierte Aufzählungen
 6. Code-Beispiele: `pandoc --to=html` erzeugt HTML-Ausgabe
 7. *kursiv hervorgehobene* Wörter

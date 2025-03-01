@@ -5,7 +5,7 @@ permalink: /2016/programm/alexander-berg-nx-ist-tot-es-lebe-xpra/
 weight:
 menu:
 ---
-## NX ist tot, es lebe <del>N</del>Xpra
+## NX ist tot, es lebe <del>N</del>Xpra {#nx-ist-tot-es-lebe-nxpra}
 
 ### <img height = "32" src="../../../images/lightning.svg"> 13:05 bis 13:10 in Raum V3
 

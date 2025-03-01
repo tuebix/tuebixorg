@@ -14,4 +14,4 @@ menu:
 * gemeinsamer Abschluss
 * Aublick auf TüBIX 2017
 
-<span style="font-weight: bold; color:#FF0000;">WICHTIG: Feedback bitte in dieses Pad eintragen: <a href="https://tuebix2016.titanpad.com/tuebix-exit" target="_blank">https://tuebix2016.titanpad.com/tuebix-exit</a>
+<span style="font-weight: bold; color:#FF0000;">WICHTIG: Feedback bitte in dieses Pad eintragen: <a href="https://tuebix2016.titanpad.com/tuebix-exit" target="_blank">https://tuebix2016.titanpad.com/tuebix-exit</a></span>

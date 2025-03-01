@@ -11,7 +11,7 @@ menu:
 * <a href="../lageplan/">Lageplan</a>
 * <a href="../programm_was_bedeuten_die_icons">Was bedeuten die Icons <img height="18" width="18" src="../../images/workshop.svg"> <img height="18" width="18" src="../../images/talk.svg"> <img height="18" width="18" src="../../images/talk2.svg"> <img height="18" width="18" src="../../images/lightning.svg"> ?</a>
 
-<br/>
+<p><br/></p>
 
 ### Freitag Abend: Auftakt
 

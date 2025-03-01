@@ -14,18 +14,16 @@ menu:
 Hands-on Einführung in operating-system-level virtualization.
 
 1. Technische Grundlagen: Implementierung und Möglichkeiten im/des Kernels:
-  - Wie funktionieren cgroups?
-  - Was kann man mit ihnen machen?
-  - Was ist namespace isolation?
-  - Was sind linux capabilities?
-
+   - Wie funktionieren cgroups?
+   - Was kann man mit ihnen machen?
+   - Was ist namespace isolation?
+   - Was sind linux capabilities?
 2. Use-case 1 (Workflow):
-  - Wie konfiguriere und nutze ich low-level container virtualization tools wie lxc, für software development?
-  - Was sind die Vorteile?
-
+   - Wie konfiguriere und nutze ich low-level container virtualization tools wie lxc, für software development?
+   - Was sind die Vorteile?
 3. Use-case 2 (Sandboxing-Security):
-  - Operating-system-level virtualization zum sandboxing proprietärer software mit grafischen output, GPU-access (Hardware access auf dem Host im allgemeinen) (z.B. Google Chrome im Container)
-  - Einführung in unpriviligierte Container, die user namespaces nutzen
+   - Operating-system-level virtualization zum sandboxing proprietärer software mit grafischen output, GPU-access (Hardware access auf dem Host im allgemeinen) (z.B. Google Chrome im Container)
+   - Einführung in unpriviligierte Container, die user namespaces nutzen
 
 ### Vorwissen 
 
