@@ -102,7 +102,7 @@ menu:
 <tr><td>14:00</td><td><a class="light"></a></td><td><a href="../programm/lugs-und-co-var-log-lug">/var/log/LUG</a></td><td>LUGs&nbsp;+&nbsp;Co</td></tr>
 <tr><td>15:00</td><td><a class="light"></a></td><td><a name="lightningtalkssecondblock" href="../programm/felix-bauer-free-internet">Free&nbsp;Internet</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>15:05</td><td><a class="light"></a></td><td><a href="../programm/ingo-blechschmidt-keine-lust-auf-lange-uebersetzungszeiten-bei-latex-auf-schwachen-rechnern">Keine&nbsp;Lust&nbsp;auf&nbsp;lange&nbsp;Übersetzungszeiten&nbsp;bei&nbsp;LaTeX&nbsp;auf&nbsp;schwachen&nbsp;Rechnern?</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>
-<tr><td>15:10</td><td><a class="light"></a></td><td>Teckids e.V. / Froglabs</a></td><td>Teckids</td></tr>
+<tr><td>15:10</td><td><a class="light"></a></td><td>Teckids e.V. / Froglabs</td><td>Teckids</td></tr>
 <tr><td>15:15</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-alpinelinux">AlpineLinux</a></td><td>Felix&nbsp;Bauer</td></tr>
 <tr><td>15:20</td><td><a class="light"></a></td><td><a href="../programm/hell-van-sing-sonic-pi-live-coding-music">Sonic Pi - Live Coding Music</a></td><td>Hell van Sing</td></tr>
 <tr><td>15:30</td><td><a class="light"></a></td><td><a href="../programm/felix-bauer-wol-on-arp-anturnen-bei-bedarf">WOL-on-ARP&nbsp;-&nbsp;Anturnen&nbsp;bei&nbsp;Bedarf</a></td><td>Felix&nbsp;Bauer</td></tr>

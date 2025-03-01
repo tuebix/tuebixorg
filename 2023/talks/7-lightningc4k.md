@@ -24,5 +24,5 @@ Kubernetes
 
 ### Über mich
 
-<em><strong>Michael Jerger</em></strong> [CEO] ist langjähriger DevOps und unterstützt Kunden bei Ihrem Weg in die Cloud. Im Laufe dieser Arbeit sind viele OpenSource Tools entstanden, die er als Maintainer oder Contributer unterstützt.<br>
+<em><strong>Michael Jerger</strong></em> [CEO] ist langjähriger DevOps und unterstützt Kunden bei Ihrem Weg in die Cloud. Im Laufe dieser Arbeit sind viele OpenSource Tools entstanden, die er als Maintainer oder Contributer unterstützt.<br>
 
