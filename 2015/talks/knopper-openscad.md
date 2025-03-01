@@ -5,7 +5,7 @@ permalink: /2015/programm/knopper-openscad/
 weight: 
 menu:
 ---
-## 3D-Modelle&nbsp;erstellen&nbsp;mit&nbsp;OpenSCAD
+## 3D-Modelle erstellen mit OpenSCAD {#3d-modelleerstellenmitopenscad}
 
 ### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W3
 
