@@ -26,9 +26,10 @@ in den die Aufnahme abgespeichert wird: <br/>
 ```
 ./asciinema rec meine.aufnahme.01
 ```
- <br/>
- <br/>
-Wiedergabe mit: <br/>
+\
+\
+Wiedergabe mit:
+\
 ```
 ./asciinema play meine.aufnahme.01
 ```
