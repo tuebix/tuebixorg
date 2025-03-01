@@ -2,7 +2,8 @@
 layout: page
 title: Programm
 url: /2018/programm_raumplan/
-redirect_from: /2018/programm/
+aliases:
+    - /2018/programm/
 weight: 10
 menu:
 ---

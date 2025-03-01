@@ -1,9 +1,22 @@
 /**
  * Reset some basic elements
  */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+hr,
+dl,
+dd,
+ol,
+ul,
+figure {
     margin: 0;
     padding: 0;
 }
@@ -29,9 +42,19 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+ul,
+ol,
+dl,
+figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
 }
@@ -51,7 +74,7 @@ img {
 /**
  * Figures
  */
-figure > img {
+figure>img {
     display: block;
 }
 
@@ -64,14 +87,16 @@ figcaption {
 /**
  * Lists
  */
-ul, ol {
+ul,
+ol {
     margin-left: $spacing-unit;
 }
 
 li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
+
+    >ul,
+    >ol {
+        margin-bottom: 0;
     }
 }
 
@@ -80,7 +105,12 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-weight: 300;
 }
 
@@ -117,6 +147,7 @@ a.talk2 {
     padding-left: 22px;
     background-size: 18px 18px;
 }
+
 a.work {
     background-image: url("../images/workshop.svg");
     background-repeat: no-repeat;
@@ -137,6 +168,7 @@ a.lpic {
     padding-left: 22px;
     background-size: 18px 18px;
 }
+
 /**
  * Blockquotes
  */
@@ -174,7 +206,7 @@ pre {
     padding: 8px 12px;
     overflow-x: scroll;
 
-    > code {
+    >code {
         border: 0;
         padding-right: 0;
         padding-left: 0;
@@ -188,7 +220,7 @@ pre {
  */
 .wrapper {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -197,7 +229,7 @@ pre {
 
     @include media-query($on-laptop) {
         max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+        max-width: calc(#{$content-width} - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
@@ -224,7 +256,7 @@ pre {
  */
 .icon {
 
-    > svg {
+    >svg {
         display: inline-block;
         width: 40px;
         height: 40px;

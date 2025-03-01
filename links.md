@@ -38,7 +38,7 @@ Veraltet:
 -->
 
 Du weißt einen Link, der hier gut dazupasst oder du hast einen Fehler gefunden?<br />
-Dann schreib bitte an [{{ site.email }}](mailto:{{ site.email }})
+Dann schreib bitte an [{{% param author.email %}}](mailto:{{% param author.email %}})
 
 <!--
 <br/>

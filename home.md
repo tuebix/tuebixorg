@@ -1,8 +1,7 @@
 ---
 layout: default
+url: /index.html
 ---
-
-
 
 Der Tübix ist ein
 <a href="https://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a>

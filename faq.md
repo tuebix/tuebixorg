@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ (WIP)
+url: /faq.html
 ---
 
 ## Gibt es WLAN auf dem Tübix?

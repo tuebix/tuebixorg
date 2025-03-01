@@ -1,7 +1,6 @@
 <header class="site-header">
   <div class="wrapper">
-    <!--<a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>-->
-    <a href="{{ site.baseurl }}/"><img src="/images/home-alpha-background.png" alt="Home" title="Home"></a><br/>
+    <a href="/"><img src="/images/home-alpha-background.png" alt="Home" title="Home"></a><br/>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -14,15 +13,12 @@
 
       <div class="trigger">
         <a href="/"><img src="/images/tux.png" alt="Tux" title="Tux" height="25"></a>
-        {% assign sortedpages = site.pages | sort:"weight" %}
-        {% for page in sortedpages %}
-          {% if page.title %}
-            {% if page.menu %}
-            <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-            {% endif %}
-          {% endif %}
-        {% endfor %}
+
+        {{ range sort .Site.AllPages "Weight" }}{{ if .Title }}{{ if .Params.menu }}
+            <a class="page-link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ end }}{{ end }}{{ end }}
       </div>
     </nav>
   </div>
 </header>
+  

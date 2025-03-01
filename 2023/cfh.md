@@ -3,6 +3,7 @@ layout: page
 title: Helfer
 weight: 9
 menu:
+url: /2023/cfh.html
 ---
 
 Pinguine sind Herdentiere und helfen einander. Das heißt: Ohne dich geht es nicht! Aber zum Glück hast du viele Möglichkeiten, den Tübix mitzugestalten. Wenn du Lust hast, mit ein paar anderen netten Helfern ein paar Stunden anzupacken, übernimm doch eine Schicht im Catering. Bist du ein Organisationstalent? Dann können wir dich in der Programmunterstützung gebrauchen. Und falls du an deinem Tübix keine Lücke für eine Helferschicht hast, kannst du zum guten Gelingen des Tages vielleicht dadurch beisteuern, dass du einem Besucher von außerhalb ein Bett zur Verfügung stellst.

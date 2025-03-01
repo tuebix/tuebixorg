@@ -8,7 +8,7 @@ menu: main
 
 # Kontakt
 
-- Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+- Email: <a href="mailto:{{% param author.email %}}">{{% param author.email %}}</a>
 - Chat (<a href="https://matrix.org/clients/">Matrix</a>): #tuebix:matrix.org ([Element Webchat](https://app.element.io/#/room/#tuebix:matrix.org))
 - [Fediverse](https://en.wikipedia.org/wiki/Fediverse) ([Mastodon](https://joinmastodon.org/)): [@tuebix@troet.cafe](https://troet.cafe/@tuebix)
 - Repository (website source code): [https://github.com/tuebix/tuebixorg](https://github.com/tuebix/tuebixorg)
@@ -61,5 +61,5 @@ menu: main
 Benjamin Steinert<br />
 Sand 13<br />
 72076 Tübingen<br />
-[{{ site.email }}](mailto:{{ site.email }})<br />
+[{{% param author.email %}}](mailto:{{% param author.email %}})<br />
 Tel.: +49 176 4576 6053<br />

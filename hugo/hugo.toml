@@ -1,0 +1,34 @@
+baseURL = 'https://tuebix.org/'
+languageCode = 'de-DE'
+title = 'Tübix'
+disableKinds = ['taxonomy', 'term']
+
+[module]
+  [[module.mounts]]
+    source = '..'
+    target = 'content'
+    excludeFiles = [
+      'README.md',
+      'shell.nix',
+      'hugo/**',
+      'images/**',
+      'bin/**']
+  [[module.mounts]]
+    source = '../images'
+    target = 'static/images'
+
+[params.author]
+  email = 'info@tuebix.org'
+  name = 'Tübix e.V.'
+
+[markup.goldmark.renderer]
+  unsafe = true
+[markup.goldmark.extensions]
+  linkify = false
+
+[outputFormats.RSS]
+  baseName = "feed"
+
+[services]
+  [services.rss]
+    limit = 15

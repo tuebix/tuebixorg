@@ -8,14 +8,29 @@
     - kinder.md: Requires img
     - frame-ancestors 'self'; Might be nice to have but not allowed in <meta>
   -->
+
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Tübix - {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <title>Tübix - {{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  {{ $opts := dict
+    "enableSourceMap" (not hugo.IsProduction)
+    "outputStyle" (cond hugo.IsProduction "compressed" "expanded")
+    "targetPath" "css/main.css"
+    "transpiler" "libsass"
+  }}
+  <!--Adopted from this example: https://gohugo.io/functions/css/sass/ -->
+  {{ with resources.Get "main.scss" | toCSS $opts }}
+  {{ if hugo.IsProduction }}
+      {{ with . | fingerprint }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+      {{ end }}
+    {{ else }}
+      <link rel="stylesheet" href="{{ .RelPermalink }}">
+    {{ end }}
+  {{ end }}
+  <link rel="alternate" type="application/rss+xml" title="Tübix" href="/feed.xml" />
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
 </head>
+

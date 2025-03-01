@@ -1,0 +1,25 @@
+{{ define "main" }}
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ .Title }}</h1>
+  </header>
+  <article class="post-content">
+    <div class="home">
+
+      <ul class="post-list">
+        {{ range where .Site.RegularPages "Params.layout" "post" }}
+        <li>
+          <span class="post-meta">{{ .Date.Format "Jan 2, 2006" }}</span>
+
+          <h2>
+            <a class="post-link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h2>
+        </li>
+        {{ end }}
+      </ul>
+
+    </div>
+  </article>
+
+</div>
+{{ end }}
