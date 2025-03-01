@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programm
-permalink: /2016/programm_was_bedeuten_die_icons/
+url: /2016/programm_was_bedeuten_die_icons/
 weight: 
 menu:
 ---

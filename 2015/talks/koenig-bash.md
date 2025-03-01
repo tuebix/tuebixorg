@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/koenig-bash/
+url: /2015/programm/koenig-bash/
 weight: 
 menu:
 ---
 ## Haralds kleine Helferlein: die Shell {#haraldskleinehelferleindieshell}
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V1 {#-1100-bis-1200-in-raum-v1}
 
 ### Harald König {#haraldkönig}
 

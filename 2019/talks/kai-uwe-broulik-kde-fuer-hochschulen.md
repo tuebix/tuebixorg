@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/kai-uwe-broulik-kde-fuer-hochschulen/
+url: /2019/programm/kai-uwe-broulik-kde-fuer-hochschulen/
 weight:
 menu:
 ---
 ## KDE für Hochschulen
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:30 bis 14:35 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:30 bis 14:35 in Raum V3 {#-1430-bis-1435-in-raum-v3}
 
 ### Kai Uwe Broulik
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/93-neues-in-debian-12-bookworm-/
+url: /2023/programm/93-neues-in-debian-12-bookworm-/
 weight:
 menu:
 ---
 ## Neues in Debian 12 "bookworm"
 
-### <img height = "32" src="../../../images/lightning.svg"> 16:05 bis 16:10 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 16:05 bis 16:10 in Raum V3 {#-1605-bis-1610-in-raum-v3}
 
 ### Andi Mundt
 

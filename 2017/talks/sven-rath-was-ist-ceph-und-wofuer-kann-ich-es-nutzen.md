@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/sven-rath-was-ist-ceph-und-wofuer-kann-ich-es-nutzen/
+url: /2017/programm/sven-rath-was-ist-ceph-und-wofuer-kann-ich-es-nutzen/
 weight:
 menu:
 ---
 ## FÄLLT AUS! Was ist Ceph und wofür kann Ich es nutzen?
 
-### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W3
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W3 {#-1400-bis-1600-in-raum-w3}
 
 ### FÄLLT AUS! Sven Rath
 

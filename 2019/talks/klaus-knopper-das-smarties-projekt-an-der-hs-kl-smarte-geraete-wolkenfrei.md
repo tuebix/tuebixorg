@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/klaus-knopper-das-smarties-projekt-an-der-hs-kl-smarte-geraete-wolkenfrei/
+url: /2019/programm/klaus-knopper-das-smarties-projekt-an-der-hs-kl-smarte-geraete-wolkenfrei/
 weight:
 menu:
 ---
 ## Das "Smarties" Projekt an der HS-KL - Smarte Geräte, wolkenfrei
 
-### <img height = "32" src="../../../images/lightning.svg"> 15:05 bis 15:10 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:05 bis 15:10 in Raum V3 {#-1505-bis-1510-in-raum-v3}
 
 ### Klaus Knopper
 

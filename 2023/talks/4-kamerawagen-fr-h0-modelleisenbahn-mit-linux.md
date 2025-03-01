@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/4-kamerawagen-fr-h0-modelleisenbahn-mit-linux/
+url: /2023/programm/4-kamerawagen-fr-h0-modelleisenbahn-mit-linux/
 weight:
 menu:
 ---
 ## Kamerawagen für H0-Modelleisenbahn mit Linux
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V3 {#-1200-bis-1250-in-raum-v3}
 
 ### Roland Imme
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/70-kamerawagen-mit-linux-h0-modelleisenbahn-/
+url: /2024/programm/70-kamerawagen-mit-linux-h0-modelleisenbahn-/
 weight:
 menu:
 ---
 ## Kamerawagen mit Linux (H0-Modelleisenbahn)
 
-### <img height = "32" src="../../../images/talk.svg"> 11:30 bis 12:20 in Raum V2 (F122)
+### <img height = "32" src="../../../images/talk.svg"> 11:30 bis 12:20 in Raum V2 (F122) {#-1130-bis-1220-in-raum-v2-f122}
 
 ### Roland Imme
 

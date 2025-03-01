@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/schiebel-linuxmuster/
+url: /2015/programm/schiebel-linuxmuster/
 weight: 
 menu:
 ---
 ## Schulnetz - linuxmuster.net {#schulnetz-linuxmusternet}
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V1 {#-1200-bis-1300-in-raum-v1}
 
 ### Frank Schiebel {#frankschiebel}
 

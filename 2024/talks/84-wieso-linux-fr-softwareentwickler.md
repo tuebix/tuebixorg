@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/84-wieso-linux-fr-softwareentwickler/
+url: /2024/programm/84-wieso-linux-fr-softwareentwickler/
 weight:
 menu:
 ---
 ## Wieso Linux - für Softwareentwickler
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:20 in Raum V2 (F122)
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:20 in Raum V2 (F122) {#-1100-bis-1120-in-raum-v2-f122}
 
 ### Peter Hrenka
 

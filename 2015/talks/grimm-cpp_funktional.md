@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/grimm-cpp_funktional/
+url: /2015/programm/grimm-cpp_funktional/
 weight: 
 menu:
 ---
 ## Funktionale Programmierung mit C++ {#funktionaleprogrammierungmitc}
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V3 {#-1700-bis-1800-in-raum-v3}
 
 ### Rainer Grimm {#rainergrimm}
 

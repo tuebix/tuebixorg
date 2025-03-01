@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/philipp-kammerer-3d-grafik-und-animation-mit-blender/
+url: /2019/programm/philipp-kammerer-3d-grafik-und-animation-mit-blender/
 weight:
 menu:
 ---
 ## 3D-Grafik und Animation mit Blender
 
-### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 15:50 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 15:50 in Raum W1 {#-1400-bis-1550-in-raum-w1}
 
 ### Philipp Kammerer
 

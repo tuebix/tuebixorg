@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/dominik-george-movim-the-kick-ass-social-network/
+url: /2018/programm/dominik-george-movim-the-kick-ass-social-network/
 weight:
 menu:
 ---
 ## Movim, the kick-ass social network
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:00 bis 14:05 in Raum V1
+### <img height = "32" src="../../../images/lightning.svg"> 14:00 bis 14:05 in Raum V1 {#-1400-bis-1405-in-raum-v1}
 
 ### Dominik George
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/reiner-schlotte-hadoop-ist-defekt-das-alphabet-des-grauens/
+url: /2019/programm/reiner-schlotte-hadoop-ist-defekt-das-alphabet-des-grauens/
 weight:
 menu:
 ---
 ## Hadoop ist defekt - Das Alphabet des Grauens
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum V4 {#-1600-bis-1650-in-raum-v4}
 
 ### Reiner Schlotte
 

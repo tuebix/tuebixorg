@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/65-plasma-6-0-was-ist-neu-/
+url: /2024/programm/65-plasma-6-0-was-ist-neu-/
 weight:
 menu:
 ---
 ## Plasma 6.0 – Was ist neu?
 
-### <img height = "32" src="../../../images/talk.svg"> 14:30 bis 14:50 in Raum V1 (F119)
+### <img height = "32" src="../../../images/talk.svg"> 14:30 bis 14:50 in Raum V1 (F119) {#-1430-bis-1450-in-raum-v1-f119}
 
 ### Kai Uwe Broulik
 

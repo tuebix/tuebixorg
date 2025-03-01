@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/flebbe-bigdata1/
+url: /2015/programm/flebbe-bigdata1/
 weight: 
 menu:
 ---
 ## Big Data in a Nutshell {#bigdatainanutshell}
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 17:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 17:00 in Raum V1 {#-1600-bis-1700-in-raum-v1}
 
 ### Olaf Flebbe {#olafflebbe}
 

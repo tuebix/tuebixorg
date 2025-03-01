@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/64-solvespace-pragmatisches-freies-2d-3d-cad-fr-normalsterbliche/
+url: /2024/programm/64-solvespace-pragmatisches-freies-2d-3d-cad-fr-normalsterbliche/
 weight:
 menu:
 ---
 ## SolveSpace - Pragmatisches, freies 2D/3D CAD für Normalsterbliche
 
-### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 15:50 in Raum W1 (A302)
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 15:50 in Raum W1 (A302) {#-1400-bis-1550-in-raum-w1-a302}
 
 ### Yann Büchau
 

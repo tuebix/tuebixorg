@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/engelmann-lyx/
+url: /2015/programm/engelmann-lyx/
 weight: 
 menu:
 ---
 ## Mit LyX Text verarbeiten {#mitlyxtextverarbeiten}
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:30 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:30 in Raum V4 {#-1100-bis-1130-in-raum-v4}
 
 ### Wolfgang Engelmann {#wolfgangengelmann}
 

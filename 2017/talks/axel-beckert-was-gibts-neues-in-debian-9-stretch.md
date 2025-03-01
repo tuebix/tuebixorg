@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/axel-beckert-was-gibts-neues-in-debian-9-stretch/
+url: /2017/programm/axel-beckert-was-gibts-neues-in-debian-9-stretch/
 weight:
 menu:
 ---
 ## Was gibt's Neues in Debian 9 Stretch?
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V1 {#-1100-bis-1200-in-raum-v1}
 
 ### Axel Beckert
 

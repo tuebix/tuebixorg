@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/matthias-beyer-building-deb-rpm-packages-with-nixpkgs/
+url: /2019/programm/matthias-beyer-building-deb-rpm-packages-with-nixpkgs/
 weight:
 menu:
 ---
 ## Building .deb/.rpm packages with nixpkgs
 
-### <img height = "32" src="../../../images/lightning.svg"> 16:10 bis 16:15 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 16:10 bis 16:15 in Raum V3 {#-1610-bis-1615-in-raum-v3}
 
 ### Matthias Beyer
 

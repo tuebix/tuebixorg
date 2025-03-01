@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/83-wie-teste-ich-tests-/
+url: /2024/programm/83-wie-teste-ich-tests-/
 weight:
 menu:
 ---
 ## Wie teste ich Tests?
 
-### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:50 in Raum V3 (A301)
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:50 in Raum V3 (A301) {#-1300-bis-1350-in-raum-v3-a301}
 
 ### Peter Hrenka
 

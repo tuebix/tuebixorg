@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/stefan-klemm-linux-und-business/
+url: /2018/programm/stefan-klemm-linux-und-business/
 weight:
 menu:
 ---
 ## Linux und Business
 
-### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 17:50 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 17:50 in Raum W1 {#-1600-bis-1750-in-raum-w1}
 
 ### Stefan Klemm
 

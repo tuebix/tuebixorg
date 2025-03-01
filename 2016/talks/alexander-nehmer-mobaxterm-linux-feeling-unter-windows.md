@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/alexander-nehmer-mobaxterm-linux-feeling-unter-windows/
+url: /2016/programm/alexander-nehmer-mobaxterm-linux-feeling-unter-windows/
 weight:
 menu:
 ---
 ## MobaXterm - Linux-Feeling unter Windows
 
-### <img height = "32" src="../../../images/lightning.svg"> 12:30 bis 12:35 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:30 bis 12:35 in Raum V3 {#-1230-bis-1235-in-raum-v3}
 
 ### Alexander Nehmer
 

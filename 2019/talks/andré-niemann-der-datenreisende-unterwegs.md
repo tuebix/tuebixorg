@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/andré-niemann-der-datenreisende-unterwegs/
+url: /2019/programm/andré-niemann-der-datenreisende-unterwegs/
 weight:
 menu:
 ---
 ## Der Datenreisende unterwegs
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:20 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:20 in Raum V4 {#-1700-bis-1720-in-raum-v4}
 
 ### André Niemann
 

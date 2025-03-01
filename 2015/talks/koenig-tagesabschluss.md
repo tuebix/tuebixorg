@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/koenig-tagesabschluss/
+url: /2015/programm/koenig-tagesabschluss/
 weight: 
 menu:
 ---
 ## Haralds Tagesabschluss {#haraldstagesabschluss}
 
-### <img height = "32" src="../../../images/talk.svg"> 18:30 bis 19:30 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 18:30 bis 19:30 in Raum V1 {#-1830-bis-1930-in-raum-v1}
 
 ### Harald König {#haraldkönig}
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/felix-bauer-squid-reproduction/
+url: /2016/programm/felix-bauer-squid-reproduction/
 weight:
 menu:
 ---
 ## Squid Reproduction
 
-### <img height = "32" src="../../../images/lightning.svg"> 15:45 bis 15:50 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:45 bis 15:50 in Raum V3 {#-1545-bis-1550-in-raum-v3}
 
 ### Felix Bauer
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/felix-bauer-free-internet/
+url: /2016/programm/felix-bauer-free-internet/
 weight:
 menu:
 ---
 ## Free Internet
 
-### <img height = "32" src="../../../images/lightning.svg"> 15:00 bis 15:05 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:00 bis 15:05 in Raum V3 {#-1500-bis-1505-in-raum-v3}
 
 ### Felix Bauer
 

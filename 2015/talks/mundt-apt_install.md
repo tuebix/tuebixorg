@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/mundt-apt_install/
+url: /2015/programm/mundt-apt_install/
 weight: 
 menu:
 ---
 ## apt install YOUR-NEIGHBORHOOD {#aptinstallyour-neighborhood}
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V4 {#-1500-bis-1600-in-raum-v4}
 
 ### Andreas B. Mundt {#andreasbmundt}
 

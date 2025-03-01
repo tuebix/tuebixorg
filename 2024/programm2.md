@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programm
-permalink: /2024/programm/
+url: /2024/programm/
 ---
 
 * <span style="font-weight: bold;">Programm</span>

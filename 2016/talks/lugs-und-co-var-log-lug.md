@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/lugs-und-co-var-log-lug/
+url: /2016/programm/lugs-und-co-var-log-lug/
 weight:
 menu:
 ---
 ## /var/log/LUG
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:00 bis 15:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:00 bis 15:00 in Raum V3 {#-1400-bis-1500-in-raum-v3}
 
 ### LUGs + Co
 

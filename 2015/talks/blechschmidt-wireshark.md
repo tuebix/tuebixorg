@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/blechschmidt-wireshark/
+url: /2015/programm/blechschmidt-wireshark/
 weight: 
 menu:
 ---
 ## Netzwerksniffing mit Wireshark {#netzwerksniffingmitwireshark}
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V2 {#-1700-bis-1800-in-raum-v2}
 
 ### Ingo Blechschmidt {#ingoblechschmidt}
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/ingo-blechschmidt-einmal-stratosphaere-und-zurueck/
+url: /2016/programm/ingo-blechschmidt-einmal-stratosphaere-und-zurueck/
 weight:
 menu:
 ---
 ## Einmal Stratosphäre und zurück
 
-### <img height = "32" src="../../../images/lightning.svg"> 12:10 bis 12:15 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:10 bis 12:15 in Raum V3 {#-1210-bis-1215-in-raum-v3}
 
 ### Ingo Blechschmidt
 

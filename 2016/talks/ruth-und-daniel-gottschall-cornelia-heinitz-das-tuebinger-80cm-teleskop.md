@@ -1,19 +1,19 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/
+url: /2016/programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebinger-80cm-teleskop/
 weight: 
 menu:
 ---
 ## Das Tübinger 80cm-Teleskop {#dastübinger80cm-teleskop}
 
-### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:00 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:00 im Observatorium {#-1230-bis-1300-im-observatorium}
 
-### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 im Observatorium {#-1300-bis-1330-im-observatorium}
 
-### <img height = "32" src="../../../images/talk.svg"> 18:30 bis 19:00 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 18:30 bis 19:00 im Observatorium {#-1830-bis-1900-im-observatorium}
 
-### <img height = "32" src="../../../images/talk.svg"> 19:00 bis 19:30 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 19:00 bis 19:30 im Observatorium {#-1900-bis-1930-im-observatorium}
 
 ### Ruth Gottschall und Daniel Gottschall, Cornelia Heinitz {#ruthgottschallunddanielgottschallcorneliaheinitz}
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/68-community-in-der-eigenen-hand-fderiertes-forgejo/
+url: /2024/programm/68-community-in-der-eigenen-hand-fderiertes-forgejo/
 weight:
 menu:
 ---
 ## Community in der eigenen Hand - föderiertes forgejo
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:20 in Raum V3 (A301)
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:20 in Raum V3 (A301) {#-1400-bis-1420-in-raum-v3-a301}
 
 ### Michael Jerger
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons/
+url: /2016/programm/anselm-kruis-kinder-computerzeitbegrenzung-und-new-style-daemons/
 weight:
 menu:
 ---
 ## Kinder, Computerzeitbegrenzung und New-Style-Daemons
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V4 {#-1500-bis-1600-in-raum-v4}
 
 ### Anselm Kruis
 

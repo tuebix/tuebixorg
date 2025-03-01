@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/73-blender-3d-schnelleinstieg/
+url: /2024/programm/73-blender-3d-schnelleinstieg/
 weight:
 menu:
 ---
 ## Blender 3D Schnelleinstieg
 
-### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 11:50 in Raum W2 (C118a)
+### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 11:50 in Raum W2 (C118a) {#-1000-bis-1150-in-raum-w2-c118a}
 
 ### Rüdiger Marwein
 

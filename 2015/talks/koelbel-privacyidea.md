@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/koelbel-privacyidea/
+url: /2015/programm/koelbel-privacyidea/
 weight: 
 menu:
 ---
 ## privacyIDEA - Zwei-Faktor-Authentisierung selber machen {#privacyidea-zwei-faktor-authentisierungselbermachen}
 
-### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W2
+### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W2 {#-1600-bis-1800-in-raum-w2}
 
 ### Cornelius Kölbel {#corneliuskölbel}
 

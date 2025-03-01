@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/george-software_unter_freunden/
+url: /2015/programm/george-software_unter_freunden/
 weight: 
 menu:
 ---
 ## Open Source ist Software unter Freunden {#opensourceistsoftwareunterfreunden}
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:50 bis 14:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:50 bis 14:00 in Raum V3 {#-1350-bis-1400-in-raum-v3}
 
 ### Dominik George {#dominikgeorge}
 

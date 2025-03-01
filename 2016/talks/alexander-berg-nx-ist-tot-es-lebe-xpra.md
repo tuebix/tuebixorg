@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/alexander-berg-nx-ist-tot-es-lebe-xpra/
+url: /2016/programm/alexander-berg-nx-ist-tot-es-lebe-xpra/
 weight:
 menu:
 ---
 ## NX ist tot, es lebe <del>N</del>Xpra {#nx-ist-tot-es-lebe-nxpra}
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:05 bis 13:10 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:05 bis 13:10 in Raum V3 {#-1305-bis-1310-in-raum-v3}
 
 ### Alexander Berg
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/olaf-flebbe-python-performance-for-plants-and-profit/
+url: /2018/programm/olaf-flebbe-python-performance-for-plants-and-profit/
 weight:
 menu:
 ---
 ## Python Performance for Plants and Profit
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V1 {#-1000-bis-1050-in-raum-v1}
 
 ### Olaf Flebbe
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/meffisto-verschluesselung-einer-ssd-mit-luks-und-wie-man-sich-selbst-kompromittieren-kann/
+url: /2019/programm/meffisto-verschluesselung-einer-ssd-mit-luks-und-wie-man-sich-selbst-kompromittieren-kann/
 weight:
 menu:
 ---
 ## Verschlüsselung einer SSD mit LUKS und wie man sich selbst kompromittieren kann
 
-### <img height = "32" src="../../../images/lightning.svg"> 16:00 bis 16:05 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 16:00 bis 16:05 in Raum V3 {#-1600-bis-1605-in-raum-v3}
 
 ### meffisto
 

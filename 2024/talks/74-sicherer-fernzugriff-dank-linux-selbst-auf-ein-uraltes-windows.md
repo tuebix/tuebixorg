@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/74-sicherer-fernzugriff-dank-linux-selbst-auf-ein-uraltes-windows/
+url: /2024/programm/74-sicherer-fernzugriff-dank-linux-selbst-auf-ein-uraltes-windows/
 weight:
 menu:
 ---
 ## Sicherer Fernzugriff dank Linux - selbst auf ein uraltes Windows
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V3 (A301)
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V3 (A301) {#-1000-bis-1050-in-raum-v3-a301}
 
 ### Stefan Baur
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/felix-bauer-wol-on-arp-anturnen-bei-bedarf/
+url: /2016/programm/felix-bauer-wol-on-arp-anturnen-bei-bedarf/
 weight:
 menu:
 ---
 ## WOL-on-ARP - Anturnen bei Bedarf
 
-### <img height = "32" src="../../../images/lightning.svg"> 15:30 bis 15:35 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:30 bis 15:35 in Raum V3 {#-1530-bis-1535-in-raum-v3}
 
 ### Felix Bauer
 

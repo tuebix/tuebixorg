@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/knopper-openscad/
+url: /2015/programm/knopper-openscad/
 weight: 
 menu:
 ---
 ## 3D-Modelle erstellen mit OpenSCAD {#3d-modelleerstellenmitopenscad}
 
-### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W3
+### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W3 {#-1600-bis-1800-in-raum-w3}
 
 ### Prof. Dipl.-Ing. Klaus Knopper {#profdipl-ingklausknopper}
 

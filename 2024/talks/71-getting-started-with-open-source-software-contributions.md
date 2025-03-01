@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/71-getting-started-with-open-source-software-contributions/
+url: /2024/programm/71-getting-started-with-open-source-software-contributions/
 weight:
 menu:
 ---
 ## Getting Started with Open Source Software Contributions
 
-### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:20 in Raum V2 (F122)
+### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:20 in Raum V2 (F122) {#-1230-bis-1320-in-raum-v2-f122}
 
 ### Christian Heusel
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/dominik-george-kinder-instant-messaging-und-andere-foss-abenteuer/
+url: /2018/programm/dominik-george-kinder-instant-messaging-und-andere-foss-abenteuer/
 weight:
 menu:
 ---
 ## Kinder, Instant Messaging und andere FOSS-Abenteuer
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:20 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:20 in Raum V3 {#-1400-bis-1420-in-raum-v3}
 
 ### Dominik George
 

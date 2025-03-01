@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/uli-kleemann-buddel-die-eins-ueber-vpns-und-warum-man-das-selber-machen-sollte/
+url: /2019/programm/uli-kleemann-buddel-die-eins-ueber-vpns-und-warum-man-das-selber-machen-sollte/
 weight:
 menu:
 ---
 ## Buddel die eins  über VPNs und warum man das selber machen sollte
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:25 bis 14:30 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:25 bis 14:30 in Raum V3 {#-1425-bis-1430-in-raum-v3}
 
 ### Uli Kleemann
 

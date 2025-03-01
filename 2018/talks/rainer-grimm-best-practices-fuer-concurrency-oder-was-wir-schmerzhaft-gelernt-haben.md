@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/rainer-grimm-best-practices-fuer-concurrency-oder-was-wir-schmerzhaft-gelernt-haben/
+url: /2018/programm/rainer-grimm-best-practices-fuer-concurrency-oder-was-wir-schmerzhaft-gelernt-haben/
 weight:
 menu:
 ---
 ## Best Practices für Concurrency oder was wir (schmerzhaft) gelernt haben
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:50 in Raum V1 {#-1700-bis-1750-in-raum-v1}
 
 ### Rainer Grimm
 

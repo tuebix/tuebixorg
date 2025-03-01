@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/felix-bauer-incontinent-containers/
+url: /2017/programm/felix-bauer-incontinent-containers/
 weight:
 menu:
 ---
 ## Incontinent Containers
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:50 bis 14:55 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:50 bis 14:55 in Raum V3 {#-1450-bis-1455-in-raum-v3}
 
 ### Felix Bauer
 

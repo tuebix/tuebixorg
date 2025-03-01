@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/christian-seiler-real-time-anwendungen-unter-linux-lessons-learned/
+url: /2019/programm/christian-seiler-real-time-anwendungen-unter-linux-lessons-learned/
 weight:
 menu:
 ---
 ## Real-Time-Anwendungen unter Linux: Lessons Learned
 
-### <img height = "32" src="../../../images/lightning.svg"> 16:20 bis 16:25 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 16:20 bis 16:25 in Raum V3 {#-1620-bis-1625-in-raum-v3}
 
 ### Christian Seiler
 

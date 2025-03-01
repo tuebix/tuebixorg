@@ -1,19 +1,19 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop/
+url: /2017/programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-teleskop/
 weight: 
 menu:
 ---
 ## Das Tübinger 80cm-Teleskop {#dastübinger80cm-teleskop}
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:30 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:30 im Observatorium {#-1100-bis-1130-im-observatorium}
 
-### <img height = "32" src="../../../images/talk.svg"> 11:30 bis 12:00 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 11:30 bis 12:00 im Observatorium {#-1130-bis-1200-im-observatorium}
 
-### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:00 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:00 im Observatorium {#-1230-bis-1300-im-observatorium}
 
-### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 18:00 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 18:00 im Observatorium {#-1730-bis-1800-im-observatorium}
 
 ### Cornelia Heinitz und Stephan Hartmann {#corneliaheinitzundstephanhartmann}
 

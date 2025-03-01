@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/peter-hrenka-git-sub-aehhm-dings/
+url: /2016/programm/peter-hrenka-git-sub-aehhm-dings/
 weight:
 menu:
 ---
 ## git sub - ähhm - dings
 
-### <img height = "32" src="../../../images/lightning.svg"> 12:20 bis 12:25 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:20 bis 12:25 in Raum V3 {#-1220-bis-1225-in-raum-v3}
 
 ### Peter Hrenka
 

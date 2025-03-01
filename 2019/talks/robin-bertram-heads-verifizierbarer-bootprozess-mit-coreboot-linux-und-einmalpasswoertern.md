@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/robin-bertram-heads-verifizierbarer-bootprozess-mit-coreboot-linux-und-einmalpasswoertern/
+url: /2019/programm/robin-bertram-heads-verifizierbarer-bootprozess-mit-coreboot-linux-und-einmalpasswoertern/
 weight:
 menu:
 ---
 ## Heads - verifizierbarer Bootprozess mit Coreboot, Linux und Einmalpasswörten
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:35 bis 14:40 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:35 bis 14:40 in Raum V3 {#-1435-bis-1440-in-raum-v3}
 
 ### Robin Bertram
 

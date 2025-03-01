@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/michael-weiss-einfuehrung-in-nix-und-nixos/
+url: /2018/programm/michael-weiss-einfuehrung-in-nix-und-nixos/
 weight:
 menu:
 ---
 ## Einführung in Nix und NixOS
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V2 {#-1000-bis-1050-in-raum-v2}
 
 ### Michael Weiss
 

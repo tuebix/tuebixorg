@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/hofmann-lug_berlin/
+url: /2015/programm/hofmann-lug_berlin/
 weight: 
 menu:
 ---
 ## Unter einem Dach: lug.berlin {#untereinemdachlugberlin}
 
-### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:00 in Raum V4 {#-1230-bis-1300-in-raum-v4}
 
 ### Frank Hofmann {#frankhofmann}
 

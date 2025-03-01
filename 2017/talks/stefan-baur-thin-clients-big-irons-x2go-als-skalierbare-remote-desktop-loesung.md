@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/stefan-baur-thin-clients-big-irons-x2go-als-skalierbare-remote-desktop-loesung/
+url: /2017/programm/stefan-baur-thin-clients-big-irons-x2go-als-skalierbare-remote-desktop-loesung/
 weight:
 menu:
 ---
 ## Thin Clients, Big Irons - X2Go als skalierbare Remote Desktop-Lösung
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V4 {#-1700-bis-1800-in-raum-v4}
 
 ### Stefan Baur
 

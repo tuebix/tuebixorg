@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/holger-gantikow-do-containers-still-not-contain-what-s-new-in-container-security/
+url: /2018/programm/holger-gantikow-do-containers-still-not-contain-what-s-new-in-container-security/
 weight:
 menu:
 ---
 ## Do Containers still not contain? What's new in Container Security
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:50 in Raum V2 {#-1400-bis-1450-in-raum-v2}
 
 ### Holger Gantikow
 

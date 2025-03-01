@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/rosendahl-warum_enterprise/
+url: /2015/programm/rosendahl-warum_enterprise/
 weight: 
 menu:
 ---
 ## Warum Enterprise Linux? {#warumenterpriselinux}
 
-### <img height = "32" src="../../../images/lightning.svg"> 11:30 bis 11:40 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 11:30 bis 11:40 in Raum V3 {#-1130-bis-1140-in-raum-v3}
 
 ### Frank Rosendahl {#frankrosendahl}
 

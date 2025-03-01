@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/uebele-bitcoin/
+url: /2015/programm/uebele-bitcoin/
 weight: 
 menu:
 ---
 ## Bitcoin - Eine dezentrale Währung {#bitcoin-einedezentralewährung}
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:30 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:30 in Raum V3 {#-1000-bis-1030-in-raum-v3}
 
 ### Peter Uebele {#peteruebele}
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/robert-scheck-selinux-bitte-nicht-deaktivieren/
+url: /2016/programm/robert-scheck-selinux-bitte-nicht-deaktivieren/
 weight:
 menu:
 ---
 ## SELinux: Bitte nicht deaktivieren…
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V1 {#-1500-bis-1600-in-raum-v1}
 
 ### Robert Scheck
 

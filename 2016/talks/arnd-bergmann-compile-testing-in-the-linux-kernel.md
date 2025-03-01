@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/arnd-bergmann-compile-testing-in-the-linux-kernel/
+url: /2016/programm/arnd-bergmann-compile-testing-in-the-linux-kernel/
 weight:
 menu:
 ---
 ## compile-testing in the Linux kernel
 
-### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V555
+### <img height = "32" src="../../../images/talk.svg"> 23:00 bis 24:00 in Raum V555 {#-2300-bis-2400-in-raum-v555}
 
 ### Arnd Bergmann
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/gantikow-verkehrte_welt/
+url: /2015/programm/gantikow-verkehrte_welt/
 weight: 
 menu:
 ---
 ## Verkehrte Welt - Linux im High Performance Computing {#verkehrtewelt-linuximhighperformancecomputing}
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V1 {#-1500-bis-1600-in-raum-v1}
 
 ### Holger Gantikow {#holgergantikow}
 

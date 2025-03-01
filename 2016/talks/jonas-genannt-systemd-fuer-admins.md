@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/jonas-genannt-systemd-fuer-admins/
+url: /2016/programm/jonas-genannt-systemd-fuer-admins/
 weight:
 menu:
 ---
 ## systemd für Admins
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V1 {#-1400-bis-1500-in-raum-v1}
 
 ### Jonas Genannt
 

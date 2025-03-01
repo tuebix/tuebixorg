@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/knut-franke-prokrastination-panik-doku-pauken-was-hilft-bei-der-migration-auf-python3/
+url: /2018/programm/knut-franke-prokrastination-panik-doku-pauken-was-hilft-bei-der-migration-auf-python3/
 weight:
 menu:
 ---
 ## Prokrastination, Panik, Doku Pauken - was hilft bei der Migration auf Python 3?
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V3 {#-1100-bis-1150-in-raum-v3}
 
 ### Knut Franke
 

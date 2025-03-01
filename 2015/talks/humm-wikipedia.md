@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/humm-wikipedia/
+url: /2015/programm/humm-wikipedia/
 weight: 
 menu:
 ---
 ## Wikipedia visualisieren {#wikipediavisualisieren}
 
-### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 13:40 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 13:40 in Raum V3 {#-1330-bis-1340-in-raum-v3}
 
 ### Justin Humm {#justinhumm}
 

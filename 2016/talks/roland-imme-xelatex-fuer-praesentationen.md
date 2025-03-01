@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/roland-imme-xelatex-fuer-praesentationen/
+url: /2016/programm/roland-imme-xelatex-fuer-praesentationen/
 weight:
 menu:
 ---
 ## XeLaTeX für Präsentationen... ?!?
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V4 {#-1100-bis-1200-in-raum-v4}
 
 ### Roland Imme
 

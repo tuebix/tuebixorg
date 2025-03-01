@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anmeldung
-permalink: /2016/anmeldung/
+url: /2016/anmeldung/
 weight:
 menu:
 ---

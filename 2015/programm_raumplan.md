@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programm
-permalink: /2015/programm_raumplan/
+url: /2015/programm_raumplan/
 weight: 10
 menu: 
 ---

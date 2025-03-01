@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/ldungssysteme-nachhaltig-digitalisieren/
+url: /2023/programm/ldungssysteme-nachhaltig-digitalisieren/
 weight:
 menu:
 ---
 ## Bildungssysteme nachhaltig digitalisieren
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V1 {#-1200-bis-1250-in-raum-v1}
 
 ### Frank Schiebel & Andreas Grupp & Andi Mundt
 

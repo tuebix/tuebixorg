@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/klaus-knopper-make-money-fast-box/
+url: /2017/programm/klaus-knopper-make-money-fast-box/
 weight:
 menu:
 ---
 ## Die \"Make Money Fast Box\" - ein Raspberry Pi Projekt
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:55 bis 14:57 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:55 bis 14:57 in Raum V3 {#-1455-bis-1457-in-raum-v3}
 
 ### Klaus Knopper
 

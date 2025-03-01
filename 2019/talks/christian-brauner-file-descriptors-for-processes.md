@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/christian-brauner-file-descriptors-for-processes/
+url: /2019/programm/christian-brauner-file-descriptors-for-processes/
 weight:
 menu:
 ---
 ## File Descriptors For Processes
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:50 in Raum V1 {#-1400-bis-1450-in-raum-v1}
 
 ### Christian Brauner
 

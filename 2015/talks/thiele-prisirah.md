@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/thiele-prisirah/
+url: /2015/programm/thiele-prisirah/
 weight: 
 menu:
 ---
 ## Prisirah - digitaler Bilderrahmen für Familie und Freunde {#prisirah-digitalerbilderrahmenfürfamilieundfreunde}
 
-### <img height = "32" src="../../../images/lightning.svg"> 11:40 bis 11:50 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 11:40 bis 11:50 in Raum V3 {#-1140-bis-1150-in-raum-v3}
 
 ### Jens Thiele {#jensthiele}
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/101-an-introduction-into-ebpf/
+url: /2023/programm/101-an-introduction-into-ebpf/
 weight:
 menu:
 ---
 ## An introduction into eBPF
 
-### <img height = "32" src="../../../images/talk.svg"> 14:30 bis 14:50 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 14:30 bis 14:50 in Raum V4 {#-1430-bis-1450-in-raum-v4}
 
 ### Michael Weiss
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/brauner-lxc/
+url: /2015/programm/brauner-lxc/
 weight: 
 menu:
 ---
 ## Operating-system-level virtualization {#operating-system-levelvirtualization}
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V1 {#-1000-bis-1100-in-raum-v1}
 
 ### Christian Brauner {#christianbrauner}
 

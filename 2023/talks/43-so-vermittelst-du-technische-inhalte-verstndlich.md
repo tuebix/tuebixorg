@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/43-so-vermittelst-du-technische-inhalte-verstndlich/
+url: /2023/programm/43-so-vermittelst-du-technische-inhalte-verstndlich/
 weight:
 menu:
 ---
 ## So vermittelst du technische Inhalte verständlich
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:50 in Raum V1 {#-1400-bis-1450-in-raum-v1}
 
 ### Frank Hofmann
 

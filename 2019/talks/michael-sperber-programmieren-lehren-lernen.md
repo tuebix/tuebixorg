@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/michael-sperber-programmieren-lehren-lernen/
+url: /2019/programm/michael-sperber-programmieren-lehren-lernen/
 weight:
 menu:
 ---
 ## Programmieren lehren lernen
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V1 {#-1100-bis-1150-in-raum-v1}
 
 ### Michael Sperber
 

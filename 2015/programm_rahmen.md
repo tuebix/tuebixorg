@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programm
-permalink: /2015/programm_rahmen/
+url: /2015/programm_rahmen/
 weight: 
 menu: 
 ---

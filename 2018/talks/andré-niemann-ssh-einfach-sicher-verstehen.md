@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/andré-niemann-ssh-einfach-sicher-verstehen/
+url: /2018/programm/andré-niemann-ssh-einfach-sicher-verstehen/
 weight:
 menu:
 ---
 ## SSH - einfach, sicher, verstehen
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V1 {#-1100-bis-1150-in-raum-v1}
 
 ### André Niemann
 

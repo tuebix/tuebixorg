@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/75-fledermuse-oder-c-neu-entdeckt/
+url: /2024/programm/75-fledermuse-oder-c-neu-entdeckt/
 weight:
 menu:
 ---
 ## Fledermäuse oder C neu entdeckt
 
-### <img height = "32" src="../../../images/talk.svg"> 10:30 bis 11:20 in Raum V1 (F119)
+### <img height = "32" src="../../../images/talk.svg"> 10:30 bis 11:20 in Raum V1 (F119) {#-1030-bis-1120-in-raum-v1-f119}
 
 ### Olaf Flebbe
 

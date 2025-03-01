@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/kemmer-network_steganography/
+url: /2015/programm/kemmer-network_steganography/
 weight: 
 menu:
 ---
 ## Steganographic Communication using TCP Inter Burst Delays {#steganographiccommunicationusingtcpinterburstdelays}
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V2 {#-1500-bis-1600-in-raum-v2}
 
 ### Florian Kemmer {#floriankemmer}
 

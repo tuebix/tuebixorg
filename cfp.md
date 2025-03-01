@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for Papers
-permalink: /callforpapers/
+url: /callforpapers/
 redirect_from: /cfp/
 emailcfp: cfp@tuebix.org
 weight: 10

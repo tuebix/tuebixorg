@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/schroeder-tex/
+url: /2015/programm/schroeder-tex/
 weight: 
 menu:
 ---
 ## TeX im 3. Jahrtausend {#texim3jahrtausend}
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V4 {#-1000-bis-1100-in-raum-v4}
 
 ### Martin Schröder {#martinschröder}
 

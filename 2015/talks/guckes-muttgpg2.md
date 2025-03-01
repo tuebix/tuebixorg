@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/guckes-muttgpg2/
+url: /2015/programm/guckes-muttgpg2/
 weight: 
 menu:
 ---
 ## mutt + gpg - Sichere Email {#muttgpg-sichereemail}
 
-### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W1 {#-1400-bis-1600-in-raum-w1}
 
 ### Sven Guckes {#svenguckes}
 

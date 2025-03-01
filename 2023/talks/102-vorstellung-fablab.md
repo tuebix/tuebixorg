@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/102-vorstellung-fablab/
+url: /2023/programm/102-vorstellung-fablab/
 weight:
 menu:
 ---
 ## Vorstellung Fablab
 
-### <img height = "32" src="../../../images/lightning.svg"> 15:30 bis 15:35 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:30 bis 15:35 in Raum V3 {#-1530-bis-1535-in-raum-v3}
 
 ### Paul Rosset
 

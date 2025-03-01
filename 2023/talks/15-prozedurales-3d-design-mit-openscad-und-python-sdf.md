@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/15-prozedurales-3d-design-mit-openscad-und-python-sdf/
+url: /2023/programm/15-prozedurales-3d-design-mit-openscad-und-python-sdf/
 weight:
 menu:
 ---
 ## Prozedurales 3D-Design mit OpenSCAD und Python-SDF
 
-### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 12:50 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 12:50 in Raum V4 {#-1230-bis-1250-in-raum-v4}
 
 ### Yann Büchau
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/witte-scilab_xcos/
+url: /2015/programm/witte-scilab_xcos/
 weight: 
 menu:
 ---
 ## Modellbildung mit Scilab/Xcos mit Beispielen aus der Biorhythmik {#modellbildungmitscilabxcosmitbeispielenausderbiorhythmik}
 
-### <img height = "32" src="../../../images/talk.svg"> 11:30 bis 12:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 11:30 bis 12:00 in Raum V4 {#-1130-bis-1200-in-raum-v4}
 
 ### Karl-Heinz Witte {#karl-heinzwitte}
 

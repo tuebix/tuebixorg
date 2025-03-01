@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Log
-permalink: /log/
+url: /log/
 weight:
 menu:
 ---

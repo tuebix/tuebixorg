@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/matthias-kurz-mastodon-die-geschichte-vom-tooten-und-boosten/
+url: /2019/programm/matthias-kurz-mastodon-die-geschichte-vom-tooten-und-boosten/
 weight:
 menu:
 ---
 ## Mastodon - Die Geschichte vom tooten und boosten
 
-### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 17:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 17:50 in Raum V3 {#-1730-bis-1750-in-raum-v3}
 
 ### Matthias Kurz
 

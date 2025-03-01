@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/jonas-benn-open-up-science/
+url: /2019/programm/jonas-benn-open-up-science/
 weight:
 menu:
 ---
 ## Open up, science!
 
-### <img height = "32" src="../../../images/lightning.svg"> 16:30 bis 16:35 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 16:30 bis 16:35 in Raum V3 {#-1630-bis-1635-in-raum-v3}
 
 ### Jonas Benn
 

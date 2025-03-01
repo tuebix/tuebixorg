@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/frieder-strohmaier-wueste-welle-technik-ak-hackspace-mit-bodenkontakt/
+url: /2019/programm/frieder-strohmaier-wueste-welle-technik-ak-hackspace-mit-bodenkontakt/
 weight:
 menu:
 ---
 ## Wüste Welle Technik-AK Hackspace mit Bodenkontakt
 
-### <img height = "32" src="../../../images/lightning.svg"> 15:00 bis 15:05 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:00 bis 15:05 in Raum V3 {#-1500-bis-1505-in-raum-v3}
 
 ### Frieder Strohmaier
 

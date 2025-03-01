@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LPIC
-permalink: /lpic/
+url: /lpic/
 weight: 20
 menu:
 ---

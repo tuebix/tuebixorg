@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/frank-schiebel-wlan-an-der-schule/
+url: /2016/programm/frank-schiebel-wlan-an-der-schule/
 weight:
 menu:
 ---
 ## WLAN an der Schule - Ein Konzept mit Freifunk, Unifi und linuxmuster.net
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V4 {#-1400-bis-1500-in-raum-v4}
 
 ### Frank Schiebel
 

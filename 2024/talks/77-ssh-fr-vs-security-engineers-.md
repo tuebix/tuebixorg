@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/77-ssh-fr-vs-security-engineers-/
+url: /2024/programm/77-ssh-fr-vs-security-engineers-/
 weight:
 menu:
 ---
 ## SSH für/vs. Security Engineers?
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:20 in Raum V2 (F122)
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:20 in Raum V2 (F122) {#-1600-bis-1620-in-raum-v2-f122}
 
 ### Oleksandr Shcherbakov
 

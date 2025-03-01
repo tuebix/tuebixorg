@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/daniel-kobras-die-anatomie-eines-zfs-dateisystems/
+url: /2017/programm/daniel-kobras-die-anatomie-eines-zfs-dateisystems/
 weight:
 menu:
 ---
 ## Die Anatomie eines ZFS-Dateisystems
 
-### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W3
+### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W3 {#-1600-bis-1800-in-raum-w3}
 
 ### Daniel Kobras
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/knopper-knoppix_raspi/
+url: /2015/programm/knopper-knoppix_raspi/
 weight: 
 menu:
 ---
 ## Knoppix auf dem Raspberry Pi {#knoppixaufdemraspberrypi}
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V1 {#-1400-bis-1500-in-raum-v1}
 
 ### Prof. Dipl.-Ing. Klaus Knopper {#profdipl-ingklausknopper}
 

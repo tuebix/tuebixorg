@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/friedrich-strohmaier-andy-kuestner-open-source-software-beim-freien-radio-wueste-welle/
+url: /2016/programm/friedrich-strohmaier-andy-kuestner-open-source-software-beim-freien-radio-wueste-welle/
 weight:
 menu:
 ---
 ## Open Source Software beim Freien Radio Wüste Welle
 
-### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 in Raum V4 {#-1300-bis-1330-in-raum-v4}
 
 ### Friedrich Strohmaier, Andy Küstner
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Downloads/Archiv
-permalink: /downloads/
+url: /downloads/
 weight: 15
 menu: main
 ---

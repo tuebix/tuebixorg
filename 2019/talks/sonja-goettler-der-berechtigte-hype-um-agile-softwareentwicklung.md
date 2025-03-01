@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/sonja-goettler-der-berechtigte-hype-um-agile-softwareentwicklung/
+url: /2019/programm/sonja-goettler-der-berechtigte-hype-um-agile-softwareentwicklung/
 weight:
 menu:
 ---
 ## Der berechtigte (?!) Hype um agile Softwareentwicklung
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:20 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:20 in Raum V2 {#-1700-bis-1720-in-raum-v2}
 
 ### Sonja Göttler
 

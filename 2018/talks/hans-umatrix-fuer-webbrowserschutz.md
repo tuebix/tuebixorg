@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/hans-umatrix-fuer-webbrowserschutz/
+url: /2018/programm/hans-umatrix-fuer-webbrowserschutz/
 weight:
 menu:
 ---
 ## uMatrix für Webbrowserschutz
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:20 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:20 in Raum V3 {#-1000-bis-1020-in-raum-v3}
 
 ### Hans
 

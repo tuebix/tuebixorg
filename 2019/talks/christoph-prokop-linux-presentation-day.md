@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/christoph-prokop-linux-presentation-day/
+url: /2019/programm/christoph-prokop-linux-presentation-day/
 weight:
 menu:
 ---
 ## Linux Presentation Day
 
-### <img height = "32" src="../../../images/lightning.svg"> 16:40 bis 16:45 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 16:40 bis 16:45 in Raum V3 {#-1640-bis-1645-in-raum-v3}
 
 ### Christoph Prokop
 

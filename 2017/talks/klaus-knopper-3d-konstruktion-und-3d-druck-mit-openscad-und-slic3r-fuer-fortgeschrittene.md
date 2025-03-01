@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/klaus-knopper-3d-konstruktion-und-3d-druck-mit-openscad-und-slic3r-fuer-fortgeschrittene/
+url: /2017/programm/klaus-knopper-3d-konstruktion-und-3d-druck-mit-openscad-und-slic3r-fuer-fortgeschrittene/
 weight:
 menu:
 ---
 ## 3D Konstruktion und 3D Druck mit OpenSCAD und Slic3r für Fortgeschrittene
 
-### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 14:00 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 14:00 in Raum W1 {#-1200-bis-1400-in-raum-w1}
 
 ### Klaus Knopper
 

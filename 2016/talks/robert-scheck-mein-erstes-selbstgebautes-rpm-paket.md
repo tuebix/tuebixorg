@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/robert-scheck-mein-erstes-selbstgebautes-rpm-paket/
+url: /2016/programm/robert-scheck-mein-erstes-selbstgebautes-rpm-paket/
 weight:
 menu:
 ---
 ## Mein erstes selbstgebautes RPM-Paket!
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V3 {#-1100-bis-1200-in-raum-v3}
 
 ### Robert Scheck
 

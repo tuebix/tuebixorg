@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/martin-schroeder-wie-funktioniert-eigentlich-sms/
+url: /2018/programm/martin-schroeder-wie-funktioniert-eigentlich-sms/
 weight:
 menu:
 ---
 ## Wie funktioniert eigentlich SMS?
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum V1 {#-1600-bis-1650-in-raum-v1}
 
 ### Martin Schröder
 

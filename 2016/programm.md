@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programm
-permalink: /2016/programm_auf_einen_blick/
+url: /2016/programm_auf_einen_blick/
 weight:
 menu:
 ---

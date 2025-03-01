@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/michael-stroeder-ae-dir-paranoide-benutzerverwaltung-mit-openldap/
+url: /2018/programm/michael-stroeder-ae-dir-paranoide-benutzerverwaltung-mit-openldap/
 weight:
 menu:
 ---
 ## Æ-DIR -- paranoide Benutzerverwaltung mit OpenLDAP {#æ-dir--paranoide-benutzerverwaltung-mit-openldap}
 
-### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:50 in Raum V3 {#-1300-bis-1350-in-raum-v3}
 
 ### Michael Ströder
 

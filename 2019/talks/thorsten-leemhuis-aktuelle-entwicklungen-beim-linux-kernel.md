@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/thorsten-leemhuis-aktuelle-entwicklungen-beim-linux-kernel/
+url: /2019/programm/thorsten-leemhuis-aktuelle-entwicklungen-beim-linux-kernel/
 weight:
 menu:
 ---
 ## Aktuelle Entwicklungen beim Linux-Kernel
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V1 {#-1000-bis-1050-in-raum-v1}
 
 ### Thorsten Leemhuis
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/56-identity-management-mit-keycloak/
+url: /2023/programm/56-identity-management-mit-keycloak/
 weight:
 menu:
 ---
 ## Identity Management mit Keycloak
 
-### <img height = "32" src="../../../images/talk.svg"> 15:30 bis 15:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 15:30 bis 15:50 in Raum V2 {#-1530-bis-1550-in-raum-v2}
 
 ### Roland Alton-Scheidl & Jonas Liebst
 

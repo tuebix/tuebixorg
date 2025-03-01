@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/wolfgang-engelmann-mit-lyx-master-doktorarbeit-schreiben/
+url: /2016/programm/wolfgang-engelmann-mit-lyx-master-doktorarbeit-schreiben/
 weight:
 menu:
 ---
 ## Mit LyX Master/Doktorarbeit schreiben
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:30 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:30 in Raum V4 {#-1200-bis-1230-in-raum-v4}
 
 ### Wolfgang Engelmann
 

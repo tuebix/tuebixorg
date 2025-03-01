@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/stefan-jakoby-container-anomaly-detection/
+url: /2017/programm/stefan-jakoby-container-anomaly-detection/
 weight:
 menu:
 ---
 ## Container Anomaly Detection
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:25 bis 14:30 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:25 bis 14:30 in Raum V3 {#-1425-bis-1430-in-raum-v3}
 
 ### Stefan Jakoby
 

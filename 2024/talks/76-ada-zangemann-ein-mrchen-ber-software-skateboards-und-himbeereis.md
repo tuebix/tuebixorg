@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/76-ada-zangemann-ein-mrchen-ber-software-skateboards-und-himbeereis/
+url: /2024/programm/76-ada-zangemann-ein-mrchen-ber-software-skateboards-und-himbeereis/
 weight:
 menu:
 ---
 ## Ada & Zangemann - Ein Märchen über Software, Skateboards und Himbeereis
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:50 in Raum V2 (F122)
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:50 in Raum V2 (F122) {#-1400-bis-1450-in-raum-v2-f122}
 
 ### Reinhard Müller
 

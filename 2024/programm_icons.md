@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programm - Icons
-permalink: /2024/programm_was_bedeuten_die_icons/
+url: /2024/programm_was_bedeuten_die_icons/
 weight:
 menu:
 ---

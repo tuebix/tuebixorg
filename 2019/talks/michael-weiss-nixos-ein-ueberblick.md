@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/michael-weiss-nixos-ein-ueberblick/
+url: /2019/programm/michael-weiss-nixos-ein-ueberblick/
 weight:
 menu:
 ---
 ## Nix(OS) - Ein Überblick
 
-### <img height = "32" src="../../../images/lightning.svg"> 16:25 bis 16:30 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 16:25 bis 16:30 in Raum V3 {#-1625-bis-1630-in-raum-v3}
 
 ### Michael Weiss
 

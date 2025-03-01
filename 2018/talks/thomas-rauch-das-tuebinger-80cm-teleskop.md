@@ -1,19 +1,19 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/thomas-rauch-das-tuebinger-80cm-teleskop/
+url: /2018/programm/thomas-rauch-das-tuebinger-80cm-teleskop/
 weight: 
 menu:
 ---
 ## Das Tübinger 80cm-Teleskop {#dastübinger80cm-teleskop}
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:30 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:30 im Observatorium {#-1100-bis-1130-im-observatorium}
 
-### <img height = "32" src="../../../images/talk.svg"> 11:30 bis 12:00 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 11:30 bis 12:00 im Observatorium {#-1130-bis-1200-im-observatorium}
 
-### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 im Observatorium {#-1300-bis-1330-im-observatorium}
 
-### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 14:00 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 14:00 im Observatorium {#-1330-bis-1400-im-observatorium}
 
 ### Thomas Rauch {#thomasrauch}
 

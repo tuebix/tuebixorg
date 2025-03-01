@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/joachim-schiele-nixos-als-guest-in-lxc-systemd-nspawn-docker-verwenden/
+url: /2016/programm/joachim-schiele-nixos-als-guest-in-lxc-systemd-nspawn-docker-verwenden/
 weight:
 menu:
 ---
 ## NixOS als guest in LXC, systemd-nspawn & Docker verwenden
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:30 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:30 in Raum V2 {#-1400-bis-1430-in-raum-v2}
 
 ### Joachim Schiele
 

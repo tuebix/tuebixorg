@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/daniel-kobras-hitobito-die-freie-verwaltungsloesung-fuer-vereine-und-verbaende/
+url: /2019/programm/daniel-kobras-hitobito-die-freie-verwaltungsloesung-fuer-vereine-und-verbaende/
 weight:
 menu:
 ---
 ## hitobito - die freie Verwaltungslösung für Vereine und Verbände
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:00 bis 14:05 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:00 bis 14:05 in Raum V3 {#-1400-bis-1405-in-raum-v3}
 
 ### Daniel Kobras
 

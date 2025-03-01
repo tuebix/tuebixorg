@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/justin-humm-freifunk/
+url: /2016/programm/justin-humm-freifunk/
 weight:
 menu:
 ---
 ## Freifunk - Eine Utopie von freien Netzen
 
-### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 14:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 14:00 in Raum V4 {#-1330-bis-1400-in-raum-v4}
 
 ### Justin Humm
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/sven-guckes-vim-fuer-fortgeschrittene/
+url: /2017/programm/sven-guckes-vim-fuer-fortgeschrittene/
 weight:
 menu:
 ---
 ## Vim für Fortgeschrittene
 
-### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W2
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W2 {#-1400-bis-1600-in-raum-w2}
 
 ### Sven Guckes
 

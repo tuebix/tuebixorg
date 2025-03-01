@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/54-forensic-container-checkpointing-and-analysis/
+url: /2023/programm/54-forensic-container-checkpointing-and-analysis/
 weight:
 menu:
 ---
 ## Forensic container checkpointing and analysis
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V2 {#-1100-bis-1150-in-raum-v2}
 
 ### Adrian Reber
 

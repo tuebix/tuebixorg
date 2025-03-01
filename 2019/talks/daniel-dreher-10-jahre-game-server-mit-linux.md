@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/daniel-dreher-10-jahre-game-server-mit-linux/
+url: /2019/programm/daniel-dreher-10-jahre-game-server-mit-linux/
 weight:
 menu:
 ---
 ## 10 Jahre Game Server mit Linux
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:45 bis 14:50 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:45 bis 14:50 in Raum V3 {#-1445-bis-1450-in-raum-v3}
 
 ### Daniel Dreher
 

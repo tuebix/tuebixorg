@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/80-rpm-deb-github-codeberg-woodpecker-und-noch-viel-mehr-/
+url: /2024/programm/80-rpm-deb-github-codeberg-woodpecker-und-noch-viel-mehr-/
 weight:
 menu:
 ---
 ## RPM, DEB, GitHub, Codeberg, Woodpecker ... und noch viel mehr!!
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:20 in Raum V3 (A301)
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:20 in Raum V3 (A301) {#-1200-bis-1220-in-raum-v3-a301}
 
 ### UDO SEIDEL
 

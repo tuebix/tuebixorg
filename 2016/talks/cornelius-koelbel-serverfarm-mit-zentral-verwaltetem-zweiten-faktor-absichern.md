@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/cornelius-koelbel-serverfarm-mit-zentral-verwaltetem-zweiten-faktor-absichern/
+url: /2016/programm/cornelius-koelbel-serverfarm-mit-zentral-verwaltetem-zweiten-faktor-absichern/
 weight:
 menu:
 ---
 ## Serverfarm mit zentral verwaltetem zweiten Faktor absichern
 
-### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W3
+### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W3 {#-1600-bis-1800-in-raum-w3}
 
 ### Cornelius Kölbel
 

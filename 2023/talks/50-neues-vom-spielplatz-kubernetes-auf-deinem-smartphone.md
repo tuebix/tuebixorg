@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/50-neues-vom-spielplatz-kubernetes-auf-deinem-smartphone/
+url: /2023/programm/50-neues-vom-spielplatz-kubernetes-auf-deinem-smartphone/
 weight:
 menu:
 ---
 ## Neues vom Spielplatz: Kubernetes auf Deinem Smartphone
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:50 in Raum V2 {#-1400-bis-1450-in-raum-v2}
 
 ### Dr. Christoph Zimmermann
 

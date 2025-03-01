@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kinder
-permalink: /kinder/
+url: /kinder/
 weight: 30
 menu:
 ---

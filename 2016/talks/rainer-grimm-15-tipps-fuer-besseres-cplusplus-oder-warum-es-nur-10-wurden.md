@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/rainer-grimm-15-tipps-fuer-besseres-cplusplus-oder-warum-es-nur-10-wurden/
+url: /2016/programm/rainer-grimm-15-tipps-fuer-besseres-cplusplus-oder-warum-es-nur-10-wurden/
 weight:
 menu:
 ---
 ## 15 Tipps für besseres C++ oder warum es nur 10 wurden.
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V1 {#-1200-bis-1300-in-raum-v1}
 
 ### Rainer Grimm
 

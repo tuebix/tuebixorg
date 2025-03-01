@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/david-elias-kuenstle-gnu-emacs-101/
+url: /2016/programm/david-elias-kuenstle-gnu-emacs-101/
 weight:
 menu:
 ---
 ## GNU emacs 101
 
-### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W2
+### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W2 {#-1000-bis-1200-in-raum-w2}
 
 ### David-Elias Künstle
 

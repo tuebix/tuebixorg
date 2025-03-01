@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/ingo-blechschmidt-physik-der-klaenge-experimente-mit-linux-bordmitteln/
+url: /2016/programm/ingo-blechschmidt-physik-der-klaenge-experimente-mit-linux-bordmitteln/
 weight:
 menu:
 ---
 ## Physik der Klänge: Experimente mit Linux-Bordmitteln
 
-### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 17:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 17:00 in Raum V1 {#-1630-bis-1700-in-raum-v1}
 
 ### Ingo Blechschmidt
 

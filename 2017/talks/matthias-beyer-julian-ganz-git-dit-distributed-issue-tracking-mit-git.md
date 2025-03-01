@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/matthias-beyer-julian-ganz-git-dit-distributed-issue-tracking-mit-git/
+url: /2017/programm/matthias-beyer-julian-ganz-git-dit-distributed-issue-tracking-mit-git/
 weight:
 menu:
 ---
 ## git-dit - Distributed Issue Tracking mit git
 
-### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 17:00 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 17:00 in Raum V3 {#-1630-bis-1700-in-raum-v3}
 
 ### Matthias Beyer, Julian Ganz
 

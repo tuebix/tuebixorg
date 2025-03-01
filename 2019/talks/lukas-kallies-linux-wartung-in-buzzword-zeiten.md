@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/lukas-kallies-linux-wartung-in-buzzword-zeiten/
+url: /2019/programm/lukas-kallies-linux-wartung-in-buzzword-zeiten/
 weight:
 menu:
 ---
 ## Linux-Wartung in Buzzword-Zeiten
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V2 {#-1200-bis-1250-in-raum-v2}
 
 ### Lukas Kallies
 

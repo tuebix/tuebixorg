@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/weissensel-fish/
+url: /2015/programm/weissensel-fish/
 weight: 
 menu:
 ---
 ## fish - Die "friendly interactive shell" {#fish-diefriendlyinteractiveshell}
 
-### <img height = "32" src="../../../images/talk.svg"> 10:30 bis 11:00 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 10:30 bis 11:00 in Raum V3 {#-1030-bis-1100-in-raum-v3}
 
 ### Jonas Weissensel {#jonasweissensel}
 

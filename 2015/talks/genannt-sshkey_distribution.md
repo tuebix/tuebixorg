@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/genannt-sshkey_distribution/
+url: /2015/programm/genannt-sshkey_distribution/
 weight: 
 menu:
 ---
 ## SSH Public Key Distribution - the smart way {#sshpublickeydistribution-thesmartway}
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:30 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:30 in Raum V3 {#-1100-bis-1130-in-raum-v3}
 
 ### Jonas Genannt {#jonasgenannt}
 

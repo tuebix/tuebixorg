@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/toni-zimmer-vim-fuer-nicht-mehr-beginner-und-noch-nicht-fortgeschrittene/
+url: /2016/programm/toni-zimmer-vim-fuer-nicht-mehr-beginner-und-noch-nicht-fortgeschrittene/
 weight:
 menu:
 ---
 ## Vim für Nicht-Mehr-Beginner und Noch-Nicht-Fortgeschrittene
 
-### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W1 {#-1000-bis-1200-in-raum-w1}
 
 ### Toni Zimmer
 

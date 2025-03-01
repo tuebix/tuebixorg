@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/robert-eisele-server-schreiben-das-kann-doch-jeder/
+url: /2017/programm/robert-eisele-server-schreiben-das-kann-doch-jeder/
 weight:
 menu:
 ---
 ## Server schreiben? Das kann doch jeder!
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:40 bis 13:45 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:40 bis 13:45 in Raum V3 {#-1340-bis-1345-in-raum-v3}
 
 ### Robert Eisele
 

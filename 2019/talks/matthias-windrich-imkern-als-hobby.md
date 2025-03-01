@@ -1,15 +1,15 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/matthias-windrich-imkern-als-hobby/
+url: /2019/programm/matthias-windrich-imkern-als-hobby/
 weight:
 menu:
 ---
 ## Imkern als Hobby
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:30 in Raum Garten
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:30 in Raum Garten {#-1700-bis-1730-in-raum-garten}
 
-### <img height = "32" src="../../../images/talk.svg"> 19:00 bis 19:30 in Raum Garten
+### <img height = "32" src="../../../images/talk.svg"> 19:00 bis 19:30 in Raum Garten {#-1900-bis-1930-in-raum-garten}
 
 ### Matthias Windrich
 

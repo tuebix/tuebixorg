@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/robert-scheck-mein-eigener-jabber-server-mit-prosody/
+url: /2016/programm/robert-scheck-mein-eigener-jabber-server-mit-prosody/
 weight:
 menu:
 ---
 ## Mein eigener Jabber-Server mit Prosody
 
-### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 18:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 18:00 in Raum V4 {#-1730-bis-1800-in-raum-v4}
 
 ### Robert Scheck
 

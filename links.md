@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links
-permalink: /links/
+url: /links/
 weight: 1000
 menu: main
 ---

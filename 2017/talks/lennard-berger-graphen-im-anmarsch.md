@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/lennard-berger-graphen-im-anmarsch/
+url: /2017/programm/lennard-berger-graphen-im-anmarsch/
 weight:
 menu:
 ---
 ## Graphen im Anmarsch
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:45 bis 13:50 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:45 bis 13:50 in Raum V3 {#-1345-bis-1350-in-raum-v3}
 
 ### Lennard Berger
 

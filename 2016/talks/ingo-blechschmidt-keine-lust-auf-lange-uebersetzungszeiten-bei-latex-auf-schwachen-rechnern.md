@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/ingo-blechschmidt-keine-lust-auf-lange-uebersetzungszeiten-bei-latex-auf-schwachen-rechnern/
+url: /2016/programm/ingo-blechschmidt-keine-lust-auf-lange-uebersetzungszeiten-bei-latex-auf-schwachen-rechnern/
 weight:
 menu:
 ---
 ## Keine Lust auf lange Übersetzungszeiten bei LaTeX auf schwachen Rechnern?
 
-### <img height = "32" src="../../../images/lightning.svg"> 15:05 bis 15:10 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:05 bis 15:10 in Raum V3 {#-1505-bis-1510-in-raum-v3}
 
 ### Ingo Blechschmidt
 

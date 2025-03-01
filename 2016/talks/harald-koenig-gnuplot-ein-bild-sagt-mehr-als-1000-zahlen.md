@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/harald-koenig-gnuplot-ein-bild-sagt-mehr-als-1000-zahlen/
+url: /2016/programm/harald-koenig-gnuplot-ein-bild-sagt-mehr-als-1000-zahlen/
 weight:
 menu:
 ---
 ## gnuplot - Ein Bild sagt mehr als 1000 Zahlen...
 
-### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W1 {#-1400-bis-1600-in-raum-w1}
 
 ### Harald König
 

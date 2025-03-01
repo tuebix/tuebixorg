@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programm
-permalink: /2018/entwurf/
+url: /2018/entwurf/
 weight:
 menu:
 ---

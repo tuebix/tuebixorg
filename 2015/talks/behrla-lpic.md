@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/behrla-lpic/
+url: /2015/programm/behrla-lpic/
 weight: 
 menu:
 ---
 ## Karrierechancen mit Open Source-Know-how und LPI-Zertifikat {#karrierechancenmitopensource-know-howundlpi-zertifikat}
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:30 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:30 in Raum V2 {#-1600-bis-1630-in-raum-v2}
 
 ### Klaus Behrla {#klausbehrla}
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/88-high-performance-computing-was-ist-das-eigentlich-/
+url: /2024/programm/88-high-performance-computing-was-ist-das-eigentlich-/
 weight:
 menu:
 ---
 ## High Performance Computing - was ist das eigentlich?
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V1 (F119)
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V1 (F119) {#-1200-bis-1250-in-raum-v1-f119}
 
 ### Holger Gantikow
 

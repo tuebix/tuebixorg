@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/67-besser-programmieren-mit-mathematik/
+url: /2024/programm/67-besser-programmieren-mit-mathematik/
 weight:
 menu:
 ---
 ## Besser Programmieren mit Mathematik
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum V1 (F119)
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum V1 (F119) {#-1600-bis-1650-in-raum-v1-f119}
 
 ### Mike Sperber
 

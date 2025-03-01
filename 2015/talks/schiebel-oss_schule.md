@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/schiebel-oss_schule/
+url: /2015/programm/schiebel-oss_schule/
 weight: 
 menu:
 ---
 ## OSS und Linuxclients in der Schule {#ossundlinuxclientsinderschule}
 
-### <img height = "32" src="../../../images/talk.svg"> 13:40 bis 13:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 13:40 bis 13:50 in Raum V3 {#-1340-bis-1350-in-raum-v3}
 
 ### Frank Schiebel {#frankschiebel}
 

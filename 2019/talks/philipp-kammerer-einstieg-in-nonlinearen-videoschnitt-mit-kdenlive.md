@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/philipp-kammerer-einstieg-in-nonlinearen-videoschnitt-mit-kdenlive/
+url: /2019/programm/philipp-kammerer-einstieg-in-nonlinearen-videoschnitt-mit-kdenlive/
 weight:
 menu:
 ---
 ## Einstieg in nonlinearen Videoschnitt mit kdenlive
 
-### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 11:50 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 11:50 in Raum W1 {#-1000-bis-1150-in-raum-w1}
 
 ### Philipp Kammerer
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/36-embeded-mastodon-datenschutzfreundliches-marketing-arbeiten-an-fderierten-gitea-forgejo/
+url: /2023/programm/36-embeded-mastodon-datenschutzfreundliches-marketing-arbeiten-an-fderierten-gitea-forgejo/
 weight:
 menu:
 ---
 ## Embeded Mastodon - Datenschutzfreundliches Marketing & arbeiten an föderierten gitea/forgejo
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:20 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:20 in Raum V2 {#-1700-bis-1720-in-raum-v2}
 
 ### Michael Jerger
 

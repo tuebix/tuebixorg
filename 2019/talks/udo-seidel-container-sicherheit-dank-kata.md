@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/udo-seidel-container-sicherheit-dank-kata/
+url: /2019/programm/udo-seidel-container-sicherheit-dank-kata/
 weight:
 menu:
 ---
 ## Container-Sicherheit dank Kata
 
-### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 16:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 16:50 in Raum V1 {#-1630-bis-1650-in-raum-v1}
 
 ### Udo Seidel
 

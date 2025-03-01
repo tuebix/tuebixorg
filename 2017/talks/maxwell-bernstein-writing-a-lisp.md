@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/maxwell-bernstein-writing-a-lisp/
+url: /2017/programm/maxwell-bernstein-writing-a-lisp/
 weight:
 menu:
 ---
 ## Writing a Lisp
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum W2
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum W2 {#-1000-bis-1100-in-raum-w2}
 
 ### Maxwell Bernstein
 

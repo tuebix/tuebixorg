@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/johannes-schirm-luks-verschluesselung-in-der-praxis/
+url: /2017/programm/johannes-schirm-luks-verschluesselung-in-der-praxis/
 weight:
 menu:
 ---
 ## LUKS-Verschlüsselung in der Praxis
 
-### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 in Raum V3 {#-1300-bis-1330-in-raum-v3}
 
 ### Johannes Schirm
 

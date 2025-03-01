@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/mark-proehl-einheitliche-linux-benutzerverwaltung-mit-freeipa/
+url: /2018/programm/mark-proehl-einheitliche-linux-benutzerverwaltung-mit-freeipa/
 weight:
 menu:
 ---
 ## Einheitliche Linux-Benutzerverwaltung mit FreeIPA
 
-### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 15:50 in Raum W3
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 15:50 in Raum W3 {#-1400-bis-1550-in-raum-w3}
 
 ### Mark Pröhl
 

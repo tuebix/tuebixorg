@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/martin-konold-reduce-to-the-max-1000x-kleiner-mit-opensource-toniebox-iot-fuer-kinder/
+url: /2017/programm/martin-konold-reduce-to-the-max-1000x-kleiner-mit-opensource-toniebox-iot-fuer-kinder/
 weight:
 menu:
 ---
 ## Reduce to the max - 1000 x kleiner mit Opensource (Toniebox IoT für Kinder)
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:10 bis 14:15 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:10 bis 14:15 in Raum V3 {#-1410-bis-1415-in-raum-v3}
 
 ### Martin Konold
 

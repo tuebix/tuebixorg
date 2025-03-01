@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/95-darktable-was-n-das-/
+url: /2024/programm/95-darktable-was-n-das-/
 weight:
 menu:
 ---
 ## Darktable - Was'n das?
 
-### <img height = "32" src="../../../images/lightning.svg"> 16:05 bis 16:10 in Raum V3 (A301)
+### <img height = "32" src="../../../images/lightning.svg"> 16:05 bis 16:10 in Raum V3 (A301) {#-1605-bis-1610-in-raum-v3-a301}
 
 ### Phi
 

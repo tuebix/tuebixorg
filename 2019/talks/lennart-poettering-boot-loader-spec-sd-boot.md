@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/lennart-poettering-boot-loader-spec-sd-boot/
+url: /2019/programm/lennart-poettering-boot-loader-spec-sd-boot/
 weight:
 menu:
 ---
 ## Boot Loader Spec + sd-boot
 
-### <img height = "32" src="../../../images/talk.svg"> 18:15 bis 19:15 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 18:15 bis 19:15 in Raum V1 {#-1815-bis-1915-in-raum-v1}
 
 ### Lennart Poettering
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/mark-proehl-einheitliche-linux-benutzerverwaltung-mit-active-directory/
+url: /2018/programm/mark-proehl-einheitliche-linux-benutzerverwaltung-mit-active-directory/
 weight:
 menu:
 ---
 ## Einheitliche Linux-Benutzerverwaltung mit Active Directory
 
-### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 11:50 in Raum W3
+### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 11:50 in Raum W3 {#-1000-bis-1150-in-raum-w3}
 
 ### Mark Pröhl
 

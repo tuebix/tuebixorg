@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/32-hacking-von-sicheren-usb-sticks-und-usb-festplatten/
+url: /2023/programm/32-hacking-von-sicheren-usb-sticks-und-usb-festplatten/
 weight:
 menu:
 ---
 ## Hacking von sicheren USB-Sticks und USB-Festplatten
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:50 in Raum V1 {#-1500-bis-1550-in-raum-v1}
 
 ### Gerhard Klostermeier
 

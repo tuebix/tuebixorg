@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/toni-zimmer-vim-fuer-einsteiger/
+url: /2019/programm/toni-zimmer-vim-fuer-einsteiger/
 weight:
 menu:
 ---
 ## Vim für Einsteiger
 
-### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 11:50 in Raum W2
+### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 11:50 in Raum W2 {#-1000-bis-1150-in-raum-w2}
 
 ### Toni Zimmer
 

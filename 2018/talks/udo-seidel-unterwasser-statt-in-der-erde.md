@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/udo-seidel-unterwasser-statt-in-der-erde/
+url: /2018/programm/udo-seidel-unterwasser-statt-in-der-erde/
 weight:
 menu:
 ---
 ## Unterwasser statt in der Erde
 
-### <img height = "32" src="../../../images/talk.svg"> 10:30 bis 10:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 10:30 bis 10:50 in Raum V3 {#-1030-bis-1050-in-raum-v3}
 
 ### Udo Seidel
 

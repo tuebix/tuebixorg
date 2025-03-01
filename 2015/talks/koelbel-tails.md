@@ -1,14 +1,14 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/koelbel-tails/
+url: /2015/programm/koelbel-tails/
 weight: 
 menu:
 ---
 
 ## "Watt - wer bist Du denn?" Anonym im Internet bewegen mit Tails {#watt-werbistdudenn-anonymiminternetbewegenmittails}
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum LPIC 
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum LPIC {#-1200-bis-1300-in-raum-lpic}
 
 ### Cornelius Kölbel {#corneliuskölbel}
 

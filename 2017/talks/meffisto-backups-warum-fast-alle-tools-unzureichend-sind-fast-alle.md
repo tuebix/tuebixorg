@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/meffisto-backups-warum-fast-alle-tools-unzureichend-sind-fast-alle/
+url: /2017/programm/meffisto-backups-warum-fast-alle-tools-unzureichend-sind-fast-alle/
 weight:
 menu:
 ---
 ## Backups: Warum fast alle Tools unzureichend sind... fast alle...
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:40 bis 14:45 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:40 bis 14:45 in Raum V3 {#-1440-bis-1445-in-raum-v3}
 
 ### Meffisto
 

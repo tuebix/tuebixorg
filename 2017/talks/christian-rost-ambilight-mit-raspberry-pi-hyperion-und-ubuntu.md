@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/christian-rost-ambilight-mit-raspberry-pi-hyperion-und-ubuntu/
+url: /2017/programm/christian-rost-ambilight-mit-raspberry-pi-hyperion-und-ubuntu/
 weight:
 menu:
 ---
 ## Ambilight mit Raspberry Pi/Hyperion und Ubuntu
 
-### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 14:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 14:00 in Raum V1 {#-1300-bis-1400-in-raum-v1}
 
 ### Christian Rost
 

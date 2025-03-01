@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/91-internet-messungen-mit-ripe-atlas/
+url: /2024/programm/91-internet-messungen-mit-ripe-atlas/
 weight:
 menu:
 ---
 ## Internet-Messungen mit RIPE Atlas
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V3 (A301)
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V3 (A301) {#-1100-bis-1150-in-raum-v3-a301}
 
 ### Robert Scheck
 

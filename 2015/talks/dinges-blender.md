@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/dinges-blender/
+url: /2015/programm/dinges-blender/
 weight: 
 menu:
 ---
 ## Einführung in die 3D Software Blender {#einführungindie3dsoftwareblender}
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V4 {#-1400-bis-1500-in-raum-v4}
 
 ### Thomas Dinges {#thomasdinges}
 

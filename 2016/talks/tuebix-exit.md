@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/tuebix-exit/
+url: /2016/programm/tuebix-exit/
 weight: 
 menu:
 ---
 ## TüBIX: exit
 
-### <img height = "32" src="../../../images/talk2.svg"> 18:00 bis 18:15 in Raum V1
+### <img height = "32" src="../../../images/talk2.svg"> 18:00 bis 18:15 in Raum V1 {#-1800-bis-1815-in-raum-v1}
 
 ### TüBIX Orga-Team
 

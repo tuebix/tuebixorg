@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/andreas-grupp-verwendung-der-nextcloud-ocs-api/
+url: /2019/programm/andreas-grupp-verwendung-der-nextcloud-ocs-api/
 weight:
 menu:
 ---
 ## Verwendung der Nextcloud OCS API
 
-### <img height = "32" src="../../../images/lightning.svg"> 15:40 bis 15:45 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:40 bis 15:45 in Raum V3 {#-1540-bis-1545-in-raum-v3}
 
 ### Andreas Grupp
 

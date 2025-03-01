@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/elizaveta-tretiakova-hotplugging-mounts-into-processes/
+url: /2018/programm/elizaveta-tretiakova-hotplugging-mounts-into-processes/
 weight:
 menu:
 ---
 ## Hotplugging Mounts Into Processes
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:50 in Raum V2 {#-1700-bis-1750-in-raum-v2}
 
 ### Elizaveta Tretiakova
 

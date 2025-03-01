@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/udo-seidel-opensource-ois-easy-oder/
+url: /2018/programm/udo-seidel-opensource-ois-easy-oder/
 weight:
 menu:
 ---
 ## Opensource - Ois easy, oder?
 
-### <img height = "32" src="../../../images/talk.svg"> 18:00 bis 18:20 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 18:00 bis 18:20 in Raum V1 {#-1800-bis-1820-in-raum-v1}
 
 ### Udo Seidel
 

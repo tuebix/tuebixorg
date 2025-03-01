@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programm
-permalink: /2015/programm_legende/
+url: /2015/programm_legende/
 weight: 
 menu:
 ---

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/christian-brauner-linux-device-management-making-the-kernel-and-udev-namespace-aware/
+url: /2018/programm/christian-brauner-linux-device-management-making-the-kernel-and-udev-namespace-aware/
 weight:
 menu:
 ---
 ## Linux Device Management: Making the Kernel and Udev Namespace Aware
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V2 {#-1100-bis-1150-in-raum-v2}
 
 ### Christian Brauner
 

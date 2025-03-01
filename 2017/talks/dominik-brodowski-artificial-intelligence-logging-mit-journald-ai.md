@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/dominik-brodowski-artificial-intelligence-logging-mit-journald-ai/
+url: /2017/programm/dominik-brodowski-artificial-intelligence-logging-mit-journald-ai/
 weight:
 menu:
 ---
 ## Artificial Intelligence Logging mit journald-ai
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:00 bis 14:05 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:00 bis 14:05 in Raum V3 {#-1400-bis-1405-in-raum-v3}
 
 ### Dominik Brodowski
 

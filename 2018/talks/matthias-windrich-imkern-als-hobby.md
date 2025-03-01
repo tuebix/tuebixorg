@@ -1,15 +1,15 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/matthias-windrich-imkern-als-hobby/
+url: /2018/programm/matthias-windrich-imkern-als-hobby/
 weight:
 menu:
 ---
 ## Imkern als Hobby
 
-### <img height = "32" src="../../../images/talk.svg"> 14:30 bis 14:50 (Treffpunkt am Info-Stand)
+### <img height = "32" src="../../../images/talk.svg"> 14:30 bis 14:50 (Treffpunkt am Info-Stand) {#-1430-bis-1450-treffpunkt-am-info-stand}
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:20 (Treffpunkt am Info-Stand)
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:20 (Treffpunkt am Info-Stand) {#-1500-bis-1520-treffpunkt-am-info-stand}
 
 ### Matthias Windrich
 

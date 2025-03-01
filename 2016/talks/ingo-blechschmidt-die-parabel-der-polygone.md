@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/ingo-blechschmidt-die-parabel-der-polygone/
+url: /2016/programm/ingo-blechschmidt-die-parabel-der-polygone/
 weight:
 menu:
 ---
 ## Die Parabel der Polygone
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:15 bis 13:20 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:15 bis 13:20 in Raum V3 {#-1315-bis-1320-in-raum-v3}
 
 ### Ingo Blechschmidt
 

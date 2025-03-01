@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/matthias-windrich-tiddlywiki-das-wiki-fuer-die-hosentasche/
+url: /2016/programm/matthias-windrich-tiddlywiki-das-wiki-fuer-die-hosentasche/
 weight:
 menu:
 ---
 ## TiddlyWiki - das Wiki für die Hosentasche
 
-### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W2
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W2 {#-1400-bis-1600-in-raum-w2}
 
 ### Matthias Windrich
 

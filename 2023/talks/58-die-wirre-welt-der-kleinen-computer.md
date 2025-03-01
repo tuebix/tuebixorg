@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/58-die-wirre-welt-der-kleinen-computer/
+url: /2023/programm/58-die-wirre-welt-der-kleinen-computer/
 weight:
 menu:
 ---
 ## Die wirre Welt der kleinen Computer
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V1 {#-1100-bis-1150-in-raum-v1}
 
 ### Daniel Maslowski
 

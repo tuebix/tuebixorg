@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rahmenprogramm
-permalink: /2024/programm_rahmen/
+url: /2024/programm_rahmen/
 weight:
 menu:
 ---

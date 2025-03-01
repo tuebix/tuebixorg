@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/86-nix-os-ein-berblick/
+url: /2024/programm/86-nix-os-ein-berblick/
 weight:
 menu:
 ---
 ## Nix(OS) - Ein Überblick
 
-### <img height = "32" src="../../../images/lightning.svg"> 16:15 bis 16:20 in Raum V3 (A301)
+### <img height = "32" src="../../../images/lightning.svg"> 16:15 bis 16:20 in Raum V3 (A301) {#-1615-bis-1620-in-raum-v3-a301}
 
 ### Michael Weiss
 

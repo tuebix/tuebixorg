@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/christian-brauner-lxd/
+url: /2017/programm/christian-brauner-lxd/
 weight:
 menu:
 ---
 ## LXD
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V4 {#-1200-bis-1300-in-raum-v4}
 
 ### Christian Brauner
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/47-das-grannophone-ein-videotelefon-fr-senioren-und-demenzpatienten/
+url: /2023/programm/47-das-grannophone-ein-videotelefon-fr-senioren-und-demenzpatienten/
 weight:
 menu:
 ---
 ## Das Grannophone - ein Videotelefon für Senioren und Demenzpatienten
 
-### <img height = "32" src="../../../images/lightning.svg"> 15:40 bis 15:45 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:40 bis 15:45 in Raum V3 {#-1540-bis-1545-in-raum-v3}
 
 ### Stefan Baur
 

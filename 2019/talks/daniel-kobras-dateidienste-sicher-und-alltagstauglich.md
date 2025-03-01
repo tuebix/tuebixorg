@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/daniel-kobras-dateidienste-sicher-und-alltagstauglich/
+url: /2019/programm/daniel-kobras-dateidienste-sicher-und-alltagstauglich/
 weight:
 menu:
 ---
 ## Dateidienste - sicher und alltagstauglich
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V4 {#-1200-bis-1250-in-raum-v4}
 
 ### Daniel Kobras
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/harald-koenig-den-flaschenhals-in-einer-langsamen-pipe-optimieren-durch-parallelisierung/
+url: /2019/programm/harald-koenig-den-flaschenhals-in-einer-langsamen-pipe-optimieren-durch-parallelisierung/
 weight:
 menu:
 ---
 ## Den Flaschenhals in einer langsamen Pipe optimieren durch Parallelisierung
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V3 {#-1200-bis-1250-in-raum-v3}
 
 ### Harald König
 

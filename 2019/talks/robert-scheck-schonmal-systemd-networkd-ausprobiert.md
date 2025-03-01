@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/robert-scheck-schonmal-systemd-networkd-ausprobiert/
+url: /2019/programm/robert-scheck-schonmal-systemd-networkd-ausprobiert/
 weight:
 menu:
 ---
 ## Schonmal systemd-networkd ausprobiert?
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:20 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:20 in Raum V3 {#-1700-bis-1720-in-raum-v3}
 
 ### Robert Scheck
 

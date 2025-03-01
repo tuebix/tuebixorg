@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/blechschmidt-haskell/
+url: /2015/programm/blechschmidt-haskell/
 weight: 
 menu:
 ---
 ## Haskell, eine rein funktionale Programmiersprache {#haskelleinereinfunktionaleprogrammiersprache}
 
-### <img height = "32" src="../../../images/lightning.svg"> 12:00 bis 12:10 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:00 bis 12:10 in Raum V3 {#-1200-bis-1210-in-raum-v3}
 
 ### Ingo Blechschmidt {#ingoblechschmidt}
 

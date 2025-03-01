@@ -1,14 +1,14 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/gietz-openldap/
+url: /2015/programm/gietz-openldap/
 weight: 
 menu:
 ---
 
 ## Einführung in LDAP und OpenLDAP {#einführunginldapundopenldap}
 
-### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 14:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 14:00 in Raum V2 {#-1300-bis-1400-in-raum-v2}
 
 ### Peter Gietz {#petergietz}
 

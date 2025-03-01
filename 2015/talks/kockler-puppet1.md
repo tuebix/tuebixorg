@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/kockler-puppet1/
+url: /2015/programm/kockler-puppet1/
 weight: 
 menu:
 ---
 ## Puppet I: Zentrale Administration einer Server Infrastruktur {#puppetizentraleadministrationeinerserverinfrastruktur}
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V2 {#-1200-bis-1300-in-raum-v2}
 
 ### Torsten Kockler {#torstenkockler}
 

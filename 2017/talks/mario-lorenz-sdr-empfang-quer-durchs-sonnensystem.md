@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/mario-lorenz-sdr-empfang-quer-durchs-sonnensystem/
+url: /2017/programm/mario-lorenz-sdr-empfang-quer-durchs-sonnensystem/
 weight:
 menu:
 ---
 ## SDR-Empfang - Quer durchs Sonnensystem
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V1 {#-1200-bis-1300-in-raum-v1}
 
 ### Mario Lorenz
 

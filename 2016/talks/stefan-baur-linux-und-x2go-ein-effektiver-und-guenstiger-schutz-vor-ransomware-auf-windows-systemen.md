@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen/
+url: /2016/programm/stefan-baur-linux-und-x2go-ein-effektiver-und-guenstiger-schutz-vor-ransomware-auf-windows-systemen/
 weight:
 menu:
 ---
 ## Linux und X2Go: ein  effektiver & günstiger Schutz vor Ransomware auf Windows-Systemen
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V3 {#-1700-bis-1800-in-raum-v3}
 
 ### Stefan Baur
 

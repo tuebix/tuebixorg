@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/matthias-beyer-nixos-als-desktop-os-ein-erfahrungsbericht/
+url: /2016/programm/matthias-beyer-nixos-als-desktop-os-ein-erfahrungsbericht/
 weight:
 menu:
 ---
 ## NixOS als Desktop-OS - Ein Erfahrungsbericht
 
-### <img height = "32" src="../../../images/talk.svg"> 14:30 bis 15:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 14:30 bis 15:00 in Raum V2 {#-1430-bis-1500-in-raum-v2}
 
 ### Matthias Beyer
 

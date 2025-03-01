@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/blechschmidt-python_schueler/
+url: /2015/programm/blechschmidt-python_schueler/
 weight: 
 menu:
 ---
 ## Python-Programmierung für Schülerinnen und Schüler {#python-programmierung-fürschülerinnenundschüler}
 
-### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W3
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W3 {#-1400-bis-1600-in-raum-w3}
 
 ### Ingo Blechschmidt {#ingoblechschmidt}
 

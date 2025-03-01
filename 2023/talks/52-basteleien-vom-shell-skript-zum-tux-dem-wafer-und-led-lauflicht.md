@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/52-basteleien-vom-shell-skript-zum-tux-dem-wafer-und-led-lauflicht/
+url: /2023/programm/52-basteleien-vom-shell-skript-zum-tux-dem-wafer-und-led-lauflicht/
 weight:
 menu:
 ---
 ## Basteleien: Vom Shell-Skript zum TuX dem Wafer und LED-Lauflicht
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V4 {#-1000-bis-1050-in-raum-v4}
 
 ### Harald König
 

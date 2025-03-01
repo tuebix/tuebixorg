@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/cornelius-koelbel-open-source-mehr-faktor-authentifizierung-mit-privacyidea/
+url: /2016/programm/cornelius-koelbel-open-source-mehr-faktor-authentifizierung-mit-privacyidea/
 weight:
 menu:
 ---
 ## Open Source Mehr-Faktor-Authentifizierung mit privacyIDEA
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V3 {#-1000-bis-1100-in-raum-v3}
 
 ### Cornelius Kölbel
 

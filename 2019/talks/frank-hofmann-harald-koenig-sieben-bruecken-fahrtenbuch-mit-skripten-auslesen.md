@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/frank-hofmann-harald-koenig-sieben-bruecken-fahrtenbuch-mit-skripten-auslesen/
+url: /2019/programm/frank-hofmann-harald-koenig-sieben-bruecken-fahrtenbuch-mit-skripten-auslesen/
 weight:
 menu:
 ---
 ## Sieben Brücken. Fahrtenbuch mit Skripten auslesen.
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V3 {#-1100-bis-1150-in-raum-v3}
 
 ### Frank Hofmann + Harald König
 

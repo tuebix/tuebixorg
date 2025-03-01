@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/alexander-conzelmann-blitzschnelles-mathe-latex-dank-ultisnips/
+url: /2019/programm/alexander-conzelmann-blitzschnelles-mathe-latex-dank-ultisnips/
 weight:
 menu:
 ---
 ## Blitzschnelles Mathe-LaTeX dank UltiSnips
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:20 bis 14:25 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:20 bis 14:25 in Raum V3 {#-1420-bis-1425-in-raum-v3}
 
 ### Alexander Conzelmann
 

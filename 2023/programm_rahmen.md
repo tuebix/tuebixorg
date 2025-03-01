@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rahmenprogramm
-permalink: /2023/programm_rahmen/
+url: /2023/programm_rahmen/
 weight:
 menu:
 ---

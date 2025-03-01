@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/holger-gantikow-3d-vdi-unter-linux-konzepte-und-technologien-fuer-3d-beschleunigte-arbeitsplaetze/
+url: /2017/programm/holger-gantikow-3d-vdi-unter-linux-konzepte-und-technologien-fuer-3d-beschleunigte-arbeitsplaetze/
 weight:
 menu:
 ---
 ## 3D-VDI unter Linux - Konzepte & Technologien für 3D-beschleunigte Arbeitsplätze
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V4 {#-1400-bis-1500-in-raum-v4}
 
 ### Holger Gantikow
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/sebastian-niedworok-elementar-unix-tools-fuer-windows-cli/
+url: /2016/programm/sebastian-niedworok-elementar-unix-tools-fuer-windows-cli/
 weight:
 menu:
 ---
 ## Elementar (Unix-)Tools für Windows-CLI
 
-### <img height = "32" src="../../../images/lightning.svg"> 12:35 bis 12:40 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:35 bis 12:40 in Raum V3 {#-1235-bis-1240-in-raum-v3}
 
 ### Sebastian Niedworok
 

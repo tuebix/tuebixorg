@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/harald-koenig-in-5-jahren-mit-shell-skripten-zum-kernel-treiber-fuer-neue-hw/
+url: /2017/programm/harald-koenig-in-5-jahren-mit-shell-skripten-zum-kernel-treiber-fuer-neue-hw/
 weight:
 menu:
 ---
 ## In 5 Jahren mit Shell-Skripten zum Kernel-Treiber für neue HW
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V3 {#-1200-bis-1300-in-raum-v3}
 
 ### Harald König
 

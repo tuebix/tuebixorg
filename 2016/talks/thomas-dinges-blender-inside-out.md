@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/thomas-dinges-blender-inside-out/
+url: /2016/programm/thomas-dinges-blender-inside-out/
 weight:
 menu:
 ---
 ## Blender Inside Out
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V1 {#-1700-bis-1800-in-raum-v1}
 
 ### Thomas Dinges
 

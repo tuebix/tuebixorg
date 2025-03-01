@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/mundt_nachbauer-jessie_party/
+url: /2015/programm/mundt_nachbauer-jessie_party/
 weight: 
 menu:
 ---
 ## Debian GNU/Linux "Jessie" Install Party {#debiangnulinuxjessieinstallparty}
 
-### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 14:00 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 14:00 in Raum W1 {#-1200-bis-1400-in-raum-w1}
 
 ### Florian Nachbauer und Andreas Mundt {#floriannachbauerundandreasmundt}
 

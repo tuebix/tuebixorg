@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/6-ein-freies-schulnetz-/
+url: /2023/programm/6-ein-freies-schulnetz-/
 weight:
 menu:
 ---
 ## Ein freies Schulnetz!
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V3 {#-1100-bis-1150-in-raum-v3}
 
 ### Frank Schiebel
 

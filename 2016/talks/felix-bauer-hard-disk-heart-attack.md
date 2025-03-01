@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/felix-bauer-hard-disk-heart-attack/
+url: /2016/programm/felix-bauer-hard-disk-heart-attack/
 weight:
 menu:
 ---
 ## Hard Disk Heart Attack
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:30 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:30 in Raum V1 {#-1600-bis-1630-in-raum-v1}
 
 ### Felix Bauer
 

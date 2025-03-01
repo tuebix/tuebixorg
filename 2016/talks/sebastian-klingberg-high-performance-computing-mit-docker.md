@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/sebastian-klingberg-high-performance-computing-mit-docker/
+url: /2016/programm/sebastian-klingberg-high-performance-computing-mit-docker/
 weight:
 menu:
 ---
 ## High-Performance-Computing mit Docker
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V2 {#-1200-bis-1300-in-raum-v2}
 
 ### Sebastian Klingberg
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/andre-niemann-ruckzuck-aufgesetzte-testumgebungen-fuer-sensu/
+url: /2017/programm/andre-niemann-ruckzuck-aufgesetzte-testumgebungen-fuer-sensu/
 weight:
 menu:
 ---
 ## Ruckzuck aufgesetzte Testumgebungen für Sensu
 
-### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 18:00 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 18:00 in Raum V3 {#-1730-bis-1800-in-raum-v3}
 
 ### André Niemann
 

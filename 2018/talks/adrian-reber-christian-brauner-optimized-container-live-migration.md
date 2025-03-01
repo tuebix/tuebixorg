@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/adrian-reber-christian-brauner-optimized-container-live-migration/
+url: /2018/programm/adrian-reber-christian-brauner-optimized-container-live-migration/
 weight:
 menu:
 ---
 ## Optimized Container Live-Migration
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:20 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:20 in Raum V2 {#-1500-bis-1520-in-raum-v2}
 
 ### Adrian Reber, Christian Brauner
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/sven-guckes-mutt-konfigurieren/
+url: /2016/programm/sven-guckes-mutt-konfigurieren/
 weight:
 menu:
 ---
 ## mutt konfigurieren
 
-### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W3
+### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W3 {#-1000-bis-1200-in-raum-w3}
 
 ### Sven Guckes
 

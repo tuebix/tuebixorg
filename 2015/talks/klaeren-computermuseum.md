@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/klaeren-computermuseum/
+url: /2015/programm/klaeren-computermuseum/
 weight: 
 menu:
 ---
 ## Das Computermuseum auf dem Sand {#dascomputermuseumaufdemsand}
 
-### <img height = "32" src="../../../images/talk.svg"> 15:30 bis 16:00 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 15:30 bis 16:00 in Raum V3 {#-1530-bis-1600-in-raum-v3}
 
 ### Prof. Dr. Herbert Klaeren {#profdrherbertklaeren}
 

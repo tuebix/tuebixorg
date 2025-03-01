@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/thomas-zimmermann-system-transaktionen-mit-picotm/
+url: /2017/programm/thomas-zimmermann-system-transaktionen-mit-picotm/
 weight:
 menu:
 ---
 ## System-Transaktionen mit picotm
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V3 {#-1500-bis-1600-in-raum-v3}
 
 ### Thomas Zimmermann
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/felix-bauer-peekabooav/
+url: /2018/programm/felix-bauer-peekabooav/
 weight:
 menu:
 ---
 ## PeekabooAV - Nightmares and Fairytales
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:50 in Raum V3 {#-1700-bis-1750-in-raum-v3}
 
 ### Felix Bauer
 

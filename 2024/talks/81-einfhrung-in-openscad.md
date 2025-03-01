@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/81-einfhrung-in-openscad/
+url: /2024/programm/81-einfhrung-in-openscad/
 weight:
 menu:
 ---
 ## Einführung in OpenSCAD
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V2 (F122)
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V2 (F122) {#-1000-bis-1050-in-raum-v2-f122}
 
 ### Torsten Kockler
 

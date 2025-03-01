@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/arnd-bergmann-2038-alles-ist-kaputt/
+url: /2016/programm/arnd-bergmann-2038-alles-ist-kaputt/
 weight:
 menu:
 ---
 ## 2038 - alles ist kaputt
 
-### <img height = "32" src="../../../images/lightning.svg"> 12:15 bis 12:20 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:15 bis 12:20 in Raum V3 {#-1215-bis-1220-in-raum-v3}
 
 ### Arnd Bergmann
 

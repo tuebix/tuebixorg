@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/seidel-tcp_stealth/
+url: /2015/programm/seidel-tcp_stealth/
 weight: 
 menu:
 ---
 ## TCP Stealth - Port Knocking neu aufgelegt {#tcpstealth-portknockingneuaufgelegt}
 
-### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 in Raum V1 {#-1300-bis-1330-in-raum-v1}
 
 ### Dr. Udo Seidel {#drudoseidel}
 

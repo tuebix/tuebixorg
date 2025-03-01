@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/arnd-bergmann-the-end-of-time-19-years-to-go/
+url: /2019/programm/arnd-bergmann-the-end-of-time-19-years-to-go/
 weight:
 menu:
 ---
 ## The End of Time, 19 years to go
 
-### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 17:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 17:50 in Raum V2 {#-1730-bis-1750-in-raum-v2}
 
 ### Arnd Bergmann
 

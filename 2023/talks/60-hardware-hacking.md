@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/60-hardware-hacking/
+url: /2023/programm/60-hardware-hacking/
 weight:
 menu:
 ---
 ## Hardware-Hacking
 
-### <img height = "32" src="../../../images/lightning.svg"> 16:00 bis 16:05 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 16:00 bis 16:05 in Raum V3 {#-1600-bis-1605-in-raum-v3}
 
 ### Marcus Siegl
 

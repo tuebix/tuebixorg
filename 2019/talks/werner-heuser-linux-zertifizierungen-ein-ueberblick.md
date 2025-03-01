@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/werner-heuser-linux-zertifizierungen-ein-ueberblick/
+url: /2019/programm/werner-heuser-linux-zertifizierungen-ein-ueberblick/
 weight:
 menu:
 ---
 ## "Linux" Zertifizierungen - Ein Überblick
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum W2
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum W2 {#-1600-bis-1650-in-raum-w2}
 
 ### Werner Heuser
 

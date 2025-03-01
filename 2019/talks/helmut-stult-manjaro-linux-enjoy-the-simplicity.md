@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/helmut-stult-manjaro-linux-enjoy-the-simplicity/
+url: /2019/programm/helmut-stult-manjaro-linux-enjoy-the-simplicity/
 weight:
 menu:
 ---
 ## Manjaro Linux - ENJOY THE SIMPLICITY
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V3 {#-1000-bis-1050-in-raum-v3}
 
 ### Helmut Stult
 

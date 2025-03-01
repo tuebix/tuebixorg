@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust/
+url: /2016/programm/michael-weiss-e-mail-verschluesselung-mittels-gnupg-und-das-web-of-trust/
 weight:
 menu:
 ---
 ## E-Mail-Verschlüsselung mittels GnuPG und das Web of Trust
 
-### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W3
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W3 {#-1400-bis-1600-in-raum-w3}
 
 ### Michael Weiss, Roman Schulte, Leo Dessani, Justin Humm
 

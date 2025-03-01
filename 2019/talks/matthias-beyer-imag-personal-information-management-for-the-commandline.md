@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/matthias-beyer-imag-personal-information-management-for-the-commandline/
+url: /2019/programm/matthias-beyer-imag-personal-information-management-for-the-commandline/
 weight:
 menu:
 ---
 ## imag - personal information management for the commandline
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:10 bis 14:15 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:10 bis 14:15 in Raum V3 {#-1410-bis-1415-in-raum-v3}
 
 ### Matthias Beyer
 

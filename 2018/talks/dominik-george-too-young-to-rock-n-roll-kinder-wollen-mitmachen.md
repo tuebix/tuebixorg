@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/dominik-george-too-young-to-rock-n-roll-kinder-wollen-mitmachen/
+url: /2018/programm/dominik-george-too-young-to-rock-n-roll-kinder-wollen-mitmachen/
 weight:
 menu:
 ---
 ## Too young to rock'n'roll - Kinder wollen mitmachen!
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:20 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:20 in Raum V3 {#-1200-bis-1220-in-raum-v3}
 
 ### Dominik George
 

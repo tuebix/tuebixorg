@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/ingo-blechschmidt-matheschuelerzirkel/
+url: /2016/programm/ingo-blechschmidt-matheschuelerzirkel/
 weight:
 menu:
 ---
 ## Matheschülerzirkel
 
-### <img height = "32" src="../../../images/lightning.svg"> 12:50 bis 12:55 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:50 bis 12:55 in Raum V3 {#-1250-bis-1255-in-raum-v3}
 
 ### Ingo Blechschmidt
 

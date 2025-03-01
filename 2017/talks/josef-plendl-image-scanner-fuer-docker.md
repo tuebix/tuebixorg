@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/josef-plendl-image-scanner-fuer-docker/
+url: /2017/programm/josef-plendl-image-scanner-fuer-docker/
 weight:
 menu:
 ---
 ## Image-Scanner für Docker
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:20 bis 14:25 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:20 bis 14:25 in Raum V3 {#-1420-bis-1425-in-raum-v3}
 
 ### Josef Plendl
 

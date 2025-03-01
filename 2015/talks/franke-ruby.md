@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/franke-ruby/
+url: /2015/programm/franke-ruby/
 weight: 
 menu:
 ---
 ## Ruby als Sed- und Awk-Ersatz {#rubyalssed-undawk-ersatz}
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:20 bis 13:30 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:20 bis 13:30 in Raum V3 {#-1320-bis-1330-in-raum-v3}
 
 ### Knut Franke {#knutfranke}
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/willbold-python_kinder_buch/
+url: /2015/programm/willbold-python_kinder_buch/
 weight: 
 menu:
 ---
 ## Monty und Python werden Hacker {#montyundpythonwerdenhacker}
 
-### <img height = "32" src="../../../images/lightning.svg"> 12:10 bis 12:20 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:10 bis 12:20 in Raum V3 {#-1210-bis-1220-in-raum-v3}
 
 ### Carina Willbold {#carinawillbold}
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/helmle-einfache_sprache/
+url: /2015/programm/helmle-einfache_sprache/
 weight: 
 menu:
 ---
 ## Leichte Sprache in der IT oder – wie sag ich’s dem User? {#leichtespracheinderitoderwiesagichsdemuser}
 
-### <img height = "32" src="../../../images/lightning.svg"> 12:40 bis 12:50 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:40 bis 12:50 in Raum V3 {#-1240-bis-1250-in-raum-v3}
 
 ### Krishna-Sara Helmle {#krishna-sarahelmle}
 

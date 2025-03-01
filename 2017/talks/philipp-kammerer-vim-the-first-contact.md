@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/philipp-kammerer-vim-the-first-contact/
+url: /2017/programm/philipp-kammerer-vim-the-first-contact/
 weight:
 menu:
 ---
 ## Vim: The First contact
 
-### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 14:00 in Raum W2
+### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 14:00 in Raum W2 {#-1200-bis-1400-in-raum-w2}
 
 ### Philipp Kammerer
 

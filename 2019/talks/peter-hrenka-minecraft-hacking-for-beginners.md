@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/peter-hrenka-minecraft-hacking-for-beginners/
+url: /2019/programm/peter-hrenka-minecraft-hacking-for-beginners/
 weight:
 menu:
 ---
 ## Minecraft Hacking for Beginners
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:50 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:50 in Raum V4 {#-1400-bis-1450-in-raum-v4}
 
 ### Peter Hrenka
 

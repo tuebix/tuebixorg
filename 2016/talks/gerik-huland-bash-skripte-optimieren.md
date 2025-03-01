@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/gerik-huland-bash-skripte-optimieren/
+url: /2016/programm/gerik-huland-bash-skripte-optimieren/
 weight:
 menu:
 ---
 ## Bash Skripte optimieren
 
-### <img height = "32" src="../../../images/lightning.svg"> 12:05 bis 12:10 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:05 bis 12:10 in Raum V3 {#-1205-bis-1210-in-raum-v3}
 
 ### Gerik Huland
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/53-ordnung-im-chaos-finden-microservices-observability/
+url: /2023/programm/53-ordnung-im-chaos-finden-microservices-observability/
 weight:
 menu:
 ---
 ## Ordnung im Chaos finden: Microservices Observability
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum V2 {#-1600-bis-1650-in-raum-v2}
 
 ### Finn Rayk Gärtner
 

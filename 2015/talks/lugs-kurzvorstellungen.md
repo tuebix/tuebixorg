@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/lugs-kurzvorstellungen/
+url: /2015/programm/lugs-kurzvorstellungen/
 weight: 
 menu:
 ---
 ## Linux User Groups und Co stellen sich vor {#linuxusergroupsundcostellensichvor}
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:00 bis 15:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:00 bis 15:00 in Raum V3 {#-1400-bis-1500-in-raum-v3}
 
 ### Verschiedene LUG-Mitglieder
 

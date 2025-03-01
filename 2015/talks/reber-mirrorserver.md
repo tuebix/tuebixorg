@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/reber-mirrorserver/
+url: /2015/programm/reber-mirrorserver/
 weight: 
 menu:
 ---
 ## Mirror Server Verwaltung {#mirrorserververwaltung}
 
-### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 14:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 14:00 in Raum V1 {#-1330-bis-1400-in-raum-v1}
 
 ### Adrian Reber {#adrianreber}
 

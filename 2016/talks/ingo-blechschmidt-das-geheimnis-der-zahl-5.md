@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/ingo-blechschmidt-das-geheimnis-der-zahl-5/
+url: /2016/programm/ingo-blechschmidt-das-geheimnis-der-zahl-5/
 weight:
 menu:
 ---
 ## Tagesabschluss: Das Geheimnis der Zahl 5
 
-### <img height = "32" src="../../../images/talk.svg"> 18:15 bis 19:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 18:15 bis 19:00 in Raum V1 {#-1815-bis-1900-in-raum-v1}
 
 ### Ingo Blechschmidt
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Downloads(2015)
-permalink: /2015/downloads/
+url: /2015/downloads/
 weight: 
 menu:
 ---

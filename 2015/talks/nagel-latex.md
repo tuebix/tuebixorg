@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/nagel-latex/
+url: /2015/programm/nagel-latex/
 weight: 
 menu:
 ---
 ## Einführung in Latex
 
-### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W2
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W2 {#-1400-bis-1600-in-raum-w2}
 
 ### Thorsten Nagel {#thorstennagel}
 

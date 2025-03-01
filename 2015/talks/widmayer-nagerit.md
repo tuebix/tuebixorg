@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/widmayer-nagerit/
+url: /2015/programm/widmayer-nagerit/
 weight: 
 menu:
 ---
 ## Nager IT - Die Faire Computermaus {#nagerit-diefairecomputermaus}
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:10 bis 13:20 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:10 bis 13:20 in Raum V3 {#-1310-bis-1320-in-raum-v3}
 
 ### Karin Widmayer {#karinwidmayer}
 

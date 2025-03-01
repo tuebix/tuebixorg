@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Newsletter
-permalink: /newsletter/
+url: /newsletter/
 weight: 7
 menu: main
 ---

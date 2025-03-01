@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/sven-guckes-viminfo-sessions/
+url: /2017/programm/sven-guckes-viminfo-sessions/
 weight:
 menu:
 ---
 ## Viminfo + Sessions 
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:35 bis 13:40 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:35 bis 13:40 in Raum V3 {#-1335-bis-1340-in-raum-v3}
 
 ### Sven Guckes
 

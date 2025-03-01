@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/sebastian-klingberg-netzwerkbaukasten-openvswitch/
+url: /2016/programm/sebastian-klingberg-netzwerkbaukasten-openvswitch/
 weight:
 menu:
 ---
 ## Netzwerkbaukasten OpenVSwitch
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:00 bis 13:05 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:00 bis 13:05 in Raum V3 {#-1300-bis-1305-in-raum-v3}
 
 ### Sebastian Klingberg
 

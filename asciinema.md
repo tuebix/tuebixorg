@@ -1,7 +1,7 @@
 ---
 layout: page
 title: asciinema
-permalink: /asciinema/
+url: /asciinema/
 weight:
 menu:
 ---

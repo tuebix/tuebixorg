@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/krug-libreoffice/
+url: /2015/programm/krug-libreoffice/
 weight: 
 menu:
 ---
 ## LibreOffice Overkill {#libreofficeoverkill}
 
-### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W2
+### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W2 {#-1000-bis-1200-in-raum-w2}
 
 ### Stefan Krug {#stefankrug}
 

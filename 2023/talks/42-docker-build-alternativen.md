@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/42-docker-build-alternativen/
+url: /2023/programm/42-docker-build-alternativen/
 weight:
 menu:
 ---
 ## Docker build Alternativen
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:20 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:20 in Raum V2 {#-1500-bis-1520-in-raum-v2}
 
 ### Gabriel Wustmann
 

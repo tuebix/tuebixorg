@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/stefan-tzeggai-postgresql-tipps-fuer-schnelle-ergebnisse/
+url: /2017/programm/stefan-tzeggai-postgresql-tipps-fuer-schnelle-ergebnisse/
 weight:
 menu:
 ---
 ## PostgreSQL Tipps für schnelle Ergebnisse
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V3 {#-1100-bis-1200-in-raum-v3}
 
 ### Stefan Tzeggai
 

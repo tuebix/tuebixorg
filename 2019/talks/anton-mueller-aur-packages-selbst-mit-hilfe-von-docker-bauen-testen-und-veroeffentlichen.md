@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/anton-mueller-aur-packages-selbst-mit-hilfe-von-docker-bauen-testen-und-veroeffentlichen/
+url: /2019/programm/anton-mueller-aur-packages-selbst-mit-hilfe-von-docker-bauen-testen-und-veroeffentlichen/
 weight:
 menu:
 ---
 ## AUR-Packages selbst mit Hilfe von Docker bauen, testen und veröffentlichen
 
-### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 15:50 in Raum W2
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 15:50 in Raum W2 {#-1400-bis-1550-in-raum-w2}
 
 ### Anton Müller
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/stefan-baur-x2go-in-der-google-cloud-kostenlos-und-oder-anonym-wie-geht-das/
+url: /2019/programm/stefan-baur-x2go-in-der-google-cloud-kostenlos-und-oder-anonym-wie-geht-das/
 weight:
 menu:
 ---
 ## X2Go in der Google Cloud, kostenlos und/oder anonym - wie geht das?
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V2 {#-1000-bis-1050-in-raum-v2}
 
 ### Stefan Baur
 

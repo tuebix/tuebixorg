@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/frank-bunselmeyer-daniel-kobras-digitalfotografie-und-digitale-dunkelkammer/
+url: /2018/programm/frank-bunselmeyer-daniel-kobras-digitalfotografie-und-digitale-dunkelkammer/
 weight:
 menu:
 ---
 ## Digitalfotografie und digitale Dunkelkammer
 
-### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 13:50 in Raum W3
+### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 13:50 in Raum W3 {#-1200-bis-1350-in-raum-w3}
 
 ### Frank Bunselmeyer, Daniel Kobras
 

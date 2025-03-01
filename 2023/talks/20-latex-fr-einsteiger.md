@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/20-latex-fr-einsteiger/
+url: /2023/programm/20-latex-fr-einsteiger/
 weight:
 menu:
 ---
 ## LaTeX für Einsteiger
 
-### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 13:50 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 13:50 in Raum W1 {#-1200-bis-1350-in-raum-w1}
 
 ### Philipp Kammerer
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impressum
-permalink: /impressum/
+url: /impressum/
 weight: 9001
 menu: main
 ---

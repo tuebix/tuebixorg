@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/olaf-flebbe-datenanalyse-einer-solaranlage-mit-python/
+url: /2017/programm/olaf-flebbe-datenanalyse-einer-solaranlage-mit-python/
 weight:
 menu:
 ---
 ## Datenanalyse einer Solaranlage mit python
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V1 {#-1500-bis-1600-in-raum-v1}
 
 ### Olaf Flebbe
 

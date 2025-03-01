@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/hell-van-sing-sonic-pi-live-coding-music/
+url: /2016/programm/hell-van-sing-sonic-pi-live-coding-music/
 weight:
 menu:
 ---
 ## Sonic Pi - "Live Coding Music"
 
-### <img height = "32" src="../../../images/lightning.svg"> 15:20 bis 15:30 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:20 bis 15:30 in Raum V3 {#-1520-bis-1530-in-raum-v3}
 
 ### Hell van Sing
 

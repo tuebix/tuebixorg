@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/udo-seidel-quo-vadis-linux/
+url: /2016/programm/udo-seidel-quo-vadis-linux/
 weight:
 menu:
 ---
 ## Quo vadis Linux?!?
 
-### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 14:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 14:00 in Raum V2 {#-1330-bis-1400-in-raum-v2}
 
 ### Udo Seidel
 

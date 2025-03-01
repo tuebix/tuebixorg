@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/sven-guckes-tools-tools-tools/
+url: /2017/programm/sven-guckes-tools-tools-tools/
 weight:
 menu:
 ---
 ## Tools Tools Tools!
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum W2
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum W2 {#-1100-bis-1200-in-raum-w2}
 
 ### Sven Guckes
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/frank-schiebel-freifunk-ag-am-quenstedt-gymnasium-von-der-schule-in-die-stadt/
+url: /2019/programm/frank-schiebel-freifunk-ag-am-quenstedt-gymnasium-von-der-schule-in-die-stadt/
 weight:
 menu:
 ---
 ## Freifunk AG Am Quenstedt-Gymnasium: Von der Schule in die Stadt. 
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:50 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:50 in Raum V4 {#-1500-bis-1550-in-raum-v4}
 
 ### Frank Schiebel
 

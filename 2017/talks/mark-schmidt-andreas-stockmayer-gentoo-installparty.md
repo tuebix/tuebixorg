@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/mark-schmidt-andreas-stockmayer-gentoo-installparty/
+url: /2017/programm/mark-schmidt-andreas-stockmayer-gentoo-installparty/
 weight:
 menu:
 ---
 ## Gentoo Installparty
 
-### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W1 {#-1600-bis-1800-in-raum-w1}
 
 ### Mark Schmidt, Andreas Stockmayer
 

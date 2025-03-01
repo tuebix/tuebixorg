@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/fabian-wannenmacher-your-own-i3bar-the-simple-way/
+url: /2017/programm/fabian-wannenmacher-your-own-i3bar-the-simple-way/
 weight:
 menu:
 ---
 ## Your own i3bar – The simple way
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:50 bis 13:55 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:50 bis 13:55 in Raum V3 {#-1350-bis-1355-in-raum-v3}
 
 ### Fabian Wannenmacher
 

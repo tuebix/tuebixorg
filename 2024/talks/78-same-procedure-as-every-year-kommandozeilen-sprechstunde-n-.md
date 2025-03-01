@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/78-same-procedure-as-every-year-kommandozeilen-sprechstunde-n-/
+url: /2024/programm/78-same-procedure-as-every-year-kommandozeilen-sprechstunde-n-/
 weight:
 menu:
 ---
 ## Same Procedure as Every Year: Kommandozeilen-Sprechstunde(n)
 
-### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 11:50 in Raum W1 (A302)
+### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 11:50 in Raum W1 (A302) {#-1000-bis-1150-in-raum-w1-a302}
 
 ### Harald König
 

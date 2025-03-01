@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/olaf-flebbe-hadoop-distribution-selber-machen/
+url: /2016/programm/olaf-flebbe-hadoop-distribution-selber-machen/
 weight:
 menu:
 ---
 ## Hadoop Distribution selber machen
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 17:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 17:00 in Raum V2 {#-1600-bis-1700-in-raum-v2}
 
 ### Olaf Flebbe
 

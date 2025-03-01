@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/zimmer-vim/
+url: /2015/programm/zimmer-vim/
 weight: 
 menu:
 ---
 ## Vim für Nicht-Mehr-Beginner und Noch-Nicht-Fortgeschrittene {#vimfürnicht-mehr-beginnerundnoch-nicht-fortgeschrittene}
 
-### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W3
+### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W3 {#-1000-bis-1200-in-raum-w3}
 
 ### Toni Zimmer {#tonizimmer}
 

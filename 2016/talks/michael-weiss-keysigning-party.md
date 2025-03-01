@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/michael-weiss-keysigning-party/
+url: /2016/programm/michael-weiss-keysigning-party/
 weight:
 menu:
 ---
 ## OpenPGP Key-Signing-Party (aka. Fingerprint Exchange) im Anschluss an den GnuPG Workshop
 
-### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 17:00 in Raum V3
+### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 17:00 in Raum V3 {#-1600-bis-1700-in-raum-v3}
 
 ### Sven Guckes, Florian Heimgärtner, Michael Weiss
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/robin-bertram-coreboot-libreboot-die-open-source-bios-alternative/
+url: /2019/programm/robin-bertram-coreboot-libreboot-die-open-source-bios-alternative/
 weight:
 menu:
 ---
 ## Coreboot/Libreboot - Die Open Source BIOS-Alternative
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:15 bis 14:20 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:15 bis 14:20 in Raum V3 {#-1415-bis-1420-in-raum-v3}
 
 ### Robin Bertram
 

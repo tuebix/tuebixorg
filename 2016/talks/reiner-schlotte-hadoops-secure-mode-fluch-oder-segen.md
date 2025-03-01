@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/reiner-schlotte-hadoops-secure-mode-fluch-oder-segen/
+url: /2016/programm/reiner-schlotte-hadoops-secure-mode-fluch-oder-segen/
 weight:
 menu:
 ---
 ## Hadoops 'secure mode' - Fluch oder Segen? 
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V2 {#-1500-bis-1600-in-raum-v2}
 
 ### Reiner Schlotte
 

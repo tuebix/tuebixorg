@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/schiele-aktuelles/
+url: /2015/programm/schiele-aktuelles/
 weight: 
 menu:
 ---
 ## Aktuelle Entwicklungen {#aktuelleentwicklungen}
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 17:00 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 17:00 in Raum V3 {#-1600-bis-1700-in-raum-v3}
 
 ### Joachim Schiele {#joachimschiele}
 

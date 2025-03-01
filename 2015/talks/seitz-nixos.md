@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/seitz-nixos/
+url: /2015/programm/seitz-nixos/
 weight: 
 menu:
 ---
 ## Was ist NixOS? {#wasistnixos}
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V2 {#-1000-bis-1100-in-raum-v2}
 
 ### Paul Seitz {#paulseitz}
 

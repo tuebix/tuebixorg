@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/alexander-peltzer-bigdata-analytics-mit-nextflow-und-nf-core/
+url: /2019/programm/alexander-peltzer-bigdata-analytics-mit-nextflow-und-nf-core/
 weight:
 menu:
 ---
 ## BigData analytics mit Nextflow und nf-core
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:20 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:20 in Raum V1 {#-1600-bis-1620-in-raum-v1}
 
 ### Alexander Peltzer
 

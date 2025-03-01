@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/gerik-huland-tagesabschluss-warum-brennt-die-milch-an/
+url: /2017/programm/gerik-huland-tagesabschluss-warum-brennt-die-milch-an/
 weight:
 menu:
 ---
 ## Warum brennt die Milch an? Eine kleine Einführung in die Physik des Kochens
 
-### <img height = "32" src="../../../images/talk.svg"> 18:15 bis 18:45 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 18:15 bis 18:45 in Raum V1 {#-1815-bis-1845-in-raum-v1}
 
 ### Gerik Huland
 

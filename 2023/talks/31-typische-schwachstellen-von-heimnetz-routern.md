@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/31-typische-schwachstellen-von-heimnetz-routern/
+url: /2023/programm/31-typische-schwachstellen-von-heimnetz-routern/
 weight:
 menu:
 ---
 ## Typische Schwachstellen von Heimnetz-Routern
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum V1 {#-1600-bis-1650-in-raum-v1}
 
 ### Gerhard Klostermeier
 

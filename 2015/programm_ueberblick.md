@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programm
-permalink: /2015/programm_ueberblick/
+url: /2015/programm_ueberblick/
 weight: 
 menu: 
 ---

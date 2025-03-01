@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/mark-proehl-automatisierte-testumgebungen-mit-ansible-und-vagrant/
+url: /2018/programm/mark-proehl-automatisierte-testumgebungen-mit-ansible-und-vagrant/
 weight:
 menu:
 ---
 ## Automatisierte Testumgebungen mit Ansible und Vagrant
 
-### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 12:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 12:50 in Raum V3 {#-1230-bis-1250-in-raum-v3}
 
 ### Mark Pröhl
 

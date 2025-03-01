@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/100-nix-os-ein-berblick/
+url: /2023/programm/100-nix-os-ein-berblick/
 weight:
 menu:
 ---
 ## Nix(OS) - Ein Überblick
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:20 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:20 in Raum V4 {#-1700-bis-1720-in-raum-v4}
 
 ### Michael Weiss
 

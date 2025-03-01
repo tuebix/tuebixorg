@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/79-hacker-jeopardy-fr-alle/
+url: /2024/programm/79-hacker-jeopardy-fr-alle/
 weight:
 menu:
 ---
 ## Hacker Jeopardy für alle
 
-### <img height = "32" src="../../../images/workshop.svg"> 17:30 bis 19:20 in Raum V1 (F119)
+### <img height = "32" src="../../../images/workshop.svg"> 17:30 bis 19:20 in Raum V1 (F119) {#-1730-bis-1920-in-raum-v1-f119}
 
 ### Harald König
 

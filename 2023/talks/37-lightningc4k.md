@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/37-lightningc4k/
+url: /2023/programm/37-lightningc4k/
 weight:
 menu:
 ---
 ## LightningC4k
 
-### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 17:40 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 17:40 in Raum V2 {#-1730-bis-1740-in-raum-v2}
 
 ### Michael Jerger
 

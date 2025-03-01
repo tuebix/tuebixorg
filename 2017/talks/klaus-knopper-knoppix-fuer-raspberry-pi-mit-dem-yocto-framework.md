@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/klaus-knopper-knoppix-fuer-raspberry-pi-mit-dem-yocto-framework/
+url: /2017/programm/klaus-knopper-knoppix-fuer-raspberry-pi-mit-dem-yocto-framework/
 weight:
 menu:
 ---
 ## Knoppix für Raspberry Pi mit dem YOCTO Framework
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:30 bis 14:35 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:30 bis 14:35 in Raum V3 {#-1430-bis-1435-in-raum-v3}
 
 ### Klaus Knopper
 

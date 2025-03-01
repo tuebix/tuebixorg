@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/daniel-kraft-backy2-open-source-virtual-machine-backup-fuer-ceph-und-lvm/
+url: /2017/programm/daniel-kraft-backy2-open-source-virtual-machine-backup-fuer-ceph-und-lvm/
 weight:
 menu:
 ---
 ## backy2: Open Source Virtual Machine Backup für Ceph und LVM
 
-### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 17:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 17:00 in Raum V4 {#-1630-bis-1700-in-raum-v4}
 
 ### Daniel Kraft
 

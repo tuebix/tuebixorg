@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/gunnar-piel-das-auto-betriebssystem-der-zukunft/
+url: /2018/programm/gunnar-piel-das-auto-betriebssystem-der-zukunft/
 weight:
 menu:
 ---
 ## Das Auto-Betriebssystem der Zukunft
 
-### <img height = "32" src="../../../images/talk.svg"> 14:30 bis 14:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 14:30 bis 14:50 in Raum V3 {#-1430-bis-1450-in-raum-v3}
 
 ### Gunnar Piel
 

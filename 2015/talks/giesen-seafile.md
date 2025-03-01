@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/giesen-seafile/
+url: /2015/programm/giesen-seafile/
 weight: 
 menu:
 ---
 ## Seafile als Dropbox-Alternative {#seafilealsdropbox-alternative}
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:00 bis 13:10 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:00 bis 13:10 in Raum V3 {#-1300-bis-1310-in-raum-v3}
 
 ### Gregor Giesen {#gregorgiesen}
 

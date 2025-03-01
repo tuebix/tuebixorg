@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/imme-latex_verein/
+url: /2015/programm/imme-latex_verein/
 weight: 
 menu:
 ---
 ## LaTeX für den Verein {#latexfürdenverein}
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:30 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:30 in Raum V4 {#-1200-bis-1230-in-raum-v4}
 
 ### Roland Imme {#rolandimme}
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/pfeifle-pandoc/
+url: /2015/programm/pfeifle-pandoc/
 weight: 
 menu:
 ---
 ## Dokumenten-KungFoo mit Pandoc, Markdown & Co. {#dokumenten-kungfoo-mitpandocmarkdownco}
 
-### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 14:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 14:00 in Raum V4 {#-1300-bis-1400-in-raum-v4}
 
 ### Kurt Pfeifle {#kurtpfeifle}
 

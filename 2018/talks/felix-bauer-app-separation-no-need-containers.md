@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/felix-bauer-app-separation-no-need-containers/
+url: /2018/programm/felix-bauer-app-separation-no-need-containers/
 weight:
 menu:
 ---
 ## App separation no need containers
 
-### <img height = "32" src="../../../images/talk.svg"> 15:30 bis 15:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 15:30 bis 15:50 in Raum V2 {#-1530-bis-1550-in-raum-v2}
 
 ### Felix Bauer
 

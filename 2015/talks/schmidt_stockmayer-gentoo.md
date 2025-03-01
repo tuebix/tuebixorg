@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/schmidt_stockmayer-gentoo/
+url: /2015/programm/schmidt_stockmayer-gentoo/
 weight: 
 menu:
 ---
 ## Gentoo-Einführung
 
-### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W1 {#-1000-bis-1200-in-raum-w1}
 
 ### Mark Schmidt und Andreas Stockmayer {#markschmidtundandreasstockmayer}
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/goetz-bigdata2/
+url: /2015/programm/goetz-bigdata2/
 weight: 
 menu:
 ---
 ## Big Data Analytics {#bigdataanalytics}
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V1 {#-1700-bis-1800-in-raum-v1}
 
 ### Thomas Götz {#thomasgötz}
 

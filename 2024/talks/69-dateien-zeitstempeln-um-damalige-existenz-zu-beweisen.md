@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/69-dateien-zeitstempeln-um-damalige-existenz-zu-beweisen/
+url: /2024/programm/69-dateien-zeitstempeln-um-damalige-existenz-zu-beweisen/
 weight:
 menu:
 ---
 ## Dateien zeitstempeln, um damalige Existenz zu beweisen
 
-### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 16:50 in Raum V2 (F122)
+### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 16:50 in Raum V2 (F122) {#-1630-bis-1650-in-raum-v2-f122}
 
 ### Yann Büchau
 

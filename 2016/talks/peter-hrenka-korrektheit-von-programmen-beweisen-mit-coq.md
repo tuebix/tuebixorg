@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/peter-hrenka-korrektheit-von-programmen-beweisen-mit-coq/
+url: /2016/programm/peter-hrenka-korrektheit-von-programmen-beweisen-mit-coq/
 weight:
 menu:
 ---
 ## Korrektheit von Programmen beweisen mit Coq
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V2 {#-1700-bis-1800-in-raum-v2}
 
 ### Peter Hrenka
 

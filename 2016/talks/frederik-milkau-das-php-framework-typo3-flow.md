@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/frederik-milkau-das-php-framework-typo3-flow/
+url: /2016/programm/frederik-milkau-das-php-framework-typo3-flow/
 weight:
 menu:
 ---
 ## Das PHP-Framework (TYPO3) Flow 
 
-### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:00 in Raum V4 {#-1230-bis-1300-in-raum-v4}
 
 ### Frederik Milkau
 

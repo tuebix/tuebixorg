@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/andreas-mundt-nextkellercloud-homeserver-mit-ct-bauvorschlag-und-oder-olinuxinolime2/
+url: /2019/programm/andreas-mundt-nextkellercloud-homeserver-mit-ct-bauvorschlag-und-oder-olinuxinolime2/
 weight:
 menu:
 ---
 ## NextKellerCloud: HomeServer mit c't Bauvorschlag und/oder OLinuXinoLIME2
 
-### <img height = "32" src="../../../images/lightning.svg"> 15:25 bis 15:30 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:25 bis 15:30 in Raum V3 {#-1525-bis-1530-in-raum-v3}
 
 ### Andreas B. Mundt
 

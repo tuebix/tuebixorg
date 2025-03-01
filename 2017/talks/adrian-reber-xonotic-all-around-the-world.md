@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/adrian-reber-xonotic-all-around-the-world/
+url: /2017/programm/adrian-reber-xonotic-all-around-the-world/
 weight:
 menu:
 ---
 ## Xonotic All Around The World
 
-### <img height = "32" src="../../../images/talk.svg"> 10:30 bis 11:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 10:30 bis 11:00 in Raum V4 {#-1030-bis-1100-in-raum-v4}
 
 ### Adrian Reber
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/marcus-siegl-raspberry-pi-als-internet-of-things/
+url: /2016/programm/marcus-siegl-raspberry-pi-als-internet-of-things/
 weight:
 menu:
 ---
 ## Raspberry Pi (Zero) als Internet of Things 
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:20 bis 13:25 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:20 bis 13:25 in Raum V3 {#-1320-bis-1325-in-raum-v3}
 
 ### Marcus Siegl
 

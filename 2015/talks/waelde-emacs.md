@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/waelde-emacs/
+url: /2015/programm/waelde-emacs/
 weight: 
 menu:
 ---
 ## Anständiges Werkzeug: emacs {#anständigeswerkzeugemacs}
 
-### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 14:00 in Raum W3
+### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 14:00 in Raum W3 {#-1200-bis-1400-in-raum-w3}
 
 ### Erich Wälde {#erichwälde}
 

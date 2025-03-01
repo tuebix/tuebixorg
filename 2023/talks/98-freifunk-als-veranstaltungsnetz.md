@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/98-freifunk-als-veranstaltungsnetz/
+url: /2023/programm/98-freifunk-als-veranstaltungsnetz/
 weight:
 menu:
 ---
 ## Freifunk als Veranstaltungsnetz
 
-### <img height = "32" src="../../../images/lightning.svg"> 16:15 bis 16:20 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 16:15 bis 16:20 in Raum V3 {#-1615-bis-1620-in-raum-v3}
 
 ### Robin Bertram
 

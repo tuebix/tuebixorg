@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/holger-gantikow-der-wal-im-windkanal-docker-container-fuer-scientific-computing/
+url: /2016/programm/holger-gantikow-der-wal-im-windkanal-docker-container-fuer-scientific-computing/
 weight:
 menu:
 ---
 ## Der Wal im Windkanal - Docker Container für Scientific Computing
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V2 {#-1100-bis-1200-in-raum-v2}
 
 ### Holger Gantikow
 

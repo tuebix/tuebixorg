@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/8-einstieg-in-linux-kernel-debugging/
+url: /2023/programm/8-einstieg-in-linux-kernel-debugging/
 weight:
 menu:
 ---
 ## Einstieg in Linux Kernel Debugging
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V1 {#-1000-bis-1050-in-raum-v1}
 
 ### Stefan Walter
 

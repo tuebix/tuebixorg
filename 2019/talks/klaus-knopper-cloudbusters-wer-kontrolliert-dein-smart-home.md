@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/klaus-knopper-cloudbusters-wer-kontrolliert-dein-smart-home/
+url: /2019/programm/klaus-knopper-cloudbusters-wer-kontrolliert-dein-smart-home/
 weight:
 menu:
 ---
 ## Cloudbusters - Wer kontrolliert dein Smart Home?
 
-### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:50 in Raum V1 {#-1300-bis-1350-in-raum-v1}
 
 ### Klaus Knopper
 

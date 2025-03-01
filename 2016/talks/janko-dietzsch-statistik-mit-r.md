@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/janko-dietzsch-statistik-mit-r/
+url: /2016/programm/janko-dietzsch-statistik-mit-r/
 weight:
 menu:
 ---
 ## Statistik mit R
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V4 {#-1000-bis-1100-in-raum-v4}
 
 ### Janko Dietzsch
 

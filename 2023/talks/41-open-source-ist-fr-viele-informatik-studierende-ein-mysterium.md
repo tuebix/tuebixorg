@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/41-open-source-ist-fr-viele-informatik-studierende-ein-mysterium/
+url: /2023/programm/41-open-source-ist-fr-viele-informatik-studierende-ein-mysterium/
 weight:
 menu:
 ---
 ## Open Source ist für viele Informatik-Studierende ein Mysterium
 
-### <img height = "32" src="../../../images/talk.svg"> 18:30 bis 18:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 18:30 bis 18:50 in Raum V1 {#-1830-bis-1850-in-raum-v1}
 
 ### Daniel Kulesz
 

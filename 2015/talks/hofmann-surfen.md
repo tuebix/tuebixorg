@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/hofmann-surfen/
+url: /2015/programm/hofmann-surfen/
 weight: 
 menu:
 ---
 ## Schneller und sicherer Surfen im Internet {#schnellerundsicherersurfeniminternet}
 
-### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 17:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 17:00 in Raum V2 {#-1630-bis-1700-in-raum-v2}
 
 ### Frank Hofmann {#frankhofmann}
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/57-platzsparend-automatisierung-testen/
+url: /2023/programm/57-platzsparend-automatisierung-testen/
 weight:
 menu:
 ---
 ## Platzsparend Automatisierung testen
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:20 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:20 in Raum V3 {#-1400-bis-1420-in-raum-v3}
 
 ### André Niemann
 

@@ -1,17 +1,17 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/alexander-landstorfer-das-tuebinger-80cm-teleskop/
+url: /2019/programm/alexander-landstorfer-das-tuebinger-80cm-teleskop/
 weight:
 menu:
 ---
 ## Das Tübinger 80cm-Teleskop
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:30 bei der Teleskopkuppel
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:30 bei der Teleskopkuppel {#-1200-bis-1230-bei-der-teleskopkuppel}
 
-### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:00 bei der Teleskopkuppel
+### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:00 bei der Teleskopkuppel {#-1230-bis-1300-bei-der-teleskopkuppel}
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:30 bei der Teleskopkuppel
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:30 bei der Teleskopkuppel {#-1400-bis-1430-bei-der-teleskopkuppel}
 
 ### Alexander Landstorfer
 

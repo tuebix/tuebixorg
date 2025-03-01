@@ -1,17 +1,17 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/gottschall-teleskop/
+url: /2015/programm/gottschall-teleskop/
 weight: 
 menu:
 ---
 ## Das Tübinger 80cm-Teleskop {#dastübinger80cm-teleskop}
 
-### <img height = "32" src="../../../images/talk.svg"> 18:30 bis 19:00 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 18:30 bis 19:00 im Observatorium {#-1830-bis-1900-im-observatorium}
 
 und direkt im Anschluss nochmal:
 
-### <img height = "32" src="../../../images/talk.svg"> 19:00 bis 19:30 im Observatorium
+### <img height = "32" src="../../../images/talk.svg"> 19:00 bis 19:30 im Observatorium {#-1900-bis-1930-im-observatorium}
 
 ### Ruth Gottschall und Daniel Gottschall {#ruthgottschallunddanielgottschall}
 

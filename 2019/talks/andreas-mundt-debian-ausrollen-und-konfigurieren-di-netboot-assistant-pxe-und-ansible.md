@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/andreas-mundt-debian-ausrollen-und-konfigurieren-di-netboot-assistant-pxe-und-ansible/
+url: /2019/programm/andreas-mundt-debian-ausrollen-und-konfigurieren-di-netboot-assistant-pxe-und-ansible/
 weight:
 menu:
 ---
 ## Debian ausrollen und konfigurieren: di-netboot-assistant, PXE und ansible
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V2 {#-1100-bis-1150-in-raum-v2}
 
 ### Andreas B. Mundt
 

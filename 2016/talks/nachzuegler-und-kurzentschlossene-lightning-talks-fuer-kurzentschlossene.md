@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene/
+url: /2016/programm/nachzuegler-und-kurzentschlossene-lightning-talks-fuer-kurzentschlossene/
 weight:
 menu:
 ---
 ## Lightning Talks für Kurzentschlossene
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:35 bis 13:55 und 15:10 bis 15:55 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:35 bis 13:55 und 15:10 bis 15:55 in Raum V3 {#-1335-bis-1355-und-1510-bis-1555-in-raum-v3}
 
 ### Nachzügler und Kurzentschlossene
 

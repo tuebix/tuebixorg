@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/carsten-emde-warum-ist-es-fast-unmoeglich-eine-linux-distribution-weiterzugeben/
+url: /2016/programm/carsten-emde-warum-ist-es-fast-unmoeglich-eine-linux-distribution-weiterzugeben/
 weight:
 menu:
 ---
 ## Warum ist es (fast) unmöglich, eine Linux-Distribution weiterzugeben?
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V1 {#-1000-bis-1100-in-raum-v1}
 
 ### Carsten Emde
 

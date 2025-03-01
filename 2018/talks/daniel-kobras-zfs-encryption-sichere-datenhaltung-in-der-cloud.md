@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/daniel-kobras-zfs-encryption-sichere-datenhaltung-in-der-cloud/
+url: /2018/programm/daniel-kobras-zfs-encryption-sichere-datenhaltung-in-der-cloud/
 weight:
 menu:
 ---
 ## ZFS-Encryption - sichere Datenhaltung in der Cloud
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:20 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:20 in Raum V3 {#-1600-bis-1620-in-raum-v3}
 
 ### Daniel Kobras
 

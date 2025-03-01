@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/michael-stroeder-openssh-certificates/
+url: /2019/programm/michael-stroeder-openssh-certificates/
 weight:
 menu:
 ---
 ## OpenSSH Certificates
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:50 in Raum W2
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:50 in Raum W2 {#-1700-bis-1750-in-raum-w2}
 
 ### Michael Ströder
 

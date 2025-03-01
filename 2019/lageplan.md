@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lageplan
-permalink: /2019/lageplan/
+url: /2019/lageplan/
 ---
 
 * <a href="../programm/">Programm</a>

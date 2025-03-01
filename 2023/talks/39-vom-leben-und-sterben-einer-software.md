@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/39-vom-leben-und-sterben-einer-software/
+url: /2023/programm/39-vom-leben-und-sterben-einer-software/
 weight:
 menu:
 ---
 ## Vom Leben und Sterben einer Software
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:20 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:20 in Raum V3 {#-1500-bis-1520-in-raum-v3}
 
 ### Lukas Kallies
 

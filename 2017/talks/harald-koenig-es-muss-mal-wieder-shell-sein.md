@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/harald-koenig-es-muss-mal-wieder-shell-sein/
+url: /2017/programm/harald-koenig-es-muss-mal-wieder-shell-sein/
 weight:
 menu:
 ---
 ## Es muss mal wieder SHELL sein
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V1 {#-1700-bis-1800-in-raum-v1}
 
 ### Harald König
 

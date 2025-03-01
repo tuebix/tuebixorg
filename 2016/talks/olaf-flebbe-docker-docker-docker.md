@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/olaf-flebbe-docker-docker-docker/
+url: /2016/programm/olaf-flebbe-docker-docker-docker/
 weight:
 menu:
 ---
 ## Docker ! Docker ! Docker !
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V2 {#-1000-bis-1100-in-raum-v2}
 
 ### Olaf Flebbe
 

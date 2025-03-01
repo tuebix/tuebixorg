@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/82-banken-und-freie-software/
+url: /2024/programm/82-banken-und-freie-software/
 weight:
 menu:
 ---
 ## Banken und Freie Software
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:50 in Raum V2 (F122)
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:50 in Raum V2 (F122) {#-1500-bis-1550-in-raum-v2-f122}
 
 ### Florian Snow
 

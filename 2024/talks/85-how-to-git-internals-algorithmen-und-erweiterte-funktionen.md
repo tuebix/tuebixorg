@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/85-how-to-git-internals-algorithmen-und-erweiterte-funktionen/
+url: /2024/programm/85-how-to-git-internals-algorithmen-und-erweiterte-funktionen/
 weight:
 menu:
 ---
 ## How to Git: Internals/Algorithmen und erweiterte Funktionen
 
-### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 15:50 in Raum W2 (C118a)
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 15:50 in Raum W2 (C118a) {#-1400-bis-1550-in-raum-w2-c118a}
 
 ### Michael Weiss
 

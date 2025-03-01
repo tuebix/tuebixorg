@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/daniel-kulesz-software-testen-ja-bitte/
+url: /2019/programm/daniel-kulesz-software-testen-ja-bitte/
 weight:
 menu:
 ---
 ## Software testen? Ja bitte!
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:50 in Raum V2 {#-1400-bis-1450-in-raum-v2}
 
 ### Daniel Kulesz
 

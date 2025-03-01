@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/volker-matheis-raspberrypi-to-thinclient/
+url: /2019/programm/volker-matheis-raspberrypi-to-thinclient/
 weight:
 menu:
 ---
 ## RaspberryPi to ThinClient
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:05 bis 14:10 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:05 bis 14:10 in Raum V3 {#-1405-bis-1410-in-raum-v3}
 
 ### Volker Matheis
 

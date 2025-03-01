@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/felix-bauer-peekabooav/
+url: /2017/programm/felix-bauer-peekabooav/
 weight:
 menu:
 ---
 ## PeekabooAV
 
-### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 14:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 14:00 in Raum V4 {#-1300-bis-1400-in-raum-v4}
 
 ### Felix Bauer
 

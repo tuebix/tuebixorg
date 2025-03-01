@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/46-x2go-remote-desktops-remote-applications-was-bringt-das-neue-release-kdrive-/
+url: /2023/programm/46-x2go-remote-desktops-remote-applications-was-bringt-das-neue-release-kdrive-/
 weight:
 menu:
 ---
 ## X2Go Remote Desktops/Remote Applications - was bringt das neue Release? KDrive!
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:20 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:20 in Raum V4 {#-1400-bis-1420-in-raum-v4}
 
 ### Stefan Baur
 

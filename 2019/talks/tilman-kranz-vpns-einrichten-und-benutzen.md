@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/tilman-kranz-vpns-einrichten-und-benutzen/
+url: /2019/programm/tilman-kranz-vpns-einrichten-und-benutzen/
 weight:
 menu:
 ---
 ## VPNs einrichten und benutzen
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V4 {#-1000-bis-1050-in-raum-v4}
 
 ### Tilman Kranz
 

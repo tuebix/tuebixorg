@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/lorenz-kiefner-mesh-vpn-selbstgebaut/
+url: /2019/programm/lorenz-kiefner-mesh-vpn-selbstgebaut/
 weight:
 menu:
 ---
 ## Mesh-VPN selbstgebaut
 
-### <img height = "32" src="../../../images/lightning.svg"> 15:35 bis 15:40 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:35 bis 15:40 in Raum V3 {#-1535-bis-1540-in-raum-v3}
 
 ### Lorenz Kiefner
 

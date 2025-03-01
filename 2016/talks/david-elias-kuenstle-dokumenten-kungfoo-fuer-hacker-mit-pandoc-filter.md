@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/david-elias-kuenstle-dokumenten-kungfoo-fuer-hacker-mit-pandoc-filter/
+url: /2016/programm/david-elias-kuenstle-dokumenten-kungfoo-fuer-hacker-mit-pandoc-filter/
 weight:
 menu:
 ---
 ## Dokumenten-KungFoo für Hacker mit Pandoc Filter
 
-### <img height = "32" src="../../../images/lightning.svg"> 12:40 bis 12:45 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 12:40 bis 12:45 in Raum V3 {#-1240-bis-1245-in-raum-v3}
 
 ### David-Elias Künstle
 

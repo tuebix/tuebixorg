@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/adrian-reber-container-migration-using-criu-and-lxc/
+url: /2016/programm/adrian-reber-container-migration-using-criu-and-lxc/
 weight:
 menu:
 ---
 ## Container Migration using CRIU and LXC
 
-### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 in Raum V2 {#-1300-bis-1330-in-raum-v2}
 
 ### Adrian Reber
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/90-100-open-source-full-stack-cluster-management-with-qlustar/
+url: /2024/programm/90-100-open-source-full-stack-cluster-management-with-qlustar/
 weight:
 menu:
 ---
 ## 100% Open Source Full Stack Cluster Management with Qlustar
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:50 in Raum V1 (F119)
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:50 in Raum V1 (F119) {#-1500-bis-1550-in-raum-v1-f119}
 
 ### Roland Fehrenbacher
 

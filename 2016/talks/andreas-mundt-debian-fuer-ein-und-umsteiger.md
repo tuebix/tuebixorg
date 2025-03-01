@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/andreas-mundt-debian-fuer-ein-und-umsteiger/
+url: /2016/programm/andreas-mundt-debian-fuer-ein-und-umsteiger/
 weight:
 menu:
 ---
 ## Debian für Ein- und Umsteiger
 
-### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 14:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 14:00 in Raum V1 {#-1300-bis-1400-in-raum-v1}
 
 ### Andreas Mundt
 

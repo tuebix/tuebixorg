@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/stefan-baur-x2go-thin-client-edition-tce-open-source-als-mittler-zwischen-den-welten/
+url: /2018/programm/stefan-baur-x2go-thin-client-edition-tce-open-source-als-mittler-zwischen-den-welten/
 weight:
 menu:
 ---
 ## X2Go-ThinClientEdition (TCE) - Open Source als Mittler zwischen den Welten
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V2 {#-1200-bis-1250-in-raum-v2}
 
 ### Stefan Baur
 

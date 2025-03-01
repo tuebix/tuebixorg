@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/cornelius-koelbel-mehr-faktor-authentifizierung-nicht-nur-fuer-die-eigene-cloud/
+url: /2017/programm/cornelius-koelbel-mehr-faktor-authentifizierung-nicht-nur-fuer-die-eigene-cloud/
 weight:
 menu:
 ---
 ## Mehr-Faktor-Authentifizierung nicht nur für die eigene Cloud
 
-### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 14:00 in Raum W3
+### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 14:00 in Raum W3 {#-1200-bis-1400-in-raum-w3}
 
 ### Cornelius Kölbel
 

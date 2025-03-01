@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/rainer-grimm-c++20-die-revolution-geht-weiter/
+url: /2019/programm/rainer-grimm-c++20-die-revolution-geht-weiter/
 weight:
 menu:
 ---
 ## C++20 - Die Revolution geht weiter
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum V2 {#-1600-bis-1650-in-raum-v2}
 
 ### Rainer Grimm
 

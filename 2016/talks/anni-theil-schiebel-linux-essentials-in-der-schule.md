@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/anni-theil-schiebel-linux-essentials-in-der-schule/
+url: /2016/programm/anni-theil-schiebel-linux-essentials-in-der-schule/
 weight:
 menu:
 ---
 ## Linux Essentials in der Schule
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:25 bis 13:30 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:25 bis 13:30 in Raum V3 {#-1325-bis-1330-in-raum-v3}
 
 ### Anni Theil-Schiebel
 

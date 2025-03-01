@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/sven-guckes-elimar-riesebieter-neomutt/
+url: /2018/programm/sven-guckes-elimar-riesebieter-neomutt/
 weight:
 menu:
 ---
 ## Neomutt - der neue Mailer
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:50 in Raum V1 {#-1400-bis-1450-in-raum-v1}
 
 ### Sven Guckes, Elimar Riesebieter
 

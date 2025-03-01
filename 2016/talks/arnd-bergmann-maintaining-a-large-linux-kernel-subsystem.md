@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/arnd-bergmann-maintaining-a-large-linux-kernel-subsystem/
+url: /2016/programm/arnd-bergmann-maintaining-a-large-linux-kernel-subsystem/
 weight:
 menu:
 ---
 ## Maintaining a large Linux kernel subsystem
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V1 {#-1100-bis-1200-in-raum-v1}
 
 ### Arnd Bergmann
 

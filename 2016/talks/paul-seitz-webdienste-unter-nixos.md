@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2016/programm/paul-seitz-webdienste-unter-nixos/
+url: /2016/programm/paul-seitz-webdienste-unter-nixos/
 weight:
 menu:
 ---
 ## Webdienste unter NixOS
 
-### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W1 {#-1600-bis-1800-in-raum-w1}
 
 ### Paul Seitz
 

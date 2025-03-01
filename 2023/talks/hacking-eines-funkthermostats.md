@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/hacking-eines-funkthermostats/
+url: /2023/programm/hacking-eines-funkthermostats/
 weight:
 menu:
 ---
 ## Hacking eines Funkthermostats
 
-### <img height = "32" src="../../../images/talk.svg"> 14:30 bis 14:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 14:30 bis 14:50 in Raum V3 {#-1430-bis-1450-in-raum-v3}
 
 ### Gerhard Klostermeier
 

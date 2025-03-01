@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/7-lpi-exam-701-devops-tools-engineer/
+url: /2023/programm/7-lpi-exam-701-devops-tools-engineer/
 weight:
 menu:
 ---
 ## LPI Exam 701: DevOps Tools Engineer
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:20 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:20 in Raum V4 {#-1200-bis-1220-in-raum-v4}
 
 ### Werner Heuser
 

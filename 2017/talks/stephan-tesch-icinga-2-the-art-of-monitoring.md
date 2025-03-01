@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/stephan-tesch-icinga-2-the-art-of-monitoring/
+url: /2017/programm/stephan-tesch-icinga-2-the-art-of-monitoring/
 weight:
 menu:
 ---
 ## Icinga 2 - The Art of Monitoring
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:30 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:30 in Raum V4 {#-1000-bis-1030-in-raum-v4}
 
 ### Stephan Tesch
 

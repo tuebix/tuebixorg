@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/daniel-kulesz-indieweb-grundlagen-und-erste-schritte/
+url: /2019/programm/daniel-kulesz-indieweb-grundlagen-und-erste-schritte/
 weight:
 menu:
 ---
 ## IndieWeb - Grundlagen und erste Schritte
 
-### <img height = "32" src="../../../images/lightning.svg"> 15:15 bis 15:20 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:15 bis 15:20 in Raum V3 {#-1515-bis-1520-in-raum-v3}
 
 ### Daniel Kulesz
 

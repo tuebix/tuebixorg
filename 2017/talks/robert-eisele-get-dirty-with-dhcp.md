@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/robert-eisele-get-dirty-with-dhcp/
+url: /2017/programm/robert-eisele-get-dirty-with-dhcp/
 weight:
 menu:
 ---
 ## Server schreiben? Das kann doch jeder!
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:55 bis 14:00 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:55 bis 14:00 in Raum V3 {#-1355-bis-1400-in-raum-v3}
 
 ### Robert Eisele
 

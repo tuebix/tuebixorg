@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/daniel-kraft-linux-command-line-interface-trick-show/
+url: /2019/programm/daniel-kraft-linux-command-line-interface-trick-show/
 weight:
 menu:
 ---
 ## Linux Command Line Interface Trick Show
 
-### <img height = "32" src="../../../images/lightning.svg"> 15:20 bis 15:25 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:20 bis 15:25 in Raum V3 {#-1520-bis-1525-in-raum-v3}
 
 ### Daniel Kraft
 

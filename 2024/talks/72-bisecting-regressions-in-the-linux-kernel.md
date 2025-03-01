@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2024/programm/72-bisecting-regressions-in-the-linux-kernel/
+url: /2024/programm/72-bisecting-regressions-in-the-linux-kernel/
 weight:
 menu:
 ---
 ## Bisecting Regressions in the Linux Kernel
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:20 in Raum V1 (F119)
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:20 in Raum V1 (F119) {#-1000-bis-1020-in-raum-v1-f119}
 
 ### Christian Heusel
 

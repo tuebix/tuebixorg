@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/david-haaga-javascript-liebt-dich/
+url: /2017/programm/david-haaga-javascript-liebt-dich/
 weight:
 menu:
 ---
 ## JavaScript liebt Dich
 
-### <img height = "32" src="../../../images/lightning.svg"> 13:30 bis 13:35 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 13:30 bis 13:35 in Raum V3 {#-1330-bis-1335-in-raum-v3}
 
 ### David Haaga
 

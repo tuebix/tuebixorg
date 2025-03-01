@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/johannes-schirm-fremdsprachen-lernen-auf-linux/
+url: /2019/programm/johannes-schirm-fremdsprachen-lernen-auf-linux/
 weight:
 menu:
 ---
 ## Fremdsprachen Lernen auf Linux
 
-### <img height = "32" src="../../../images/lightning.svg"> 16:05 bis 16:10 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 16:05 bis 16:10 in Raum V3 {#-1605-bis-1610-in-raum-v3}
 
 ### Johannes Schirm
 

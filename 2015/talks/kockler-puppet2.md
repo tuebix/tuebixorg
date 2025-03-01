@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/kockler-puppet2/
+url: /2015/programm/kockler-puppet2/
 weight: 
 menu:
 ---
 ## Puppet II: Strukturierte Puppet-Umgebung {#puppetiistrukturiertepuppet-umgebung}
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V2 {#-1400-bis-1500-in-raum-v2}
 
 ### Torsten Kockler {#torstenkockler}
 

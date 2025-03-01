@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/justin-humm-web-1.0-fuer-hipster/
+url: /2017/programm/justin-humm-web-1.0-fuer-hipster/
 weight:
 menu:
 ---
 ## Web 1.0 für Hipster
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:30 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:30 in Raum V3 {#-1600-bis-1630-in-raum-v3}
 
 ### Justin Humm
 

@@ -1,14 +1,14 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/hrenka-python/
+url: /2015/programm/hrenka-python/
 weight: 
 menu:
 ---
 
 ## Einführung in SciPy und SymPy mit IPython {#einführunginscipyundsympymitipython}
 
-### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W1 {#-1600-bis-1800-in-raum-w1}
 
 ### Peter Hrenka {#peterhrenka}
 

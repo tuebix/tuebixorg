@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/45-linux-containers-for-hpc-2023-update/
+url: /2023/programm/45-linux-containers-for-hpc-2023-update/
 weight:
 menu:
 ---
 ## Linux Containers for HPC - 2023 Update
 
-### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:50 in Raum V2 {#-1300-bis-1350-in-raum-v2}
 
 ### Holger Gantikow
 

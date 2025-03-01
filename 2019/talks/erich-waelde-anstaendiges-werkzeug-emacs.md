@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/erich-waelde-anstaendiges-werkzeug-emacs/
+url: /2019/programm/erich-waelde-anstaendiges-werkzeug-emacs/
 weight:
 menu:
 ---
 ## Anständiges Werkzeug: emacs
 
-### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 13:50 in Raum W2
+### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 13:50 in Raum W2 {#-1200-bis-1350-in-raum-w2}
 
 ### Erich Wälde
 

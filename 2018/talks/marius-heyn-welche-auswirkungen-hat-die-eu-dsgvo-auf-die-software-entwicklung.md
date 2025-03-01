@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/marius-heyn-welche-auswirkungen-hat-die-eu-dsgvo-auf-die-software-entwicklung/
+url: /2018/programm/marius-heyn-welche-auswirkungen-hat-die-eu-dsgvo-auf-die-software-entwicklung/
 weight:
 menu:
 ---
 ## Welche Auswirkungen hat die EU-DSGVO auf die Software-Entwicklung
 
-### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 16:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 16:50 in Raum V3 {#-1630-bis-1650-in-raum-v3}
 
 ### Marius Heyn
 

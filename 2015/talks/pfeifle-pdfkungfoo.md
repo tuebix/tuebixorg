@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/pfeifle-pdfkungfoo/
+url: /2015/programm/pfeifle-pdfkungfoo/
 weight: 
 menu:
 ---
 ## PDF-KungFoo mit Ghostscript & Co. {#pdf-kungfoomitghostscriptco}
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 17:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 17:00 in Raum V4 {#-1600-bis-1700-in-raum-v4}
 
 ### Kurt Pfeifle {#kurtpfeifle}
 

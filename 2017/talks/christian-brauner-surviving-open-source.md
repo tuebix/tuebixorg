@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/christian-brauner-surviving-open-source/
+url: /2017/programm/christian-brauner-surviving-open-source/
 weight:
 menu:
 ---
 ## Surviving Open Source
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V1 {#-1400-bis-1500-in-raum-v1}
 
 ### Christian Brauner
 

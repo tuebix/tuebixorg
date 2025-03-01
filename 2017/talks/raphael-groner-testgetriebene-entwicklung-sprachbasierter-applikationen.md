@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/raphael-groner-testgetriebene-entwicklung-sprachbasierter-applikationen/
+url: /2017/programm/raphael-groner-testgetriebene-entwicklung-sprachbasierter-applikationen/
 weight:
 menu:
 ---
 ## Testgetriebene Entwicklung sprachbasierter Applikationen
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:30 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:30 in Raum V3 {#-1700-bis-1730-in-raum-v3}
 
 ### Raphael Groner
 

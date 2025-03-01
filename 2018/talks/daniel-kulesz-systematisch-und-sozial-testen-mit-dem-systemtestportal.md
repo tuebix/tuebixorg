@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/daniel-kulesz-systematisch-und-sozial-testen-mit-dem-systemtestportal/
+url: /2018/programm/daniel-kulesz-systematisch-und-sozial-testen-mit-dem-systemtestportal/
 weight:
 menu:
 ---
 ## Systematisch und sozial testen - mit dem SystemTestPortal
 
-### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 15:50 in Raum W1
+### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 15:50 in Raum W1 {#-1400-bis-1550-in-raum-w1}
 
 ### Daniel Kulesz, Fabio Schmidberger, Jonas Morela, Niklas Klammhoff {#danielkulesz-fabioschmidberger-jonasmorela-niklasklammhoff}
 

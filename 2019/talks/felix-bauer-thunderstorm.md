@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/felix-bauer-thunderstorm/
+url: /2019/programm/felix-bauer-thunderstorm/
 weight:
 menu:
 ---
 ## Thunderstorm
 
-### <img height = "32" src="../../../images/lightning.svg"> 16:45 bis 16:50 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 16:45 bis 16:50 in Raum V3 {#-1645-bis-1650-in-raum-v3}
 
 ### Felix Bauer
 

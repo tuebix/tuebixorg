@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/matthias-kirschner-unterstuetzt-nicht-it-organisationen/
+url: /2019/programm/matthias-kirschner-unterstuetzt-nicht-it-organisationen/
 weight:
 menu:
 ---
 ## Unterstützt Nicht-IT-Organisationen!
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:40 bis 14:45 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:40 bis 14:45 in Raum V3 {#-1440-bis-1445-in-raum-v3}
 
 ### Matthias Kirschner
 

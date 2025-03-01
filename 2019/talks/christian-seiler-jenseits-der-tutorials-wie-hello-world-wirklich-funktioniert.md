@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/christian-seiler-jenseits-der-tutorials-wie-hello-world-wirklich-funktioniert/
+url: /2019/programm/christian-seiler-jenseits-der-tutorials-wie-hello-world-wirklich-funktioniert/
 weight:
 menu:
 ---
 ## Jenseits der Tutorials: Wie "Hello World" wirklich funktioniert
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:50 in Raum V2
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:50 in Raum V2 {#-1500-bis-1550-in-raum-v2}
 
 ### Christian Seiler
 

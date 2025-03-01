@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/justin-humm-poster-design-in-tmux/
+url: /2017/programm/justin-humm-poster-design-in-tmux/
 weight:
 menu:
 ---
 ## Poster Design in tmux
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:45 bis 14:50 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:45 bis 14:50 in Raum V3 {#-1445-bis-1450-in-raum-v3}
 
 ### Justin Humm
 

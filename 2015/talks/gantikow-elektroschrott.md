@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/gantikow-elektroschrott/
+url: /2015/programm/gantikow-elektroschrott/
 weight: 
 menu:
 ---
 ## Phoenix statt Elektroschrott - Neues Leben für "alte" Mobilgeräte {#phoenixstattelektroschrott-neueslebenfüraltemobilgeräte}
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V4
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V4 {#-1700-bis-1800-in-raum-v4}
 
 ### Holger Gantikow {#holgergantikow}
 

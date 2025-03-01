@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/holger-gantikow-linux-containers-for-hpc-container-technology-engine-architecture-101/
+url: /2019/programm/holger-gantikow-linux-containers-for-hpc-container-technology-engine-architecture-101/
 weight:
 menu:
 ---
 ## Linux Containers for HPC - Container Technology/Engine Architecture 101
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:50 in Raum V1 {#-1500-bis-1550-in-raum-v1}
 
 ### Holger Gantikow
 

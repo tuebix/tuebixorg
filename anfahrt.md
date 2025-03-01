@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Anfahrt
-permalink: /anfahrt/
+url: /anfahrt/
 weight: 49
 menu: main
 ---

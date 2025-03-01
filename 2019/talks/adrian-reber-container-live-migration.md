@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/adrian-reber-container-live-migration/
+url: /2019/programm/adrian-reber-container-live-migration/
 weight:
 menu:
 ---
 ## Container Live Migration
 
-### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 17:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 17:50 in Raum V1 {#-1730-bis-1750-in-raum-v1}
 
 ### Adrian Reber
 

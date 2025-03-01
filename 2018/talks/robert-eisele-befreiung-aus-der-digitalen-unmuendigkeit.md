@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/robert-eisele-befreiung-aus-der-digitalen-unmuendigkeit/
+url: /2018/programm/robert-eisele-befreiung-aus-der-digitalen-unmuendigkeit/
 weight:
 menu:
 ---
 ## Befreiung aus der digitalen Unmündigkeit
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum V1 {#-1600-bis-1650-in-raum-v1}
 
 ### Robert Eisele
 

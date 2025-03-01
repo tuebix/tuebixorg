@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/99-ki-macht-schule/
+url: /2023/programm/99-ki-macht-schule/
 weight:
 menu:
 ---
 ## KI macht Schule
 
-### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 16:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 16:50 in Raum V3 {#-1630-bis-1650-in-raum-v3}
 
 ### Steffen Schneider & Auguste Schulz
 

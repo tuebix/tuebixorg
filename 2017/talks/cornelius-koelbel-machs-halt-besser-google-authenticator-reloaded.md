@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2017/programm/cornelius-koelbel-machs-halt-besser-google-authenticator-reloaded/
+url: /2017/programm/cornelius-koelbel-machs-halt-besser-google-authenticator-reloaded/
 weight:
 menu:
 ---
 ## Mach's halt besser - Google Authenticator reloaded
 
-### <img height = "32" src="../../../images/lightning.svg"> 14:35 bis 14:40 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 14:35 bis 14:40 in Raum V3 {#-1435-bis-1440-in-raum-v3}
 
 ### Cornelius Kölbel
 

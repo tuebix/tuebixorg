@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2015/programm/kuestner_strohmaier-wueste_welle/
+url: /2015/programm/kuestner_strohmaier-wueste_welle/
 weight: 
 menu:
 ---
 ## Open Source Software beim Freien Radio Wüste Welle {#opensourcesoftwarebeimfreienradiowüstewelle}
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:30 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:30 in Raum V3 {#-1500-bis-1530-in-raum-v3}
 
 ### Andreas Küstner, Friedrich Strohmaier {#andreasküstnerfriedrichstrohmaier}
 

@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2023/programm/18-101-coole-kommandozeilen-werkzeuge/
+url: /2023/programm/18-101-coole-kommandozeilen-werkzeuge/
 weight:
 menu:
 ---
 ## 101 coole Kommandozeilen-Werkzeuge
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:50 in Raum V3
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:50 in Raum V3 {#-1700-bis-1750-in-raum-v3}
 
 ### Matthias Beyer
 

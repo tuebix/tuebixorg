@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2019/programm/john-boe-will-the-humane-tech-movement-rescue-human-kind/
+url: /2019/programm/john-boe-will-the-humane-tech-movement-rescue-human-kind/
 weight:
 menu:
 ---
 ## Will the humane tech movement rescue human kind(ness)?
 
-### <img height = "32" src="../../../images/lightning.svg"> 15:30 bis 15:35 in Raum V3
+### <img height = "32" src="../../../images/lightning.svg"> 15:30 bis 15:35 in Raum V3 {#-1530-bis-1535-in-raum-v3}
 
 ### John Boe
 

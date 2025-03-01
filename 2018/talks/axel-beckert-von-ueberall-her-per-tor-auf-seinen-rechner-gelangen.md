@@ -1,13 +1,13 @@
 ---
 layout: talk
 title:
-permalink: /2018/programm/axel-beckert-von-ueberall-her-per-tor-auf-seinen-rechner-gelangen/
+url: /2018/programm/axel-beckert-von-ueberall-her-per-tor-auf-seinen-rechner-gelangen/
 weight:
 menu:
 ---
 ## Von überall her per Tor auf seinen Rechner gelangen
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V1
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V1 {#-1200-bis-1250-in-raum-v1}
 
 ### Axel Beckert
 
