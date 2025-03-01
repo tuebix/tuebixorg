@@ -11,7 +11,7 @@ In diesen Gebäuden ist das <a href="https://www.wsi.uni-tuebingen.de" target="_
 
 Mit der Buslinie 2 <a href="https://www.swtue.de/abfahrt/?halt=100005" target="_blank">ab Hauptbahnhof Tübingen</a> in Richtung "Sand - Waldhäuser Ost" bis Haltestelle "Sand Drosselweg" (samstags <a href="https://www.swtue.de/tuebus/fahrgastinformationen/ticketfreier-samstag-im-tuebus.html">kostenlos</a>).
 
-Parkplätze gibt es in dem großen Hof hinter dem Gebäude Sand 13 bzw. 14 (48°32'06.2"N 9°04'19.9"E).
+Parkplätze gibt es in dem großen Hof hinter dem Gebäude Sand 13 bzw. 14 (48°32´06.2″N 9°04´19.9″E).
 
 **Adresse**: `Sand 14, 72076 Tübingen, Germany`
 

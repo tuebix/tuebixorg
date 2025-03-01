@@ -18,8 +18,8 @@ Selbst ein nicht mehr startendes System kann innerhalb kürzester Zeit wieder he
 Dies zeige ich live, also am "lebenden Objekt"!
 
 Sehen Sie, dass Manjaro auch auf sehr günstiger ARM-Hardware lauffähig ist.  
-Selbst auf dem Pinebook 11,6" läuft Manjaro in den Editionen KDE, LXQt und i3.  
-Sofern es bis dahin schon verfügbar ist, stelle ich erstmals das Pinebook Pro (14" und leistungsstärkere Hardware) vor.
+Selbst auf dem Pinebook 11,6″ läuft Manjaro in den Editionen KDE, LXQt und i3.  
+Sofern es bis dahin schon verfügbar ist, stelle ich erstmals das Pinebook Pro (14″ und leistungsstärkere Hardware) vor.
 
 ### Vorwissen
 
