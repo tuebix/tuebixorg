@@ -5,11 +5,11 @@ permalink: /2015/programm/koenig-tagesabschluss/
 weight: 
 menu:
 ---
-## Haralds&nbsp;Tagesabschluss
+## Haralds Tagesabschluss {#haraldstagesabschluss}
 
 ### <img height = "32" src="../../../images/talk.svg"> 18:30 bis 19:30 in Raum V1
 
-### Harald&nbsp;König
+### Harald König {#haraldkönig}
 
 Überraschung...
 

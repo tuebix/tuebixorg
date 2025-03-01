@@ -5,11 +5,11 @@ permalink: /2015/programm/giesen-seafile/
 weight: 
 menu:
 ---
-## Seafile&nbsp;als&nbsp;Dropbox-Alternative
+## Seafile als Dropbox-Alternative {#seafilealsdropbox-alternative}
 
 ### <img height = "32" src="../../../images/lightning.svg"> 13:00 bis 13:10 in Raum V3
 
-### Gregor&nbsp;Giesen
+### Gregor Giesen {#gregorgiesen}
 
 - Kurze Erläuterung der Architektur und Features
 - Kurzdemo

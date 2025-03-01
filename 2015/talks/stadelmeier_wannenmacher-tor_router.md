@@ -9,7 +9,7 @@ menu:
 
 ### <img height = "32" src="../../../images/lightning.svg"> 12:20 bis 12:30 in Raum V3
 
-### Andreas&nbsp;Stadelmeier,&nbsp;Fabian&nbsp;Wannenmacher
+### Andreas Stadelmeier, Fabian Wannenmacher {#andreasstadelmeierfabianwannenmacher}
 
 Wir haben einen Heimrouter so präpariert, dass er automatisch ein WLAN-
 Netzwerk aufspannt, dass den Internetverkehr direkt über das

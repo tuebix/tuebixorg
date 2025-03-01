@@ -5,11 +5,11 @@ permalink: /2015/programm/krug-libreoffice/
 weight: 
 menu:
 ---
-## LibreOffice&nbsp;Overkill
+## LibreOffice Overkill {#libreofficeoverkill}
 
 ### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W2
 
-### Stefan&nbsp;Krug
+### Stefan Krug {#stefankrug}
 
 Der Workshop bietet Dir zwei Themen zur Auswahl. Durch eine Abstimmung in der Veranstaltung wird bestimmt, welches Thema bearbeitet wird:
 

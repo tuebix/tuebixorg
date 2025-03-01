@@ -9,7 +9,7 @@ menu:
 
 ### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W3
 
-### Prof.&nbsp;Dipl.-Ing.&nbsp;Klaus&nbsp;Knopper
+### Prof. Dipl.-Ing. Klaus Knopper {#profdipl-ingklausknopper}
 
 OpenSCAD ist ein "wenig-interaktives" 3D Design-Programm für druckbare 3D-Modelle, die dank einer einfach zu erlernende Programmiersprache selbst von zeichnerisch eher unbegabten Personen in kurzer Zeit selbstständig erfolgreich erstellt werden können.
  

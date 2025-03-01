@@ -5,11 +5,11 @@ permalink: /2015/programm/seitz-nixos/
 weight: 
 menu:
 ---
-## Was&nbsp;ist&nbsp;NixOS?
+## Was ist NixOS? {#wasistnixos}
 
 ### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V2
 
-### Paul&nbsp;Seitz
+### Paul Seitz {#paulseitz}
 
 - Einführung in die Vorteile/Nachteile von NixOS
 - Einführung in die Nix Programmiersprache

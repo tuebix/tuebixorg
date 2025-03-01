@@ -5,11 +5,11 @@ permalink: /2015/programm/pfeifle-pandoc/
 weight: 
 menu:
 ---
-## Dokumenten-KungFoo mit&nbsp;Pandoc,&nbsp;Markdown&nbsp;&&nbsp;Co.
+## Dokumenten-KungFoo mit Pandoc, Markdown & Co. {#dokumenten-kungfoo-mitpandocmarkdownco}
 
 ### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 14:00 in Raum V4
 
-### Kurt&nbsp;Pfeifle&nbsp;
+### Kurt Pfeifle {#kurtpfeifle}
 
 Jeder Software-Entwickler sollte sich darum kümmern, dass seine
 Programme durch eine ordentliche Dokumentation abgedeckt sind. Aber viele

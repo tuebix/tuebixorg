@@ -5,11 +5,11 @@ permalink: /2015/programm/hofmann-surfen/
 weight: 
 menu:
 ---
-## Schneller&nbsp;und&nbsp;sicherer&nbsp;Surfen&nbsp;im&nbsp;Internet
+## Schneller und sicherer Surfen im Internet {#schnellerundsicherersurfeniminternet}
 
 ### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 17:00 in Raum V2
 
-### Frank&nbsp;Hofmann
+### Frank Hofmann {#frankhofmann}
 
 Baut sich eine Webseite in ihrem Webbrowser nur sehr langsam auf, ist es
 einfach, mit dem Finger nur auf die Bandbreite ihrer Netzwerkverbindung

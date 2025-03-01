@@ -6,11 +6,11 @@ weight:
 menu:
 ---
 
-## Einführung&nbsp;in&nbsp;SciPy&nbsp;und&nbsp;SymPy&nbsp;mit&nbsp;IPython
+## Einführung in SciPy und SymPy mit IPython {#einführunginscipyundsympymitipython}
 
 ### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W1
 
-### Peter&nbsp;Hrenka
+### Peter Hrenka {#peterhrenka}
 
 Python erfreut sich im wissenschaftlichen Umfeld einer großen Beliebheit.
 Obwohl Python als solches nicht unbedingt durch hohe Geschwindigkeit glänzt, lassen sich über die C-Schittstelle speicher- und laufzeiteffiziente Algorithmen einbinden.

@@ -5,11 +5,11 @@ permalink: /2015/programm/weissensel-fish/
 weight: 
 menu:
 ---
-## fish&nbsp;-&nbsp;Die&nbsp;"friendly&nbsp;interactive&nbsp;shell"
+## fish - Die "friendly interactive shell" {#fish-diefriendlyinteractiveshell}
 
 ### <img height = "32" src="../../../images/talk.svg"> 10:30 bis 11:00 in Raum V3
 
-### Jonas&nbsp;Weissensel
+### Jonas Weissensel {#jonasweissensel}
 
 Ich bin begeisterter Nutzer der "fish", einer Kommandozeilen-Shell, die imho eine bessere out-of-the-box Nutzererfahrung bietet als die bash.
 

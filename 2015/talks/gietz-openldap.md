@@ -6,11 +6,11 @@ weight:
 menu:
 ---
 
-## Einführung&nbsp;in&nbsp;LDAP&nbsp;und&nbsp;OpenLDAP
+## Einführung in LDAP und OpenLDAP {#einführunginldapundopenldap}
 
 ### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 14:00 in Raum V2
 
-### Peter&nbsp;Gietz
+### Peter Gietz {#petergietz}
 
 OpenLDAP ist eine hochskalierbare und hochperformante standardkonforme Open-Source-Implementierung des IETF-Protokolls LDAP.
 

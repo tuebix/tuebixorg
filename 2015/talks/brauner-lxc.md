@@ -5,11 +5,11 @@ permalink: /2015/programm/brauner-lxc/
 weight: 
 menu:
 ---
-## Operating-system-level&nbsp;virtualization
+## Operating-system-level virtualization {#operating-system-levelvirtualization}
 
 ### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V1
 
-### Christian&nbsp;Brauner
+### Christian Brauner {#christianbrauner}
 
 Hands-on Einführung in operating-system-level virtualization.
 

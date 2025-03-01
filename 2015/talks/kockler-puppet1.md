@@ -5,11 +5,11 @@ permalink: /2015/programm/kockler-puppet1/
 weight: 
 menu:
 ---
-## Puppet&nbsp;I:&nbsp;Zentrale&nbsp;Administration&nbsp;einer&nbsp;Server&nbsp;Infrastruktur
+## Puppet I: Zentrale Administration einer Server Infrastruktur {#puppetizentraleadministrationeinerserverinfrastruktur}
 
 ### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V2
 
-### Torsten&nbsp;Kockler
+### Torsten Kockler {#torstenkockler}
 
 Installation und Grundlagen von Puppet zum zentralen Administrieren einer Server Infrastruktur
 

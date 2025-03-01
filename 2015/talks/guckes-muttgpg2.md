@@ -5,11 +5,11 @@ permalink: /2015/programm/guckes-muttgpg2/
 weight: 
 menu:
 ---
-## mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email
+## mutt + gpg - Sichere Email {#muttgpg-sichereemail}
 
 ### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W1
 
-### Sven&nbsp;Guckes
+### Sven Guckes {#svenguckes}
 
 Jeder Teilnehmer soll Mutt und GPG ausprobieren können.
 Am Anfang logt sich jeder erstmal auf der lokalen Maschine ein.

@@ -5,11 +5,11 @@ permalink: /2015/programm/seidel-tcp_stealth/
 weight: 
 menu:
 ---
-## TCP&nbsp;Stealth&nbsp;-&nbsp;Port&nbsp;Knocking&nbsp;neu&nbsp;aufgelegt
+## TCP Stealth - Port Knocking neu aufgelegt {#tcpstealth-portknockingneuaufgelegt}
 
 ### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:30 in Raum V1
 
-### Dr.&nbsp;Udo&nbsp;Seidel
+### Dr. Udo Seidel {#drudoseidel}
 
 Portscans als Werkzeug zum Aufspüren verwundbarer Rechner sind ein alter Hut. Eine Möglichkeit den Bösewichten das Leben zu erschweren ist das sogenannte Port-Knocking. Die Diskussionen in der Vergangenheit waren meist kontrovers.
 "Sicherheit durch Verschleiern" ist für manche Experten überhaupt keine akzeptable Massnahme.

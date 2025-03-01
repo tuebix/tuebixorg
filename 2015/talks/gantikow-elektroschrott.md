@@ -5,11 +5,11 @@ permalink: /2015/programm/gantikow-elektroschrott/
 weight: 
 menu:
 ---
-## Phoenix&nbsp;statt&nbsp;Elektroschrott&nbsp;-&nbsp;Neues&nbsp;Leben&nbsp;für&nbsp;"alte"&nbsp;Mobilgeräte
+## Phoenix statt Elektroschrott - Neues Leben für "alte" Mobilgeräte {#phoenixstattelektroschrott-neueslebenfüraltemobilgeräte}
 
 ### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V4
 
-### Holger&nbsp;Gantikow
+### Holger Gantikow {#holgergantikow}
 
 Die Nutzungsdauer von Mobilgeräten zeichnet sich heutzutage durch eine kurze Halbwertszeit aus, sodass immer mehr eigentlich noch funktionstüchtige Smartphones und Tablets der vorletzten Generation ungenutzt verstauben.
 

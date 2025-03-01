@@ -5,11 +5,11 @@ permalink: /2015/programm/humm-wikipedia/
 weight: 
 menu:
 ---
-## Wikipedia&nbsp;visualisieren
+## Wikipedia visualisieren {#wikipediavisualisieren}
 
 ### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 13:40 in Raum V3
 
-### Justin&nbsp;Humm
+### Justin Humm {#justinhumm}
 
 Es ist bei fast 2 Millionen deutschsprachigen Artikeln schwer, sich einen Überblick über die Wikipedia zu schaffen, es fehlt ein Relevanzkriterium und eine Metrik auf der Menge der Artikel.
 Ich hab welche gefunden!

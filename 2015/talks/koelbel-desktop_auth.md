@@ -5,11 +5,11 @@ permalink: /2015/programm/koelbel-desktop_auth/
 weight: 
 menu:
 ---
-## Sicher&nbsp;und&nbsp;bequem
+## Sicher und bequem {#sicherundbequem}
 
 ### <img height = "32" src="../../../images/lightning.svg"> 12:50 bis 13:00 in Raum V3
 
-### Cornelius&nbsp;Kölbel
+### Cornelius Kölbel {#corneliuskölbel}
 
 Hier soll ein Konzept vorgestellt werden, wie sowohl die Bequemlichkeit gewährleistet aber auch die Sicherheit umgesetzt werden kann.
 Der Desktop soll zuverlässig und automatisch gesperrt werden.

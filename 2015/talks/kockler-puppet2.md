@@ -5,11 +5,11 @@ permalink: /2015/programm/kockler-puppet2/
 weight: 
 menu:
 ---
-## Puppet&nbsp;II:&nbsp;Strukturierte&nbsp;Puppet-Umgebung
+## Puppet II: Strukturierte Puppet-Umgebung {#puppetiistrukturiertepuppet-umgebung}
 
 ### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V2
 
-### Torsten&nbsp;Kockler
+### Torsten Kockler {#torstenkockler}
 
 Fortgeschrittene Puppet Administration mit Hiera, Hiera eyaml und Rollen
 

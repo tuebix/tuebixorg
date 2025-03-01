@@ -5,11 +5,11 @@ permalink: /2015/programm/zimmer-vim/
 weight: 
 menu:
 ---
-## Vim&nbsp;für&nbsp;Nicht-Mehr-Beginner&nbsp;und&nbsp;Noch-Nicht-Fortgeschrittene
+## Vim für Nicht-Mehr-Beginner und Noch-Nicht-Fortgeschrittene {#vimfürnicht-mehr-beginnerundnoch-nicht-fortgeschrittene}
 
 ### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W3
 
-### Toni&nbsp;Zimmer
+### Toni Zimmer {#tonizimmer}
 
 - ggf. kurze Auffrischung des vimtutors
 - Erläuterung des Hilfesystems

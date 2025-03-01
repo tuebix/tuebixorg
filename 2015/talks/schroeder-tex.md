@@ -5,11 +5,11 @@ permalink: /2015/programm/schroeder-tex/
 weight: 
 menu:
 ---
-## TeX&nbsp;im&nbsp;3.&nbsp;Jahrtausend
+## TeX im 3. Jahrtausend {#texim3jahrtausend}
 
 ### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 11:00 in Raum V4
 
-### Martin&nbsp;Schröder
+### Martin Schröder {#martinschröder}
 
 TeX: Wo kommen wir her, so sind wir, wo geht's hin?
 

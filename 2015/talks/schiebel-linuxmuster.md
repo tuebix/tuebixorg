@@ -5,11 +5,11 @@ permalink: /2015/programm/schiebel-linuxmuster/
 weight: 
 menu:
 ---
-## Schulnetz&nbsp;-&nbsp;linuxmuster.net
+## Schulnetz - linuxmuster.net {#schulnetz-linuxmusternet}
 
 ### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum V1
 
-### Frank&nbsp;Schiebel
+### Frank Schiebel {#frankschiebel}
 
 linuxmuster.net ist eine umfassende Komplettlösung für den Betrieb schulischer Netzwerke.
 Serverseitig kommt Ubuntu zum Einsatz, der Betrieb der Arbeitsplatzrechner ist unter verschiendenen Windows Versionen und Linux möglich.

@@ -5,11 +5,11 @@ permalink: /2015/programm/klaeren-computermuseum/
 weight: 
 menu:
 ---
-## Das&nbsp;Computermuseum&nbsp;auf&nbsp;dem&nbsp;Sand
+## Das Computermuseum auf dem Sand {#dascomputermuseumaufdemsand}
 
 ### <img height = "32" src="../../../images/talk.svg"> 15:30 bis 16:00 in Raum V3
 
-### Prof.&nbsp;Dr.&nbsp;Herbert&nbsp;Klaeren
+### Prof. Dr. Herbert Klaeren {#profdrherbertklaeren}
 
 Das kleine Computermuseum des Wilhelm-Schickard-Instituts konzentriert sich auf zwei entscheidende Phasen in der Entwicklung der Computer:
 die seit den frühen 1960er Jahren vor allem von der Firma DEC vertriebenen Minirechner, die ohne aufwendige Klimaanlagen und spezielles Bedienungspersonal direkt im Labor und am Arbeitsplatz eingesetzt werden konnten und die ungefähr 10 Jahre später aufgekommenen „Heimcomputer” bzw. Personal Computer (PCs).

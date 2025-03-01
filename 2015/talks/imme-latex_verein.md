@@ -5,11 +5,11 @@ permalink: /2015/programm/imme-latex_verein/
 weight: 
 menu:
 ---
-## LaTeX&nbsp;für&nbsp;den&nbsp;Verein
+## LaTeX für den Verein {#latexfürdenverein}
 
 ### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:30 in Raum V4
 
-### Roland&nbsp;Imme
+### Roland Imme {#rolandimme}
 
 Wie kann ich mit LaTeX Dokumente für den Verein erstellen und verwalten?
 

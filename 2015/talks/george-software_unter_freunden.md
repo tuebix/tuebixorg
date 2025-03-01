@@ -5,11 +5,11 @@ permalink: /2015/programm/george-software_unter_freunden/
 weight: 
 menu:
 ---
-## Open&nbsp;Source&nbsp;ist&nbsp;Software&nbsp;unter&nbsp;Freunden
+## Open Source ist Software unter Freunden {#opensourceistsoftwareunterfreunden}
 
 ### <img height = "32" src="../../../images/lightning.svg"> 13:50 bis 14:00 in Raum V3
 
-### Dominik&nbsp;George
+### Dominik George {#dominikgeorge}
 
 Warum Kinder und Jugendliche eine Open Source-Community brauchen
 

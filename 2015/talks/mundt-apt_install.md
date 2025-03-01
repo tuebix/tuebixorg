@@ -5,11 +5,11 @@ permalink: /2015/programm/mundt-apt_install/
 weight: 
 menu:
 ---
-## apt&nbsp;install&nbsp;YOUR-NEIGHBORHOOD
+## apt install YOUR-NEIGHBORHOOD {#aptinstallyour-neighborhood}
 
 ### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V4
 
-### Andreas&nbsp;B.&nbsp;Mundt
+### Andreas B. Mundt {#andreasbmundt}
 
 Der Vortrag zeigt, wie man die Installation von Debian GNU/Linux
 automatisieren kann.  Benutzt wird dazu eine sogenannte "InstallBox".

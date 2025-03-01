@@ -6,11 +6,11 @@ weight:
 menu:
 ---
 
-## "Watt&nbsp;-&nbsp;wer&nbsp;bist&nbsp;Du&nbsp;denn?" Anonym&nbsp;im&nbsp;Internet&nbsp;bewegen&nbsp;mit&nbsp;Tails
+## "Watt - wer bist Du denn?" Anonym im Internet bewegen mit Tails {#watt-werbistdudenn-anonymiminternetbewegenmittails}
 
 ### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 13:00 in Raum LPIC 
 
-### Cornelius&nbsp;Kölbel
+### Cornelius Kölbel {#corneliuskölbel}
 
 <span style="font-weight: bold; color:#FF0000;">WICHTIG: Der Raum ist nicht leicht zu finden, daher bitte um 12:00 an den Info-Stand kommen, dann werden die Tails-Hörer zum Raum begleitet.</span>
 

@@ -5,11 +5,11 @@ permalink: /2015/programm/blechschmidt-python_schueler/
 weight: 
 menu:
 ---
-## Python-Programmierung für&nbsp;Schülerinnen&nbsp;und&nbsp;Schüler
+## Python-Programmierung für Schülerinnen und Schüler {#python-programmierung-fürschülerinnenundschüler}
 
 ### <img height = "32" src="../../../images/workshop.svg"> 14:00 bis 16:00 in Raum W3
 
-### Ingo&nbsp;Blechschmidt
+### Ingo Blechschmidt {#ingoblechschmidt}
 
 Python ist eine moderne Programmiersprache, mit der man zum Beispiel eigene Spiele und Webseiten erstellen kann. Im Workshop unternehmen wir gemeinsam erste Schritte in dieser Sprache.
 Es sind keinerlei Computer- oder Programmier-Vorkenntnisse nötig.

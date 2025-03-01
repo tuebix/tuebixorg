@@ -5,11 +5,11 @@ permalink: /2015/programm/reber-mirrorserver/
 weight: 
 menu:
 ---
-## Mirror&nbsp;Server&nbsp;Verwaltung
+## Mirror Server Verwaltung {#mirrorserververwaltung}
 
 ### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 14:00 in Raum V1
 
-### Adrian&nbsp;Reber
+### Adrian Reber {#adrianreber}
 
 Dieser Vortrag soll Details zum Mirror Server (ftp-stud.hs-esslingen.de) in Esslingen liefern.
 

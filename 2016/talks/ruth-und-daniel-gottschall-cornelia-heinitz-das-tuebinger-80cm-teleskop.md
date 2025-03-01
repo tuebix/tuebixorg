@@ -5,7 +5,7 @@ permalink: /2016/programm/ruth-und-daniel-gottschall-cornelia-heinitz-das-tuebin
 weight: 
 menu:
 ---
-## Das&nbsp;Tübinger&nbsp;80cm-Teleskop
+## Das Tübinger 80cm-Teleskop {#dastübinger80cm-teleskop}
 
 ### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:00 im Observatorium
 
@@ -15,7 +15,7 @@ menu:
 
 ### <img height = "32" src="../../../images/talk.svg"> 19:00 bis 19:30 im Observatorium
 
-### Ruth&nbsp;Gottschall&nbsp;und&nbsp;Daniel&nbsp;Gottschall,&nbsp;Cornelia&nbsp;Heinitz
+### Ruth Gottschall und Daniel Gottschall, Cornelia Heinitz {#ruthgottschallunddanielgottschallcorneliaheinitz}
 
 Der Blick über den Tellerrand ins All!
 

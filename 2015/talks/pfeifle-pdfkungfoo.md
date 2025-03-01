@@ -5,11 +5,11 @@ permalink: /2015/programm/pfeifle-pdfkungfoo/
 weight: 
 menu:
 ---
-## PDF-KungFoo&nbsp;mit&nbsp;Ghostscript&nbsp;&&nbsp;Co.
+## PDF-KungFoo mit Ghostscript & Co. {#pdf-kungfoomitghostscriptco}
 
 ### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 17:00 in Raum V4
 
-### Kurt&nbsp;Pfeifle&nbsp;
+### Kurt Pfeifle {#kurtpfeifle}
 
 PDF ist das am weitesten verbreitete Dokumenten-Format.
 Allerdings ist man als PC-Benutzer häufig mit seinem Latein am Ende,

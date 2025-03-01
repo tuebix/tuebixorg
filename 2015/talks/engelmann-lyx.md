@@ -5,11 +5,11 @@ permalink: /2015/programm/engelmann-lyx/
 weight: 
 menu:
 ---
-## Mit&nbsp;LyX&nbsp;Text&nbsp;verarbeiten
+## Mit LyX Text verarbeiten {#mitlyxtextverarbeiten}
 
 ### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:30 in Raum V4
 
-### Wolfgang&nbsp;Engelmann
+### Wolfgang Engelmann {#wolfgangengelmann}
 
 - Was bietet LyX?
 - Wie benutze ich LaTeX, ohne meinen Kopf mit Kommandos zuzumüllen?

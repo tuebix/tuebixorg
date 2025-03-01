@@ -5,11 +5,11 @@ permalink: /2015/programm/goetz-bigdata2/
 weight: 
 menu:
 ---
-## Big&nbsp;Data&nbsp;Analytics
+## Big Data Analytics {#bigdataanalytics}
 
 ### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V1
 
-### Thomas&nbsp;Götz
+### Thomas Götz {#thomasgötz}
 
 Im Anschluss an den <a href="http://www.tuebix.org/programm/flebbe-bigdata1">Vortrag von Olaf Flebbe</a> stelle ich exemplarisch vor, welche Fragestellungen mit einer Big Data Umgebung wie angegangen werden. Neben der direkten Auswertung in Hadoop zeige ich Open Source Software, die einem Datenanalysten helfen, solche Auswertungen durchzuführen.
 

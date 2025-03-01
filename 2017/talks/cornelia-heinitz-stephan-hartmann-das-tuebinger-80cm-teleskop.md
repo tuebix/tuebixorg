@@ -5,7 +5,7 @@ permalink: /2017/programm/cornelia-heinitz-stephan-hartmann-das-tuebinger-80cm-t
 weight: 
 menu:
 ---
-## Das&nbsp;Tübinger&nbsp;80cm-Teleskop
+## Das Tübinger 80cm-Teleskop {#dastübinger80cm-teleskop}
 
 ### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:30 im Observatorium
 
@@ -15,7 +15,7 @@ menu:
 
 ### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 18:00 im Observatorium
 
-### Cornelia&nbsp;Heinitz&nbsp;und&nbsp;Stephan&nbsp;Hartmann
+### Cornelia Heinitz und Stephan Hartmann {#corneliaheinitzundstephanhartmann}
 
 Der Blick über den Tellerrand ins All!
 

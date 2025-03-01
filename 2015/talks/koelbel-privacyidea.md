@@ -5,11 +5,11 @@ permalink: /2015/programm/koelbel-privacyidea/
 weight: 
 menu:
 ---
-## privacyIDEA&nbsp;-&nbsp;Zwei-Faktor-Authentisierung&nbsp;selber&nbsp;machen
+## privacyIDEA - Zwei-Faktor-Authentisierung selber machen {#privacyidea-zwei-faktor-authentisierungselbermachen}
 
 ### <img height = "32" src="../../../images/workshop.svg"> 16:00 bis 18:00 in Raum W2
 
-### Cornelius&nbsp;Kölbel
+### Cornelius Kölbel {#corneliuskölbel}
 
 privacyIDEA ist eine Open Source Lösung zur Authentisierung mit zwei Faktoren.
 

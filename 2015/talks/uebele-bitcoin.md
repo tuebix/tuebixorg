@@ -5,11 +5,11 @@ permalink: /2015/programm/uebele-bitcoin/
 weight: 
 menu:
 ---
-## Bitcoin&nbsp;-&nbsp;Eine&nbsp;dezentrale&nbsp;Währung
+## Bitcoin - Eine dezentrale Währung {#bitcoin-einedezentralewährung}
 
 ### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:30 in Raum V3
 
-### Peter&nbsp;Uebele
+### Peter Uebele {#peteruebele}
 
 Bitcoin ist eine dezentral organisierte und auf Kryptographie basierte Währung. Zu den Besonderheiten zählt beispielsweise, dass beim Bezahlen keine Zwischenhändler (wie z.B. Banken) nötig sind.
 

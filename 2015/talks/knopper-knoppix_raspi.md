@@ -5,11 +5,11 @@ permalink: /2015/programm/knopper-knoppix_raspi/
 weight: 
 menu:
 ---
-## Knoppix&nbsp;auf&nbsp;dem&nbsp;Raspberry&nbsp;Pi
+## Knoppix auf dem Raspberry Pi {#knoppixaufdemraspberrypi}
 
 ### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 15:00 in Raum V1
 
-### Prof.&nbsp;Dipl.-Ing.&nbsp;Klaus&nbsp;Knopper
+### Prof. Dipl.-Ing. Klaus Knopper {#profdipl-ingklausknopper}
 
 Knoppix (<a href="http://knopper.net/knoppix/" target="_blank">knopper.net/knoppix/</a>) ist als Live-System mit
 automatischer Hardware-Erkennung für Desktop-Rechner und Notebooks

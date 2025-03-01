@@ -5,11 +5,11 @@ permalink: /2015/programm/hofmann-lug_berlin/
 weight: 
 menu:
 ---
-## Unter&nbsp;einem&nbsp;Dach:&nbsp;lug.berlin
+## Unter einem Dach: lug.berlin {#untereinemdachlugberlin}
 
 ### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 13:00 in Raum V4
 
-### Frank&nbsp;Hofmann
+### Frank Hofmann {#frankhofmann}
 
 In der Metropolregion Berlin mit den Großstädten Berlin, Potsdam und Brandenburg existieren viele Linux User Groups (LUGs). Um eine bessere Vernetzung zwischen den LUGs zu erreichen, starteten 2008 regionale
 LUG-Treffen.

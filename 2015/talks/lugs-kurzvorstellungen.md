@@ -5,7 +5,7 @@ permalink: /2015/programm/lugs-kurzvorstellungen/
 weight: 
 menu:
 ---
-## Linux&nbsp;User&nbsp;Groups&nbsp;und&nbsp;Co&nbsp;stellen&nbsp;sich&nbsp;vor
+## Linux User Groups und Co stellen sich vor {#linuxusergroupsundcostellensichvor}
 
 ### <img height = "32" src="../../../images/lightning.svg"> 14:00 bis 15:00 in Raum V3
 

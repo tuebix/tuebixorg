@@ -5,11 +5,11 @@ permalink: /2015/programm/guckes-muttgpg1/
 weight: 
 menu:
 ---
-## mutt&nbsp;+&nbsp;gpg&nbsp;-&nbsp;Sichere&nbsp;Email
+## mutt + gpg - Sichere Email {#muttgpg-sichereemail}
 
 ### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 12:00 in Raum V2
 
-### Sven&nbsp;Guckes
+### Sven Guckes {#svenguckes}
 
 Ich zeige den mailer "mutt" und seine Schnittstelle zum Signieren + Verschlüsseln.
 

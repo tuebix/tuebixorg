@@ -5,11 +5,11 @@ permalink: /2015/programm/blechschmidt-haskell/
 weight: 
 menu:
 ---
-## Haskell,&nbsp;eine&nbsp;rein&nbsp;funktionale&nbsp;Programmiersprache
+## Haskell, eine rein funktionale Programmiersprache {#haskelleinereinfunktionaleprogrammiersprache}
 
 ### <img height = "32" src="../../../images/lightning.svg"> 12:00 bis 12:10 in Raum V3
 
-### Ingo&nbsp;Blechschmidt
+### Ingo Blechschmidt {#ingoblechschmidt}
 
 Was ist schneller als C++, prägnanter als Perl, regelmäßiger als Python,
 flexibler als Ruby, typisierter als C#, robuster als Java und hat

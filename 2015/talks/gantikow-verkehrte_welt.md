@@ -5,11 +5,11 @@ permalink: /2015/programm/gantikow-verkehrte_welt/
 weight: 
 menu:
 ---
-## Verkehrte&nbsp;Welt&nbsp;-&nbsp;Linux&nbsp;im&nbsp;High&nbsp;Performance&nbsp;Computing
+## Verkehrte Welt - Linux im High Performance Computing {#verkehrtewelt-linuximhighperformancecomputing}
 
 ### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 16:00 in Raum V1
 
-### Holger&nbsp;Gantikow
+### Holger Gantikow {#holgergantikow}
 
 Supercomputer, die für weit mehr als Wettersimulation eingesetzt werden, haben alle eines gemeinsam: sie werden fast ausschließlich durch Linux zum Fliegen gebracht.
 

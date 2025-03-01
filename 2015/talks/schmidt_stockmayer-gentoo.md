@@ -9,7 +9,7 @@ menu:
 
 ### <img height = "32" src="../../../images/workshop.svg"> 10:00 bis 12:00 in Raum W1
 
-### Mark&nbsp;Schmidt&nbsp;und&nbsp;Andreas&nbsp;Stockmayer
+### Mark Schmidt und Andreas Stockmayer {#markschmidtundandreasstockmayer}
 
 Gentoo ist eine eine Linux-Distribution, die sich an erfahrenere Linux-Benutzer richtet und diesen sehr viele Freiheiten bietet.
 Dies beeginnt bei der verwendeten Software, Diensten und endet beim Init-System und einem eigenen Kernel.

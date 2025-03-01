@@ -5,11 +5,11 @@ permalink: /2015/programm/schiele-aktuelles/
 weight: 
 menu:
 ---
-## Aktuelle&nbsp;Entwicklungen
+## Aktuelle Entwicklungen {#aktuelleentwicklungen}
 
 ### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 17:00 in Raum V3
 
-### Joachim&nbsp;Schiele
+### Joachim Schiele {#joachimschiele}
 
 Wir machen einen Streifzug durch die Entwicklungen der letzten Jahre und schauen an, was uns in naher Zukunft alles erwartet...
 

@@ -5,11 +5,11 @@ permalink: /2015/programm/genannt-sshkey_distribution/
 weight: 
 menu:
 ---
-## SSH&nbsp;Public&nbsp;Key&nbsp;Distribution&nbsp;-&nbsp;the&nbsp;smart&nbsp;way
+## SSH Public Key Distribution - the smart way {#sshpublickeydistribution-thesmartway}
 
 ### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:30 in Raum V3
 
-### Jonas&nbsp;Genannt
+### Jonas Genannt {#jonasgenannt}
 
 SSH Public Key Verwaltung ist immer ein spannendes Thema. Es gibt viele Möglichkeiten von ssh-copy-id, LDAP oder über eine eigene CA. Jedoch hat alles seine Probleme. Hier stelle ich ein relativ neues Projekt vor. Es wird versucht über eine Web Application eine Verwaltung von SSH Public Keys vorzunehmen, um mit Gruppen von Keys und Servern die Verwaltung zu vereinfachen.
 

@@ -5,11 +5,11 @@ permalink: /2015/programm/witte-scilab_xcos/
 weight: 
 menu:
 ---
-## Modellbildung&nbsp;mit&nbsp;Scilab/Xcos&nbsp;mit&nbsp;Beispielen&nbsp;aus&nbsp;der&nbsp;Biorhythmik
+## Modellbildung mit Scilab/Xcos mit Beispielen aus der Biorhythmik {#modellbildungmitscilabxcosmitbeispielenausderbiorhythmik}
 
 ### <img height = "32" src="../../../images/talk.svg"> 11:30 bis 12:00 in Raum V4
 
-### Karl-Heinz&nbsp;Witte
+### Karl-Heinz Witte {#karl-heinzwitte}
 
 * Einführung
 * Konstruktion eines einfachen Tiefpasses mit

@@ -5,11 +5,11 @@ permalink: /2015/programm/waelde-emacs/
 weight: 
 menu:
 ---
-## Anständiges&nbsp;Werkzeug:&nbsp;emacs
+## Anständiges Werkzeug: emacs {#anständigeswerkzeugemacs}
 
 ### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 14:00 in Raum W3
 
-### Erich&nbsp;Wälde
+### Erich Wälde {#erichwälde}
 
 Der Editor ist eines der wichtigsten Werkzeuge für alle, die Zeit am Rechner verbringen. Alte Hasen kennen "emacs". Emacs ist erweiterbar, man kann ihm neue Tricks beibringen. Daher kann emacs "alles außer Kaffee kochen", heißt es. Den Unwissenden möchte ich ein paar Fähigkeiten dieses Editors vorführen und zum Mitmachen animieren.
 

@@ -5,11 +5,11 @@ permalink: /2015/programm/franke-ruby/
 weight: 
 menu:
 ---
-## Ruby&nbsp;als&nbsp;Sed-&nbsp;und&nbsp;Awk-Ersatz
+## Ruby als Sed- und Awk-Ersatz {#rubyalssed-undawk-ersatz}
 
 ### <img height = "32" src="../../../images/lightning.svg"> 13:20 bis 13:30 in Raum V3
 
-### Knut&nbsp;Franke
+### Knut Franke {#knutfranke}
 
 Wie man aus Quoting-Hölle und Regexp-Dschungel entkommt.
 

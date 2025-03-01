@@ -5,11 +5,11 @@ permalink: /2015/programm/grimm-cpp_funktional/
 weight: 
 menu:
 ---
-## Funktionale&nbsp;Programmierung&nbsp;mit&nbsp;C++
+## Funktionale Programmierung mit C++ {#funktionaleprogrammierungmitc}
 
 ### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V3
 
-### Rainer&nbsp;Grimm
+### Rainer Grimm {#rainergrimm}
 
 C++ ist eine Multiparadigmen-Programmiersprache.
 Bei der Wahl seiner Mittel steht es dem Programmierer frei, strukturierte, prozedurale, objektorientierte, generische, generative oder auch funktionale Techniken einzusetzen.

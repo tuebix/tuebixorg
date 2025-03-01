@@ -5,11 +5,11 @@ permalink: /2015/programm/blechschmidt-wireshark/
 weight: 
 menu:
 ---
-## Netzwerksniffing&nbsp;mit&nbsp;Wireshark
+## Netzwerksniffing mit Wireshark {#netzwerksniffingmitwireshark}
 
 ### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 18:00 in Raum V2
 
-### Ingo&nbsp;Blechschmidt
+### Ingo Blechschmidt {#ingoblechschmidt}
 
 Wireshark ist ein freies Werkzeug, mit dem man aus- und eingehenden Netzwerkverkehr mitschneiden und analysieren kann.
 

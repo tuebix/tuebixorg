@@ -5,7 +5,7 @@ permalink: /2018/programm/thomas-rauch-das-tuebinger-80cm-teleskop/
 weight: 
 menu:
 ---
-## Das&nbsp;Tübinger&nbsp;80cm-Teleskop
+## Das Tübinger 80cm-Teleskop {#dastübinger80cm-teleskop}
 
 ### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:30 im Observatorium
 
@@ -15,7 +15,7 @@ menu:
 
 ### <img height = "32" src="../../../images/talk.svg"> 13:30 bis 14:00 im Observatorium
 
-### Thomas&nbsp;Rauch
+### Thomas Rauch {#thomasrauch}
 
 Der Blick über den Tellerrand ins All!
 
