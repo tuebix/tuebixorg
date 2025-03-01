@@ -15,8 +15,6 @@ Peekaboo ist ein Virenscanner, er bekommt E-Mail-Anhänge von Amavis, analyisert
 
 ### Vorwissen
 
--
-
 ### Über mich
 
 Ich bin Felix, IT-Security-Mensch, begeistert und fasziniert von Dingen und Anderem

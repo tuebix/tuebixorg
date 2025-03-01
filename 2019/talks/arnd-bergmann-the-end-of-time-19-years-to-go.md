@@ -11,7 +11,7 @@ menu:
 
 ### Arnd Bergmann
 
-Im Jahr 2038 ist die Zeit vorbei, zumindest für 32-bit-Rechner, die im Embedded-Umfeld auch jetzt noch dominieren, denn 'time_t' zählt die Sekunden seit 1970 und läuft dann über.  
+Im Jahr 2038 ist die Zeit vorbei, zumindest für 32-bit-Rechner, die im Embedded-Umfeld auch jetzt noch dominieren, denn `time_t` zählt die Sekunden seit 1970 und läuft dann über.  
 Im Vortrag erzähle ich, was ich in den letzten acht Jahren am Kernel gemacht habe, damit es weitergehen kann.
 
 ### Vorwissen

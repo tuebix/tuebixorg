@@ -11,20 +11,19 @@ menu:
 
 ### Michael Jerger
 
-<h4>aktuelle Probleme</h4>  
-Xing Gruppen einfach gelöscht, toxicTwitter,<br>  
-Invest (Community)  ist in fremder Hand.<br>  
-<br>  
-<h4>Lösungsvorschläge</h4>  
-Föderierung - föderiertes gitea/forgejo, Mastodon<br>  
-<br>  
-<h4>Erfahrung</h4>  
- Mastodon - Zuwachs auf 12 mio. (Faktor 60) innerhalb eines Jahr<br>  
-<br>  
-<h4>Nutzen</h4>  
+#### aktuelle Probleme
+Xing Gruppen einfach gelöscht, toxicTwitter, Invest (Community)  ist in fremder Hand.
+
+#### Lösungsvorschläge
+Föderierung - föderiertes gitea/forgejo, Mastodon
+
+#### Erfahrung
+Mastodon - Zuwachs auf 12 mio. (Faktor 60) innerhalb eines Jahr
+
+#### Nutzen
 Invest bleibt in unserer Hand und nicht beim Konzern<br>  
-<br>  
-<h4>Fazit</h4>  
+
+#### Fazit
 Invest sichern, Mastodon ausprobieren, bei forgejo mithelfen - glücklich und zu "Frieden"
 
 ### Vorwissen
