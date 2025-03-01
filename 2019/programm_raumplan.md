@@ -16,7 +16,7 @@ menu:
 <img height="25" src="../../images/googleplay.png" alt="Google-Play-Logo" title="Google-Play-Logo" />&nbsp;Google Play)
 * <a href="https://apps.apple.com/us/app/tuebix/id1469354958" target="_blank">quick hack für das unfreie iOS</a> (feature requests: <a href="https://github.com/zenitaeglos/TuebixApp" target="_blank">github issue)</a> 
 
-<br/>
+<p><br/></p>
 
 <table>
 <tr><td></td><td></td><td></td><td></td><td>Raum W1</td></tr>

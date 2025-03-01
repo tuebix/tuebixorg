@@ -27,7 +27,7 @@ padding-right: 8px;
 * <a href="https://play.google.com/store/apps/details?id=net.gaast.giggity" target="_blank"><img height="25" src="../../images/giggity.png" alt="giggity-Logo" title="giggity-Logo" />&nbsp;giggity</a> (bei
 <img height="25" src="../../images/googleplay.png" alt="Google-Play-Logo" title="Google-Play-Logo" />&nbsp;Google Play)
 
-<br/>
+<p><br/></p>
 
 <table>
 
