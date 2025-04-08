@@ -32,3 +32,8 @@ disableKinds = ['taxonomy', 'term']
 [services]
   [services.rss]
     limit = 15
+
+# Recommended by https://gohugo.io/host-and-deploy/host-on-github-pages/
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
