@@ -1,6 +1,0 @@
-# Don't diff this large JSON file that consists of a single line (Git won't
-# produce a nice diff with the default configuration and it even OOMs with
-# my git-delta configuration):
-schedule.json -diff
-# The diff of the talks.json file that the bin/convert_from_pretalx.py creates
-# based on schedule.json should be more interesting anyway.
