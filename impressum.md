@@ -11,11 +11,17 @@ menu: main
 - Email: <a href="mailto:{{% param author.email %}}">{{% param author.email %}}</a>
 - Chat (<a href="https://matrix.org/clients/">Matrix</a>): #tuebix:matrix.org ([Element Webchat](https://app.element.io/#/room/#tuebix:matrix.org))
 - [Fediverse](https://en.wikipedia.org/wiki/Fediverse) ([Mastodon](https://joinmastodon.org/)): [@tuebix@troet.cafe](https://troet.cafe/@tuebix)
-- Repository (website source code): [https://github.com/tuebix/tuebixorg](https://github.com/tuebix/tuebixorg)
 - Inoffizieller IRC: #tuebix ([Libera.Chat](https://libera.chat/)) - Webchat:
   [Kiwiirc](https://web.libera.chat/#tuebix),
   [Gamja](https://web.libera.chat/gamja/#tuebix)
-- Alter Twitter Account: [https://twitter.com/tuebix](https://twitter.com/tuebix)
+
+# Tübix e.V.
+
+Seit 2024 existiert der Tübix auch als eingetragener Verein und wird unter der Nummer VR 726656 im Vereinsregister des Amtsgerichts Stuttgart geführt.
+
+Tübix e.V.<br />
+Sand 13<br />
+72076 Tübingen<br />
 
 # Organisationsteam Tübix 2025
 
@@ -55,7 +61,8 @@ menu: main
 * Roman Schulte
 
 # Technische Umsetzung dieser Webseite
-<a href="https://jekyllrb.com/" target="_blank">jekyll</a> und <a href="https://pages.github.com" target="_blank">github pages</a>
+<a href="https://gohugo.io" target="_blank">Hugo</a> und <a href="https://pages.github.com" target="_blank">GitHub pages</a>
+Der Code für die Website findet sich unter [github.com/tuebix/tuebixorg](https://github.com/tuebix/tuebixorg).
 
 # Ansprechpartner für diese Webseite
 Benjamin Steinert<br />
