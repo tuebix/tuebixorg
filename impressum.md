@@ -61,8 +61,7 @@ Sand 13<br />
 * Roman Schulte
 
 # Technische Umsetzung dieser Webseite
-<a href="https://gohugo.io" target="_blank">Hugo</a> und <a href="https://pages.github.com" target="_blank">GitHub pages</a>
-Der Code für die Website findet sich unter [github.com/tuebix/tuebixorg](https://github.com/tuebix/tuebixorg).
+Der Code für diese Website findet sich unter [github.com/tuebix/tuebixorg](https://github.com/tuebix/tuebixorg).
 
 # Ansprechpartner für diese Webseite
 Benjamin Steinert<br />
