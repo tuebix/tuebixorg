@@ -1,12 +1,3 @@
-.bundle/
-Gemfile.lock
-
-# Jekyll files (https://jekyllrb.com/docs/structure/)
-_site
-.sass-cache
-attic/
-serve/
-
 # Hugo files
 public
 resources
