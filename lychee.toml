@@ -1,0 +1,12 @@
+exclude_path = [
+    "hugo/public/2015/",
+    "hugo/public/2016/",
+    "hugo/public/2017/",
+    "hugo/public/2018/",
+    "hugo/public/2019/",
+    "hugo/public/2023/",
+    "hugo/public/2024/",
+    "hugo/public/images/icons/flaticon.html",
+]
+
+base = "hugo/public"

@@ -7,7 +7,7 @@ menu: main
 ---
 
 Der Tübix findet <a href="https://www.openstreetmap.org/way/8044916#map=17/48.53476/9.07111" target="_blank">auf dem Sand in Tübingen</a> statt.
-In diesen Gebäuden ist das <a href="https://www.wsi.uni-tuebingen.de" target="_blank">Wilhelm-Schickard-Institut für Informatik</a> untergebracht.
+In diesen Gebäuden ist das <a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/fachbereich/" target="_blank">Wilhelm-Schickard-Institut für Informatik</a> untergebracht.
 
 Mit der Buslinie 2 <a href="https://www.swtue.de/abfahrt/?halt=100005" target="_blank">ab Hauptbahnhof Tübingen</a> in Richtung "Sand - Waldhäuser Ost" bis Haltestelle "Sand Drosselweg" (samstags <a href="https://www.swtue.de/tuebus/fahrgastinformationen/ticketfreier-samstag-im-tuebus.html">kostenlos</a>).
 
