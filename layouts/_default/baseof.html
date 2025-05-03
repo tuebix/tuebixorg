@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="{{ site.Language.LanguageCode }}">
 
-  {{ partial "head.html" . }}
+  {{ partialCached "head.html" . }}
 
 <body>
 
-  {{ partial "header.html" . }}
+  {{ partialCached "header.html" . }}
 
   <div class="page-content">
     <div class="wrapper">
@@ -14,7 +14,7 @@
     </div>
   </div>
 
-  {{ partial "footer.html" . }}
+  {{ partialCached "footer.html" . }}
 
 </body>
 
