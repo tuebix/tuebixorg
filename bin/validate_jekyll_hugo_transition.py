@@ -26,7 +26,7 @@ CSP_DOKU = """<!-- CSP documentation:
 
 def main(args):
     repodir = Path(__file__).parent.parent.resolve()
-    hugo_build_dir = repodir / "hugo" / "public"
+    hugo_build_dir = repodir / "public"
     jekyll_build_dir = Path(args.old_worktree) / "_site"
 
     for fp in hugo_build_dir.rglob("**/*"):

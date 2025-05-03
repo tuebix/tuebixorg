@@ -25,7 +25,7 @@ def select_year():
 
     # cd into the correct directory:
     basedir = pathlib.Path(__file__).parent.parent.resolve()
-    wd = os.path.join(basedir, year)
+    wd = basedir / "content" / year
     os.chdir(wd)
 
     return year
@@ -33,8 +33,8 @@ def select_year():
 def main():
     year = select_year()
     # TODO: Rewrite:
-    os.system(f"../bin/convert_from_pretalx.py {year}")
-    os.system(f"../bin/json2md.py {year}")
+    os.system(f"../../bin/convert_from_pretalx.py {year}")
+    os.system(f"../../bin/json2md.py {year}")
 
 if __name__ == "__main__":
     main()

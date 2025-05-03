@@ -8,8 +8,8 @@ attic/
 serve/
 
 # Hugo files
-hugo/public
-hugo/resources
+public
+resources
 .hugo_build.lock
 
 # Editor files (Vim, Emacs and others)
@@ -17,5 +17,5 @@ hugo/resources
 *~
 
 # dummy entry
-2019/talks/.md
-2019/programm2.md
+content/2019/talks/.md
+content/2019/programm2.md

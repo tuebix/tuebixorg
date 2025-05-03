@@ -3,20 +3,6 @@ languageCode = 'de-DE'
 title = 'Tübix'
 disableKinds = ['taxonomy', 'term']
 
-[module]
-  [[module.mounts]]
-    source = '..'
-    target = 'content'
-    excludeFiles = [
-      'README.md',
-      'shell.nix',
-      'hugo/**',
-      'images/**',
-      'bin/**']
-  [[module.mounts]]
-    source = '../images'
-    target = 'static/images'
-
 [params.author]
   email = 'info@tuebix.org'
   name = 'Tübix e.V.'
