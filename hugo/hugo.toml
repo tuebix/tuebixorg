@@ -1,4 +1,4 @@
-baseURL = 'https://tuebix.org/'
+baseURL = 'https://www.tuebix.org/'
 languageCode = 'de-DE'
 title = 'Tübix'
 disableKinds = ['taxonomy', 'term']
