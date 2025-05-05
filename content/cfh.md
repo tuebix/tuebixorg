@@ -27,23 +27,23 @@ Wir werden den aktuellen Stand (Bedarf und bereits besetzte Posten) hier ohne Na
 
 ## Grill (je 1h, 2 Personen)
 
-X X 15:00 - 16:00 Grillen<br/>
+O O 15:00 - 16:00 Grillen<br/>
 O O 16:00 - 17:00 Grillen<br/>
-X O 17:00 - 18:00 Grillen<br/>
-X O 18:00 - 19:00 Grillen<br/>
+O O 17:00 - 18:00 Grillen<br/>
+O O 18:00 - 19:00 Grillen<br/>
 O O 19:00 - 20:00 Grillen<br/>
 
 ## Getränkeausgabe (je 1h, 2 Personen)
 
 O O 10:00 - 11:00 Getränkeausgabe <br/>
-X O 11:00 - 12:00 Getränkeausgabe <br/>
-X X 12:00 - 13:00 Getränkeausgabe <br/>
-X O 13:00 - 14:00 Getränkeausgabe <br/>
-X O 14:00 - 15:00 Getränkeausgabe <br/>
-X X 15:00 - 16:00 Getränkeausgabe <br/>
-X X 16:00 - 17:00 Getränkeausgabe <br/>
-X O 17:00 - 18:00 Getränkeausgabe <br/>
-X O 18:00 - 19:00 Getränkeausgabe <br/>
+O O 11:00 - 12:00 Getränkeausgabe <br/>
+O O 12:00 - 13:00 Getränkeausgabe <br/>
+O O 13:00 - 14:00 Getränkeausgabe <br/>
+O O 14:00 - 15:00 Getränkeausgabe <br/>
+O O 15:00 - 16:00 Getränkeausgabe <br/>
+O O 16:00 - 17:00 Getränkeausgabe <br/>
+O O 17:00 - 18:00 Getränkeausgabe <br/>
+O O 18:00 - 19:00 Getränkeausgabe <br/>
 O O 19:00 - 20:00 Getränkeausgabe <br/>
 O O 20:00 - 21:00 Getränkeausgabe <br/>
 
@@ -52,7 +52,7 @@ O O 20:00 - 21:00 Getränkeausgabe <br/>
 Bring einen Kuchen mit, der dann kostenfrei gegen 14:00 allen zur Verfügung steht.<br/>
 Wir können den Kuchen im Kühlwagen aufbewahren, bring dafür am besten eine Tortenhaube mit.
 
-X X X X X O O O O O O O O O O O
+O O O O O O O O O O O O O O O O
 
 <!-- TODO
 ## Kasse (je 2h, 1 Person)
@@ -88,7 +88,7 @@ O O Raumsupport V2<br/>
 O O Raumsupport V3<br/>
 
 O Raumsupport W1<br/>
-X Raumsupport W2<br/>
+O Raumsupport W2<br/>
 
 ## So kann jeder helfen
 
