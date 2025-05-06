@@ -9,6 +9,8 @@ weight: 10
 menu: main
 ---
 
+<!--
+
 **Deadline für Einreichungen (außer Lightning Talks): 05.05.2025**
 
 Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brauchen wir DICH!
@@ -39,12 +41,11 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
     Vortrags-Kategorie ist gedacht um Neulingen den Einstieg in die FOSS- und
     Linux-Welt schmackhaft zu machen und zu vereinfachen.
 
-<!--
+-->
 
 Der CfP ist zwar schon beendet, ABER du kannst sehr gerne noch einen Lightning
 Talk einreichen:
 
--->
 
 <h2><span><img height="36" width="36" src="../images/lightning.svg"></span> Lightning Talk</h2>
 
