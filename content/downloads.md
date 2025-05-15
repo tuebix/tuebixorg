@@ -11,21 +11,21 @@ menu: main
 - Programm:   <a href="/2024/programm/">https://www.tuebix.org/2024/programm/</a>
 - Downloads:  <a href="https://tuebix.github.io/tuebix-downloads-2024/">https://tuebix.github.io/tuebix-downloads-2024/</a>
 - Repository: <a href="https://github.com/tuebix/tuebix-downloads-2024">https://github.com/tuebix/tuebix-downloads-2024</a>
-- Alles:      <a href="https://github.com/tuebix/tuebix-downloads-2024/archive/main.zip">https://github.com/tuebix/tuebix-downloads-2024/archive/main.zip (ca. TBD GiB)</a>
+- Alles:      <a href="https://github.com/tuebix/tuebix-downloads-2024/archive/main.zip">https://github.com/tuebix/tuebix-downloads-2024/archive/main.zip (ca. 59 MiB)</a>
 
 # 2023
 
 - Programm:   <a href="/2023/programm/">https://www.tuebix.org/2023/programm/</a>
 - Downloads:  <a href="https://tuebix.github.io/tuebix-downloads-2023/">https://tuebix.github.io/tuebix-downloads-2023/</a>
 - Repository: <a href="https://github.com/tuebix/tuebix-downloads-2023">https://github.com/tuebix/tuebix-downloads-2023</a>
-- Alles:      <a href="https://github.com/tuebix/tuebix-downloads-2023/archive/main.zip">https://github.com/tuebix/tuebix-downloads-2023/archive/main.zip (ca. TBD GiB)</a>
+- Alles:      <a href="https://github.com/tuebix/tuebix-downloads-2023/archive/main.zip">https://github.com/tuebix/tuebix-downloads-2023/archive/main.zip (ca. 215 MiB)</a>
 
 # 2019
 
 - Programm:   <a href="/2019/programm/">https://www.tuebix.org/2019/programm/</a>
 - Downloads:  <a href="https://tuebix.github.io/tuebix-downloads-2019/">https://tuebix.github.io/tuebix-downloads-2019/</a>
 - Repository: <a href="https://github.com/tuebix/tuebix-downloads-2019">https://github.com/tuebix/tuebix-downloads-2019</a>
-- Alles:      <a href="https://github.com/tuebix/tuebix-downloads-2019/archive/master.zip">https://github.com/tuebix/tuebix-downloads-2019/archive/master.zip (ca. TBD GiB)</a>
+- Alles:      <a href="https://github.com/tuebix/tuebix-downloads-2019/archive/master.zip">https://github.com/tuebix/tuebix-downloads-2019/archive/master.zip (ca. 188 MiB)</a>
 - Videos:     [TIMMS Link](https://timms.uni-tuebingen.de/List/List?id=UT_2019_________tuebix_____&Headline=T%C3%BCbix%202019)
 
 # 2018
