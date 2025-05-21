@@ -12,7 +12,8 @@ Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="d
 
 **News:**
 - **Der Tübix 2025 findet am 05. Juli statt.**
-- Das Programm für 2025 ist nun veröffentlicht und über Pretalx verfügbar:<br/>
+- Das [Programm für 2025](2025/programm/) ist nun veröffentlicht und auch über
+  Pretalx verfügbar:<br/>
   [cfp.tuebix.org/tuebix-2025/schedule/](https://cfp.tuebix.org/tuebix-2025/schedule/)
 - **Lightning Talks** können noch bis zum Tübix über den [Call for Papers](callforpapers/) eingereicht werden.
 - Zur Kommunikation gibt es einen Matrix Space: [#tuebix-space:matrix.org](https://matrix.to/#/#tuebix-space:matrix.org)
