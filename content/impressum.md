@@ -68,4 +68,3 @@ Benjamin Steinert<br />
 Sand 13<br />
 72076 Tübingen<br />
 [{{% param author.email %}}](mailto:{{% param author.email %}})<br />
-Tel.: +49 176 4576 6053<br />
