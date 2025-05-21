@@ -26,6 +26,7 @@ def select_year():
     # cd into the correct directory:
     basedir = pathlib.Path(__file__).parent.parent.resolve()
     wd = basedir / "content" / year
+    # TODO: Create the directory based on a template
     os.chdir(wd)
 
     return year

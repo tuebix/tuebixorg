@@ -50,7 +50,7 @@ with open("talks.json") as talksfile:
     data.sort(key=lambda talk: room_to_sort_key(talk["room"]) + talk["timebegin"])
 
 with open('programm2.md', 'w') as prog2:
-    prog2.write(f"---\nlayout: page\ntitle: Programm\npermalink: /{YEAR}/programm/\nweight:\nmenu: main\n---\n\n")
+    prog2.write(f"---\nlayout: page\ntitle: Programm\nurl: /{YEAR}/programm/\nweight:\nmenu: main\n---\n\n")
     prog2.write(dedent("""\
       * <span style="font-weight: bold;">Programm</span>
       * <a href="../programm_rahmen/">Rahmenprogramm</a>
@@ -99,7 +99,7 @@ for talk in data:
     os.makedirs("talks", exist_ok=True)
     with open('talks/' + talk["urlid"] + '.md', 'w') as mdf, open('programm2.md', 'a') as prog2:
         try:
-            mdf.write(f"---\nlayout: talk\ntitle:\npermalink: /{YEAR}/programm/" + talk["urlid"] + "/\nweight:\nmenu:\n---\n")
+            mdf.write(f"---\nlayout: talk\ntitle:\nurl: /{YEAR}/programm/" + talk["urlid"] + "/\nweight:\nmenu:\n---\n")
             mdf.write("## " + talk["titel"] + "\n\n")
             mdf.write('### <img height = "32" src="../../../images/')
             if talk["duration"] == 110:
@@ -128,10 +128,8 @@ for talk in data:
             if talk["vorwissen"]:
                 mdf.write("#### Vorwissen\n\n" + transform_linefeeds(talk["vorwissen"]) + "\n\n")
             if talk["aboutme"]:
-                if re.search("\+|,", talk["name"]): # One or multiple speakers?
-                    mdf.write("### Über uns\n\n")
-                else:
-                    mdf.write("### Über mich\n\n")
+                # TODO: One or multiple speakers?
+                mdf.write("### Über mich\n\n")
                 mdf.write(transform_linefeeds(talk["aboutme"])+ "\n\n")
             if talk["weblinks"]:
                 mdf.write("### Links\n\n")

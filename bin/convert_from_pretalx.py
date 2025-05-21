@@ -12,7 +12,7 @@ import urllib.request
 
 
 YEAR = int(sys.argv[1] if len(sys.argv) == 2 else datetime.now().year)
-if YEAR != 2024:
+if YEAR != 2025:
     print("Warning: Potentially unsupported year.")
 
 schedule_url = f"https://cfp.tuebix.org/tuebix-{YEAR}/schedule/export/schedule.json"
@@ -62,7 +62,7 @@ def gen_talks():
             talk_answers = list(filter(lambda a: a["submission"] == submission, all_answers))
             pre_knowledge = ""
             if talk_answers:
-                pre_knowledge_answer = list(filter(lambda a: a["question"]["id"] == 4, talk_answers))
+                pre_knowledge_answer = list(filter(lambda a: a["question"]["id"] == 5, talk_answers))
                 if pre_knowledge_answer:
                     assert(len(pre_knowledge_answer) == 1)
                     pre_knowledge = pre_knowledge_answer[0]["answer"]
@@ -80,10 +80,10 @@ def gen_talks():
             # parameters for talk and author names (as they could change)?
 
             # TODO: Drop these hacks:
-            if talk['id'] == 92:
+            if talk['id'] == 160:
                 slug = "tuebix-init"
                 names = "Tübix Orga Team"
-            elif talk['id'] == 93:
+            elif talk['id'] == 161:
                 slug = "tuebix-exit"
                 names = "Tübix Orga Team"
 
