@@ -8,10 +8,9 @@ menu: main
 
 * <span style="font-weight: bold;">Programm</span>
 * <a href="../programm_rahmen/">Rahmenprogramm</a>
+* <a href="../../kinder/">Kinderprogramm</a>
 * <a href="../lageplan/">Lageplan</a>
 * <a href="../programm_was_bedeuten_die_icons">Was bedeuten die Icons <img height="18" width="18" src="../../images/workshop.svg"> <img height="18" width="18" src="../../images/talk.svg"> <img height="18" width="18" src="../../images/talk2.svg"> <img height="18" width="18" src="../../images/lightning.svg"> ?</a>
-
-**Hinweis:** Weitere Infos zum Kinderprogramm folgen noch.
 
 Alternativ kann das Program auch über Pretalx angesehen werden: [cfp.tuebix.org/tuebix-2025/schedule/](https://cfp.tuebix.org/tuebix-2025/schedule/)
 

@@ -3,7 +3,7 @@ layout: page
 title: Kinder
 url: /kinder/
 weight: 30
-menu: main
+menu: 
 ---
 
 # Kinderprogramm "Mini-FrogLabs"
