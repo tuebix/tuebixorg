@@ -28,20 +28,6 @@
         "weblinks": {}
     },
     {
-        "name": "Ingo Blechschmidt",
-        "titel": "Drei bizarre philosopho-logische Erz\u00e4hlungen zum Auswahlaxiom, vielleicht dem umstrittensten Axiom der Mathematik",
-        "abstract": "Manche halten das Auswahlaxiom f\u00fcr offensichtlich wahr, w\u00e4hrend andere sich durch kein Argument der Welt \u00fcberzeugen lassen \u2013 sie kennen schlie\u00dflich Gegenbeispiele.\n\nWie kann es in der Mathematik, die doch neutral und objektiv sein soll und in der jede Frage durch eine Rechnung oder einen Beweis entschieden werden kann, so viel Diskussion geben?\n\nIn diesem Vortrag werden wir:\n\n- erfahren, was das Auswahlaxiom eigentlich aussagt,\n- verstehen, warum es so n\u00fctzlich ist,\n- uns der Gefahr hingeben, die mit der Annahme des Auswahlaxioms einhergehen,\n- uns daran erfreuen, wie man das Axiom in einem Universum namens \u201eG\u00f6dels Sandbox\u201c sicher simulieren kann,\n- und schlie\u00dflich auf Axiome sto\u00dfen, die weniger umstritten sind \u2013 aber tats\u00e4chlich viel dramatischer und weitreichender.",
-        "description": "",
-        "aboutme": "Mathematiker aus Augsburg",
-        "vorwissen": "",
-        "urlid": "141-drei-bizarre-philosopho-logische-erzhlungen-zum-auswahlaxiom-vielleicht-dem-umstrittensten-axiom-der-mathematik",
-        "duration": 50,
-        "room": "V1 (F119)",
-        "timebegin": "11:00",
-        "timeend": "11:50",
-        "weblinks": {}
-    },
-    {
         "name": "Florian Snow",
         "titel": "REUSE - Einfache Lizenzierung f\u00fcr Menschen und Maschinen",
         "abstract": "Freie Software lebt von Wiederverwendung, doch ohne klare Lizenzinformationen, kann das zu rechtlichen Problemen f\u00fchren. Genau hier setzt REUSE an: Es bietet einen einfachen Standard zur Lizenzierung, der sowohl f\u00fcr Menschen verst\u00e4ndlich als auch maschinenlesbar ist. Mit wenigen einfachen Schritten setzt man REUSE ein und bekommt best\u00e4tigt, dass die Lizenzinformationen korrekt und vollst\u00e4ndig sind. Der Vortrag zeigt, wie der Ansatz funktioniert, warum er den Alltag erleichtert und wie REUSE per CI/CD daf\u00fcr sorgen kann, dass die Lizenzierung immer klar ist.",
@@ -168,6 +154,20 @@
         "weblinks": {}
     },
     {
+        "name": "Dr. Christoph Zimmermann",
+        "titel": "Linux Inlaws - World Domination by Accident",
+        "abstract": "Jeder h\u00f6rt Podcasts. Wenige machen welche. Die wenigsten Podcaster besch\u00e4ftigen sich damit, wie die Inhalte eigentlich zu ihren Zuh\u00f6rern kommen, sondern verlassen sich auf kommerzielle Plattformen wie Soundcloud, Spotify, etc. \n\nWie Martin Visser und ich vor mehr als f\u00fcnf Jahren Linux Inlaws - ein englischer FLOSS-Podcast mit mittlerweile im Durchschnitt f\u00fcnfstelligen Downloads pro Episode sowie G\u00e4sten wie der Free software Foundation, der Electronic Frontier Foundation, der Free Software Foundation Europe und der Software Freedom Conservancy (um nur einige der Teilnehmer zu nennen, die im Laufe der Jahre bei der Show dabei waren) - starteten, stand neben den Inhalten ein wichtiger Punkt im Vordergrund: wenig Arbeit! D.h. wie k\u00f6nnen wir den Automatisierungsgrad nach der Aufnahme einer Show so erh\u00f6hen, da\u00df die Show mit so wenig manuellem Aufwand wie m\u00f6glich zu den Zuh\u00f6rern gelangt? Und das alles nat\u00fcrlich ausschlie\u00dflich mit freier Software.\n\nDer Vortrag gibt einen \u00dcberblick \u00fcber folgenden:\n\n- Einf\u00fchrung,\n- Tech-Stack,\n- Workflow-Vorstellung / Automatisierung,\n- Hosting-Aspekte,\n- Dos and don'ts,\n- Diskussion.\n\nDer Vortrag richtet sich nicht nur an Podcaster, die vor \u00e4hnlichen Herausforderungen stehen, sondern auch an alle Interessierten, die schon immer mal wissen wollten, was eigentlich hinter der Produktion eines Podcasts steht und wie freie Software hier helfen kann.",
+        "description": "",
+        "aboutme": "Graub\u00e4rtiger FLOSS-Hacker ohne Bart, besessen von Open-Source-Betriebssystemen und anderen Hipster-Themen.\n\nMeine erste Begegnung mit den FLOSS-Technologien war 1987, als ich einen Editor namens Emacs kompilierte. Diese Begegnung hatte einen bleibenden Effekt, so dass ich mich mehr als drei\u00dfig Jahre sp\u00e4ter immer noch mit FLOSS-\u00d6kosystemen, -Technologien und -Gemeinschaften sowohl aus technischer als auch aus gesellschaftlicher und politischer Sicht besch\u00e4ftige. Ich bin Vorstandsmitglied einer der gr\u00f6\u00dften deutschen Linux User Groups und regelm\u00e4\u00dfiger Referent auf deutschen und internationalen FLOSS-Veranstaltungen. Zusammen mit Martin Visser moderiere ich einen der am schnellsten wachsenden FLOSS-Podcasts namens Linux Inlaws. Zu anderen Hobbies geh\u00f6ren IT-Sicherheit, anderer Leute Computer, alles was mit Software-Entwicklung zu tun hat und andere Formen der schwarzen Kunst :-).",
+        "vorwissen": "",
+        "urlid": "132-linux-inlaws-world-domination-by-accident",
+        "duration": 50,
+        "room": "V2 (F112)",
+        "timebegin": "10:00",
+        "timeend": "10:50",
+        "weblinks": {}
+    },
+    {
         "name": "Andreas Grupp",
         "titel": "Das Fediverse",
         "abstract": "Die Abh\u00e4ngigkeit von zentralisierten Big Tech Unternehmen, sowie die damit einhergehenden Gefahren f\u00fcr die freie Welt, ist seit geraumer Zeit bekannt. In j\u00fcngerer Zeit, in Zeiten geopolitischer Bedrohungen r\u00fcckt diese Problematik zwar zunehmend in das Bewusstsein von mehr Menschen, aber nach wie vor meinen Viele die einschl\u00e4gigen Plattformen w\u00e4ren alternativlos. Dem ist nicht so!\n\nUnter den vielf\u00e4ltigen Alternativen f\u00fcr Online-Diensten gibt es auch solche f\u00fcr den weiten Bereich sogenannter \"Social Media\". Unter R\u00fcckbesinnung auf das dezentrale Prinzip der Internet-Technologie sind eine gro\u00dfe Zahl an Video-, Micro- & Macro-Blogging-, Foto-Sharing-Plattformen, ... u.v.m. verf\u00fcgbar und untereinander vernetzt.\n\nDieser nicht technische Talk ...\n\n- beleuchtet die Probleme die mit zentralen Plattformen einhergehen,\n- erl\u00e4utert das Prinzip hinter den Schlagworten \"Dezentralit\u00e4t\" und \"F\u00f6deration\",\n- und zeigt Einstiegsm\u00f6glichkeiten in die Welt des Fediverse auf.",
@@ -193,6 +193,20 @@
         "room": "V2 (F112)",
         "timebegin": "12:00",
         "timeend": "12:50",
+        "weblinks": {}
+    },
+    {
+        "name": "Dr. Christoph Zimmermann",
+        "titel": "FLOSS an Hochschulen - Quo vadis?",
+        "abstract": "FLOSS @ Uni - Quo Vadis?\n\nFree Libre Open Source Software (FLOSS) hat sich mittlerweile einen Stammplatz im deutschen Hochschulwesen erobert und ist ist als fester Ausbildungsbestandteil aus den Modulpl\u00e4nen nicht mehr wegzudenken. \n\nSo sollte man/frau/div jedenfalls meinen.\n\nLeider sieht die Realit\u00e4t anders aus. Viel zu oft werden die Schwerpunkte immer noch auf propriet\u00e4re Software gelegt; die Omnipr\u00e4senz von Powerpoint und Mathlab als h\u00e4ufiger Bestandteil vom Hochschulalltag spricht leider eine zu eindeutige Sprache. Dieser Vortrag st\u00fctzt sich auf Erfahrungen mit diesem Thema an der University of Applied Sciences in Frankfurt und ist wie folgt gegliedert:\n\n- Einf\u00fchrung\n- Bestandsaufnahme: Wo stehen wir in der Ausbildung?\n- Anforderung an die Ausbildung (insbesondere im Hinblick auf die Omnipr\u00e4senz von FLOSS in der Industrie und anderswo)\n- Die Zukunft / n\u00e4chste Schritte: Ziel und Wege dorthin\n\nDer Fokus dieses Vortrags liegt hierbei auf dem Erfahrungsaustausch der Teilnehmer, daher sind die obigen Themenpunkte als Anhaltspunkte f\u00fcr die Schwerpunkt dieser Diskussion zu verstehen.\n\nDieser Vortrag wendet sich an Praktiker in diesem Umfeld und solche, die es werden wollen.",
+        "description": "",
+        "aboutme": "Graub\u00e4rtiger FLOSS-Hacker ohne Bart, besessen von Open-Source-Betriebssystemen und anderen Hipster-Themen.\n\nMeine erste Begegnung mit den FLOSS-Technologien war 1987, als ich einen Editor namens Emacs kompilierte. Diese Begegnung hatte einen bleibenden Effekt, so dass ich mich mehr als drei\u00dfig Jahre sp\u00e4ter immer noch mit FLOSS-\u00d6kosystemen, -Technologien und -Gemeinschaften sowohl aus technischer als auch aus gesellschaftlicher und politischer Sicht besch\u00e4ftige. Ich bin Vorstandsmitglied einer der gr\u00f6\u00dften deutschen Linux User Groups und regelm\u00e4\u00dfiger Referent auf deutschen und internationalen FLOSS-Veranstaltungen. Zusammen mit Martin Visser moderiere ich einen der am schnellsten wachsenden FLOSS-Podcasts namens Linux Inlaws. Zu anderen Hobbies geh\u00f6ren IT-Sicherheit, anderer Leute Computer, alles was mit Software-Entwicklung zu tun hat und andere Formen der schwarzen Kunst :-).",
+        "vorwissen": "",
+        "urlid": "123-floss-an-hochschulen-quo-vadis-",
+        "duration": 50,
+        "room": "V2 (F112)",
+        "timebegin": "13:00",
+        "timeend": "13:50",
         "weblinks": {}
     },
     {
@@ -392,6 +406,20 @@
         "weblinks": {}
     },
     {
+        "name": "Yannick Huber",
+        "titel": "Automatisierte Netzwerk Performance Messungen mit dem Open Source Toolkit perfSONAR",
+        "abstract": "perfSONAR ist ein Open Source Toolset, das die automatisierte Durchf\u00fchrung von aktiven Performance-Messungen zwischen mehreren verteilten Messpunkten \u00fcber Netzwerkgrenzen hinweg erm\u00f6glicht.\nEs kombiniert mehre existierende Open-Source L\u00f6sungen zu Messung von Netzwerk-Performance-Parametern. Zudem bietet es eine internationale Community, die offene Testknoten anbietet, gegen die automatisierte Tests ausgef\u00fchrt werden k\u00f6nnen. Dies erlaubt es beispielsweise Peerings zu verschiedenen internationalen Netzen zu bewerten und historische Daten zu sammeln, um etwaige \u00c4nderungen zu erkennen. Dies ist als Netzwerkbetreiber ein hilfreiches Analysetool. \nUm der perfSONAR Community etwas zur\u00fcckzugeben, hat das BelW\u00fc mittlerweile einen eigenen \u00f6ffentlichen perfSONAR Server gehostet. \nDer Vortrag veranschaulicht die hierbei gewonnen Erfahrungen mit dem Aufsetzen und Verwenden von PerfSONAR und zeigt, wie das perfSONAR Toolkit bestehende Open Source Software zu einem eigenst\u00e4ndigen neuen Open Source Software kombiniert.",
+        "description": "",
+        "aboutme": "Yannick arbeitet beim BelW\u00fc, dem Hochschulnetzbetreiber f\u00fcr Baden-W\u00fcrttemberg als Mitarbeiter im BwNET 2.0 Projekt \u2013 einer vom MWK Baden-W\u00fcrttemberg (MWK) gef\u00f6rderten Forschungsinitiative des Bundes, die aktuelle Forschung mit dem operativen Management von Kommunikationsnetzen verbindet. Im Rahmen des Projekts forscht er im Bereich Netzwerk Monitoring und ist unter anderem an der Entwicklung der Open-Source Flow Monitoring Software \"Flowpipeline\" beteiligt.",
+        "vorwissen": "Grundlegende Vorkenntnisse im Netzwerkbereich sind hilfreich.",
+        "urlid": "157-automatisierte-netzwerk-performance-messungen-mit-dem-open-source-toolkit-perfsonar",
+        "duration": 20,
+        "room": "V5 (C215)",
+        "timebegin": "13:30",
+        "timeend": "13:50",
+        "weblinks": {}
+    },
+    {
         "name": "Sebastian Neuner",
         "titel": "NetBox: Doku f\u00fcrs Datacenter und Netzwerk",
         "abstract": "NetBox ist eine Web-Anwendung zur Dokumentation von allen M\u00f6glichen Dingen im Datacenter/Netz, z.B. Servern, Routern, IP-Adressen... In einem kurzen Show & Tell zeige ich, was die Software kann, aber auch wo ggf. H\u00fcrden liegen und mehr M\u00fche investiert werden muss, als man erstmal erwarten w\u00fcrde.",
@@ -478,7 +506,7 @@
     {
         "name": "Bonnie",
         "titel": "How to do a podcast with Free Software",
-        "abstract": "In this workshop, Bonnie will share her knowledge and skills on how to produce podcasts using Free Software, providing you with the tools and techniques to create your own podcast projects.\n\nThis is the perfect workshop for everybody who wants to share their ideas and thoughts with others through podcasts. Join this hands-on workshop where we produce our very first podcast together using Free Software. Learn the basics of recording, editing, and publishing podcasts with Free Software tools, and discover how to create quality content without relying on proprietary software. Everybody is welcome to join us from beginners and those looking to switch to Free Software!",
+        "abstract": "In this workshop, Bonnie will share her knowledge and skills on how to produce podcasts using Free Software, providing you with the tools and techniques to create your own podcast projects.\n\nThis is the perfect workshop for everybody who wants to share their ideas and thoughts with others through podcasts. Join this hands-on workshop where we produce our very first podcast together using Free Software. Learn the basics of recording, editing, and publishing podcasts with Free Software tools, and discover how to create quality content without relying on proprietary software. Everybody is welcome to join us from beginners and those looking to switch to Free Software!\n\nPlease, register for attending the workshop: https://share.fsfe.org/apps/forms/s/fQWcEi2BYzoJy6KRpQmT69eH",
         "description": "",
         "aboutme": "Bonnie Mehring hat Politikwissenschaften in Marburg studiert und arbeitet bereits seit \u00fcber 10 Jahren f\u00fcr und mit Freie Software. Durch Freie Software hat sie nicht nur ein umfangreiches Wissen \u00fcber Computer und Technologie erworben, sondern auch Verbindungen zu anderen Menschen gekn\u00fcpft. Sie nimmt gerne an verschiedenen Konferenzen und Veranstaltungen zu Freier Software teil und genie\u00dft die Gelegenheit, mit Menschen aus der Freien-Software-Gemeinschaft in Kontakt zu treten. F\u00fcr Bonnie ist es von gr\u00f6\u00dfter Bedeutung, dass inklusive und einladende Freie-Software-Gemeinschaften geschaffen werden, die es jedem erm\u00f6glichen, sich zu engagieren und zu lernen. Derzeit arbeitet Bonnie als Projektmanagerin bei der Free Software Foundation Europe und verantwortet den j\u00e4hrlichen \"I Love Free Software Day\" sowie den Programmierwettbewerb \"Youth Hacking 4 Freedom\" und ist Host des Software Freedom Podcast.",
         "vorwissen": "",
@@ -487,6 +515,34 @@
         "room": "W1 (B116)",
         "timebegin": "16:00",
         "timeend": "17:50",
+        "weblinks": {}
+    },
+    {
+        "name": "Harald K\u00f6nig",
+        "titel": "STRACE-Sprechstunde(n)",
+        "abstract": "Was ich schon immer mit STRACE machen & diskutieren wollte -- iIhr fragt, ich erz\u00e4hle und trace...\n\nAn euren Fragen, Themen und Problemen (oder doch nur meine eigenen L\u00f6sungen?) werde ich einige Grundlagen von STRACE er\u00f6rtern und helfen, neue Ideen zu bekommen\u2026\n\nAm besten nat\u00fcrlich \u00fcber EURE Probleme, daher bitte im VORAUS mit interessanten Themen melden an: koenig (at) linux.de",
+        "description": "strace ist ein wahres Wundertool in Linux, man muss es nur einsetzen \u2013 und kann damit sehr viel\n\u00fcber die Abl\u00e4ufe und Interna von Linux lernen. Mit strace k\u00f6nnen einzelne oder mehrere Prozesse zur Laufzeit auf System-Call-Ebene \u201dbeobachtet\u201c werden. Damit lassen sich bei vielen Problemen\nsehr einfach wertvolle Informationen zum Debuggen gewinnen: welche Config-Dateien wurden wirklich gelesen, welches war die letzte Datei oder Shared-Library vor dem Crash usw. Im Unterschied\nzu interaktiven Debuggern l\u00e4uft das zu testende Programm mit strace mehr oder weniger in Echtzeit ab, und man erh\u00e4lt schon w\u00e4hrend des Programm-Laufs jede Menge Ausgaben zu allen erfolgten\nKernel-Calls, so dass man den Ablauf des Prozesses \u201dlive\u201c mitverfolgen bzw. den abgespeicherten\nOutput nachtr\u00e4glich bequem auswerten kann.\nAuch bei Performance-Problemen kann man mit strace interessante Informationen gewinnen: wie\noft wird ein Syscall ausgef\u00fchrt, wie lange dauern diese, wie lange \u201drechnet\u201c das Programm selbst\nzwischen den Kernel-Calls. Man kann auch den kompletten I/O eines Programms (Disk oder Net) mit\nstrace recht elegant mitprotokollieren und sp\u00e4ter offline analysieren (oder auch \u201dreplay\u201cen, bei Bedarf sogar in \u201dEchtzeit\u201c Dank pr\u00e4ziser Time-Stamps).\n\nDer Workshop soll anregen, strace kennen zulernen, und neue Ideen im Umgang mit strace zu bekommen (das gilt nat\u00fcrlich auch f\u00fcr durch eure Fragen;-)\n\nAuf diesen alten Folien (https://www.luga.de/download/Vortraege/lit2016-strace.pdf) gibt es ab Seite 10 so einiges \u00fcber strace zu schm\u00f6kern...",
+        "aboutme": "Physik-Studium in T\u00fcbingen,\nRechner und DCF77 seit ~1980, (La)TeX seit 1986,\nUNIX seit ~1987,\nLinux seit 1992 (0.98.4),\nXFree86-Treiber fuer S3 von ~1993-2001.\nVon 2001 bis 2014 bei der science+computing ag in Tuebingen als SW-Entwickler.\nSeit 2014 nun bei Bosch Sensortec GmbH in Kusterdingen/Reutlingen als \u201cSystem Expert\u201d fuer Linux (DevOps) und embedded Android (Treiber).\n\nWeitere Interessen sind u.a. Reisen, Kernel, System-Technik und -Tools, Hardware, Grafik (-Treiber,-HW), neuerdings mal wieder Embedded-Systeme und Messtechnik, GPS und OpenStreetmap, u.v.a.m\u2026..",
+        "vorwissen": "kein Vorwissen erforderlich \u2013 nur ein wenig Interesse an strace und den Linux Kernel-Calls",
+        "urlid": "164-strace-sprechstunde-n-",
+        "duration": 110,
+        "room": "W2 (A302)",
+        "timebegin": "10:00",
+        "timeend": "11:50",
+        "weblinks": {}
+    },
+    {
+        "name": "Dr. Christoph Zimmermann",
+        "titel": "Kodi on speed",
+        "abstract": "Kodi on speed\n\nSeit dem ersten Release vor \u00fcber 20 Jahren hat sich Kodi mit \u00fcber einer Milliarde Installationen einen festen Platz auf der Liste der beliebtesten Home Theater Systeme gesichert. Urspr\u00fcnglich f\u00fcr die Xbox vorgesehen (daher auch der initiale Name XBMC f\u00fcr Xbox Media Center), ist diese Software mittlerweile auf den meisten Systemen als Bestandteil der Standard-Distribution verf\u00fcgbar. Ein wesentlicher Aspekt von dieser Software ist die Erweiterbarkeit durch sogenannte Addons f\u00fcr das Look and Feel, Metadatenquellen wie Filmdatenbanken, Video-Erweiterungen (wie z.B. Youtube und Mediatheken) und vieles andere mehr. \n\nAber wie wird eine solche Erweiterung erstellt? Der Vortrag gibt einen \u00dcberblick \u00fcber die Programmierung, Installation und Konfiguration von Addons anhand von Beispielen aus dem praktischen Einsatz.\n\nDieser Beitrag  gliedert sich wie folgt: \n- Architektur von Kodi,\n- Anatomie einer Erweiterung,\n- Programmierung und Installation,\n- Kodis Addon-Umgebung (Konfiguration, Datenbanken, etc.)\n- Fortgeschrittene Aspekte (Systemumgebung, Benutzerdaten-Organisation, etc.),\n- Diskussion.\n\nDer Fokus des Vortrags liegt hierbei auf der Praxis; wenn m\u00f6glich, werden Code und andere praxisrelevante Artefakte zur Illustration benutzt. Der Vortrag\tst\u00fctzt sich auf 15 Jahre praktische Erfahrung mit dieser Software sowie Kodi als Fallstudie im Rahmen von Hochschulpraktika zu diesem Thema.",
+        "description": "",
+        "aboutme": "Graub\u00e4rtiger FLOSS-Hacker ohne Bart, besessen von Open-Source-Betriebssystemen und anderen Hipster-Themen.\n\nMeine erste Begegnung mit den FLOSS-Technologien war 1987, als ich einen Editor namens Emacs kompilierte. Diese Begegnung hatte einen bleibenden Effekt, so dass ich mich mehr als drei\u00dfig Jahre sp\u00e4ter immer noch mit FLOSS-\u00d6kosystemen, -Technologien und -Gemeinschaften sowohl aus technischer als auch aus gesellschaftlicher und politischer Sicht besch\u00e4ftige. Ich bin Vorstandsmitglied einer der gr\u00f6\u00dften deutschen Linux User Groups und regelm\u00e4\u00dfiger Referent auf deutschen und internationalen FLOSS-Veranstaltungen. Zusammen mit Martin Visser moderiere ich einen der am schnellsten wachsenden FLOSS-Podcasts namens Linux Inlaws. Zu anderen Hobbies geh\u00f6ren IT-Sicherheit, anderer Leute Computer, alles was mit Software-Entwicklung zu tun hat und andere Formen der schwarzen Kunst :-).",
+        "vorwissen": "Python-Grundkenntnisse",
+        "urlid": "122-kodi-on-speed",
+        "duration": 50,
+        "room": "V4 (C118a)",
+        "timebegin": "12:00",
+        "timeend": "12:50",
         "weblinks": {}
     },
     {
@@ -547,6 +603,20 @@
     },
     {
         "name": "Uli Kleemann",
+        "titel": "In Algorithms we trust - too much?    What if AI fails",
+        "abstract": "\"Some people love AI, but others fear it. Why? Is it because of its potential harm to the job market? The way it stretches the barrier between fabrication and reality? Perhaps they saw too many Terminator movies? Whatever the reason, the news media is full of stories that paint glorious pictures of AI\u2019s potential and devastating images of its failures.\"",
+        "description": "In Algorithms We Trust - too much?}\nWe believe in the power of the algorithm - the superiority of the machine over the human mind - artificial intelligence. But it doesn't even exist - it's an invention of clever marketing people, and AI is not new either, just as CYBER is not an abbreviation for cybernetics \nfrom the Greek. It is a theory of all dynamic systems. It deals in particular with information processing in dynamic systems and their regulation and control. Cybernetics researches the essential properties of dynamic systems so that they can process the relevant information and the systems can be steered in a targeted manner or steer themselves accordingly \n\\url{https://wirtschaftslexikon.gabler.de/definition/kybernetik-41182}\nand has its origins in the middle of the 20th century.",
+        "aboutme": "#57\n#linux User seit 1997\n#zertifizierter Admin seit 2017\n#Selbstdenker\n# Krypto\n# IT-Security",
+        "vorwissen": "Grundkenntniss in ML sind hilfreich, jedoch nicht erforderlich.",
+        "urlid": "162-in-algorithms-we-trust-too-much-what-if-ai-fails",
+        "duration": 50,
+        "room": "V4 (C118a)",
+        "timebegin": "16:00",
+        "timeend": "16:50",
+        "weblinks": {}
+    },
+    {
+        "name": "Uli Kleemann",
         "titel": "Krieg ist nicht nur wenn geschossen wird \u00fcber Cyberwaffen und wie man die herstellen k\u00f6nnte",
         "abstract": "Sp\u00e4testens seit dem Ukraine-Konfikt aus dem ein Krieg geworden ist d\u00fcrfte es kein Geheimnis mehr sein der Cyberkrieg ist in vollem Gange. Von Desinformationskampagnen \u00fcber DDos Angriffe  bis zu \"besch\u00e4digten\" Untersee Glasfaserkablen. Angriffe auf kritische Infrastrukturen  sind an der Tagesordnung und dazu geh\u00f6ren nicht nur Kraftwerke  und Verkehrsanlagen alles was erreichbar ist  ist auch ein potentielles Ziel ob nun Bundestag oder Hochschule  nichts und niemand darf sich sicher f\u00fchlen.",
         "description": "Krieg, bisher eine teuere Unternehmung ist sehr preiswert geworden. Kosteten bisherige Waffen Millionen - Cyberwaffen kosten fast nichts.\n\nKonnten bisherige Massenvernichtungswaffen \u00fcber bilaterale Vertr\u00e4ge (SALT I und SALT II) begrenzt  werden , so sind Cyberwaffen nicht kontrollierbar. \n\nWar es bisher m\u00f6glich bestimmte Waffen dem Zugriff beispielweise terroristischer Ogenaisationen zu entziehen, so ist ds bei Cyberwaffen so nicht m\u00f6glich.\n\nWas ist eine Cyberwaffe \u00fcberhaupt - was kann sie anrichten- wie liesse sich ihr Einsatz verhindern, wo liegen die Schwierigkeiten bei der R\u00fcstungskontrolle im Cyberdspace u.v.m. versuche ich ich in diesem Talk  zu erl\u00e4utern.",
@@ -579,7 +649,7 @@
         "abstract": "NixOS durch Praxisbeispiele kennenlernen",
         "description": "NixOS ist eine fast 20 Jahre bestehende Linux-Distribution mit dem radikal anderen Ansatz, s\u00e4mtliche Software und Einstellungen des Betriebssystems reproduzierbar in Konfigurationsdateien zu deklarieren. Dazu wird die `nix`-Sprache verwendet, mit der beliebige Software reproduzierbar gebaut werden kann. Das erm\u00f6glicht Dinge wie:\n\n- Updates, die durch Unterbrechnung nicht kaputt gehen k\u00f6nnen\n- Zusammenstellung beliebiger Versionen von Programmen\n- einfaches Konfigurieren auch komplizierter Dienste (z.B. `services.nextcloud.enable = true;`)\n- Testen von \u00c4nderungen in VMs (`nixos-rebuild build-vm`)\n- unabh\u00e4ngige Entwicklungsumgebungen f\u00fcr Projekte (`nix-shell -p python git ...`)\n- einfaches Bauen f\u00fcr andere Architekturen (z.B. fertige SD-Karten-Abbilder f\u00fcr Raspberry Pi)\n- und noch viel mehr. \n\nIn diesem Workshop schauen wir uns das in der Praxis an.",
         "aboutme": "",
-        "vorwissen": "Die grundlegenden Linux Dinge, Textdateien bearbeiten, im Terminal arbeiten, bisschen git, etc.",
+        "vorwissen": "Laptop mitbringen, m\u00f6glichst schon versuchen, nix vorher zu installieren (https://nixos.org/download/, oben unter \"Nix\". Geht auf allen Linux-Distributionen und st\u00f6rt das restliche Betriebssystem nicht. Oder man macht sich eine NixOS VM, geht nat\u00fcrlich auch.).\n\nAnsonsten die grundlegenden Linux Dinge, Textdateien bearbeiten, im Terminal arbeiten, bisschen git, etc. sollte beherrscht werden.",
         "urlid": "145-praktische-einfhrung-in-nixos",
         "duration": 110,
         "room": "W3 (C111)",
