@@ -3,26 +3,23 @@ layout: page
 title: Kinder
 url: /kinder/
 weight: 30
-menu:
+menu: main
 ---
 
 # Kinderprogramm "Mini-FrogLabs"
 
-Wir freuen uns sehr, dass seit dem Tübix 2016 die <a href="https://www.teckids.org/" target="_blank"> Teckids e.V.</a> mit den "Mini-FrogLabs" in Tübingen mit dabei sind. Dieses Programmangebot ist von anderen Linuxtagen bekannt und für Kinder und Jugendliche (4. - 9. Klasse) geeignet.
+Wir freuen uns sehr, dass seit dem Tübix 2016 die <a href="https://www.teckids.org/" target="_blank"> Teckids e.V.</a> mit den "Mini-FrogLabs" in Tübingen mit dabei sind. Dieses Programmangebot ist von anderen Linuxtagen bekannt und für Kinder und Jugendliche (9 bis 16 Jahre) geeignet.
 
 
 <span style="font-weight: bold;">Für eine Teilnahme ist die vorherige Anmeldung unbedingt notwendig. Eine spontane Teilnahme am Tag selbst ist leider dieses Jahr nicht möglich!</span>
 
-**Update: Weitere Anmeldungen sind leider nicht mehr möglich.**
-
-<!-- All of these links are currently dead (GitLab Pages, HTTP 404, The page you're looking for could not be found.):
-
 <div style="text-align: center; font-size: 250%; text-decoration: underline;">
-  <a href="https://www.teckids.org/de/veranstaltungen/nachste-veranstaltungen/event/project-froglabs-2019-tuebix" target="_blank">Weitere Details</a>
+  <a href="https://ticdesk.teckids.org/app/paweljong/event/froglabs-2025-tuebix" target="_blank">Weitere Details und Anmeldung</a>
 </div>
 
 
 
+<!-- All of these links are currently dead (GitLab Pages, HTTP 404, The page you're looking for could not be found.):
 
 <a href="https://www.teckids.org/de/neuigkeiten/2017/07/03/bericht-von-den-mini-froglabs-beim-tubix-2017" target="_blank">Rückblick 2017</a>
 <br />
