@@ -8,6 +8,7 @@ menu:
 
 * <a href="../programm/">Programm</a>
 * <a href="../programm_rahmen/">Rahmenprogramm</a>
+* <a href="../kinder/">Kinderprogramm</a>
 * <a href="../lageplan/">Lageplan</a>
 * <span style="font-weight: bold;">Was bedeuten die Icons <img height="18" width="18" src="../../images/workshop.svg"> <img height="18" width="18" src="../../images/talk.svg"> <img height="18" width="18" src="../../images/talk2.svg"> <img height="18" width="18" src="../../images/lightning.svg"> ?</span>
 

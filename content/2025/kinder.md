@@ -1,24 +1,21 @@
 ---
 layout: page
-title: Kinder
-url: /kinder/
-weight: 30
+title: Kinderprogramm
+url: /2025/kinder/
+weight:
 menu: 
 ---
 
-<!-- DO NOT CHANGE THIS FILE
- This file has been moved to the yearly folder since 2025.
- However, we have to keep this file because otherwise the links for the previous years would be broken.
- -->
-
-# Kinderprogramm "Mini-FrogLabs"
+* <a href="../programm/">Programm</a>
+* <a href="../programm_rahmen/">Rahmenprogramm</a>
+* <span style="font-weight: bold;">Kinderprogramm</span>
+* <a href="../lageplan/">Lageplan</a>
+* <a href="../programm_was_bedeuten_die_icons">Was bedeuten die Icons <img height="18" width="18" src="../../images/workshop.svg"> <img height="18" width="18" src="../../images/talk.svg"> <img height="18" width="18" src="../../images/talk2.svg"> <img height="18" width="18" src="../../images/lightning.svg"> ?</a>
 
 Wir freuen uns sehr, dass seit dem Tübix 2016 die <a href="https://www.teckids.org/" target="_blank"> Teckids e.V.</a> mit den "Mini-FrogLabs" in Tübingen mit dabei sind. Dieses Programmangebot ist von anderen Linuxtagen bekannt und für Kinder und Jugendliche (9 bis 16 Jahre) geeignet.
 
 
 <span style="font-weight: bold;">Für eine Teilnahme ist die vorherige Anmeldung unbedingt notwendig. Eine spontane Teilnahme am Tag selbst ist leider dieses Jahr nicht möglich!</span>
-
-<!-- All of these links are currently dead (GitLab Pages, HTTP 404, The page you're looking for could not be found.):
 
 <div style="text-align: center; font-size: 250%; text-decoration: underline;">
   <a href="https://ticdesk.teckids.org/app/paweljong/event/froglabs-2025-tuebix" target="_blank">Weitere Details und Anmeldung</a>
@@ -26,7 +23,7 @@ Wir freuen uns sehr, dass seit dem Tübix 2016 die <a href="https://www.teckids.
 
 
 
-
+<!-- All of these links are currently dead (GitLab Pages, HTTP 404, The page you're looking for could not be found.):
 
 <a href="https://www.teckids.org/de/neuigkeiten/2017/07/03/bericht-von-den-mini-froglabs-beim-tubix-2017" target="_blank">Rückblick 2017</a>
 <br />
