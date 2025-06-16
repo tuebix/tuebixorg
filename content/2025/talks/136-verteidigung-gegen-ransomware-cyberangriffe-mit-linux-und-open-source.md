@@ -19,10 +19,6 @@ Im Vortrag werden die Hintergründe von Ransomware-Angriffen beleuchtet, konkret
 
 Der Vortrag ist ein Followup zur Einführung in die Thematik auf den Chemnitzer Linux-Tagen 2024.
 
-#### Vorwissen
-
-Grundlagenwissen zu Netzwerken/Internet und Dateisystemen sowie Interesse an Experten-Tools (auch auf der Linux-Kommandozeile) ist hilfreich, aber nicht zwingend erforderlich.
-
 ### Über mich
 
 Software-Entwickler, Professor für Software-Engineering und Vizepräsident Digitalisierung an der Hochschule Kaiserslautern/RLP

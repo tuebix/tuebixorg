@@ -15,10 +15,6 @@ menu:
 
 Eine klassische IT-Landschaft unterscheidet sich nicht grundlegend von einer Container-basierten Umgebung. Dennoch greifen bewährte Sicherheits- und Überwachungsmaßnahmen nicht mehr oder nicht effizient. Mit SUSE Security (NeuVector) und Red Hat Advanced Cluster Security stehen potente Lösungen zur Verfügung. Der Vortrag soll zeigen, welche Herausforderungen mit diesen Ansätzen bewältigt werden können.
 
-#### Vorwissen
-
-Es sollte das Verständnis vorhanden sein, was eine Container-Plattformen auf Kubernetes-Basis ist. Erfahrungen mit dem Erstellen von Applikationen auf einer solchen Plattform sind wünschenswert.
-
 ### Über mich
 
 Working at Puzzle ITC on Open Source, Automation and Container Platform topics.
