@@ -9,6 +9,7 @@ import json
 import sys
 from datetime import datetime, timedelta
 import urllib.request
+import os
 
 
 YEAR = int(sys.argv[1] if len(sys.argv) == 2 else datetime.now().year)
@@ -23,7 +24,9 @@ with open("schedule.json", "w") as file:
 
 # TODO: Don't hardcode the year, answer IDs, etc.
 answers_url = f"https://cfp.tuebix.org/api/events/tuebix-{YEAR}/answers/?format=json&limit=100"
-with urllib.request.urlopen(answers_url) as data:
+req = urllib.request.Request(answers_url)
+req.add_header('Authorization', f'Token {os.environ["TUEBIX_PRETALX_TOKEN"]}')
+with urllib.request.urlopen(req) as data:
     all_answers = json.load(data)["results"]
 with open("answers.json", "w") as file:
     json.dump(all_answers, file)
@@ -62,7 +65,7 @@ def gen_talks():
             talk_answers = list(filter(lambda a: a["submission"] == submission, all_answers))
             pre_knowledge = ""
             if talk_answers:
-                pre_knowledge_answer = list(filter(lambda a: a["question"]["id"] == 5, talk_answers))
+                pre_knowledge_answer = list(filter(lambda a: a["question"] == 5, talk_answers))
                 if pre_knowledge_answer:
                     assert(len(pre_knowledge_answer) == 1)
                     pre_knowledge = pre_knowledge_answer[0]["answer"]
