@@ -546,6 +546,34 @@
         "weblinks": {}
     },
     {
+        "name": "Philipp Kammerer",
+        "titel": "Einstieg in LaTeX",
+        "abstract": "Mit dem Textsatzsystem LaTeX kann man einfach und effizient umfangreiche Dokumente erstellen (besonders im wissenschftlichen Kontext). \nIn diesem Workshop m\u00f6chte ich die wichtigsten Grundlagen f\u00fcr einen einfachen Einstieg in LaTeX vermitteln.",
+        "description": "Mit dem Textsatzsystem LaTeX kann man einfach und effizient umfangreiche Dokumente, wie etwa wissenschaftliche Arbeiten, Vortragsfolien, (Serien-)Briefe nach DIN, Musikpartituren und vieles mehr erstellen. Die Auszeichnungssprache erlaubt es, system\u00fcbergreifend einheitliche PDF Dateien zu erstellen, die sprachspezifische typografische Regeln und Konventionen einhalten.\nIn diesem Workshop gebe ich euch einen kleinen Rundumschlag, was LaTeX ist, wie es funktioniert und wie man es einsetzen kann. \nVon der Installation aus den Paketquellen, \u00fcber das erste einfache \"Hallo Welt\" Dokument, hin zu den wichtigsten semantischen Elementen wie Gliederung des Textes durch \u00dcberschriften und Abs\u00e4tze, Tabellen, Abbildungen, Fu\u00dfnoten, Inhaltsverzeichnis, Titelblatt (und ggf. mehr?), sollte f\u00fcr den LaTeX Neueinsteiger alles wichtige dabei sein. Die Handhabung von Fehlern beim \u00dcbersetzen der Eingabedatei ins PDF ist ebenfalls Teil des Workshops.",
+        "aboutme": "Fachinformatiker f\u00fcr Anwendungsentwicklung und Mediengestalter. Seit 2017 mit der B1 Systems GmbH unterwegs als Trainer & Consultant. Begeistert sich f\u00fcr LaTeX, Blender und Inkscape.",
+        "vorwissen": "",
+        "urlid": "142-einstieg-in-latex",
+        "duration": 110,
+        "room": "W2 (A302)",
+        "timebegin": "12:00",
+        "timeend": "13:50",
+        "weblinks": {}
+    },
+    {
+        "name": "Philipp Kammerer",
+        "titel": "Leben auf der Kommandozeile; nicht nur f\u00fcr Nerds.",
+        "abstract": "Was man so alles an allt\u00e4glichen Aufgaben auf der Kommandozeile erledigen kann.",
+        "description": "In diesem Workshop m\u00f6chte ich einige Beispiele zeigen, was man au\u00dfer \u201eKonfigurationsdateien bearbeiten und `ssh`\u201c sonst noch so alles auf der Kommandozeile machen kann.\nHier steht die Schlichtheit, Eleganz und der Fokus auf Funktion im Vordergrund.",
+        "aboutme": "Fachinformatiker f\u00fcr Anwendungsentwicklung und Mediengestalter. Seit 2017 mit der B1 Systems GmbH unterwegs als Trainer & Consultant. Begeistert sich f\u00fcr LaTeX, Blender und Inkscape.",
+        "vorwissen": "",
+        "urlid": "143-leben-auf-der-kommandozeile-nicht-nur-fur-nerds",
+        "duration": 110,
+        "room": "W2 (A302)",
+        "timebegin": "16:00",
+        "timeend": "17:50",
+        "weblinks": {}
+    },
+    {
         "name": "Dr. Christoph Zimmermann",
         "titel": "Kodi on speed",
         "abstract": "Kodi on speed\n\nSeit dem ersten Release vor \u00fcber 20 Jahren hat sich Kodi mit \u00fcber einer Milliarde Installationen einen festen Platz auf der Liste der beliebtesten Home Theater Systeme gesichert. Urspr\u00fcnglich f\u00fcr die Xbox vorgesehen (daher auch der initiale Name XBMC f\u00fcr Xbox Media Center), ist diese Software mittlerweile auf den meisten Systemen als Bestandteil der Standard-Distribution verf\u00fcgbar. Ein wesentlicher Aspekt von dieser Software ist die Erweiterbarkeit durch sogenannte Addons f\u00fcr das Look and Feel, Metadatenquellen wie Filmdatenbanken, Video-Erweiterungen (wie z.B. Youtube und Mediatheken) und vieles andere mehr. \n\nAber wie wird eine solche Erweiterung erstellt? Der Vortrag gibt einen \u00dcberblick \u00fcber die Programmierung, Installation und Konfiguration von Addons anhand von Beispielen aus dem praktischen Einsatz.\n\nDieser Beitrag  gliedert sich wie folgt: \n- Architektur von Kodi,\n- Anatomie einer Erweiterung,\n- Programmierung und Installation,\n- Kodis Addon-Umgebung (Konfiguration, Datenbanken, etc.)\n- Fortgeschrittene Aspekte (Systemumgebung, Benutzerdaten-Organisation, etc.),\n- Diskussion.\n\nDer Fokus des Vortrags liegt hierbei auf der Praxis; wenn m\u00f6glich, werden Code und andere praxisrelevante Artefakte zur Illustration benutzt. Der Vortrag\tst\u00fctzt sich auf 15 Jahre praktische Erfahrung mit dieser Software sowie Kodi als Fallstudie im Rahmen von Hochschulpraktika zu diesem Thema.",

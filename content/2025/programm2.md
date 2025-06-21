@@ -26,6 +26,8 @@ Unter Android kann man folgenden Link verwenden um das Programm in die App [Gigg
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Raum W2 (A302)</td></tr>
 <tr><td>10:00</td><td>bis</td><td>11:50</td><td><a class="work"></a></td><td><a href="../programm/164-strace-sprechstunde-n">STRACE-Sprechstunde(n)</a></td><td>Harald&nbsp;König</td></tr>
+<tr><td>12:00</td><td>bis</td><td>13:50</td><td><a class="work"></a></td><td><a href="../programm/142-einstieg-in-latex">Einstieg&nbsp;in&nbsp;LaTeX</a></td><td>Philipp&nbsp;Kammerer</td></tr>
+<tr><td>16:00</td><td>bis</td><td>17:50</td><td><a class="work"></a></td><td><a href="../programm/143-leben-auf-der-kommandozeile-nicht-nur-fur-nerds">Leben&nbsp;auf&nbsp;der&nbsp;Kommandozeile;&nbsp;nicht&nbsp;nur&nbsp;für&nbsp;Nerds.</a></td><td>Philipp&nbsp;Kammerer</td></tr>
 <tr><td>&nbsp;</td></tr>
 <tr><td></td><td></td><td></td><td></td><td>Raum W3 (C111)</td></tr>
 <tr><td>10:00</td><td>bis</td><td>11:50</td><td><a class="work"></a></td><td><a href="../programm/153-git-internals-algorithmen-und-erweiterte-funktionen-uberblick">Git:&nbsp;Internals,&nbsp;Algorithmen&nbsp;und&nbsp;erweiterte&nbsp;Funktionen&nbsp;(Überblick)</a></td><td>Michael&nbsp;Weiss</td></tr>
