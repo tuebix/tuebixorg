@@ -280,20 +280,6 @@
         "weblinks": {}
     },
     {
-        "name": "Moritz Fl\u00fcchter",
-        "titel": "Read linux networking code without C-ing",
-        "abstract": "Der Linux-Kernel-Quellcode wirkt auf den ersten Blick abschreckend, kompliziert und schwer zug\u00e4nglich - und auf den zweiten und dritten Blick auch.\nDabei ist es durchaus m\u00f6glich Teile des Kernels zu lesen und zu verstehen wenn ein paar Grundkonzepte bekannt sind.\n\nZiel dieses Vortrags ist es, den Einstieg in das Lesen des Quellcodes im Bereich der Netzwerkprotokolle zu erleichtern, auch ohne tiefgehende C-Kenntnisse.\nDazu werden zentrale Konzepte des Linux-Netzwerkstacks kurz erkl\u00e4rt und gezeigt, wie man diese als Orientierung nutzen kann, um sich im Code zurechtzufinden.\n\nEin vollst\u00e4ndiges Verst\u00e4ndnis des Kernels ist dabei nicht das Ziel (das w\u00e4re in 20 Minuten auch ziemlich schwer), daf\u00fcr aber ein erster Schritt und Anreiz zur eigenen Erforschung des Kernels.",
-        "description": "Im Rahmen eines Projektes habe ich mich das erste Mal richtig mit dem Quellcode des Netzwerkstacks im Linux Kernel besch\u00e4ftigt. Dabei ist einiges an Wissen zusammengekommen wie man einfacher mit dem Linux-Quellcode umgehen kann. Vor Allem, da ich selber noch nie in C programmiert habe (au\u00dfer im ersten Semester, aber das z\u00e4hlt nicht).\n\nDas betrifft wichtige Datenstrukturen wie `sk_buff` oder sockets, aber auch Makros die im Kernel verwendet werden.\nWeiterhin werden kurz ein paar Grundkonzepte von C vorgestellt die zum Verst\u00e4ndnis ben\u00f6tigt werden (geht ganz schnell, versprochen!)",
-        "aboutme": "Ich bin Moritz, arbeite an der Uni im Bereich Netzwerktechnik. Mit Linux besch\u00e4ftige ich mich schon seit l\u00e4ngerem, aber erst seit kurzem mit dem Kernel selbst. \nAktuell liegt mein Interesse besonders bei eBPF und dem Netzwerkstack.",
-        "vorwissen": "",
-        "urlid": "151-read-linux-networking-code-without-c-ing",
-        "duration": 20,
-        "room": "V2 (F112)",
-        "timebegin": "17:30",
-        "timeend": "17:50",
-        "weblinks": {}
-    },
-    {
         "name": "Stefan Baur",
         "titel": "Bootserver2Go & der X2Go-OpenBox-MicroDesktop",
         "abstract": "[X2Go](https://wiki.x2go.org) ist eine freie Remote-Desktop- und Remote-Application-Software. Zu ihr geh\u00f6rt ein hersteller\u00fcbergreifend nutzbares ThinClient-Image - in verschiedenen Auspr\u00e4gungen - welches sich auch \u00fcber das Netzwerk booten l\u00e4sst. Mit diesem Image kann man sowohl zu X2Go- wie auch zu XDMCP- und RDP-Servern Verbindungen aufbauen. \nMit dem Bootserver2Go kann man diese ThinClient-Images in einem bestehenden Netzwerk bereitstellen - obwohl dort bereits ein DHCP-Server (z.B. eine FritzBox oder ein Speedport-Router) l\u00e4uft.",
@@ -445,6 +431,20 @@
         "room": "V5 (C215)",
         "timebegin": "14:00",
         "timeend": "14:20",
+        "weblinks": {}
+    },
+    {
+        "name": "Moritz Fl\u00fcchter",
+        "titel": "Read linux networking code without C-ing",
+        "abstract": "Der Linux-Kernel-Quellcode wirkt auf den ersten Blick abschreckend, kompliziert und schwer zug\u00e4nglich - und auf den zweiten und dritten Blick auch.\nDabei ist es durchaus m\u00f6glich Teile des Kernels zu lesen und zu verstehen wenn ein paar Grundkonzepte bekannt sind.\n\nZiel dieses Vortrags ist es, den Einstieg in das Lesen des Quellcodes im Bereich der Netzwerkprotokolle zu erleichtern, auch ohne tiefgehende C-Kenntnisse.\nDazu werden zentrale Konzepte des Linux-Netzwerkstacks kurz erkl\u00e4rt und gezeigt, wie man diese als Orientierung nutzen kann, um sich im Code zurechtzufinden.\n\nEin vollst\u00e4ndiges Verst\u00e4ndnis des Kernels ist dabei nicht das Ziel (das w\u00e4re in 20 Minuten auch ziemlich schwer), daf\u00fcr aber ein erster Schritt und Anreiz zur eigenen Erforschung des Kernels.",
+        "description": "Im Rahmen eines Projektes habe ich mich das erste Mal richtig mit dem Quellcode des Netzwerkstacks im Linux Kernel besch\u00e4ftigt. Dabei ist einiges an Wissen zusammengekommen wie man einfacher mit dem Linux-Quellcode umgehen kann. Vor Allem, da ich selber noch nie in C programmiert habe (au\u00dfer im ersten Semester, aber das z\u00e4hlt nicht).\n\nDas betrifft wichtige Datenstrukturen wie `sk_buff` oder sockets, aber auch Makros die im Kernel verwendet werden.\nWeiterhin werden kurz ein paar Grundkonzepte von C vorgestellt die zum Verst\u00e4ndnis ben\u00f6tigt werden (geht ganz schnell, versprochen!)",
+        "aboutme": "Ich bin Moritz, arbeite an der Uni im Bereich Netzwerktechnik. Mit Linux besch\u00e4ftige ich mich schon seit l\u00e4ngerem, aber erst seit kurzem mit dem Kernel selbst. \nAktuell liegt mein Interesse besonders bei eBPF und dem Netzwerkstack.",
+        "vorwissen": "",
+        "urlid": "151-read-linux-networking-code-without-c-ing",
+        "duration": 20,
+        "room": "V5 (C215)",
+        "timebegin": "14:30",
+        "timeend": "14:50",
         "weblinks": {}
     },
     {

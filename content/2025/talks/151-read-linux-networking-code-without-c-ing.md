@@ -7,7 +7,7 @@ menu:
 ---
 ## Read linux networking code without C-ing
 
-### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 17:50 in Raum V2 (F112)
+### <img height = "32" src="../../../images/talk.svg"> 14:30 bis 14:50 in Raum V5 (C215)
 
 ### Moritz Flüchter
 
