@@ -47,6 +47,11 @@ O O 18:00 - 19:00 Getränkeausgabe <br/>
 O O 19:00 - 20:00 Getränkeausgabe <br/>
 O O 20:00 - 21:00 Getränkeausgabe <br/>
 
+## Kochen
+Wir werden dieses Jahr veganes Chili kochen und mittags kostenlos verteilen. Wenn ihr dabei helfen wollt, wäre das eine sehr große Entlastung für uns. Treffpunkt ist um 9:30 bei Pfrondorf (mit dem Auto ca. 10 Minuten vom Sand entfernt). Die genaue Adresse teilen wir euch nach eurer Anmeldung mit. Solltet ihr nicht mit dem Auto anreisen, finden wir eine Lösung. Das Kochen wird ca. 3 Stunden dauern.
+
+O O O
+
 ## Kuchen mitbringen
 
 Bring einen Kuchen mit, der dann kostenfrei gegen 14:00 allen zur Verfügung steht.<br/>
