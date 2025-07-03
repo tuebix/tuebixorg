@@ -36,7 +36,7 @@ O O 19:00 - 20:00 Grillen<br/>
 ## Getränkeausgabe (je 1h, 2 Personen)
 
 X X 10:00 - 11:00 Getränkeausgabe <br/>
-X O 11:00 - 12:00 Getränkeausgabe <br/>
+X X 11:00 - 12:00 Getränkeausgabe <br/>
 X X 12:00 - 13:00 Getränkeausgabe <br/>
 X X 13:00 - 14:00 Getränkeausgabe <br/>
 X X 14:00 - 15:00 Getränkeausgabe <br/>
@@ -57,7 +57,7 @@ X O O
 Bring einen Kuchen mit, der dann kostenfrei gegen 14:00 allen zur Verfügung steht.<br/>
 Wir können den Kuchen im Kühlwagen aufbewahren, bring dafür am besten eine Tortenhaube mit.
 
-X X X X X X O O O O O O O O O O
+X X X X X X X O O O O O O O O O
 
 <!-- TODO
 ## Kasse (je 2h, 1 Person)
