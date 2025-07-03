@@ -16,8 +16,9 @@ menu:
 
 ### Freitag Abend: Auftakt
 
-Am Abend davor wird es voraussichtlich wieder ein Auftakt-Event geben.
-Details folgen zu gegebener Zeit.
+Am Vorabend: 4. Juli ab 20:00 Uhr im [Neckawa](https://neckawa.de/) (Casino, bei der Neckarbrücke).
+
+Bitte melde dich bis Freitagmittag [hier](https://cloud.fsi.uni-tuebingen.de/apps/forms/s/yyTbxtagcDYJCCp8M6kCkkGG) an, damit wir entsprechend reservieren können.
 
 ### Samstag Abend: Ausklang
 
