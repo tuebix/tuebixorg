@@ -16,6 +16,7 @@ Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="d
   Pretalx verfügbar:<br/>
   [cfp.tuebix.org/tuebix-2025/schedule/](https://cfp.tuebix.org/tuebix-2025/schedule/)
 - **Lightning Talks** können noch bis zum Tübix über den [Call for Papers](callforpapers/) eingereicht werden.
+- Der **Auftakt** findet am Freitag, dem 4. Juli, um 20 Uhr im [Neckawa](https://neckawa.de/) (Casino, bei der Neckarbrücke). Eine [Anmeldung](https://cloud.fsi.uni-tuebingen.de/apps/forms/s/yyTbxtagcDYJCCp8M6kCkkGG) ist erforderlich.
 - Zur Kommunikation gibt es einen Matrix Space: [#tuebix-space:matrix.org](https://matrix.to/#/#tuebix-space:matrix.org)
   - Element Web Chat Link zum primären Kanal ("Tübix Talk"): [#tuebix:matrix.org](https://app.element.io/#/room/#tuebix:matrix.org)
 
