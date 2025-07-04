@@ -14,7 +14,4 @@ url: /2025/lageplan/
   Not supported by all browsers. Convert to SVG, provide a fallback,
   or use a direct link to the PDF instead of this page.
 -->
-TODO: Wird von uns noch erstellt :P
-<!--
 <embed src="../lageplan.pdf" type="application/pdf" width="100%" height="875">
--->
