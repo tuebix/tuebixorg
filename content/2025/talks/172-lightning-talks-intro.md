@@ -16,7 +16,7 @@ menu:
 Kurze Begrüßung, Aufbau und Beschreibung des Vorgehens.  
 Open mic nach den im Vorfeld eingereichten Lightning Talks.
 
-### Über mich
+### Über uns
 
 #### Michael Weiss
 

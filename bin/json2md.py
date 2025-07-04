@@ -128,8 +128,11 @@ for talk in data:
             if talk["vorwissen"]:
                 mdf.write("#### Vorwissen\n\n" + transform_linefeeds(talk["vorwissen"]) + "\n\n")
             if talk["aboutme"]:
-                # TODO: One or multiple speakers?
-                mdf.write("### Über mich\n\n")
+                # This hack could be improved:
+                if " & " in talk["name"]:
+                    mdf.write("### Über uns\n\n")
+                else:
+                    mdf.write("### Über mich\n\n")
                 mdf.write(transform_linefeeds(talk["aboutme"])+ "\n\n")
             if talk["weblinks"]:
                 mdf.write("### Links\n\n")
