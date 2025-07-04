@@ -378,11 +378,11 @@
         "weblinks": {}
     },
     {
-        "name": "Michael Weiss",
+        "name": "Michael Weiss & Christoph Prokop",
         "titel": "Lightning Talks Intro",
         "abstract": "Kurze Begr\u00fc\u00dfung, Aufbau und Beschreibung des Vorgehens.\nOpen mic nach den im Vorfeld eingereichten Lightning Talks.",
         "description": "",
-        "aboutme": "Softwareentwickler bzw. Sysadmin bei der science + computing AG in T\u00fcbingen (Teil von Atos/Eviden). Fr\u00fcherer NixOS Entwickler. Auf der T\u00fcbix seit 2017 im Orgateam (und seit 2016 als Teilnehmer/Speaker).",
+        "aboutme": "\n\n#### Michael Weiss\n\nSoftwareentwickler bzw. Sysadmin bei der science + computing AG in T\u00fcbingen (Teil von Atos/Eviden). Fr\u00fcherer NixOS Entwickler. Auf der T\u00fcbix seit 2017 im Orgateam (und seit 2016 als Teilnehmer/Speaker).\n\n#### Christoph Prokop\n\nIch mag Linux und Spiele.",
         "vorwissen": "",
         "urlid": "172-lightning-talks-intro",
         "duration": 5,
