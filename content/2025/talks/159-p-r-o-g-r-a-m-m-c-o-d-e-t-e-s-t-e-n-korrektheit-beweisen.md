@@ -17,7 +17,9 @@ Eine Schnupperstunde in Agda, der funktionalen Programmiersprache, mit der man d
 
 #### Beschreibung
 
-Erwartungsmanagement: Aktuell ist es noch so, dass es sich nur in wenigen Praxisfällen lohnt, den substanziellen Beweisaufwand einzugehen -- auch wenn (nahezu) absolute Korrektheitsgarantie winkt. Diese Whirlwind-Tour dient daher vor allem zur Erweiterung des Horizonts. (Und jede Menge Spaß macht sie auch.)
+**Erwartungsmanagement:** Aktuell ist es noch so, dass es sich nur in wenigen Praxisfällen lohnt, den substanziellen Beweisaufwand einzugehen -- auch wenn (nahezu) absolute Korrektheitsgarantie winkt. Diese Whirlwind-Tour dient daher vor allem zur Erweiterung des Horizonts. (Und jede Menge Spaß macht sie auch.)
+
+**Hinweis:** Um 15:00 Uhr gibt es noch einen [weiteren Vortrag zum gleichen Thema](https://www.tuebix.org/2025/programm/146-wenn-s-drauf-ankommt-code-korrekt-beweisen/). Die beiden Vorträge ergänzen sich -- in Mikes Vortrag geht es um Isabelle, hier geht es um Agda. Beides sind Beweisassistenzsysteme, allerdings mit ziemlich verschiedenen Designprinzipien, Vorteilen und Nachteilen. Beide Vorträge eignen sich zum Reinschnuppern.
 
 ### Über mich
 
