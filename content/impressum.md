@@ -30,6 +30,7 @@ Sand 13<br />
 
 * David Binder
 * Holger Gantikow
+* Alexander Phi. Goetz
 * Marco Häberle
 * Lukas Oertel
 * Gabriel Paradzik
