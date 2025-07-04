@@ -23,6 +23,10 @@ from the Greek. It is a theory of all dynamic systems. It deals in particular wi
 \url{https://wirtschaftslexikon.gabler.de/definition/kybernetik-41182}  
 and has its origins in the middle of the 20th century.
 
+#### Vorwissen
+
+Grundkenntniss in ML sind hilfreich, jedoch nicht erforderlich.
+
 ### Über mich
 
 #57  

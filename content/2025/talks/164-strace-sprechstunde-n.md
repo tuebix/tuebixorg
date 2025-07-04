@@ -36,6 +36,10 @@ Der Workshop soll anregen, strace kennen zulernen, und neue Ideen im Umgang mit 
 
 Auf diesen alten Folien (https://www.luga.de/download/Vortraege/lit2016-strace.pdf) gibt es ab Seite 10 so einiges über strace zu schmökern...
 
+#### Vorwissen
+
+kein Vorwissen erforderlich – nur ein wenig Interesse an strace und den Linux Kernel-Calls
+
 ### Über mich
 
 Physik-Studium in Tübingen,  

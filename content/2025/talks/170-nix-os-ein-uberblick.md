@@ -28,6 +28,10 @@ Nix(OS) verfügt unter anderem über folgende Features:
 - Reliable and atomic updates  
 - Rollbacks
 
+#### Vorwissen
+
+Zum besseren Verständnis hilft es bereits (genauer) mit anderen Linux Distributionen bzw. Paketmanagern vertraut zu sein.
+
 ### Über mich
 
 Softwareentwickler bzw. Sysadmin bei der science + computing AG in Tübingen (Teil von Atos/Eviden). Früherer NixOS Entwickler. Auf der Tübix seit 2017 im Orgateam (und seit 2016 als Teilnehmer/Speaker).

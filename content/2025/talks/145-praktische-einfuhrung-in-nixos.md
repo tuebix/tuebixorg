@@ -29,3 +29,9 @@ NixOS ist eine fast 20 Jahre bestehende Linux-Distribution mit dem radikal ander
 
 In diesem Workshop schauen wir uns das in der Praxis an.
 
+#### Vorwissen
+
+Laptop mitbringen, möglichst schon versuchen, nix vorher zu installieren (https://nixos.org/download/, oben unter "Nix". Geht auf allen Linux-Distributionen und stört das restliche Betriebssystem nicht. Oder man macht sich eine NixOS VM, geht natürlich auch.).
+
+Ansonsten die grundlegenden Linux Dinge, Textdateien bearbeiten, im Terminal arbeiten, bisschen git, etc. sollte beherrscht werden.
+

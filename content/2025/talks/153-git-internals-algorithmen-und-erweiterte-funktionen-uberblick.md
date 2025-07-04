@@ -23,6 +23,12 @@ Im zweiten Teil werden wir uns darauf aufbauend einen Überblick über die CLI u
 
 Auf Grund der begrenzten Zeit wird es eher ein Vortrag zum mitmachen als ein richtiger Workshop.
 
+#### Vorwissen
+
+Am besten sollte man Git schon verwendet haben und zumindest grob damit vertraut sein. Aus zeitlichen Gründen müssen wir etwas Tempo machen und werden direkt in die Details eintauchen (also z.B. eine Einführung/Motivation zu Versionskontrollsystemen (VCS) überspringen). Die Zielgruppe sind Git Benutzer die mit den Grundlagen der Git CLI vertraut sind und gerne die interne Funktionsweise sowie erweiterte Funktionen erlernen möchten.
+
+Wenn man mitmachen will kann man gerne einen eigenen Laptop mit vorinstalliertem Git mitbringen.
+
 ### Über mich
 
 Softwareentwickler bzw. Sysadmin bei der science + computing AG in Tübingen (Teil von Atos/Eviden). Früherer NixOS Entwickler. Auf der Tübix seit 2017 im Orgateam (und seit 2016 als Teilnehmer/Speaker).

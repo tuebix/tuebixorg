@@ -17,6 +17,10 @@ Da Holger dieses Jahr noch nicht so ganz mit der Abarbeitung seiner Todo-Liste h
 
 Aktuell plant er entweder einen "vollen" Talk zu Container im Kontext von HPC/Automotive ("2025 Update") oder Security - oder (wahrscheinlicher) 2 kleine zu den Themen.
 
+#### Vorwissen
+
+Ein spezielles Vorwissen der Zuhörer wird nicht vorausgesetzt. Interesse an HPC, Virtualisierung, speziell Containern ist sicherlich von Vorteil, um eine rege Diskussion und Erfahrungsaustausch zu gewährleisten.
+
 ### Über mich
 
 Holger Gantikow arbeitet als IT-Landscape Architect für Atos/Eviden science + computing in Tübingen.  

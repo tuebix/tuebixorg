@@ -23,6 +23,10 @@ Dazu werden zentrale Konzepte des Linux-Netzwerkstacks kurz erklärt und gezeigt
 
 Ein vollständiges Verständnis des Kernels ist dabei nicht das Ziel (das wäre in 20 Minuten auch ziemlich schwer), dafür aber ein erster Schritt und Anreiz zur eigenen Erforschung des Kernels.
 
+#### Vorwissen
+
+Grundlegendes Vorwissen über Betriebssyteme, Programmiersprachen und den Linux Kernel ist meiner Meinung nach notwendig.  Vor allem, um überhaupt ein Interesse am Lesen von Quellcode zu haben. Weiterhin ist ein wenig Wissen über Netzwerkrotokollen (Pakete, IP, TCP, UDP) sehr hilfreich.
+
 ### Über mich
 
 Ich bin Moritz, arbeite an der Uni im Bereich Netzwerktechnik. Mit Linux beschäftige ich mich schon seit längerem, aber erst seit kurzem mit dem Kernel selbst.  
