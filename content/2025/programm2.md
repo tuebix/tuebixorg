@@ -14,9 +14,9 @@ menu: main
 
 Alternativ kann das Program auch über Pretalx angesehen werden: [cfp.tuebix.org/tuebix-2025/schedule/](https://cfp.tuebix.org/tuebix-2025/schedule/)
 
-Unter iOS kann auch [diese App](https://apps.apple.com/us/app/tuebix/id1469354958) das Programm anzeigen.
-
 Unter Android kann man folgenden Link verwenden um das Programm in die App [Giggity](https://github.com/Wilm0r/giggity) zu laden: [https://ggt.gaa.st/#url=https://cfp.tuebix.org/tuebix-2025/schedule/export/schedule.xml](https://ggt.gaa.st/#url=https://cfp.tuebix.org/tuebix-2025/schedule/export/schedule.xml)
+
+Unter iOS kann auch diese [inoffizielle Tuebix App](https://apps.apple.com/us/app/tuebix/id1469354958) das Programm anzeigen.
 
 <table>
 <tr><td></td><td></td><td></td><td></td><td>Raum W1 (B116)</td></tr>

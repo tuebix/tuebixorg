@@ -61,9 +61,9 @@ with open('programm2.md', 'w') as prog2:
     """))
     prog2.write("Alternativ kann das Program auch über Pretalx angesehen werden: ")
     prog2.write(f"[cfp.tuebix.org/tuebix-{YEAR}/schedule/](https://cfp.tuebix.org/tuebix-{YEAR}/schedule/)\n\n")
-    prog2.write("Unter iOS kann auch [diese App](https://apps.apple.com/us/app/tuebix/id1469354958) das Programm anzeigen.\n\n")
     giggity_link = f"https://ggt.gaa.st/#url=https://cfp.tuebix.org/tuebix-{YEAR}/schedule/export/schedule.xml"
     prog2.write(f"Unter Android kann man folgenden Link verwenden um das Programm in die App [Giggity](https://github.com/Wilm0r/giggity) zu laden: [{giggity_link}]({giggity_link})\n\n")
+    prog2.write("Unter iOS kann auch diese [inoffizielle Tuebix App](https://apps.apple.com/us/app/tuebix/id1469354958) das Programm anzeigen.\n\n")
     prog2.write("<table>\n")
 
 visited_rooms = []
