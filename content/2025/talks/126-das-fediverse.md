@@ -7,7 +7,7 @@ menu:
 ---
 ## Das Fediverse
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V2 (F112)
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V2 (F122)
 
 ### Andreas Grupp
 

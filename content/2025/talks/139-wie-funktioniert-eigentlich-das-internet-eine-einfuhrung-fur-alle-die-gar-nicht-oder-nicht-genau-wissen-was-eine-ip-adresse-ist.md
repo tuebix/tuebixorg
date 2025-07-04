@@ -7,7 +7,7 @@ menu:
 ---
 ## Wie funktioniert eigentlich das Internet? Eine Einführung für alle, die gar nicht oder nicht genau wissen, was eine IP-Adresse ist
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V2 (F112)
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V2 (F122)
 
 ### Ingo Blechschmidt
 

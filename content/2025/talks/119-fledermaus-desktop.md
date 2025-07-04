@@ -7,7 +7,7 @@ menu:
 ---
 ## Fledermaus Desktop
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum V2 (F112)
+### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum V2 (F122)
 
 ### Olaf Flebbe
 

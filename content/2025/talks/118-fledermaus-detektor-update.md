@@ -7,7 +7,7 @@ menu:
 ---
 ## Fledermaus Detektor update
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:20 in Raum V2 (F112)
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:20 in Raum V2 (F122)
 
 ### Olaf Flebbe
 

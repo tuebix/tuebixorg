@@ -7,7 +7,7 @@ menu:
 ---
 ## Linux Inlaws - World Domination by Accident
 
-### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V2 (F112)
+### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V2 (F122)
 
 ### Dr. Christoph Zimmermann
 

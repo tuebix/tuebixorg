@@ -7,7 +7,7 @@ menu:
 ---
 ## FLOSS an Hochschulen - Quo vadis?
 
-### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:50 in Raum V2 (F112)
+### <img height = "32" src="../../../images/talk.svg"> 13:00 bis 13:50 in Raum V2 (F122)
 
 ### Dr. Christoph Zimmermann
 

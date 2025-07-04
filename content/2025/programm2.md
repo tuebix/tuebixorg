@@ -48,7 +48,7 @@ Unter iOS kann auch diese [inoffizielle Tuebix App](https://apps.apple.com/us/ap
 <tr><td>18:00</td><td>bis</td><td>18:20</td><td><a class="talk2"></a></td><td><a href="../programm/tuebix-exit">Tübix&nbsp;exit</a></td><td>Tübix&nbsp;Orga&nbsp;Team</td></tr>
 <tr><td>18:30</td><td>bis</td><td>20:20</td><td><a class="work"></a></td><td><a href="../programm/166-hacker-jeopardy">Hacker&nbsp;Jeopardy</a></td><td>Harald&nbsp;König</td></tr>
 <tr><td>&nbsp;</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>Raum V2 (F112)</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>Raum V2 (F122)</td></tr>
 <tr><td>10:00</td><td>bis</td><td>10:50</td><td><a class="talk"></a></td><td><a href="../programm/132-linux-inlaws-world-domination-by-accident">Linux&nbsp;Inlaws&nbsp;-&nbsp;World&nbsp;Domination&nbsp;by&nbsp;Accident</a></td><td>Dr.&nbsp;Christoph&nbsp;Zimmermann</td></tr>
 <tr><td>11:00</td><td>bis</td><td>11:50</td><td><a class="talk"></a></td><td><a href="../programm/126-das-fediverse">Das&nbsp;Fediverse</a></td><td>Andreas&nbsp;Grupp</td></tr>
 <tr><td>12:00</td><td>bis</td><td>12:50</td><td><a class="talk"></a></td><td><a href="../programm/139-wie-funktioniert-eigentlich-das-internet-eine-einfuhrung-fur-alle-die-gar-nicht-oder-nicht-genau-wissen-was-eine-ip-adresse-ist">Wie&nbsp;funktioniert&nbsp;eigentlich&nbsp;das&nbsp;Internet?&nbsp;Eine&nbsp;Einführung&nbsp;für&nbsp;alle,&nbsp;die&nbsp;gar&nbsp;nicht&nbsp;oder&nbsp;nicht&nbsp;genau&nbsp;wissen,&nbsp;was&nbsp;eine&nbsp;IP-Adresse&nbsp;ist</a></td><td>Ingo&nbsp;Blechschmidt</td></tr>

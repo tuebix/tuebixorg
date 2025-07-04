@@ -7,7 +7,7 @@ menu:
 ---
 ## Elektroschrott vermeiden und Geld sparen mit OpenWRT
 
-### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:50 in Raum V2 (F112)
+### <img height = "32" src="../../../images/talk.svg"> 15:00 bis 15:50 in Raum V2 (F122)
 
 ### Christof Hanke
 

@@ -176,7 +176,7 @@
         "vorwissen": "",
         "urlid": "132-linux-inlaws-world-domination-by-accident",
         "duration": 50,
-        "room": "V2 (F112)",
+        "room": "V2 (F122)",
         "timebegin": "10:00",
         "timeend": "10:50",
         "weblinks": {}
@@ -190,7 +190,7 @@
         "vorwissen": "Keines",
         "urlid": "126-das-fediverse",
         "duration": 50,
-        "room": "V2 (F112)",
+        "room": "V2 (F122)",
         "timebegin": "11:00",
         "timeend": "11:50",
         "weblinks": {}
@@ -204,7 +204,7 @@
         "vorwissen": "",
         "urlid": "139-wie-funktioniert-eigentlich-das-internet-eine-einfuhrung-fur-alle-die-gar-nicht-oder-nicht-genau-wissen-was-eine-ip-adresse-ist",
         "duration": 50,
-        "room": "V2 (F112)",
+        "room": "V2 (F122)",
         "timebegin": "12:00",
         "timeend": "12:50",
         "weblinks": {}
@@ -218,7 +218,7 @@
         "vorwissen": "",
         "urlid": "123-floss-an-hochschulen-quo-vadis",
         "duration": 50,
-        "room": "V2 (F112)",
+        "room": "V2 (F122)",
         "timebegin": "13:00",
         "timeend": "13:50",
         "weblinks": {}
@@ -232,7 +232,7 @@
         "vorwissen": "Programmiergrundkenntnisse (in Python) sind w\u00fcnschenswert.",
         "urlid": "114-wie-uns-llms-beim-programmieren-helfen",
         "duration": 50,
-        "room": "V2 (F112)",
+        "room": "V2 (F122)",
         "timebegin": "14:00",
         "timeend": "14:50",
         "weblinks": {}
@@ -246,7 +246,7 @@
         "vorwissen": "Es wird nur geringes Fachwissen ben\u00f6tigt. Der Vortrag richtig sich explizit an interessierte Laien.",
         "urlid": "131-elektroschrott-vermeiden-und-geld-sparen-mit-openwrt",
         "duration": 50,
-        "room": "V2 (F112)",
+        "room": "V2 (F122)",
         "timebegin": "15:00",
         "timeend": "15:50",
         "weblinks": {}
@@ -260,7 +260,7 @@
         "vorwissen": "",
         "urlid": "119-fledermaus-desktop",
         "duration": 50,
-        "room": "V2 (F112)",
+        "room": "V2 (F122)",
         "timebegin": "16:00",
         "timeend": "16:50",
         "weblinks": {}
@@ -274,7 +274,7 @@
         "vorwissen": "",
         "urlid": "118-fledermaus-detektor-update",
         "duration": 20,
-        "room": "V2 (F112)",
+        "room": "V2 (F122)",
         "timebegin": "17:00",
         "timeend": "17:20",
         "weblinks": {}
