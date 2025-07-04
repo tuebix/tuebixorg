@@ -23,11 +23,16 @@ with open("schedule.json", "w") as file:
     json.dump(schedule, file)
 
 # TODO: Don't hardcode the year, answer IDs, etc.
-answers_url = f"https://cfp.tuebix.org/api/events/tuebix-{YEAR}/answers/?question=5&limit=100"
+answers_url = f"https://cfp.tuebix.org/api/events/tuebix-{YEAR}/answers/?question=5"
 req = urllib.request.Request(answers_url)
 req.add_header('Authorization', f'Token {os.environ["TUEBIX_PRETALX_TOKEN"]}')
 with urllib.request.urlopen(req) as data:
-    all_answers = json.load(data)["results"]
+    data = json.load(data)
+    if data["next"]:
+        # TODO: Implement pagination
+        print(f'Error: The API response for answers.json is paginated and only contains {len(data["results"])} out of {data["count"]} entries', file=sys.stderr)
+        sys.exit(0)
+    all_answers = data["results"]
 with open("answers.json", "w") as file:
     json.dump(all_answers, file)
 
