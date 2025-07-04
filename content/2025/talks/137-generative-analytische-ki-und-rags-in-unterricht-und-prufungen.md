@@ -23,6 +23,10 @@ Allerdings: Je mehr man sich auf die reine KI verlässt, je weniger eigene Kompe
 
 Der Vortrag ist ein Followup zu den Linux-Tagen 2025 in Chemnitz vom März 2025.
 
+#### Vorwissen
+
+Der Vortrag richtet sich vorwiegend an Lehrende und Schüler*innen. Für das Verständnis des einfachen API-Beispiels sind Einsteiger-Python-Kenntnisse nützlich, aber nicht zwingend erforderlich.
+
 ### Über mich
 
 Software-Entwickler, Professor für Software-Engineering und Vizepräsident Digitalisierung an der Hochschule Kaiserslautern/RLP

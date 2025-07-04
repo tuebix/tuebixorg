@@ -19,7 +19,6 @@ Data Scientists nutzen zunehmend LLMs (GitHub Copilot, LLama, Claude etc.) um sc
 
 Der Vortrag versucht Antworten auf die folgenden Fragen zu geben:  
 * Was dürft ihr von LLMs erwarten?  
-* Was könnt ihr mit Vibe Coding erreichen?  
 * Wie könnt ihr robuste und wartungsarme Software mit LLMs schreiben?  
   * Wie kommen wir zu unserem ersten Prototypen?  
   * Wie spezifizieren wir das Software-Design?  

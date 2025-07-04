@@ -18,6 +18,10 @@ Es kombiniert mehre existierende Open-Source Lösungen zu Messung von Netzwerk-P
 Um der perfSONAR Community etwas zurückzugeben, hat das BelWü mittlerweile einen eigenen öffentlichen perfSONAR Server gehostet.  
 Der Vortrag veranschaulicht die hierbei gewonnen Erfahrungen mit dem Aufsetzen und Verwenden von PerfSONAR und zeigt, wie das perfSONAR Toolkit bestehende Open Source Software zu einem eigenständigen neuen Open Source Software kombiniert.
 
+#### Vorwissen
+
+Grundlegende Vorkenntnisse im Netzwerkbereich sind hilfreich.
+
 ### Über mich
 
 Yannick arbeitet beim BelWü, dem Hochschulnetzbetreiber für Baden-Württemberg als Mitarbeiter im BwNET 2.0 Projekt – einer vom MWK Baden-Württemberg (MWK) geförderten Forschungsinitiative des Bundes, die aktuelle Forschung mit dem operativen Management von Kommunikationsnetzen verbindet. Im Rahmen des Projekts forscht er im Bereich Netzwerk Monitoring und ist unter anderem an der Entwicklung der Open-Source Flow Monitoring Software "Flowpipeline" beteiligt.

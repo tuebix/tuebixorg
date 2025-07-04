@@ -23,7 +23,7 @@ with open("schedule.json", "w") as file:
     json.dump(schedule, file)
 
 # TODO: Don't hardcode the year, answer IDs, etc.
-answers_url = f"https://cfp.tuebix.org/api/events/tuebix-{YEAR}/answers/?format=json&limit=100"
+answers_url = f"https://cfp.tuebix.org/api/events/tuebix-{YEAR}/answers/?question=5&limit=100"
 req = urllib.request.Request(answers_url)
 req.add_header('Authorization', f'Token {os.environ["TUEBIX_PRETALX_TOKEN"]}')
 with urllib.request.urlopen(req) as data:

@@ -23,6 +23,10 @@ Im Vortrag geht es speziell darum, Code mit Hilfe mathematisch korrekt zu beweis
 
 Der Vortrag zeigt, wo der Einsatz solcher Werkzeuge sinnvoll ist und wie ihr Einsatz in der Praxis abläuft.
 
+#### Vorwissen
+
+grundlegende Programmierkenntnisse
+
 ### Über mich
 
 Dr. Michael Sperber ist Geschäftsführer der Active Group GmbH, die Individualsoftware mit funktionaler Programmierung entwickelt. Er ist international anerkannter Experte für funktionale Programmierung und wendet sie seit über 20 Jahren in Forschung, Lehre und industrieller Entwicklung an. Außerdem hat er zahlreiche Fachartikel und Bücher zum Thema verfasst, sowie das Curriculum für das iSAQB-Advanced-Modul "Formale Methoden" (zusammen mit Lars Hupel). Michael Sperber ist Mitbegründer des Blogs funktionale-programmierung.de und Mitorganisator der Entwicklerkonferenz BOB.
