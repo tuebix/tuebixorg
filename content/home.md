@@ -5,13 +5,13 @@ url: /index.html
 
 Der Tübix ist ein
 <a href="https://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a>
-und fand 2015-2019 sowie 2023-2024 jeweils gegen Juni/Juli in
+und fand 2015-2019 sowie 2023-2025 jeweils gegen Juni/Juli in
 <a href="https://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a>
 statt.<br/>
 Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 
 **News:**
-- **Der Tübix 2025 findet am [05. Juli](Tübix2025.ics) statt.**
+- Der Tübix 2025 fand am [05. Juli](Tübix2025.ics) statt.
 - **Feedback-Pad** für 2025: [https://pad.tuebix.org/QU2xBFX_QHOocOtFhkAOfA?both](https://pad.tuebix.org/QU2xBFX_QHOocOtFhkAOfA?both)
 - Das [Programm für 2025](2025/programm/) ist nun veröffentlicht und auch über
   Pretalx verfügbar:<br/>
