@@ -11,11 +11,8 @@ statt.<br/>
 Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 
 **News:**
-- Der Tübix 2025 fand am [05. Juli](Tübix2025.ics) statt.
 - **Feedback-Pad** für 2025: [https://pad.tuebix.org/QU2xBFX_QHOocOtFhkAOfA?both](https://pad.tuebix.org/QU2xBFX_QHOocOtFhkAOfA?both)
-- Das [Programm für 2025](2025/programm/) ist nun veröffentlicht und auch über
-  Pretalx verfügbar:<br/>
-  [cfp.tuebix.org/tuebix-2025/schedule/](https://cfp.tuebix.org/tuebix-2025/schedule/)
+  - Der Tübix 2025 fand am [05. Juli](Tübix2025.ics) statt.
 - Zur Kommunikation gibt es einen Matrix Space: [#tuebix-space:matrix.org](https://matrix.to/#/#tuebix-space:matrix.org)
   - Element Web Chat Link zum primären Kanal ("Tübix Talk"): [#tuebix:matrix.org](https://app.element.io/#/room/#tuebix:matrix.org)
 
