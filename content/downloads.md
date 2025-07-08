@@ -6,6 +6,13 @@ weight: 15
 menu: main
 ---
 
+# 2025
+
+- Programm:   <a href="/2025/programm/">https://www.tuebix.org/2025/programm/</a>
+- Downloads:  <a href="https://tuebix.github.io/tuebix-downloads-2025/">https://tuebix.github.io/tuebix-downloads-2025/</a>
+- Repository: <a href="https://github.com/tuebix/tuebix-downloads-2025">https://github.com/tuebix/tuebix-downloads-2025</a>
+- Alles:      <a href="https://github.com/tuebix/tuebix-downloads-2025/archive/main.zip">https://github.com/tuebix/tuebix-downloads-2025/archive/main.zip (ca. 59 MiB)</a>
+
 # 2024
 
 - Programm:   <a href="/2024/programm/">https://www.tuebix.org/2024/programm/</a>
