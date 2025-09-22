@@ -21,7 +21,7 @@ menu: main
 Seit 2024 existiert der Tübix auch als eingetragener Verein und wird unter der Nummer VR 726656 im Vereinsregister des Amtsgerichts Stuttgart geführt.
 
 Tübix e.V.<br />
-Sand 13<br />
+Sand 14<br />
 72076 Tübingen<br />
 
 # Organisationsteam Tübix 2025
@@ -67,6 +67,6 @@ Der Code für diese Website findet sich unter [github.com/tuebix/tuebixorg](http
 
 # Ansprechpartner für diese Webseite
 Benjamin Steinert<br />
-Sand 13<br />
+Sand 14<br />
 72076 Tübingen<br />
 [{{% param author.email %}}](mailto:{{% param author.email %}})<br />
