@@ -3,7 +3,6 @@ layout: page
 title: Programm
 url: /2025/programm/
 weight:
-menu: main
 ---
 
 * <span style="font-weight: bold;">Programm</span>

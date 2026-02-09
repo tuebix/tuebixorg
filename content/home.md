@@ -12,7 +12,7 @@ Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind unter <a href="d
 
 **News:**
 - **Der Tübix 2026 findet am [04. Juli](Tübix2026.ics) statt.**
-  - Weitere Details und ein CfP werden zu gegebener Zeit veröffentlicht.
+  - **Der [Call for Papers](callforpapers/) ist eröffnet und läuft bis zum 4. Mai**
   - Die Anmeldung für das [Jugendprogramm ist eröffnet](https://teckids.org/blog/2026/01/froglabs-tuebix-glt/).
 - Zur Kommunikation gibt es einen Matrix Space: [#tuebix-space:matrix.org](https://matrix.to/#/#tuebix-space:matrix.org)
   - Element Web Chat Link zum primären Kanal ("Tübix Talk"): [#tuebix:matrix.org](https://app.element.io/#/room/#tuebix:matrix.org)
