@@ -14,7 +14,7 @@ Siebdruck auf Stanley/Stella Creator 2.0 T-Shirt
 Bio, Fair Wear zertifiziert, bedruckt in Deutschland
 
 **Preis: 25€**  
-**Reservierung bis zum 22.05.2026**
+**Reservierung bis zum 21.05.2026**
 
 Das T-Shirt kannst du am Tübix gegen **Barzahlung** am Infostand abholen.  
 Wir können keine T-Shirts versenden.
