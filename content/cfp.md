@@ -9,7 +9,7 @@ weight: 10
 menu: main
 ---
 
-**Deadline für Einreichungen (außer Lightning Talks): 04.05.2026**
+**Deadline für Einreichungen (außer Lightning Talks): 11.05.2026**
 
 Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brauchen wir DICH!
 Hast du Lust dein Wissen und deine Erfahrung zu teilen?
