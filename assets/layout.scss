@@ -91,6 +91,11 @@
 /**
  * Site footer
  */
+p.ctext {
+    text-align: center;
+    font-style: italic;
+}
+
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
@@ -107,53 +112,43 @@
     margin-left: 0;
 }
 
-.footer-col-wrapper {
-    font-size: 15px;
-    color: $grey-color;
-    margin-left: -$spacing-unit / 2;
-    @extend %clearfix;
+.footer-contacts {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
-.footer-col {
-    float: left;
-    margin-bottom: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
+/* Sets up the 3-column layout */
+.footer-sponsors {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 equal columns (1/3 each) */
+    gap: 2rem; /* Replaces your inline padding for clean spacing */
+    align-items: center; /* Centers logos vertically */
+    justify-items: center; /* Centers logos horizontally within their 1/3 slot */
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
-.footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width: calc(35% - (#{$spacing-unit} / 2));
+/* Ensures the links act as proper containers */
+.sponsor-link {
+    display: flex;
+    justify-content: center;
+    width: 100%;
 }
 
-.footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width: calc(20% - (#{$spacing-unit} / 2));
+/* Restricts the images so they never break out of their 1/3 boundary */
+.sponsor-image {
+    max-width: 100%; /* Forces the image to never exceed its grid column */
+    height: auto;    /* Keeps the aspect ratio from stretching */
+    max-height: 100px; /* Optional: adjust this so they don't get absurdly tall */
+    object-fit: contain;
+    margin-bottom: 1rem;
 }
 
-.footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width: calc(45% - (#{$spacing-unit} / 2));
-}
-
-@include media-query($on-laptop) {
-
-    .footer-col-1,
-    .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width: calc(50% - (#{$spacing-unit} / 2));
-    }
-
-    .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width: calc(100% - (#{$spacing-unit} / 2));
-    }
-}
-
-@include media-query($on-palm) {
-    .footer-col {
-        float: none;
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width: calc(100% - (#{$spacing-unit} / 2));
+@media (max-width: 640px) {
+    .footer-sponsors {
+        grid-template-columns: repeat(2, 1fr);
     }
 }
 
@@ -234,10 +229,6 @@
             font-size: 18px;
         }
     }
-}
-
-p.rtext {
-    text-align: right;
 }
 
 ul.sponsor-list {
