@@ -120,7 +120,7 @@ p.ctext {
 }
 
 /* Sets up the 3-column layout */
-.footer-sponsors {
+.footer-images {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* 3 equal columns (1/3 each) */
     gap: 2rem; /* Replaces your inline padding for clean spacing */
@@ -131,14 +131,14 @@ p.ctext {
 }
 
 /* Ensures the links act as proper containers */
-.sponsor-link {
+.footer-link {
     display: flex;
     justify-content: center;
     width: 100%;
 }
 
 /* Restricts the images so they never break out of their 1/3 boundary */
-.sponsor-image {
+.footer-image {
     max-width: 100%; /* Forces the image to never exceed its grid column */
     height: auto;    /* Keeps the aspect ratio from stretching */
     max-height: 100px; /* Optional: adjust this so they don't get absurdly tall */
@@ -147,7 +147,7 @@ p.ctext {
 }
 
 @media (max-width: 640px) {
-    .footer-sponsors {
+    .footer-images {
         grid-template-columns: repeat(2, 1fr);
     }
 }
@@ -229,10 +229,4 @@ p.ctext {
             font-size: 18px;
         }
     }
-}
-
-ul.sponsor-list {
-    list-style: none;
-    margin-left: 0;
-    text-align: right;
 }
