@@ -7,12 +7,14 @@ $base-font-family: Helvetica, Arial, sans-serif;
 $base-font-size: 16px;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.5;
+$title-font-family: RetroPix;
+$accent-font-family: "Anonymous Pro";
 
 $spacing-unit: 30px;
 
 $text-color: #111;
 $background-color: #fdfdfd;
-$brand-color: #2a7ae2;
+$brand-color: #b81313;
 
 $grey-color: #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -49,4 +51,40 @@ $on-laptop: 800px;
 
 div.footnotes {
     font-size: 12px;
+}
+
+// Import custom fonts
+@font-face {
+  font-family: "RetroPix";
+  src: url("/fonts/RetroPix/retropix.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Anonymous Pro";
+  src: url("/fonts/AnonymousPro/Anonymous Pro.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Anonymous Pro";
+  src: url("/fonts/AnonymousPro/Anonymous Pro B.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Anonymous Pro";
+  src: url("/fonts/AnonymousPro/Anonymous Pro I.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Anonymous Pro";
+  src: url("/fonts/AnonymousPro/Anonymous Pro BI.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
 }
