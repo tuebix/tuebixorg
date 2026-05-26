@@ -1,6 +1,6 @@
 <header class="site-header">
   <div class="wrapper">
-    <a href="/"><img src="/images/home-alpha-background.png" alt="Home" title="Home"></a><br/>
+    <div class="site-logo"><a href="/"><img src="/images/tuebix/tuebix_logo_with_pingu.svg" alt="Home" title="Home" height="150px"></a></div>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -12,7 +12,7 @@
       </a>
 
       <div class="trigger">
-        <a href="/"><img src="/images/tux.png" alt="Tux" title="Tux" height="25"></a>
+        <a class="page-link" href="/"><img src="/images/tuebix/pixel-penguin.svg" alt="Pixel Penguin" title="Pixel Penguin" height="25"></a>
 
         {{ range sort .Site.AllPages "Weight" }}{{ if .Title }}{{ if .Params.menu }}
             <a class="page-link" href="{{ .RelPermalink }}">{{ .Title }}</a>

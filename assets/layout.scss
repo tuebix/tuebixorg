@@ -8,6 +8,16 @@
 
     // Positioning context for the mobile navigation icon
     position: relative;
+    text-align: center;
+}
+
+.site-logo {
+  width: 100%;
+  margin: 0 auto; 
+
+  img {
+    height: 8em;
+  }
 }
 
 .site-title {
