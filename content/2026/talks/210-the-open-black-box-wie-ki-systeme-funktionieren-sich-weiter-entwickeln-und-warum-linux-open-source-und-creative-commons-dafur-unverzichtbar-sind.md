@@ -5,7 +5,9 @@ url: /2026/programm/210-the-open-black-box-wie-ki-systeme-funktionieren-sich-wei
 weight:
 menu:
 ---
-## The Open Black Box - Wie KI-Systeme funktionieren, sich weiter entwickeln, und warum Linux, Open Source und Creative Commons dafür unverzichtbar sind
+## The Open Black Box - Wie KI-Systeme funktionieren, sich weiter entwickeln,
+und warum Linux, Open Source und
+Creative Commons dafür unverzichtbar sind
 
 ### <img height = "32" src="../../../images/talk.svg"> 10:00 bis 10:50 in Raum V1 (F119)
 
