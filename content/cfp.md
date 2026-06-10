@@ -6,7 +6,7 @@ aliases:
     - /cfp/
 emailcfp: cfp@tuebix.org
 weight: 10
-menu: main
+menu:
 ---
 
 **Deadline für Einreichungen (außer Lightning Talks): 11.05.2026**
