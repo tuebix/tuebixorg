@@ -3,7 +3,7 @@ layout: page
 title: Impressum
 url: /impressum/
 weight: 9001
-menu: main
+menu: 
 ---
 
 # Kontakt
