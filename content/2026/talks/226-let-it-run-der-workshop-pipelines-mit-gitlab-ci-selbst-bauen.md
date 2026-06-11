@@ -7,7 +7,7 @@ menu:
 ---
 ## let it run - Der Workshop: Pipelines mit GitLab CI selbst bauen
 
-### <img height = "32" src="../../../images/workshop.svg"> 12:00 bis 13:50 in Raum W2 (A302)
+### <img height = "32" src="../../../images/workshop.svg"> 12:30 bis 14:20 in Raum W2 (A302)
 
 ### Iryna Kosiakovska & Sebastian Preisner
 

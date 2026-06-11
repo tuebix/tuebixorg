@@ -7,7 +7,7 @@ menu:
 ---
 ## Wie sicher ist systemd wirklich?
 
-### <img height = "32" src="../../../images/talk.svg"> 11:30 bis 12:20 in Raum V1 (F119)
+### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:50 in Raum V1 (F119)
 
 ### Dr. Christoph Zimmermann
 

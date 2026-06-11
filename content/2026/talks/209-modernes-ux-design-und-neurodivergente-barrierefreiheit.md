@@ -9,7 +9,7 @@ menu:
 
 ### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum V4 (C118a)
 
-### Patricia Zuber
+### Patricia Zuber & Dr. Christoph Zimmermann
 
 #### Abstract
 
@@ -27,8 +27,16 @@ Der Vortrag ist wie folgt gegliedert:
 - Ausblick  
 - Diskussion / Q&A
 
-### Über mich
+### Über uns
+
+#### Patricia Zuber
 
 Patricia Zuber ist als ausgebildete Sozialarbeiterin und Psychologin im Bereich der Jugend- und Auszubildendenarbeit für einen großen deutschen IT-Konzern tätig. Im Rahmen ihrer mehr als zwanzigjährigen Industriekarriere hat sie sich auf das Thema Neurodivergenz und IT spezialisiert und hilft Jugendlichen und jungen Erwachsenen bei den Herausforderungen ihrer beginnenden IT-Karrieren. Aufgrund der Nachteile von Standardsoftware in diesem Konzernumfeld sowie der  
 der strategischen Bedeutung von quelloffener Software ist FLOSS Fokus ihrer täglichen Arbeit.
+
+#### Dr. Christoph Zimmermann
+
+Graubärtiger FLOSS-Hacker ohne Bart, besessen von Open-Source-Betriebssystemen und anderen Hipster-Themen.
+
+Meine erste Begegnung mit den FLOSS-Technologien war 1987, als ich einen Editor namens Emacs kompilierte. Diese Begegnung hatte einen bleibenden Effekt, so dass ich mich mehr als dreißig Jahre später immer noch mit FLOSS-Ökosystemen, -Technologien und -Gemeinschaften sowohl aus technischer als auch aus gesellschaftlicher und politischer Sicht beschäftige. Ich bin Vorstandsmitglied einer der größten deutschen Linux User Groups und regelmäßiger Referent auf deutschen und internationalen FLOSS-Veranstaltungen. Zusammen mit Martin Visser moderiere ich einen der am schnellsten wachsenden FLOSS-Podcasts namens Linux Inlaws. Zu anderen Hobbies gehören IT-Sicherheit, anderer Leute Computer, alles was mit Software-Entwicklung zu tun hat und andere Formen der schwarzen Kunst :-).
 

@@ -28,20 +28,6 @@
         "weblinks": {}
     },
     {
-        "name": "Kai Uwe Broulik",
-        "titel": "30 Jahre KDE",
-        "abstract": "Im Jahr 2026 wird das KDE-Projekt 30 Jahre alt \u2013 ein au\u00dfergew\u00f6hnlicher Meilenstein in einem so dynamischen \u00d6kosystem.",
-        "description": "In diesem Vortrag beleuchte ich die Herausforderungen der vergangenen Jahre und wie sich die KDE-Community angepasst hat, um weiterhin relevant zu bleiben, um eine perfekte User Experience auf Laptops, Smartphones und sogar Spielekonsolen zu bieten.\n\nNach einem kurzen Blick in unsere Geschichte sprechen wir dar\u00fcber, was die Zukunft f\u00fcr KDE bereith\u00e4lt und wie wir uns auf eine erfolgreiche und nachhaltige Zukunft in der sich stetig weiterentwickelnden Landschaft freier Software vorbereiten.",
-        "aboutme": "Kai Uwe Broulik ist seit 2011 Entwickler in der KDE Community. Beim Plasma Desktop betreut er insbesondere das Benachrichtigungssystem und die Browser-Integration. Mit seiner Qt-Erfahrung, dem Toolkit hinter KDE, hat er bereits Projekte auf Mobilplattformen, Desktops sowe im Automobil- und Embedded-Bereich umgesetzt.",
-        "vorwissen": "",
-        "urlid": "176-30-jahre-kde",
-        "duration": 20,
-        "room": "V1 (F119)",
-        "timebegin": "11:00",
-        "timeend": "11:20",
-        "weblinks": {}
-    },
-    {
         "name": "Dr. Christoph Zimmermann",
         "titel": "Wie sicher ist systemd wirklich?",
         "abstract": "Wie sicher ist systemd wirklich?\n\nKaum eine andere Komponente des Linux-\u00d6kosystems hat seit ihrer Einf\u00fchrung mehr Kontroversen erfahren als systemd, von technischer Kritik wie Benutzung von Bin\u00e4rformaten f\u00fcr Logging-Aspekte bis hin zur vollst\u00e4ndigen Elimination wie z. B. Devuan, ein Debian-Spin welcher explizit auf systemd verzichtet. \n\nUrspr\u00fcnglich gedacht als Ersatz f\u00fcr das in die Jahre gekommene SystemV-Init hat systemd mittlerweile einen Funktionsumfang erreicht, der von einem flexiblen Init-System \u00fcber Namensaufl\u00f6sung, Hypervisor-/Container-Funktionen bis hin zur Unterst\u00fctzung von Benutzerkonten \u00fcber Maschinengrenzen hinweg reicht.\n\nZiel des Vortrags ist ein \u00dcberblick \u00fcber die Sicherheitsaspekte von systemd - von einer Analyse des Quellcodes \u00fcber \u00fcber Angriffsoberfl\u00e4chenanalyse (inkl. Common Vulnerability and Exposures, CVEs) von systemd bis hin zur Github-Metriken, die \u00fcber die Issue Resolution, etc. Auskunft geben. Der Fokus liegt hierbei neben der reinen Pr\u00e4sentation von Inhalten auf dem Erfahrungsaustausch unter den Zuh\u00f6rern jenseits der Fragen im Anschlu\u00df an die Pr\u00e4sentation.\n\nDer Vortrag gliedert sich wie folgt:\n\n- Hintergrund / Einordnung,\n- Wesentliche Komponenten / Architektur,\n- Software-Qualit\u00e4t der Implementierung,\n- Analyse der Sicherheit der Codebasis,\n- Code-/Github-Metriken,\n- Publikumsdiskussion,\n- Ausblick.",
@@ -51,7 +37,21 @@
         "urlid": "200-wie-sicher-ist-systemd-wirklich",
         "duration": 50,
         "room": "V1 (F119)",
-        "timebegin": "11:30",
+        "timebegin": "11:00",
+        "timeend": "11:50",
+        "weblinks": {}
+    },
+    {
+        "name": "Kai Uwe Broulik",
+        "titel": "30 Jahre KDE",
+        "abstract": "Im Jahr 2026 wird das KDE-Projekt 30 Jahre alt \u2013 ein au\u00dfergew\u00f6hnlicher Meilenstein in einem so dynamischen \u00d6kosystem.",
+        "description": "In diesem Vortrag beleuchte ich die Herausforderungen der vergangenen Jahre und wie sich die KDE-Community angepasst hat, um weiterhin relevant zu bleiben, um eine perfekte User Experience auf Laptops, Smartphones und sogar Spielekonsolen zu bieten.\n\nNach einem kurzen Blick in unsere Geschichte sprechen wir dar\u00fcber, was die Zukunft f\u00fcr KDE bereith\u00e4lt und wie wir uns auf eine erfolgreiche und nachhaltige Zukunft in der sich stetig weiterentwickelnden Landschaft freier Software vorbereiten.",
+        "aboutme": "Kai Uwe Broulik ist seit 2011 Entwickler in der KDE Community. Beim Plasma Desktop betreut er insbesondere das Benachrichtigungssystem und die Browser-Integration. Mit seiner Qt-Erfahrung, dem Toolkit hinter KDE, hat er bereits Projekte auf Mobilplattformen, Desktops sowe im Automobil- und Embedded-Bereich umgesetzt.",
+        "vorwissen": "",
+        "urlid": "176-30-jahre-kde",
+        "duration": 20,
+        "room": "V1 (F119)",
+        "timebegin": "12:00",
         "timeend": "12:20",
         "weblinks": {}
     },
@@ -142,7 +142,7 @@
     {
         "name": "T\u00fcbix Orga Team",
         "titel": "T\u00fcbix exit",
-        "abstract": "- gemeinsamer Abschluss\n- [lottery.sh](https://cfp.tuebix.org/redirect/?url=http%3A//lottery.sh%3Aojo02T0njLCjckBqP-TRgJ_Lvboam1BX3QtDbMa92q0)\n- Ausblick auf n\u00e4chstes Jahr",
+        "abstract": "- gemeinsamer Abschluss\n- `./lottery.sh`\n- Ausblick auf n\u00e4chstes Jahr",
         "description": "",
         "aboutme": "Orga Team",
         "vorwissen": "",
@@ -406,11 +406,11 @@
         "weblinks": {}
     },
     {
-        "name": "Patricia Zuber",
+        "name": "Patricia Zuber & Dr. Christoph Zimmermann",
         "titel": "Modernes UX-Design und neurodivergente Barrierefreiheit",
         "abstract": "Moderne Barrierefreiheit wendet sich prim\u00e4re an Benutzer mit physischen Einschr\u00e4nkungen. Neuere Studien gehen von ca. einem Drittel der Weltbev\u00f6lkerung\taus, die keine k\u00f6rperlichen sondern Einschr\u00e4nkungen und somit neurodivergent sind (im IT-Umfeld ein deutlich h\u00f6herer Anteil).\n\nAber was ist Neurodivergenz \u00fcberhaupt und was bedeutet dieses im Alltag f\u00fcr Software? Und was bedeutet das f\u00fcr Benutzeroberfl\u00e4chen und genereller Bedienbarkeit von Software f\u00fcr diese Benutzergruppe? Dieser Vortrag gibt Antworten auf diese Fragen und zeigt bessere Alternativen zu den Standardans\u00e4tzen auf, da diese zum Teil erhebliche Einschr\u00e4nkungen f\u00fcr diese Benutzergruppe besitzen und damit die Bedienung unn\u00f6tig erschweren.\n\nDer Vortrag ist wie folgt gegliedert:\n\n- Einf\u00fchrung und Abgrenzung: Was ist Neurodivergenz \u00fcberhaupt und welche Arten gibt es?\n- Was bedeutet dieses f\u00fcr die Barrierefreiheit gegen\u00fcber physischen Einschr\u00e4nkungen?\n- Herausforderungen aus der Praxis am Beispiel ADHS und Autismus.\n- UX-Design im FLOSS-Umfeld.\n- FLOSS-L\u00f6sungsans\u00e4tze f\u00fcr Barrierefreiheit im Hinblick auf Neurodivergenz.\n- Ausblick\n- Diskussion / Q&A",
         "description": "",
-        "aboutme": "Patricia Zuber ist als ausgebildete Sozialarbeiterin und Psychologin im Bereich der Jugend- und Auszubildendenarbeit f\u00fcr einen gro\u00dfen deutschen IT-Konzern t\u00e4tig. Im Rahmen ihrer mehr als zwanzigj\u00e4hrigen Industriekarriere hat sie sich auf das Thema Neurodivergenz und IT spezialisiert und hilft Jugendlichen und jungen Erwachsenen bei den Herausforderungen ihrer beginnenden IT-Karrieren. Aufgrund der Nachteile von Standardsoftware in diesem Konzernumfeld sowie der \nder strategischen Bedeutung von quelloffener Software ist FLOSS Fokus ihrer t\u00e4glichen Arbeit.",
+        "aboutme": "\n\n#### Patricia Zuber\n\nPatricia Zuber ist als ausgebildete Sozialarbeiterin und Psychologin im Bereich der Jugend- und Auszubildendenarbeit f\u00fcr einen gro\u00dfen deutschen IT-Konzern t\u00e4tig. Im Rahmen ihrer mehr als zwanzigj\u00e4hrigen Industriekarriere hat sie sich auf das Thema Neurodivergenz und IT spezialisiert und hilft Jugendlichen und jungen Erwachsenen bei den Herausforderungen ihrer beginnenden IT-Karrieren. Aufgrund der Nachteile von Standardsoftware in diesem Konzernumfeld sowie der \nder strategischen Bedeutung von quelloffener Software ist FLOSS Fokus ihrer t\u00e4glichen Arbeit.\n\n#### Dr. Christoph Zimmermann\n\nGraub\u00e4rtiger FLOSS-Hacker ohne Bart, besessen von Open-Source-Betriebssystemen und anderen Hipster-Themen.\n\nMeine erste Begegnung mit den FLOSS-Technologien war 1987, als ich einen Editor namens Emacs kompilierte. Diese Begegnung hatte einen bleibenden Effekt, so dass ich mich mehr als drei\u00dfig Jahre sp\u00e4ter immer noch mit FLOSS-\u00d6kosystemen, -Technologien und -Gemeinschaften sowohl aus technischer als auch aus gesellschaftlicher und politischer Sicht besch\u00e4ftige. Ich bin Vorstandsmitglied einer der gr\u00f6\u00dften deutschen Linux User Groups und regelm\u00e4\u00dfiger Referent auf deutschen und internationalen FLOSS-Veranstaltungen. Zusammen mit Martin Visser moderiere ich einen der am schnellsten wachsenden FLOSS-Podcasts namens Linux Inlaws. Zu anderen Hobbies geh\u00f6ren IT-Sicherheit, anderer Leute Computer, alles was mit Software-Entwicklung zu tun hat und andere Formen der schwarzen Kunst :-).",
         "vorwissen": "",
         "urlid": "209-modernes-ux-design-und-neurodivergente-barrierefreiheit",
         "duration": 50,
@@ -644,6 +644,20 @@
         "weblinks": {}
     },
     {
+        "name": "Iryna Kosiakovska",
+        "titel": "let it run - Vom manuellen Eingriff zur Automatisierung mit GitLab CI",
+        "abstract": "Dieser Vortrag bietet den theoretischen Unterbau f\u00fcr den ebenfalls angebotenen Workshop und f\u00fchrt in die Welt von GitLab CI ein.",
+        "description": "Handarbeit in der Softwareentwicklung ist oft ein Synonym f\u00fcr Risiko. Lokales Testen und Deployment per Drag-and-drop f\u00fchren zu Inkonsistenzen und Zeit, die in repetitiven Aufgaben verloren geht. CI/CD-Pipelines (Continuous Integration / Continuous Delivery) k\u00f6nnen eine Antwort auf diese Herausforderungen sein. Sie fungieren als digitales Flie\u00dfband, das Code-Qualit\u00e4t sichert und Software zuverl\u00e4ssig ausliefert.",
+        "aboutme": "Ich arbeite als Junior Web-Entwicklerin und besch\u00e4ftige mich mit der Automatisierung von Themen im Bereich der Softwareenwicklung. Daneben beigeister mich die Enwicklung von Spring Boot- und node.js-Applikationen.",
+        "vorwissen": "",
+        "urlid": "225-let-it-run-vom-manuellen-eingriff-zur-automatisierung-mit-gitlab-ci",
+        "duration": 20,
+        "room": "W2 (A302)",
+        "timebegin": "12:00",
+        "timeend": "12:20",
+        "weblinks": {}
+    },
+    {
         "name": "Iryna Kosiakovska & Sebastian Preisner",
         "titel": "let it run - Der Workshop: Pipelines mit GitLab CI selbst bauen",
         "abstract": "Vom theoretischen Konzept zur praktischen Umsetzung: Wir erwecken die Konzepte aus dem Vortrag zum Leben.",
@@ -653,8 +667,8 @@
         "urlid": "226-let-it-run-der-workshop-pipelines-mit-gitlab-ci-selbst-bauen",
         "duration": 110,
         "room": "W2 (A302)",
-        "timebegin": "12:00",
-        "timeend": "13:50",
+        "timebegin": "12:30",
+        "timeend": "14:20",
         "weblinks": {}
     },
     {

@@ -7,7 +7,7 @@ menu:
 ---
 ## 30 Jahre KDE
 
-### <img height = "32" src="../../../images/talk.svg"> 11:00 bis 11:20 in Raum V1 (F119)
+### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:20 in Raum V1 (F119)
 
 ### Kai Uwe Broulik
 

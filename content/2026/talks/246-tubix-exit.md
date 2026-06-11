@@ -14,7 +14,7 @@ menu:
 #### Abstract
 
 - gemeinsamer Abschluss  
-- [lottery.sh](https://cfp.tuebix.org/redirect/?url=http%3A//lottery.sh%3Aojo02T0njLCjckBqP-TRgJ_Lvboam1BX3QtDbMa92q0)
+- `./lottery.sh`  
 - Ausblick auf nächstes Jahr
 
 ### Über mich
