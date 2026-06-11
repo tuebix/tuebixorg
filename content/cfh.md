@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Helfer
+title: Call for Helpers
 url: /callforhelpers/
 aliases:
     - /cfh/
 weight: 6
-menu:
+menu: main
 ---
 
 Pinguine sind Herdentiere und helfen einander. Das heißt: Ohne dich geht es
