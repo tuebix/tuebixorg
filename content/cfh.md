@@ -10,100 +10,33 @@ menu:
 
 Pinguine sind Herdentiere und helfen einander. Das heißt: Ohne dich geht es
 nicht! Aber zum Glück hast du viele Möglichkeiten, den Tübix mitzugestalten.
-Wenn du Lust hast, mit ein paar anderen netten Helfern ein paar Stunden
-anzupacken, übernimm doch eine Schicht im Catering. Bist du ein
-Organisationstalent? Dann können wir dich in der Programmunterstützung
-gebrauchen. Und falls du an deinem Tübix keine Lücke für eine Helferschicht
-hast, kannst du zum guten Gelingen des Tages vielleicht dadurch beisteuern, dass
-du einem Besucher von außerhalb ein Bett zur Verfügung stellst.
+Wenn du Lust hast, mit ein paar anderen netten Helfer\*innen ein paar Stunden
+anzupacken, übernimm doch eine Schicht an der Bar, an der Essensausgabe oder
+hilf uns beim Kochen.
 
+Seit diesem Jahr haben wir ein Helfi-Webinterface, in dem du dich ganz einfach
+selbst in die gewünschte Schicht eintragen kannst. Du siehst außerdem in 
+welchen Schichten noch besonders viel Bedarf besteht.
 
-Melden kann man sich als Helfer (bitte schnellstmöglich mit Angabe der gewünschten Position)
-per Mail an <a href="mailto:cfh@tuebix.org?subject=Helfer%20Tuebix">cfh@tuebix.org</a>.
+<div style="text-align: center; margin: 48px 0;">
+  <a href="https://helfer.tuebix.org"
+     style="display: inline-block; padding: 22px 56px; font-size: 1.7rem; font-weight: 700; font-family: 'Anonymous Pro', 'Courier New', monospace; letter-spacing: 1px; color: #ffffff; text-decoration: none; background: linear-gradient(135deg, #b81313 0%, #2b2b2b 100%); border-radius: 6px; box-shadow: 0 4px 14px rgba(0,0,0,0.3);"
+     onmouseover="this.style.boxShadow='0 8px 20px rgba(184,19,19,0.45)'; this.style.transform='translateY(-2px)';"
+     onmouseout="this.style.boxShadow='0 4px 14px rgba(0,0,0,0.3)'; this.style.transform='none';">
+    ► Hier Eintragen
+  </a>
+</div>
 
-Wir werden den aktuellen Stand (Bedarf und bereits besetzte Posten) hier ohne Namen aufführen:
-- X heißt "es hat sich bereits jemand gemeldet - besetzt"
-- O heißt "es besteht noch Bedarf - zu besetzen"
+Klapp' dir deine bevorzugte Schichtart und Uhrzeit aus und trage dich ein.
+Daraufhin bekommst du eine Email als Bestätigung. Solltest du von deiner
+Schicht zurücktreten wollen, findet sich der Abmeldelink in der Mail.
 
-## Grill (je 1h, 2 Personen)
-
-O O 15:00 - 16:00 Grillen<br/>
-O O 16:00 - 17:00 Grillen<br/>
-O O 17:00 - 18:00 Grillen<br/>
-X O 18:00 - 19:00 Grillen<br/>
-O O 19:00 - 20:00 Grillen<br/>
-
-## Getränkeausgabe (je 1h, 2 Personen)
-
-X X 10:00 - 11:00 Getränkeausgabe <br/>
-X X 11:00 - 12:00 Getränkeausgabe <br/>
-X X 12:00 - 13:00 Getränkeausgabe <br/>
-X X 13:00 - 14:00 Getränkeausgabe <br/>
-X X 14:00 - 15:00 Getränkeausgabe <br/>
-X X 15:00 - 16:00 Getränkeausgabe <br/>
-X X 16:00 - 17:00 Getränkeausgabe <br/>
-O O 17:00 - 18:00 Getränkeausgabe <br/>
-O O 18:00 - 19:00 Getränkeausgabe <br/>
-O O 19:00 - 20:00 Getränkeausgabe <br/>
-O O 20:00 - 21:00 Getränkeausgabe <br/>
-
-## Kochen
-Wir werden dieses Jahr veganes Chili kochen und mittags kostenlos verteilen. Wenn ihr dabei helfen wollt, wäre das eine sehr große Entlastung für uns. Treffpunkt ist um 9:30 bei Pfrondorf (mit dem Auto ca. 10 Minuten vom Sand entfernt). Die genaue Adresse teilen wir euch nach eurer Anmeldung mit. Solltet ihr nicht mit dem Auto anreisen, finden wir eine Lösung. Das Kochen wird ca. 3 Stunden dauern.
-
-X O O
-
-## Kuchen mitbringen
-
-Bring einen Kuchen mit, der dann kostenfrei gegen 14:00 allen zur Verfügung steht.<br/>
-Wir können den Kuchen im Kühlwagen aufbewahren, bring dafür am besten eine Tortenhaube mit.
-
-X X X X X X X X O O O O O O O O
-
-<!-- TODO
-## Kasse (je 2h, 1 Person)
-
-O 10:00 - 12:00 Kasse<br/>
-O 12:00 - 14:00 Kasse<br/>
-O 14:00 - 16:00 Kasse<br/>
-O 16:00 - 18:00 Kasse<br/>
--->
-
-## Gästebett (Fr/Sa und Sa/So)
-
-Du hast ein Gästebett für Linux-Freunde mit weiter Anreise? Dann melde dich bei
-uns und gib Bescheid, wie viele Übernachtungen du ermöglichen könntest:
-
-O O O O O O O O O
-
-## Programmunterstützung (ganzer Tag, 2 Personen als Team)
-
-Wir suchen pro Raum zwei Leute, die bereit sind, den Ablauf innerhalb eines
-Raums über den Tag hinweg zu betreuen.
-Dies beinhaltet vor allem Unterstützung der Redner während der Wechsel zwischen
-den Vorträgen, Beamer und Laptop zu verbinden, Sitzplatzdefragmentierung
-anzuregen, regelmäßiges Lüften...
-Dies soll keineswegs bedeuten, dass man jeden Vortrag in diesem Raum hören muss!
-Wir nehmen pro Raum 2 Personen in die Liste und diese können sich dann
-absprechen, damit nicht jeder bei jedem Wechsel "vor Ort" sein muss.
-Sehr gerne kann man sich auch direkt als Gruppe für einen Raum anmelden und sich
-dann untereinander organisieren.
-
-O O Raumsupport V1<br/>
-O O Raumsupport V2<br/>
-O O Raumsupport V3<br/>
-O O Raumsupport V4<br/>
-O O Raumsupport V5<br/>
-
-O Raumsupport W1<br/>
-O Raumsupport W2<br/>
-O Raumsupport W3<br/>
+(Es gibt auch Goodies für liebe Menschen die mithelfen) 
 
 ## So kann jeder helfen
-
-- Bitte bringt nicht nur 20er-Scheine mit, damit wir nicht ins
-  Wechselgeld-Dilemma kommen: Je mehr Euro-Münzen und je weniger Scheine du
-  dabei hast, desto besser.
 - Hilf Müll zu vermeiden bzw. gleich wegzuräumen, damit wir die Räumlichkeiten
   auch in Zukunft nutzen dürfen.
 - Sei präsent: Wenn es an irgendeiner Stelle Handlungsbedarf gibt, dann handle
-  im Sinne der Veranstaltung!
+  im Sinne der Veranstaltung.
+- Sei aufmerksam: Wenn dir eine Situation grenzverletzenden Verhaltens auffällt,
+  schreite ein oder informiere das Orga-Team.

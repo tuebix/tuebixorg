@@ -14,13 +14,12 @@ unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 
 **Der Tübix 2026 findet am [04. Juli](T%C3%BCbix2026.ics) statt auf [dem
 Sand](./anfahrt.html) statt.**
-- Der **[Call for Papers](callforpapers/)** ist eröffnet und läuft bis zum 11.
-Mai.
+- Das **[Programm](https://cfp.tuebix.org/tuebix-2026/schedule/)** ist online, es können sich noch kurzfristige Änderungen ergeben.
+- Im **[Call for Papers](callforpapers/)** könnt ihr bis zum Tübix noch Lightning Talks einreichen.
 - Die
-**[Anmeldung für das Jugendprogramm](https://teckids.org/blog/2026/01/froglabs-tuebix-glt/)**
-ist eröffnet.
-- Die **[T-Shirt Reservierung](tshirt/)** läuft bis zum 21. Mai.
-- Der **[Call for Helpers](/)** startet demnächst.
+**[Anmeldung für das Kinder-/Jugendprogramm](https://teckids.org/blog/2026/01/froglabs-tuebix-glt/)**
+ist offen.
+- Der **[Call for Helpers](/callforhelpers/)** ist offen.
 
 Zur Kommunikation gibt es einen Matrix Space:
 [#tuebix-space:matrix.org](https://matrix.to/#/#tuebix-space:matrix.org)

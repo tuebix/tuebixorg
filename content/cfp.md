@@ -9,7 +9,18 @@ weight: 10
 menu:
 ---
 
-**Deadline für Einreichungen (außer Lightning Talks): 11.05.2026**
+**Call for Papers 2026 ist beendet.**
+
+**Lightning Talks können noch bis zum Tübix eingereicht werden:**
+
+<div style="text-align: center; margin: 48px 0;">
+  <a href="https://cfp.tuebix.org/tuebix-2026/cfp"
+     style="display: inline-block; padding: 22px 56px; font-size: 1.7rem; font-weight: 700; font-family: 'Anonymous Pro', 'Courier New', monospace; letter-spacing: 1px; color: #ffffff; text-decoration: none; background: linear-gradient(135deg, #b81313 0%, #2b2b2b 100%); border-radius: 6px; box-shadow: 0 4px 14px rgba(0,0,0,0.3);"
+     onmouseover="this.style.boxShadow='0 8px 20px rgba(184,19,19,0.45)'; this.style.transform='translateY(-2px)';"
+     onmouseout="this.style.boxShadow='0 4px 14px rgba(0,0,0,0.3)'; this.style.transform='none';">
+    ► Zur Einreichung
+  </a>
+</div>
 
 Wir möchten gerne ein abwechslungsreiches Angebot zusammenstellen und dazu brauchen wir DICH!
 Hast du Lust dein Wissen und deine Erfahrung zu teilen?
@@ -39,12 +50,9 @@ Du kannst in drei Geschmacksrichtungen zum Programm beitragen:
     Vortrags-Kategorie ist gedacht um Neulingen den Einstieg in die FOSS- und
     Linux-Welt schmackhaft zu machen und zu vereinfachen.
 
-<!--
 
 Der CfP ist zwar schon beendet, ABER du kannst sehr gerne noch einen Lightning
 Talk einreichen:
-
--->
 
 <h2><span><img height="36" width="36" src="../images/lightning.svg"></span> Lightning Talk</h2>
 
@@ -55,6 +63,7 @@ Talk einreichen:
   * Interesse wecken
   * Für Präsentationsfolien nur PDF möglich, diese vorher uns zukommen lassen, da Vorträge alle von einem Gerät aus (kein Umbau zwischen den Lightning Talks), eigener Laptop also NICHT möglich
 
+<!--
 # Du möchtest einen Beitrag beisteuern?
 
 Toll! Dann fülle rasch die Anmeldung aus!
@@ -62,5 +71,5 @@ Toll! Dann fülle rasch die Anmeldung aus!
 <div style="text-align: center; font-size: 250%; text-decoration: underline;">
   <a href="https://cfp.tuebix.org/tuebix-2026/cfp" target="_blank">Zur Anmeldung</a>
 </div>
-
+-->
 <p style="text-align: right;"><a href="https://www.flaticon.com" target="_blank">Bildquelle: flaticon.com</a></p>
