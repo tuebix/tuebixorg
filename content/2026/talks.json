@@ -462,6 +462,20 @@
         "weblinks": {}
     },
     {
+        "name": "Jeremia Geisler",
+        "titel": "Hilfe! Mein Vater hat eine 360\u00b0 Kamera! Eine Odyssee durch Windows Virtualisierung",
+        "abstract": "Der Versuch, eine Leistungsf\u00e4hige Windows-Virtualisierung mit GPU Passthrough unter POP!_OS einzurichten, um das Rendering-Problem eines schwachen Laptops zu l\u00f6sen",
+        "description": "",
+        "aboutme": "Hi! Ich bin Jeremia (Jerry) und bin Azubi bei der S+C AG T\u00fcbingen :)",
+        "vorwissen": "",
+        "urlid": "181-hilfe-mein-vater-hat-eine-360-kamera-eine-odyssee-durch-windows-virtualisierung",
+        "duration": 20,
+        "room": "V4 (C118a)",
+        "timebegin": "15:30",
+        "timeend": "15:50",
+        "weblinks": {}
+    },
+    {
         "name": "Thomas Huth",
         "titel": "QEMU - Virtualisierung auf der Kommandozeile",
         "abstract": "QEMU ist ein vielseitiges Programm f\u00fcr Emulation und Virtualisierung. Dieser Vortrag gibt einen \u00dcberblick wie man QEMU auf der Kommandozeile benutzt und erkl\u00e4rt das dazugeh\u00f6rige \u00d6kosystem.",
@@ -533,12 +547,12 @@
     },
     {
         "name": "Mynacol",
-        "titel": "DeLegacy: Forcing IPv6 at Scale",
-        "abstract": "Find out how to increase the proportion of IPv6 traffic by manipulating DNS responses, and how to persuade X/Twitter and Discord to support IPv6 _(caveats apply)_.",
-        "description": "Content Delivery Networks (CDNs) generate significant traffic, and almost all of them support IPv6. However, many websites that use CDNs lack IPv6 support. But when accessed over the right IPv6 address, these websites work without issue. With targeted DNS manipulations, the number of domains with IPv6 can be increased significantly. I have developed the [DeLegacy RPZ](https://codeberg.org/IPv6-Monostack/delegacy-rpz) project to achieve this.\nThis talk explains the underlying mechanisms and how they can be utilized for this purpose. It shows how standard DNS servers, such as BIND or Unbound, can be configured to perform this task instead of using custom code. I reveal how to use DNS [Response Policy Zones](https://wikipedia.org/wiki/Response_policy_zone), [DNAMEs](https://de.wikipedia.org/wiki/DNAME_Resource_Record), and [DNS64](https://datatracker.ietf.org/doc/rfc6147/) to implement the intended manipulations. I also present my approach to identifying and testing useful domains and IP addresses when creating new rules. Finally, I present statistics on the increased IPv6 penetration, based on the [Tranco list](https://tranco-list.eu/).",
-        "aboutme": "Hacker with passions for self hosting, security, privacy, NixOS and IPv6. Find me on the [Fediverse](https://social.mynacol.xyz/mynacol).",
+        "titel": "DeLegacy: Erzwinge IPv6 im gro\u00dfen Stil",
+        "abstract": "Erfahre, wie du den Anteil von IPv6-Verkehr erh\u00f6hen kannst, indem du DNS\u2011Antworten manipulierst und wie du X/Twitter und Discord dazu bringst, IPv6 zu unterst\u00fctzen _(es gelten Einschr\u00e4nkungen)_.",
+        "description": "Content Delivery Networks (CDNs) erzeugen viel Traffic, und fast alle unterst\u00fctzen IPv6. Dennoch fehlen vielen Webseiten, die diese CDNs nutzen, IPv6-Adressen. Werden sie jedoch \u00fcber die passende IPv6-Adresse angesprochen, funktionieren sie ohne Probleme. Durch gezielte DNS-Manipulationen l\u00e4sst sich die Anzahl der Domains mit IPv6 so deutlich steigern. Zu diesem Zweck habe ich das [DeLegacy RPZ Projekt](https://codeberg.org/IPv6-Monostack/delegacy-rpz) entwickelt.\nDieser Vortrag erl\u00e4utert die zugrunde liegenden Mechanismen und wie sie f\u00fcr diesen Zweck genutzt werden. Er zeigt, wie popul\u00e4re DNS-Server wie BIND oder Unbound so konfiguriert werden k\u00f6nnen, dass sie diese Aufgabe \u00fcbernehmen, statt eine weitere Software zu ben\u00f6tigen. Ich erkl\u00e4re, wie sich DNS [Response Policy Zones](https://dnsrpz.info/), [DNAMEs](https://de.wikipedia.org/wiki/DNAME_Resource_Record) und [DNS64](https://de.wikipedia.org/wiki/NAT64#DNS64) einsetzen lassen, um die beabsichtigten Manipulationen umzusetzen. Au\u00dferdem stelle ich meinen Ansatz vor, wie n\u00fctzliche Domains und IP-Adressen beim Erstellen neuer Regeln identifiziert und getestet werden. Abschlie\u00dfend pr\u00e4sentiere ich Statistiken zur gestiegenen IPv6-Verbreitung auf Basis der [Tranco-Liste](https://tranco-list.eu/).",
+        "aboutme": "Hacker, der sich f\u00fcr Self-Hosting, Sicherheit, Privatsph\u00e4re, NixOS und IPv6 interessiert. Du findest mich im [Fediverse](https://social.mynacol.xyz/mynacol).",
         "vorwissen": "",
-        "urlid": "196-delegacy-forcing-ipv6-at-scale",
+        "urlid": "196-delegacy-erzwinge-ipv6-im-groen-stil",
         "duration": 50,
         "room": "V5 (C215)",
         "timebegin": "13:00",
@@ -571,6 +585,20 @@
         "room": "V5 (C215)",
         "timebegin": "15:00",
         "timeend": "15:50",
+        "weblinks": {}
+    },
+    {
+        "name": "Roland Minner",
+        "titel": "Netzwerkprobleme und ihre h\u00e4ufigsten Ursachen",
+        "abstract": "In diesem Vortrag will ich beleuchten welches die typischen Ursachen f\u00fcr g\u00e4ngige Netzwerkprobleme sind.\nEs geht darum einen Leitfaden zu geben wie man bestimmte Fehlertypen erkennen und m\u00f6glicherweise l\u00f6sen kann.\n\nBeispiele:\n        * \"Connection refused\" / \"Connection reset by Peer\"\n        * \"Connection timed out\" - firewalls, host based firewalls, dual-homing mit rp_filter\n        * \"Connected\" aber danach Anwendung timeout - pathmtu blackholes\n        * \"No route to host\" - icmp administratively prohibited\n        * Performance Probleme\n                * ip fragmentation Schnelltest\n                * der Effekt von Latenz auf Durchsatz (BDP)\n                * Kleine Dateien und  Datentransfers\n                * Packetverlust in Cloud NICs\n                * ...",
+        "description": "",
+        "aboutme": "Experte f\u00fcr das Analysieren von Fehlerbildern in verbundenen Systemen und im Netzwerk",
+        "vorwissen": "",
+        "urlid": "240-netzwerkprobleme-und-ihre-haufigsten-ursachen",
+        "duration": 50,
+        "room": "V5 (C215)",
+        "timebegin": "16:00",
+        "timeend": "16:50",
         "weblinks": {}
     },
     {
@@ -633,7 +661,7 @@
         "name": "Dr. Matthias Kesenheimer",
         "titel": "Voltage Glitching",
         "abstract": "Moderne Mikrokontroller und SoCs (System-on-a-Chip) enthalten immer mehr Subsysteme. Dadurch werden sie leistungsf\u00e4higer und komplexer, aber auch fehleranf\u00e4lliger. Auch wenn die Hersteller alles daf\u00fcr tun, ihre Systeme zu sch\u00fctzen, bleiben oft Seitenkan\u00e4le bestehen, \u00fcber die die Chips angreifbar sind. Ein solcher Seitenkanalangriff nennt sich \u201eVoltage Glitching\u201d, den wir in diesem Workshop am Beispiel des STM8-Mikrokontrollers untersuchen werden.",
-        "description": "In diesem Workshop sollen die Teilnehmer*innen am Beispiel des STM8-Mikrokontrollers an das Thema Voltage Glitching herangef\u00fchrt werden. Der STM8 von STMicroelectronics verf\u00fcgt \u00fcber eine vom Hersteller implementierte Funktion, mit der sich der Speicherinhalt vor unberechtigtem Zugriff sch\u00fctzen l\u00e4sst. Dieser Zugriffschutz kann jedoch durch gezielte Manipulation der Spannungsversorgung umgangen werden. Um die Spannungsversorgung gezielt manipulieren zu k\u00f6nnen, setzen wir den Pico Glitcher ein, ein leistungsf\u00e4higes Ger\u00e4t zur Durchf\u00fchrung von Seitenkanalangriffen. Ziel des Workshops ist es, einen Einstieg in Seitenkanalangriffe zu erhalten, den Zugriffschutz moderner Mikrokontroller zu verstehen und zu lernen, wie sich moderne Systeme vor diesen Angriffen sch\u00fctzen lassen.",
+        "description": "In diesem Workshop sollen die Teilnehmer*innen am Beispiel des STM8-Mikrokontrollers an das Thema Voltage Glitching herangef\u00fchrt werden. Der STM8 von STMicroelectronics verf\u00fcgt \u00fcber eine vom Hersteller implementierte Funktion, mit der sich der Speicherinhalt vor unberechtigtem Zugriff sch\u00fctzen l\u00e4sst. Dieser Zugriffschutz kann jedoch durch gezielte Manipulation der Spannungsversorgung umgangen werden. Um die Spannungsversorgung gezielt manipulieren zu k\u00f6nnen, setzen wir den Pico Glitcher ein, ein leistungsf\u00e4higes Ger\u00e4t zur Durchf\u00fchrung von Seitenkanalangriffen. Ziel des Workshops ist es, einen Einstieg in Seitenkanalangriffe zu erhalten, den Zugriffschutz moderner Mikrokontroller zu verstehen und zu lernen, wie sich moderne Systeme vor diesen Angriffen sch\u00fctzen lassen.\n\nTeilnehmer*innen ben\u00f6tigen zur Teilnahme folgendes Equipment:\n- Einen eigenen Computer mit einer nativen Linux oder macOS Installation\n- Drei USB-A Anschl\u00fcsse oder entsprechende USB-A zu USB-C Adapter\n- Eine bereits installierte, aktuelle Python-Installation\n- Die Software Saleae Logic 2 (https://www.saleae.com/downloads) sollte im besten Fall auch schon vorinstalliert sein",
         "aboutme": "Matthias Kesenheimer ist ein erfahrener IT-Sicherheitsexperte mit einer Leidenschaft f\u00fcr Hardware-Hacking. Als Senior IT-Sicherheitsberater und Penetrationstester f\u00fcr die SySS GmbH ist er auf die praktische Ausnutzung von Schwachstellen spezialisiert und ber\u00e4t Kunden bei deren Beseitigung. Dar\u00fcber hinaus f\u00fchrt er regelm\u00e4\u00dfig Sicherheitsforschungen durch, wobei er sich auf Seitenkanal- und Voltage-Glitching-Angriffen spezialisiert hat.",
         "vorwissen": "",
         "urlid": "183-voltage-glitching",
