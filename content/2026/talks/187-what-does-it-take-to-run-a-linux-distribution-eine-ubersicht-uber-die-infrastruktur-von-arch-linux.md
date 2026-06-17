@@ -29,8 +29,8 @@ Bei einem Projekt wie Arch Linux ist natürlich nicht nur die grundsätzliche Se
 Damit alle etwas mitnehmen können versuche ich auch noch ein paar "lessons learned" zu formulieren, die sowohl auf die eigenen Projekt im Homelab anwendung finden sollten als auch auf Vereinsinfrastruktur etc., für die manche beim Tübix vielleicht verantwortlich sind.
 
 **Language Notice / Vortragssprache**:  
-- **English**: I can give this talk both in english or german depending on audience preference, although the slides will be in english so that I can reuse in later presentations.  
-- **Deutsch**: Ich kann den Vortrag wahlweise auf Deutsch oder Englisch halten, würde die Folien für bessere wiederverwendbarkeit aber auf Englisch machen.
+- **English**: I will give this talk in german, although the slides will be in english & questions can also be asked / answered in english.  
+- **Deutsch**: Ich werde den Vortrag auf Deutsch halten, würde die Folien für bessere Wiederverwendbarkeit aber auf Englisch machen.
 
 ### Über mich
 

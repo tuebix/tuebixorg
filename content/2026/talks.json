@@ -59,7 +59,7 @@
         "name": "Christian Heusel",
         "titel": "What does it take to run a Linux distribution? - Eine \u00dcbersicht \u00fcber die Infrastruktur von Arch Linux",
         "abstract": "Jeder hat andere Pr\u00e4ferenzen was die Linux-Distribution der Wahl angeht, allerdings macht man sich als Nutzer vermutlich selten Gedanken dar\u00fcber, wie die Distribution auf technischer Ebene eigentlich funktioniert und was zus\u00e4tzlich zur Kernfunktionalit\u00e4t alles an Infrastruktur zu einem gro\u00dfen FOSS Projekt dazu geh\u00f6rt.\n\nMit diesem Vortrag m\u00f6chte ich einen Einblick in die Infrastruktur von Arch Linux geben und auf die folgenden Aspekte eingehen:\n- Welche Services nutzen wir als Distribution und zu welchem Zweck?\n- Was sind unsere Kosten, wo wird die Infrastruktur konkret betrieben und wie wird sie gemanaged?\n- Was sind die besonderen Herausforderungen daran, Infrastruktur auf dieser Skala in ehrenamtlich zu betreuen?",
-        "description": "Das Arch Linux Projekt ist eine von Ehrenamtlichen betriebene general-purpose x86_64 Linux Distribution und in diesem Vortrag m\u00f6chte ich euch Einblicke in die Infrastruktur des Projekts geben sowie einige der Dienste vorstellen, von denen wir als selbst-gehostetes Projekt gebrauch machen und die dar\u00fcber hinaus auch bei vielen anderen Linux Distributionen im Hintergrund genutzt werden.\n\nBei einem Projekt wie Arch Linux ist nat\u00fcrlich nicht nur die grunds\u00e4tzliche Service-Architektur spannend sondern gibt es auch einige operative Aspekte, die dadurch, dass wir uns alle ehrenamtlich im Projekt einbringen, ziemlich spannend sind. Ich versuche deswegen auch ein paar Erfahrungsberichte von n\u00e4chtlichen DDoS Abwehrversuchen, Sponsorings und Firmen und dem Kampf mit LLM Crawlern als pers\u00f6nliche Anekdoten einflie\u00dfen zu lassen.\n\nDamit alle etwas mitnehmen k\u00f6nnen versuche ich auch noch ein paar \"lessons learned\" zu formulieren, die sowohl auf die eigenen Projekt im Homelab anwendung finden sollten als auch auf Vereinsinfrastruktur etc., f\u00fcr die manche beim T\u00fcbix vielleicht verantwortlich sind.\n\n**Language Notice / Vortragssprache**: \n- **English**: I can give this talk both in english or german depending on audience preference, although the slides will be in english so that I can reuse in later presentations. \n- **Deutsch**: Ich kann den Vortrag wahlweise auf Deutsch oder Englisch halten, w\u00fcrde die Folien f\u00fcr bessere wiederverwendbarkeit aber auf Englisch machen.",
+        "description": "Das Arch Linux Projekt ist eine von Ehrenamtlichen betriebene general-purpose x86_64 Linux Distribution und in diesem Vortrag m\u00f6chte ich euch Einblicke in die Infrastruktur des Projekts geben sowie einige der Dienste vorstellen, von denen wir als selbst-gehostetes Projekt gebrauch machen und die dar\u00fcber hinaus auch bei vielen anderen Linux Distributionen im Hintergrund genutzt werden.\n\nBei einem Projekt wie Arch Linux ist nat\u00fcrlich nicht nur die grunds\u00e4tzliche Service-Architektur spannend sondern gibt es auch einige operative Aspekte, die dadurch, dass wir uns alle ehrenamtlich im Projekt einbringen, ziemlich spannend sind. Ich versuche deswegen auch ein paar Erfahrungsberichte von n\u00e4chtlichen DDoS Abwehrversuchen, Sponsorings und Firmen und dem Kampf mit LLM Crawlern als pers\u00f6nliche Anekdoten einflie\u00dfen zu lassen.\n\nDamit alle etwas mitnehmen k\u00f6nnen versuche ich auch noch ein paar \"lessons learned\" zu formulieren, die sowohl auf die eigenen Projekt im Homelab anwendung finden sollten als auch auf Vereinsinfrastruktur etc., f\u00fcr die manche beim T\u00fcbix vielleicht verantwortlich sind.\n\n**Language Notice / Vortragssprache**: \n- **English**: I will give this talk in german, although the slides will be in english & questions can also be asked / answered in english. \n- **Deutsch**: Ich werde den Vortrag auf Deutsch halten, w\u00fcrde die Folien f\u00fcr bessere Wiederverwendbarkeit aber auf Englisch machen.",
         "aboutme": "Ich bin Christian und arbeite bei einigen OpenSource Projekten mit, zum Beispiel bei [Arch Linux](https://archlinux.org/) und bei [Kubeflow](https://github.com/kubeflow/) sowohl als Entwickler, f\u00fcr DevOps & Infrastrukturmanagement, als auch in verschiedenen Communityrollen (Main Signing Key, Bug Wrangler, Mediator etc.).\n\nSprich mich gerne einfach an, wenn es noch Fragen zu meinem Vortrag gibt oder du einfach Lust hast \u00fcber Communitybuilding, OpenSource allgemein oder anliegende Themen zu reden!\n\nFalls dar\u00fcber hinaus Interesse an einer Zusammenarbeit im beruflichen Kontext besteht biete ich auch verschiedene Leistungen als Contractor an!  \n\n**Links**:\n- [GitHub](https://github.com/christian-heusel)\n- [LinkedIn](https://www.linkedin.com/in/christian-heusel/)\n- [Arch Linux Gitlab](https://gitlab.archlinux.org/gromit/)",
         "vorwissen": "",
         "urlid": "187-what-does-it-take-to-run-a-linux-distribution-eine-ubersicht-uber-die-infrastruktur-von-arch-linux",
@@ -319,6 +319,20 @@
         "room": "V3 (A301)",
         "timebegin": "11:00",
         "timeend": "11:50",
+        "weblinks": {}
+    },
+    {
+        "name": "introspect_sentient",
+        "titel": "Lach und Sachgeschichten aus der Incident Response und digitalen Forensi",
+        "abstract": "Als Incident Responder und Forensiker plaudern wir aus dem N\u00e4hk\u00e4stchen. Euch erwartet ein best of des t\u00e4glichen Wahnsinns in der IT-Sicherheit.",
+        "description": "",
+        "aboutme": "Hi,\n\nich bin IT-Security und IT-Forensik Consultant bei der SySS GmbH.",
+        "vorwissen": "",
+        "urlid": "235-lach-und-sachgeschichten-aus-der-incident-response-und-digitalen-forensi",
+        "duration": 50,
+        "room": "V3 (A301)",
+        "timebegin": "12:00",
+        "timeend": "12:50",
         "weblinks": {}
     },
     {
