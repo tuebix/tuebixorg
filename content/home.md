@@ -13,9 +13,9 @@ unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 # Tübix 2026
 
 **Der Tübix 2026 findet am [04. Juli](T%C3%BCbix2026.ics) statt auf [dem
-Sand](./anfahrt.html) statt.**
+Sand](/anfahrt/) statt.**
 - Das **[Programm](https://cfp.tuebix.org/tuebix-2026/schedule/)** ist online, es können sich noch kurzfristige Änderungen ergeben.
-- Im **[Call for Papers](callforpapers/)** könnt ihr bis zum Tübix noch Lightning Talks einreichen.
+- Im **[Call for Papers](/callforpapers/)** könnt ihr bis zum Tübix noch Lightning Talks einreichen.
 - Die
 **[Anmeldung für das Kinder-/Jugendprogramm](https://teckids.org/blog/2026/01/froglabs-tuebix-glt/)**
 ist offen.
