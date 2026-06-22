@@ -15,7 +15,9 @@ menu:
 
 ### Freitag Abend: Auftakt
 
-Details folgen.
+Auftakt am Abend davor ab 18:00 Uhr auf der legendären Sand-Terrasse [(Anfahrt)](/anfahrt/). 
+Diesmal keine Anmeldung nötig. Während wir teilweise noch mit Aufbau beschäftigt sein werden, 
+dürft ihr Pizza + Kaltgetränke auf Spendenbasis genießen. Über helfende Hände freuen wir uns auch.
 
 ### Samstag Abend: Ausklang
 
@@ -26,9 +28,13 @@ gemeinsam den Tübinger Linuxtag ausklingen lassen wollen.
 
 ### Mittagessen und Grill
 
-Details folgen.
+Wir kochen dieses Jahr wieder. Dafür suchen wir noch Helfer:innen, die uns gegen 9:00 Uhr bis ca. 12 Uhr in Pfrondorf behilflich sind!
+
+Ab ca. 11:00 Uhr wird gegrillt (solange Helfer:innen vorhanden)
+
+Je nach Helfer:innen werden den ganzen Tag (ab 09:00) über Getränke verkauft
 
 ### Getränke
 
-Sofern genügend Helfer vorhanden sind werden den ganzen Tag über Getränke
-verkauft (ca. 9:00 bis 21:00 Uhr).
+Sofern genügend Helfer:innen vorhanden sind werden den ganzen Tag über Getränke
+verkauft (ab ca. 9:00 Uhr).
