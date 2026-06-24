@@ -14,7 +14,7 @@ menu:
 #### Abstract
 
 Was macht ein Linux-System eigentlich im Alltag?  
-Dieser informelle Vortrag nähert sich der Frage im Hinblick auf eine wichtige Abstraktionsebene: der Schnittstelle zwischen Anwendersoftware und Kernel -- die Systemaufraufe (Syscalls).
+Dieser informelle Vortrag nähert sich der Frage im Hinblick auf eine wichtige Abstraktionsebene: der Schnittstelle zwischen Anwendersoftware und Kernel -- die Systemaufrufe (Syscalls).
 
 Nach einer kurzen Übersicht wie Syscalls unter Linux auf x86-64 definiert sind und aufgerufen werden, nähern wir uns einer Antwort aus zwei Perspektiven:
 

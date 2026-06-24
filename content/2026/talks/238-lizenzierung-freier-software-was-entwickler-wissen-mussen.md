@@ -7,7 +7,7 @@ menu:
 ---
 ## Lizenzierung freier Software: Was Entwickler wissen müssen
 
-### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 17:50 in Raum V1 (F119)
+### <img height = "32" src="../../../images/talk.svg"> 17:30 bis 17:50 in Raum V2 (F122)
 
 ### Florian Snow
 

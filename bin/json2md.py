@@ -108,7 +108,7 @@ for talk in data:
                 mdf.write('lightning.svg')
                 cssclass = "light"
             else:
-                if talk["urlid"] in [ "tuebix-exit", "tuebix-init" ]:
+                if any(s in talk["urlid"] for s in [ "tuebix-exit", "tuebix-init", "tubix-init", "tubix-exit" ]):
                     mdf.write('talk2.svg')
                     cssclass = "talk2"
                 else:

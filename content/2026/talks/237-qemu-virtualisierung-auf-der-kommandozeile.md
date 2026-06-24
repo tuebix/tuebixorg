@@ -7,7 +7,7 @@ menu:
 ---
 ## QEMU - Virtualisierung auf der Kommandozeile
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:50 in Raum V4 (C118a)
+### <img height = "32" src="../../../images/talk.svg"> 15:30 bis 16:20 in Raum V1 (F119)
 
 ### Thomas Huth
 

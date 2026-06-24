@@ -7,7 +7,7 @@ menu:
 ---
 ## Dein SoC hat einen Glitch-Detektor? Halt mal kurz mein Bier...
 
-### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 16:50 in Raum V2 (F122)
+### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 16:50 in Raum V1 (F119)
 
 ### Dr. Matthias Kesenheimer
 

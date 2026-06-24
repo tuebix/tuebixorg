@@ -7,7 +7,7 @@ menu:
 ---
 ## digital souverän @home
 
-### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 17:20 in Raum V1 (F119)
+### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 17:20 in Raum V2 (F122)
 
 ### Stefan Obermeier
 

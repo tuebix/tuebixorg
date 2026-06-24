@@ -7,7 +7,7 @@ menu:
 ---
 ## Dinge mit Containern 2026 - HPC Security
 
-### <img height = "32" src="../../../images/talk.svg"> 15:30 bis 16:20 in Raum V1 (F119)
+### <img height = "32" src="../../../images/talk.svg"> 14:30 bis 15:20 in Raum V1 (F119)
 
 ### Holger Gantikow
 

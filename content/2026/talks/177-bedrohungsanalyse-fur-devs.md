@@ -13,11 +13,11 @@ menu:
 
 #### Abstract
 
-Mit dda-threats gibt es nun ein OpenSource Tool, das Bedrohungsanalyse im Dev Style erlaubt.
+Mit dda-tara gibt es nun ein OpenSource Tool, das Bedrohungsanalyse im Dev Style erlaubt.
 
 Nachdem Richtlinien wie der Cyber Resiliance Act langsam wirksam werden, ist die Bedrohungsanalyse bei vielen von uns schon angekommen. Wie Angreifer vorgehen ist uns leider oft genug noch völlig unklar, daher leiden Bedrohungsanalysen in der Praxis unter fehlendem Wissen und zu allem Überfluss oft auch unter sehr unhandlichem Tooling.
 
-Um den Leidensdruck an dieser Stelle zu senken, enthält dda-threats allgemeingültiges Angreifer-Wissen in Form von leicht vermittelbaren Angriffsbäumen, alle notwendigen Modellierungen liegen als yaml vor, daraus resultierende Reports werden per Kommandozeile generieren.
+Um den Leidensdruck an dieser Stelle zu senken, enthält dda-tara allgemeingültiges Angreifer-Wissen in Form von leicht vermittelbaren Angriffsbäumen, alle notwendigen Modellierungen liegen als yaml vor, daraus resultierende Reports werden per Kommandozeile generieren.
 
 Damit gelingt jeglichem Entwicklerteam der Schnellstart und eine leichte CI Integration. Kontinuierliche Bedrohungsanalysen könnten so schon fast Spass machen.
 
@@ -25,8 +25,8 @@ Der Vortrag zeigt die wesentlichen Elemente einer System-Modellierung, wie Angri
 
 #### Beschreibung
 
-* Library: https://repo.prod.meissa.de/meissa/dda-threats  
-* Beispiel-Anwendung: https://repo.prod.meissa.de/meissa/forgejo-threats
+* Library: https://repo.prod.meissa.de/meissa/dda-tara  
+* Beispiel-Anwendung: https://repo.prod.meissa.de/meissa/forgejo-tara
 
 ### Über mich
 

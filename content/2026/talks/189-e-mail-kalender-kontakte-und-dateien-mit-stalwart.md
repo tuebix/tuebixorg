@@ -7,7 +7,7 @@ menu:
 ---
 ## E-Mail, Kalender, Kontakte und Dateien mit Stalwart
 
-### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:50 in Raum V2 (F122)
+### <img height = "32" src="../../../images/talk.svg"> 16:30 bis 17:20 in Raum V4 (C118a)
 
 ### Andreas Grupp
 

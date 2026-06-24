@@ -7,7 +7,7 @@ menu:
 ---
 ## Digital souverän am Beispiel von eduMFA
 
-### <img height = "32" src="../../../images/talk.svg"> 14:30 bis 15:20 in Raum V1 (F119)
+### <img height = "32" src="../../../images/talk.svg"> 17:00 bis 17:50 in Raum V1 (F119)
 
 ### Peter Gietz
 

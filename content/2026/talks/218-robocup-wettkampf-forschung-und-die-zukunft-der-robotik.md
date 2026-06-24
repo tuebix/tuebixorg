@@ -7,7 +7,7 @@ menu:
 ---
 ## RoboCup: Wettkampf, Forschung und die Zukunft der Robotik
 
-### <img height = "32" src="../../../images/talk.svg"> 11:30 bis 11:50 in Raum V2 (F122)
+### <img height = "32" src="../../../images/talk.svg"> 12:30 bis 12:50 in Raum V2 (F122)
 
 ### WieErWill & Dennis Eisermann
 

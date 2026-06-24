@@ -13,7 +13,13 @@ menu:
 
 #### Abstract
 
-Vom theoretischen Konzept zur praktischen Umsetzung: Wir erwecken die Konzepte aus dem Vortrag zum Leben.
+Vom theoretischen Konzept zur praktischen Umsetzung: Wir erwecken die Konzepte aus dem Vortrag mit einem praxisorientierten Beispiel zum Leben.
+
+#### Beschreibung
+
+In diesem Workshop widmen wir uns der Verwendung von Gitlab-Pipelines und dem Einsatz in der Softwareentwicklung.  
+Dabei beginnen wir bei den Grundlagen und arbeiten uns Schritt für Schritt zu einer vollständigen CI/CD-Pipeline vor. Dabei gehen wir auf besondere Funktionen von Gitlab und seine Runner-Umgebung ein.  
+Am Ende des Workshops steht eine Multistage-Pipeline, mit parallelisiertem Multiversion-Testing und uild - bereit für das zukünftige Deployments.
 
 ### Über uns
 
