@@ -25,9 +25,9 @@ Am Ende des Workshops steht eine Multistage-Pipeline, mit parallelisiertem Multi
 
 #### Iryna Kosiakovska
 
-Ich arbeite als Junior Web-Entwicklerin und beschäftige mich mit der Automatisierung von Themen im Bereich der Softwareenwicklung. Daneben beigeister mich die Enwicklung von Spring Boot- und node.js-Applikationen.
+Ich arbeite als Junior Web-Entwicklerin bei Puzzle ITC  und beschäftige mich mit Themen im Bereich der Softwareentwicklung und der Automatisierung. Daneben begeistert mich die Entwicklung von Spring Boot- und node.js-Applikationen.
 
 #### Sebastian Preisner
 
-Technik, Automatisierung und Open Source sind nicht nur Beruf, sondern auch Leidenschaft. Ob Hausautomation, 3D-Druck oder der tägliche Einsatz von Tools wie Ansible und Docker – das Ausprobieren neuer Technologien gehört genauso zum Alltag wie das Entwickeln kreativer Lösungen. Besonders die Automatisierung begeistert, weil sie ermöglicht, lästige Routineaufgaben effizient auszulagern und so mehr Raum für die wirklich spannenden Herausforderungen zu schaffen. Mit dieser Begeisterung und fundierter Praxiserfahrung werden seit Jahren komplexe IT-Umgebungen gestaltet und optimiert.
+Technik, Automatisierung und Open Source sind Beruf und Leidenschaft zugleich. In meiner Tätigkeit bei Puzzle ITC setze ich diese Begeisterung und fundierte Praxiserfahrung ein, um komplexe IT-Umgebungen zu gestalten und zu optimieren. Der tägliche Einsatz von Automatisierungstechnologien wie Ansible, Docker, KI, Terraform und Gitlab ermöglicht es, Routineaufgaben effizient auszulagern und den Fokus auf anspruchsvolle, kreative Lösungen zu richten. Dieser Hands-on-Ansatz und die kontinuierliche Erprobung neuer Technologien prägen auch den Alltag abseits des Berufs – sei es bei der Hausautomation oder beim 3D-Druck.
 

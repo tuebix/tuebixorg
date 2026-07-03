@@ -7,7 +7,7 @@ menu:
 ---
 ## Widerstand gegen geplante Obsoleszenz – Wie wir uns das Recht auf Reparatur zurückholen
 
-### <img height = "32" src="../../../images/talk.svg"> 12:00 bis 12:50 in Raum W1 (C111)
+### <img height = "32" src="../../../images/talk.svg"> 14:30 bis 15:20 in Raum V2 (F122)
 
 ### Leonardo Weigele
 

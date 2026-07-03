@@ -21,5 +21,5 @@ Handarbeit in der Softwareentwicklung ist oft ein Synonym für Risiko. Lokales T
 
 ### Über mich
 
-Ich arbeite als Junior Web-Entwicklerin und beschäftige mich mit der Automatisierung von Themen im Bereich der Softwareenwicklung. Daneben beigeister mich die Enwicklung von Spring Boot- und node.js-Applikationen.
+Ich arbeite als Junior Web-Entwicklerin bei Puzzle ITC  und beschäftige mich mit Themen im Bereich der Softwareentwicklung und der Automatisierung. Daneben begeistert mich die Entwicklung von Spring Boot- und node.js-Applikationen.
 

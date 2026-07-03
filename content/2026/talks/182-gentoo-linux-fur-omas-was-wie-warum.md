@@ -7,7 +7,7 @@ menu:
 ---
 ## Gentoo Linux für omas, was, wie, warum?
 
-### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:50 in Raum V2 (F122)
+### <img height = "32" src="../../../images/talk.svg"> 11:30 bis 12:20 in Raum V2 (F122)
 
 ### Oz Tiram
 

@@ -7,7 +7,7 @@ menu:
 ---
 ## Pimp my Page: Frische Ideen für deine Webseite
 
-### <img height = "32" src="../../../images/talk.svg"> 16:00 bis 16:20 in Raum V4 (C118a)
+### <img height = "32" src="../../../images/talk.svg"> 14:00 bis 14:20 in Raum V2 (F122)
 
 ### WieErWill & Dennis Eisermann
 

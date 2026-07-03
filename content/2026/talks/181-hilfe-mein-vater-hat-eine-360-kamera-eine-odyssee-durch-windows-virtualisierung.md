@@ -17,5 +17,5 @@ Der Versuch, eine Leistungsfähige Windows-Virtualisierung mit GPU Passthrough u
 
 ### Über mich
 
-Hi! Ich bin Jeremia (Jerry) und bin Azubi bei der S+C AG Tübingen :)
+Azubi bei der **science+computing AG** in Tübingen.
 
