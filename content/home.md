@@ -5,22 +5,17 @@ url: /index.html
 
 Der Tübix ist ein
 <a href="https://de.wikipedia.org/wiki/Linuxtag" target="_blank">Linuxtag</a>
-und fand 2015-2019 sowie 2023-2025 jeweils gegen Juni/Juli in
+und fand 2015-2019 sowie 2023-2026 jeweils gegen Juni/Juli in
 <a href="https://de.wikipedia.org/wiki/T%C3%BCbingen" target="_blank">Tübingen</a>
 statt.<br/> Die Folien (pdf) und Tonspuren (ogg) der vergangenen Jahre sind
 unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 
 # Tübix 2026
 
-**Der Tübix 2026 findet am [04. Juli](T%C3%BCbix2026.ics) statt auf [dem
+**Der Tübix 2026 fand am [04. Juli](T%C3%BCbix2026.ics) auf [dem
 Sand](/anfahrt/) statt.**
 - **Feedback-Pad** für 2026: [https://pad.tuebix.org/QU2xBFX_QHOocOtFhkAOfA?edit](https://pad.tuebix.org/QU2xBFX_QHOocOtFhkAOfA?edit)
 - Das **[Programm](https://cfp.tuebix.org/tuebix-2026/schedule/)** ist online, es können sich noch kurzfristige Änderungen ergeben.
-- Im **[Call for Papers](/callforpapers/)** könnt ihr bis zum Tübix noch Lightning Talks einreichen.
-- Die
-**[Anmeldung für das Kinder-/Jugendprogramm](https://teckids.org/blog/2026/01/froglabs-tuebix-glt/)**
-ist offen.
-- Der **[Call for Helpers](/callforhelpers/)** ist offen.
 
 Zur Kommunikation gibt es einen Matrix Space:
 [#tuebix-space:matrix.org](https://matrix.to/#/#tuebix-space:matrix.org)
