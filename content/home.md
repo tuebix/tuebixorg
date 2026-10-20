@@ -14,8 +14,6 @@ unter <a href="downloads/">Downloads/Archiv</a> zu finden.
 
 **Der Tübix 2026 fand am [04. Juli](T%C3%BCbix2026.ics) auf [dem
 Sand](/anfahrt/) statt.**
-- **Feedback-Pad** für 2026: [https://pad.tuebix.org/QU2xBFX_QHOocOtFhkAOfA?edit](https://pad.tuebix.org/QU2xBFX_QHOocOtFhkAOfA?edit)
-- Das **[Programm](https://cfp.tuebix.org/tuebix-2026/schedule/)** ist online, es können sich noch kurzfristige Änderungen ergeben.
 
 Zur Kommunikation gibt es einen Matrix Space:
 [#tuebix-space:matrix.org](https://matrix.to/#/#tuebix-space:matrix.org)
